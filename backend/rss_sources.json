@@ -4,121 +4,141 @@
       "title": "The Times of India",
       "url": "https://timesofindia.indiatimes.com/rssfeeds/1221656.cms",
       "country": "IN",
-      "language": "en"
+      "language": "en",
+      "enabled": true
     },
     {
       "title": "NDTV",
       "url": "https://www.ndtv.com/rss",
       "country": "IN",
-      "language": "en"
+      "language": "en",
+      "enabled": false
     },
     {
       "title": "India Today",
       "url": "https://www.indiatoday.in/rssfeed/1229190",
       "country": "IN",
-      "language": "en"
+      "language": "en",
+      "enabled": false
     },
     {
       "title": "The Hindu",
       "url": "https://www.thehindu.com/news/rssfeed/",
       "country": "IN",
-      "language": "en"
+      "language": "en",
+      "enabled": false
     },
     {
       "title": "Hindustan Times",
       "url": "https://www.hindustantimes.com/rss/",
       "country": "IN",
-      "language": "en"
+      "language": "en",
+      "enabled": false
     },
     {
       "title": "Economic Times",
       "url": "https://economictimes.indiatimes.com/rssfeedsdefault.cms",
       "country": "IN",
-      "language": "en"
+      "language": "en",
+      "enabled": false
     },
     {
       "title": "Firstpost",
       "url": "https://www.firstpost.com/rss",
       "country": "IN",
-      "language": "en"
+      "language": "en",
+      "enabled": false
     },
     {
       "title": "Scroll.in",
       "url": "https://scroll.in/rss",
       "country": "IN",
-      "language": "en"
+      "language": "en",
+      "enabled": false
     },
     {
       "title": "News18",
       "url": "https://www.news18.com/rss/",
       "country": "IN",
-      "language": "en"
+      "language": "en",
+      "enabled": false
     },
     {
       "title": "The Wire",
       "url": "https://thewire.in/feed",
       "country": "IN",
-      "language": "en"
+      "language": "en",
+      "enabled": false
     },
     {
       "title": "Aaj Tak",
       "url": "https://www.aajtak.in/rss",
       "country": "IN",
-      "language": "hi"
+      "language": "hi",
+      "enabled": true
     },
     {
       "title": "Navbharat Times",
       "url": "https://navbharattimes.indiatimes.com/rssfeeds/1221656.cms",
       "country": "IN",
-      "language": "hi"
+      "language": "hi",
+      "enabled": false
     },
     {
       "title": "Dainik Jagran",
       "url": "https://www.jagran.com/rss",
       "country": "IN",
-      "language": "hi"
+      "language": "hi",
+      "enabled": false
     },
     {
       "title": "ABP News",
       "url": "https://news.abplive.com/rss",
       "country": "IN",
-      "language": "hi"
+      "language": "hi",
+      "enabled": false
     },
     {
       "title": "Prabhat Khabar",
       "url": "https://www.prabhatkhabar.com/rss",
       "country": "IN",
-      "language": "hi"
+      "language": "hi",
+      "enabled": false
     },
     {
       "title": "Patrika",
       "url": "https://www.patrika.com/rss/",
       "country": "IN",
-      "language": "hi"
+      "language": "hi",
+      "enabled": false
     },
     {
       "title": "Khabar India",
       "url": "https://www.khabarindia.in/rss",
       "country": "IN",
-      "language": "hi"
+      "language": "hi",
+      "enabled": false
     },
     {
       "title": "Zee News Hindi",
       "url": "https://zeenews.india.com/hindi/feeds",
       "country": "IN",
-      "language": "hi"
+      "language": "hi",
+      "enabled": false
     },
     {
       "title": "Rajasthan Patrika",
       "url": "https://www.rajasthantoday.in/rss",
       "country": "IN",
-      "language": "hi"
+      "language": "hi",
+      "enabled": false
     },
     {
       "title": "IANS Hindi",
       "url": "https://hindi.ians.in/rss",
       "country": "IN",
-      "language": "hi"
+      "language": "hi",
+      "enabled": false
     }
   ]
 }
