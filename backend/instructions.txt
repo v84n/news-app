@@ -1,0 +1,83 @@
+https://newsdata.io/api/1/news?apikey=pub_6288297c1f10537fb134848f54aece832859b&country=in&language=en,hi 
+
+https://newsdata.io/api/1/latest?apikey=pub_6288297c1f10537fb134848f54aece832859b&country=in,us&language=en,hi 
+
+https://newsdata.io/api/1/latest?apikey=pub_6288297c1f10537fb134848f54aece832859b&country=in,us&language=en,hi&page={nextPage}
+
+
+Write a simple backend code no node js. Objective of the code is to fetch news articles from https://newsdata.io, with initial API url as "https://newsdata.io/api/1/latest?apikey=pub_6288297c1f10537fb134848f54aece832859b&country=in,us&language=en,hi". Response is expected in following json format.
+"""
+{
+    "status": "success",
+    "totalResults": 39224,
+    "results": [
+        {
+            "article_id": "9b85e82db06a6942b88f999e919792c9",
+            "title": "Tamil Nadu BJP leader Annamalai whips himself in protest against Anna University sexual assault - The Hindu",
+            "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxORjg5Vm04clVZNVl6LVV3M19mY29BZ0I4ak42RjhuQlR0NmtER0JWTFdkT2diYzZSWEFjM3BiUDBzaGdNXzJnclQwbkNpZjI4V1lQUEZJSkg0cmN6MlZxVGEyWXZNYUsxQ2VmQ2JoVjdEbGd0MnBvU1hNazFsMlNNVlNRd0VVQ1V3WWxROWVWdWloMmpLcHNfS25OU3VXY2lVbGJSSi1WV2hEY0VHdXZUNndrRkdnanpaVWtkZW1yX0l0WWczaEhKRG5YRll2czd1SUpzRlpocmhucDFyNWVjZjQ5RVJiWW9ZRHNKTDR30gH0AUFVX3lxTE1nU3NsTkllWTdmNmx6Z2gtWUxPTndaRFBHOTZuakpxYkhhdmJFQ1k5alNHOVZlbGJmTTlKSkJ5U1RpN08yVGFPMUZDVlF4TGxZdEN1ZTZRUUhQWUFTRUVtMTVWRmladmFsUGRiZlR5VllsNmVIOW5RUm5aR3VkYlpwVW1rQjlFdnNsTExxVjF4eGxBa2xIRTB3cWtRLXFFOXlTMmtXRlFLYWhGU041YllsM3lxdGFGNk9ucTNxa211RURxeW5sNUZzQm5vc3k5Nmk0YzZtVWhWRkJsOVd5ZENtVTRfSTlfVE91aE9heG11SEliaHA?oc=5",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "Tamil Nadu BJP leader Annamalai whips himself in protest against Anna University sexual assault The HinduVideo: BJP's Tamil Nadu Chief, K Annamalai, Whips Himself 6 Times NDTVMadras High Court Takes Suo Motu Cognizance Of Alleged Sexual Assault Of Student At Anna University Live Law - Indian Legal NewsSelf-flagellation puts Tamil Nadu BJP chief Annamalai back where he wants: in the limelight The Indian ExpressAnna University rape case: BJP’s Annamalai whips himself outside Coimbatore residence to protest against The Times of India",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2024-12-27 11:23:00",
+            "pubDateTZ": "UTC",
+            "image_url": null,
+            "source_id": "google",
+            "source_priority": 14,
+            "source_name": "Google News",
+            "source_url": "https://news.google.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/google.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "2f625f9ae53867ca1998f493979ae71b",
+            "title": "अच्छी नहीं हो रही है पैदावार, तो इन तरीकों से करें कृषि रसायनों का इस्तेमाल",
+            "link": "https://hindi.news18.com/news/bihar/darbhanga-use-agricultural-chemicals-wisely-take-care-of-both-the-crop-and-the-environment-local18-8922755.html",
+            "keywords": [
+                "बिहार"
+            ],
+            "creator": [
+                "News18 Hindi"
+            ],
+            "video_url": null,
+            "description": "प्रोफेसर (डॉ ) एसके सिंह विभागाध्यक्ष,पोस्ट ग्रेजुएट डिपार्टमेंट ऑफ प्लांट पैथोलॉजी एवं नेमेटोलॉजी, बताते हैं कि कृषि रसायनों का सही घोल बनाना फसल की सुरक्षा और पर्यावरण संतुलन के लिए अत्यंत महत्वपूर्ण है . इसके लिए कई चरण हैं जिसका पालन किया जा सकता है 1. निर्देश पढ़ें: कृषि रसायन की बोतल या पैक पर दिए गए निर्देशों को ध्यानपूर्वक पढ़ें. अनुशं",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2024-12-27 11:22:57",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.news18.com/ibnkhabar/uploads/2024/12/HYP_4876017_cropped_25122024_210940_fb_img_1735018855379_water_2-3x2.jpg",
+            "source_id": "hindinews18",
+            "source_priority": 4077,
+            "source_name": "News 18 Hindi",
+            "source_url": "https://hindi.news18.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/hindinews18.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        }
+    ],
+    "nextPage": "1735298533395426020"
+}
+"""
