@@ -1,6 +1,660 @@
 {
     "articles": [
         {
+            "article_id": "caefc3f780f449a506ce80cb3b0a218c",
+            "title": "Judge rules Georgia Senate committee can subpoena Fani Willis over Trump case",
+            "link": "https://www.newspressnow.com/tn_exchange/judge-rules-georgia-senate-committee-can-subpoena-fani-willis-over-trump-case/article_d4d0a6f3-2b1b-5400-b28e-b3baaaefdff9.html",
+            "keywords": null,
+            "creator": [
+                "By Kim Jarrett | The Center Square"
+            ],
+            "video_url": null,
+            "description": "(The Center Square) – Fulton County Superior Court Judge Shukura Ingram gave District Attorney Fani Willis until Jan. 13 to respond to an order that requires her to honor a subpoena from a Georgia Senate committee.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2024-12-27 20:10:00",
+            "pubDateTZ": "UTC",
+            "image_url": null,
+            "source_id": "newspressnow",
+            "source_priority": 25747,
+            "source_name": "Newspressnow",
+            "source_url": "https://www.newspressnow.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/newspressnow.jpg",
+            "language": "english",
+            "country": [
+                "united states of america"
+            ],
+            "category": [
+                "entertainment"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": true
+        },
+        {
+            "article_id": "4bbd5f1c6c9ef3a0d26d7b1762b01add",
+            "title": "Judge rules Georgia Senate committee can subpoena Fani Willis over Trump case",
+            "link": "https://www.news-daily.com/plus/judge-rules-georgia-senate-committee-can-subpoena-fani-willis-over-trump-case/article_7aa426a2-968b-5df3-a6b8-303174f816e7.html",
+            "keywords": null,
+            "creator": [
+                "By Kim Jarrett | The Center Square"
+            ],
+            "video_url": null,
+            "description": "(The Center Square) – Fulton County Superior Court Judge Shukura Ingram gave District Attorney Fani Willis until Jan. 13 to respond to an order that requires her to honor a subpoena from a Georgia Senate committee.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2024-12-27 20:10:00",
+            "pubDateTZ": "UTC",
+            "image_url": null,
+            "source_id": "news_daily",
+            "source_priority": 94187,
+            "source_name": "News-daily",
+            "source_url": "https://www.news-daily.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/news_daily.png",
+            "language": "english",
+            "country": [
+                "united states of america"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": true
+        },
+        {
+            "article_id": "da2a944f8e3fbf84f9dc0969fb792701",
+            "title": "Judge rules Georgia Senate committee can subpoena Fani Willis over Trump case",
+            "link": "https://www.messenger-inquirer.com/news/national/judge-rules-georgia-senate-committee-can-subpoena-fani-willis-over-trump-case/article_c68cdcf8-9fd4-565e-bee4-8277305d7043.html",
+            "keywords": null,
+            "creator": [
+                "By Kim Jarrett | The Center Square"
+            ],
+            "video_url": null,
+            "description": "(The Center Square) – Fulton County Superior Court Judge Shukura Ingram gave District Attorney Fani Willis until Jan. 13 to respond to an order that requires her to honor a subpoena from a Georgia Senate committee.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2024-12-27 20:10:00",
+            "pubDateTZ": "UTC",
+            "image_url": null,
+            "source_id": "messenger_inquirer",
+            "source_priority": 29720,
+            "source_name": "Owensboro Messenger And Inquirer",
+            "source_url": "https://www.messenger-inquirer.com",
+            "source_icon": null,
+            "language": "english",
+            "country": [
+                "united states of america"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": true
+        },
+        {
+            "article_id": "0d05acb6e9c6a4e0d3d4daf73239f447",
+            "title": "Judge rules Georgia Senate committee can subpoena Fani Willis over Trump case",
+            "link": "https://www.dailygazette.com/news/national/judge-rules-georgia-senate-committee-can-subpoena-fani-willis-over-trump-case/article_29d5e433-c1af-5ba4-b482-16cc995524b7.html",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "(The Center Square) – Fulton County Superior Court Judge Shukura Ingram gave District Attorney Fani Willis until Jan. 13 to respond to an order that requires her to honor a subpoena from a Georgia Senate committee.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2024-12-27 20:10:00",
+            "pubDateTZ": "UTC",
+            "image_url": null,
+            "source_id": "dailygazette",
+            "source_priority": 12631,
+            "source_name": "Dailygazette.com",
+            "source_url": "https://www.dailygazette.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/dailygazette.jpg",
+            "language": "english",
+            "country": [
+                "united states of america"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "b2ff8edfd8bc8ff613d46c00f5fda920",
+            "title": "Judge rules Georgia Senate committee can subpoena Fani Willis over Trump case",
+            "link": "https://www.hometownregister.com/news/national/judge-rules-georgia-senate-committee-can-subpoena-fani-willis-over-trump-case/article_a8dfbcfd-786e-5284-9ebe-8ba4f4fc09bc.html",
+            "keywords": null,
+            "creator": [
+                "By Kim Jarrett | The Center Square"
+            ],
+            "video_url": null,
+            "description": "(The Center Square) – Fulton County Superior Court Judge Shukura Ingram gave District Attorney Fani Willis until Jan. 13 to respond to an order that requires her to honor a subpoena from a Georgia Senate committee.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2024-12-27 20:10:00",
+            "pubDateTZ": "UTC",
+            "image_url": null,
+            "source_id": "hometownregister",
+            "source_priority": 535129,
+            "source_name": "Home Town Register",
+            "source_url": "https://www.hometownregister.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/hometownregister.png",
+            "language": "english",
+            "country": [
+                "united states of america"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": true
+        },
+        {
+            "article_id": "b9d7a1c29c035b09c8616b064e7e175d",
+            "title": "Judge rules Georgia Senate committee can subpoena Fani Willis over Trump case",
+            "link": "https://www.suncommercial.com/news/national/article_daf8b214-0cbd-5ad5-b51b-0a8741360964.html",
+            "keywords": null,
+            "creator": [
+                "By Kim Jarrett | The Center Square"
+            ],
+            "video_url": null,
+            "description": "(The Center Square) – Fulton County Superior Court Judge Shukura Ingram gave District Attorney Fani Willis until Jan. 13 to respond to an order that requires her to honor a subpoena from a Georgia Senate committee.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2024-12-27 20:10:00",
+            "pubDateTZ": "UTC",
+            "image_url": null,
+            "source_id": "suncommercial",
+            "source_priority": 90180,
+            "source_name": "Vincennes Sun-commercial",
+            "source_url": "https://www.suncommercial.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/suncommercial.jpg",
+            "language": "english",
+            "country": [
+                "united states of america"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": true
+        },
+        {
+            "article_id": "fe9cc90162ca79182bc6a8da999c628f",
+            "title": "Judge rules Georgia Senate committee can subpoena Fani Willis over Trump case",
+            "link": "https://www.romesentinel.com/ce/news/judge-rules-georgia-senate-committee-can-subpoena-fani-willis-over-trump-case/article_83c5daa7-e372-58ce-997c-49c319e72cc3.html",
+            "keywords": null,
+            "creator": [
+                "By Kim Jarrett | The Center Square"
+            ],
+            "video_url": null,
+            "description": "(The Center Square) – Fulton County Superior Court Judge Shukura Ingram gave District Attorney Fani Willis until Jan. 13 to respond to an order that requires her to honor a subpoena from a Georgia Senate committee.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2024-12-27 20:10:00",
+            "pubDateTZ": "UTC",
+            "image_url": null,
+            "source_id": "romesentinel",
+            "source_priority": 38985,
+            "source_name": "Romesentinel",
+            "source_url": "https://www.romesentinel.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/romesentinel.jpg",
+            "language": "english",
+            "country": [
+                "united states of america"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": true
+        },
+        {
+            "article_id": "34202c207e9f0a991ec25620ce15280f",
+            "title": "Judge rules Georgia Senate committee can subpoena Fani Willis over Trump case",
+            "link": "https://www.hendersondispatch.com/news/national/judge-rules-georgia-senate-committee-can-subpoena-fani-willis-over-trump-case/article_43bb7bb5-a07a-5cf6-a3e3-6598b7c258a6.html",
+            "keywords": null,
+            "creator": [
+                "By Kim Jarrett | The Center Square"
+            ],
+            "video_url": null,
+            "description": "(The Center Square) – Fulton County Superior Court Judge Shukura Ingram gave District Attorney Fani Willis until Jan. 13 to respond to an order that requires her to honor a subpoena from a Georgia Senate committee.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2024-12-27 20:10:00",
+            "pubDateTZ": "UTC",
+            "image_url": null,
+            "source_id": "hendersondispatch",
+            "source_priority": 291879,
+            "source_name": "Hendersondispatch",
+            "source_url": "https://www.hendersondispatch.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/hendersondispatch.jpg",
+            "language": "english",
+            "country": [
+                "united states of america"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": true
+        },
+        {
+            "article_id": "a9ec6758dae03a3e6ca801b458648cfa",
+            "title": "Flyers’ Rebuild Progression Depends on Aleksei Kolosov",
+            "link": "https://www.yardbarker.com/nhl/articles/flyers_rebuild_progression_depends_on_aleksei_kolosov/s1_16448_41475725",
+            "keywords": [
+                "nhl",
+                "aleksei kolosov",
+                "philadelphia flyers"
+            ],
+            "creator": [
+                "Justin Giampietro, The Hockey Writers"
+            ],
+            "video_url": null,
+            "description": "The Philadelphia Flyers are in a liminal space of sorts. They may have the best goaltending prospect in the world along with a couple of other young options who have NHL starter potential.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2024-12-27 20:10:00",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.yardbarker.com/media/2/c/2caeb9006a79192dbb87467fca3a4f715ed3cb17/thumb_16x9/Aleksei-Kolosov-Flyers-1200x900.jpg",
+            "source_id": "yardbarker",
+            "source_priority": 1076,
+            "source_name": "Yardbarker",
+            "source_url": "https://www.yardbarker.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/yardbarker.png",
+            "language": "english",
+            "country": [
+                "united states of america"
+            ],
+            "category": [
+                "sports"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "479e65c83e4abccfb41f9186a68e4d04",
+            "title": "Judge rules Georgia Senate committee can subpoena Fani Willis over Trump case",
+            "link": "https://www.indianagazette.com/news/national/judge-rules-georgia-senate-committee-can-subpoena-fani-willis-over-trump-case/article_c601e7ce-c9bb-53da-b49b-4117df0a6add.html",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "(The Center Square) – Fulton County Superior Court Judge Shukura Ingram gave District Attorney Fani Willis until Jan. 13 to respond to an order that requires her to honor a subpoena from a Georgia Senate committee.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2024-12-27 20:10:00",
+            "pubDateTZ": "UTC",
+            "image_url": null,
+            "source_id": "indianagazette",
+            "source_priority": 40104,
+            "source_name": "Indianagazette",
+            "source_url": "https://www.indianagazette.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/indianagazette.png",
+            "language": "english",
+            "country": [
+                "united states of america"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": true
+        },
+        {
+            "article_id": "4693894b299ea72c8f99495030f908e4",
+            "title": "Constance Kay Bloom",
+            "link": "https://www.mississippivalleypublishing.com/the_hawk_eye/constance-kay-bloom/article_7f077a5c-c3c5-11ef-a4af-af18bf36f25d.html",
+            "keywords": null,
+            "creator": [
+                "jnickell@thehawkeye.com (jnickell)"
+            ],
+            "video_url": null,
+            "description": "Constance “Connie” Kay Bloom, 64, of Middletown died Wednesday, Dec. 25, 2024, at her home.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2024-12-27 20:10:00",
+            "pubDateTZ": "UTC",
+            "image_url": "https://bloximages.chicago2.vip.townnews.com/mississippivalleypublishing.com/content/tncms/assets/v3/editorial/c/d3/cd31f2ac-c3c5-11ef-b5e3-13ce0ecc8896/676db9258eda2.image.jpg",
+            "source_id": "mississippivalley",
+            "source_priority": 33358,
+            "source_name": "Mississippivalleypublishing",
+            "source_url": "https://www.mississippivalleypublishing.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/mississippivalley.jpg",
+            "language": "english",
+            "country": [
+                "united states of america"
+            ],
+            "category": [
+                "other"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "cb598f52491e3c58674d1a4409436c0e",
+            "title": "Judge rules Georgia Senate committee can subpoena Fani Willis over Trump case",
+            "link": "https://www.manchestertimes.com/news/national/judge-rules-georgia-senate-committee-can-subpoena-fani-willis-over-trump-case/article_b38b2e97-0c92-587f-be7a-718d8bd60c94.html",
+            "keywords": null,
+            "creator": [
+                "By Kim Jarrett | The Center Square"
+            ],
+            "video_url": null,
+            "description": "(The Center Square) – Fulton County Superior Court Judge Shukura Ingram gave District Attorney Fani Willis until Jan. 13 to respond to an order that requires her to honor a subpoena from a Georgia Senate committee.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2024-12-27 20:10:00",
+            "pubDateTZ": "UTC",
+            "image_url": null,
+            "source_id": "manchestertimes",
+            "source_priority": 305537,
+            "source_name": "Manchestertimes",
+            "source_url": "https://www.manchestertimes.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/manchestertimes.png",
+            "language": "english",
+            "country": [
+                "united states of america"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": true
+        },
+        {
+            "article_id": "968835bedbba71fbef17cc1cbce60f3b",
+            "title": "Judge rules Georgia Senate committee can subpoena Fani Willis over Trump case",
+            "link": "https://carrollspaper.com/news/national/judge-rules-georgia-senate-committee-can-subpoena-fani-willis-over-trump-case/article_ed5b890c-2c2d-5e63-9139-c5901cb3ea32.html",
+            "keywords": null,
+            "creator": [
+                "By Kim Jarrett | The Center Square"
+            ],
+            "video_url": null,
+            "description": "(The Center Square) – Fulton County Superior Court Judge Shukura Ingram gave District Attorney Fani Willis until Jan. 13 to respond to an order that requires her to honor a subpoena from a Georgia Senate committee.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2024-12-27 20:10:00",
+            "pubDateTZ": "UTC",
+            "image_url": null,
+            "source_id": "carrollspaper",
+            "source_priority": 177606,
+            "source_name": "Carrollspaper",
+            "source_url": "https://carrollspaper.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/carrollspaper.jpg",
+            "language": "english",
+            "country": [
+                "united states of america"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": true
+        },
+        {
+            "article_id": "73e6217e96dae6cc27bba97a154f2256",
+            "title": "Judge rules Georgia Senate committee can subpoena Fani Willis over Trump case",
+            "link": "https://www.yoursun.com/news/judge-rules-georgia-senate-committee-can-subpoena-fani-willis-over-trump-case/article_fa5964cf-88e6-520d-8c5a-b79250fc3995.html",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "(The Center Square) – Fulton County Superior Court Judge Shukura Ingram gave District Attorney Fani Willis until Jan. 13 to respond to an order that requires her to honor a subpoena from a Georgia Senate committee.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2024-12-27 20:10:00",
+            "pubDateTZ": "UTC",
+            "image_url": null,
+            "source_id": "yoursun",
+            "source_priority": 43836,
+            "source_name": "Yoursun.com",
+            "source_url": "https://www.yoursun.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/yoursun.jpg",
+            "language": "english",
+            "country": [
+                "united states of america"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": true
+        },
+        {
+            "article_id": "16a861129d441a4d140826dbc033807f",
+            "title": "Judge rules Georgia Senate committee can subpoena Fani Willis over Trump case",
+            "link": "https://www.djournal.com/news/national/judge-rules-georgia-senate-committee-can-subpoena-fani-willis-over-trump-case/article_d20d88f8-51cb-5649-96f5-ee0b9561b6f5.html",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "(The Center Square) – Fulton County Superior Court Judge Shukura Ingram gave District Attorney Fani Willis until Jan. 13 to respond to an order that requires her to honor a subpoena from a Georgia Senate committee.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2024-12-27 20:10:00",
+            "pubDateTZ": "UTC",
+            "image_url": null,
+            "source_id": "djournal",
+            "source_priority": 56251,
+            "source_name": "Daily Journal",
+            "source_url": "https://www.djournal.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/djournal.jpg",
+            "language": "english",
+            "country": [
+                "united states of america"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": true
+        },
+        {
+            "article_id": "022030e8996af6de38d9f64a994f196d",
+            "title": "Judge rules Georgia Senate committee can subpoena Fani Willis over Trump case",
+            "link": "https://www.elkharttruth.com/news/national/judge-rules-georgia-senate-committee-can-subpoena-fani-willis-over-trump-case/article_fa91d3ed-e02d-5fb7-9357-ce670c7a7a01.html",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "(The Center Square) – Fulton County Superior Court Judge Shukura Ingram gave District Attorney Fani Willis until Jan. 13 to respond to an order that requires her to honor a subpoena from a Georgia Senate committee.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2024-12-27 20:10:00",
+            "pubDateTZ": "UTC",
+            "image_url": null,
+            "source_id": "elkharttruth",
+            "source_priority": 80118,
+            "source_name": "Elkharttruth.com",
+            "source_url": "https://www.elkharttruth.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/elkharttruth.png",
+            "language": "english",
+            "country": [
+                "united states of america"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": true
+        },
+        {
+            "article_id": "d17be0ee9848f3fa81ebdf3a84e53ec9",
+            "title": "Judge rules Georgia Senate committee can subpoena Fani Willis over Trump case",
+            "link": "https://www.griffindailynews.com/news/state/judge-rules-georgia-senate-committee-can-subpoena-fani-willis-over-trump-case/article_3683c827-805a-55d2-bb04-6aaed6be68b4.html",
+            "keywords": null,
+            "creator": [
+                "By Kim Jarrett | The Center Square"
+            ],
+            "video_url": null,
+            "description": "(The Center Square) – Fulton County Superior Court Judge Shukura Ingram gave District Attorney Fani Willis until Jan. 13 to respond to an order that requires her to honor a subpoena from a Georgia Senate committee.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2024-12-27 20:10:00",
+            "pubDateTZ": "UTC",
+            "image_url": null,
+            "source_id": "griffindailynews",
+            "source_priority": 793147,
+            "source_name": "Griffindailynews",
+            "source_url": "https://www.griffindailynews.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/griffindailynews.jpg",
+            "language": "english",
+            "country": [
+                "united states of america"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": true
+        },
+        {
+            "article_id": "9f02f1f7ba840fb843fab15068254dd1",
+            "title": "Explorit: Thanks to our 2024 volunteers",
+            "link": "https://www.davisenterprise.com/features/explorit-thanks-to-our-2024-volunteers/article_9b967ce4-c48e-11ef-a06e-b3364184ab52.html",
+            "keywords": null,
+            "creator": [
+                "By Sara Thompson, Special to the Enterprise"
+            ],
+            "video_url": null,
+            "description": "Explorit has had another successful year of brining science to our community.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2024-12-27 20:10:00",
+            "pubDateTZ": "UTC",
+            "image_url": "https://bloximages.chicago2.vip.townnews.com/davisenterprise.com/content/tncms/assets/v3/editorial/0/8b/08b03734-c48f-11ef-97c7-abe2e0ff7642/676f0a9769dba.image.jpg?resize=300%2C225",
+            "source_id": "davisenterprise",
+            "source_priority": 98093,
+            "source_name": "Davis Enterprise",
+            "source_url": "https://www.davisenterprise.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/davisenterprise.png",
+            "language": "english",
+            "country": [
+                "united states of america"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "5c11e5d412270add3c6de35083c251b3",
+            "title": "Judge rules Georgia Senate committee can subpoena Fani Willis over Trump case",
+            "link": "https://www.wyomingnews.com/news/national/judge-rules-georgia-senate-committee-can-subpoena-fani-willis-over-trump-case/article_26da3f90-5541-5157-ae15-1c65407984c1.html",
+            "keywords": null,
+            "creator": [
+                "By Kim Jarrett | The Center Square"
+            ],
+            "video_url": null,
+            "description": "(The Center Square) – Fulton County Superior Court Judge Shukura Ingram gave District Attorney Fani Willis until Jan. 13 to respond to an order that requires her to honor a subpoena from a Georgia Senate committee.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2024-12-27 20:10:00",
+            "pubDateTZ": "UTC",
+            "image_url": null,
+            "source_id": "wyomingnews",
+            "source_priority": 41769,
+            "source_name": "Wyoming Tribune Eagle",
+            "source_url": "https://www.wyomingnews.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/wyomingnews.jpg",
+            "language": "english",
+            "country": [
+                "united states of america"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": true
+        },
+        {
+            "article_id": "efec84d50eca7947fc0ba96fbb27f080",
+            "title": "Judge rules Georgia Senate committee can subpoena Fani Willis over Trump case",
+            "link": "https://www.emporiagazette.com/news/national/article_a81b5ce7-047e-5f96-893e-bf02eb900d5d.html",
+            "keywords": null,
+            "creator": [
+                "By Kim Jarrett | The Center Square"
+            ],
+            "video_url": null,
+            "description": "(The Center Square) – Fulton County Superior Court Judge Shukura Ingram gave District Attorney Fani Willis until Jan. 13 to respond to an order that requires her to honor a subpoena from a Georgia Senate committee.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2024-12-27 20:10:00",
+            "pubDateTZ": "UTC",
+            "image_url": null,
+            "source_id": "emporiagazette",
+            "source_priority": 61213,
+            "source_name": "Emporiagazette",
+            "source_url": "https://www.emporiagazette.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/emporiagazette.png",
+            "language": "english",
+            "country": [
+                "united states of america"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": true
+        },
+        {
             "article_id": "027ab0448c2f2ab5d92bd9b5ad1fca95",
             "title": "Visa Stock Price Prediction 2025: Can V Hit $400 in the New Year?",
             "link": "https://www.barchart.com/story/news/30220925/visa-stock-price-prediction-2025-can-v-hit-400-in-the-new-year",
