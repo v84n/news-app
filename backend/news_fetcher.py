@@ -38,7 +38,7 @@ class NewsArticleFetcher:
         """Main method to fetch articles from the API."""
         next_page = None
         request_count = 0
-        max_requests = 20
+        max_requests = 2
 
         while request_count < max_requests:
             # Construct URL
