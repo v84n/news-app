@@ -1,6 +1,673 @@
 {
     "articles": [
         {
+            "article_id": "d34e0dada12370fd8659b9f6bf209711",
+            "title": "earl grey tea bread.jpg",
+            "link": "https://www.theadvocate.com/earl-grey-tea-bread-jpg/image_a98bfe98-c496-11ef-ba6b-175084a04e0a.html",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "Rêve Coffee Lab's Earl Grey tea bread with a vanilla glaze.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2024-12-27 21:08:00",
+            "pubDateTZ": "UTC",
+            "image_url": "http://bloximages.newyork1.vip.townnews.com/theadvocate.com/content/tncms/assets/v3/editorial/a/98/a98bfe98-c496-11ef-ba6b-175084a04e0a/676f17340b7f1.image.jpg?resize=300%2C400",
+            "source_id": "theadvocate",
+            "source_priority": 4852,
+            "source_name": "The Advocate",
+            "source_url": "https://www.theadvocate.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/theadvocate.png",
+            "language": "english",
+            "country": [
+                "united states of america"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "faed031b516a6566f0d1ea595a733174",
+            "title": "Jericho boys basketball's Devkartik Anne has big fourth quarter in non-league win over Cold Spring Harbor",
+            "link": "https://www.newsday.com/sports/high-school/boys-basketball/jericho-cold-spring-harbor-ombbxkza",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "Anne, a 6-6 forward, blocked a potential three-point shot from the right corner in the final seconds.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2024-12-27 21:07:59",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.newsday.com/_next/image?q=75&url=https%3A%2F%2Fcdn.newsday.com%2Fimage-service%2Fversion%2Fc%3AYTNiMzljZGYtNmY5Mi00%3AZGYtNmY5Mi00YjAwMjI3%2Fimage.jpg%3Ff%3DMugshot%26w%3D100%26q%3D1&w=256",
+            "source_id": "newsday",
+            "source_priority": 6733,
+            "source_name": "Newsday",
+            "source_url": "https://www.newsday.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/newsday.png",
+            "language": "english",
+            "country": [
+                "united states of america"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "9a5a92efdceb8d0f530563fdccb0d93b",
+            "title": "Saints rule out Derek Carr, Alvin Kamara",
+            "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/saints-rule-out-derek-carr-alvin-kamara",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "The Saints have ruled out quarterback Derek Carr (left hand) and running back Alvin Kamara (groin) for Sunday's game against the Raiders.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2024-12-27 21:07:53",
+            "pubDateTZ": "UTC",
+            "image_url": "https://nbcsports.brightspotcdn.com/dims4/default/8216238/2147483647/strip/false/crop/3663x2060+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F05%2Fd9%2F1364d8144aa2bc8036d50d8ad14b%2Fhttps-api-imagn.com%2Frest%2Fdownload%2FimageID%3D24186548",
+            "source_id": "profootballtalk",
+            "source_priority": 267,
+            "source_name": "Profootballtalk",
+            "source_url": "https://profootballtalk.nbcsports.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/profootballtalk.png",
+            "language": "english",
+            "country": [
+                "united states of america"
+            ],
+            "category": [
+                "sports"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "7be054817cf463eefe3de93cf56a3260",
+            "title": "51-year-old man missing after going overboard during Caribbean cruise - NBC News",
+            "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdWRuQlE4UnlJNjRKT1B5RTdIWWoxY2YtNVVSWGpBYTBBdXZJVEJTOFRqaGpSaUR3NEFuaHJMVmpwV3JCZVp0NmhGMGlXWUxFVUg1R3JjaWF2dmUxR2VmNDBZNEp1YmRKNF93Q0xVSU5teVcxbTNJazFLSU9DZDcxbmJQdkV6Q1pPSk8tdmx3Tlh3REJoQThsa0NwUG1ReklvRjNWRdIBVkFVX3lxTE1qVWVwbXJBTUpsb196aS0tVnVYeFJINHhtZ0Jyc0pOT2NnNnlTUHlNYk9PZ1p6QUpIc0VjSzRKRlRyVW0waEtra1lwNHBRYmsxV1l0dlNB?oc=5",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "51-year-old man missing after going overboard during Caribbean cruise NBC NewsRescue team ends search for a man overboard from Norwegian Cruise Line ship NPRThe overboard passenger was the cruise ship’s third in six years WFTV OrlandoMan goes overboard on cruise ship out of Port Canaveral during Christmas vacation WESH 2 OrlandoSearch Suspended for Norwegian Cruise Line Passenger Who Went Overboard the Day After Christmas PEOPLE",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2024-12-27 21:07:42",
+            "pubDateTZ": "UTC",
+            "image_url": null,
+            "source_id": "google",
+            "source_priority": 14,
+            "source_name": "Google News",
+            "source_url": "https://news.google.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/google.png",
+            "language": "english",
+            "country": [
+                "united states of america"
+            ],
+            "category": [
+                "business"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "7d78eb28379284d53c0d76e64b914f3f",
+            "title": "Judge refuses to dismiss rape claim against Jay-Z",
+            "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/judge-refuses-to-dismiss-rape-claim-against-jay-z",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "Earlier this month, NFL partner Jay-Z was added to a civil lawsuit brought by a then-13-year-old girl who alleges rape dating back more than 20 years.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2024-12-27 21:07:42",
+            "pubDateTZ": "UTC",
+            "image_url": "https://nbcsports.brightspotcdn.com/dims4/default/ad383d4/2147483647/strip/false/crop/6362x3579+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F43%2Ff9%2F2045abd54fde9ec06739828f2348%2Fhttps-api-imagn.com%2Frest%2Fdownload%2FimageID%3D24842158",
+            "source_id": "profootballtalk",
+            "source_priority": 267,
+            "source_name": "Profootballtalk",
+            "source_url": "https://profootballtalk.nbcsports.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/profootballtalk.png",
+            "language": "english",
+            "country": [
+                "united states of america"
+            ],
+            "category": [
+                "sports"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "ab76f20bc1242729c3be899c93c936e1",
+            "title": "51-year-old man missing after going overboard during Caribbean cruise",
+            "link": "https://www.nbcnews.com/news/world/51-year-old-man-missing-going-overboard-caribbean-cruise-rcna185589",
+            "keywords": null,
+            "creator": [
+                "Mirna Alsharif",
+                "John Filippelli"
+            ],
+            "video_url": null,
+            "description": "A 51-year-old man went overboard from a Norwegian cruise ship Thursday during a trip to the Caribbean, and, despite an extensive search, he has not been found. Norwegian Cruise Line said the man was reported to have fallen off the ship around 3 p.m., while it was sailing from Ocho Rios, Jamaica, to Nassau, Bahamas.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2024-12-27 21:07:42",
+            "pubDateTZ": "UTC",
+            "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-12/241227-Norwegian-Epic-cruise-ship-aa-314p-c03643.jpg",
+            "source_id": "nbcnews",
+            "source_priority": 175,
+            "source_name": "Nbc News",
+            "source_url": "https://www.nbcnews.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/nbcnews.png",
+            "language": "english",
+            "country": [
+                "united states of america"
+            ],
+            "category": [
+                "world"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "fc4d5e62b1b39bb4c59fffb65e89bdfb",
+            "title": "Jalen Hurts officially out for Sunday's game against Cowboys",
+            "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jalen-hurts-officially-out-for-sundays-game-against-cowboys",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "Eagles quarterback Jalen Hurts has gone from likely out against the Cowboys to officially out against the Cowboys.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2024-12-27 21:07:39",
+            "pubDateTZ": "UTC",
+            "image_url": "https://nbcsports.brightspotcdn.com/dims4/default/33c82b1/2147483647/strip/false/crop/6000x3375+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F77%2F92%2Fa1dd0d124eafbb5b726297474a05%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2191426490",
+            "source_id": "profootballtalk",
+            "source_priority": 267,
+            "source_name": "Profootballtalk",
+            "source_url": "https://profootballtalk.nbcsports.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/profootballtalk.png",
+            "language": "english",
+            "country": [
+                "united states of america"
+            ],
+            "category": [
+                "sports"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "687a81b5cbf1a8986c52441d73f680b0",
+            "title": "Tucson's \"Meaghie Jane\" Elevates Cannabis Culture through Upscale Lifestyle Events",
+            "link": "https://hoodline.com/2024/12/tucson-s-meaghie-jane-elevates-cannabis-culture-through-upscale-lifestyle-events/",
+            "keywords": [
+                "phoenix"
+            ],
+            "creator": [
+                "Steve Wilson"
+            ],
+            "video_url": null,
+            "description": "Meaghan Gould, under \"Meaghie Jane,\" integrates cannabis into upscale events, challenging stereotypes and advocating for law reform in Arizona.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2024-12-27 21:07:33",
+            "pubDateTZ": "UTC",
+            "image_url": "https://img.hoodline.com/2024/12/tucsons-meaghie-jane-elevates-cannabis-culture-through-upscale-lifestyle-events.webp",
+            "source_id": "hoodline",
+            "source_priority": 18806,
+            "source_name": "Hoodline",
+            "source_url": "https://hoodline.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/hoodline.png",
+            "language": "english",
+            "country": [
+                "united states of america"
+            ],
+            "category": [
+                "food"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "429752e3271fbbe7cba508d312351a92",
+            "title": "​Glucose monitors are now available without a prescription",
+            "link": "https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/glucose-monitors-are-now-available-without-a-prescription/articleshow/116724968.cms",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "The FDA has approved the Dexcom Stelo Glucose Biosensor System for over-the-counter sales, making continuous glucose monitors (CGMs) accessible to non-insulin users and nondiabetics interested in tracking blood sugar levels. This action aims to improve health equity by allowing more Americans to make informed choices about their health without needing a prescription.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2024-12-27 21:07:30",
+            "pubDateTZ": "UTC",
+            "image_url": "https://static.toiimg.com/thumb/msid-116724971,imgsize-27220,width-400,resizemode-4/116724971.jpg",
+            "source_id": "toi",
+            "source_priority": 391,
+            "source_name": "The Times Of India",
+            "source_url": "https://timesofindia.indiatimes.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/toi.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "3e49c3c37b35d86a3bbeab6fc9fea8d2",
+            "title": "Four personality traits may make people more prone to nightmares- do YOU have any of them? - Daily Mail",
+            "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTzk4OVk3RGtkLXJQYno1S1pVWTg3NWRtS3NUX21iaUxxWHhpQVJTS3BnVm1fSlVOZ3ktVlZlTHgzbE43Z0lCbkZRY29ROWRXTng1RWp5aHM3MGFCZ0l3X0ZMamxNTzRFQTFMUzRxV1VucHM2TWhDbmlIeHI2ZFIwMF8weUlhMmg0WDVfby1NYWZsb0V2dEFvQnNkMDFvVmPSAaQBQVVfeXFMTTI4bkl4RzBrcmFjZTlpclJWeW1QU1hXNk5aYW9SaHpUQ2o2VzVlbW9LZDg4WmZ5U2hzZUc3REVrcGRGdWJtN3dTMFVRVy1CUjV5UFFTUjVBZUZCbF8wUkhTSFR1MmV3Tjg0N0lsZXh0RGNSN3g3U0sxSDdpVW5GZ0VKZEV6NVlkUlJVbkF5WWVkZGY1S3ZKU2k0NE5jMDVLNU8zSjg?oc=5",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "Four personality traits may make people more prone to nightmares- do YOU have any of them? Daily Mail",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2024-12-27 21:07:19",
+            "pubDateTZ": "UTC",
+            "image_url": null,
+            "source_id": "google",
+            "source_priority": 14,
+            "source_name": "Google News",
+            "source_url": "https://news.google.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/google.png",
+            "language": "english",
+            "country": [
+                "united states of america"
+            ],
+            "category": [
+                "health"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "d3e64878438823987d2173e7debd8475",
+            "title": "Could Sean Manaea Become the Ace Pitcher for New York Mets?",
+            "link": "https://www.yardbarker.com/mlb/articles/could_sean_manaea_become_the_ace_pitcher_for_new_york_mets/s1_17200_41475765",
+            "keywords": [
+                "mlb",
+                "new york mets",
+                "sean manaea"
+            ],
+            "creator": [
+                "Alex Williamson, Last Word On Sports"
+            ],
+            "video_url": null,
+            "description": "Sean Manaea was a big signing for the Mets. After his success in 2024, is he ready to be an ace in the Big Apple? Three years and $75 million was enough to keep Manaea as a Met after he opted out of the contract he signed last year.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2024-12-27 21:07:10",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.yardbarker.com/media/5/0/5077dd344593e4bb2b2b4ab3df6765aa92ac8ba7/thumb_16x9/USATSI_24441723-1024x683.jpg",
+            "source_id": "yardbarker",
+            "source_priority": 1076,
+            "source_name": "Yardbarker",
+            "source_url": "https://www.yardbarker.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/yardbarker.png",
+            "language": "english",
+            "country": [
+                "united states of america"
+            ],
+            "category": [
+                "sports"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "fdf3971072907bb641719c4b0c4f388e",
+            "title": "ब्लेंड लैब्स के राजस्व प्रमुख ब्रायन केनेफसी ने स्टॉक में $132k की बिक्री की",
+            "link": "https://hi.investing.com/news/insider-trading-news/article-93CH-369458",
+            "keywords": null,
+            "creator": [
+                "Investing.com"
+            ],
+            "video_url": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2024-12-27 21:07:06",
+            "pubDateTZ": "UTC",
+            "image_url": "https://i-invdn-com.investing.com/news/news_headline_rolled_108x81.jpg",
+            "source_id": "investing_hi",
+            "source_priority": 1143,
+            "source_name": "Investing भारत",
+            "source_url": "https://hi.investing.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/investing_hi.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "b39f3349195d4fbc3c2a92be62af44c7",
+            "title": "Manchester Township boys & girls soar to team titles at Bayshore Holiday Classic",
+            "link": "https://www.nj.com/highschoolsports/2024/12/manchester-township-boys-girls-soar-to-team-titles-at-bayshore-holiday-classic.html",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "Both the Manchester Township boys and girls bowling teams win respective team championships at the Bayshore Holiday Classic.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2024-12-27 21:07:05",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.nj.com/resizer/v2/MPUMU3L5IFADBP7673QEZ5SDAI.jpeg?auth=de39bc3b6707a593f515b85b45850827c380880fc17b0d3390560aa0077473f6&height=2361&smart=true&width=4030",
+            "source_id": "nj",
+            "source_priority": 979,
+            "source_name": "Nj",
+            "source_url": "https://www.nj.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/nj.png",
+            "language": "english",
+            "country": [
+                "united states of america"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "ddc777e66c566f5135dbfb5393bff7b2",
+            "title": "Fun with numbers for this new year, A.D. 2025",
+            "link": "https://bocabeacon.com/fun-with-numbers-for-this-new-year-a-d-2025/",
+            "keywords": [
+                "editorial",
+                "nopaywall"
+            ],
+            "creator": [
+                "Garland Pollard"
+            ],
+            "video_url": null,
+            "description": "It’s all in the numbers. Who doesn’t enjoy a date with a good number? Was your date a good number? That’s what we get next week with New Year’s Day, always a 1-1. Christmas Day was a good number, 12-25-24, but a greater date will be 12-25-25. On Christmas Day, we talked to friends visiting, [...]",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2024-12-27 21:07:03",
+            "pubDateTZ": "UTC",
+            "image_url": "https://bocabeacon.com/wp-content/themes/yootheme/cache/e6/2025-e1735333612305-e69a5941.jpeg",
+            "source_id": "bocabeacon",
+            "source_priority": 548668,
+            "source_name": "Boca Beacon",
+            "source_url": "https://bocabeacon.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/bocabeacon.jpg",
+            "language": "english",
+            "country": [
+                "united states of america"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "85946b44273f2feeeba85e302134980d",
+            "title": "Laurie A. Hunter",
+            "link": "https://www.rep-am.com/obituaries/2024/12/27/laurie-a-hunter/",
+            "keywords": [
+                "obituaries"
+            ],
+            "creator": [
+                "Jim Flynn"
+            ],
+            "video_url": null,
+            "description": "WATERBURY – Mrs. Laurie A. (Stevens) Hunter, 66, wife of Gregory Hunter Sr., of Waterbury, departed this life unexpectedly Thursday, Dec. 19, 2024. Laurie was born Aug. 3, 1958, in Waterbury, to the late Marion and Sally-Mae (Jones) Stevens. Visitation 10 a.m., funeral 11 a.m. Monday, Dec. 30, at Zion Baptist Church, 137 Pearl St., [...]",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2024-12-27 21:07:00",
+            "pubDateTZ": "UTC",
+            "image_url": "https://cdn.rep-am.com/wp-content/uploads/2024/12/20241227-160700-pic-929938026.jpg",
+            "source_id": "rep_am",
+            "source_priority": 25599,
+            "source_name": "Rep-am",
+            "source_url": "https://www.rep-am.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/rep_am.png",
+            "language": "english",
+            "country": [
+                "united states of america"
+            ],
+            "category": [
+                "other"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "d09541aa90508294e79f65f0fd3a2348",
+            "title": "Briefly 12-28",
+            "link": "https://kenoshanews.com/briefly-12-28/article_a0540be0-c496-11ef-92dd-83f641a0fb2c.html",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "NBA",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2024-12-27 21:07:00",
+            "pubDateTZ": "UTC",
+            "image_url": null,
+            "source_id": "kenoshanews",
+            "source_priority": 28659,
+            "source_name": "Kenosha News",
+            "source_url": "https://kenoshanews.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/kenoshanews.jpg",
+            "language": "english",
+            "country": [
+                "united states of america"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "e0778b123f4f2309e8e0a86e476abf03",
+            "title": "Is it time for a new knee?",
+            "link": "https://pantagraph.com/is-it-time-for-a-new-knee/article_9c44b09a-c496-11ef-a982-d3f90ac60265.html",
+            "keywords": null,
+            "creator": [
+                "Maureen Salamon Harvard Health Publishing"
+            ],
+            "video_url": null,
+            "description": "Back in the day, going weak in the knees meant something good. Decades later, though, it’s merely a glaring sign you may need to replace your natural knee joint — the largest in the body — with a metal and...",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2024-12-27 21:07:00",
+            "pubDateTZ": "UTC",
+            "image_url": "https://bloximages.chicago2.vip.townnews.com/pantagraph.com/content/tncms/custom/image/b32c1a3a-f6a7-11e5-b75e-6b57a5d92d3d.png?resize=600%2C315",
+            "source_id": "pantagraph",
+            "source_priority": 19184,
+            "source_name": "Pantagraph",
+            "source_url": "https://pantagraph.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/pantagraph.png",
+            "language": "english",
+            "country": [
+                "united states of america"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": true
+        },
+        {
+            "article_id": "4e3a9b3a75cd05dc5153a3a7d83defe2",
+            "title": "Former NFL wide receiver DeSean Jackson hired as Delaware State football coach",
+            "link": "https://www.pilotonline.com/2024/12/27/former-nfl-wide-receiver-desean-jackson-hired-as-delaware-state-football-coach/",
+            "keywords": [
+                "latest headlines",
+                "college sports",
+                "sports"
+            ],
+            "creator": null,
+            "video_url": null,
+            "description": "Jackson will join his former NFL teammate, Michael Vick, as a head coach at an HBCU and MEAC school. Vick became Norfolk State's head coach last week. The two played five seasons together with the Philadelphia Eagles.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2024-12-27 21:06:59",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.pilotonline.com/wp-content/uploads/2024/12/TVP-Jackson-DSU.jpg?strip=all&w=1400px",
+            "source_id": "pilotonline",
+            "source_priority": 13950,
+            "source_name": "Pilotonline",
+            "source_url": "https://www.pilotonline.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/pilotonline.png",
+            "language": "english",
+            "country": [
+                "united states of america"
+            ],
+            "category": [
+                "sports"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "8eb91bb2cc8d7927bf0b1ac99cddb024",
+            "title": "Former NFL wide receiver DeSean Jackson hired as Delaware State football coach",
+            "link": "https://www.dailypress.com/2024/12/27/former-nfl-wide-receiver-desean-jackson-hired-as-delaware-state-football-coach/",
+            "keywords": [
+                "latest headlines",
+                "college sports",
+                "sports"
+            ],
+            "creator": [
+                "Associated Pess"
+            ],
+            "video_url": null,
+            "description": "Jackson will join his former NFL teammate, Michael Vick, as a head coach at an HBCU and MEAC school. Vick became Norfolk State's head coach last week. The two played five seasons together with the Philadelphia Eagles.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2024-12-27 21:06:59",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.dailypress.com/wp-content/uploads/2024/12/TVP-Jackson-DSU.jpg?h=682&w=1024",
+            "source_id": "dailypress",
+            "source_priority": 19407,
+            "source_name": "Daily Press",
+            "source_url": "https://www.dailypress.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/dailypress.png",
+            "language": "english",
+            "country": [
+                "united states of america"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": true
+        },
+        {
+            "article_id": "14c4b47568ef0b6e09a4a18645c6bbf4",
+            "title": "Gov. Newsom comes to Oakland to pressure city to scale back pursuit policy, allow more police chases in town",
+            "link": "https://www.timesheraldonline.com/2024/12/27/newsom-comes-to-oakland-to-pressure-the-city-to-scale-back-pursuit-policy-allow-more-police-chases-in-town/",
+            "keywords": [
+                "politics",
+                "news",
+                "newsletter",
+                "california news",
+                "crime and public safety",
+                "crime",
+                "latest headlines",
+                "gavin newsom"
+            ],
+            "creator": [
+                "Nate Gartrell"
+            ],
+            "video_url": null,
+            "description": "Gov. Gavin Newsom came to Oakland to make the announcement, promising that CHP resources will be directed to other Bay Area cities as well.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2024-12-27 21:06:54",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.timesheraldonline.com/wp-content/uploads/2024/12/Election_2024_Trump_Newsom_55737.jpg?strip=all&w=1400px",
+            "source_id": "timesheraldonline",
+            "source_priority": 66539,
+            "source_name": "Times Herald Online",
+            "source_url": "https://www.timesheraldonline.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/timesheraldonline.png",
+            "language": "english",
+            "country": [
+                "united states of america"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": true
+        },
+        {
             "article_id": "caefc3f780f449a506ce80cb3b0a218c",
             "title": "Judge rules Georgia Senate committee can subpoena Fani Willis over Trump case",
             "link": "https://www.newspressnow.com/tn_exchange/judge-rules-georgia-senate-committee-can-subpoena-fani-willis-over-trump-case/article_d4d0a6f3-2b1b-5400-b28e-b3baaaefdff9.html",
