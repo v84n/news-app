@@ -96,7 +96,7 @@ class NewsArticleFetcher:
         return None
 
 def main():
-    base_url = "https://newsdata.io/api/1/latest?apikey=pub_6288297c1f10537fb134848f54aece832859b&country=in,us&language=en,hi"
+    base_url = "https://newsdata.io/api/1/latest?apikey=pub_6288297c1f10537fb134848f54aece832859b&country=in&language=en,hi"
     output_file = "latest.json"
     
     fetcher = NewsArticleFetcher(base_url, output_file)
