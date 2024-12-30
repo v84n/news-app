@@ -1,6 +1,711 @@
 {
     "articles": [
         {
+            "article_id": "da91c4faf1d258fd3d1ee1c64cbfff16",
+            "title": "How to make a nourishing (and filling) soup dinner for two",
+            "link": "https://www.yoursun.com/ap/food/how-to-make-a-nourishing-and-filling-soup-dinner-for-two/article_e37afa3f-74aa-5017-ae82-dcdbe77eb2e3.html",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "Soup often comes to mind when summer gives way to sweater weather.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2024-12-28 09:07:00",
+            "pubDateTZ": "UTC",
+            "image_url": null,
+            "source_id": "yoursun",
+            "source_priority": 43836,
+            "source_name": "Yoursun.com",
+            "source_url": "https://www.yoursun.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/yoursun.jpg",
+            "language": "english",
+            "country": [
+                "united states of america"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": true
+        },
+        {
+            "article_id": "c71d0468f574cb36d7406c6885aadac8",
+            "title": "A real-estate industry reeling from sexual misconduct accusations examines its culture - Business Insider",
+            "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQREVxeFoxeElZTTZZbkJTOFhIR0xqcWJZazZiR2RleVpoWlJRVE9fNTk1OUVmYlRBZ1B3Y3plWHpxWGdqdF9UaE5KeDhvSU0wUmtQMEtfLVhrWG9SN2puN1M5cWVXRHZDbkxSOENCcUFNbkgyNjlrOV9TdE50S2RFbDBuVkU1bTBDRVVfeWxXMXV2MjhZV0pDMnJLVTFTM1lpaEV2NGY3d1l2aFh1Q1N2UVBPeGFZRUE?oc=5",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "A real-estate industry reeling from sexual misconduct accusations examines its culture Business Insider",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2024-12-28 09:07:00",
+            "pubDateTZ": "UTC",
+            "image_url": null,
+            "source_id": "google",
+            "source_priority": 14,
+            "source_name": "Google News",
+            "source_url": "https://news.google.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/google.png",
+            "language": "english",
+            "country": [
+                "united states of america"
+            ],
+            "category": [
+                "business"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "540a37272090b91f8c33e0c8e256719d",
+            "title": "नीली पगड़ी को मानते थे अपनी पहचान का बड़ा हिस्सा, जानें क्या है मनमोहन सिंह की नीली पगड़ी पहनने की वजह, खुद बताई थी कहानी",
+            "link": "https://www.bhaskarhindi.com/national/manmohan-singh-blue-turban-reason-behind-blue-turban-manmohan-singh-death-1094757",
+            "keywords": [
+                "देश,राजनीति,बड़ी खबरें"
+            ],
+            "creator": [
+                "Shreya Singh"
+            ],
+            "video_url": null,
+            "description": "भारत के पूर्व पीएम हुए पंचतत्व में विलीनहमेशा पहनते थे नीली पगड़ीउनके लिए उनकी पगड़ी थी बहुत ही ज्यादा खास",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2024-12-28 09:06:56",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.bhaskarhindi.com/h-upload/2024/12/28/1389746-turban.webp",
+            "source_id": "bhaskarhindi",
+            "source_priority": 596776,
+            "source_name": "Bhaskar Hindi",
+            "source_url": "https://www.bhaskarhindi.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/bhaskarhindi.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "46a9071c58004d5513dbbf7755d184fb",
+            "title": "Kohli Heckled at MCG During Boxing Day Test; MCC CEO Confirms No Official Complaint Filed",
+            "link": "https://theliberalworld.com/kohli-heckled-at-mcg-during-boxing-day-test-mcc-ceo-confirms-no-official-complaint-filed/",
+            "keywords": [
+                "virat kohli heckled",
+                "india vs aus",
+                "boxing day test",
+                "melbourne cricket ground (mcg)",
+                "india down under",
+                "mcg",
+                "border gavaskar trophy",
+                "sports",
+                "english news"
+            ],
+            "creator": [
+                "Neha Shukla"
+            ],
+            "video_url": null,
+            "description": "Virat Kohli, the former Indian captain, found himself at the center of controversy during the second day of the Boxing Day Test in the 2024-25 Border-Gavaskar Trophy at the Melbourne Cricket Ground (MCG). Kohli was heckled by a section of local fans as he walked back to the dressing room after being dismissed for 36 [...]The post Kohli Heckled at MCG During Boxing Day Test; MCC CEO Confirms No Official Complaint Filed first appeared on LIBERAL TV.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2024-12-28 09:06:55",
+            "pubDateTZ": "UTC",
+            "image_url": null,
+            "source_id": "theliberalworld",
+            "source_priority": 18095419,
+            "source_name": "Liberal Tv",
+            "source_url": "https://theliberalworld.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/theliberalworld.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "90e2b8b784363f8b9ff8c6f4d95b4edb",
+            "title": "Somvati Amavasya December 2024: 5 Lucky Things To Donate On Paush Amavasya For Success And Prosperity",
+            "link": "https://english.jagran.com/spiritual/somvati-amavasya-december-2024-5-lucky-things-to-donate-on-paush-amavasya-for-success-and-prosperity-10209305",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "somvati amavasya december 2024,somvati amavasya december 2024 date,somvati amavasya december 2024 date and time,somvati amavasya 30 december 2024,somvati amavasya december remedies,somvati amavasya december upay,things to donate on somvati amavasya,things to donate on paush amavasya",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2024-12-28 09:06:51",
+            "pubDateTZ": "UTC",
+            "image_url": "https://imgeng.jagran.com/images/2024/12/28/article/image/somvati-amavasya-2024-upay-1735375011511.webp",
+            "source_id": "english_jagran",
+            "source_priority": 10561,
+            "source_name": "Jagran English",
+            "source_url": "https://english.jagran.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/english_jagran.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "e589c1afc60db80935b8913fcb9f8d03",
+            "title": "महिला सम्मान योजना पर जांच के आदेश, दिल्ली चुनाव से पहले AAP और BJP में बढ़ा तनाव",
+            "link": "https://www.prabhatkhabar.com/national/delhi-lg-has-ordered-an-inquiry-mahila-samman-yojana",
+            "keywords": [
+                "delhi elections",
+                "aam aadmi party",
+                "mahila samman yojana",
+                "national",
+                "arvind kejriwal",
+                "national news",
+                "bjp"
+            ],
+            "creator": [
+                "Aman Kumar Pandey"
+            ],
+            "video_url": null,
+            "description": "Mahila Samman Yojana: 'महिला सम्मान योजना' को लेकर आम आदमी पार्टी और उपराज्यपाल वीके सक्सेना के बीच टकराव बढ़ गया है. उपराज्यपाल ने इस योजना की जांच के आदेश दे दिए हैं.The post महिला सम्मान योजना पर जांच के आदेश, दिल्ली चुनाव से पहले AAP और BJP में बढ़ा तनाव appeared first on Prabhat Khabar.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2024-12-28 09:06:49",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.prabhatkhabar.com/wp-content/uploads/2024/12/Delhi-LG-VK-Saxena-and-Arvind-Kejriwal.jpg",
+            "source_id": "prabhatkhabar",
+            "source_priority": 343253,
+            "source_name": "Prabhat Khabar",
+            "source_url": "https://www.prabhatkhabar.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/prabhatkhabar.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "023a6ef5bb9fcc5d0e6c9a5b8aa1f25d",
+            "title": "Sanctuary Advisors LLC Makes New Investment in Marriott Vacations Worldwide Co. (NYSE:VAC)",
+            "link": "https://www.americanbankingnews.com/2024/12/28/sanctuary-advisors-llc-makes-new-investment-in-marriott-vacations-worldwide-co-nysevac.html",
+            "keywords": [
+                "market news",
+                "sec filing articles"
+            ],
+            "creator": [
+                "ABMN Staff"
+            ],
+            "video_url": null,
+            "description": "Sanctuary Advisors LLC bought a new stake in Marriott Vacations Worldwide Co. (NYSE:VAC – Free Report) during the third quarter, according to the company in its most recent Form 13F filing with the Securities & Exchange Commission. The fund bought 4,731 shares of the company’s stock, valued at approximately $348,000. A number of other institutional [...]",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2024-12-28 09:06:48",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.marketbeat.com/logos/marriott-vacations-worldwide-co-logo-1200x675.png?v=20221115095024",
+            "source_id": "americanbankingnews",
+            "source_priority": 125270,
+            "source_name": "Americanbankingnews",
+            "source_url": "https://www.americanbankingnews.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/americanbankingnews.jpg",
+            "language": "english",
+            "country": [
+                "united states of america"
+            ],
+            "category": [
+                "business"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "dd420d387aa943c93c8b7da2302989f3",
+            "title": "Franklin Resources Inc. Raises Holdings in Arch Resources, Inc. (NYSE:ARCH)",
+            "link": "https://www.americanbankingnews.com/2024/12/28/franklin-resources-inc-raises-holdings-in-arch-resources-inc-nysearch.html",
+            "keywords": [
+                "market news",
+                "sec filing articles"
+            ],
+            "creator": [
+                "ABMN Staff"
+            ],
+            "video_url": null,
+            "description": "Franklin Resources Inc. boosted its holdings in shares of Arch Resources, Inc. (NYSE:ARCH – Free Report) by 7.4% during the 3rd quarter, HoldingsChannel.com reports. The institutional investor owned 12,240 shares of the energy company’s stock after acquiring an additional 843 shares during the quarter. Franklin Resources Inc.’s holdings in Arch Resources were worth $1,785,000 as [...]",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2024-12-28 09:06:48",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.marketbeat.com/logos/arch-resources-inc-logo-1200x675.png?v=20221122093816",
+            "source_id": "americanbankingnews",
+            "source_priority": 125270,
+            "source_name": "Americanbankingnews",
+            "source_url": "https://www.americanbankingnews.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/americanbankingnews.jpg",
+            "language": "english",
+            "country": [
+                "united states of america"
+            ],
+            "category": [
+                "business"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "64ff2050b017222d45a9dd877ab8d645",
+            "title": "iShares MSCI China ETF (NASDAQ:MCHI) Shares Sold by Sanctuary Advisors LLC",
+            "link": "https://www.defenseworld.net/2024/12/28/ishares-msci-china-etf-nasdaqmchi-shares-sold-by-sanctuary-advisors-llc.html",
+            "keywords": [
+                "sec filing articles",
+                "companies"
+            ],
+            "creator": [
+                "Defense World Staff"
+            ],
+            "video_url": null,
+            "description": "Sanctuary Advisors LLC decreased its position in iShares MSCI China ETF (NASDAQ:MCHI – Free Report) by 91.0% in the 3rd quarter, according to its most recent Form 13F filing with the Securities & Exchange Commission. The institutional investor owned 7,330 shares of the company’s stock after selling 74,123 shares during the quarter. Sanctuary Advisors LLC’s [...]",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2024-12-28 09:06:43",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.marketbeat.com/logos/ishares-msci-china-etf-logo-1200x675.png?v=20210709131541",
+            "source_id": "defenseworld",
+            "source_priority": 92509,
+            "source_name": "Defenseworld Net",
+            "source_url": "https://www.defenseworld.net",
+            "source_icon": "https://i.bytvi.com/domain_icons/defenseworld.png",
+            "language": "english",
+            "country": [
+                "united states of america"
+            ],
+            "category": [
+                "business"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "cac5f5abb4ff2720a693e2cd05ae2a75",
+            "title": "Sanctuary Advisors LLC Makes New Investment in Pegasystems Inc. (NASDAQ:PEGA)",
+            "link": "https://www.defenseworld.net/2024/12/28/sanctuary-advisors-llc-makes-new-investment-in-pegasystems-inc-nasdaqpega.html",
+            "keywords": [
+                "sec filing articles",
+                "companies"
+            ],
+            "creator": [
+                "Defense World Staff"
+            ],
+            "video_url": null,
+            "description": "Sanctuary Advisors LLC acquired a new stake in shares of Pegasystems Inc. (NASDAQ:PEGA – Free Report) in the third quarter, according to its most recent filing with the Securities and Exchange Commission (SEC). The firm acquired 4,448 shares of the technology company’s stock, valued at approximately $325,000. A number of other hedge funds have also [...]",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2024-12-28 09:06:43",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.marketbeat.com/logos/pegasystems-inc-logo-1200x675.png",
+            "source_id": "defenseworld",
+            "source_priority": 92509,
+            "source_name": "Defenseworld Net",
+            "source_url": "https://www.defenseworld.net",
+            "source_icon": "https://i.bytvi.com/domain_icons/defenseworld.png",
+            "language": "english",
+            "country": [
+                "united states of america"
+            ],
+            "category": [
+                "business"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "07a2b146a3eac63d34766f1684168737",
+            "title": "Sanctuary Advisors LLC Boosts Stock Position in FT Vest U.S. Equity Buffer ETF – October (BATS:FOCT)",
+            "link": "https://www.defenseworld.net/2024/12/28/sanctuary-advisors-llc-boosts-stock-position-in-ft-vest-u-s-equity-buffer-etf-october-batsfoct.html",
+            "keywords": [
+                "sec filing articles",
+                "companies"
+            ],
+            "creator": [
+                "Defense World Staff"
+            ],
+            "video_url": null,
+            "description": "Sanctuary Advisors LLC grew its holdings in shares of FT Vest U.S. Equity Buffer ETF – October (BATS:FOCT – Free Report) by 50.7% in the third quarter, according to its most recent filing with the Securities and Exchange Commission (SEC). The fund owned 7,669 shares of the company’s stock after buying an additional 2,579 shares [...]",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2024-12-28 09:06:43",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.marketbeat.com/logos/ft-vest-us-equity-buffer-etf---october-logo-1200x675.jpg?v=20241219140521",
+            "source_id": "defenseworld",
+            "source_priority": 92509,
+            "source_name": "Defenseworld Net",
+            "source_url": "https://www.defenseworld.net",
+            "source_icon": "https://i.bytvi.com/domain_icons/defenseworld.png",
+            "language": "english",
+            "country": [
+                "united states of america"
+            ],
+            "category": [
+                "business"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "f56fe3d382a51a7e8aadde06ed9ba3d9",
+            "title": "Sanctuary Advisors LLC Acquires New Stake in Marriott Vacations Worldwide Co. (NYSE:VAC)",
+            "link": "https://www.defenseworld.net/2024/12/28/sanctuary-advisors-llc-acquires-new-stake-in-marriott-vacations-worldwide-co-nysevac.html",
+            "keywords": [
+                "sec filing articles",
+                "companies"
+            ],
+            "creator": [
+                "Defense World Staff"
+            ],
+            "video_url": null,
+            "description": "Sanctuary Advisors LLC bought a new stake in Marriott Vacations Worldwide Co. (NYSE:VAC – Free Report) in the 3rd quarter, according to its most recent disclosure with the SEC. The fund bought 4,731 shares of the company’s stock, valued at approximately $348,000. A number of other institutional investors and hedge funds also recently bought and [...]",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2024-12-28 09:06:42",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.marketbeat.com/logos/marriott-vacations-worldwide-co-logo-1200x675.png?v=20221115095024",
+            "source_id": "defenseworld",
+            "source_priority": 92509,
+            "source_name": "Defenseworld Net",
+            "source_url": "https://www.defenseworld.net",
+            "source_icon": "https://i.bytvi.com/domain_icons/defenseworld.png",
+            "language": "english",
+            "country": [
+                "united states of america"
+            ],
+            "category": [
+                "business"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "ab008c011d60bfb6df91f1c8ca382498",
+            "title": "'महिला सम्मान योजना के लिए 22 लाख से ज्यादा रजिस्ट्रेशन, भाजपा को नहीं हो रहा हजम', केजरीवाल का BJP पर हमला",
+            "link": "https://www.jagran.com/delhi/new-delhi-city-ncr-delhi-lg-orders-probe-into-aaps-womens-honor-scheme-kejriwal-slams-bjp-23857201.html",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "दिल्ली के उपराज्यपाल वीके सक्सेना ने महिला सम्मान योजना की जांच के आदेश दिए हैं। इस पर आप ने बीजेपी पर हमला बोला है। केजरीवाल ने कहा कि जांच के आदेश एलजी कार्यालय से नहीं बल्कि अमित शाह के ऑफिस से आया है। अब तक 22 लाख से ज्यादा महिलाओं ने पंजीकरण कराया है जो भाजपा को हजम नहीं हो रहा है।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2024-12-28 09:06:42",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.jagranimages.com/images/newimg/28122024/28_12_2024-kejriwal_10_23857201_m.webp",
+            "source_id": "jagran",
+            "source_priority": 6734,
+            "source_name": "ताजा हिंदी ख़बरें",
+            "source_url": "https://www.jagran.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/jagran.jpg",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "domestic"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "870c7f84665a8460e761162c16a9ba65",
+            "title": "Sanctuary Advisors LLC Takes Position in Freshpet, Inc. (NASDAQ:FRPT)",
+            "link": "https://www.defenseworld.net/2024/12/28/sanctuary-advisors-llc-takes-position-in-freshpet-inc-nasdaqfrpt.html",
+            "keywords": [
+                "sec filing articles",
+                "companies"
+            ],
+            "creator": [
+                "Defense World Staff"
+            ],
+            "video_url": null,
+            "description": "Sanctuary Advisors LLC bought a new stake in Freshpet, Inc. (NASDAQ:FRPT – Free Report) in the third quarter, according to its most recent filing with the Securities & Exchange Commission. The institutional investor bought 2,565 shares of the company’s stock, valued at approximately $351,000. Other hedge funds have also modified their holdings of the company. [...]",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2024-12-28 09:06:42",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.marketbeat.com/logos/freshpet-inc-logo-1200x675.png?v=20221118191904",
+            "source_id": "defenseworld",
+            "source_priority": 92509,
+            "source_name": "Defenseworld Net",
+            "source_url": "https://www.defenseworld.net",
+            "source_icon": "https://i.bytvi.com/domain_icons/defenseworld.png",
+            "language": "english",
+            "country": [
+                "united states of america"
+            ],
+            "category": [
+                "business"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "c682ce77a78bae41794e1fd43e2bdb5c",
+            "title": "Ghum Hai Kisikey Pyaar Meiin: सवी और रजत के रिश्ते को टूटने से बचाएगा ये शख्स, सुलझा देगा सारी गलतफहमी",
+            "link": "https://www.prabhatkhabar.com/entertainment/ghum-hai-kisikey-pyaar-meiin-anubhav-sort-out-rajat-misunderstanding-in-court",
+            "keywords": [
+                "entertainment",
+                "entertainment news",
+                "ghum hai kisikey pyaar meiin written update",
+                "ghum hai kisikey pyaar meiin upcoming episode",
+                "ghum hai kisikey pyaar meiin",
+                "tv serial"
+            ],
+            "creator": [
+                "Divya Keshri"
+            ],
+            "video_url": null,
+            "description": "Ghum Hai Kisikey Pyaar Meiin: सीरियल गुम है किसी के प्यार में दिखाया जाएगा कि सवी और अनुभव साथ में कोर्ट जाते हैं. दोनों को साथ देखकर एक बार फिर से रजत के मन में शक आ जाता है. The post Ghum Hai Kisikey Pyaar Meiin: सवी और रजत के रिश्ते को टूटने से बचाएगा ये शख्स, सुलझा देगा सारी गलतफहमी appeared first on Prabhat Khabar.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2024-12-28 09:06:42",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.prabhatkhabar.com/wp-content/uploads/2024/11/Ghum-Hai-Kisikey-Pyaar-Meiin-2.jpg",
+            "source_id": "prabhatkhabar",
+            "source_priority": 343253,
+            "source_name": "Prabhat Khabar",
+            "source_url": "https://www.prabhatkhabar.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/prabhatkhabar.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "entertainment"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "f702ec092a7d3d2aac9b438bec4c32a5",
+            "title": "CEMEX, S.A.B. de C.V. (NYSE:CX) Shares Bought by Sanctuary Advisors LLC",
+            "link": "https://www.defenseworld.net/2024/12/28/cemex-s-a-b-de-c-v-nysecx-shares-bought-by-sanctuary-advisors-llc.html",
+            "keywords": [
+                "sec filing articles",
+                "companies"
+            ],
+            "creator": [
+                "Defense World Staff"
+            ],
+            "video_url": null,
+            "description": "Sanctuary Advisors LLC lifted its stake in shares of CEMEX, S.A.B. de C.V. (NYSE:CX – Free Report) by 46.5% during the third quarter, according to the company in its most recent filing with the Securities & Exchange Commission. The firm owned 52,237 shares of the construction company’s stock after purchasing an additional 16,585 shares during [...]",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2024-12-28 09:06:42",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.marketbeat.com/logos/cemex-sab-de-cv-logo-1200x675.png?v=20240125140811",
+            "source_id": "defenseworld",
+            "source_priority": 92509,
+            "source_name": "Defenseworld Net",
+            "source_url": "https://www.defenseworld.net",
+            "source_icon": "https://i.bytvi.com/domain_icons/defenseworld.png",
+            "language": "english",
+            "country": [
+                "united states of america"
+            ],
+            "category": [
+                "business"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "b94d0c598be0761b0ed361de4ae045fb",
+            "title": "F.N.B. Co. (NYSE:FNB) Shares Sold by Sanctuary Advisors LLC",
+            "link": "https://www.defenseworld.net/2024/12/28/f-n-b-co-nysefnb-shares-sold-by-sanctuary-advisors-llc.html",
+            "keywords": [
+                "sec filing articles",
+                "companies"
+            ],
+            "creator": [
+                "Defense World Staff"
+            ],
+            "video_url": null,
+            "description": "Sanctuary Advisors LLC cut its position in F.N.B. Co. (NYSE:FNB – Free Report) by 40.7% during the third quarter, according to its most recent Form 13F filing with the Securities and Exchange Commission (SEC). The fund owned 23,851 shares of the bank’s stock after selling 16,390 shares during the period. Sanctuary Advisors LLC’s holdings in [...]",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2024-12-28 09:06:42",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.marketbeat.com/logos/fnb-corp-logo-1200x675.jpg",
+            "source_id": "defenseworld",
+            "source_priority": 92509,
+            "source_name": "Defenseworld Net",
+            "source_url": "https://www.defenseworld.net",
+            "source_icon": "https://i.bytvi.com/domain_icons/defenseworld.png",
+            "language": "english",
+            "country": [
+                "united states of america"
+            ],
+            "category": [
+                "business"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "05959f3cbdc4b3fb3246f38c428c11fe",
+            "title": "Sanctuary Advisors LLC Lowers Stock Position in Global X U.S. Preferred ETF (NYSEARCA:PFFD)",
+            "link": "https://www.defenseworld.net/2024/12/28/sanctuary-advisors-llc-lowers-stock-position-in-global-x-u-s-preferred-etf-nysearcapffd.html",
+            "keywords": [
+                "sec filing articles",
+                "companies"
+            ],
+            "creator": [
+                "Defense World Staff"
+            ],
+            "video_url": null,
+            "description": "Sanctuary Advisors LLC reduced its position in Global X U.S. Preferred ETF (NYSEARCA:PFFD – Free Report) by 28.9% during the 3rd quarter, according to its most recent filing with the Securities and Exchange Commission. The firm owned 15,832 shares of the company’s stock after selling 6,448 shares during the quarter. Sanctuary Advisors LLC’s holdings in [...]",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2024-12-28 09:06:42",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.marketbeat.com/logos/global-x-us-preferred-etf-logo-1200x675.jpg?v=20230413213054",
+            "source_id": "defenseworld",
+            "source_priority": 92509,
+            "source_name": "Defenseworld Net",
+            "source_url": "https://www.defenseworld.net",
+            "source_icon": "https://i.bytvi.com/domain_icons/defenseworld.png",
+            "language": "english",
+            "country": [
+                "united states of america"
+            ],
+            "category": [
+                "business"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "c15a8afbeb0d4b23b148cd9c36e02f6b",
+            "title": "'We all are very proud and happy': Nitish Kumar Reddy's family on his maiden Test ton",
+            "link": "https://timesofindia.indiatimes.com/sports/cricket/india-in-australia/we-all-are-very-proud-and-happy-nitish-kumar-reddys-family-on-his-maiden-test-ton/articleshow/116737743.cms",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "India's Nitish Kumar Reddy scores his maiden Test hundred in the Boxing Day Test against Australia, leading a significant comeback from 221/7. Reddy, supported by Washington Sundar, reaches 105 not out, achieving the century with a composed on-drive amidst intense family support and dramatic scenes at MCG.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2024-12-28 09:06:39",
+            "pubDateTZ": "UTC",
+            "image_url": null,
+            "source_id": "toi",
+            "source_priority": 391,
+            "source_name": "The Times Of India",
+            "source_url": "https://timesofindia.indiatimes.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/toi.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "2f76d1f2c04be1e14412b8d060c3c450",
+            "title": "Johnny Depp's lawyers share their biggest worry during Amber Heard trial: \"We feared he might lose his temper\"",
+            "link": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/johnny-depps-lawyers-share-their-biggest-worry-during-amber-heard-trial-we-feared-he-might-lose-his-temper/articleshow/116736674.cms",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "Johnny Depp's lawyers were concerned that during his defamation trial against Amber Heard, her legal team might provoke him to lose his temper. Despite this, Depp maintained his composure and used humor to disarm the opposing counsel's arguments, helping to present him as a relatable and sincere individual.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2024-12-28 09:06:37",
+            "pubDateTZ": "UTC",
+            "image_url": null,
+            "source_id": "toi",
+            "source_priority": 391,
+            "source_name": "The Times Of India",
+            "source_url": "https://timesofindia.indiatimes.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/toi.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
             "article_id": "2d9828685cfda0a953a4fb55d6dbbeac",
             "title": "How well do you remember MMA in 2024?",
             "link": "https://www.bbc.com/sport/mixed-martial-arts/articles/c0793ngpxd2o",
