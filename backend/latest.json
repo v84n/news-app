@@ -1,6 +1,657 @@
 {
     "articles": [
         {
+            "article_id": "d1786f4c55d30d01573ebc2d859a02a7",
+            "title": "Why alcohol-based sanitisers don't work against norovirus pathogen",
+            "link": "https://www.indiatoday.in/health/story/norovirus-cases-surge-why-alcohol-based-sanitisers-dont-work-against-the-pathogen-2657693-2024-12-31",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "Why alcohol-based sanitisers don't work against norovirus pathogen",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2024-12-31 07:05:55",
+            "pubDateTZ": "UTC",
+            "image_url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202412/hand-sanitizer--wet-wipe--and-n95-face-mask-were-added-the-search-for-objects-used-to-stop-the-sprea-315915934-16x9_0.jpg?VersionId=bk_fxTp9TEnY0dyS6QxL6.dRoFqeefp1",
+            "source_id": "indiatoday",
+            "source_priority": 2885,
+            "source_name": "India Today",
+            "source_url": "https://www.indiatoday.in",
+            "source_icon": "https://i.bytvi.com/domain_icons/indiatoday.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "health"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "9689451620fb1165f4972538f911fd40",
+            "title": "जमुई में ट्रैक्टर और पुलिस वाहन की टक्कर, चालक की मौत और चार पुलिसकर्मी घायल",
+            "link": "https://zeenews.india.com/hindi/india/bihar-jharkhand/jamui/tractor-and-police-vehicle-collide-in-jamui-driver-dies-and-four-policemen-injured/2581980",
+            "keywords": null,
+            "creator": [
+                "Zee News Hindi"
+            ],
+            "video_url": null,
+            "description": "Road Accident in Jamui: जमुई का यह हादसा एक बार फिर सड़क सुरक्षा और पुलिस वाहनों के संचालन को लेकर सवाल खड़े करता है. अब प्रशासन की जिम्मेदारी है कि वह इस मामले में सख्त कदम उठाए और भविष्य में ऐसी घटनाओं को रोकने के लिए आवश्यक उपाय सुनिश्चित करे.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2024-12-31 07:05:52",
+            "pubDateTZ": "UTC",
+            "image_url": "https://hindi.cdn.zeenews.com/hindi/sites/default/files/2024/12/31/3557971-bihar-news-1.png?im=FitAndFill%3D%281200%2C900%29",
+            "source_id": "zeenews",
+            "source_priority": 5319,
+            "source_name": "Zee News",
+            "source_url": "http://zeenews.india.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/zeenews.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "5a7df342b4144879348fc82b527568bf",
+            "title": "Suchir Balaji’s parents say it was not suicide: Mother says, “no suicide note ...blood shots in the bathroom...”",
+            "link": "https://timesofindia.indiatimes.com/technology/social/suchir-balajis-parents-say-it-was-not-suicide-mother-says-no-suicide-note-blood-shots-in-the-bathroom/articleshow/116821864.cms",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "A video of former OpenAI researcher Suchir Balaji's parents discussing their son’s death has gained 3.6 million views. His parents assert that his death was a murder rather than suicide, contradicting police findings.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2024-12-31 07:05:46",
+            "pubDateTZ": "UTC",
+            "image_url": "https://static.toiimg.com/thumb/msid-116821912,imgsize-35340,width-400,resizemode-4/116821912.jpg",
+            "source_id": "toi",
+            "source_priority": 391,
+            "source_name": "The Times Of India",
+            "source_url": "https://timesofindia.indiatimes.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/toi.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "f0b69a941a62fbb69319241e39754885",
+            "title": "ML Infrastructure Innovation: Abhishek Das's Graph Execution Service Success",
+            "link": "https://www.outlookindia.com/hub4business/ml-infrastructure-innovation-abhishek-dass-graph-execution-service-success",
+            "keywords": [
+                "ml infrastructure innovation",
+                " cloud computing",
+                " technical leadership",
+                " technical innovation",
+                " abhishek das",
+                " graph execution service success"
+            ],
+            "creator": null,
+            "video_url": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2024-12-31 07:05:46",
+            "pubDateTZ": "UTC",
+            "image_url": "https://media.assettype.com/outlookindia/2024-12-31/d8p3y816/1.jpg?ar=40%3A21&auto=format%2Ccompress&enlarge=true&mode=crop&ogImage=true&overlay=false&overlay_position=bottom&overlay_width=100&w=1200",
+            "source_id": "outlookindia",
+            "source_priority": 1033,
+            "source_name": "Outlook",
+            "source_url": "https://www.outlookindia.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/outlookindia.jpg",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "47355d0c0b0f847aa31758d38e44dd4e",
+            "title": "EMPLOYMENT (31-12-2024)",
+            "link": "https://www.dailyexcelsior.com/employment-31-12-2024/",
+            "keywords": [
+                "employment archive"
+            ],
+            "creator": [
+                "Daily Excelsior"
+            ],
+            "video_url": null,
+            "description": "URGENTLY REQUIRED SALES MANAGER-SALARY:18000/-TO 22000/- + INCENTIVE (03) MALE SALES COORDINATOR: SALARY-13000 TO 16000/- 01FEMALE DRIVER SALARY:15000/- 2 MALE OFFICE HELPER: SALARY 9000 TO 10000 /- 01 (M) CONTACT : M/S SATGURU STEEL 9906340600 MAIL ID: SATGURUSTEELJMU@GMAIL.COM PURMANDAL MORH, BARI BRAHMANA, JAMMU “REQUIRED” SECURITY GUARD & GUNMAN : 20 NOS (TWENTY) FIELD OFFICER : 1 NOS (ONE) FOR SNDD SECURITY PVT LTD FOR BARI BRAHMNA – BRANCH M : 9086225844, 8082777452 HIRING SALES EXECUTIVE QUALIFICATION : GRADUATION (ANY STREAM) EXPERIENCE [...]The post EMPLOYMENT (31-12-2024) appeared first on Daily Excelsior.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2024-12-31 07:05:41",
+            "pubDateTZ": "UTC",
+            "image_url": null,
+            "source_id": "dailyexcelsior",
+            "source_priority": 693953,
+            "source_name": "Daily Excelsior",
+            "source_url": "https://www.dailyexcelsior.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/dailyexcelsior.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "c78b23fb6c51ca6319a968288e0c86cd",
+            "title": "'Stop, Stop, Stop!': Runway Collision Averted At Los Angeles Airport Due To ATC's Alertness; Terrifying Video Goes Viral",
+            "link": "https://www.freepressjournal.in/world/stop-stop-stop-runway-collision-averted-at-los-angeles-airport-due-to-atcs-alertness-terrifying-video-goes-viral",
+            "keywords": [
+                "fpj shorts",
+                "world",
+                "topnews"
+            ],
+            "creator": null,
+            "video_url": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2024-12-31 07:05:39",
+            "pubDateTZ": "UTC",
+            "image_url": "https://media.assettype.com/freepressjournal/2024-12-31/5tbc0xl8/Hero-Image-2024-12-31T122619.861.jpg",
+            "source_id": "freepressjournal",
+            "source_priority": 26427,
+            "source_name": "The Free Press Journal",
+            "source_url": "https://www.freepressjournal.in",
+            "source_icon": "https://i.bytvi.com/domain_icons/freepressjournal.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "ea190228499a7bec5c159a1e025819c3",
+            "title": "7 New Year Resolutions Foodies Make Every Year, But Abandon By January 7th",
+            "link": "https://food.ndtv.com/food-drinks/7-new-year-resolutions-foodies-make-every-year-but-abandon-by-january-7th-4792648",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "New Year resolution #1: Quit junk food. Reality #1: Ordering Pizza at 2 AM - Again! Is 2025 going to be any different?",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2024-12-31 07:05:37",
+            "pubDateTZ": "UTC",
+            "image_url": "https://c.ndtvimg.com/2024-01/iltbmlvg_new-year_625x300_03_January_24.jpg?im=FeatureCrop%2Calgorithm%3Ddnn%2Cwidth%3D620%2Cheight%3D350",
+            "source_id": "ndtv",
+            "source_priority": 1204,
+            "source_name": "Ndtv",
+            "source_url": "http://www.ndtv.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/ndtv.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "entertainment",
+                "food"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "0049e0ecf942d2327f16036878263aef",
+            "title": "Year Ender: भारत-ऑस्ट्रेलिया से पाकिस्तान-दक्षिण अफ्रीका तक, जानें इस साल किस टीम ने जीते कितने टेस्ट",
+            "link": "https://www.abplive.com/photo-gallery/sports/cricket-india-australia-pakistan-south-africa-which-team-won-how-many-tests-in-2024-this-year-yashasvi-jaiswal-pat-cummins-rohit-sharma-2853256",
+            "keywords": [
+                "क्रिकेट"
+            ],
+            "creator": [
+                "एबीपी लाइव"
+            ],
+            "video_url": null,
+            "description": "Year Ender: भारत-ऑस्ट्रेलिया से पाकिस्तान-दक्षिण अफ्रीका तक, जानें इस साल किस टीम ने जीते कितने टेस्ट",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2024-12-31 07:05:36",
+            "pubDateTZ": "UTC",
+            "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2024/12/31/7b04f026602120d8e69ea2ae351b7fec17356240625571173_original.jpg",
+            "source_id": "abplive",
+            "source_priority": 7754,
+            "source_name": "Abp News",
+            "source_url": "http://abplive.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/abplive.jpg",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "sports"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "97e155b67fc9c36d1b4800bd53aa34ee",
+            "title": "11वीं की छात्रा ने जीभ काटकर भगवान शिव को चढ़ाई, मंदिर में कर रही साधना... पुलिस को अंदर नहीं जाने दे रहे लोग",
+            "link": "https://www.naidunia.com/chhattisgarh/janjgir-champa-11th-class-student-offered-to-lord-shiva-by-cutting-her-tongue-doing-meditation-inside-the-temple-villagers-are-not-allowing-the-police-to-go-inside-8374394",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "छत्तीसगढ़ के जांजगीर चांपा में अंधविश्वास का मामला सामने आया है। यहां गांव में तालाब किनारे बने मंदिर के बाहर ड्रामा जारी है। लड़की के परिजन और गांव वाले पुलिस को अंदर नहीं जाने दे रहे हैं। छात्रा ने अंदर खुद को कैद कर लिया है और लोग कह रहे हैं कि वह साधना कर रही है।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2024-12-31 07:05:35",
+            "pubDateTZ": "UTC",
+            "image_url": "https://img.naidunia.com/naidunia/ndnimg/31122024/31_12_2024-cg_girl_toung_news_20241231_12170.jpg",
+            "source_id": "naidunia",
+            "source_priority": 648711,
+            "source_name": "Naidunia",
+            "source_url": "https://www.naidunia.com",
+            "source_icon": null,
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "3875027ae2b4f59c80c4074e874a39b7",
+            "title": "नए साल पर आज पूरी रात दर्शन देंगे खाटूश्याम बाबा:लाखों लोग दर्शन करने के लिए आएंगे,1 हजार से ज्यादा सुरक्षाकर्मी तैनात",
+            "link": "https://www.bhaskar.com/local/rajasthan/sikar/news/khatushyam-baba-will-give-darshan-the-whole-night-on-new-year-134213701.html",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "आज साल 2024 का आखिरी दिन है। आज सीकर के खाटूश्याम मंदिर में सुबह से ही भक्तों की भीड़ लगी हुई है। आज और कल यहां लाखों की संख्या में लोग दर्शन करने के लिए आएंगे। आज पूरा खाटू कस्बा श्रद्धालुओं से अटा हुआ है। आपको बता दें कि हर वर्ष नए साल के मौके पर खाटू में लाखों श्रद्धालु दर्शन करने के लिए आते हैं। इसी के चलते इस बार नए साल के मौके पर मंदिर में दर्शनों के लिए VIP व्यवस्था को भी समाप्त किया हुआ है। मंदिर में दर्शनों के लिए सभी 14 लाइन आम भक्तों के लिए खोली जा चुकी है। पुलिस और प्रशासन भी पूरी तरह से मुस्तैद है। 4 RAC की कंपनी सहित करीब 1000 पुलिसकर्मी और 500 मंदिर के गार्ड सुरक्षा व्यवस्था संभाले हुए हैं। इस बार श्रद्धालुओं को रींगस रोड डायवर्जन के अलावा दांता रोड से लखदातार मैदान की तरफ ले जाया जाएगा। जिससे कि रींगस रोड पर भीड़ का दबाव कम रहेगा। नववर्ष के चलते खाटू कस्बे में जगह-जगह बैरिकेडिंग भी की गई है। मंदिर में भीड़ रहने के चलते आज पूरी रात मंदिर खुला रहेगा। हालांकि देर रात श्रृंगार के दौरान कुछ मिनट के लिए दर्शन बंद रह सकते हैं। सबसे ज्यादा भीड़ चल 1 जनवरी को खाटू में पहुंचने का अनुमान है। आपको बता दें कि खाटू में हर साल नए साल के मौके पर औसत 15 से 20 लाख श्रद्धालु दर्शन करने के लिए आते हैं। पूरे साल में श्रद्धालुओं का यह आंकड़ा करीब 1 करोड़ से ज्यादा रहता है। फाल्गुन महीने में आयोजित होने वाले लक्खी मेले के दौरान ही यहां 40 लाख से ज्यादा भक्त दर्शन करने के लिए पहुंचते हैं।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2024-12-31 07:05:35",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.bhaskarassets.com/thumb/1000x1000/web2images/521/2024/12/31/ezgif-3-28af2ba915_1735628605.gif",
+            "source_id": "bhaskar_hindi",
+            "source_priority": 34179,
+            "source_name": "Bhaskar",
+            "source_url": "https://www.bhaskar.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/bhaskar_hindi.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "domestic",
+                "other"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "43d0cd3c4b84fe4b3d96c40a34df4b4a",
+            "title": "दिल्ली चुनाव 2025: केजरीवाल के खिलाफ BJP की चार्जशीट",
+            "link": "https://www.aajtak.in/elections/assembly-chunav/video/bjp-mp-praveen-khandelwal-presents-chargesheet-against-aaps-10-year-rule-in-delhi-ahead-of-vidhan-sabha-elections-frvd-2133140-2024-12-31",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "दिल्ली में राज्यसभा चुनावों से पहले बीजेपी सांसद प्रवीण खंडेलवाल ने आम आदमी पार्टी के 10 साल के शासन का चार्जशीट पेश किया. बीजेपी का आरोप है कि दिल्ली सरकार कंगाल हुई जबकि आप विधायक मालामाल हो गए. खंडेलवाल ने चांदनी चौक लोकसभा क्षेत्र की 10 विधानसभाओं का दौरा कर विकास कार्यों का जायजा लिया. उन्होंने कहा कि 10 साल पहले जो सड़कें टूटी थीं, आज भी वैसी ही हैं. कोई नया अस्पताल, कॉलेज, स्कूल या फ्लाईओवर नहीं बना.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2024-12-31 07:05:34",
+            "pubDateTZ": "UTC",
+            "image_url": "https://akm-img-a-in.tosshub.com/aajtak/images/video/202412/677397941280e-praveen-khandelwal-attacks-arvind-kejriwal-310447118-16x9.png",
+            "source_id": "aajtak",
+            "source_priority": 20158,
+            "source_name": "Aaj Tak",
+            "source_url": "http://aajtak.in",
+            "source_icon": "https://i.bytvi.com/domain_icons/aajtak.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "785aaaacce77b04456cd0d890030a3dc",
+            "title": "Countdown to 2025: Quick and easy recipes for New Year’s Eve menu",
+            "link": "https://www.cnbctv18.com/photos/travel/food-and-drinks/countdown-to-2025-quick-and-easy-recipes-for-new-years-eve-menu-19531824.htm",
+            "keywords": [
+                "photogallery"
+            ],
+            "creator": [
+                "CNBCTV18"
+            ],
+            "video_url": null,
+            "description": "From refreshing mojito to spicy cheesy chicken garlic bread, here’s a list of easy recipes for a delicious New Year’s Eve menu.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2024-12-31 07:05:34",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.cnbctv18.com/uploads/2024/09/rajasthani-food-2024-09-dcf6ddd7b2dbdbb24e97a4a2590699f8.jpg",
+            "source_id": "cnbctv18",
+            "source_priority": 17950,
+            "source_name": "Cnbctv18",
+            "source_url": "https://www.cnbctv18.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/cnbctv18.jpg",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "other"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "e0a93e6e75e1aa16f1d496f6390e54ce",
+            "title": "Unimech Aerospace shares make stellar market debut; jump 90%",
+            "link": "https://www.deccanherald.com/business/companies/unimech-aerospace-shares-make-stellar-market-debut-jump-90-3337059",
+            "keywords": null,
+            "creator": [
+                "PTI"
+            ],
+            "video_url": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2024-12-31 07:05:30",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.deccanherald.com/deccanherald%2F2024-01%2F09229287-b5f9-40eb-a1ff-7498f3ce41d1%2Fshares.jpg?ar=40%3A21&auto=format%2Ccompress&mode=crop&ogImage=true&rect=0%2C0%2C612%2C321&w=1200",
+            "source_id": "deccanherald",
+            "source_priority": 10080,
+            "source_name": "Deccan Herald",
+            "source_url": "https://www.deccanherald.com",
+            "source_icon": null,
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "e03a31494265c795359929516162cbab",
+            "title": "UP School Holiday List 2025: Students To Observe 119 Days Of Leave In 2025; Summer Break, Additional Holidays Announced | Check List",
+            "link": "https://english.jagran.com/uttar-pradesh/up-school-holiday-list-2025-public-holiday-calendar-for-schools-up-government-karwa-chauth-leave-up-female-teachers-yogi-adityanath-buddha-purnima-holiday-10209770",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "Up news,Up school News,Uttar Pradesh School Holiday,Up summer vacations 2025,Up school holiday calendar 2025",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2024-12-31 07:05:28",
+            "pubDateTZ": "UTC",
+            "image_url": "https://imgeng.jagran.com/images/2024/12/31/article/image/Schools-1735628464336.webp",
+            "source_id": "english_jagran",
+            "source_priority": 10561,
+            "source_name": "Jagran English",
+            "source_url": "https://english.jagran.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/english_jagran.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "a3664072ea385522547471b3bcf858bf",
+            "title": "यूपी DGP प्रशांत कुमार की फर्जी इंस्टाग्राम ID बनाकर ठग मांग रहे रुपये, यूट्यूब चैनल भी बनाया; मुकदमा दर्ज",
+            "link": "https://www.jagran.com/uttar-pradesh/lucknow-city-up-dgp-dgp-prashant-kumar-youtube-channel-and-instagram-id-created-to-fraud-in-lucknow-23858750.html",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "उत्तर प्रदेश के डीजीपी प्रशांत कुमार के नाम से जालसाजों ने फर्जी यूट्यूब चैनल और इंस्टाग्राम आईडी बनाकर ठगी की है। ठग जयपुर में हुए हादसे में घायल लोगों के लिए आर्थिक सहायता की मांग कर रहे हैं। इसके लिए लोगों को क्यूआर कोड भी भेज रहे हैं। मामला सामने आने के बाद दारोगा गुलाम हुसैन ने साइबर थाने में मुकदमा दर्ज कराया है।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2024-12-31 07:05:21",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.jagranimages.com/images/newimg/31122024/31_12_2024-dgp_prashant_kumar_23858750_m.webp",
+            "source_id": "jagran",
+            "source_priority": 6734,
+            "source_name": "ताजा हिंदी ख़बरें",
+            "source_url": "https://www.jagran.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/jagran.jpg",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "domestic"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "af016317633974232443a315cca61e4b",
+            "title": "Aamir to Aishwarya : Bollywood stars missing from the silver screen in 2024",
+            "link": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/aamir-to-aishwarya-bollywood-stars-missing-from-the-silver-screen-in-2024/articleshow/116821640.cms",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "In 2024, Bollywood stars like Anushka Sharma, Aishwarya Rai Bachchan, Aamir Khan, Salman Khan, Shah Rukh Khan, Ayushmann Khurrana, Ranbir Kapoor, and Ranveer Singh were absent from the big screen. However, many are working on upcoming projects, fueling anticipation for their future releases. Fans eagerly await their return in 2025 and beyond.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2024-12-31 07:05:19",
+            "pubDateTZ": "UTC",
+            "image_url": "https://static.toiimg.com/thumb/msid-116821748,imgsize-12796,width-400,resizemode-4/116821748.jpg",
+            "source_id": "toi",
+            "source_priority": 391,
+            "source_name": "The Times Of India",
+            "source_url": "https://timesofindia.indiatimes.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/toi.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": true
+        },
+        {
+            "article_id": "dd7a573eb7be9b21c5b3adfff9cc5318",
+            "title": "VIDEO : नैनीताल में अध्यक्ष पद के लिए कांग्रेस से सरस्वती खेतवाल ने किया नामांकन",
+            "link": "https://www.amarujala.com/video/uttarakhand/nainital/video-nanatal-ma-athhayakashha-patha-ka-le-kagarasa-sa-sarasavata-khataval-na-kaya-namakana",
+            "keywords": null,
+            "creator": [
+                ""
+            ],
+            "video_url": null,
+            "description": "नैनीताल में अध्यक्ष पद के लिए कांग्रेस से सरस्वती खेतवाल ने किया नामांकन",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2024-12-31 07:05:16",
+            "pubDateTZ": "UTC",
+            "image_url": "https://posterimage.amarujala.com/1TswhNw.0000000.jpg?dpr=1.0&w=750",
+            "source_id": "amarujala",
+            "source_priority": 55215,
+            "source_name": "Amar Ujala",
+            "source_url": "https://www.amarujala.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/amarujala.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "8dde61d6caaec9f830c2f0086614c8ff",
+            "title": "Uma Thomas still in critical condition; pneumonia risk looms, antibiotics administered, say doctors",
+            "link": "https://keralakaumudi.com/en/news/kerala/general/uma-thomas-still-in-critical-condition-pneumonia-risk-looms-antibiotics-administered-say-doctors-1452802",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "KOCHI: Doctors said that there is a slight improvement in the health condition of MLA Uma Thomas.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2024-12-31 07:05:14",
+            "pubDateTZ": "UTC",
+            "image_url": "https://keralakaumudi.com/web-news/en/2024/12/NMAN0555635/image/uma-thomas.1.3069669.webp",
+            "source_id": "keralakaumudi",
+            "source_priority": 79921,
+            "source_name": "Kerala Kaumudi Online",
+            "source_url": "https://keralakaumudi.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/keralakaumudi.jpg",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "bb4d0df8fd95f16e45962c9df1e81114",
+            "title": "‘All possible help will be extended’, Centre clarifies stand on Nimisha Priya’s death sentence",
+            "link": "https://keralakaumudi.com/en/news/kerala/general/%E2%80%98all-possible-help-will-be-extended%E2%80%99-centre-clarifies-stand-on-nimisha-priya%E2%80%99s-death-sentence-1452804",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "NEW DELHI: The ministry of external affairs said the government will do everything possible for the release of Nimisha Priya, serving death sentence in Yemen prison.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2024-12-31 07:05:13",
+            "pubDateTZ": "UTC",
+            "image_url": "https://keralakaumudi.com/web-news/en/2024/12/NMAN0555638/image/thumb/nimisha-priya.1.3069675.webp",
+            "source_id": "keralakaumudi",
+            "source_priority": 79921,
+            "source_name": "Kerala Kaumudi Online",
+            "source_url": "https://keralakaumudi.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/keralakaumudi.jpg",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "ac6a4e308cb3444c6cafbcd08a36df81",
+            "title": "एकसाथ गुच्छे में टूट रहे हैं बाल तो सरसों के तेल में मिलाकर लगाना शुरू कर दीजिए यह चीज, रुक जाएगा हेयर फॉल",
+            "link": "https://ndtv.in/lifestyle/mustard-oil-for-hair-fall-control-baal-jhadna-rokne-ke-liye-sarso-ka-tel-7368991",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "Mustard Oil: बालों का झड़ना एक बार शुरू होता है तो फिर रुकने का नाम नहीं लेता. ऐसे में अगर आप भी हेयर फॉल से परेशान हैं तो यहां जानिए किस तरह सरसों के तेल के इस्तेमाल से बालों का झड़ना रोका जा सकता है.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2024-12-31 07:05:11",
+            "pubDateTZ": "UTC",
+            "image_url": "https://c.ndtvimg.com/2024-02/ckk6vg2g_how-to-prevent-hair-fall_625x300_22_February_24.jpg?im=FeatureCrop%2Calgorithm%3Ddnn%2Cwidth%3D1200%2Cheight%3D738",
+            "source_id": "ndtv",
+            "source_priority": 1204,
+            "source_name": "Ndtv",
+            "source_url": "http://www.ndtv.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/ndtv.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
             "article_id": "586e0982deeb09b653cefca1fa517fd9",
             "title": "Triptii Dimri Vacations With Rumoured Beau Sam Merchant Enjoys The Snowfall In Finland",
             "link": "https://zeenews.india.com/people/triptii-dimri-vacations-with-rumoured-beau-sam-merchant-enjoys-the-snowfall-in-finland-2837970.html",
@@ -24063,784 +24714,6 @@
             ],
             "category": [
                 "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "088a9c541f0339c224da72dd7420c21d",
-            "title": "Top 10 Most Popular Netflix Movies of 2024",
-            "link": "https://economictimes.indiatimes.com/magazines/panache/web-stories/top-10-most-popular-netflix-movies-of-2024/slideshow/116775849.cms",
-            "keywords": null,
-            "creator": null,
-            "video_url": null,
-            "description": "Top 10 Most Popular Netflix Movies of 2024",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2024-12-29 19:06:43",
-            "pubDateTZ": "UTC",
-            "image_url": "https://img.etimg.com/thumb/msid-116776077,width-900,height-1200,resizemode-6.cms",
-            "source_id": "economictimes_indiatimes",
-            "source_priority": 231,
-            "source_name": "The Economic Times",
-            "source_url": "https://economictimes.indiatimes.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/economictimes_indiatimes.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "entertainment"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "60eac19c11c4901e07719b9aa213e705",
-            "title": "आज का मेष राशिफल, 30 दिसंबर 2024, सोमवार - आप धैर्य से काम लेंगे!",
-            "link": "https://hindi.oneindia.com/astrology/aaj-ka-mesh-rashifal-30-december-2024-read-aries-horoscope-today-prediction-in-hindi-011-1189387.html",
-            "keywords": [
-                "astrology"
-            ],
-            "creator": null,
-            "video_url": null,
-            "description": "मेष राशिफल आज हिंदी में, 30 दिसंबर, 2024, सोमवार: हमारे दैनिक ज्योतिष भविष्यवाणियों के साथ अपने दिन का अन्वेषण करें",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2024-12-29 19:06:41",
-            "pubDateTZ": "UTC",
-            "image_url": "https://imagesvs.oneindia.com/hi/img/2024/12/aries-horoscope-today-december-30-monday-astrology-prediction-600x338-20241230003411.jpg",
-            "source_id": "oneindia",
-            "source_priority": 12404,
-            "source_name": "One India",
-            "source_url": "https://www.oneindia.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/oneindia.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "2155241873904e039fe0c7098f1a9669",
-            "title": "Allu Arjun Fans Allegedly Threaten OU-JAC Leaders Over Attack",
-            "link": "https://www.deccanchronicle.com/southern-states/telangana/allu-arjun-fans-allegedly-threaten-ou-jac-leaders-over-attack-1850601",
-            "keywords": [
-                "southern states,telangana"
-            ],
-            "creator": [
-                "DC Correspondent"
-            ],
-            "video_url": null,
-            "description": null,
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2024-12-29 19:06:36",
-            "pubDateTZ": "UTC",
-            "image_url": "https://www.deccanchronicle.com/h-upload/2024/12/29/1877096-alluarjun.webp",
-            "source_id": "deccanchronicle",
-            "source_priority": 14130,
-            "source_name": "Deccan Chronicle",
-            "source_url": "https://www.deccanchronicle.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/deccanchronicle.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "0011ffb45640c46d459a631ce3afd0e2",
-            "title": "आज का मकर राशिफल, 30 दिसंबर 2024, सोमवार - आप धैर्य से काम लेंगे!",
-            "link": "https://hindi.oneindia.com/astrology/aaj-ka-makar-rashifal-30-december-2024-read-capricorn-horoscope-today-prediction-in-hindi-011-1189389.html",
-            "keywords": [
-                "astrology"
-            ],
-            "creator": null,
-            "video_url": null,
-            "description": "मकर राशिफल आज हिंदी में, 30 दिसंबर, 2024, सोमवार: हमारे दैनिक ज्योतिष भविष्यवाणियों के साथ अपने दिन का अन्वेषण करें",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2024-12-29 19:06:33",
-            "pubDateTZ": "UTC",
-            "image_url": null,
-            "source_id": "oneindia",
-            "source_priority": 12404,
-            "source_name": "One India",
-            "source_url": "https://www.oneindia.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/oneindia.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "15af690aa9339d67a1fcced8c711357a",
-            "title": "India’s GCC boom: Road ahead not free of hurdles",
-            "link": "https://www.deccanherald.com/business/indias-gcc-boom-road-ahead-not-free-of-hurdles-3335588",
-            "keywords": null,
-            "creator": [
-                "Sonal Choudhary"
-            ],
-            "video_url": null,
-            "description": "India’s GCC boom: Road ahead not free of hurdles",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2024-12-29 19:06:15",
-            "pubDateTZ": "UTC",
-            "image_url": "https://images.deccanherald.com/deccanherald%2F2024-12-29%2Funty7mv8%2Ffile7yhaf7pr4vbdi3segam.jpg?ar=40%3A21&auto=format%2Ccompress&mode=crop&ogImage=true&rect=0%2C0%2C1342%2C705&w=1200",
-            "source_id": "deccanherald",
-            "source_priority": 10080,
-            "source_name": "Deccan Herald",
-            "source_url": "https://www.deccanherald.com",
-            "source_icon": null,
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "847b47bcfff99b03b9c7ab13c037f208",
-            "title": "Punjab: Five associates of two gangs arrested in Tarn Taran",
-            "link": "https://www.hindustantimes.com/cities/chandigarh-news/punjab-five-associates-of-two-gangs-arrested-in-tarn-taran-101735499173941.html",
-            "keywords": [
-                "cities"
-            ],
-            "creator": null,
-            "video_url": null,
-            "description": "Punjab Police arrested 5 associates of Jaggu Bhagwanpuria and Amritpal Bath gangs, seizing 4 weapons and uncovering targeted killing plots.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2024-12-29 19:06:13",
-            "pubDateTZ": "UTC",
-            "image_url": "https://www.hindustantimes.com/ht-img/img/2024/12/29/1600x900/The-accused--with-their-faces-covered--after-being_1735499170632.jpg",
-            "source_id": "hindustantimes",
-            "source_priority": 933,
-            "source_name": "Hindustan Times",
-            "source_url": "http://www.hindustantimes.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/hindustantimes.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "ed4108d7bef4b2846a9c6fbd5d4267b7",
-            "title": "देश की खबरें | पंजाब सरकार ने डल्लेवाल को चिकित्सा सहायता के लिए मनाने की कोशिश की, पर किसान नेता का इनकार",
-            "link": "https://hindi.latestly.com/agency-news/punjab-government-tried-to-convince-dallewal-for-medical-help-but-farmer-leader-refusedr-2437185.html",
-            "keywords": null,
-            "creator": null,
-            "video_url": null,
-            "description": "Get Latest हिन्दी समाचार, Breaking News on India at LatestLY हिन्दी. पंजाब सरकार द्वारा रविवार को गठित की गई एक टीम ने अनशन कर रहे किसान नेता जगजीत सिंह डल्लेवाल को चिकित्सा सहायता लेने के लिए मनाने की कोशिश की, लेकिन उन्होंने (डल्लेवाल ने) इनकार कर दिया और अंदेशा जताया कि उन्हें विरोध स्थल से हटाने के लिए बल प्रयोग किया जा सकता है।",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2024-12-29 19:06:06",
-            "pubDateTZ": "UTC",
-            "image_url": "https://hist1.latestly.com/wp-content/uploads/2020/04/india_default_img-380x214.jpg",
-            "source_id": "latestly",
-            "source_priority": 31923,
-            "source_name": "Latestly",
-            "source_url": "https://www.latestly.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/latestly.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "a59fe2e7a0bb2cf050e88587f79ba104",
-            "title": "Hackers hijacked legitimate Chrome extensions to try to steal data",
-            "link": "https://news.knowledia.com/all/all/articles/hackers-hijacked-legitimate-chrome-extensions-to-try-to-steal-data-9f45d982f7910044973fe6f9e7a4befd44433cc2?source=rss",
-            "keywords": null,
-            "creator": null,
-            "video_url": null,
-            "description": "Cybersecurity startup Cyberhaven's Chrome extension was hijacked to steal cookies and authentication data with a hacked update uploaded on Christmas Day. - www.theverge.com",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2024-12-29 18:12:53",
-            "pubDateTZ": "UTC",
-            "image_url": "https://cdn.vox-cdn.com/thumbor/JmJeUJmvkMpVzPYm6ebTXGWtJnc=/0x0:2040x1360/1400x788/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23249791/VRG_ILLO_STK001_carlo_cadenas_cybersecurity_virus.jpg",
-            "source_id": "knowledia",
-            "source_priority": 167779,
-            "source_name": "Knowledia News",
-            "source_url": "http://news.knowledia.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/knowledia.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": true
-        },
-        {
-            "article_id": "6a2d6f086838d4a3c3f8003c0ecfa4ef",
-            "title": "Apple pulls remaining Lightning-based devices from European stores",
-            "link": "https://news.knowledia.com/all/all/articles/apple-pulls-remaining-lightning-based-devices-from-european-stores-f40e2b7aa6688a1648e722791df50143ad2d45b8?source=rss",
-            "keywords": null,
-            "creator": null,
-            "video_url": null,
-            "description": "Apple has removed all Lightning-based devices sold in Europe in compliance with the EU's common charging solution that comes into force today. - www.theverge.com",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2024-12-29 18:12:53",
-            "pubDateTZ": "UTC",
-            "image_url": "https://cdn.vox-cdn.com/thumbor/8Mv6wJbELsFN2f1yYuVVh2mcdQY=/0x0:2040x1360/1400x788/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/16294979/akrales_190522_3440_0029.jpg",
-            "source_id": "knowledia",
-            "source_priority": 167779,
-            "source_name": "Knowledia News",
-            "source_url": "http://news.knowledia.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/knowledia.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": true
-        },
-        {
-            "article_id": "20c311a33ea9af8674f4bd0fde314cb2",
-            "title": "लोकसभा चुनाव में विदेश में रह रहे भारतीयों ने नहीं दिखाया उत्साह, EC ने जारी किए आंकड़े",
-            "link": "https://www.jagran.com/news/national-indians-living-abroad-did-not-show-enthusiasm-in-lok-sabha-elections-ec-released-figures-23858047.html",
-            "keywords": null,
-            "creator": null,
-            "video_url": null,
-            "description": "साल 2024 के लोकसभा चुनाव में विदेश में रह रहे भारतीयों ने कोई खास उत्साह नहीं दिखाया है। चुनाव आयोग ने जो आंकड़े जारी किए हैं उसके अनुसार करीब 1.2 लाख ओवरसीज इंडियंस मतदाता सूची में पंजीकृत हैं लेकिन सिर्फ 2958 ने भारत आकर अपने मताधिकार का प्रयोग किया। वहीं साल 2019 में पंजीकृत ओवरसीज इलेक्टर्स की कुल संख्या 99844 थी।",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2024-12-29 18:12:36",
-            "pubDateTZ": "UTC",
-            "image_url": "https://www.jagranimages.com/images/newimg/29122024/29_12_2024-lok_sabha_election_2024_23858047_224526472_m.webp",
-            "source_id": "jagran",
-            "source_priority": 6734,
-            "source_name": "ताजा हिंदी ख़बरें",
-            "source_url": "https://www.jagran.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/jagran.jpg",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "world"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "1f945b0ad56e2dd3a09bf76e5f369c19",
-            "title": "Mumbai City FC vs NorthEast United FC: Clash of Contrasting Styles in ISL 2024-25",
-            "link": "https://www.devdiscourse.com/article/sports-games/3209927-mumbai-city-fc-vs-northeast-united-fc-clash-of-contrasting-styles-in-isl-2024-25",
-            "keywords": null,
-            "creator": null,
-            "video_url": null,
-            "description": "Mumbai City FC vs NorthEast United FC: Clash of Contrasting Styles in ISL 2024-25 Mumbai City FC is set to face NorthEast United FC on Monday in the Indian Super League (ISL) 2024-25 at the Mumbai Football Arena. Mumbai City, currently fifth with 20 points from 12 matches, will aim to reinforce their position against sixth-placed NorthEast, who have 18 points.Mumbai's recent form shows three wins out of their last five matches, compared to NorthEast's two victories. Historically, Mumbai has dominated their encounters, remaining unbeaten in the last six ISL duels with NorthEast, winning the previous four matches. Both teams, however, exhibit contrasting styles this season.While NorthEast has scored 26 goals, showcasing impressive offensive play, Mumbai focuses on defensive strength, achieving five clean sheets. As the teams prepare for their 21st face-off, a victory could help either strengthen their league position, with strategies and key player performances under the spotlight.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2024-12-29 18:12:32",
-            "pubDateTZ": "UTC",
-            "image_url": "https://devdiscourse.blob.core.windows.net/devnews/29_12_2024_23_42_26_5445588.jpg",
-            "source_id": "devdiscourse",
-            "source_priority": 566021,
-            "source_name": "Devdiscourse",
-            "source_url": "https://www.devdiscourse.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/devdiscourse.jpg",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "f7946724508f9c4fb4d80dc851c8bbcd",
-            "title": "Multiple load tests conducted on Anji Khad bridge of Jammu-Srinagar railway line",
-            "link": "https://www.greaterkashmir.com/jammu/multiple-load-tests-conducted-on-anji-khad-bridge-of-jammu-srinagar-railway-line/",
-            "keywords": [
-                "jammu",
-                "today's paper",
-                "page 9"
-            ],
-            "creator": [
-                "",
-                "Sumit Bhargav"
-            ],
-            "video_url": null,
-            "description": "This cable railway bridge is also the world's highest railway bridge and has come to news in the last couple of years since its completionThe post Multiple load tests conducted on Anji Khad bridge of Jammu-Srinagar railway line appeared first on Greater Kashmir.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2024-12-29 18:12:22",
-            "pubDateTZ": "UTC",
-            "image_url": "https://greaterkashmir.imagibyte.sortdcdn.net/wp-content/uploads/2024/02/railway.jpg?quality=80&type=webp",
-            "source_id": "greaterkashmir",
-            "source_priority": 101259,
-            "source_name": "Greater Kashmir",
-            "source_url": "https://www.greaterkashmir.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/greaterkashmir.jpg",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "d79888c5d5836a8ae0937b286cf86002",
-            "title": "World News | UAE: 117th Open Auction for Number Plates Generates over AED81 Million",
-            "link": "https://www.latestly.com/agency-news/world-news-uae-117th-open-auction-for-number-plates-generates-over-aed81-million-6527071.html",
-            "keywords": null,
-            "creator": null,
-            "video_url": null,
-            "description": "Get latest articles and stories on World at LatestLY. The 117th open auction for exclusive vehicle number plates in Dubai achieved total revenues of AED81.178 million, marking the highest proceeds in the history of Roads and Transport Authority (RTA) auctions since their inception.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2024-12-29 18:12:19",
-            "pubDateTZ": "UTC",
-            "image_url": "https://st1.latestly.com/wp-content/uploads/2024/12/ANI-20241229174259-380x214.jpg",
-            "source_id": "latestly",
-            "source_priority": 31923,
-            "source_name": "Latestly",
-            "source_url": "https://www.latestly.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/latestly.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "77f482e2aeaf53f8f575825a2eb832af",
-            "title": "Tech to drive India's manufacturers growth: Survey",
-            "link": "http://economictimes.indiatimes.com/news/economy/indicators/tech-to-drive-indias-manufacturers-growth-survey/articleshow/116774830.cms",
-            "keywords": null,
-            "creator": null,
-            "video_url": null,
-            "description": "Indian manufacturers are increasingly utilizing technologies such as IoT, AI, ML, robotics, and automation to boost profitability and global competitiveness. Despite this, many firms are dedicating less than 10% of their budgets to technology. The report anticipates a rise in tech investments to 11-15% within two years, driven by high-capital industries leading the way.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2024-12-29 18:12:17",
-            "pubDateTZ": "UTC",
-            "image_url": "https://img.etimg.com/thumb/msid-116774893,width-300,height-225,imgsize-240300,resizemode-75/smart-manufacturing-.jpg",
-            "source_id": "economictimes_indiatimes",
-            "source_priority": 231,
-            "source_name": "The Economic Times",
-            "source_url": "https://economictimes.indiatimes.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/economictimes_indiatimes.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "8c39d18987a344365f81ddab2f8f6207",
-            "title": "India News | Odisha CM, Ministers Undertake Field Visits to Assess Crop Damage Due to Unseasonal Rain",
-            "link": "https://www.latestly.com/agency-news/india-news-odisha-cm-ministers-undertake-field-visits-to-assess-crop-damage-due-to-unseasonal-rain-6527069.html",
-            "keywords": null,
-            "creator": null,
-            "video_url": null,
-            "description": "Get latest articles and stories on India at LatestLY. Odisha Chief Minister Mohan Charan Majhi on Sunday undertook field visits in three districts to assess crop damage due to recent unseasonal rainfall in the state and assured farmers that his government would provide assistance to affected growers.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2024-12-29 18:12:15",
-            "pubDateTZ": "UTC",
-            "image_url": "https://st1.latestly.com/wp-content/uploads/2018/03/default-img-01-784x441.jpg",
-            "source_id": "latestly",
-            "source_priority": 31923,
-            "source_name": "Latestly",
-            "source_url": "https://www.latestly.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/latestly.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "f0e071166fb2f037eee14d441779fefc",
-            "title": "Madhya Pradesh: Six Inspectors, 28 Constables Transferred To Lokayukta Police Bhopal; Three Inspectors Appointed At EOW",
-            "link": "https://www.freepressjournal.in/bhopal/madhya-pradesh-six-inspectors-28-constables-transferred-to-lokayukta-police-bhopal",
-            "keywords": [
-                "bhopal news",
-                "topnews",
-                "indore news"
-            ],
-            "creator": null,
-            "video_url": null,
-            "description": null,
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2024-12-29 18:12:10",
-            "pubDateTZ": "UTC",
-            "image_url": "https://media.assettype.com/freepressjournal/2019-11/1b009659-f288-413a-bc53-1fff8a6d7cf8/transfer_clipart_transfer_hi.png",
-            "source_id": "freepressjournal",
-            "source_priority": 26427,
-            "source_name": "The Free Press Journal",
-            "source_url": "https://www.freepressjournal.in",
-            "source_icon": "https://i.bytvi.com/domain_icons/freepressjournal.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "6f9ffa816811c47a5a4257b6492585c2",
-            "title": "5 लोगों पर हमला कर चुके तेंदुए को पकड़ने के लिए ग्राउंड पर उतरे पूर्व BJP विधायक, जाल भी साथ लेकर आए, देखें VIDEO",
-            "link": "https://www.indiatv.in/madhya-pradesh/former-bjp-mla-shyamlal-dwivedi-in-the-field-to-catch-the-leopard-see-video-2024-12-29-1101365",
-            "keywords": null,
-            "creator": null,
-            "video_url": null,
-            "description": "भाजपा के पूर्व विधायक श्यामलाल द्विवेदी तेंदुए को पकड़ने के लिए ग्राउंड में उतरे। तेंदुए के हमले में 5 लोग घायल हुए हैं। इनमें दो लोगों की हालत गंभीर बताई जा रही है।",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2024-12-29 18:12:00",
-            "pubDateTZ": "UTC",
-            "image_url": "https://resize.indiatv.in/resize/1200_-/2024/12/mla-1735495563.jpg",
-            "source_id": "indiatv",
-            "source_priority": 216441,
-            "source_name": "India Tv",
-            "source_url": "https://www.indiatv.in",
-            "source_icon": "https://i.bytvi.com/domain_icons/indiatv.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "6b6db89108634e02a6c8723602848a7b",
-            "title": "ट्रंप को खून के आंसू रुलाएगा पुतिन का 'खास दोस्त', किसने बढ़ा दी US की टेंशन",
-            "link": "https://hindi.news18.com/news/world/rest-of-world-donald-trump-old-friend-kim-jong-un-trouble-for-us-north-korea-announce-very-hard-policy-8927388.html",
-            "keywords": [
-                "अन्य देश"
-            ],
-            "creator": [
-                "News18 Hindi"
-            ],
-            "video_url": null,
-            "description": "Donald Trump News: अमेरिका के नव-निर्वाचित राष्ट्रपति डोनाल्ड ट्रंप के मुश्किलें कम होने का नाम नहीं ले रहीं. मिडिल-ईस्ट में पहले से तनाव का माहौल है और अब उनके एक पुराने दोस्त का बयान भी अमेरिका के लिए सिरदर्द बन गया है.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2024-12-29 18:11:57",
-            "pubDateTZ": "UTC",
-            "image_url": "https://images.news18.com/ibnkhabar/uploads/2024/12/Donald-Trump-Vladimir-Putin-2024-12-20bf1b1f49f90ee2d21fe76c9393113e-3x2.jpg",
-            "source_id": "hindinews18",
-            "source_priority": 4077,
-            "source_name": "News 18 Hindi",
-            "source_url": "https://hindi.news18.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/hindinews18.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "world"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "3a5a01fe3b2b3b638bf8be8a5e249d6c",
-            "title": "Jalori Jot tunnel alignment finalised, heeding Shoja villagers’ concerns",
-            "link": "https://timesofindia.indiatimes.com/city/chandigarh/jalori-jot-tunnel-alignment-finalised-heeding-shoja-villagers-concerns/articleshow/116774815.cms",
-            "keywords": null,
-            "creator": [
-                "Rohit Mullick"
-            ],
-            "video_url": null,
-            "description": null,
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2024-12-29 18:11:53",
-            "pubDateTZ": "UTC",
-            "image_url": "https://static.toiimg.com/thumb/msid-116774814,width-1070,height-580,imgsize-101746,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-            "source_id": "toi",
-            "source_priority": 391,
-            "source_name": "The Times Of India",
-            "source_url": "https://timesofindia.indiatimes.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/toi.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "world"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "c75413d3bf75cf6fcf4c333882a49f35",
-            "title": "Odisha Chief Minister Majhi Urges Farmers' Assistance Amidst Rain-Induced Crop Damage",
-            "link": "https://www.devdiscourse.com/article/headlines/3209926-odisha-chief-minister-majhi-urges-farmers-assistance-amidst-rain-induced-crop-damage",
-            "keywords": null,
-            "creator": null,
-            "video_url": null,
-            "description": "Odisha Chief Minister Majhi Urges Farmers' Assistance Amidst Rain-Induced Crop Damage Odisha Chief Minister Mohan Charan Majhi conducted field visits on Sunday in three districts to assess the impact of unseasonal rains on crops, promising support for affected farmers. He extended the claims deadline to Monday, emphasizing the severe impact on coastal Odisha farmers.Majhi, joined by key officials, toured paddy fields across Nayagarh, Gajapati, and Ganjam districts, engaging directly with distressed farmers. The state aims to include unseasonal rains in the national disaster and relief code to secure central aid due to significant damage observed between December 20 and 28.In addition to insured farmers under the Pradhan Mantri Fasal Bima Yojana, the Odisha government plans assistance for uninsured growers and sharecroppers. Affected farmers are advised to report losses through the 'Krishi Rakshak' App or a toll-free number, while opposition leaders advocate for further deadline extensions.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2024-12-29 18:11:52",
-            "pubDateTZ": "UTC",
-            "image_url": "https://devdiscourse.blob.core.windows.net/aiimagegallery/13_07_2024_10_52_05_0575179.png",
-            "source_id": "devdiscourse",
-            "source_priority": 566021,
-            "source_name": "Devdiscourse",
-            "source_url": "https://www.devdiscourse.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/devdiscourse.jpg",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "5f1327b3d02c9b4a6ba8a4714478bd8c",
-            "title": "MMC appoints Dr Khandekar as expert for scrutinising medical negligence cases",
-            "link": "https://timesofindia.indiatimes.com/city/nagpur/mmc-appoints-dr-khandekar-as-expert-for-scrutinising-medical-negligence-cases/articleshow/116774813.cms",
-            "keywords": null,
-            "creator": null,
-            "video_url": null,
-            "description": null,
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2024-12-29 18:11:46",
-            "pubDateTZ": "UTC",
-            "image_url": "https://static.toiimg.com/thumb/msid-116774811,width-1070,height-580,imgsize-22676,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-            "source_id": "toi",
-            "source_priority": 391,
-            "source_name": "The Times Of India",
-            "source_url": "https://timesofindia.indiatimes.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/toi.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "4ca038faa98eb7658eeaaf1517b78b14",
-            "title": "New Zealand vs Sri Lanka, 2nd T20I Match 2024 Key Players To Watch Out: न्यूजीलैंड और श्रीलंका के बीच कल खेला जाएगा हाईवोल्टेज मुकाबला, इन धुरंधर खिलाड़ियों पर होगी सबकी नजर",
-            "link": "https://hindi.latestly.com/sports/cricket/new-zealand-vs-sri-lanka-2nd-t20i-match-2024-key-players-to-watch-out-a-high-voltage-match-will-be-played-between-new-zealand-and-sri-lanka-tomorrow-everyones-eyes-will-be-on-these-great-players-2437030.html",
-            "keywords": null,
-            "creator": null,
-            "video_url": null,
-            "description": "पहले टी20 मुकाबले में श्रीलंका के कप्तान चरिथ असलंका ने टॉस जीतकर पहले गेंदबाजी करने का फैसला किया. टॉस जीतने के बाद पहले बल्लेबाजी करने उतरी न्यूजीलैंड की टीम निर्धारित 20 ओवरों में आठ विकेट खोकर 172 रन बनाए. श्रीलंका की टीम को यह यह मुकाबला जीतने के लिए 20 ओवर में 173 रन बनाने थे.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2024-12-29 18:11:43",
-            "pubDateTZ": "UTC",
-            "image_url": "https://hist1.latestly.com/wp-content/uploads/2024/11/58-118-380x214.jpg",
-            "source_id": "latestly",
-            "source_priority": 31923,
-            "source_name": "Latestly",
-            "source_url": "https://www.latestly.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/latestly.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "sports"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "52618c149cdd53b716b08d7f2d8800c4",
-            "title": "Shalin Bhanot Reacts As Paps Ask About Him Dating Bigg Boss 18's Eisha Singh",
-            "link": "https://www.republicworld.com/entertainment/television/shalin-bhanot-reacts-as-paps-ask-about-him-dating-bigg-boss-18-s-eisha-singh",
-            "keywords": [
-                "television",
-                "entertainment"
-            ],
-            "creator": [
-                "editor@republicworld.com (Republic Entertainment Desk)"
-            ],
-            "video_url": null,
-            "description": "Shalin Bhanot Reacts As Paps Ask About Him Dating Bigg Boss 18's Eisha Singh",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2024-12-29 18:11:40",
-            "pubDateTZ": "UTC",
-            "image_url": "http://img.republicworld.com/all_images/file-photo-of-shalin-bhanot-and-eisha-singh-1735495882702-16_9.webp",
-            "source_id": "republicworld",
-            "source_priority": 17361,
-            "source_name": "Republic World",
-            "source_url": "https://www.republicworld.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/republicworld.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "entertainment"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "b608b1cb0f8d25aa4715e4a5ee363f7e",
-            "title": "Thane’s first mayor Satishchandra Pradhan, passes away at 85",
-            "link": "https://timesofindia.indiatimes.com/city/mumbai/thanes-first-mayor-satishchandra-pradhan-passes-away-at-85/articleshow/116774244.cms",
-            "keywords": null,
-            "creator": null,
-            "video_url": null,
-            "description": null,
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2024-12-29 18:11:39",
-            "pubDateTZ": "UTC",
-            "image_url": "https://static.toiimg.com/thumb/msid-116774809,imgsize-23388,width-400,height-225,resizemode-72/116774809.jpg",
-            "source_id": "toi",
-            "source_priority": 391,
-            "source_name": "The Times Of India",
-            "source_url": "https://timesofindia.indiatimes.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/toi.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "entertainment"
             ],
             "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
             "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
