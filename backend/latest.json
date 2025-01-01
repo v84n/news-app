@@ -1,6 +1,692 @@
 {
     "articles": [
         {
+            "article_id": "44ed6428aacc6ef626c3b3eaf03ce0f3",
+            "title": "Doctor Challenges GHMC's Seizure of Land in Telangana HC",
+            "link": "https://www.deccanchronicle.com/southern-states/telangana/doctor-challenges-ghmcs-seizure-of-land-in-telangana-hc-1851036",
+            "keywords": [
+                "southern states,telangana"
+            ],
+            "creator": [
+                "L. Ravichander"
+            ],
+            "video_url": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2024-12-31 19:07:48",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.deccanchronicle.com/h-upload/2024/08/07/1876187-telanganahighcourt.webp",
+            "source_id": "deccanchronicle",
+            "source_priority": 14130,
+            "source_name": "Deccan Chronicle",
+            "source_url": "https://www.deccanchronicle.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/deccanchronicle.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "entertainment"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "55a5f6103fbee93029ab605c569bebec",
+            "title": "Highly Anticipated Kannada Films Of 2025: Yash's Toxic, Rishab Shetty’s Kantara: Chapter 1, And More!",
+            "link": "https://www.timesnownews.com/entertainment-news/kannada/highly-anticipated-kannada-films-of-2025-yash-s-toxic-rishab-shetty-s-kantara-chapter-1-and-more-article-116840073",
+            "keywords": null,
+            "creator": [
+                "Shashiprasad SM"
+            ],
+            "video_url": null,
+            "description": "The Kannada film industry ends 2024 with blockbusters like UI and Max. 2025 promises excitement with Yash’s Toxic releasing in April and Rishab Shetty’s Kantara: Chapter 1 in October. Dhruva Sarja's KD - The Devil, Arjun Janya’s 45, and Darshan’s delayed Devil are highly awaited. Other notable releases include Sanju Weds Geetha 2, Rachayya, and Jingo.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2024-12-31 19:07:38",
+            "pubDateTZ": "UTC",
+            "image_url": "https://static.tnn.in/thumb/msid-116840135,thumbsize-194742,width-1280,height-720,resizemode-75/116840135.jpg",
+            "source_id": "timesnownews",
+            "source_priority": 2243,
+            "source_name": "Times Now News",
+            "source_url": "https://www.timesnownews.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/timesnownews.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "entertainment"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "a60612552e21796c701004c2d0a6f55d",
+            "title": "आज का कुंभ राशिफल, 01 जनवरी 2025, बुधवार - आप धैर्य से काम लेंगे!",
+            "link": "https://hindi.oneindia.com/astrology/aaj-ka-kumbh-rashifal-01-january-2025-read-aquarius-horoscope-today-prediction-in-hindi-011-1190863.html",
+            "keywords": [
+                "astrology"
+            ],
+            "creator": null,
+            "video_url": null,
+            "description": "कुंभ राशिफल आज हिंदी में, 01 जनवरी 2025, बुधवार: हमारे दैनिक ज्योतिष भविष्यवाणियों के साथ अपने दिन का अन्वेषण करें",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2024-12-31 19:06:25",
+            "pubDateTZ": "UTC",
+            "image_url": null,
+            "source_id": "oneindia",
+            "source_priority": 12404,
+            "source_name": "One India",
+            "source_url": "https://www.oneindia.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/oneindia.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "6e2f01ee2d4a2ddc265f259602389bee",
+            "title": "आज का मिथुन राशिफल, 01 जनवरी 2025, बुधवार - आप धैर्य से काम लेंगे!",
+            "link": "https://hindi.oneindia.com/astrology/aaj-ka-mithun-rashifal-01-january-2025-read-gemini-horoscope-today-prediction-in-hindi-011-1190867.html",
+            "keywords": [
+                "astrology"
+            ],
+            "creator": null,
+            "video_url": null,
+            "description": "मिथुन राशिफल आज हिंदी में, 01 जनवरी 2025, बुधवार: हमारे दैनिक ज्योतिष भविष्यवाणियों के साथ अपने दिन का अन्वेषण करें",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2024-12-31 19:06:17",
+            "pubDateTZ": "UTC",
+            "image_url": null,
+            "source_id": "oneindia",
+            "source_priority": 12404,
+            "source_name": "One India",
+            "source_url": "https://www.oneindia.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/oneindia.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "8847a10a2555bb3d9a0d99a690b79ebf",
+            "title": "India News | Maharashtra Govt Transfers Eight IAS Officers",
+            "link": "https://www.latestly.com/agency-news/india-news-maharashtra-govt-transfers-eight-ias-officers-6532454.html",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "Get latest articles and stories on India at LatestLY. The Maharashtra government on Tuesday transferred eight senior IAS officers, including Ruchesh Jayvanshi who has been posted as secretary in the minority development department.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2024-12-31 19:06:13",
+            "pubDateTZ": "UTC",
+            "image_url": "https://st1.latestly.com/wp-content/uploads/2018/03/default-img-01-784x441.jpg",
+            "source_id": "latestly",
+            "source_priority": 31923,
+            "source_name": "Latestly",
+            "source_url": "https://www.latestly.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/latestly.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "1e5df9ca118807abcfa683401e907ac6",
+            "title": "Srinagar witnesses 57 deaths in 429 road accidents this year",
+            "link": "https://www.greaterkashmir.com/city/srinagar-witnesses-57-deaths-in-429-road-accidents-this-year/",
+            "keywords": [
+                "today's paper",
+                "page 5",
+                "city"
+            ],
+            "creator": [
+                "",
+                "Auqib Salam"
+            ],
+            "video_url": null,
+            "description": "One of the notable accidents that led to a major crackdown on underage driving was the Tengpora accident that resulted in the death of two school-going youngstersThe post Srinagar witnesses 57 deaths in 429 road accidents this year appeared first on Greater Kashmir.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2024-12-31 19:05:49",
+            "pubDateTZ": "UTC",
+            "image_url": "https://greaterkashmir.imagibyte.sortdcdn.net/wp-content/uploads/2024/08/accidents-final-e1706076711361.webp?quality=80&type=webp",
+            "source_id": "greaterkashmir",
+            "source_priority": 101259,
+            "source_name": "Greater Kashmir",
+            "source_url": "https://www.greaterkashmir.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/greaterkashmir.jpg",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "b4e7b0c76f48ef9eee8aba75f94adb38",
+            "title": "New year dawns on West Asia: Hope in Syria, reflection in Beirut and despair in Gaza",
+            "link": "https://telanganatoday.com/new-year-dawns-on-west-asia-hope-in-damascus-reflection-in-beirut-and-despair-in-gaza",
+            "keywords": [
+                "gaza",
+                "world",
+                "west asia",
+                "new year",
+                "displaced families",
+                "human interest",
+                "syria",
+                "news"
+            ],
+            "creator": [
+                "AP"
+            ],
+            "video_url": null,
+            "description": "Syrians in Damascus celebrate a hopeful new year following Bashar Assad's fall, while Beirut remains cautious amidst ongoing crises. In Gaza, Palestinians face 2025 with little hope after enduring war and loss, highlighting the region's mixed fortunes",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2024-12-31 19:05:48",
+            "pubDateTZ": "UTC",
+            "image_url": "https://media.telanganatoday.com/wp-content/uploads/2025/01/New-Year-in-WAsia-768x450.jpg",
+            "source_id": "telanganatoday",
+            "source_priority": 63887,
+            "source_name": "Telangana Today",
+            "source_url": "https://telanganatoday.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/telanganatoday.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "b5abef436d70c18c2da34da293b50855",
+            "title": "\"She may not vibe with it\": Travis Kelce fears disappointing Taylor Swift with his outfit choices, but fans troll him anyway for his recent look",
+            "link": "https://timesofindia.indiatimes.com/sports/nfl/news/she-may-not-vibe-with-it-travis-kelce-fears-disappointing-taylor-swift-with-his-outfit-choices-but-fans-troll-him-anyway-for-his-recent-look/articleshow/116840131.cms",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "Taylor Swift and Travis Kelce have been seen together in New York City, with Travis often dressing to impress Taylor, despite their differing fashion tastes. Recently, his red outfit drew mixed reactions, with some fans likening him to Santa Claus. Taylor frequently helps Travis choose his outfits to ensure he looks his best.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2024-12-31 19:05:45",
+            "pubDateTZ": "UTC",
+            "image_url": "https://static.toiimg.com/thumb/msid-116840132,imgsize-87518,width-400,resizemode-4/116840132.jpg",
+            "source_id": "toi",
+            "source_priority": 391,
+            "source_name": "The Times Of India",
+            "source_url": "https://timesofindia.indiatimes.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/toi.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "40566d80020ec208b62c63bf4b17e261",
+            "title": "Vidarbha Sahitya Sangh announces prestigious annual literary awards",
+            "link": "https://timesofindia.indiatimes.com/city/nagpur/vidarbha-sahitya-sangh-announces-prestigious-annual-literary-awards/articleshow/116840134.cms",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2024-12-31 19:05:33",
+            "pubDateTZ": "UTC",
+            "image_url": "https://static.toiimg.com/thumb/msid-47529300,imgsize-110164,width-400,height-225,resizemode-72/47529300.jpg",
+            "source_id": "toi",
+            "source_priority": 391,
+            "source_name": "The Times Of India",
+            "source_url": "https://timesofindia.indiatimes.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/toi.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "a85dcccc869c36c02c88a111e9b35fd1",
+            "title": "Biden administration sanctions Russian disinformation network over Tim Walz allegations",
+            "link": "https://timesofindia.indiatimes.com/world/us/biden-administration-sanctions-russian-disinformation-network-over-tim-walz-allegations/articleshow/116839714.cms",
+            "keywords": null,
+            "creator": [
+                "TOI World Desk"
+            ],
+            "video_url": null,
+            "description": "The Biden administration imposes sanctions on Russian entities accused of creating a fake video with false allegations against Democratic candidate Tim Walz. Sanctions target the Moscow-based Centre for Geopolitical Expertise and others linked to GRU, aiming to counter disinformation and disrupt operations.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2024-12-31 19:04:41",
+            "pubDateTZ": "UTC",
+            "image_url": "https://static.toiimg.com/thumb/msid-116840130,imgsize-798139,width-400,resizemode-4/116840130.jpg",
+            "source_id": "toi",
+            "source_priority": 391,
+            "source_name": "The Times Of India",
+            "source_url": "https://timesofindia.indiatimes.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/toi.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "279dbe18f27c672def2391d9f742681f",
+            "title": "New Year parties avoid bouncer services",
+            "link": "https://www.deccanchronicle.com/southern-states/telangana/new-year-parties-avoid-bouncer-services-1851035",
+            "keywords": [
+                "southern states,telangana"
+            ],
+            "creator": [
+                "Sanjay Samuel Paul"
+            ],
+            "video_url": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2024-12-31 19:04:22",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.deccanchronicle.com/h-upload/2024/12/31/1877646-newyear.webp",
+            "source_id": "deccanchronicle",
+            "source_priority": 14130,
+            "source_name": "Deccan Chronicle",
+            "source_url": "https://www.deccanchronicle.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/deccanchronicle.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "entertainment"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "1e7b0de16c9e1da455b8f775ea387622",
+            "title": "India News | TMC Leader Meets Jailed Bangla Monk Chinmoy Krishna Das' Lawyer",
+            "link": "https://www.latestly.com/agency-news/india-news-tmc-leader-meets-jailed-bangla-monk-chinmoy-krishna-das-lawyer-6532452.html",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "Get latest articles and stories on India at LatestLY. Trinamool Congress leader Kunal Ghosh on Tuesday met Bangladeshi lawyer Rabindra Ghosh, who is defending arrested Hindu monk Chinmoy Krishna Das in the neighbouring country, at his current residence in West Bengal's North 24 Parganas district.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2024-12-31 19:04:13",
+            "pubDateTZ": "UTC",
+            "image_url": "https://st1.latestly.com/wp-content/uploads/2018/03/default-img-01-784x441.jpg",
+            "source_id": "latestly",
+            "source_priority": 31923,
+            "source_name": "Latestly",
+            "source_url": "https://www.latestly.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/latestly.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "7683b6786b3aeb162937b510b6f99e85",
+            "title": "Heavy Police Force Around Ramky Plant In Pithampur",
+            "link": "https://www.freepressjournal.in/bhopal/heavy-police-force-around-ramky-plant-in-pithampur",
+            "keywords": [
+                "topnews",
+                "bhopal news"
+            ],
+            "creator": null,
+            "video_url": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2024-12-31 19:04:13",
+            "pubDateTZ": "UTC",
+            "image_url": "https://media.assettype.com/freepressjournal/2024-12-31/c4swc60k/4.jpg",
+            "source_id": "freepressjournal",
+            "source_priority": 26427,
+            "source_name": "The Free Press Journal",
+            "source_url": "https://www.freepressjournal.in",
+            "source_icon": "https://i.bytvi.com/domain_icons/freepressjournal.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "b0bdc7204fb6c348daa713f2a75aa32c",
+            "title": "19-year-old girl dragged into forest, gang-raped in Madhya Pradesh",
+            "link": "https://telanganatoday.com/19-year-old-girl-dragged-into-forest-gang-raped-in-madhya-pradesh",
+            "keywords": [
+                "news",
+                "india"
+            ],
+            "creator": [
+                "PTI"
+            ],
+            "video_url": null,
+            "description": "According to police officials, the accused beat up her male friend and chased him away. After that, they overpowered the girl and dragged her into the forest",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2024-12-31 19:03:39",
+            "pubDateTZ": "UTC",
+            "image_url": "https://media.telanganatoday.com/wp-content/uploads/2025/01/rape-case-768x450.jpg",
+            "source_id": "telanganatoday",
+            "source_priority": 63887,
+            "source_name": "Telangana Today",
+            "source_url": "https://telanganatoday.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/telanganatoday.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "8cdefeacd9978c71a557062cfca3018e",
+            "title": "माकपा नेता ई पी जयराजन को बदनाम करने के आरोप में पब्लिशिंग हाउस के संपादक के खिलाफ मामला दर्ज",
+            "link": "https://hindi.theprint.in/india/case-filed-against-editor-of-publishing-house-for-defaming-cpim-leader-ep-jayarajan/769767/",
+            "keywords": [
+                "bhasha wire",
+                "देश"
+            ],
+            "creator": [
+                "भाषा"
+            ],
+            "video_url": null,
+            "description": "कोट्टायम (केरल), 31 दिसंबर (भाषा) केरल पुलिस ने मार्क्सवादी कम्युनिस्ट पार्टी (माकपा) के वरिष्ठ नेता ई पी जयराजन की आत्मकथा के बारे में गलत जानकारी सोशल मीडिया पर प्रसारित करके उन्हें बदनाम करने के आरोप में मंगलवार को एक पब्लिशिंग हाउस के संपादक के खिलाफ मामला दर्ज किया है। कोट्टायम (पूर्व) पुलिस द्वारा दर्ज की [...]",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2024-12-31 19:03:12",
+            "pubDateTZ": "UTC",
+            "image_url": "https://statichindi.theprint.in/wp-content/uploads/2023/06/RE6.jpg",
+            "source_id": "theprint_hi",
+            "source_priority": 14094,
+            "source_name": "Theprint Hindi",
+            "source_url": "https://hindi.theprint.in",
+            "source_icon": "https://i.bytvi.com/domain_icons/theprint_hi.jpg",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "domestic"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "b757d5759fbd5a06e5f93eb65909c790",
+            "title": "T.N. State Council for Science and Technology to hold entrepreneurship training programme",
+            "link": "https://www.thehindu.com/news/national/tamil-nadu/tn-state-council-for-science-and-technology-to-hold-entrepreneurship-training-programme/article69047210.ece",
+            "keywords": [
+                "tamil nadu"
+            ],
+            "creator": null,
+            "video_url": null,
+            "description": "TNSCST will offer three training programmes, including for science and tech faculty",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2024-12-31 19:03:10",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+            "source_id": "thehindu",
+            "source_priority": 2972,
+            "source_name": "The Hindu",
+            "source_url": "https://www.thehindu.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/thehindu.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "524d0e2a4742fba5c4854c078fdf5e56",
+            "title": "Neha Joshi and Aayudh Bhanushali take on a 'Sweet Challenge'",
+            "link": "https://timesofindia.indiatimes.com/tv/news/hindi/neha-joshi-and-aayudh-bhanushali-take-on-a-sweet-challenge/articleshow/116840127.cms",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "Neha Joshi and Aayudh Bhanushali celebrated the first anniversary of Atal with a laddoo-eating challenge in Gwalior. Famous for their fitness commitments, they indulged in Gwalior's renowned Bahadura Sweets, enjoying every bite of the iconic laddoos, creating unforgettable memories together.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2024-12-31 19:03:10",
+            "pubDateTZ": "UTC",
+            "image_url": "https://static.toiimg.com/thumb/msid-116840108,imgsize-51476,width-400,resizemode-4/116840108.jpg",
+            "source_id": "toi",
+            "source_priority": 391,
+            "source_name": "The Times Of India",
+            "source_url": "https://timesofindia.indiatimes.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/toi.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "0096aac5d947af508b9b88385c8fe03a",
+            "title": "JKTF holds seminar on drug abuse in Sopore",
+            "link": "https://www.greaterkashmir.com/kashmir/jktf-holds-seminar-on-drug-abuse-in-sopore/",
+            "keywords": [
+                "kashmir",
+                "today's paper",
+                "page 9"
+            ],
+            "creator": [
+                "",
+                "GK NEWS SERVICE"
+            ],
+            "video_url": null,
+            "description": "The seminar was aimed at raising awareness and promoting healthier lifestyle choices among the youthThe post JKTF holds seminar on drug abuse in Sopore appeared first on Greater Kashmir.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2024-12-31 19:03:08",
+            "pubDateTZ": "UTC",
+            "image_url": "https://greaterkashmir.imagibyte.sortdcdn.net/wp-content/uploads/2023/08/drug-abuse-copy.jpg?quality=80&type=webp",
+            "source_id": "greaterkashmir",
+            "source_priority": 101259,
+            "source_name": "Greater Kashmir",
+            "source_url": "https://www.greaterkashmir.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/greaterkashmir.jpg",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "c09a8032331806591bd26324d945b611",
+            "title": "अधिकतर मंत्री हाथियार और गाड़ियों के शौकीन, तो कई की पत्नी ज्यादा धनवान",
+            "link": "https://www.prabhatkhabar.com/state/bihar/patna/most-of-the-ministers-are-fond-of-weapons-and-vehicles",
+            "keywords": [
+                "patna",
+                "patna news",
+                "bihar news"
+            ],
+            "creator": [
+                "Prabhat Khabar News Desk"
+            ],
+            "video_url": null,
+            "description": "बिहार सरकार के सभी मंत्रियों ने 31 दिसंबर को अपनी संपत्ति का ब्योरा साझा कियाThe post अधिकतर मंत्री हाथियार और गाड़ियों के शौकीन, तो कई की पत्नी ज्यादा धनवान appeared first on Prabhat Khabar.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2024-12-31 19:03:06",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.prabhatkhabar.com/wp-content/uploads/2024/04/PATNA-landmark-1.jpg",
+            "source_id": "prabhatkhabar",
+            "source_priority": 343253,
+            "source_name": "Prabhat Khabar",
+            "source_url": "https://www.prabhatkhabar.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/prabhatkhabar.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "69259d56a9a62fcaaf978d09842868e8",
+            "title": "2024 saw GHMC focus on connectivity development",
+            "link": "https://www.deccanchronicle.com/southern-states/telangana/2024-saw-ghmc-focus-on-connectivity-development-1851034",
+            "keywords": [
+                "southern states,telangana"
+            ],
+            "creator": [
+                "Saba Anjum Shaik"
+            ],
+            "video_url": null,
+            "description": "Roads development was focus of GHMC in 2024",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2024-12-31 19:03:03",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.deccanchronicle.com/h-upload/2024/08/27/1875260-ghmc.webp",
+            "source_id": "deccanchronicle",
+            "source_priority": 14130,
+            "source_name": "Deccan Chronicle",
+            "source_url": "https://www.deccanchronicle.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/deccanchronicle.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "entertainment"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
             "article_id": "c81a51fda15d4a0358f4894f6b8fd190",
             "title": "'Whenever They Decide To Give It Away...': Two-Time World Cup Winner On India's Future After Rohit Sharma, Virat Kohli's Retirement",
             "link": "https://zeenews.india.com/cricket/whenever-they-decide-to-give-it-away-two-time-world-cup-winner-on-india-future-after-rohit-sharma-virat-kohli-retirement-2838282.html",
@@ -22221,717 +22907,6 @@
             "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
             "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
             "duplicate": true
-        },
-        {
-            "article_id": "d6d427e92788ff3bb23c692fc2c4e1be",
-            "title": "केजरीवाल का एक और बड़ा दांव, चुनाव से पहले खुश होंगे हिन्दू और सिख",
-            "link": "https://hindi.webdunia.com/national-hindi-news/arvind-kejriwal-announced-priest-and-granthi-samman-scheme-124123000039_1.html",
-            "keywords": [
-                "national news"
-            ],
-            "creator": null,
-            "video_url": null,
-            "description": "Arvind Kejriwals Pujari Granthi Samman Yojana: आम आदमी पार्टी के संयोजक और दिल्ली के पूर्व मुख्‍यमंत्री अरविन्द केजरीवाल ने दिल्ली विधानसभा चुनाव से ठीक पहले एक और चुनावी दांव चल दिया है। महिला सम्मान योजना के बाद अब केजरीवाल ने पुजारी-ग्रंथी सम्मान ...",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2024-12-30 07:07:00",
-            "pubDateTZ": "UTC",
-            "image_url": "https://wd-image.webdunia.com/image-conversion/process-aws.php?outtype=webp&url=https%3A%2F%2Fnonprod-media.webdunia.com%2Fpublic_html%2F_media%2Fhi%2Fimg%2Farticle%2F2024-12%2F30%2Ffull%2F1735542690-7579.jpg",
-            "source_id": "webdunia",
-            "source_priority": 19669,
-            "source_name": "हिन्दी समाचार",
-            "source_url": "https://webdunia.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/webdunia.jpg",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "3e0de856ac1b5f04e491c10ae7efcdec",
-            "title": "दिल्ली के पुजारी और ग्रंथी को हर महीने 18,000 रुपए देंगे... केजरीवाल ने की घोषणा, कल से रजिस्ट्रेशन",
-            "link": "https://www.tv9hindi.com/elections/assembly-election/delhi-vidhan-sabha-chunav/pujari-granthi-samman-yojana-aam-aadmi-party-arvind-kejriwal-announcement-delhi-election-3029481.html",
-            "keywords": null,
-            "creator": [
-                "Puneet Sharma"
-            ],
-            "video_url": null,
-            "description": "आम आदमी पार्टी ने पुजारियों के लिए बड़ा ऐलान किया है. अरविंद केजरीवाल ने पुजारी सम्मान योजना की घोषणा की है, इस योजना के तहत हर महीने पुजारियों को 18 हजार रुपये सम्मान राशि दी जाएगी. साथ ही उन्होंने कहा कि कल से यानी 31 दिसंबर से इस स्कीम के लिए रजिस्ट्रेशन शुरू किए जाएंगे.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2024-12-30 07:07:00",
-            "pubDateTZ": "UTC",
-            "image_url": "https://images.tv9hindi.com/wp-content/uploads/2024/12/arvind-kejriwal-8.jpeg",
-            "source_id": "tv9bharatvarsh",
-            "source_priority": 40538658,
-            "source_name": "Tv9 Bharatvarsh",
-            "source_url": "https://www.tv9hindi.com",
-            "source_icon": null,
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "domestic"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "dbb79e11a5da6a8ed060e44d926c22b4",
-            "title": "Former BigBang rapper TOP faces criticism for his role in Squid Game 2",
-            "link": "https://www.channelnewsasia.com/entertainment/squid-game-2-criticism-rapper-top-performance-4831271",
-            "keywords": [
-                "entertainment ,cna lifestyle ,east asia"
-            ],
-            "creator": null,
-            "video_url": null,
-            "description": "What did you think of his acting?",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2024-12-30 07:07:00",
-            "pubDateTZ": "UTC",
-            "image_url": "https://dam.mediacorp.sg/image/upload/s--jH3Wd_Or--/c_crop,h_900,w_1600,x_0,y_40/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/mediacorp/cna/image/2024/12/30/top_squid_game_2.jpg?itok=2D3oHTkD",
-            "source_id": "channelnewsasia",
-            "source_priority": 37829,
-            "source_name": "Cna",
-            "source_url": "https://www.channelnewsasia.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/channelnewsasia.jpg",
-            "language": "english",
-            "country": [
-                "georgia",
-                "yemen",
-                "afghanistan",
-                "cyprus",
-                "india",
-                "singapore",
-                "saudi arabia",
-                "maldives",
-                "japan",
-                "united arab emirates",
-                "malaysia",
-                "china",
-                "south korea",
-                "north korea",
-                "taiwan",
-                "thailand",
-                "pakistan",
-                "mongolia",
-                "brunei",
-                "lebanon",
-                "indonesia",
-                "kyrgyzstan",
-                "syria",
-                "israel",
-                "bhutan",
-                "iran",
-                "turkey",
-                "armenia",
-                "qatar",
-                "philippines",
-                "hong kong",
-                "kazakhstan",
-                "iraq",
-                "bangladesh",
-                "laos",
-                "vietnam",
-                "timor-leste",
-                "kuwait",
-                "myanmar",
-                "azerbaijan",
-                "jordan",
-                "nepal",
-                "sri lanka",
-                "uzbekistan",
-                "turkmenistan",
-                "macau",
-                "bahrain",
-                "cambodia",
-                "tajikistan",
-                "oman"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "ee60f598b7a5e9295ccbffde457615a3",
-            "title": "Mukesh Ambani News: रिलायंस के जामनगर रिफाइनरी को 25 साल हुए पूरे, कंपनी ने शेयर किया यंग 'मुकेश अंबानी' का वीडियो",
-            "link": "https://www.abplive.com/business/reliance-shares-young-mukesh-ambani-old-video-on-25-years-of-jamnagar-refinery-celebrations-2852749",
-            "keywords": [
-                "बिजनेस"
-            ],
-            "creator": [
-                "एबीपी बिजनेस डेस्क"
-            ],
-            "video_url": null,
-            "description": "Reliance Jamnagar Refinery Update: रिलायंस इंडस्ट्रीज की गुजरात के जामगर स्थित रिफाइनरी जो कि दुनिया की सबसे बड़ी रिफाइनरी में शुमार है उसे ऑपरेशनल हुए 25 साल पूरे हो चुके हैं. 28 दिसंबर 1999 में ही जामनगर रिफाइनरी चालू हुआ था और इस मौके पर रिलायंस इँडस्ट्री ने सोशल मीडिया प्लेटफॉर्म पर एक वीडियो जारी किया है जिसमें इस रिफाइनरी के सामने कंपनी के चेयरमैन और मैनेजिंग डायरेक्टर मुकेश अंबानी का बेहद पुराना बयान मौजूद है जिसमें वे कह रहे कि जो जामनगर ने दिखा को दिया कि अगर हम सपने देखते हैं तो उसे पूरा भी कर सकते हैं. मुकेश अंबानी का हैरान करने वाला वीडियो!रिलायंस इंडस्ट्रीज ने जामनगर रिफाइनरी के 25 साल पूरे होने पर सोशल मीडिया हैंडल एक्स पर एक वीडियो को साझा करते हुए पोस्ट लिखा है. इस पोस्ट में जामनगर रिफाइनरी के निर्माण को चमत्कार का निर्माण ( Making of a Marvel) बताते हुए वीडियो शेयर किया गया है जिसमें बैकग्राउंड में रिफाइनरी है और मुकेश अंबानी की सालों पुरानी वीडियो है जिसमें वे कह रहे हैं, \"जामनगर ने दुनिया को दिखा दिया है कि अगर हम सपना देख सकते हैं, तो उसे पूरा भी कर सकते हैं.\" उन्होंने कहा मेरे पिता धीरुभाई अंबानी का विजन है कि और ये हम सब में मौजूद है कि हम जो भी करें वो वर्ल्ड क्लास हो. Making of a MarvelDiscover the extraordinary vision and unmatched scale behind the creation of the Jamnagar refinery. From groundbreaking innovation to record-breaking construction, witness how a marvel was made. pic.twitter.com/rjxgczV1xz— Reliance Industries Limited (@RIL_Updates) December 29, 2024पेट्रोल डीजल के आयात पर निर्भरता हुई कम रिलायंस इंडस्ट्रीज के जामनगर रिफाइनरी को शुरू हुए अब 25 साल पूरे हो चुके हैं. 28 दिसंबर 1999 यानी 25 साल पहले पहला रिफाइरी ऑपरेशनल हुआ था. जामनगर रिफाइरी ने भारत के कुल पेट्रोलियम रिफाइिंग कैपेसिटी में 25 फीसदी का योगदान दिया है. रिलायंस के मुताबिक जामनगर में इस रिफाइनरी ने भारत को ट्रांसपोर्ट फ्यूल्स के मामले में आत्मनिर्भर बनाने में अहम भूमिका अदा की है. इस रिफाइनरी ने भारत के पेट्रोल डीजल के आयात पर निर्भरता को कम करने में बड़ी मदद की है जिससे बेहद कीमती विदेशी मुद्रा भंडार की बचत हुई है. केवल 33 महीनों में इस साइज, स्केल और कम्पेक्सिटी वाले वर्ल्ड क्लास प्रोजेक्ट को तैयार किया जा सके.एक लोकेशन पर सबसे बड़ा निजी निवेश जामनगर के इस रिफाइनिंग कॉम्पेक्स को 3.4 बिलियन डॉलर की लागत से तैयार किया गया जो एशिया के दूसरे रिफाइनरी को बनाने में लगे लागत के मुकाबले 30-40 फीसदी कम है. साथ ही एक लोकेशन पर किसी भी भारती कंपनी का सबसे बड़ा इंडस्ट्रियल निवेश है. ये भी पढ़ें Public Provident Fund: पीपीएफ के निवेशकों के साथ नाइंसाफी क्यों? क्या नए साल में सरकार देगी गुड न्यूज!",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2024-12-30 07:06:57",
-            "pubDateTZ": "UTC",
-            "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2024/12/30/612f02b10c2f7916eeaca85a09002e6c1735541865514267_original.jpg",
-            "source_id": "abplive",
-            "source_priority": 7754,
-            "source_name": "Abp News",
-            "source_url": "http://abplive.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/abplive.jpg",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "business"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "08387abc966055e919651cb0ad9e4fed",
-            "title": "Australia hammer India by 184 runs, take 2-1 lead in Border-Gavaskar series",
-            "link": "https://www.cnbctv18.com/sports/australia-hammer-india-by-184-runs-take-2-1-lead-in-border-gavaskar-series-19531513.htm",
-            "keywords": [
-                "sports"
-            ],
-            "creator": [
-                "CNBCTV18"
-            ],
-            "video_url": null,
-            "description": "Chasing 340 India were 121/4 and the match seemed to be heading towards a draw. However a dramatic collapse of Indian batting meant that Australia picked 6 wickets for 34 runs to round-off a clinical victory.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2024-12-30 07:06:57",
-            "pubDateTZ": "UTC",
-            "image_url": "https://images.cnbctv18.com/uploads/2024/12/australia-hammer-india-by-185-runs-takes-2-1-lead-in-border-gavaskar-series-2024-12-01542084ea54a80e17d3462ae8f19ef2.jpg",
-            "source_id": "cnbctv18",
-            "source_priority": 17950,
-            "source_name": "Cnbctv18",
-            "source_url": "https://www.cnbctv18.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/cnbctv18.jpg",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "sports"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "b830d8a6b2f367db2d94227af8c5d304",
-            "title": "Pushpa 2 - The Rule",
-            "link": "https://www.bollywoodhungama.com/movie/pushpa-2-rule/",
-            "keywords": null,
-            "creator": null,
-            "video_url": null,
-            "description": "05/12/2024",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2024-12-30 07:06:56",
-            "pubDateTZ": "UTC",
-            "image_url": "https://stat5.bollywoodhungama.in/wp-content/uploads/2022/08/Pushpa-2-The-Rule-4-306x393.jpg",
-            "source_id": "bollywoodhungama",
-            "source_priority": 13152,
-            "source_name": "Bollywood Hungama",
-            "source_url": "https://www.bollywoodhungama.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/bollywoodhungama.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "entertainment"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "0f724d9d31928fef68bd12b54eb13548",
-            "title": "Indo Farm Equipment IPO: 35% GMP Signals Strong Demand Ahead Of Tomorrow’s Listing",
-            "link": "https://www.timesnownews.com/business-economy/companies/indo-farm-equipment-ipo-35-gmp-signals-strong-demand-ahead-of-tomorrows-listing-article-116789979",
-            "keywords": null,
-            "creator": [
-                "Pawan Kumar"
-            ],
-            "video_url": null,
-            "description": "The Indo Farm Equipment IPO is generating a lot of buzz in the market, with its latest grey market premium (GMP) soaring to Rs 85 per share. This indicates strong demand for the company’s shares even before the IPO opens for subscription on December 31.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2024-12-30 07:06:53",
-            "pubDateTZ": "UTC",
-            "image_url": "https://static.tnn.in/thumb/msid-116790688,thumbsize-22520,width-1280,height-720,resizemode-75/116790688.jpg",
-            "source_id": "timesnownews",
-            "source_priority": 2243,
-            "source_name": "Times Now News",
-            "source_url": "https://www.timesnownews.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/timesnownews.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "business"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "07b388c824903d557c6e627c6ebeece9",
-            "title": "Peru travel alert: Beaches, 91 ports closed for New Year’s Eve amid massive waves",
-            "link": "https://www.hindustantimes.com/lifestyle/travel/peru-travel-alert-beaches-91-ports-closed-for-new-year-s-eve-amid-massive-waves-101735541900338.html",
-            "keywords": [
-                "latest"
-            ],
-            "creator": null,
-            "video_url": null,
-            "description": "Peru closes beaches and 91 of its 121 ports until January 01, 2025 to prevent risk to human life as waves over 13 feet disrupt coastal life.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2024-12-30 07:06:49",
-            "pubDateTZ": "UTC",
-            "image_url": "https://www.hindustantimes.com/ht-img/img/2024/12/30/1600x900/PERU-WAVES--0_1735542321441_1735542341355.JPG",
-            "source_id": "hindustantimes",
-            "source_priority": 933,
-            "source_name": "Hindustan Times",
-            "source_url": "http://www.hindustantimes.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/hindustantimes.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "0f69c0cc046da3b05eeef7aa8ee43ec7",
-            "title": "मेलबर्न टेस्ट- विवादित फैसले से यशस्वी आउट:स्निकोमीटर में गेंद बल्ले से नहीं टकराई, फिर भी थर्ड अंपायर ने आउट दिया; गावस्कर बोले- गलत डिसीजन",
-            "link": "https://www.bhaskar.com/sports/cricket/news/ind-vs-aus-4th-test-controversy-yashasvi-jaiswal-pat-cummins-virat-kohli-134208162.html",
-            "keywords": null,
-            "creator": null,
-            "video_url": null,
-            "description": "मेलबर्न टेस्ट में यशस्वी जायसवाल के विकेट पर थर्ड अंपायर के फैसले पर विवाद हो गया। चौथे टेस्ट के आखिरी दिन ऑस्ट्रेलियन कप्तान कमिंस ने अपनी गेंद पर यशस्वी के खिलाफ कैच की अपील की। ग्राउंड अंपायर ने नॉट आउट दिया, लेकिन ऑस्ट्रेलिया ने DRS लिया और थर्ड अंपायर ने यशस्वी को आउट करार दिया। DRS में स्निको मीटर में दिखाया गया कि गेंद बल्ले से नहीं टकराई और कोई आवाज भी नहीं हुई। इसके बावजूद थर्ड अंपायर ने यशस्वी को आउट करार दिया। इस फैसले पर यशस्वी ने ग्राउंड अंपायर से सवाल भी किया, लेकिन फैसला नहीं बदला गया। थर्ड अंपायर ने यह फैसला ऐसे वक्त लिया, जब टीम इंडिया पर हार का खतरा मंडरा रहा था और यशस्वी 84 रन बनाकर एक ओर से छोर संभाले हुए थे। इस फैसले के बाद ग्राउंड में मौजूद इंडियन फैंस ने चीटर-चीटर के नारे लगाए। 4 तस्वीरों में अंपायर का फैसला 1. यशस्वी के शॉट पर DRS लिया गया 2. स्निकोमीटर में गेंद और बल्ले का संपर्क नहीं 3. विजुअल एविडेंस में गेंद का डिफ्लेक्शन दिखा 4. फील्ड अंपायर ने सुनाया थर्ड अंपायर का फैसला फैसले पर विवाद क्यों, 5 सवाल-जवाब में समझें... 1. थर्ड अंपायर ने किस आधार पर दिया फैसला?थर्ड अंपायरिंग की जिम्मेदारी बांग्लादेश के अंपायर शरफुदुल्लाह संभाल रहे हैं। उनके सामने फैसला लेने के लिए दो एविडेंस रखे गए। पहला स्निको मीटर और दूसरा विजुअल एविडेंस। शरफुदुल्लाह को स्निको मीटर में गेंद और बल्ले में कोई संपर्क नहीं दिखाई दिया, क्योंकि कोई आवाज नहीं आई। लेकिन गेंद की गल्व्स से करीबी और डिफ्लेक्शन के आधार पर अंपायर ने यशस्वी को आउट करार दे दिया। 2. गावस्कर ने फैसला गलत क्यों बताया?मैच के दौरान कमेंट्री कर रहे सुनील गावस्कर ने कहा, \"आप फैसला लेते वक्त टेक्नोलॉजी का इस्तेमाल कर रहे हैं। स्निको मीटर में साफ दिख रहा था कि आउट नहीं है। यह एकदम गलत फैसला है। आप बहुत दबाव वाली स्थितियों में दबाव वाला फैसला दिया है। अंपायर को कोई निश्चित प्रमाण नहीं मिला कि यशस्वी आउट हैं, ऐसे में उन्हें आउट दिया जाना एकदम गलत है।\" 3. ICC के नियम क्या कहते हैं? 4. राहुल के फैसले में स्निको आधार तो यशस्वी में क्यों नहीं? 5. यशस्वी के विकेट के बाद इंडिया कैसे टेस्ट हारी?यशस्वी 71वें ओवर में आउट हुए। टीम इंडिया का स्कोर 7 विकेट पर 140 रन था। अगले 8 ओवर में भारत 155 रन पर ऑल आउट हो गई। टीम इंडिया मेलबर्न टेस्ट हार गई। बॉर्डर-गावस्कर ट्रॉफी में 5 टेस्ट मैच होने हैं। 4 टेस्ट के बाद ऑस्ट्रेलिया सीरीज में 2-1 से आगे हो गई है। इंडिया की हार की वजह टॉप ऑर्डर बैटर्स के खराब परफॉर्मेंस रही। यशस्वी के अलावा, शुरुआती 3 बल्लेबाज रोहित शर्मा (9), केएल राहुल (0) और विराट कोहली (5) दहाई के आंकड़े तक नहीं पहुंच पाए। ऋषभ पंत का एक खराब शॉट भी टर्निंग पॉइंट बन गया। यशस्वी ने ऋषभ पंत के साथ 88 रन की साझेदारी कर टीम को शुरुआती झटकों से उबारा, लेकिन पंत ने खराब शॉट खेलकर अपना विकेट गंवा दिया। मैच का पूरा हाल जानने के लिए क्लिक करें... यशस्वी का विकेट, निराशा, गुस्सा और जश्न 1. यशस्वी के कैच पर ऑस्ट्रेलियंस की अपील 3. थर्ड अंपायर के फैसले पर यशस्वी खफा 3. ऑस्ट्रेलियंस ने विकेट मिलने पर जश्न मनाया 4. निराशा में पवेलयिन लौटे यशस्वी जायसवाल",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2024-12-30 07:06:45",
-            "pubDateTZ": "UTC",
-            "image_url": "https://images.bhaskarassets.com/thumb/1000x1000/web2images/521/2024/12/30/1-3_1735543194.gif",
-            "source_id": "bhaskar_hindi",
-            "source_priority": 34179,
-            "source_name": "Bhaskar",
-            "source_url": "https://www.bhaskar.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/bhaskar_hindi.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "entertainment"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "29680e52a054475a6b9d391391b4c017",
-            "title": "Goa EDM Festival: गोवा में EDM फेस्टिवल के दौरान दिल्ली के युवक की मौत, डांस करते-करते हो गया था बेहोश",
-            "link": "https://www.abplive.com/news/india/delhi-youth-dies-during-edm-festival-n-goa-police-investigating-safety-issues-and-cause-of-death-2852743",
-            "keywords": [
-                "इंडिया"
-            ],
-            "creator": [
-                "एबीपी लाइव"
-            ],
-            "video_url": null,
-            "description": "Goa EDM Party Accident: दिल्ली के एक 26 वर्षीय युवक करण कश्यप की गोवा में रविवार (29 दिसंबर) को मौत हो गई. पुलिस के अनुसार वह शनिवार (28 दिसंबर) रात गोवा के धार्गल पेरनेम में आयोजित एक इलेक्ट्रॉनिक डांस म्यूजिक (EDM) फेस्टिवल में बेहोश हो गए थे. उनके दोस्तों ने पुलिस को बताया कि कश्यप को करीब 9:45 बजे कार्यक्रम के दौरान बेहोशी आ गई थी. इसके बाद उन्हें तुरंत मापुसा के एक हॉस्पिटल में ट्रीटमेंट के लिए भेजा गया, लेकिन ट्रीटमेंट के दौरान ही उनकी मौत हो गई. पुलिस के मुताबिक करण आईटी सेक्टर में काम करते थे. इंडियन एक्सप्रेस में छपी एक रिपोर्ट के अनुसार पुलिस ने बताया कि कश्यप की मौत की वजह का पता लगाने के लिए जांच की जा रही है. अस्पताल से सूचना मिलने के बाद पुलिस ने शव का पोस्टमॉर्टम कराया और विसेरा समेत बाकी नमूनों को केमिकल टेस्ट के लिए सुरक्षित कर लिया गया है. उत्तर गोवा के एसपी अक्षत कौशल ने कहा “मृतक के शव का पोस्टमॉर्टम गोवा मेडिकल कॉलेज में किया जा रहा है और अगर किसी तरह की गड़बड़ी सामने आई तो उचित कदम उठाए जाएंगे.” इस घटना ने गोवा में हो रहे EDM फेस्टिवल्स को लेकर सुरक्षा पर सवाल उठाए हैं.गोवा में संगीत कार्यक्रमों की सुरक्षा को लेकर उठे सवाल इस घटना के बाद गोवा में आयोजित हो रहे बड़े संगीत कार्यक्रमों की सुरक्षा को लेकर गंभीर चिंताएं जताई जा रही हैं. स्थानीय नागरिकों और आयोजकों का मानना है कि ऐसी घटनाएं न केवल कार्यक्रमों की सुरक्षा पर सवाल उठाती हैं बल्कि दर्शकों की सुरक्षा भी जोखिम में डाल सकती हैं.हालांकि पुलिस ने इस मामले पर तुरंत कार्रवाई करते हुए कहा है कि वे मामाले की पूरी तरह से जांच करेंगे और सुनिश्चित करेंगे ताकि भविष्य में इस तरह के हादसे न हों. पुलिस का ये भी कहना है कि वे आगामी कार्यक्रमों के लिए सुरक्षा उपायों को और मजबूत करेंगे ताकि लोगों को सुरक्षित माहौल मिल सके.ये भी पढ़ें: Akhilesh Yadav: लखनऊ में सीएम आवास के नीचे शिवलिंग, खुदाई कराएं! अखिलेश यादव का सनसनीखेज दावा",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2024-12-30 07:06:43",
-            "pubDateTZ": "UTC",
-            "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2024/12/30/dd1b9627a400095a144af6457360ac2d17355420004991123_original.jpg",
-            "source_id": "abplive",
-            "source_priority": 7754,
-            "source_name": "Abp News",
-            "source_url": "http://abplive.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/abplive.jpg",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "46665ecfe3837dbf55a8531da4af9a37",
-            "title": "Exploring the wonders of hanging monasteries",
-            "link": "https://www.newsbytesapp.com/news/lifestyle/exploring-the-wonders-of-hanging-monasteries/story",
-            "keywords": null,
-            "creator": [
-                "Simran Jeet"
-            ],
-            "video_url": null,
-            "description": "Hanging monasteries are extraordinary places where spirituality meets an exhilarating adrenaline rush, combining serene devotion with breathtaking heights.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2024-12-30 07:06:35",
-            "pubDateTZ": "UTC",
-            "image_url": "https://i.cdn.newsbytesapp.com/images/l10520241230120125.jpeg",
-            "source_id": "newsbytesapp",
-            "source_priority": 309848,
-            "source_name": "Newsbytes",
-            "source_url": "https://www.newsbytesapp.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/newsbytesapp.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "279387c2fabadbd103a8da11da7bc56e",
-            "title": "Indian government approves laptop and tablet imports for 2025",
-            "link": "https://www.newsbytesapp.com/news/science/india-adopts-flexible-stance-on-laptop-tablet-imports-for-2025/story",
-            "keywords": null,
-            "creator": [
-                "Mudit Dube"
-            ],
-            "video_url": null,
-            "description": "The Indian government has approved laptop and tablet imports for 2025, the Economic Times reported citing industry insiders.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2024-12-30 07:06:35",
-            "pubDateTZ": "UTC",
-            "image_url": "https://i.cdn.newsbytesapp.com/images/l41120241230120010.jpeg",
-            "source_id": "newsbytesapp",
-            "source_priority": 309848,
-            "source_name": "Newsbytes",
-            "source_url": "https://www.newsbytesapp.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/newsbytesapp.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "a38e39c4db595ebbc2b4e0dec7d1ef0c",
-            "title": "Investing in sustainable mutual funds in India",
-            "link": "https://www.newsbytesapp.com/news/lifestyle/investing-in-sustainable-mutual-funds-in-india/story",
-            "keywords": null,
-            "creator": [
-                "Anujj Trehaan"
-            ],
-            "video_url": null,
-            "description": "Indian investors are increasingly drawn to sustainable mutual funds as they seek to align their investment decisions with environmental, social, and governance (ESG) considerations.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2024-12-30 07:06:35",
-            "pubDateTZ": "UTC",
-            "image_url": "https://i.cdn.newsbytesapp.com/images/l55920241230120349.jpeg",
-            "source_id": "newsbytesapp",
-            "source_priority": 309848,
-            "source_name": "Newsbytes",
-            "source_url": "https://www.newsbytesapp.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/newsbytesapp.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "65e9c31aa52f6b4ebb7a3694147e0884",
-            "title": "Congress MLA in ICU after 15ft fall at Kochi's Jawahar Lal Nehru Stadium",
-            "link": "https://www.newsbytesapp.com/news/india/kerala-congress-mla-uma-thomas-in-icu-after-15-foot-fall/story",
-            "keywords": null,
-            "creator": [
-                "Snehil Singh"
-            ],
-            "video_url": null,
-            "description": "Congress MLA Uma Thomas from Thrikkakara constituency in Kerala is battling for her life after she fell from a makeshift stage at Kochi's Jawaharlal Nehru International Stadium.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2024-12-30 07:06:35",
-            "pubDateTZ": "UTC",
-            "image_url": "https://i.cdn.newsbytesapp.com/images/l30220241230115746.jpeg",
-            "source_id": "newsbytesapp",
-            "source_priority": 309848,
-            "source_name": "Newsbytes",
-            "source_url": "https://www.newsbytesapp.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/newsbytesapp.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "85df77940c564376f8d743d1a73a246b",
-            "title": "NVIDIA to launch compact computers for humanoid robots in 2025",
-            "link": "https://www.newsbytesapp.com/news/science/nvidia-to-launch-jetson-thor-for-humanoid-robots-in-2025/story",
-            "keywords": null,
-            "creator": [
-                "Dwaipayan Roy"
-            ],
-            "video_url": null,
-            "description": "NVIDIA, the leading name in the chipmaking industry, is poised to make major strides in the robotics sector in the first half of 2025.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2024-12-30 07:06:35",
-            "pubDateTZ": "UTC",
-            "image_url": "https://i.cdn.newsbytesapp.com/images/20033891735539974.jpg",
-            "source_id": "newsbytesapp",
-            "source_priority": 309848,
-            "source_name": "Newsbytes",
-            "source_url": "https://www.newsbytesapp.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/newsbytesapp.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "a25300bae691eec045694038ff4de6d6",
-            "title": "5 ways to enliven spirit with folk music learning",
-            "link": "https://www.newsbytesapp.com/news/lifestyle/5-ways-to-enliven-spirit-with-folk-music-learning/story",
-            "keywords": null,
-            "creator": [
-                "Anujj Trehaan"
-            ],
-            "video_url": null,
-            "description": "Folk music, with its deep-rooted traditions and heartfelt tunes, serves as a powerful bridge to our past and a mirror to our emotions.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2024-12-30 07:06:35",
-            "pubDateTZ": "UTC",
-            "image_url": "https://i.cdn.newsbytesapp.com/images/l9120241230120801.jpeg",
-            "source_id": "newsbytesapp",
-            "source_priority": 309848,
-            "source_name": "Newsbytes",
-            "source_url": "https://www.newsbytesapp.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/newsbytesapp.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "d04bb3d6d2d524d09dd9815e9d0dba21",
-            "title": "Crafting style with vinyl accessories",
-            "link": "https://www.newsbytesapp.com/news/lifestyle/crafting-style-with-vinyl-accessories/story",
-            "keywords": null,
-            "creator": [
-                "Anujj Trehaan"
-            ],
-            "video_url": null,
-            "description": "In a time where sustainability is the new black, upcycled vinyl record accessories are making waves as a creative and eco-friendly fashion statement.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2024-12-30 07:06:35",
-            "pubDateTZ": "UTC",
-            "image_url": "https://i.cdn.newsbytesapp.com/images/l72920241230121249.png",
-            "source_id": "newsbytesapp",
-            "source_priority": 309848,
-            "source_name": "Newsbytes",
-            "source_url": "https://www.newsbytesapp.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/newsbytesapp.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "a9c29473dfe8cb9643883b91c271332d",
-            "title": "Unveiling Chamonix, France: Tradition and nature combined",
-            "link": "https://www.newsbytesapp.com/news/lifestyle/unveiling-chamonix-france-tradition-and-nature-combined/story",
-            "keywords": null,
-            "creator": [
-                "Anujj Trehaan"
-            ],
-            "video_url": null,
-            "description": "Chamonix, located in the French Alps, is more than a skier's paradise. It's a hidden gem of cultural and natural exploration.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2024-12-30 07:06:35",
-            "pubDateTZ": "UTC",
-            "image_url": "https://i.cdn.newsbytesapp.com/images/l31120241230121759.jpeg",
-            "source_id": "newsbytesapp",
-            "source_priority": 309848,
-            "source_name": "Newsbytes",
-            "source_url": "https://www.newsbytesapp.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/newsbytesapp.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "98c764ac0b4d4ea6f4d3c61b79cb92aa",
-            "title": "'Pushpa 2' becomes third Indian film to cross ₹1,700 crore",
-            "link": "https://www.newsbytesapp.com/news/entertainment/pushpa-2-box-office-collection-on-30-12-2024/story",
-            "keywords": null,
-            "creator": [
-                "Shreya Mukherjee"
-            ],
-            "video_url": null,
-            "description": "Telugu blockbuster Pushpa 2, starring Allu Arjun and Rashmika Mandanna, has entered the ₹1,700cr club worldwide.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2024-12-30 07:06:35",
-            "pubDateTZ": "UTC",
-            "image_url": "https://i.cdn.newsbytesapp.com/images/l13320241230122119.jpeg",
-            "source_id": "newsbytesapp",
-            "source_priority": 309848,
-            "source_name": "Newsbytes",
-            "source_url": "https://www.newsbytesapp.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/newsbytesapp.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "7bbf6264cbfb1259f5767ac0a753fae5",
-            "title": "'Where was Prashant Kishor during lathicharge?' Protesting Bihar students fume",
-            "link": "https://www.newsbytesapp.com/news/india/where-was-prashant-kishor-during-lathicharge-protesting-bihar-students-fume/story",
-            "keywords": null,
-            "creator": [
-                "Tanya Shrivastava"
-            ],
-            "video_url": null,
-            "description": "Protests by Bihar Public Service Commission (BPSC) aspirants have intensified, with political strategist-turned-politician Prashant Kishor facing the ire of students for his absence during a police lathicharge.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2024-12-30 07:06:35",
-            "pubDateTZ": "UTC",
-            "image_url": "https://i.cdn.newsbytesapp.com/images/31432341735541290.jpg",
-            "source_id": "newsbytesapp",
-            "source_priority": 309848,
-            "source_name": "Newsbytes",
-            "source_url": "https://www.newsbytesapp.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/newsbytesapp.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
         }
     ]
 }
