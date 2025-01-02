@@ -1,6 +1,272 @@
 {
     "articles": [
         {
+            "article_id": "e7ecab62d4c47ca9864089597dc5bad0",
+            "title": "Another NYC Subway horror: Hoodie-wearing maniac pushes passenger in front of train",
+            "link": "https://timesofindia.indiatimes.com/world/us/another-nyc-subway-horror-hoodie-wearing-maniac-pushes-passenger-in-front-of-train/articleshow/116840469.cms",
+            "keywords": null,
+            "creator": [
+                "TOI World Desk"
+            ],
+            "video_url": null,
+            "description": "A passenger was pushed onto the tracks at the 18th Street subway station in Manhattan by a suspect described as a man in a dark hoodie and gray jeans. The victim is in critical condition, and the attacker is at large. This incident follows other recent deadly attacks in New York City's subway system.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2024-12-31 20:09:13",
+            "pubDateTZ": "UTC",
+            "image_url": "https://static.toiimg.com/thumb/msid-116840467,imgsize-1122566,width-400,resizemode-4/116840467.jpg",
+            "source_id": "toi",
+            "source_priority": 391,
+            "source_name": "The Times Of India",
+            "source_url": "https://timesofindia.indiatimes.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/toi.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "1df3ef6121e8bc6d0508a329e51527f7",
+            "title": "Hathras News: अज्ञात वाहन की टक्कर से लोनिवि कर्मी की मौत, एक घायल",
+            "link": "https://www.amarujala.com/uttar-pradesh/hathras/pwd-worker-died-and-one-injured-in-collision-with-unknown-vehicle-hathras-news-c-56-1-sali1016-124877-2025-01-01",
+            "keywords": null,
+            "creator": [
+                "संवाद न्यूज एजेंसी, हाथरस"
+            ],
+            "video_url": null,
+            "description": "कोतवाली हाथरस गेट क्षेत्र के बरेली राजमार्ग पर अज्ञात वाहन की टक्कर से लोक निर्माण विभाग के कर्मचारी की मौत हो गई, जबकि बाइक पर बैठा दूसरा व्यक्ति घायल हो गया।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2024-12-31 20:08:47",
+            "pubDateTZ": "UTC",
+            "image_url": "https://staticimg.amarujala.com/assets/images/2021/12/02/hathras_1638430881.jpeg?dpr=1.0&q=50&w=414",
+            "source_id": "amarujala",
+            "source_priority": 55215,
+            "source_name": "Amar Ujala",
+            "source_url": "https://www.amarujala.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/amarujala.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "b69f6d4a87caa692d726b31ad79b0dbc",
+            "title": "Bhiwani News: ठोकर लगने से घायल 40 वर्षीय महिला की मौत",
+            "link": "https://www.amarujala.com/haryana/bhiwani/woman-died-in-incident-bhiwani-news-c-125-1-shsr1009-127907-2025-01-01",
+            "keywords": null,
+            "creator": [
+                "संवाद न्यूज एजेंसी, भिवानी"
+            ],
+            "video_url": null,
+            "description": "गांव बलियाली में बवानीखेड़ा से अपनी बेटी के घर जा रही 40 साल की महिला ठोकर लगने से गिरकर घायल हो गई। दो अस्पतालों में डॉक्टरों को दिखाने पर उन्हें मृत घोषित कर दिया गया।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2024-12-31 20:08:42",
+            "pubDateTZ": "UTC",
+            "image_url": "https://staticimg.amarujala.com/assets/images/2021/11/09/bhiwani_1636439529.jpeg?dpr=1.0&q=50&w=414",
+            "source_id": "amarujala",
+            "source_priority": 55215,
+            "source_name": "Amar Ujala",
+            "source_url": "https://www.amarujala.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/amarujala.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "4666e814447a28b8037a56639b10198e",
+            "title": "Bhiwani News: जहर से भैंस और कटड़े की मौत, तीन की हालत खराब",
+            "link": "https://www.amarujala.com/haryana/bhiwani/buffalo-and-calf-died-due-to-poison-condition-of-three-is-critical-bhiwani-news-c-125-1-shsr1009-127881-2025-01-01",
+            "keywords": null,
+            "creator": [
+                "संवाद न्यूज एजेंसी, भिवानी"
+            ],
+            "video_url": null,
+            "description": "भिवानी के गांव निमड़ीवाली की खेल में जहरीला पानी पीने से भैंस और कटड़े की मौत हो गई जबकि तीन भैंसों की हालत बिगड़ गई।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2024-12-31 20:08:37",
+            "pubDateTZ": "UTC",
+            "image_url": "https://staticimg.amarujala.com/assets/images/2021/11/09/bhiwani_1636439529.jpeg?dpr=1.0&q=50&w=414",
+            "source_id": "amarujala",
+            "source_priority": 55215,
+            "source_name": "Amar Ujala",
+            "source_url": "https://www.amarujala.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/amarujala.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "f8a3c1fe81601a23d3e22c986b3429c8",
+            "title": "Lucknow News: खराब मौसम ने बिगाड़ा रेल, हवाई सफर",
+            "link": "https://www.amarujala.com/lucknow/bad-weather-disrupts-rail-air-travel-lucknow-news-c-13-1-lko1029-1016921-2025-01-01",
+            "keywords": null,
+            "creator": [
+                ""
+            ],
+            "video_url": null,
+            "description": "खराब मौसम के चलते मंगलवार को लखनऊ होकर गुजरने वाली 20 ट्रेनें लेट रहीं। एक उड़ान निरस्त रही तो 12 उड़ानें देरी का शिकार हुईं।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2024-12-31 20:08:33",
+            "pubDateTZ": "UTC",
+            "image_url": "https://staticimg.amarujala.com/assets/images/2021/10/21/lucknow_1634823856.jpeg?dpr=1.0&q=50&w=414",
+            "source_id": "amarujala",
+            "source_priority": 55215,
+            "source_name": "Amar Ujala",
+            "source_url": "https://www.amarujala.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/amarujala.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "2d1f128ab0cfefb5b40da32fac7e8715",
+            "title": "Panchkula News: चैलेंजर्स ट्रॉफी में काशवी गौतम भी दिखाएगी दमखम",
+            "link": "https://www.amarujala.com/haryana/panchkula/kashvi-gautam-will-also-show-her-strength-in-challengers-trophy-panchkula-news-c-16-pkl1043-597979-2025-01-01",
+            "keywords": null,
+            "creator": [
+                ""
+            ],
+            "video_url": null,
+            "description": "चैलेंजर्स ट्रॉफी में काशवी गौतम भी दिखाएगी दमखम",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2024-12-31 20:08:28",
+            "pubDateTZ": "UTC",
+            "image_url": "https://staticimg.amarujala.com/assets/images/2021/10/12/panchkula_1634042987.jpeg?dpr=1.0&q=50&w=414",
+            "source_id": "amarujala",
+            "source_priority": 55215,
+            "source_name": "Amar Ujala",
+            "source_url": "https://www.amarujala.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/amarujala.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "44ed6428aacc6ef626c3b3eaf03ce0f3",
+            "title": "Doctor Challenges GHMC's Seizure of Land in Telangana HC",
+            "link": "https://www.deccanchronicle.com/southern-states/telangana/doctor-challenges-ghmcs-seizure-of-land-in-telangana-hc-1851036",
+            "keywords": [
+                "southern states,telangana"
+            ],
+            "creator": [
+                "L. Ravichander"
+            ],
+            "video_url": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2024-12-31 19:07:48",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.deccanchronicle.com/h-upload/2024/08/07/1876187-telanganahighcourt.webp",
+            "source_id": "deccanchronicle",
+            "source_priority": 14130,
+            "source_name": "Deccan Chronicle",
+            "source_url": "https://www.deccanchronicle.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/deccanchronicle.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "entertainment"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "55a5f6103fbee93029ab605c569bebec",
+            "title": "Highly Anticipated Kannada Films Of 2025: Yash's Toxic, Rishab Shetty’s Kantara: Chapter 1, And More!",
+            "link": "https://www.timesnownews.com/entertainment-news/kannada/highly-anticipated-kannada-films-of-2025-yash-s-toxic-rishab-shetty-s-kantara-chapter-1-and-more-article-116840073",
+            "keywords": null,
+            "creator": [
+                "Shashiprasad SM"
+            ],
+            "video_url": null,
+            "description": "The Kannada film industry ends 2024 with blockbusters like UI and Max. 2025 promises excitement with Yash’s Toxic releasing in April and Rishab Shetty’s Kantara: Chapter 1 in October. Dhruva Sarja's KD - The Devil, Arjun Janya’s 45, and Darshan’s delayed Devil are highly awaited. Other notable releases include Sanju Weds Geetha 2, Rachayya, and Jingo.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2024-12-31 19:07:38",
+            "pubDateTZ": "UTC",
+            "image_url": "https://static.tnn.in/thumb/msid-116840135,thumbsize-194742,width-1280,height-720,resizemode-75/116840135.jpg",
+            "source_id": "timesnownews",
+            "source_priority": 2243,
+            "source_name": "Times Now News",
+            "source_url": "https://www.timesnownews.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/timesnownews.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "entertainment"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
             "article_id": "a60612552e21796c701004c2d0a6f55d",
             "title": "आज का कुंभ राशिफल, 01 जनवरी 2025, बुधवार - आप धैर्य से काम लेंगे!",
             "link": "https://hindi.oneindia.com/astrology/aaj-ka-kumbh-rashifal-01-january-2025-read-aquarius-horoscope-today-prediction-in-hindi-011-1190863.html",
