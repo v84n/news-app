@@ -1,6 +1,686 @@
 {
     "articles": [
         {
+            "article_id": "c4f56c1ad647e5cc4448302e4af3e6df",
+            "title": "Modi greets Murli Manohar Joshi on 91st birthday",
+            "link": "https://www.deccanchronicle.com/nation/pm-modi-greets-murli-manohar-joshi-on-91st-birthday-1852025",
+            "keywords": [
+                "nation,news"
+            ],
+            "creator": [
+                "PTI"
+            ],
+            "video_url": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-01-05 06:10:00",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.deccanchronicle.com/h-upload/2025/01/05/1878749-joshi.webp",
+            "source_id": "deccanchronicle",
+            "source_priority": 14130,
+            "source_name": "Deccan Chronicle",
+            "source_url": "https://www.deccanchronicle.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/deccanchronicle.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "entertainment"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "dbfa0bdd3fadf5cdded643decadcad25",
+            "title": "बाप रे बाप! 17500 Cr,कौन है दुनिया का सबसे ज्यादा सैलरी पाने वाला बंदा",
+            "link": "https://hindi.asianetnews.com/webstories/business-news/money-news/who-is-jagdeep-singh-of-quantumscape-who-got-an-annual-package-of-rs-17500-crore-became-the-world-highest-paid-employee-4bna7kg",
+            "keywords": [
+                "business news"
+            ],
+            "creator": [
+                "Ganesh Mishra"
+            ],
+            "video_url": null,
+            "description": "क्या आप उस शख्स का नाम जानते हैं, जिसकी सैलरी पूरी दुनिया में सबसे ज्यादा है। वो नाम है भारतीय मूल के जगदीप सिंह का, जिनका सालाना वेतन 2.3 अरब डॉलर यानी 17,500 करोड़ रुपए है। यानी वो हर दिन करीब 48 करोड़ रुपए कमाते हैं।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-01-05 06:09:45",
+            "pubDateTZ": "UTC",
+            "image_url": "https://static-gi.asianetnews.com/images/01jd54vbaprsdd885vnzj147hg/hot-stocks-today-1732118424917.jpg",
+            "source_id": "hindi_asianetnews",
+            "source_priority": 7805,
+            "source_name": "Asianet News Hindi",
+            "source_url": "https://hindi.asianetnews.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/hindi_asianetnews.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "d017b9fd9ac9eed8d92dae7adea70dd4",
+            "title": "Will Virat Kohli be able to retain his place for England Tests?",
+            "link": "https://www.moneycontrol.com/sports/cricket/will-virat-kohli-be-able-to-retain-his-place-for-england-tests-article-12903566.html",
+            "keywords": [
+                "virat kohli"
+            ],
+            "creator": [
+                "Moneycontrol"
+            ],
+            "video_url": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-01-05 06:09:43",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.moneycontrol.com/static-mcnews/2025/01/20250105060843_vkn.png",
+            "source_id": "moneycontrol",
+            "source_priority": 1064,
+            "source_name": "Moneycontrol",
+            "source_url": "https://www.moneycontrol.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/moneycontrol.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top",
+                "business",
+                "world",
+                "politics"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "beb0ec5e3607ed359c72c82655956d45",
+            "title": "वरमाला लेकर खड़ा था युवक, अचानक बाथरूम गई दुल्हन, पीछे से पहुंचा दूल्हा, फिर...",
+            "link": "https://hindi.news18.com/news/uttar-pradesh/gorakhpur-bride-went-to-bathroom-before-jaimala-ceremony-surprisingly-groom-followed-her-got-shocked-wept-bitterly-to-know-reality-dulhan-runs-away-in-gorakhpur-8939429.html",
+            "keywords": [
+                "उत्तर प्रदेश"
+            ],
+            "creator": [
+                "News18 Hindi"
+            ],
+            "video_url": null,
+            "description": "UP News : गोरखपुर के खजनी थाना क्षेत्र के भरोहिया गांव स्थित शिव मंदिर में सीतापुर जिले का एक युवक पूरे परिवार के साथ खुशी-खुशी शादी के लिए पहुंचा. दुल्हन अपनी मां के साथ आई थी. युवक ने दुल्हन को शादी का लाल जोड़ा और गहने दिए. जयमाला की तैयारी शुरू हो गई. दूल्हा अपने हाथ में वरमाला लेकर खड़ा था. दुल्हन अचानक बाथरूम चली गई. थोड़ी देर बाद दूल्हा भी उसके पीछे-पीछे पहुंचा लेकिन सामने का नजारा देखकर लगभग बेहोश हो गया.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-01-05 06:09:40",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.news18.com/ibnkhabar/uploads/2025/01/Gorakhpur-news-2025-01-3eec5a68c678f915a83eb7a105845a83-3x2.jpg",
+            "source_id": "hindinews18",
+            "source_priority": 4077,
+            "source_name": "News 18 Hindi",
+            "source_url": "https://hindi.news18.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/hindinews18.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "3d891a9315f026824fd388cb558d521e",
+            "title": "All We Imagine As Light: What this Cannes-nominated film can teach us about money and dreams",
+            "link": "https://www.livemint.com/money/personal-finance/all-we-imagine-as-light-what-this-cannes-nominated-film-can-teach-us-about-money-and-dreams-ott-payal-kapadia-11736056051280.html",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "The film 'All We Imagine As Light' portrays the lives of three women navigating dreams and hardships in a bustling city, garnering critical acclaim including a Palme D’Or nomination. It offers insights on personal struggles, the impact of development, and investment lessons.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-01-05 06:09:36",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.livemint.com/lm-img/img/2025/01/05/1600x900/all_we_image_as_light_1734811594307_1736056239984.jpg",
+            "source_id": "livemint",
+            "source_priority": 7134,
+            "source_name": "Mint",
+            "source_url": "https://www.livemint.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/livemint.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "business"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "8f001618c844cbe0aada2f63e4653a2c",
+            "title": "'अपने दूल्हे का नाम तो बताओ?', AAP ने पूछा तो BJP ने इस अंदाज में दिया जवाब",
+            "link": "https://www.aajtak.in/india/news/story/delhi-elections-aam-aadmi-party-and-bjp-poster-war-kejriwal-virendra-sachdeva-ntc-dskc-2136574-2025-01-05",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "दिल्ली चुनाव से पहले सत्तारूढ़ आम आदमी पार्टी और विपक्षी बीजेपी के बीच सोशल मीडिया पर पोस्टर वॉर शुरू हो गया है. आम आदमी पार्टी ने बीजेपी पर सीएम फेस घोषित न करने को लेकर तंज कसा है, वहीं भाजपा ने इसका जवाब बेहद खास अंदाज में दिया है.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-01-05 06:09:33",
+            "pubDateTZ": "UTC",
+            "image_url": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202501/677a217b9e164-delhi-election-050646193-16x9.png",
+            "source_id": "aajtak",
+            "source_priority": 20158,
+            "source_name": "Aaj Tak",
+            "source_url": "http://aajtak.in",
+            "source_icon": "https://i.bytvi.com/domain_icons/aajtak.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "c1b4d531740af7bde25eeba6c356eae8",
+            "title": "PM Modi to Unveil ₹12,000 Crore Projects, Marking the Start of Delhi Election Campaign",
+            "link": "https://news.abplive.com/videos/news/india-pm-modi-to-unveil-12-000-crore-projects-marking-the-start-of-delhi-election-campaign-1741968",
+            "keywords": [
+                "india"
+            ],
+            "creator": [
+                "ABP News Bureau"
+            ],
+            "video_url": null,
+            "description": "Prime Minister Narendra Modi will launch his campaign for the 2025 Delhi elections today with a rally at the Japanese Park in Rohini. Before addressing the public, PM Modi will unveil and lay the foundation for development projects worth over ₹12,000 crore.A key feature of today's announcements will be the launch of the Rapid Rail service, connecting Ashok Nagar in Delhi to Meerut, marking a new era in the city's transport system.Moreover, PM Modi will inaugurate the Janakpuri-Krishna Park metro line and lay the foundation stone for the Kundli Metro Line from Rithala. The day will also witness the inauguration of a new building for the Central Ayurveda Research Institute in Rohini. These initiatives aim to strengthen Delhi’s infrastructure and connectivity as part of PM Modi's electoral strategy.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-01-05 06:09:32",
+            "pubDateTZ": "UTC",
+            "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2025/01/05/6515c3dc36025135a8b6a8b6b92d4d2b1736057194965963_original.png",
+            "source_id": "abplive",
+            "source_priority": 7754,
+            "source_name": "Abp News",
+            "source_url": "http://abplive.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/abplive.jpg",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "c9389cba7d270bb126453597f49dc43d",
+            "title": "Visa: भारत ने शुरू की दो नई वीजा श्रेणियां, अंतर्राष्ट्रीय छात्रों को मिलेगी मदद; इस लिंक से करना होगा आवेदन",
+            "link": "https://www.amarujala.com/education/govt-launches-2-special-categories-visas-for-international-students-2025-01-05",
+            "keywords": null,
+            "creator": [
+                "amarujala.com"
+            ],
+            "video_url": null,
+            "description": "Special Categories Visas: गृह मंत्रालय ने 'ई-स्टूडेंट वीजा' और 'ई-स्टूडेंट-एक्स' वीजा की शुरुआत की है और सभी आवेदकों को सरकार द्वारा शुरू किए गए 'स्टडी इन इंडिया' पोर्टल का उपयोग करना होगा।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-01-05 06:09:31",
+            "pubDateTZ": "UTC",
+            "image_url": "https://staticimg.amarujala.com/assets/images/original/default_500.png?dpr=1.0&q=50&w=414",
+            "source_id": "amarujala",
+            "source_priority": 55215,
+            "source_name": "Amar Ujala",
+            "source_url": "https://www.amarujala.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/amarujala.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "63ca22440cb238debdc2d2f123d83101",
+            "title": "Market Outlook: वैश्विक रुझानों और तिमाही नतीजों पर टिकी शेयर बाजार की नजर",
+            "link": "https://hindi.business-standard.com/markets/market-outlook-stock-markets-eyes-fixed-on-global-trends-and-quarterly-results-id-400354",
+            "keywords": null,
+            "creator": [
+                "मानसी वार्ष्णेय"
+            ],
+            "video_url": null,
+            "description": "स्थानीय शेयर बाजारों की दिशा इस सप्ताह वैश्विक रुझानों, विदेशी निवेशकों की गतिविधियों और कंपनियों के तिमाही नतीजों से तय होगी। विश्लेषकों ने यह राय जताई है। इस सप्ताह गुरुवार से टाटा कंसल्टेंसी सर्विसेज (टीसीएस) के साथ तिमाही नतीजों का सीजन शुरू होने जा रहा है। विश्लेषकों का कहना है कि वृहद आर्थिक आंकड़े और […]",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-01-05 06:09:28",
+            "pubDateTZ": "UTC",
+            "image_url": "https://hindibusinessstandard.imagibyte.sortdcdn.net/wp-content/uploads/2024/12/anshu-2024-12-23T214502.807.jpg",
+            "source_id": "business-standard",
+            "source_priority": 9158,
+            "source_name": "Business Standard",
+            "source_url": "https://www.business-standard.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/business-standard.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "business"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "151c37943d55d480df68f6bf1b3f060d",
+            "title": "Chhattisgarh journo death: DIGIPUB, Editors Guild highlight threats to press freedom",
+            "link": "https://www.thenewsminute.com/news/chhattisgarh-journo-death-digipub-editors-guild-highlight-threats-to-press-freedom",
+            "keywords": null,
+            "creator": [
+                "TNM Staff"
+            ],
+            "video_url": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-01-05 06:09:21",
+            "pubDateTZ": "UTC",
+            "image_url": "https://media.assettype.com/thenewsminute%2F2025-01-05%2Fbbplls41%2FWhatsApp-Image-2025-01-05-at-11.35.42-AM.jpeg?auto=format%2Ccompress&fit=max&rect=182%2C0%2C898%2C505&w=480",
+            "source_id": "thenewsminute",
+            "source_priority": 51417,
+            "source_name": "The News Minute",
+            "source_url": "https://www.thenewsminute.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/thenewsminute.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "d48b2f12a4728e62ba9260c3e9d30d22",
+            "title": "Sky Force Trailer Out! Akshay Kumar, Veer Pahariya Starrer Promises To Fly High",
+            "link": "https://www.timesnownews.com/entertainment-news/bollywood/sky-force-trailer-out-akshay-kumar-veer-pahariya-starrer-promises-to-fly-high-article-116959542",
+            "keywords": null,
+            "creator": [
+                "Simran Khan"
+            ],
+            "video_url": null,
+            "description": "The trailer of Akshay Kumar, Veer Pahariya, Sara Ali Khan and Nimrat Kaur's Sky Force was unveiled by the makers on Sunday. Check out all the details here!",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-01-05 06:09:19",
+            "pubDateTZ": "UTC",
+            "image_url": "https://static.tnn.in/thumb/msid-116959542,imgsize-53134,width-1280,height-720/116959542.jpg",
+            "source_id": "timesnownews",
+            "source_priority": 2243,
+            "source_name": "Times Now News",
+            "source_url": "https://www.timesnownews.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/timesnownews.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "1d1d47d5d525c8e6e07a02f8928d674f",
+            "title": "Hardoi Accident: अज्ञात वाहन ने बाइक को मारी टक्कर, मामी-भांजा की मौत और मामा घायल, जांच में जुटी पुलिस",
+            "link": "https://www.amarujala.com/uttar-pradesh/kanpur/hardoi-accident-an-unknown-vehicle-hit-bike-aunt-and-nephew-died-uncle-injured-police-engaged-in-investigation-2025-01-05",
+            "keywords": null,
+            "creator": [
+                "न्यूज डेस्क, अमर उजाला, हरदोई"
+            ],
+            "video_url": null,
+            "description": "हरदोई जिले में लखनऊ- पलिया राष्ट्रीय राजमार्ग पर बाइक सवार को किसी वाहन ने टक्कर मार दी। घटना में बाइक सवार मामी-भांजा की मौत हो गई, जबकि मामा मामूली रूप से चोटिल हो गया। उन्नाव के दरियाखेड़ा निवासी सुमित(30) की बहन निशा का घर रामपुर में है।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-01-05 06:09:08",
+            "pubDateTZ": "UTC",
+            "image_url": "https://staticimg.amarujala.com/assets/images/original/default_500.png?dpr=1.0&q=50&w=414",
+            "source_id": "amarujala",
+            "source_priority": 55215,
+            "source_name": "Amar Ujala",
+            "source_url": "https://www.amarujala.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/amarujala.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "212a4999f92cf280c4d035a0044e8128",
+            "title": "Kumbh Mela 2025: The Origins Of The World's Largest Hindu Festival",
+            "link": "https://www.news18.com/photogallery/lifestyle/kumbh-mela-2025-the-origins-of-the-worlds-largest-hindu-festival-9177569.html",
+            "keywords": [
+                "latest"
+            ],
+            "creator": [
+                "News18"
+            ],
+            "video_url": null,
+            "description": "Kumbh Mela 2025: This year, Maha Kumbh Mela will be held from January 13 to February 26 in Prayagraj, Uttar Pradesh.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-01-05 06:09:03",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.news18.com/ibnlive/uploads/2025/01/kumbh-mela-2025-origin-date-history-2025-01-5255f310173c60fe20f2a4344416dba7-3x2.jpg",
+            "source_id": "news18",
+            "source_priority": 3864,
+            "source_name": "News 18",
+            "source_url": "https://www.news18.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/news18.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "116db862737134e677e0fe709623d626",
+            "title": "This diet helps to improve heart health, manage diabetes, ranked as best diet of the year, it is...",
+            "link": "https://www.india.com/lifestyle/this-diet-helps-to-improve-heart-health-manage-diabetes-ranked-as-best-diet-of-the-year-it-is-mediterranean-diet-7515263/",
+            "keywords": [
+                "health",
+                "lifestyle",
+                "fitness trend",
+                "diabetes management",
+                "heart health",
+                "mediterranean diet"
+            ],
+            "creator": null,
+            "video_url": null,
+            "description": "This diet pattern gained traction during 2024 with several benefits emerging. Read on to know more about one of the healthy dietary trend.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-01-05 06:09:03",
+            "pubDateTZ": "UTC",
+            "image_url": "https://static.india.com/wp-content/themes/icom/images/default-big.svg",
+            "source_id": "india",
+            "source_priority": 8067,
+            "source_name": "India",
+            "source_url": "https://www.india.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/india.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "business"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "60175e12317545c6edbea4e30f276f48",
+            "title": "Virat Kohli Silences Australian Fans With Mock Sandpaper Gesture At Sydney - Watch Video",
+            "link": "https://zeenews.india.com/cricket/virat-kohli-silences-australian-fans-with-mock-sandpaper-gesture-at-sydney-watch-video-2839690.html",
+            "keywords": null,
+            "creator": [
+                "Zee News"
+            ],
+            "video_url": null,
+            "description": "Virat Kohli's mock 'sandpaper' gesture aimed at Australian fans during the fifth Test in Sydney grabbed headlines, adding fuel to the heated India-Australia rivalry. India, however, suffered a 3-1 series defeat.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-01-05 06:09:00",
+            "pubDateTZ": "UTC",
+            "image_url": "https://english.cdn.zeenews.com/sites/default/files/styles/zm_700x400/public/2025/01/05/1625780-viratkohlipinkball.png?im=Resize%3D%28400%29",
+            "source_id": "zeenews",
+            "source_priority": 5319,
+            "source_name": "Zee News",
+            "source_url": "http://zeenews.india.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/zeenews.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "sports"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "30b405409502f25af881f8a7354beb7a",
+            "title": "Osaka out of Auckland final with apparent injury",
+            "link": "https://www.espn.com/tennis/story/_/id/43291506/naomi-osaka-retires-auckland-final-injury-giving-clara-tauson-title",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "Naomi Osaka's Australian Open campaign has taken on an element of doubt after the four-time Grand Slam champion and former No. 1 suffered an apparent injury Sunday while playing the final of a WTA tournament in Auckland.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-01-05 06:08:59",
+            "pubDateTZ": "UTC",
+            "image_url": "https://a1.espncdn.com/combiner/i?format=jpg%2C&img=%2Fphoto%2F2025%2F0105%2Fr1434716_1296x729_16-9.jpg&w=570",
+            "source_id": "espn",
+            "source_priority": 341,
+            "source_name": "Espn",
+            "source_url": "https://www.espn.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/espn.png",
+            "language": "english",
+            "country": [
+                "india",
+                "united states of america",
+                "united kingdom",
+                "australia",
+                "singapore",
+                "canada"
+            ],
+            "category": [
+                "sports"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "e6cf3f007e7f0ed5dd24749f33ca7e81",
+            "title": "Warriors lose Kuminga to 'significant' ankle sprain",
+            "link": "https://www.espn.com/nba/story/_/id/43290457/warriors-kuminga-suffers-significant-sprain-right-ankle",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "The Warriors could be without forward Jonathan Kuminga for an extended period after he suffered a \"significant\" sprain in his right ankle.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-01-05 06:08:59",
+            "pubDateTZ": "UTC",
+            "image_url": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F0105%2Fr1434711_1296x729_16-9.jpg",
+            "source_id": "espn",
+            "source_priority": 341,
+            "source_name": "Espn",
+            "source_url": "https://www.espn.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/espn.png",
+            "language": "english",
+            "country": [
+                "india",
+                "united states of america",
+                "united kingdom",
+                "australia",
+                "singapore",
+                "canada"
+            ],
+            "category": [
+                "sports"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "7abdea8027095c2a7c31c13dc87c71a3",
+            "title": "Top 10 Best Indian Job Portals in 2025 | Your Guide to Career Success",
+            "link": "https://www.inventiva.co.in/trends/indian-job-portals-2025/",
+            "keywords": [
+                "trends"
+            ],
+            "creator": [
+                "kritisrivastava"
+            ],
+            "video_url": null,
+            "description": "The rise of Indian job portals has revolutionized the way job seekers and recruiters connect, making the recruitment process seamless and efficient. In 2025, the competition among job portals in India is fiercer than ever, with platforms offering specialized features to cater to various industries, skill sets, and career stages. Here are the top 10 ...",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-01-05 06:08:58",
+            "pubDateTZ": "UTC",
+            "image_url": null,
+            "source_id": "inventiva",
+            "source_priority": 703697,
+            "source_name": "Inventiva",
+            "source_url": "https://www.inventiva.co.in",
+            "source_icon": "https://i.bytvi.com/domain_icons/inventiva.jpg",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "c414d2cc3ec6d82c20fc2f09e229b112",
+            "title": "Bihar Police Vacancy: पटना में सिपाही भर्ती परीक्षा में धोखाधड़ी का खुलासा, 33 अभ्यर्थी गिरफ्तार",
+            "link": "https://indianews.in/bihar/fraud-exposed-in-constable-recruitment-exam-in-patna-33-candidates-arrested/",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "India News (इंडिया न्यूज), Bihar Police Vacancy: पटना में चल रही सिपाही भर्ती परीक्षा के दौरान धोखाधड़ी का एक बड़ा मामला सामने आया है। 9 दिसंबर से शुरू हुए फिजिकल टेस्ट के दौरान अब तक 33 अभ्यर्थियों को गिरफ्तार किया गया है, जो किसी और को अपनी जगह पर बैठाकर रिटेन एग्जाम दिलवा रहे थे। [...]",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-01-05 06:08:55",
+            "pubDateTZ": "UTC",
+            "image_url": "https://indianews.in/wp-content/uploads/2025/01/Bihar-Police-Vacancy.webp",
+            "source_id": "indianews",
+            "source_priority": 1433119,
+            "source_name": "India News Rajasthan",
+            "source_url": "https://rajasthan.indianews.in",
+            "source_icon": "https://i.bytvi.com/domain_icons/indianews.jpg",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "59544198f6671395596b11e4f0f53920",
+            "title": "एनसीपी में उठे विरोध के सुर, क्या पार्टी को संभालने के लिए चाचा शरद पवार के साथ हाथ मिलाएंगे अजित?",
+            "link": "https://indianews.in/indianews/sharad-pawar-and-ajit-pawar-may-come-together-again-dhananjay-munde-chhagan-bhujbalsharad-pawar-and-ajit-pawar-may-come-together-again-dhananjay-munde-chhagan-bhujbal/",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "एनसीपी अजित गुट के सीनियर नेता छगन भुजबल मंत्री पद न मिलने से बगावती रुख अपनाए हुए हैं।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-01-05 06:08:54",
+            "pubDateTZ": "UTC",
+            "image_url": "https://indianews.in/wp-content/uploads/2024/11/Supreme-Court-Says-Team-Ajit-Pawar-Cant-Use-Sharad-Pawars-Pics-1.webp",
+            "source_id": "indianews",
+            "source_priority": 1433119,
+            "source_name": "India News Rajasthan",
+            "source_url": "https://rajasthan.indianews.in",
+            "source_icon": "https://i.bytvi.com/domain_icons/indianews.jpg",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
             "article_id": "5499c84358cb77c0247626368b90a7f6",
             "title": "BJP bets big on Congress, AAP turncoats: Arvinder Lovely, Kailash Gahlot in first candidate list for Delhi polls",
             "link": "https://www.livemint.com/elections/delhi-election-2025-arvinder-lovely-to-kailash-gahlot-congress-aap-turncoats-dominate-bjps-first-candidate-list-11736051758539.html",
@@ -23103,1262 +23783,6 @@
             "category": [
                 "top",
                 "business"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "3a343a5c9a36832222add8171734b5f1",
-            "title": "दिल्ली में बेड में मिली महिला की लाश, पति हुआ फरार; 5 साल पहले हुई थी शादी",
-            "link": "https://www.tv9hindi.com/state/delhi-ncr/delhi-crime-woman-murdered-body-hidden-in-bed-husband-kill-accused-absconding-stwsk-3039170.html",
-            "keywords": null,
-            "creator": [
-                "TV9 Bharatvarsh"
-            ],
-            "video_url": null,
-            "description": "दिल्ली के डाबरी में एक युवक ने अपनी ही पत्नी की हत्या के बाद शव को बेड में छिपाकर फरार हो गया. सूचना मिलने पर पहुंची पुलिस ने शव कब्जे में लेकर पोस्टमार्टम के लिए भेजा है. फिलहाल पुलिस आरोपी पति की तलाश कर रही है.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-01-03 18:10:44",
-            "pubDateTZ": "UTC",
-            "image_url": "https://images.tv9hindi.com/wp-content/uploads/2025/01/crime-1.jpg",
-            "source_id": "tv9bharatvarsh",
-            "source_priority": 40538658,
-            "source_name": "Tv9 Bharatvarsh",
-            "source_url": "https://www.tv9hindi.com",
-            "source_icon": null,
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "crime"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "00fd5984dd2549cb045099e43084e378",
-            "title": "CBI Doesn't Need Permission From State To Lodge FIR Against Centre Officials: SC",
-            "link": "https://www.republicworld.com/india/cbi-doesn-t-need-state-consent-for-fir-against-centre-officials-sc",
-            "keywords": [
-                "india"
-            ],
-            "creator": [
-                "editor@republicworld.com (Press Trust Of India)"
-            ],
-            "video_url": null,
-            "description": "CBI Doesn't Need Permission From State To Lodge FIR Against Centre Officials: SC",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-01-03 18:10:36",
-            "pubDateTZ": "UTC",
-            "image_url": "http://img.republicworld.com/rimages/download-(95)-169909675896916_9.webp",
-            "source_id": "republicworld",
-            "source_priority": 17361,
-            "source_name": "Republic World",
-            "source_url": "https://www.republicworld.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/republicworld.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "bb4657631be7b5bdde1113cd7ca4f5d5",
-            "title": "उजियारपुर में बाइक सवार बदमाशों ने जेवर दुकानदार से लूटा आभूषण",
-            "link": "https://www.prabhatkhabar.com/state/bihar/samastipur/miscreants-looted-jewelery-from-jewelery-shopkeeper",
-            "keywords": [
-                "samastipur",
-                "bihar news"
-            ],
-            "creator": [
-                "Prabhat Khabar News Desk"
-            ],
-            "video_url": null,
-            "description": "थाना क्षेत्र की बेलामेघ पंचायत में गुरुवार की देर शाम जेवर दुकानदार से पिस्तौल के बल पर अज्ञात बाइक सवार बदमाशों ने तीन लाख रुपये के आभूषण व आठ हजार नकद लूट लिये. The post उजियारपुर में बाइक सवार बदमाशों ने जेवर दुकानदार से लूटा आभूषण appeared first on Prabhat Khabar.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-01-03 18:10:35",
-            "pubDateTZ": "UTC",
-            "image_url": "https://www.prabhatkhabar.com/wp-content/uploads/2024/03/VIDHYAPATI-DHAM.jpg",
-            "source_id": "prabhatkhabar",
-            "source_priority": 343253,
-            "source_name": "Prabhat Khabar",
-            "source_url": "https://www.prabhatkhabar.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/prabhatkhabar.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "761af1f95af01e5fe602d2969dd0e7c9",
-            "title": "आरबीसी ने नोट किया कि ठंड के मौसम के बीच अमेरिका की प्राकृतिक गैस की कीमतें समर्थित बनी हुई हैं",
-            "link": "https://hi.investing.com/news/commodities-news/article-93CH-371915",
-            "keywords": null,
-            "creator": [
-                "Investing.com"
-            ],
-            "video_url": null,
-            "description": null,
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-01-03 18:10:35",
-            "pubDateTZ": "UTC",
-            "image_url": "https://i-invdn-com.investing.com/news/LYNXNPEA950JT_M.jpg",
-            "source_id": "investing_hi",
-            "source_priority": 1143,
-            "source_name": "Investing भारत",
-            "source_url": "https://hi.investing.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/investing_hi.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "c3272835163dc3520a3a8d798eddd026",
-            "title": "Giridih News: चोरी की घटना का उदभेदन नहीं होने से व्यवसायियों में रोष",
-            "link": "https://www.prabhatkhabar.com/state/jharkhand/giridih/anger-among-businessmen-due-to-theft-incident-not-investigat",
-            "keywords": [
-                "giridih news",
-                "giridih",
-                "jharkhand news"
-            ],
-            "creator": [
-                "Prabhat Khabar News Desk"
-            ],
-            "video_url": null,
-            "description": "Giridih News: हीरोडीह थाना क्षेत्र स्थित कोदंबरी चौक में बीते दिनों वंदना ज्वेलर्स व आरएस ज्वेलर्स में हुई लगभग 30 लाख चोरी की घटना का उद्भेदन नहीं होने से व्यवसायियों में रोष है. शुक्रवार की दोपहर घटना के विरोध में इलाके के व्यवसायी, प्रबुद्ध लोग, जनप्रतिनिधि, समाजसेवी समेत सैकड़ों लोगों ने एक आवश्यक बैठक की. इस दौरान सभी ने घटना की निंदा करते हुए आरोपियों के धर पकड़ की मांग की. इसके साथ ही पूरे बाजार में हीरोडीह पुलिस के खिलाफ नारेबाजी की गयी. The post Giridih News: चोरी की घटना का उदभेदन नहीं होने से व्यवसायियों में रोष appeared first on Prabhat Khabar.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-01-03 18:10:34",
-            "pubDateTZ": "UTC",
-            "image_url": "https://www.prabhatkhabar.com/wp-content/uploads/2024/03/tower-chowk.jpg",
-            "source_id": "prabhatkhabar",
-            "source_priority": 343253,
-            "source_name": "Prabhat Khabar",
-            "source_url": "https://www.prabhatkhabar.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/prabhatkhabar.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "f609d17a32828c2dc380fb44a73b37f6",
-            "title": "India 'Closely Following Developments' On Kerala Nurse Facing Death Row In Yemen",
-            "link": "https://www.news18.com/india/india-closely-following-developments-on-kerala-nurse-facing-death-row-in-yemen-9176678.html",
-            "keywords": [
-                "india"
-            ],
-            "creator": [
-                "News18"
-            ],
-            "video_url": null,
-            "description": "Priya, who hails from Kollengode in Kerala's Palakkad district, has been found guilty of murdering a Yemeni citizen in July, 2017",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-01-03 18:10:27",
-            "pubDateTZ": "UTC",
-            "image_url": "https://images.news18.com/ibnlive/uploads/2024/12/untitled-design-2024-12-31t132153.092-2024-12-71f9bce433ce1d0c61a9f253909264b8-3x2.jpg",
-            "source_id": "news18",
-            "source_priority": 3864,
-            "source_name": "News 18",
-            "source_url": "https://www.news18.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/news18.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "6bc65f05b42e514992f7ff100010b7a7",
-            "title": "Kozhikode to witness grand parade of over 1,000 Santas on January 4",
-            "link": "https://www.thehindu.com/news/national/kerala/kozhikode-to-witness-grand-parade-of-over-1000-santas-on-january-4/article69057849.ece",
-            "keywords": [
-                "kerala"
-            ],
-            "creator": null,
-            "video_url": null,
-            "description": "The Calicut diocese is organising the unique event inspired by the Thrissur Archdiocese’s annual ‘Boun Natale’ celebrations",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-01-03 18:10:26",
-            "pubDateTZ": "UTC",
-            "image_url": "https://www.thehindu.com/theme/images/og-image.png",
-            "source_id": "thehindu",
-            "source_priority": 2972,
-            "source_name": "The Hindu",
-            "source_url": "https://www.thehindu.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/thehindu.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "60a62eef36a98555b437687bb8601f68",
-            "title": "PM Modi to visit Visakhapatnam on Jan 8, to launch various projects",
-            "link": "https://telanganatoday.com/pm-modi-to-visit-visakhapatnam-on-jan-8-to-launch-various-projects",
-            "keywords": [
-                "narendra modi",
-                "india",
-                "visakhapatnam",
-                "amaravati",
-                "news",
-                "k vijayanand",
-                "andhra pradesh"
-            ],
-            "creator": [
-                "IANS"
-            ],
-            "video_url": null,
-            "description": "Chief Secretary Vijayanand reviews arrangements for Prime Minister's visit with the officials of the concerned departments through a video conference from the State Secretariat",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-01-03 18:10:23",
-            "pubDateTZ": "UTC",
-            "image_url": "https://media.telanganatoday.com/wp-content/uploads/2025/01/Narendra-Modi-768x450.jpg",
-            "source_id": "telanganatoday",
-            "source_priority": 63887,
-            "source_name": "Telangana Today",
-            "source_url": "https://telanganatoday.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/telanganatoday.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "bc20ca0fb537d469da80fce1c95225bd",
-            "title": "Dal Makhani",
-            "link": "https://www.timesnownews.com/lifestyle/food/recipes/dal-makhani-recipe-116923374",
-            "keywords": null,
-            "creator": [
-                "Times Foodie"
-            ],
-            "video_url": null,
-            "description": "Dal Makhani is a rich and creamy Indian dish made with black lentils (sabut urad) and rajma, slow-cooked in a blend of aromatic spices, tomatoes, and butter. The slow cooking process allows the flavours to meld, resulting in a smooth and flavourful dish. Served with naan or rice, Dal Makhani is a comforting and indulgent meal.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-01-03 18:10:06",
-            "pubDateTZ": "UTC",
-            "image_url": "https://static.tnn.in/thumb/msid-116923374,imgsize-1517912,width-1280,height-720/116923374.jpg",
-            "source_id": "timesnownews",
-            "source_priority": 2243,
-            "source_name": "Times Now News",
-            "source_url": "https://www.timesnownews.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/timesnownews.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "lifestyle"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "ef536774905f0b06197adb5e250dd90c",
-            "title": "Ramban administration gears up",
-            "link": "https://www.greaterkashmir.com/jammu/ramban-administration-gears-up/",
-            "keywords": [
-                "jammu",
-                "today's paper",
-                "page 4"
-            ],
-            "creator": [
-                "",
-                "GK NEWS SERVICE"
-            ],
-            "video_url": null,
-            "description": "The public can reach out for support through the helpline numbers: 01998-295500 / 01998-266790The post Ramban administration gears up appeared first on Greater Kashmir.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-01-03 18:10:00",
-            "pubDateTZ": "UTC",
-            "image_url": "https://greaterkashmir.imagibyte.sortdcdn.net/wp-content/uploads/2023/08/IMD-Weather.jpg?quality=80&type=webp",
-            "source_id": "greaterkashmir",
-            "source_priority": 101259,
-            "source_name": "Greater Kashmir",
-            "source_url": "https://www.greaterkashmir.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/greaterkashmir.jpg",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "098b36e49a51fb3bc276d589cbda4d32",
-            "title": "SBI, HDFC Bank raise FD rates for segments like seniors above 80 - The Times of India",
-            "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNc0RBWGpIeDh5SUJSQk5KM2VKUnY2NjJmeG90Z2p4ZS1zSXhxZUV1eG9HLXE0RDdDa2FMMk41SG5sdGtRQmVQZUpzSDlUY25Cc2xBSjlscUF4b3lwVnNnT1BYNXM0MlZ1NUM4VDdjSDR2Z1pFTWxMZ2ZTTm5hZTVWbU1YbjlHazFBRUx2OUVVeHVfQ3k4aU1qRWx5ZW83VWo0WmFuNGpZeEQtckhOT1EwdVNhdWV1emowdzVXMURORmdCbElmVlFaY0pLd1hWZmxKMTVCSGxKdkJWRGVlbkRhZE1yWQ?oc=5",
-            "keywords": null,
-            "creator": null,
-            "video_url": null,
-            "description": "SBI, HDFC Bank raise FD rates for segments like seniors above 80 The Times of IndiaSBI launches Har Ghar Lakhpati RD scheme, SBI Patrons FD deposit scheme for these senior citizens: Check d The Economic TimesState Bank of India unveils two new schemes to boost deposit mobilisation Business StandardHow to become a millionaire with SBI’s New Recurring Deposit Scheme? EXPLAINED MintSBI Latest FD Rates: PSU bank pays these returns to senior citizens and other depositors on 1-year, 3-year and 5-year fixed deposits Zee Business",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-01-03 18:10:00",
-            "pubDateTZ": "UTC",
-            "image_url": null,
-            "source_id": "google",
-            "source_priority": 14,
-            "source_name": "Google News",
-            "source_url": "https://news.google.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/google.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "business"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "f37e1c66ba32cc4a7c70b55ceb50fd45",
-            "title": "SC Pushes For Permanent Infra For Jammu CAT",
-            "link": "https://kashmirobserver.net/2025/01/03/sc-pushes-for-permanent-infra-for-jammu-cat/",
-            "keywords": [
-                "news",
-                "local",
-                "central administrative tribunal (cat)"
-            ],
-            "creator": [
-                "Press Trust of India"
-            ],
-            "video_url": null,
-            "description": "The Supreme Court on Thursday batted for a permanent building, along with permanent staff, for the Jammu and Kashmir Central Administrative Tribunal (CAT), saying it will be prudent for the government not to deploy outsourced staff in judicial and quasi-judicial bodies.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-01-03 18:10:00",
-            "pubDateTZ": "UTC",
-            "image_url": "https://kashmirobserver.net/wp-content/uploads/2022/09/Supreme-Court-Of-India-SC.jpg",
-            "source_id": "kashmirobserver",
-            "source_priority": 596003,
-            "source_name": "Kashmir Observer",
-            "source_url": "https://kashmirobserver.net",
-            "source_icon": "https://i.bytvi.com/domain_icons/kashmirobserver.jpg",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "f0c0c07431cc3821281e24a542d19423",
-            "title": "पटना में छात्र संगठनों का मार्च, विपक्षी विधायकों ने दिए भयंकर बयान",
-            "link": "https://navbharattimes.indiatimes.com/state/bihar/patna/march-of-student-organizations-in-patna-opposition-mlas-gave-terrible-statements/videoshow/116924346.cms",
-            "keywords": null,
-            "creator": null,
-            "video_url": null,
-            "description": "पटना(Patna) में बीपीएससी(BPSC) 70वीं पीटी परीक्षा रद्द करने की मांग को लेकर अलग-अलग विपक्ष की पार्टियों के नेता और छात्र संगठनों ने शुक्रवार को कारगिल चौक से मार्च निकाला। ये मार्च सीएम आवास का घेराव करने के लिए निकाला। वहीं जेपी गोलंबर(JP Golambar) पर बैरिकेडिंग कर पुलिस ने अभ्यर्थियों को रोकने की कोशिश की, लेकिन प्रदर्शकारी बैरिकेडिंग गिरा कर आगे बढ़ गए.. उसके बाद डाकबंगला चौराहे (Dakbungalow Square) पर बैरिकेडिंग कर उन्हें रोक दिया गया. इस बीच 'सीएम आवास घेर लो' के नारे लगाए गए। पुलिस की ओर से माइकिंग की जा रही है कि आगे मत बढ़िए नहीं तो कार्रवाई होगी, लेकिन बावजूद इसके प्रदर्शनकारी लगातार आगे बढ़ रहे हैं। कांग्रेस के विधायक भी छात्रों के समर्थन में सड़क पर उतर आए हैं। इस मौके पर NBT Online की ग्राउंड कवरेज में छात्रों और कांग्रेस विधायकों ने क्या कुछ कहा वीडियो में देखिए...",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-01-03 18:09:54",
-            "pubDateTZ": "UTC",
-            "image_url": "https://static.langimg.com/photo/imgsize-162736,msid-116924346/navbharat-times.jpg",
-            "source_id": "navbharattimes",
-            "source_priority": 392,
-            "source_name": "Nbt Navbharattimes",
-            "source_url": "https://navbharattimes.indiatimes.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/navbharattimes.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "35a104d9e4e83405d87ea535c26b3838",
-            "title": "‘HMPV Outbreak’ in China: Indian Health Officials Say ‘No Need To Worry’ Amid ‘Rise’ in COVID-Like Human Metapneumovirus",
-            "link": "https://www.latestly.com/india/news/hmpv-outbreak-in-china-indian-health-officials-say-no-need-to-worry-amid-rise-in-covid-like-human-metapneumovirus-6539227.html",
-            "keywords": null,
-            "creator": null,
-            "video_url": null,
-            "description": "Even as China is reportedly seeing an outbreak of Covid-like Human Metapneumovirus (HMPV), Indian health officials on Friday said that there is no need to worry. This comes as several media reports and social media posts suggest that the virus is spreading rapidly in China, five years after the Covid-19 pandemic.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-01-03 18:09:51",
-            "pubDateTZ": "UTC",
-            "image_url": "https://st1.latestly.com/wp-content/uploads/2025/01/65-104-1-380x214.jpg",
-            "source_id": "latestly",
-            "source_priority": 31923,
-            "source_name": "Latestly",
-            "source_url": "https://www.latestly.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/latestly.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "7c7b8cb6e697692e31a8e1ac94ebbe02",
-            "title": "Sourav Ganguly's Daughter Sana Escapes Unhurt After Bus Hits Her Car In Kolkata, Driver Detained - News18",
-            "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPWmlqMTVEcnBoYXpkLWw5emJuejZHVHdreWtmSnhsaEpyd0tfT1hfWHI4TGpnZnhsbnpQbUt4NEFGbGc5a0xnMW9SbzRSX3hxN2E4UDJMUjVGWi15LVZWNkRKZ0JwNXp2VmM3YjdKbnVOWHJ3XzdwcGdPV2ZGRVlNQUxGdG9PU2drTldVb2dlZDk5UTRkQlhVM3NXR2lwQmlRNTB1WmtkelYtNUtlTHJwTm5ST0V1VUxmQnVrNEhDdG9sSHh0S0RwR19BbFB0TGVFR3fSAdcBQVVfeXFMTkdEYVVBLTNtM1BydnJ0eF9kWWUtX0JxRU9yMjdjaG0wZWpuQTNJSkxOSURlNmJqWUxReVk1djZCbndwbTdBZ3lMN0dxcHFaTWhkbnBfdDhDdkpVVjFEY1lTQnR1d3pfXzVxVDhwaGp6QmxHMWZzaGNUWlFVRWI3M0hlaG9xSmQycnNYcWF6UmE1VGFOREVLOVJzMHJBQTI1OHZRdDBHazZxOERSQjRwUHVNQmVwZHpHMHpKWGplWEdRZkFCMUp6UkxLMENtRDMxWFYtT2QwNWc?oc=5",
-            "keywords": null,
-            "creator": null,
-            "video_url": null,
-            "description": "Sourav Ganguly's Daughter Sana Escapes Unhurt After Bus Hits Her Car In Kolkata, Driver Detained News18Sourav Ganguly’s daughter Sana escapes unhurt after bus hits her car in Kolkata India TodaySourav Ganguly's daughter Sana unhurt after bus hits her car in Kolkata: Reports Hindustan TimesSourav Ganguly’s Daughter Narrowly Escapes After Bus Collides With Her Car In Kolkata Republic World",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-01-03 18:09:49",
-            "pubDateTZ": "UTC",
-            "image_url": null,
-            "source_id": "google",
-            "source_priority": 14,
-            "source_name": "Google News",
-            "source_url": "https://news.google.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/google.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "d704e20e5ad004ea3eb8ebeb03c7206b",
-            "title": "NIA Arrests Third Accused in BJP Leader Bijoy Krishna Bhunia's Murder Case",
-            "link": "https://www.republicworld.com/india/nia-arrests-third-accused-in-bjp-leader-bijoy-krishna-bhunia-s-murder-case",
-            "keywords": [
-                "india"
-            ],
-            "creator": [
-                "editor@republicworld.com (Press Trust Of India)"
-            ],
-            "video_url": null,
-            "description": "NIA Arrests Third Accused in BJP Leader Bijoy Krishna Bhunia's Murder Case",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-01-03 18:09:48",
-            "pubDateTZ": "UTC",
-            "image_url": "http://img.republicworld.com/rimages/WhatsAppImage2023-11-21at9.47.30PM-170058351046716_9.webp",
-            "source_id": "republicworld",
-            "source_priority": 17361,
-            "source_name": "Republic World",
-            "source_url": "https://www.republicworld.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/republicworld.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "6ebe24b03da1fb6bae60abc05977e8aa",
-            "title": "Mexico opens possibility of receiving non-Mexican deportees from Trump",
-            "link": "http://economictimes.indiatimes.com/news/international/global-trends/mexico-opens-possibility-of-receiving-non-mexican-deportees-from-trump/articleshow/116924341.cms",
-            "keywords": null,
-            "creator": null,
-            "video_url": null,
-            "description": "Mexico may accept non-Mexican migrants deported by the US. President Claudia Sheinbaum mentioned possible collaboration with the US if direct deportations are not feasible. Mexico might limit certain nationalities or seek compensation. Northern Mexico's border cities face challenges with crime and kidnapping. Mexico temporarily halted deportations in December 2023 due to financial constraints.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-01-03 18:09:43",
-            "pubDateTZ": "UTC",
-            "image_url": "https://img.etimg.com/thumb/msid-116924357,width-1200,height-630,imgsize-110964,overlay-economictimes/articleshow.jpg",
-            "source_id": "economictimes_indiatimes",
-            "source_priority": 231,
-            "source_name": "The Economic Times",
-            "source_url": "https://economictimes.indiatimes.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/economictimes_indiatimes.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": true
-        },
-        {
-            "article_id": "bc557e964b9640708fe854bc7ee84f8f",
-            "title": "नक्सल प्रभावित इलाकों में बेहतरीन रिपोर्टिंग करने वाले मुकेश चंद्राकर की हत्या, पानी की टंकी में मिला शव",
-            "link": "https://www.indiatv.in/chhattisgarh/naxal-affected-areas-excellent-reporter-mukesh-chandrakar-murdered-body-found-in-water-tank-2025-01-03-1102628",
-            "keywords": null,
-            "creator": null,
-            "video_url": null,
-            "description": "मुकेश चंद्राकर नक्सल प्रभावित इलाकों में बेहतरीन रिपोर्टिंग के लिए जाने जाते थे। वह दो दिन से लापता थे और पुलिस को उनका शव बीजापुर बस स्टैंड के पास पानी की टंकी में मिला।",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-01-03 17:08:00",
-            "pubDateTZ": "UTC",
-            "image_url": "https://resize.indiatv.in/resize/1200_-/2025/01/journalist-1735923934.jpg",
-            "source_id": "indiatv",
-            "source_priority": 216441,
-            "source_name": "India Tv",
-            "source_url": "https://www.indiatv.in",
-            "source_icon": "https://i.bytvi.com/domain_icons/indiatv.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "9c9003808ef40abbdb47bd198a66653d",
-            "title": "Star Wars: Skeleton Crew - Official Episode 6 Clip",
-            "link": "https://in.ign.com/star-wars-skeleton-crew/222166/video/star-wars-skeleton-crew-official-episode-6-clip",
-            "keywords": [
-                "video",
-                "star wars: skeleton crew"
-            ],
-            "creator": [
-                "IGN India"
-            ],
-            "video_url": null,
-            "description": "Jod Na Nawood makes a glorious escape followed by an untimely capture in this clip from Episode 6 of Star Wars: Skeleton Crew. Star Wars: Skeleton Crew stars Jude Law, Ravi Cabot-Conyers, Ryan Kiera Armstrong, Kyriana Kratter, Robert Timothy Smith, Tunde Adebimpe, Kerry Condon and Nick Frost. The full episode of Star Wars: Skeleton Crew is streaming now on Disney+.Episodes are directed by Jon Watts, David Lowery, the Daniels (Daniel Kwan and Daniel Scheinert) Jake Schreier, Bryce Dallas Howard and Lee Isaac Chung.Jon Watts and Christopher Ford are the head writers and also serve as executive producers along with Jon Favreau, Dave Filoni, Kathleen Kennedy and Colin Wilson. Chris Buongiorno, Karen Gilchrist and Carrie Beck are the co-executive producers, and Susan McNamara and John Bartnicki are the producers.The first 6 Episodes of Star Wars: Skeleton Crew are streaming now on Disney Plus with new episodes every week.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-01-03 17:07:49",
-            "pubDateTZ": "UTC",
-            "image_url": "https://sm.ign.com/ign_in/video/s/star-wars-/star-wars-skeleton-crew-official-episode-6-clip_uu5s.jpg",
-            "source_id": "in_ign",
-            "source_priority": 149,
-            "source_name": "In Ign",
-            "source_url": "https://in.ign.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/in_ign.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "e6aee6847391a1be2df0cfb407d7e781",
-            "title": "It’ll be a long road for Rohit to come back: Ponting",
-            "link": "https://www.thestatesman.com/sports/itll-be-a-long-road-for-rohit-to-come-back-ponting-1503382777.html",
-            "keywords": null,
-            "creator": null,
-            "video_url": null,
-            "description": null,
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-01-03 17:07:49",
-            "pubDateTZ": "UTC",
-            "image_url": "https://www.thestatesman.com/wp-content/uploads/2022/06/ponting.jpg",
-            "source_id": "thestatesman",
-            "source_priority": 42473,
-            "source_name": "The Statesman",
-            "source_url": "https://www.thestatesman.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/thestatesman.jpg",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "16bdf219dee088a4d32eb85b2672f53a",
-            "title": "Aston Villa Vs Leicester City Preview, Premier League: Prediction, Players To Watch Out For",
-            "link": "https://www.outlookindia.com/sports/football/aston-villa-vs-leicester-city-preview-premier-league-prediction-players-to-watch-out-for",
-            "keywords": [
-                " aston villa vs leicester city news",
-                " aston villa vs leicester city stats",
-                " aston villa vs leicester city",
-                " aston villa vs leicester city players to watch",
-                "aston villa",
-                " aston villa vs leicester city prediction",
-                " aston villa vs leicester city preview premier league updates",
-                " aston villa vs leicester city players to watch our for",
-                " football news",
-                " aston villa vs leicester city preview premier league",
-                " leicester city",
-                " aston villa vs leicester city win prediction",
-                " football updates",
-                " aston villa vs leicester city preview premier league news",
-                " aston villa vs leicester city preview"
-            ],
-            "creator": null,
-            "video_url": null,
-            "description": null,
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-01-03 17:07:46",
-            "pubDateTZ": "UTC",
-            "image_url": "https://media.assettype.com/outlookindia/2025-01-03/qjamrlm1/philogene_1dwj6v2no2tj9za1tby1321k3.jpg?ar=40%3A21&auto=format%2Ccompress&enlarge=true&mode=crop&ogImage=true&overlay=false&overlay_position=bottom&overlay_width=100&w=1200",
-            "source_id": "outlookindia",
-            "source_priority": 1033,
-            "source_name": "Outlook",
-            "source_url": "https://www.outlookindia.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/outlookindia.jpg",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "6bbfa4fd259f9eccdcd4436925d303d2",
-            "title": "Wesley Fofana's Season in Limbo: Chelsea's Defensive Setback",
-            "link": "https://www.devdiscourse.com/article/sports-games/3214397-wesley-fofanas-season-in-limbo-chelseas-defensive-setback",
-            "keywords": null,
-            "creator": null,
-            "video_url": null,
-            "description": "Wesley Fofana's Season in Limbo: Chelsea's Defensive Setback Chelsea defender Wesley Fofana's football season hangs in the balance due to a troubling hamstring injury, following a previous ACL surgery.The 24-year-old has not played since December 1, following Chelsea's 3-0 victory over Aston Villa. Manager Enzo Maresca disclosed on Friday that Fofana's injury is more severe than initially feared, with the possibility of him missing the entire season.Having signed from Leicester for £75 million in 2022, Fofana's injury is a significant setback for Chelsea, who currently sit fourth in the Premier League standings.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-01-03 17:07:44",
-            "pubDateTZ": "UTC",
-            "image_url": "https://devdiscourse.blob.core.windows.net/devnews/07_03_2023_11_40_52_5377404.jpg",
-            "source_id": "devdiscourse",
-            "source_priority": 566021,
-            "source_name": "Devdiscourse",
-            "source_url": "https://www.devdiscourse.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/devdiscourse.jpg",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "a36cc13893f2de7d2427447d9e983834",
-            "title": "Moldova's Energy Rift: Transdniestria in Crisis Amid Russian Gas Halt",
-            "link": "https://www.devdiscourse.com/article/law-order/3214396-moldovas-energy-rift-transdniestria-in-crisis-amid-russian-gas-halt",
-            "keywords": null,
-            "creator": null,
-            "video_url": null,
-            "description": "Moldova's Energy Rift: Transdniestria in Crisis Amid Russian Gas Halt Moldova is grappling with a severe security crisis after its separatist region, Transdniestria, was severed from Russian gas supplies, Prime Minister Dorin Recean announced recently.The halt in gas flows, which occurred when a transit deal between Russia and Ukraine expired, has left Transdniestria without essential heating resources and prompted factory shutdowns. Recean emphasized Moldova's commitment to covering its own energy requirements through domestic production and imports. However, the crisis underscores broader geopolitical tensions, with Recean accusing Russia of trying to destabilize Moldova by jeopardizing its allies.In response, Moldova is exploring alternative energy solutions, including biomass systems and imports from Romania, to mitigate the impact. The crisis unfolds as Moldova, led by pro-European President Maia Sandu, prepares for a parliamentary election this summer and navigates its geopolitical stance amidst Russia's ongoing conflict with Ukraine.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-01-03 17:07:44",
-            "pubDateTZ": "UTC",
-            "image_url": "https://devdiscourse.blob.core.windows.net/aiimagegallery/20_06_2024_21_42_19_12241.png",
-            "source_id": "devdiscourse",
-            "source_priority": 566021,
-            "source_name": "Devdiscourse",
-            "source_url": "https://www.devdiscourse.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/devdiscourse.jpg",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "8e2a8cfc096b335293645c20bb645108",
-            "title": "मोर जैसी पूंछ, तोते जैसी चोंच; मुर्गे-मुर्गियों का ऐसा ब्यूटी कंपटीशन देखा क्या?",
-            "link": "https://www.tv9hindi.com/india/prakasam-rooster-with-parrot-like-beak-peacock-like-tail-breed-born-from-cross-beauty-contest-stwsk-3039071.html",
-            "keywords": null,
-            "creator": [
-                "TV9 Bharatvarsh"
-            ],
-            "video_url": null,
-            "description": "सौंदर्य प्रतियोगता तो आपने खूब देखी होंगी, लेकिन आंध्र प्रदेश, तमिलनाडु, केरल और कर्नाटक आदि राज्यों में एक ऐसी प्रतियोगिता होती है जिसे देखकर आप हैरान हो सकते हैं. यह सौंदर्य प्रतियोगिता मुर्गो की होती है. इसमें सबसे सुंदर मुर्गों को पुरस्कार भी मिलता है.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-01-03 17:07:43",
-            "pubDateTZ": "UTC",
-            "image_url": "https://images.tv9hindi.com/wp-content/uploads/2025/01/chicken.jpg",
-            "source_id": "tv9bharatvarsh",
-            "source_priority": 40538658,
-            "source_name": "Tv9 Bharatvarsh",
-            "source_url": "https://www.tv9hindi.com",
-            "source_icon": null,
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "domestic"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "fe8f5298163e3b0172b2b814ea56523f",
-            "title": "Mangalorean Catholic Association of East Coast, USA celebrates 15 years with a grand Christmas gala",
-            "link": "https://daijiworld.com/news/newsDisplay?newsID=1259083",
-            "keywords": null,
-            "creator": [
-                "daijiworld.com"
-            ],
-            "video_url": null,
-            "description": "Media ReleaseUSA, Jan 3: The Mangalorean Catholic Association of East Coast (MCA-EC), a non-profit organization dedicated to fostering community and celebrating Mangalorean culture, recently celebrated its 15th anniversary with a grand Christmas gala on December 14, 2024, in Edison, New....",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-01-03 17:07:41",
-            "pubDateTZ": "UTC",
-            "image_url": "https://daijiworld.ap-south-1.linodeobjects.com/Linode/images3/MCA-EC03012025_1.jpg",
-            "source_id": "daijiworld",
-            "source_priority": 278750,
-            "source_name": "Daijiworld",
-            "source_url": "https://www.daijiworld.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/daijiworld.jpg",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "31a81c9386c08834f6f3df7072d9908c",
-            "title": "Mangaluru: Traffic advisory for Karavali Utsava event at Kadri Park on Jan 4, 5, 11, 12",
-            "link": "https://daijiworld.com/news/newsDisplay?newsID=1259084",
-            "keywords": null,
-            "creator": [
-                "daijiworld.com"
-            ],
-            "video_url": null,
-            "description": "Daijiworld Media Network - Mangaluru (ANK)Mangaluru, Jan 3: The Mangaluru City Police have issued a traffic advisory ahead of the Karavali Utsava event, which will be held at Kadri Park on January 4, 5, 11, and 12.The Karavali Utsava celebrations wi....",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-01-03 17:07:41",
-            "pubDateTZ": "UTC",
-            "image_url": "https://daijiworld.ap-south-1.linodeobjects.com/Linode/images3/denzil_030125_utsav.jpg",
-            "source_id": "daijiworld",
-            "source_priority": 278750,
-            "source_name": "Daijiworld",
-            "source_url": "https://www.daijiworld.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/daijiworld.jpg",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "eac0fd4869a8e6d427c12c5f5d4e7060",
-            "title": "Complaint filed against Prashant Kishor amid ongoing BPSC protests",
-            "link": "https://daijiworld.com/news/newsDisplay?newsID=1259085",
-            "keywords": null,
-            "creator": [
-                "daijiworld.com"
-            ],
-            "video_url": null,
-            "description": "Patna, Jan 3 (IANS): The controversy surrounding the 70th BPSC Preliminary examination has taken a legal turn, with a complaint filed against Prashant Kishor, the Jan Suraaj Party Chief, in the court of the Chief Judicial Magistrate (CJM) in Bihar's Muzaffarpur.The complainant, Laddu Sahni, a resident of Bh....",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-01-03 17:07:41",
-            "pubDateTZ": "UTC",
-            "image_url": "https://daijiworld.ap-south-1.linodeobjects.com/Linode/images3/Complaintfiled03012025_1.jpg",
-            "source_id": "daijiworld",
-            "source_priority": 278750,
-            "source_name": "Daijiworld",
-            "source_url": "https://www.daijiworld.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/daijiworld.jpg",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "881f036750391ad91f3ae050c51473bd",
-            "title": "EV battery swapping, charging infra should be at every petrol pump, CNG station: Piyush Goyal",
-            "link": "https://daijiworld.com/news/newsDisplay?newsID=1259086",
-            "keywords": null,
-            "creator": [
-                "daijiworld.com"
-            ],
-            "video_url": null,
-            "description": "New Delhi, Jan 3 (IANS): There is a need for battery swapping facilities to coexist with charging infrastructure to accelerate the adoption of electric vehicles (EVs) in India, Union Minister of Commerce and Industry, Piyush Goyal, said on Friday.Speaking at the consultation meeting on the ‘Development of....",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-01-03 17:07:41",
-            "pubDateTZ": "UTC",
-            "image_url": null,
-            "source_id": "daijiworld",
-            "source_priority": 278750,
-            "source_name": "Daijiworld",
-            "source_url": "https://www.daijiworld.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/daijiworld.jpg",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": true
-        },
-        {
-            "article_id": "56b66281e9014c2748bd6f0cf87b6551",
-            "title": "Para-shuttler Manisha Ramadass eyes LA ‘28 gold after Arjuna Award recognition",
-            "link": "https://daijiworld.com/news/newsDisplay?newsID=1259087",
-            "keywords": null,
-            "creator": [
-                "daijiworld.com"
-            ],
-            "video_url": null,
-            "description": "Tiruvallur (T.N), Jan 3 (IANS): Indian para-badminton player Manisha Ramadass has been selected to receive the prestigious Arjuna Award, the second-highest sporting honour of India, for her bronze medal at the 2024 Paris Paralympics. The 19-year-old will take the honour as motivation as she aims to win the gold at the 2028 Paralympic Games in Los An....",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-01-03 17:07:41",
-            "pubDateTZ": "UTC",
-            "image_url": null,
-            "source_id": "daijiworld",
-            "source_priority": 278750,
-            "source_name": "Daijiworld",
-            "source_url": "https://www.daijiworld.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/daijiworld.jpg",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "f7cbf7c9d1c5fd44ee86f977c15bb081",
-            "title": "President Murmu urges doctors to show sympathy, compassion to cancer patients",
-            "link": "https://daijiworld.com/news/newsDisplay?newsID=1259088",
-            "keywords": null,
-            "creator": [
-                "daijiworld.com"
-            ],
-            "video_url": null,
-            "description": "New Delhi, Jan 3 (IANS): President Droupadi Murmu said on Friday that sympathy and compassion from doctors can bring a change to a cancer patient's life.She said this while speaking at the inauguration of the KLE Cancer Hospital at Belagavi in Karnataka.\"It is the duty of he....",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-01-03 17:07:41",
-            "pubDateTZ": "UTC",
-            "image_url": null,
-            "source_id": "daijiworld",
-            "source_priority": 278750,
-            "source_name": "Daijiworld",
-            "source_url": "https://www.daijiworld.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/daijiworld.jpg",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": true
-        },
-        {
-            "article_id": "25c9077430d1b02f4fe163fd378cbde4",
-            "title": "We did not have to lose for me to understand Chelsea is not in title race, says head coach Maresca",
-            "link": "https://daijiworld.com/news/newsDisplay?newsID=1259089",
-            "keywords": null,
-            "creator": [
-                "daijiworld.com"
-            ],
-            "video_url": null,
-            "description": "London, Jan 3 (IANS): Chelsea head coach Enzo Maresca, who in recent times has been adamant and grounded about the reality of his side and claimed on many an occasion that his side was never in the title race, once again opened up on the topic after dropping points in three consecutive league outings. Chelsea were second in the Premier League table....",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-01-03 17:07:41",
-            "pubDateTZ": "UTC",
-            "image_url": null,
-            "source_id": "daijiworld",
-            "source_priority": 278750,
-            "source_name": "Daijiworld",
-            "source_url": "https://www.daijiworld.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/daijiworld.jpg",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "93147a8da48c23cf225bff8c4d073667",
-            "title": "ISL 2024-25: Mohammedan SC halt NorthEast United’s goal-scoring spree with 0-0 draw",
-            "link": "https://daijiworld.com/news/newsDisplay?newsID=1259090",
-            "keywords": null,
-            "creator": [
-                "daijiworld.com"
-            ],
-            "video_url": null,
-            "description": "Guwahati, Jan 3 (IANS): NorthEast United FC and Mohammedan SC played out a goalless draw in the Indian Super League (ISL) 2024-25 at the Indira Gandhi Athletic Stadium here on Friday night, ending the Northeast side's goal-scoring spree.Despite holding 60.6% of the possession, the Highlanders were unable to brea....",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-01-03 17:07:40",
-            "pubDateTZ": "UTC",
-            "image_url": null,
-            "source_id": "daijiworld",
-            "source_priority": 278750,
-            "source_name": "Daijiworld",
-            "source_url": "https://www.daijiworld.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/daijiworld.jpg",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "e5f5dcefefa9813ab22ce02ea6e38057",
-            "title": "Bokaro News : कपड़ा दुकान में आग लगाने वाला गिरफ्तार",
-            "link": "https://www.prabhatkhabar.com/state/jharkhand/bokaro/arrested-for-setting-fire-to-cloth-shop",
-            "keywords": [
-                "bokaro",
-                "bokaro news",
-                "jharkhand news"
-            ],
-            "creator": [
-                "Prabhat Khabar News Desk"
-            ],
-            "video_url": null,
-            "description": "Bokaro News : गांधीनगर थाना क्षेत्र अंतर्गत जरीडीह बाजार स्थित गुंजन गारमेंट में 20 दिसंबर को आग लगाने के मामले में आरोपी संतोष लाल उर्फ पाखेलाल को पुलिस में शुक्रवार की सुबह बेरमो स्टेशन के समीप गिरफ्तार किया.The post Bokaro News : कपड़ा दुकान में आग लगाने वाला गिरफ्तार appeared first on Prabhat Khabar.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-01-03 17:07:39",
-            "pubDateTZ": "UTC",
-            "image_url": "https://www.prabhatkhabar.com/wp-content/uploads/2025/01/file_2025-01-03T18-09-16.jpeg",
-            "source_id": "prabhatkhabar",
-            "source_priority": 343253,
-            "source_name": "Prabhat Khabar",
-            "source_url": "https://www.prabhatkhabar.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/prabhatkhabar.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "7d704cc07c58e9f4dea2edc0c7ea63ae",
-            "title": "Cunha must learn from his mistakes: Pereira on Brazilian’s two-game ban",
-            "link": "https://daijiworld.com/news/newsDisplay?newsID=1259091",
-            "keywords": null,
-            "creator": [
-                "daijiworld.com"
-            ],
-            "video_url": null,
-            "description": "Wolverhampton, Jan 3 (IANS): Wolverhampton Wanderers forward Matheus Cunha was handed a two-game ban by the Football Association (FA). Wolves’ newly-appointed head coach Vitor Pereira hopes his forward will learn from his mistakes. Cunha was charged with ‘misconduct’ for acting in an ‘improper manner’ following their 1-....",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-01-03 17:07:39",
-            "pubDateTZ": "UTC",
-            "image_url": null,
-            "source_id": "daijiworld",
-            "source_priority": 278750,
-            "source_name": "Daijiworld",
-            "source_url": "https://www.daijiworld.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/daijiworld.jpg",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "11e101bb7a9bf30e534c1440690fe4da",
-            "title": "Abhijeet Takes Indirect Dig At Ranbir Kapoor Over Ram Mandir Invite: 'A Person Who Eats Beef...'",
-            "link": "https://www.news18.com/movies/abhijeet-takes-indirect-dig-at-ranbir-kapoor-over-ram-mandir-invite-a-person-who-eats-beef-9176633.html",
-            "keywords": [
-                "latest"
-            ],
-            "creator": [
-                "News18"
-            ],
-            "video_url": null,
-            "description": "Ranbir Kapoor made a comment about eating beef during a 2011 television interview that resurfaced in 2022 and led to controversy and protests.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-01-03 17:07:32",
-            "pubDateTZ": "UTC",
-            "image_url": "https://images.news18.com/ibnlive/uploads/2025/01/abhijeet-bhattacharya-takes-indirect-dig-at-ranbir-kapoor-2025-01-2b8c53c8286a89c5d174e3a007cd1fa8-3x2.jpg",
-            "source_id": "news18",
-            "source_priority": 3864,
-            "source_name": "News 18",
-            "source_url": "https://www.news18.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/news18.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "a6072cf660fc6af2904fd44c6837e96a",
-            "title": "House Speaker Mike Johnson is trying to save his job as a new Congress convenes",
-            "link": "https://www.washingtontimes.com/news/2025/jan/3/house-speaker-mike-johnson-trying-save-job-new-con/",
-            "keywords": null,
-            "creator": [
-                "Lisa Mascaro, Farnoush Amiri, Kevin Freking"
-            ],
-            "video_url": null,
-            "description": "WASHINGTON — The new Congress has opened with one major task at hand - the election of the House speaker.Newly-elected lawmakers are in place at the U.S. Capitol but current Speaker Mike Johnson’s weak grip on the gavel threatens not only his own survival but President-elect Donald Trump’s ambitious agenda ...",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-01-03 17:07:27",
-            "pubDateTZ": "UTC",
-            "image_url": null,
-            "source_id": "washingtontimes",
-            "source_priority": 9784,
-            "source_name": "The Washington Times , America’s Newspaper",
-            "source_url": "https://www.washingtontimes.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/washingtontimes.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "742378328934f71665df3804579d4500",
-            "title": "Elon Musk calls on King Charles to order election as he makes 23 posts in one hour on UK",
-            "link": "https://timesofindia.indiatimes.com/world/uk/elon-musk-calls-on-king-charles-to-order-election-as-he-makes-23-posts-in-one-hour-on-uk/articleshow/116923018.cms",
-            "keywords": null,
-            "creator": [
-                "TOI World Desk"
-            ],
-            "video_url": null,
-            "description": "\"Starmer was complicit in the RAPE OF BRITAIN when he was head of Crown Prosecution for 6 years. Starmer must go and he must face charges for his complicity in the worst mass crime in the history of Britain,\" Elon Musk wrote and then shared, reacted to another at least 23 posts in an hour about UK.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-01-03 17:07:25",
-            "pubDateTZ": "UTC",
-            "image_url": "https://static.toiimg.com/thumb/msid-116923032,width-1070,height-580,imgsize-912419,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-            "source_id": "toi",
-            "source_priority": 239,
-            "source_name": "The Times Of India",
-            "source_url": "https://timesofindia.indiatimes.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/toi.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
             ],
             "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
             "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
