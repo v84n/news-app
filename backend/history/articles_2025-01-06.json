@@ -1,6 +1,909 @@
 {
     "articles": [
         {
+            "article_id": "307bf4d8e0edcea4bd0d39ef381ffc36",
+            "title": "DH Speak Out | January 7, 2025",
+            "link": "https://www.deccanherald.com/opinion/speak-out/dh-speak-out-january-7-2025-3344014",
+            "keywords": null,
+            "creator": [
+                "DHNS"
+            ],
+            "video_url": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-01-06 22:08:10",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.deccanherald.com/deccanherald%2F2025-01-06%2F1dmmvx4u%2FFlight-delayed-or-cancelled-3.jpg?auto=format%2Ccompress&fit=max&fmt=webp&rect=0%2C0%2C1280%2C720&w=1200",
+            "source_id": "deccanherald",
+            "source_priority": 10080,
+            "source_name": "Deccan Herald",
+            "source_url": "https://www.deccanherald.com",
+            "source_icon": null,
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "345cbdab2e96c97ce7839cfb92f079ad",
+            "title": "Nvidia CEO unveils new gaming chips at CES conference",
+            "link": "https://economictimes.indiatimes.com/tech/technology/nvidia-ceo-unveils-new-gaming-chips-at-ces-conference/articleshow/117009170.cms",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "Nvidia CEO Jensen Huang unveiled the RTX 50 gaming chips at CES 2025, using AI-driven 'Blackwell' technology to enhance graphics, including realistic shaders and human faces. Priced from $549 to $1,999, the chips will release between January 30 and February. Nvidia’s stock hit a record $149.43 on Monday, raising its valuation to $3.66 trillion, making it the world’s second-most valuable company after Apple.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-01-06 22:07:53",
+            "pubDateTZ": "UTC",
+            "image_url": "https://img.etimg.com/thumb/msid-117009354,width-1200,height-630,imgsize-72054,overlay-ettech/articleshow.jpg",
+            "source_id": "economictimes_indiatimes",
+            "source_priority": 231,
+            "source_name": "The Economic Times",
+            "source_url": "https://economictimes.indiatimes.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/economictimes_indiatimes.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "94c6dcaa6a99d13e726ae2a549e03279",
+            "title": "Forest beat Wolves for sixth straight Premier League win",
+            "link": "https://www.channelnewsasia.com/sport/forest-beat-wolves-sixth-straight-premier-league-win-4841356",
+            "keywords": [
+                "sport"
+            ],
+            "creator": null,
+            "video_url": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-01-06 22:07:37",
+            "pubDateTZ": "UTC",
+            "image_url": "https://dam.mediacorp.sg/image/upload/s--A6StYo_Z--/c_fill,g_auto,h_468,w_830/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2025-01-06t220613z_1_lynxmpel050se_rtroptp_3_soccer-england-wol-nfo-report.jpg?itok=Lq3YrNpv",
+            "source_id": "channelnewsasia",
+            "source_priority": 4142,
+            "source_name": "Channel Newsasia",
+            "source_url": "https://www.channelnewsasia.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/channelnewsasia.jpg",
+            "language": "english",
+            "country": [
+                "singapore",
+                "georgia",
+                "yemen",
+                "afghanistan",
+                "cyprus",
+                "india",
+                "saudi arabia",
+                "maldives",
+                "japan",
+                "united arab emirates",
+                "malaysia",
+                "china",
+                "south korea",
+                "north korea",
+                "taiwan",
+                "thailand",
+                "pakistan",
+                "mongolia",
+                "brunei",
+                "lebanon",
+                "indonesia",
+                "kyrgyzstan",
+                "syria",
+                "israel",
+                "bhutan",
+                "iran",
+                "turkey",
+                "armenia",
+                "qatar",
+                "philippines",
+                "hong kong",
+                "kazakhstan",
+                "iraq",
+                "bangladesh",
+                "laos",
+                "vietnam",
+                "timor-leste",
+                "kuwait",
+                "myanmar",
+                "azerbaijan",
+                "jordan",
+                "nepal",
+                "oman",
+                "sri lanka",
+                "uzbekistan",
+                "turkmenistan",
+                "macau",
+                "bahrain",
+                "cambodia",
+                "tajikistan"
+            ],
+            "category": [
+                "sports"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "a1d77ae7d5a3cf4f277f0724100cee0e",
+            "title": "US President-elect Donald Trump loses bid to delay sentencing in hush money case as he appeals",
+            "link": "https://www.deccanherald.com/world/us-president-elect-donald-trump-loses-bid-to-delay-sentencing-in-hush-money-case-as-he-appeals-3343953",
+            "keywords": null,
+            "creator": [
+                "Reuters"
+            ],
+            "video_url": null,
+            "description": "Trump Seeks to Halt His Criminal Sentencing in New York",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-01-06 22:07:33",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.deccanherald.com/deccanherald%2F2025-01-06%2Fqbh7gk9r%2Ffile7yt3vswd5ywu10ktdv3.jpg?ar=40%3A21&auto=format%2Ccompress&mode=crop&ogImage=true&rect=0%2C16%2C838%2C440&w=1200",
+            "source_id": "deccanherald",
+            "source_priority": 10080,
+            "source_name": "Deccan Herald",
+            "source_url": "https://www.deccanherald.com",
+            "source_icon": null,
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "1c5517c7d7d79913d7ec6a25fa180e45",
+            "title": "Hemant Soren transfers ₹1,415.44 crore to over 56.61 lakh women under Maiya Samman Yojana",
+            "link": "https://www.thehindu.com/news/national/jharkhand/hemant-soren-transfers-141544-crore-to-over-5661-lakh-women-under-maiya-samman-yojana/article69068728.ece",
+            "keywords": [
+                "jharkhand"
+            ],
+            "creator": null,
+            "video_url": null,
+            "description": "He said that direct transfer of ₹2,500 monthly and ₹30,000 annually to women represents a transformative boost to household income",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-01-06 22:07:00",
+            "pubDateTZ": "UTC",
+            "image_url": "https://th-i.thgim.com/public/news/national/aoaf11/article69068875.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202025-01-06%20at%2016.54.34.jpeg",
+            "source_id": "thehindu",
+            "source_priority": 2972,
+            "source_name": "The Hindu",
+            "source_url": "https://www.thehindu.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/thehindu.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "2cd5c9fc7b83b636557c5b1ac179841d",
+            "title": "FuboTV Stock Soars 250%. How Disney Deal Will Shake Up Sports Streaming.",
+            "link": "https://www.barrons.com/articles/fubotv-disney-stock-price-news-af9ddfd0?siteid=yhoof2&yptr=yahoo",
+            "keywords": null,
+            "creator": [
+                "Barrons.com"
+            ],
+            "video_url": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-01-06 22:07:00",
+            "pubDateTZ": "UTC",
+            "image_url": null,
+            "source_id": "yahoo",
+            "source_priority": 17,
+            "source_name": "Yahoo! News",
+            "source_url": "https://news.yahoo.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/yahoo.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "business"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "129b0df27a05d1edeec07131ca05f146",
+            "title": "Josetty Hurtado celebrates her birthday outside Peru and is investigated for money laundering",
+            "link": "https://thenewsglory.com/josetty-hurtado-celebrates-her-birthday-outside-peru-and-is-investigated-for-money-laundering/",
+            "keywords": [
+                "world"
+            ],
+            "creator": [
+                "The News Glory"
+            ],
+            "video_url": null,
+            "description": "This Monday the 6th is a special day for Josetty Hurtado because he is celebrating another year of life. However, it will not be the best birthday for the Peruvian influencer because she will not be able to spend it with her father, Andrés Hurtado, nor will she be able to visit her loved ones [...]The post Josetty Hurtado celebrates her birthday outside Peru and is investigated for money laundering appeared first on The News Glory.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-01-06 22:07:00",
+            "pubDateTZ": "UTC",
+            "image_url": "https://imgmedia.larepublica.pe/1200x630/larepublica/original/2025/01/06/677c51a68b976778a32cfe6b.jpg",
+            "source_id": "thenewsglory",
+            "source_priority": 321007,
+            "source_name": "Tng News",
+            "source_url": "https://thenewsglory.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/thenewsglory.jpg",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "2362d8a389f8e79bae3e43c33e7b11c7",
+            "title": "PM Modi inaugurates new Jammu Railway Division",
+            "link": "https://kashmirreader.com/2025/01/07/pm-modi-inaugurates-new-jammu-railway-division/",
+            "keywords": [
+                "top news"
+            ],
+            "creator": [
+                "KR Desk"
+            ],
+            "video_url": null,
+            "description": "Calls It ‘Major Leap’ In Modern Connectivity New Delhi: Prime Minister Narendra Modi inaugurated and laid the foundation stone of various railway projects on Monday, via video conferencing. The Prime Minister inaugurated the new Jammu Railway Division. He also laid the foundation stone of Rayagada Railway Division Building of East Coast Railway and inaugurated the [...]",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-01-06 22:06:44",
+            "pubDateTZ": "UTC",
+            "image_url": null,
+            "source_id": "kashmirreader",
+            "source_priority": 1088812,
+            "source_name": "Kashmir Reader",
+            "source_url": "https://kashmirreader.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/kashmirreader.jpg",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "7d510186542888e2206e32952b42037a",
+            "title": "एनआरजी एनर्जी एक्जीक्यूटिव वीपी रॉबर्ट गौडेट ने स्टॉक में $5.48 मिलियन की बिक्री की",
+            "link": "https://hi.investing.com/news/insider-trading-news/article-93CH-373276",
+            "keywords": null,
+            "creator": [
+                "Investing.com"
+            ],
+            "video_url": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-01-06 22:06:37",
+            "pubDateTZ": "UTC",
+            "image_url": "https://i-invdn-com.investing.com/news/international_newspapers_108x81.jpg",
+            "source_id": "investing_hi",
+            "source_priority": 1143,
+            "source_name": "Investing भारत",
+            "source_url": "https://hi.investing.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/investing_hi.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "7789fe8f3b7147e5726b29f77613267e",
+            "title": "रीजनल मैनेजमेंट कॉर्प ने फोरेजर फंड द्वारा स्टॉक की बिक्री में $1 मिलियन से अधिक की बिक्री देखी",
+            "link": "https://hi.investing.com/news/insider-trading-news/article-93CH-373274",
+            "keywords": null,
+            "creator": [
+                "Investing.com"
+            ],
+            "video_url": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-01-06 22:06:21",
+            "pubDateTZ": "UTC",
+            "image_url": "https://i-invdn-com.investing.com/news/international_newspapers_108x81.jpg",
+            "source_id": "investing_hi",
+            "source_priority": 1143,
+            "source_name": "Investing भारत",
+            "source_url": "https://hi.investing.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/investing_hi.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "c98f250e4daab0038db939c5c947e391",
+            "title": "First US Bird Flu Death Confirmed in Louisiana: Health Officials Provide Details",
+            "link": "https://www.oneindia.com/international/first-us-bird-flu-death-louisiana-health-officials-011-4035387.html",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "Louisiana reports the first US bird flu death, linked to exposure to sick birds. The patient had underlying health issues and severe symptoms.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-01-06 22:06:19",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.oneindia.com/img/2025/01/first-us-bird-flu-death-louisiana-health-officials-ft.jpg",
+            "source_id": "oneindia",
+            "source_priority": 12404,
+            "source_name": "One India",
+            "source_url": "https://www.oneindia.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/oneindia.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "world"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "92038dbbd6f6ff02ec0fa4eba0b31d7a",
+            "title": "Elon Musk quickly handles Tesla Cybertruck explosion in Las Vegas, Public Relations expert call it a masterclass; here's why",
+            "link": "https://economictimes.indiatimes.com/news/international/us/elon-musk-quickly-handles-tesla-cybertruck-explosion-in-las-vegas-public-relations-expert-call-it-a-masterclass-heres-why/articleshow/117004395.cms",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "A Tesla Cybertruck explosion took place in Las Vegas pretty recently just outside the Trump International Hotel. Following the blast, the way it was handled by Tesla CEO Elon Musk is eventually getting praises from eminent PR experts and is being termed as a masterclass.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-01-06 22:06:02",
+            "pubDateTZ": "UTC",
+            "image_url": "https://img.etimg.com/thumb/msid-117004436,width-1200,height-630,imgsize-43696,overlay-economictimes/articleshow.jpg",
+            "source_id": "economictimes_indiatimes",
+            "source_priority": 231,
+            "source_name": "The Economic Times",
+            "source_url": "https://economictimes.indiatimes.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/economictimes_indiatimes.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top",
+                "business"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "8b287a061f27a7008a28c6bc4dc85d50",
+            "title": "Pro Painting & More Expands Services To Battlefield Area With Expert Interior And Exterior Painting Solutions",
+            "link": "https://menafn.com/1109061386/Pro-Painting-More-Expands-Services-To-Battlefield-Area-With-Expert-Interior-And-Exterior-Painting-Solutions",
+            "keywords": null,
+            "creator": [
+                "marketing@menafn.com (MENAFN)"
+            ],
+            "video_url": null,
+            "description": "(MENAFN - GetNews) Pro Painting & More, a leading painting service provider, has announced the expansion of its professional painting services to the Battlefield area, bringing top-quality interior ...",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-01-06 22:06:00",
+            "pubDateTZ": "UTC",
+            "image_url": "https://menafn.com/images/Menafn_SmallLogo.jpg",
+            "source_id": "menafn",
+            "source_priority": 1117534,
+            "source_name": "Menafn",
+            "source_url": "https://menafn.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/menafn.png",
+            "language": "english",
+            "country": [
+                "georgia",
+                "yemen",
+                "afghanistan",
+                "cyprus",
+                "india",
+                "singapore",
+                "saudi arabia",
+                "maldives",
+                "japan",
+                "united arab emirates",
+                "malaysia",
+                "china",
+                "south korea",
+                "north korea",
+                "taiwan",
+                "thailand",
+                "pakistan",
+                "mongolia",
+                "brunei",
+                "lebanon",
+                "indonesia",
+                "kyrgyzstan",
+                "syria",
+                "israel",
+                "bhutan",
+                "iran",
+                "turkey",
+                "armenia",
+                "qatar",
+                "philippines",
+                "kazakhstan",
+                "iraq",
+                "bangladesh",
+                "laos",
+                "vietnam",
+                "timor-leste",
+                "kuwait",
+                "myanmar",
+                "azerbaijan",
+                "jordan",
+                "nepal",
+                "sri lanka",
+                "uzbekistan",
+                "turkmenistan",
+                "macau",
+                "bahrain",
+                "cambodia",
+                "tajikistan"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": true
+        },
+        {
+            "article_id": "ea20364dbf716d4d3944c49508f271d3",
+            "title": "Rugsway: Redefining Washable Rugs For A New Home Experience",
+            "link": "https://menafn.com/1109061385/Rugsway-Redefining-Washable-Rugs-For-A-New-Home-Experience",
+            "keywords": null,
+            "creator": [
+                "marketing@menafn.com (MENAFN)"
+            ],
+            "video_url": null,
+            "description": "(MENAFN - GetNews) For too long, consumers shopping for washable rugs have faced the hassle of having to purchase a separate rug pad. This bundled sales approach not only increases the initial cost ...",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-01-06 22:05:53",
+            "pubDateTZ": "UTC",
+            "image_url": "https://menafn.com/images/Menafn_SmallLogo.jpg",
+            "source_id": "menafn",
+            "source_priority": 1117534,
+            "source_name": "Menafn",
+            "source_url": "https://menafn.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/menafn.png",
+            "language": "english",
+            "country": [
+                "georgia",
+                "yemen",
+                "afghanistan",
+                "cyprus",
+                "india",
+                "singapore",
+                "saudi arabia",
+                "maldives",
+                "japan",
+                "united arab emirates",
+                "malaysia",
+                "china",
+                "south korea",
+                "north korea",
+                "taiwan",
+                "thailand",
+                "pakistan",
+                "mongolia",
+                "brunei",
+                "lebanon",
+                "indonesia",
+                "kyrgyzstan",
+                "syria",
+                "israel",
+                "bhutan",
+                "iran",
+                "turkey",
+                "armenia",
+                "qatar",
+                "philippines",
+                "kazakhstan",
+                "iraq",
+                "bangladesh",
+                "laos",
+                "vietnam",
+                "timor-leste",
+                "kuwait",
+                "myanmar",
+                "azerbaijan",
+                "jordan",
+                "nepal",
+                "sri lanka",
+                "uzbekistan",
+                "turkmenistan",
+                "macau",
+                "bahrain",
+                "cambodia",
+                "tajikistan"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": true
+        },
+        {
+            "article_id": "d6d97b9657c2152dceb65f3e115965a5",
+            "title": "Over 26,600 jobs on offer at MLA’s Udyoga mela",
+            "link": "https://www.deccanherald.com/india/karnataka/bengaluru/over-26600-jobs-on-offer-at-mlas-udyoga-mela-3343906",
+            "keywords": null,
+            "creator": [
+                "DHNS"
+            ],
+            "video_url": null,
+            "description": "Over 26,600 jobs on offer at MLA’s Udyoga mela",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-01-06 21:10:00",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.deccanherald.com/deccanherald%2F2025-01-06%2Fljix624c%2Ffile7yszfm7b39g15g404oai.jpg?ar=40%3A21&auto=format%2Ccompress&mode=crop&ogImage=true&rect=0%2C66%2C3542%2C1860&w=1200",
+            "source_id": "deccanherald",
+            "source_priority": 10080,
+            "source_name": "Deccan Herald",
+            "source_url": "https://www.deccanherald.com",
+            "source_icon": null,
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "7af7f6686fef4f0cd5a2d279e7ff5aa3",
+            "title": "Fact Check: Did Shah Rukh Khan With Family Visited Mecca Madina In New Year?",
+            "link": "https://www.newsx.com/entertainment/fact-check-did-shah-rukh-khan-with-family-visited-mecca-madina-in-new-year/",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "Deepfake is a real challenge and a rising concern in today's world. Studies find that there are thousands landing in the circle of victims of deepfake pornography or altered videos created using AI.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-01-06 21:09:41",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.newsx.com/wp-content/uploads/2025/01/deep-fake.png",
+            "source_id": "newsx",
+            "source_priority": 189603,
+            "source_name": "Newsx",
+            "source_url": "https://www.newsx.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/newsx.jpg",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "entertainment"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "287d0d64f87990e49b03298b6922dbc3",
+            "title": "Rigzin Samphel Heyreppa is BJP prez for Lahaul & Spiti",
+            "link": "https://www.tribuneindia.com/news/himachal/rigzin-samphel-heyreppa-is-bjp-prez-for-lahaul-spiti",
+            "keywords": null,
+            "creator": [
+                "Tribune News Service"
+            ],
+            "video_url": null,
+            "description": "Rigzin Samphel Heyreppa was elected the new district president of the Bharatiya Janata Party (BJP) for Lahaul and Spiti on Sunday. The announcement was made during a gathering at the district headquarters in Keylong, which was attended by prominent BJP leaders — including Nachan MLA Vinod Kumar and former MLA Ravi Thakur — and several [...]",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-01-06 21:09:28",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/webp/medium/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTg3NTBjNDEwLWNjNzItMTFlZi1iZGRkLTU3OWU0N2NiZGZiOC5qcGc%3D",
+            "source_id": "tribuneindia",
+            "source_priority": 15316,
+            "source_name": "The Tribune India",
+            "source_url": "https://www.tribuneindia.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/tribuneindia.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "f78ae564288eab1b9c7869182f88b0c6",
+            "title": "US eases restrictions on Syria while keeping sanctions in place",
+            "link": "https://www.theweek.in/wire-updates/international/2025/01/07/fes1-us-syria-restrictions.html",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "By Fatima Hussein and Karee Chehayeb Washington, Jan 7 (AP) The US on Monday eased some restrictions on Syria's transitional",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-01-06 21:09:25",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.theweek.in/content/dam/week/wire-updates/pti-preview-theweek.jpg",
+            "source_id": "theweek_in",
+            "source_priority": 26911,
+            "source_name": "The Week",
+            "source_url": "https://www.theweek.in",
+            "source_icon": "https://i.bytvi.com/domain_icons/theweek_in.jpg",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "world"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": true
+        },
+        {
+            "article_id": "4942b91d33790b19b2af1658a6c4d13d",
+            "title": "Satechi brings more ports and storage to M4 Mac Mini with new stand & hub unveiled at CES",
+            "link": "https://9to5mac.com/2025/01/06/satechi-brings-more-ports-and-storage-to-m4-mac-mini-with-new-stand-hub-unveiled-at-ces/",
+            "keywords": [
+                "news"
+            ],
+            "creator": [
+                "Fernando Silva"
+            ],
+            "video_url": null,
+            "description": "Satechi has been my go-to for Apple accessories for years. Their , docks, and stands are always sleek, functional, and perfectly matched to Apple’s aesthetic. Now, they’re back with something exciting for Mac Mini M4 users—a new hub and stand with built-in SSD storage, revealed at CES 2025.Here’s what you need to know! more...",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-01-06 21:08:54",
+            "pubDateTZ": "UTC",
+            "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2025/01/Satechi-Mac-Mini-Hub-Lifestyle-10.jpg?quality=82&strip=all&w=1600",
+            "source_id": "9to5mac",
+            "source_priority": 2672,
+            "source_name": "9to5 Mac",
+            "source_url": "https://9to5mac.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/9to5mac.png",
+            "language": "english",
+            "country": [
+                "india",
+                "singapore",
+                "united states of america",
+                "australia",
+                "united kingdom"
+            ],
+            "category": [
+                "technology"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "0138472bd362e890995bd641037049e5",
+            "title": "MP: फर्जी पुलिस कांस्टेबल ने 14 लोगों को ठगा, प्लॉट दिलाने के नाम पर लिए 34 लाख",
+            "link": "https://www.tv9hindi.com/state/madhya-pradesh/ujjain-fake-police-constable-fraud-34-lakhs-plot-scam-stwn-3044582.html",
+            "keywords": null,
+            "creator": [
+                "Ravi Sen"
+            ],
+            "video_url": null,
+            "description": "उज्जैन में एक फर्जी आरक्षक ने लोगों से 34 लाख की ठगी को अंजाम दिया है. प्लाट दिलाने के नाम पर धोखाधड़ी शख्स ने 14 से ज्यादा लोगों के साथ ठगी की है. पुलिस ने मामला दर्ज कर शख्स को गिरफ्तार कर लिया है.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-01-06 21:08:20",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.tv9hindi.com/wp-content/uploads/2025/01/ujjain-news-7.jpg",
+            "source_id": "tv9bharatvarsh",
+            "source_priority": 40538658,
+            "source_name": "Tv9 Bharatvarsh",
+            "source_url": "https://www.tv9hindi.com",
+            "source_icon": null,
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "domestic"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "1360f6237ddaa859231e7272fc2e3d65",
+            "title": "Karnal News: चावल कारोबारियों ने विधायक के समक्ष उठाईं मांगें",
+            "link": "https://www.amarujala.com/haryana/karnal/rice-traders-raised-demands-before-mla-karnal-news-c-18-knl1008-554983-2025-01-07",
+            "keywords": null,
+            "creator": [
+                ""
+            ],
+            "video_url": null,
+            "description": "चावल कारोबारियों ने विधायक के समक्ष उठाईं मांगें",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-01-06 21:08:19",
+            "pubDateTZ": "UTC",
+            "image_url": "https://staticimg.amarujala.com/assets/images/2021/11/09/karnal_1636440329.jpeg?dpr=1.0&q=50&w=414",
+            "source_id": "amarujala",
+            "source_priority": 55215,
+            "source_name": "Amar Ujala",
+            "source_url": "https://www.amarujala.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/amarujala.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "93a758d2340ea4620e5687f6d05caf58",
+            "title": "Karnal News: करोड़ों की परियोजनाओं का उदघाटन टला",
+            "link": "https://www.amarujala.com/haryana/karnal/inauguration-of-projects-worth-crores-postponed-karnal-news-c-18-knl1008-554549-2025-01-07",
+            "keywords": null,
+            "creator": [
+                ""
+            ],
+            "video_url": null,
+            "description": "करोड़ों की परियोजनाओं का उदघाटन टला",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-01-06 21:08:15",
+            "pubDateTZ": "UTC",
+            "image_url": "https://staticimg.amarujala.com/assets/images/2021/11/09/karnal_1636440329.jpeg?dpr=1.0&q=50&w=414",
+            "source_id": "amarujala",
+            "source_priority": 55215,
+            "source_name": "Amar Ujala",
+            "source_url": "https://www.amarujala.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/amarujala.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "9cb290d53f22c3dce486bb93cc879be6",
+            "title": "Sonipat News: शहर व गांवों में निकाली दिव्य ज्योति कलश रथयात्रा का किया स्वागत",
+            "link": "https://www.amarujala.com/haryana/sonipat/divya-jyoti-kalash-rath-yatra-taken-out-in-cities-and-villages-welcomed-sonipat-news-c-197-1-snp1003-130397-2025-01-07",
+            "keywords": null,
+            "creator": [
+                "संवाद न्यूज एजेंसी, सोनीपत"
+            ],
+            "video_url": null,
+            "description": "Divya Jyoti Kalash Rath Yatra taken out in cities and villages welcomed",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-01-06 21:08:10",
+            "pubDateTZ": "UTC",
+            "image_url": "https://staticimg.amarujala.com/assets/images/4cplus/2025/01/07/fata-09-sanapata-ma-pahaca-thavaya-jayata-kalsha-rathayatara-ka-savagata-karata-mahale-sarata-pathaka_d75b087c3dff17e1543c3279058e567f.jpeg?dpr=1.0&q=50&w=414",
+            "source_id": "amarujala",
+            "source_priority": 55215,
+            "source_name": "Amar Ujala",
+            "source_url": "https://www.amarujala.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/amarujala.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
             "article_id": "dff5bd99931e167fbe469b7838d5d8a4",
             "title": "Karnal News: डिपो आवंटन से पहले ही तय होता था रिश्वत का साैदा",
             "link": "https://www.amarujala.com/haryana/karnal/the-bribe-amount-was-decided-even-before-the-depot-allotment-karnal-news-c-18-knl1008-554907-2025-01-07",
