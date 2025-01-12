@@ -1,6 +1,664 @@
 {
     "articles": [
         {
+            "article_id": "6d44b6d2e33d74a250394c9f22fa8673",
+            "title": "Israel Hamas War: गाजा में कुछ होने वाला है बड़ा, नेतन्याहू ने मोसाद चीफ को भेजा युद्ध के मैदान",
+            "link": "https://www.indiatv.in/world/around-the-world/something-big-going-to-happen-in-gaza-netanyahu-sent-mossad-chief-to-the-battlefield-2025-01-12-1104733",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "इजरायल-हमास युद्ध अब एक नया मोड़ लेने वाला है। इजरायल के प्रधानमंत्री बेंजामिन नेतन्याहू ने हमास को आखिरी मौका देते हुए अब वार्ता की मेज पर सीधे मोसाद चीफ को भेजने की मंजूरी दे दी है। इसके बाद भी हमास आतंकी नहीं माने तो इसके भयावह परिणाम होने की आशंका है।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-01-12 07:06:00",
+            "pubDateTZ": "UTC",
+            "image_url": "https://resize.indiatv.in/resize/1200_-/2025/01/untitled-design-2025-01-12t122626-1736665034.jpg",
+            "source_id": "indiatv",
+            "source_priority": 216441,
+            "source_name": "India Tv",
+            "source_url": "https://www.indiatv.in",
+            "source_icon": "https://i.bytvi.com/domain_icons/indiatv.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "c1d40b05c49191576a3cee50909627b3",
+            "title": "Assam mining tragedy: Rescue ops enter 7th day, death toll remains at 4",
+            "link": "https://www.deccanherald.com/india/assam/assam-mining-tragedy-rescue-ops-enter-7th-day-death-toll-remains-at-4-3351679",
+            "keywords": null,
+            "creator": [
+                "PTI"
+            ],
+            "video_url": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-01-12 07:05:57",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.deccanherald.com/deccanherald%2F2025-01-12%2F6dq7om1t%2FPTI01112025000045B.jpg?ar=40%3A21&auto=format%2Ccompress&mode=crop&ogImage=true&rect=0%2C143%2C3823%2C2007&w=1200",
+            "source_id": "deccanherald",
+            "source_priority": 10080,
+            "source_name": "Deccan Herald",
+            "source_url": "https://www.deccanherald.com",
+            "source_icon": null,
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "13aa759addcc17cd2bad7a27b0998159",
+            "title": "IRCTC Down: Here's 7 ways to book tickets online",
+            "link": "https://economictimes.indiatimes.com/news/new-updates/irctc-down-users-facing-ticket-booking-problem-heres-7-alternative-ways-to-book-train-ticket-online/articleshow/117168522.cms",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-01-12 07:05:53",
+            "pubDateTZ": "UTC",
+            "image_url": "https://img.etimg.com/thumb/msid-117168638,width-1200,height-630,imgsize-3208903,overlay-economictimes/articleshow.jpg",
+            "source_id": "economictimes_indiatimes",
+            "source_priority": 231,
+            "source_name": "The Economic Times",
+            "source_url": "https://economictimes.indiatimes.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/economictimes_indiatimes.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "4f122100433bbe3d6739b6470a7577dc",
+            "title": "IRCTC Down: Users facing ticket booking problems; Here's 7 alternative ways to book train tickets online",
+            "link": "http://economictimes.indiatimes.com/news/new-updates/irctc-down-users-facing-ticket-booking-problem-heres-7-alternative-ways-to-book-train-ticket-online/articleshow/117168522.cms",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "IRCTC Website down: The Indian Railway Catering and Tourism Corporation (IRCTC) faced a major outage on Thursday, preventing users from accessing its website and mobile app to book train tickets. With similar disruptions occurring in recent weeks, passengers are advised to explore alternative methods like using third-party platforms, railway counters, or calling the Indian Railways helpline. The ongoing outages highlight concerns over the platform's reliability and digital infrastructure.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-01-12 07:05:53",
+            "pubDateTZ": "UTC",
+            "image_url": "https://img.etimg.com/thumb/msid-117168638,width-1200,height-630,imgsize-3208903,overlay-economictimes/articleshow.jpg",
+            "source_id": "economictimes_indiatimes",
+            "source_priority": 231,
+            "source_name": "The Economic Times",
+            "source_url": "https://economictimes.indiatimes.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/economictimes_indiatimes.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top",
+                "business"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "5d9448e15ceccbe5e4f8965ad3ae3d8a",
+            "title": "Satwik-Chirag lose in semifinals in Malaysia",
+            "link": "https://www.sentinelassam.com/sports-news/satwik-chirag-lose-in-semifinals-in-malaysia",
+            "keywords": null,
+            "creator": [
+                "Sentinel Digital Desk"
+            ],
+            "video_url": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-01-12 07:05:51",
+            "pubDateTZ": "UTC",
+            "image_url": null,
+            "source_id": "sentinel",
+            "source_priority": 177615,
+            "source_name": "The Sentinel",
+            "source_url": "https://www.sentinelassam.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/sentinel.jpg",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "e1b24e8c165e1a12db4a00e38840d3e9",
+            "title": "सीकर में नोट्स देने के बहाने नाबालिग से रेप:अश्लील फोटो और वीडियो रिकॉर्ड किए, सोशल मीडिया पर डालने की धमकी दी",
+            "link": "https://www.bhaskar.com/local/rajasthan/sikar/news/raped-after-contacting-on-the-pretext-of-giving-notes-and-books-134280474.html",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "जिले में नाबालिग के साथ रेप का मामला सामने आया है। नाबालिग को नोट्स, बुक्स देने के बहाने आरोपी ने संपर्क किया। इसके बाद उसके साथ रेप करके अश्लील फोटो-वीडियो रिकॉर्ड कर लिए। आरोपी ने वीडियो को वायरल करने की धमकी भी दी। 20 साल की युवती ने पुलिस में शिकायत देकर बताया कि करीब 2 साल पहले प्राइवेट कॉलेज के टीचर शीशराम भामू ने नोट्स और किताबें देने के बहाने उससे कांटेक्ट किया। इसके बाद आरोपी ने होटल में ले जाकर उसके साथ रेप किया। इसी दौरान आरोपी ने अश्लील फोटो और वीडियो भी रिकॉर्ड कर लिए। आरोपी ने उन अश्लील फोटो और वीडियो को वायरल करने की धमकी भी दी। फिलहाल पुलिस ने मामले में पॉक्सो एक्ट सहित अन्य धाराओं में मुकदमा दर्ज करके अनुसंधान शुरू कर दिया है।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-01-12 07:05:51",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.bhaskarassets.com/thumb/1000x1000/web2images/521/2025/01/12/1000072526_1736664795.jpg",
+            "source_id": "bhaskar_hindi",
+            "source_priority": 34179,
+            "source_name": "Bhaskar",
+            "source_url": "https://www.bhaskar.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/bhaskar_hindi.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "domestic",
+                "other"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "9aa1b530e5f11503d513c06f39f7aa65",
+            "title": "Sara Ali Khan's secret to losing 45 kg is keeping herself motivated: ‘I still struggle with weight, have to be mindful’",
+            "link": "https://www.hindustantimes.com/lifestyle/health/sara-ali-khan-secret-to-losing-45-kg-is-keeping-herself-motivated-i-still-struggle-with-weight-have-to-be-mindful-101736659708224.html",
+            "keywords": [
+                "lifestyle/health"
+            ],
+            "creator": null,
+            "video_url": null,
+            "description": "Sara Ali Khan shared in an old interview about her weight loss journey, revealing struggles with self-image and health issues stemming from obesity.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-01-12 07:05:49",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.hindustantimes.com/ht-img/img/2025/01/12/1600x900/Sara_Ali_Khan_1736664054794_1736664061233.jpg",
+            "source_id": "hindustantimes",
+            "source_priority": 933,
+            "source_name": "Hindustan Times",
+            "source_url": "http://www.hindustantimes.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/hindustantimes.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "health"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "9a9e195d74dd180990a34d0b06de0603",
+            "title": "नवाबी शान का प्रतीक है भोपाली ताजमहल, लाखों की लागत से 13 साल में हुआ तैयार",
+            "link": "https://hindi.news18.com/news/history/bhopal-taj-mahal-history-architecture-and-unique-features-local18-8954754.html",
+            "keywords": [
+                "मध्य प्रदेश"
+            ],
+            "creator": [
+                "News18 Hindi"
+            ],
+            "video_url": null,
+            "description": "Bhopal Tajmahal History: भोपाल का ताजमहल न केवल एक ऐतिहासिक धरोहर है, बल्कि यह नवाबी दौर की भव्यता और भारतीय वास्तुकला की अनूठी मिसाल भी है. हालांकि, समय और अनदेखी के कारण इसकी सुंदरता फीकी पड़ने लगी थी, लेकिन अब नवीनीकरण के प्रयासों से इसे बचाने और सहेजने का काम हो रहा है.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-01-12 07:05:48",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.news18.com/ibnkhabar/uploads/2025/01/HYP_4909969_cropped_11012025_192005_untitled_design_21_waterma_2-3x2.jpg",
+            "source_id": "hindinews18",
+            "source_priority": 4077,
+            "source_name": "News 18 Hindi",
+            "source_url": "https://hindi.news18.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/hindinews18.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "0533c50721dc4dae8dc14b802cd8b6ed",
+            "title": "5 Incredible Benefits Of Eating Soaked Figs Everyday Before Sleeping",
+            "link": "https://english.jagran.com/lifestyle/5-incredible-benefits-of-eating-soaked-figs-everyday-before-sleeping-10212083",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "Soaked figs,soaked figs benefits,benefits of eating soaked figs,soaked figs benefits for female,soaked figs in water overnight benefits,how many soaked figs to eat per day,drinking fig soaked water,benefits of figs soaked in water overnight for fertility",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-01-12 07:05:44",
+            "pubDateTZ": "UTC",
+            "image_url": "https://imgeng.jagran.com/images/2025/01/12/article/image/benefits-of-eating-soaked-figs-1736664482680.webp",
+            "source_id": "english_jagran",
+            "source_priority": 10561,
+            "source_name": "Jagran English",
+            "source_url": "https://english.jagran.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/english_jagran.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "5a188d8677ba67c9e49cb0bc92bf6250",
+            "title": "Lebanon's reconstruction nightmare: Slow progress and uncertain funding",
+            "link": "https://www.firstpost.com/world/lebanons-reconstruction-nightmare-slow-progress-and-uncertain-funding-13852044.html",
+            "keywords": [
+                "world"
+            ],
+            "creator": [
+                "Firstpost"
+            ],
+            "video_url": null,
+            "description": "The World Bank estimated in a report in November — before the ceasefire later that month — that losses to Lebanon's infrastructure amount to some $3.4 billion",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-01-12 07:05:37",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.firstpost.com/uploads/2025/01/Lebanon-2025-01-8bd307584c290af2035f0e4d446d5aed-1200x675.jpg",
+            "source_id": "firstpost",
+            "source_priority": 5906,
+            "source_name": "Firstpost",
+            "source_url": "https://www.firstpost.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/firstpost.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "world"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "bcbc3d08c5b737171aee98d82d974d45",
+            "title": "100 शतक लगाने वाले सचिन भी नहीं तोड़ पाए ये 4 महान रिकॉर्ड्स, 24 साल लंबे करियर में लग जाते 4 चांद",
+            "link": "https://zeenews.india.com/hindi/sports/cricket/sachin-tendulkar-never-break-these-4-world-records-in-entire-international-cricket-career/2597883",
+            "keywords": null,
+            "creator": [
+                "Zee News Hindi"
+            ],
+            "video_url": null,
+            "description": "सचिन तेंदुलकर भारत ही नहीं बल्कि दुनिया के महानतम बल्लेबाजों में शुमार हैं. सचिन तेंदुलकर ने कई ऐसे वर्ल्ड रिकॉर्ड्स बनाए हैं, जिन्हें तोड़ना नामुमकिन के बराबर है. आपको जानकर ये हैरानी होगी कि क्रिकेट की दुनिया के 4 महारिकॉर्ड ऐसे हैं, जिन्हें खुद सचिन तेंदुलकर भी अपने 24 साल लंबे इंटरनेशनल करियर में नहीं तोड़ पाए हैं.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-01-12 07:05:22",
+            "pubDateTZ": "UTC",
+            "image_url": "https://hindi.cdn.zeenews.com/hindi/sites/default/files/2025/01/12/3588702-1.png?im=FitAndFill%3D%281200%2C900%29",
+            "source_id": "zeenews",
+            "source_priority": 5319,
+            "source_name": "Zee News",
+            "source_url": "http://zeenews.india.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/zeenews.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "sports"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "8b9511dad9ac0855fd32acf2402e31b8",
+            "title": "VIDEO : मथुरा में तेंदुए से फैली दहशत, घर में छिपे लोग",
+            "link": "https://www.amarujala.com/video-shots/short-videos/video-leopard-seen-in-mathura",
+            "keywords": null,
+            "creator": [
+                ""
+            ],
+            "video_url": null,
+            "description": "मथुरा में तेंदुए से फैली दहशत, घर में छिपे लोग",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-01-12 07:05:15",
+            "pubDateTZ": "UTC",
+            "image_url": null,
+            "source_id": "amarujala",
+            "source_priority": 55215,
+            "source_name": "Amar Ujala",
+            "source_url": "https://www.amarujala.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/amarujala.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "81533b16a2dd51da3b1b632baf241888",
+            "title": "समोसे में निकला ब्लेड का टुकड़ा... दुकान से खरीदा नाश्ता, मसाले में गंदगी देख सिहर उठा ग्राहक",
+            "link": "https://www.aajtak.in/rajasthan/story/a-piece-of-blade-was-found-in-the-samosa-lcln-strc-2141652-2025-01-12",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "ग्राहक रमेश वर्मा ने घर पहुंचने के बाद जैसे ही दोना-प्लेट में रखकर समोसों को तोड़कर अपने परिजनों को देना शुरू किया, तो एक समोसे के स्टफिंग में मौजूद शेविंग ब्लेड के टुकड़े को देखकर चौंक गए.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-01-12 07:05:15",
+            "pubDateTZ": "UTC",
+            "image_url": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202501/67836b44f1d75-20250112-121159740-16x9.jpg",
+            "source_id": "aajtak",
+            "source_priority": 20158,
+            "source_name": "Aaj Tak",
+            "source_url": "http://aajtak.in",
+            "source_icon": "https://i.bytvi.com/domain_icons/aajtak.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "1ddaae146f87e3bc6c1a1b6d95c5e81d",
+            "title": "Health Benefits of Eating Carrots in Winter: From Boosting Immunity to Aiding in Weight Management, 5 Reasons To Include Carrot in Your Diet",
+            "link": "https://www.latestly.com/lifestyle/health-wellness/health-benefits-of-eating-carrots-in-winter-from-boosting-immunity-to-aiding-in-weight-management-5-reasons-to-include-carrot-in-your-diet-6558736.html",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "This vegetable is abundant in vitamins, minerals, and antioxidants, making it a valuable addition to your health. They are an excellent source of beta carotene, which our body converts into Vitamin A.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-01-12 07:05:14",
+            "pubDateTZ": "UTC",
+            "image_url": "https://st1.latestly.com/wp-content/uploads/2025/01/Health-Benefits-of-Carrot-380x214.jpg",
+            "source_id": "latestly",
+            "source_priority": 31923,
+            "source_name": "Latestly",
+            "source_url": "https://www.latestly.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/latestly.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "entertainment"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "89c9ec3a6f19409012df82c27a4ef82f",
+            "title": "Fox attack in Karimnagar: Three injured and villagers beat fox to death",
+            "link": "https://telanganatoday.com/fox-attack-in-karimnagar-three-injured-as-villagers-beat-fox-to-death",
+            "keywords": [
+                "karimnagar",
+                "fox",
+                "news",
+                "villagers",
+                "telangana"
+            ],
+            "creator": [
+                "Telangana Today"
+            ],
+            "video_url": null,
+            "description": "While Sutram Radha (34) was cleaning her courtyard, a fox attacked and mauled her. Shortly after, the same fox also attacked D T Sathaiah and T Kishan as they were heading to their fields.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-01-12 07:05:12",
+            "pubDateTZ": "UTC",
+            "image_url": "https://media.telanganatoday.com/wp-content/uploads/2025/01/Fox-attack-in-Karimnagar-Three-injured-as-villagers-beat-fox-to-death-768x450.jpg",
+            "source_id": "telanganatoday",
+            "source_priority": 63887,
+            "source_name": "Telangana Today",
+            "source_url": "https://telanganatoday.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/telanganatoday.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "be4c43810b55ef338ce2f16511fdf8de",
+            "title": "Bengaluru no more the most congested city in India; This city tops the list",
+            "link": "http://economictimes.indiatimes.com/news/india/bengaluru-no-more-the-most-congested-city-in-india-this-city-tops-the-list/articleshow/117168327.cms",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "Kolkata is now India's most congested city, surpassing Bengaluru, according to the 2024 TomTom Traffic Index. It is the world’s second slowest moving city after Barranquilla. Other Indian cities like Pune also feature among the most congested globally. The report highlights outdated infrastructure and urbanization as key factors causing traffic congestion.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-01-12 07:05:03",
+            "pubDateTZ": "UTC",
+            "image_url": "https://img.etimg.com/thumb/msid-117168652,width-1200,height-630,imgsize-59806,overlay-economictimes/articleshow.jpg",
+            "source_id": "economictimes_indiatimes",
+            "source_priority": 231,
+            "source_name": "The Economic Times",
+            "source_url": "https://economictimes.indiatimes.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/economictimes_indiatimes.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top",
+                "business"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "3e3dbc20932fde3ccf3109d5a983cc73",
+            "title": "Bengaluru no more the most congested city",
+            "link": "https://economictimes.indiatimes.com/news/india/bengaluru-no-more-the-most-congested-city-in-india-this-city-tops-the-list/articleshow/117168327.cms",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-01-12 07:05:03",
+            "pubDateTZ": "UTC",
+            "image_url": "https://img.etimg.com/thumb/msid-117168652,width-1200,height-630,imgsize-59806,overlay-economictimes/articleshow.jpg",
+            "source_id": "economictimes_indiatimes",
+            "source_priority": 231,
+            "source_name": "The Economic Times",
+            "source_url": "https://economictimes.indiatimes.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/economictimes_indiatimes.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "f1232ce0ee0f453a7ac82e16d49cdf16",
+            "title": "फोन करने लगे ऐसी गड़बड़ी तो हो जाएं सावधान, छिपा हो सकता है मालवेयर, डेटा बचाने के लिए करें ये काम",
+            "link": "https://zeenews.india.com/hindi/technology/problem-in-phone-may-due-to-malware-to-this-to-save-data/2597882",
+            "keywords": null,
+            "creator": [
+                "Zee News Hindi",
+                "Zee News हिन्दी"
+            ],
+            "video_url": null,
+            "description": "Smartphone Malware: मालवेयर फोन की परफॉर्मेंस को धीमा कर सकता है, निजी जानकारी चुरा सकता है, और फोन को नुकसान पहुंचा सकता है. इसलिए यह जानना जरूरी है कि आपके फोन में मालवेयर है या नहीं. अगर आपके फोन में अचानक कुछ गड़बड़ियां होने लगे तो यह फोन में मालवेयर होने का संकेत हो सकता है.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-01-12 07:05:02",
+            "pubDateTZ": "UTC",
+            "image_url": "https://hindi.cdn.zeenews.com/hindi/sites/default/files/2025/01/12/3588705-phondfd.jpg?im=FitAndFill%3D%281200%2C900%29",
+            "source_id": "zeenews",
+            "source_priority": 5319,
+            "source_name": "Zee News",
+            "source_url": "http://zeenews.india.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/zeenews.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "technology"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "dbb4f0fb57471f25d7025bbc62e65a4e",
+            "title": "'Preaching 90-hour Workweek Is Absolutely Absurd': Ex-IRS Ravi Kapoor Weighs In On Fiery Debate",
+            "link": "https://www.freepressjournal.in/business/preaching-90-hour-workweek-is-absolutely-absurd-ex-irs-ravi-kapoor-weighs-in-on-fiery-debate",
+            "keywords": [
+                "business",
+                "fpj shorts",
+                "topnews"
+            ],
+            "creator": null,
+            "video_url": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-01-12 07:05:00",
+            "pubDateTZ": "UTC",
+            "image_url": "https://media.assettype.com/freepressjournal/2025-01-12/2k6v1qaa/PE-Ratio-2025-01-12T121034.007.jpg",
+            "source_id": "freepressjournal",
+            "source_priority": 26427,
+            "source_name": "The Free Press Journal",
+            "source_url": "https://www.freepressjournal.in",
+            "source_icon": "https://i.bytvi.com/domain_icons/freepressjournal.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "70b67c1d3f06f2a644d6f41665c146e0",
+            "title": "Iran's IRCG Showcases Advanced Missile Arsenal In Newly Unveiled Underground 'Missile City': Report",
+            "link": "https://zeenews.india.com/world/irans-ircg-showcases-advanced-missile-arsenal-in-newly-unveiled-underground-missile-city-report-2842627.html",
+            "keywords": null,
+            "creator": [
+                "Zee News"
+            ],
+            "video_url": null,
+            "description": "Footage broadcast by state-run IRIB TV on Friday night showed the facility, described as a \"missile city,\" being unveiled in the presence of IRGC Commander Hossein Salami and Amir-Ali Hajizadeh, head of the IRGC's Aerospace Force.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-01-12 07:05:00",
+            "pubDateTZ": "UTC",
+            "image_url": "https://english.cdn.zeenews.com/sites/default/files/styles/zm_700x400/public/2025/01/12/1631796-missile-3.png?im=Resize%3D%28400%29",
+            "source_id": "zeenews",
+            "source_priority": 5319,
+            "source_name": "Zee News",
+            "source_url": "http://zeenews.india.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/zeenews.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "world"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
             "article_id": "3acc215428db7ce170210d592654962c",
             "title": "Emergency: Kangana Ranaut's political drama impresses Union Minister Nitin Gadkari, calls it 'authentic and excellent'",
             "link": "https://www.dnaindia.com/bollywood/report-emergency-kangana-ranaut-s-political-drama-impresses-union-minister-nitin-gadkari-calls-it-authentic-and-excellent-3126630",
@@ -23100,596 +23758,6 @@
             ],
             "category": [
                 "science"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "1ecba924035203b5630cfec410129355",
-            "title": "आज का मेष राशिफल, 11 जनवरी 2025, शनिवार - आप धैर्य से काम लेंगे!",
-            "link": "https://hindi.oneindia.com/astrology/aaj-ka-mesh-rashifal-11-january-2025-read-aries-horoscope-today-prediction-in-hindi-011-1198399.html",
-            "keywords": [
-                "astrology"
-            ],
-            "creator": null,
-            "video_url": null,
-            "description": "मेष राशिफल आज हिंदी में, 11 जनवरी 2025, शनिवार: हमारे दैनिक ज्योतिष भविष्यवाणियों के साथ अपने दिन का अन्वेषण करें",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-01-10 19:06:23",
-            "pubDateTZ": "UTC",
-            "image_url": null,
-            "source_id": "oneindia",
-            "source_priority": 12404,
-            "source_name": "One India",
-            "source_url": "https://www.oneindia.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/oneindia.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "science"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "75b0891f2c050cfc3ba8e0f3640de7b1",
-            "title": "India News | Indore's Devi Ahilya Vishwavidyalaya to Use 'Bharat' in Place of 'India' in Documents, Degrees",
-            "link": "https://www.latestly.com/agency-news/india-news-indores-devi-ahilya-vishwavidyalaya-to-use-bharat-in-place-of-india-in-documents-degrees-6555925.html",
-            "keywords": null,
-            "creator": null,
-            "video_url": null,
-            "description": "Get latest articles and stories on India at LatestLY. Indore-based Devi Ahilya Vishwavidyalaya (DAVV) on Friday passed a resolution stating it will only use \"Bharat\" in place of India in all its official documents, degrees and marksheets.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-01-10 19:06:20",
-            "pubDateTZ": "UTC",
-            "image_url": "https://st1.latestly.com/wp-content/uploads/2018/03/default-img-01-784x441.jpg",
-            "source_id": "latestly",
-            "source_priority": 31923,
-            "source_name": "Latestly",
-            "source_url": "https://www.latestly.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/latestly.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "6239aef1e9263ab55010e4a38d657935",
-            "title": "Bangladesh Declines Invitation to Attend India Meteorological Department's 150th Anniversary Celebration",
-            "link": "https://www.oneindia.com/international/bangladesh-skips-150-year-celebration-india-meteorological-department-011-4039315.html",
-            "keywords": null,
-            "creator": null,
-            "video_url": null,
-            "description": "Bangladesh will not attend the 150th anniversary of the India Meteorological Department due to restrictions on non-essential foreign travel.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-01-10 19:06:19",
-            "pubDateTZ": "UTC",
-            "image_url": "https://www.oneindia.com/img/2025/01/bangladesh-skips-150-year-celebration-india-meteorological-department-ft.jpg",
-            "source_id": "oneindia",
-            "source_priority": 12404,
-            "source_name": "One India",
-            "source_url": "https://www.oneindia.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/oneindia.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "world"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "0b525d7511254bfb4e96906792adf562",
-            "title": "Makar Sankranti 2025: MSEDCL Issues Kite-Flying Safety Advisory To Prevent Electric Mishaps",
-            "link": "https://www.freepressjournal.in/mumbai/makar-sankranti-2025-msedcl-issues-kite-flying-safety-advisory-to-prevent-electric-mishaps",
-            "keywords": [
-                "mumbai news",
-                "fpj shorts",
-                "topnews"
-            ],
-            "creator": null,
-            "video_url": null,
-            "description": null,
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-01-10 19:06:18",
-            "pubDateTZ": "UTC",
-            "image_url": "https://media.assettype.com/freepressjournal/2025-01-10/655r5j8z/1401-20210114132l.jpg",
-            "source_id": "freepressjournal",
-            "source_priority": 26427,
-            "source_name": "The Free Press Journal",
-            "source_url": "https://www.freepressjournal.in",
-            "source_icon": "https://i.bytvi.com/domain_icons/freepressjournal.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "2f2c948cb635a3bbe0f60d72ec0ecbf5",
-            "title": "Why NCR Is Grappling With GRAP",
-            "link": "https://timesofindia.indiatimes.com/city/gurgaon/why-ncr-is-grappling-with-grap/articleshow/117130122.cms",
-            "keywords": null,
-            "creator": null,
-            "video_url": null,
-            "description": null,
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-01-10 19:06:10",
-            "pubDateTZ": "UTC",
-            "image_url": "https://static.toiimg.com/photo/msid-117130121,imgsize-46438.cms",
-            "source_id": "toi",
-            "source_priority": 239,
-            "source_name": "The Times Of India",
-            "source_url": "https://timesofindia.indiatimes.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/toi.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "business"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "3dd9e0626485b258639d7fee81471ee6",
-            "title": "SC stays HC order on verandah construction",
-            "link": "https://timesofindia.indiatimes.com/city/chandigarh/sc-stays-hc-order-on-verandah-construction/articleshow/117130118.cms",
-            "keywords": null,
-            "creator": null,
-            "video_url": null,
-            "description": null,
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-01-10 19:06:03",
-            "pubDateTZ": "UTC",
-            "image_url": "https://static.toiimg.com/photo/msid-117130114,imgsize-36150.cms",
-            "source_id": "toi",
-            "source_priority": 239,
-            "source_name": "The Times Of India",
-            "source_url": "https://timesofindia.indiatimes.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/toi.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "world"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "d5ac4aea25ce2dbaced995e47f2836cb",
-            "title": "वाराणसी में दूसरी शादी रचाने वाली महिला को सजा:पहले पति को दिया धोखा, CJM ने छह महीने की सजा और जुर्माना लगाया",
-            "link": "https://www.bhaskar.com/local/uttar-pradesh/varanasi/news/woman-sentenced-for-marrying-second-time-in-varanasi-cheated-on-first-husband-cjm-imposed-six-months-jail-and-fine-134271326.html",
-            "keywords": null,
-            "creator": null,
-            "video_url": null,
-            "description": "वाराणसी जिला एवं सत्र न्यायालय में शुक्रवार को विशेष मुख्य न्यायिक मजिस्ट्रेट अश्वनी कुमार ने 13 साल पुराने केस में फैसला सुनाया। जज ने पति के रहते दूसरी शादी करने वाली महिला को छह महीने कारावास की सजा सुनाई। महिला पर जुर्माना भी लगाया, उसे नहीं भरने पर अतिरिक्त सजा का प्रावधान भी किया। शुक्रवार को स्पेशल सीजएम की अदालत ने पहले पति के रहते दूसरी शादी रचाने के मामले में पंचक्रोशी रोड शिवपुर निवासी वंदना गुप्ता को दर्ज केस में दोषी माना। पुलिस की चार्जशीट, गवाहों के बयान, शादी के एलबम समेत तमाम सबूतों के आधार पर दोषी पाया। कोर्ट ने उसे छह माह की सजा सुनाई है, साथ ही दो हजार रुपये का जुर्माना लगाया है। वादी की ओर से अधिवक्ता राकेश उपाध्याय ने पक्ष रखा। अभियोजन के अनुसार गोरखपुर के बेनीगंज निवासी अंबुज अग्रवाल ने 13 मार्च 2012 को गोरखपुर की अदालत में पत्नी वंदना गुप्ता और उसके परिजनों के खिलाफ मुकदमा दर्ज कराया था। अंबुज ने अदालत को बताया कि 15 अगस्त 2005 को उसकी पहली पत्नी का निधन हो गया। इसके बाद तीन दिसंबर 2009 में विंध्याचल मंदिर में वंदना से शादी हुई। इस बीच पता चला कि उसका पूर्व में विवाह मीर्जापुर के राजेंद्र केसरी से हुआ था। उन्हें धोखे में रखकर वंदना ने शादी रचाई है।",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-01-10 19:06:01",
-            "pubDateTZ": "UTC",
-            "image_url": "https://images.bhaskarassets.com/thumb/1000x1000/web2images/521/2025/01/11/image-54_1736535954.png",
-            "source_id": "bhaskar_hindi",
-            "source_priority": 34179,
-            "source_name": "Bhaskar",
-            "source_url": "https://www.bhaskar.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/bhaskar_hindi.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top",
-                "domestic"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "58183317f96a2e35a767a8d264b8cab5",
-            "title": "Investors become poorer by Rs 12 lakh cr in 3 days of market fall",
-            "link": "https://www.greaterkashmir.com/business/investors-become-poorer-by-rs-12-lakh-cr-in-3-days-of-market-fall/",
-            "keywords": [
-                "today's paper",
-                "business",
-                "page 11"
-            ],
-            "creator": [
-                "PTI",
-                ""
-            ],
-            "video_url": null,
-            "description": "Also, rising crude oil prices and a strengthening dollar index added to investors' pessimismThe post Investors become poorer by Rs 12 lakh cr in 3 days of market fall appeared first on Greater Kashmir.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-01-10 19:05:56",
-            "pubDateTZ": "UTC",
-            "image_url": "https://greaterkashmir.imagibyte.sortdcdn.net/wp-content/uploads/2024/12/Screenshot-2024-12-17-at-11.32.58-PM.png?quality=80&type=webp",
-            "source_id": "greaterkashmir",
-            "source_priority": 101259,
-            "source_name": "Greater Kashmir",
-            "source_url": "https://www.greaterkashmir.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/greaterkashmir.jpg",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "business"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "c05cc596256e996b7287d3326e3448bb",
-            "title": "शिवराज सिंह चौहान कालनेमी से की कांग्रेस की तुलना, बोले - 'जैसे कालनेमी ने हनुमान जी को रोकने की कोशिश की वैसी ही कांग्रेस ने..'",
-            "link": "https://www.bhaskarhindi.com/politics/shivraj-singh-chauhan-chhattisgarh-tour-congress-more-housing-more-rights-program-cm-vishnudev-sai-government-chhattisgarh-news-1099520",
-            "keywords": [
-                "राजनीति,बड़ी खबरें"
-            ],
-            "creator": [
-                "Anchal Shridhar"
-            ],
-            "video_url": null,
-            "description": null,
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-01-10 19:05:56",
-            "pubDateTZ": "UTC",
-            "image_url": "https://www.bhaskarhindi.com/h-upload/2025/01/10/1393509-capture.webp",
-            "source_id": "bhaskarhindi",
-            "source_priority": 596776,
-            "source_name": "Bhaskar Hindi",
-            "source_url": "https://www.bhaskarhindi.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/bhaskarhindi.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "politics"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "a4aa075ead38e00b947475f8e79874ee",
-            "title": "Flyover work: Centre raps UT over estimate delay",
-            "link": "https://timesofindia.indiatimes.com/city/chandigarh/flyover-work-centre-raps-ut-over-estimate-delay/articleshow/117130111.cms",
-            "keywords": null,
-            "creator": [
-                "Munieshwer A Sagar"
-            ],
-            "video_url": null,
-            "description": null,
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-01-10 19:05:51",
-            "pubDateTZ": "UTC",
-            "image_url": "https://static.toiimg.com/photo/msid-117130107,imgsize-112846.cms",
-            "source_id": "toi",
-            "source_priority": 239,
-            "source_name": "The Times Of India",
-            "source_url": "https://timesofindia.indiatimes.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/toi.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "world"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "77b1e457b04675483b2690d6603e2d89",
-            "title": "TN rejects Madurai-Tuticorin rail line project, Pamban cleared: Railway min",
-            "link": "https://timesofindia.indiatimes.com/city/chennai/tn-rejects-madurai-tuticorin-rail-line-project-pamban-cleared-railway-min/articleshow/117130106.cms",
-            "keywords": null,
-            "creator": null,
-            "video_url": null,
-            "description": null,
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-01-10 19:05:44",
-            "pubDateTZ": "UTC",
-            "image_url": "https://static.toiimg.com/photo/msid-117130103,imgsize-54352.cms",
-            "source_id": "toi",
-            "source_priority": 239,
-            "source_name": "The Times Of India",
-            "source_url": "https://timesofindia.indiatimes.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/toi.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "politics",
-                "education"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "81ca727ebd343a50cd748dabc8db7255",
-            "title": "Handsome return promise costs two men 55 lakh",
-            "link": "https://timesofindia.indiatimes.com/city/pune/handsome-return-promise-costs-two-men-55-lakh/articleshow/117130104.cms",
-            "keywords": null,
-            "creator": null,
-            "video_url": null,
-            "description": null,
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-01-10 19:05:43",
-            "pubDateTZ": "UTC",
-            "image_url": "https://static.toiimg.com/photo/msid-117130104,imgsize-.cms",
-            "source_id": "toi",
-            "source_priority": 239,
-            "source_name": "The Times Of India",
-            "source_url": "https://timesofindia.indiatimes.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/toi.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "health"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "5313e51c8a4ee89b3e46fa39cd4b9c01",
-            "title": "Manesar Land scam: Stay orders cease to operate after January 27: HC",
-            "link": "https://www.hindustantimes.com/cities/chandigarh-news/manesar-land-scam-stay-orders-cease-to-operate-after-january-27-hc-101736535941569.html",
-            "keywords": [
-                "cities/chandigarh-news"
-            ],
-            "creator": null,
-            "video_url": null,
-            "description": "The bench was hearing a clutch of petitions, including one from former home secretary Rajeev Arora, who had challenged his summoning order by a Panchkula court in December 2020",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-01-10 19:05:41",
-            "pubDateTZ": "UTC",
-            "image_url": "https://www.hindustantimes.com/ht-img/img/2025/01/10/1600x900/The-HC-bench-of-justice-Manjari-Nehru-Kaul-while-f_1736535938700.jpg",
-            "source_id": "hindustantimes",
-            "source_priority": 933,
-            "source_name": "Hindustan Times",
-            "source_url": "http://www.hindustantimes.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/hindustantimes.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "c036bced0169bac9df416ef3f19afc54",
-            "title": "Severe cold and dense fog blanket Pb, Hry, & HP; visibility drops to zero in several areas",
-            "link": "https://timesofindia.indiatimes.com/city/chandigarh/severe-cold-and-dense-fog-blanket-pb-hry-hp-visibility-drops-to-zero-in-several-areas/articleshow/117130102.cms",
-            "keywords": null,
-            "creator": null,
-            "video_url": null,
-            "description": null,
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-01-10 19:05:40",
-            "pubDateTZ": "UTC",
-            "image_url": "https://static.toiimg.com/photo/msid-117130101,imgsize-18272.cms",
-            "source_id": "toi",
-            "source_priority": 239,
-            "source_name": "The Times Of India",
-            "source_url": "https://timesofindia.indiatimes.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/toi.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "world"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "78ff748d4c87b6689945934758b1107a",
-            "title": "After decades, 956 tribal households get electricity",
-            "link": "https://www.deccanchronicle.com/southern-states/andhra-pradesh/after-decades-956-tribal-households-get-electricity-1853381",
-            "keywords": [
-                "southern states,andhra pradesh"
-            ],
-            "creator": [
-                "MD Ilyas"
-            ],
-            "video_url": null,
-            "description": null,
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-01-10 19:05:38",
-            "pubDateTZ": "UTC",
-            "image_url": "https://www.deccanchronicle.com/h-upload/2024/11/26/1866724-chandrababunaidu.webp",
-            "source_id": "deccanchronicle",
-            "source_priority": 14130,
-            "source_name": "Deccan Chronicle",
-            "source_url": "https://www.deccanchronicle.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/deccanchronicle.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "entertainment"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "86848a56d75486dfc3ddf61fa849efe6",
-            "title": "Bogus NIA official dupes woman of 6L",
-            "link": "https://timesofindia.indiatimes.com/city/pune/bogus-nia-official-dupes-woman-of-6l/articleshow/117130096.cms",
-            "keywords": null,
-            "creator": null,
-            "video_url": null,
-            "description": null,
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-01-10 19:05:35",
-            "pubDateTZ": "UTC",
-            "image_url": "https://static.toiimg.com/photo/msid-117130096,imgsize-.cms",
-            "source_id": "toi",
-            "source_priority": 239,
-            "source_name": "The Times Of India",
-            "source_url": "https://timesofindia.indiatimes.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/toi.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "health"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "5d635011c964e381b833a19c17f997bf",
-            "title": "Up, up, and away, balloon fest returns",
-            "link": "https://timesofindia.indiatimes.com/city/chennai/up-up-and-away-balloon-fest-returns/articleshow/117130099.cms",
-            "keywords": null,
-            "creator": [
-                "Muskaan Ahmed"
-            ],
-            "video_url": null,
-            "description": null,
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-01-10 19:05:35",
-            "pubDateTZ": "UTC",
-            "image_url": "https://static.toiimg.com/photo/msid-117130097,imgsize-52248.cms",
-            "source_id": "toi",
-            "source_priority": 239,
-            "source_name": "The Times Of India",
-            "source_url": "https://timesofindia.indiatimes.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/toi.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "politics",
-                "education"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "72630401f8f5bcc6bde44104570ac4e4",
-            "title": "Man beats his friend to death over booze, held",
-            "link": "https://timesofindia.indiatimes.com/city/noida/man-beats-his-friend-to-death-over-booze-held/articleshow/117130093.cms",
-            "keywords": null,
-            "creator": [
-                "Advitya Bahl"
-            ],
-            "video_url": null,
-            "description": null,
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-01-10 19:05:34",
-            "pubDateTZ": "UTC",
-            "image_url": "https://static.toiimg.com/photo/msid-117130093,imgsize-.cms",
-            "source_id": "toi",
-            "source_priority": 239,
-            "source_name": "The Times Of India",
-            "source_url": "https://timesofindia.indiatimes.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/toi.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
             ],
             "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
             "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
