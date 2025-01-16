@@ -1,6 +1,700 @@
 {
     "articles": [
         {
+            "article_id": "48de69b9b426ed05ea699e1b6a365c7f",
+            "title": "Conor McGregor accused of attempting to rape woman in VIP loo while security stopped victim's friend from intervening",
+            "link": "https://www.hindustantimes.com/world-news/conor-mcgregor-accused-of-attempting-to-rape-woman-in-vip-loo-while-security-stopped-victims-friend-from-intervening-101736978445713.html",
+            "keywords": [
+                "world-news"
+            ],
+            "creator": null,
+            "video_url": null,
+            "description": "The victim claimed that she was taken to a VIP men’s bathroom, where McGregor, who was intoxicated and attempted to rape her",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-01-15 22:08:41",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.hindustantimes.com/ht-img/img/2025/01/15/1600x900/US-McGregor-Battery-Lawsuit-Florida-0_1736978858495_1736978867889.jpg",
+            "source_id": "hindustantimes",
+            "source_priority": 933,
+            "source_name": "Hindustan Times",
+            "source_url": "http://www.hindustantimes.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/hindustantimes.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "world"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "05c7f6973a8dbfe94629124a7edc4714",
+            "title": "Saif Ali Khan to Sunil Dutt and Sonu Sood; actors who have proved to be a real-life heroes",
+            "link": "https://www.bollywoodlife.com/webstories/news-gossip/saif-ali-khan-sonu-sood-sunil-dutt-and-other-top-actors-who-have-proved-to-be-a-real-life-heroes-3057718/",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-01-15 22:08:34",
+            "pubDateTZ": "UTC",
+            "image_url": "http://st1.bollywoodlife.com/wp-content/uploads/2025/01/sonu-sood-saif-ali-khan.jpg",
+            "source_id": "bollywoodlife",
+            "source_priority": 13281,
+            "source_name": "Bollywoodlife",
+            "source_url": "https://www.bollywoodlife.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/bollywoodlife.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "entertainment"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "2310f3666870243edb8f171d94700bb9",
+            "title": "Trossard seals derby win for Arsenal over Tottenham",
+            "link": "https://www.channelnewsasia.com/sport/trossard-seals-derby-win-arsenal-over-tottenham-4861391",
+            "keywords": [
+                "sport"
+            ],
+            "creator": null,
+            "video_url": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-01-15 22:08:17",
+            "pubDateTZ": "UTC",
+            "image_url": "https://dam.mediacorp.sg/image/upload/s--3TKSpDLN--/c_fill,g_auto,h_468,w_830/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2025-01-15t220817z_1_lynxmpel0e14v_rtroptp_3_soccer-england-ars-tot-report.jpg?itok=cAjuk9D-",
+            "source_id": "channelnewsasia",
+            "source_priority": 4142,
+            "source_name": "Channel Newsasia",
+            "source_url": "https://www.channelnewsasia.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/channelnewsasia.jpg",
+            "language": "english",
+            "country": [
+                "singapore",
+                "georgia",
+                "yemen",
+                "afghanistan",
+                "cyprus",
+                "india",
+                "saudi arabia",
+                "maldives",
+                "japan",
+                "united arab emirates",
+                "malaysia",
+                "china",
+                "south korea",
+                "north korea",
+                "taiwan",
+                "thailand",
+                "pakistan",
+                "mongolia",
+                "brunei",
+                "lebanon",
+                "indonesia",
+                "kyrgyzstan",
+                "syria",
+                "israel",
+                "bhutan",
+                "iran",
+                "turkey",
+                "armenia",
+                "qatar",
+                "philippines",
+                "hong kong",
+                "kazakhstan",
+                "iraq",
+                "bangladesh",
+                "laos",
+                "vietnam",
+                "timor-leste",
+                "kuwait",
+                "myanmar",
+                "azerbaijan",
+                "jordan",
+                "nepal",
+                "oman",
+                "sri lanka",
+                "uzbekistan",
+                "turkmenistan",
+                "macau",
+                "bahrain",
+                "cambodia",
+                "tajikistan"
+            ],
+            "category": [
+                "sports"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": true
+        },
+        {
+            "article_id": "4b4656bf6dfda8c5002bc5506d44122d",
+            "title": "ऑटोमैटिक डेटा प्रोसेसिंग कॉर्प वीपी वर्जीनिया मैग्लियुलो स्टॉक में $1.02 मिलियन बेचता है",
+            "link": "https://hi.investing.com/news/insider-trading-news/article-93CH-379698",
+            "keywords": null,
+            "creator": [
+                "Investing.com"
+            ],
+            "video_url": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-01-15 22:08:05",
+            "pubDateTZ": "UTC",
+            "image_url": "https://i-invdn-com.investing.com/news/World_News_10_M_1440052130.jpg",
+            "source_id": "investing_hi",
+            "source_priority": 1143,
+            "source_name": "Investing भारत",
+            "source_url": "https://hi.investing.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/investing_hi.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "087d67629fb03d911837b08502869cd8",
+            "title": "Stephen A Smith regrets voting for Kamala Harris in U.S elections, says was 'misinformed'",
+            "link": "https://economictimes.indiatimes.com/news/international/us/stephen-a-smith-regrets-voting-for-kamala-harris-in-u-s-elections-says-was-misinformed/articleshow/117278037.cms",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "In a recent appearance, the famous personality Stephen A. Smith revealed that he totally regrets voting for US Vice President Kamala Harris during the US Presidential Elections 2024 while he also claimed that he was totally misinformed regarding that.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-01-15 22:07:34",
+            "pubDateTZ": "UTC",
+            "image_url": "https://img.etimg.com/thumb/msid-117278060,width-1200,height-630,imgsize-83910,overlay-economictimes/articleshow.jpg",
+            "source_id": "economictimes_indiatimes",
+            "source_priority": 231,
+            "source_name": "The Economic Times",
+            "source_url": "https://economictimes.indiatimes.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/economictimes_indiatimes.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top",
+                "business"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "aee276fd3b30cb208f786291c8c3eea0",
+            "title": "New Apple Patent Hints at Bigger Satellite Ambitions",
+            "link": "https://www.pcmag.com/news/new-apple-patent-hints-at-bigger-satellite-ambitions",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "It also suggests Apple is eyeing a more dynamic satellite constellation via partner Globalstar.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-01-15 22:07:20",
+            "pubDateTZ": "UTC",
+            "image_url": null,
+            "source_id": "pcmag",
+            "source_priority": 439,
+            "source_name": "Pcmag",
+            "source_url": "https://www.pcmag.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/pcmag.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "260587dcd2fb3654c4894204a2ea41f7",
+            "title": "रयान स्पेशलिटी के निर्देशक कोर्टेज़ी ने $6.5 मिलियन के शेयर बेचे",
+            "link": "https://hi.investing.com/news/insider-trading-news/article-93CH-379697",
+            "keywords": null,
+            "creator": [
+                "Investing.com"
+            ],
+            "video_url": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-01-15 22:05:35",
+            "pubDateTZ": "UTC",
+            "image_url": "https://i-invdn-com.investing.com/news/news_headline_rolled_108x81.jpg",
+            "source_id": "investing_hi",
+            "source_priority": 1143,
+            "source_name": "Investing भारत",
+            "source_url": "https://hi.investing.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/investing_hi.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "f4a80d0899f018ee248a892ced034913",
+            "title": "Three-day Indo-Israel centre training on nursery management begins in Kurukshetra",
+            "link": "https://www.tribuneindia.com/news/haryana/three-day-indo-israel-centre-training-on-nursery-management-begins-in-kurukshetra",
+            "keywords": null,
+            "creator": [
+                "Tribune News Service"
+            ],
+            "video_url": null,
+            "description": "A three-day Indo-Israel training programme on Nursery Management in Orchards started at the Indo-Israel Centre of excellence for sub-tropical fruits (CSTF) in Ladwa on Wednesday. As per the information, nearly 30 representatives from 12 states have reached Kurukshetra to attend the training programme. The Additional Director, Horticulture Department, Haryana, Dharam Singh Yadav, Sara Olga Yanovsky, [...]",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-01-15 22:05:27",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/webp/medium/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWQ2ZGI4ZTkwLWQzOGMtMTFlZi1hNTlkLWM5MTkxMTVjNDM0NC5qcGc%3D",
+            "source_id": "tribuneindia",
+            "source_priority": 15316,
+            "source_name": "The Tribune India",
+            "source_url": "https://www.tribuneindia.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/tribuneindia.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "9099c7b7a40fe4a00c206d7f7b211bfc",
+            "title": "Wild swings in stocks to continue, but recent pullbacks buying opportunity: UBS",
+            "link": "https://in.investing.com/news/stock-market-news/wild-swings-in-stocks-to-continue-but-recent-pullbacks-buying-opportunity-ubs-4615566",
+            "keywords": null,
+            "creator": [
+                "Investing.com"
+            ],
+            "video_url": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-01-15 22:04:08",
+            "pubDateTZ": "UTC",
+            "image_url": null,
+            "source_id": "investing_in",
+            "source_priority": 1205,
+            "source_name": "Investing India",
+            "source_url": "https://in.investing.com",
+            "source_icon": null,
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "business"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": true
+        },
+        {
+            "article_id": "adc887d81de39b682bffbe6c6ea07eb8",
+            "title": "Yamal 9.5, Raphinha 9 | Barcelona 5-1 Real Betis: Player ratings - Barca Universal",
+            "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOa0NzM3VRMlVyV2RhTFZmel9TTHhjeng5LUhrc0pCM2JjZzNGOGVHSUxjUVBscVU4MDBDVnlfR3o3dWVpQmcyU3VpQlR4S01WbXdUUndzX0tzLXh6TmF2b1lTd2FVRUI1MjRwZXJyZHZ3RzFJMHU3MnVUcWk1MEg4Y1dNRVU5b0lDQWxsOXpiTk95QQ?oc=5",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "Yamal 9.5, Raphinha 9 | Barcelona 5-1 Real Betis: Player ratings Barca UniversalBarcelona player ratings vs Real Betis: Lamine Yamal is simply irresistible! Wonderkid leads rampant Blaugrana to Copa del Rey rout as Raphinha continues red-hot form GOAL EnglishBarcelona thrash Real Betis 5-1 to reach Copa Del Ray quarter-finals India TodayFC Barcelona’s Flick Gives Araujo Update And Agrees With Lamine Yamal Statement ForbesEuropean football: Barcelona hit five but Lyon are humbled in Coupe de France The Guardian",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-01-15 22:03:32",
+            "pubDateTZ": "UTC",
+            "image_url": null,
+            "source_id": "google",
+            "source_priority": 14,
+            "source_name": "Google News",
+            "source_url": "https://news.google.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/google.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "sports"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "1a49be63080aa7a1a53bd794645b75da",
+            "title": "Amelia Vega’s Net Worth: How Al Horford’s Wife Balances Modeling and Family Life",
+            "link": "https://timesofindia.indiatimes.com/sports/nba/top-stories/amelia-vega-net-worth-how-al-horford-wife-balances-modeling-and-family-life/articleshow/117277869.cms",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "Amelia Vega, wife of NBA star Al Horford, is a Dominican actress, singer, and the first-ever Dominican Miss Universe (2003). Her diverse career has garnered her a net worth of $1 million. Married since 2011, Vega and Horford have five children. She balances a successful career and family life, actively supporting Horford’s NBA career.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-01-15 22:03:08",
+            "pubDateTZ": "UTC",
+            "image_url": "https://static.toiimg.com/thumb/msid-117277940,imgsize-1837984,width-400,resizemode-4/117277940.jpg",
+            "source_id": "toi",
+            "source_priority": 239,
+            "source_name": "The Times Of India",
+            "source_url": "https://timesofindia.indiatimes.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/toi.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "532fd20e3bf42d8a7ee309083c33cad0",
+            "title": "Netanyahu Thanks Trump, Biden For Help With Gaza Hostage Deal",
+            "link": "https://www.ndtv.com/world-news/israeli-pm-benjamin-netanyahu-thanks-donald-trump-joe-biden-for-help-with-gaza-hostage-deal-7483321",
+            "keywords": [
+                "world"
+            ],
+            "creator": null,
+            "video_url": null,
+            "description": "Israeli Prime Minister Benjamin Netanyahu spoke to US President Joe Biden and President-elect Donald Trump Wednesday to thank them for helping to secure a deal for the release of hostages held in...",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-01-15 22:02:12",
+            "pubDateTZ": "UTC",
+            "image_url": null,
+            "source_id": "ndtv",
+            "source_priority": 1204,
+            "source_name": "Ndtv",
+            "source_url": "http://www.ndtv.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/ndtv.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "a23ef9ab10a7bf2c867baa2a1a5701b8",
+            "title": "Global Leaders React to Ceasefire Deal in Gaza",
+            "link": "https://www.devdiscourse.com/article/politics/3226537-global-leaders-react-to-ceasefire-deal-in-gaza",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "Global Leaders React to Ceasefire Deal in Gaza International leaders expressed relief following the announcement of a phased ceasefire between Israel and Hamas, bringing hope to the conflict-ridden Gaza region. The agreement, which includes a hostage release, has been widely hailed as a pivotal step towards stability.U.S. President Joe Biden announced the deal, emphasizing the opportunity for a credible path to statehood for Palestinians. Global allies echoed his sentiments, urging for increased humanitarian aid and the eventual realization of a two-state solution. The United Nations has pledged support for the implementation and monitoring of the ceasefire.European and Middle Eastern leaders stressed the urgent need for rapid delivery of humanitarian assistance and called for adherence to the ceasefire terms. The agreement is seen as a potential pathway to lasting peace, with leaders highlighting the importance of continued negotiations and regional cooperation.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-01-15 22:02:08",
+            "pubDateTZ": "UTC",
+            "image_url": "https://devdiscourse.blob.core.windows.net/aiimagegallery/12_07_2024_12_09_47_29644.png",
+            "source_id": "devdiscourse",
+            "source_priority": 566021,
+            "source_name": "Devdiscourse",
+            "source_url": "https://www.devdiscourse.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/devdiscourse.jpg",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "ab7633cdc4a15e52e20fd8a2d61646ed",
+            "title": "Mumbai-Diu Alliance Air Flight Cancelled 12 Times In 15 Days, Passengers Left Stranded And Furious",
+            "link": "https://www.freepressjournal.in/mumbai/mumbai-diu-alliance-air-flight-cancelled-12-times-in-15-days-passengers-left-stranded-and-furious",
+            "keywords": [
+                "fpj shorts",
+                "mumbai news",
+                "topnews"
+            ],
+            "creator": null,
+            "video_url": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-01-15 22:02:00",
+            "pubDateTZ": "UTC",
+            "image_url": "https://media.assettype.com/freepressjournal/2025-01-15/xmxhn9ls/alliance-airlines.jpg",
+            "source_id": "freepressjournal",
+            "source_priority": 26427,
+            "source_name": "The Free Press Journal",
+            "source_url": "https://www.freepressjournal.in",
+            "source_icon": "https://i.bytvi.com/domain_icons/freepressjournal.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "75b83057c6e2da4ffac7a2e8906642a5",
+            "title": "Ex-Prasar Bharati officials, ex-IB deputy secy booked in graft case",
+            "link": "https://timesofindia.indiatimes.com/india/ex-prasar-bharati-officials-ex-ib-deputy-secy-booked-in-graft-case/articleshow/117277936.cms",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "The CBI has lodged a case against a former deputy secretary of the Ministry of Information and Broadcasting and six ex-officials of Prasar Bharati in a corruption case. The FIR, registered under the Bharatiya Nyaya Sanhita and the Prevention of Corruption Act, comes on the referral of the Lokpal.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-01-15 22:01:49",
+            "pubDateTZ": "UTC",
+            "image_url": "https://static.toiimg.com/thumb/msid-47529300,imgsize-110164,width-400,resizemode-4/47529300.jpg",
+            "source_id": "toi",
+            "source_priority": 239,
+            "source_name": "The Times Of India",
+            "source_url": "https://timesofindia.indiatimes.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/toi.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "food"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "b979538b0cf5d299064806173cf3f14d",
+            "title": "The Best PC Indie Games for 2025",
+            "link": "https://www.pcmag.com/picks/the-best-pc-indie-games",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "Burnt out from bloated blockbusters? Fire up an indie title to restore your faith in gaming’s artistry.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-01-15 22:01:07",
+            "pubDateTZ": "UTC",
+            "image_url": null,
+            "source_id": "pcmag",
+            "source_priority": 439,
+            "source_name": "Pcmag",
+            "source_url": "https://www.pcmag.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/pcmag.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "709687541dfee689a3b222155abf285e",
+            "title": "Karnal achieves 87.25% conviction rate in narcotics cases",
+            "link": "https://www.tribuneindia.com/news/haryana/karnal-achieves-87-25-conviction-rate-in-narcotics-cases",
+            "keywords": null,
+            "creator": [
+                "Tribune News Service"
+            ],
+            "video_url": null,
+            "description": "The timely submission of challans and evidence by the Karnal police along with strong arguments and trial by the public prosecutors has resulted in an impressive conviction rate in narcotics-related cases under the NDPS Act. As per the annual report of 2024, Karnal district has recorded a conviction rate of 87.25 per cent in such [...]",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-01-15 22:00:39",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/webp/medium/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTM2MGUxNzMwLWQzOGMtMTFlZi1hNTlkLWM5MTkxMTVjNDM0NC5qcGc%3D",
+            "source_id": "tribuneindia",
+            "source_priority": 15316,
+            "source_name": "The Tribune India",
+            "source_url": "https://www.tribuneindia.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/tribuneindia.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "6472a06a905964aba0b117151712dbd3",
+            "title": "Trump and Biden Both Assert Their Roles in Gaza Ceasefire Agreement Amid Ongoing Tensions",
+            "link": "https://www.oneindia.com/international/trump-biden-claim-credit-gaza-ceasefire-deal-011-4043683.html",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "Both President Biden and President Trump assert their roles in the recent Gaza ceasefire deal, highlighting their diplomatic efforts.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-01-15 22:00:26",
+            "pubDateTZ": "UTC",
+            "image_url": "https://imagesvs.oneindia.com/img/2025/01/trump-biden-claim-credit-gaza-ceasefire-deal-1736978239114-600x338.jpg",
+            "source_id": "oneindia",
+            "source_priority": 12404,
+            "source_name": "One India",
+            "source_url": "https://www.oneindia.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/oneindia.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "world"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "c97d9a3efaffc33ae677fba072ecb674",
+            "title": "VIDEO : सिरसा में घर से बरामद की करीब 83 हजार 545 नशीली गोलियां, आरोपी काबू",
+            "link": "https://www.amarujala.com/video/haryana/sirsa/video-about-83-thousand-545-narcotic-pills-recovered-from-a-house-in-sirsa-accused-arrested",
+            "keywords": null,
+            "creator": [
+                ""
+            ],
+            "video_url": null,
+            "description": "सिरसा में घर से बरामद की करीब 83 हजार 545 नशीली गोलियां, आरोपी काबू",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-01-15 22:00:18",
+            "pubDateTZ": "UTC",
+            "image_url": "https://posterimage.amarujala.com/1TymDAp.0000000.jpg?dpr=1.0&w=750",
+            "source_id": "amarujala",
+            "source_priority": 55215,
+            "source_name": "Amar Ujala",
+            "source_url": "https://www.amarujala.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/amarujala.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "3d2d78f611374e3a08807095c96ccf71",
+            "title": "VIDEO : फतेहाबाद में रुपये के लेनदेन में हुडा सेक्टर में घर में घुसकर की हवाई फायरिंग",
+            "link": "https://www.amarujala.com/video/haryana/fatehabad/video-people-entered-a-house-in-huda-sector-and-opened-fire-in-the-air-due-to-money-transaction-in-fatehabad",
+            "keywords": null,
+            "creator": [
+                ""
+            ],
+            "video_url": null,
+            "description": "फतेहाबाद में रुपये के लेनदेन में हुडा सेक्टर में घर में घुसकर की हवाई फायरिंग",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-01-15 22:00:10",
+            "pubDateTZ": "UTC",
+            "image_url": "https://posterimage.amarujala.com/1Tymv8X.0000000.jpg?dpr=1.0&w=750",
+            "source_id": "amarujala",
+            "source_priority": 55215,
+            "source_name": "Amar Ujala",
+            "source_url": "https://www.amarujala.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/amarujala.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
             "article_id": "f32c12e9952b3754702e77aaa393799b",
             "title": "Bills Sign Former Ravens QB to Simulate Lamar Jackson in Practice",
             "link": "https://thesportsrush.com/nfl-news-bills-sign-former-ravens-qb-to-simulate-lamar-jackson-in-practice/",
@@ -22224,666 +22918,6 @@
             "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
             "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
             "duplicate": true
-        },
-        {
-            "article_id": "5c08e2a376675ab1a029742b07b2fdd8",
-            "title": "इस डाइट प्लान से महिला ने घटाया 28 किलो वजन, सोशल मीडिया पर किया शेयर",
-            "link": "https://www.indiatv.in/gallery/lifestyle-women-lose-28-kg-weight-shared-her-secret-diet-plan-on-instagram-2025-01-14-1105311",
-            "keywords": null,
-            "creator": null,
-            "video_url": null,
-            "description": "Weight Loss Diet: वजन घटाने के लिए आजकल कई तरह की डाइट और एक्सरसाइज का चलन बढ़ गया है। सोशल मीडिया पर भी लोग अपनी फिटनेस जर्नी शेयर करते रहते हैं। अगर आप भी वजन कम करना चाहते हैं तो ये डाइट फॉलो कर सकते हैं।",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-01-14 10:08:00",
-            "pubDateTZ": "UTC",
-            "image_url": "https://resize.indiatv.in/resize/1200_-/2025/01/weight-loss-diet-14-01-2025-1736847964.jpg",
-            "source_id": "indiatv",
-            "source_priority": 216441,
-            "source_name": "India Tv",
-            "source_url": "https://www.indiatv.in",
-            "source_icon": "https://i.bytvi.com/domain_icons/indiatv.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "84855d70223d80bde81f95d1179f38bb",
-            "title": "वॉक-इन-इंटरव्यू से भर्ती हुए 25 डॉक्टर:लखीमपुर खीरी में स्वास्थ्य सेवाओं की मिली मजबूती, मिलेंगी बेहतर सुविधाएं",
-            "link": "https://www.bhaskar.com/local/uttar-pradesh/lakhimpur-kheri/news/25-doctors-recruited-through-walk-in-interview-134292548.html",
-            "keywords": null,
-            "creator": null,
-            "video_url": null,
-            "description": "लखीमपुर खीरी में राष्ट्रीय स्वास्थ्य मिशन के तहत स्वास्थ्य सेवाओं को मजबूत करने की दिशा में बड़ा कदम उठाया गया है। जिला स्वास्थ्य समिति की अध्यक्ष और जिलाधिकारी दुर्गा शक्ति नागपाल की अध्यक्षता में आयोजित वॉक-इन-इंटरव्यू में 34 रिक्त पदों के लिए 25 चिकित्सकों का चयन किया गया है। इन चिकित्सकों की तैनाती विभिन्न महत्वपूर्ण स्वास्थ्य केंद्रों पर की जाएगी। नगरीय आयुष्मान आरोग्य मंदिर में नए चिकित्सकों की नियुक्ति से शहरी क्षेत्रों में गुणवत्तापूर्ण स्वास्थ्य सेवाएं सुलभ होंगी। सामुदायिक स्वास्थ्य केंद्रों में एनसीडी क्लीनिक पसंगवां, फूलबेहड़, नकहा और फरधान में भी डॉक्टरों की तैनाती की जाएगी। जिला पुरुष चिकित्सालय में टेलीमेडिसिन हब, ब्लड सेल और एईएस/जेई प्रबंधन के लिए विशेष नियुक्तियां की गई हैं। जिला महिला चिकित्सालय में एसएनसीयू और ट्रामा सेंटर ओयल में भी चिकित्सकों की तैनाती की जा रही है। सीएमओ डॉ. संतोष गुप्ता के अनुसार, 15वें वित्त आयोग और पीएम अभीम अभियान के तहत गोला, पलिया, मोहम्मदी और खीरी में नगरीय आयुष्मान आरोग्य मंदिर के लिए 10 चिकित्सकों का चयन किया गया है। इन नियुक्तियों से जिले में स्वास्थ्य कार्यक्रमों को नई गति मिलने की उम्मीद है।",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-01-14 10:07:59",
-            "pubDateTZ": "UTC",
-            "image_url": "https://images.bhaskarassets.com/thumb/1000x1000/web2images/521/2025/01/14/49c1860d-49c1-4811-b5e6-74704cbe2f12_1736847751022.jpg",
-            "source_id": "bhaskar_hindi",
-            "source_priority": 34179,
-            "source_name": "Bhaskar",
-            "source_url": "https://www.bhaskar.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/bhaskar_hindi.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top",
-                "domestic"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "53662c3cd80d66bad66a73e0c7aa668c",
-            "title": "घरेलू क्रिकेट में जमीन पर उतरने को तैयार सितारे, रोहित-गिल खेलेंगे रणजी मैच",
-            "link": "https://hindi.news18.com/cricket/rohit-sharma-shubhman-gill-yashasvi-jaiswal-k-rahul-all-set-to-play-ranji-matches-for-their-state-teams-to-search-their-form-8959694.html",
-            "keywords": [
-                "क्रिकेट"
-            ],
-            "creator": [
-                "News18 Hindi"
-            ],
-            "video_url": null,
-            "description": "ऑस्ट्रेलिया दौरे पर भारतीय बल्लेबाजी पूरी तरह से फ्लॉप रही और तभी बोर्ड की तरफ से निर्देश दे दिया गया था कि सभी को घरेलू क्रिकेट में खेलना पड़ेगा जसका असर देखने को मिल रहा है . रोहित-गिल समेत ज्यादातर बल्लेबाज 23 जनवरी से शुरु हो रहे रणजी के राउंड में खेलते हुए नजर आएंगे. चैंपियंस ट्रॉफी से पहले बल्लेबाजों को खोया हुआ फॉर्म हासिल करना है क्योंकि पिछली दो सीरीज में भारतीय टीम की हार की बड़ी वजह बल्लेबाजों का फेल होना रहा है .",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-01-14 10:07:54",
-            "pubDateTZ": "UTC",
-            "image_url": "https://images.news18.com/ibnkhabar/uploads/2025/01/batsman-2025-01-b9c6a542c968fdad9dc006b643478b5d-3x2.jpg",
-            "source_id": "hindinews18",
-            "source_priority": 4077,
-            "source_name": "News 18 Hindi",
-            "source_url": "https://hindi.news18.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/hindinews18.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "sports"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "832f2206f77f849c08b83de5847d2e1a",
-            "title": "Rajasthan High Court Grants Interim Bail To Asaram Bapu Till March 31 For Health Treatment",
-            "link": "https://news.abplive.com/news/india/asaram-bapu-granted-interim-bail-rajasthan-high-court-supreme-court-for-health-treatment-1744001",
-            "keywords": [
-                "india"
-            ],
-            "creator": [
-                "ABP News Bureau"
-            ],
-            "video_url": null,
-            "description": "The Rajasthan High Court, on Tuesday, granted interim bail to Asaram Bapu, a self-styled godman who is serving life imprisonment in a rape case. This comes a week after the Supreme Court granted him bail till March 31 in another rape case, observing that he suffered from various ailments and needed treatment.Soon after the top court granted him relief on medical grounds, Asaram's counsels moved a suspension of sentence plea in the high court.The order was issued by a bench comprising Justice Dinesh Mehta and Justice Vinit Kumar Mathur. Asaram has been granted bail by the high court, on the same condition given by the Apex Court, this includes that he is not allowed to meet his followers after he has been released.He was sentenced to life imprisonment in April 2018 for raping a minor at his Jodhpur ashram in 2013. Later in a separate case, a woman from Asaram's Gandhinagar ashram accused him of rape. On January 31, 2023, he was sentenced to life imprisonment in the case.The bench clarified that the relief was granted on humanitarian grounds and instructed adherence to the conditions imposed during the bail period. Asaram's medical status could be reassessed as the bail term nears its expiration.ALSO READ: Union Minister Piyush Goyal Launches National Turmeric Board In Telangana's NizamabadIn the top Court, Senior Advocate Devadatt Kamat, along with Advocates Rajesh Gulab Inamdar and Shashwat Anand, representing Asaram presented both on merits and medical grounds. They pointed out inconsistencies in the prosecution's case and contended that the conviction was based solely on the uncorroborated testimony of the prosecution.\"We argued that the plea was similar in nature to that filed in the Supreme Court and the grounds stand valid in this case as well,\" Asaram's counsel Nishant Bora said.He said the conditions for Asaram's interim bail are the same as those set by the apex court on January 7 except one.If Asaram has to travel outside of Jodhpur, he will have to bear the expenses of the three constables who are going to accompany him.Last year, in March, the Supreme Court dismissed Bapu's plea challenging the Rajasthan High Court's order regarding his conviction in another rape case.Subsequently, he approached the Rajasthan High Court, which permitted him to receive ayurvedic treatment at the 'Arogayadham Center' in Jodhpur under police custody in March 2024. He was then granted parole on December 18, last year, for 15 days, with an additional 2 days for travel to undergo treatment.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-01-14 10:07:50",
-            "pubDateTZ": "UTC",
-            "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2025/01/14/c1dc85f0a3c416b406a884641007a164173684030181519_original.jpg",
-            "source_id": "abplive",
-            "source_priority": 7754,
-            "source_name": "Abp News",
-            "source_url": "http://abplive.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/abplive.jpg",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "f45da19602e59998d13d0341ca9e9aae",
-            "title": "Chennai, Tamil Nadu Weather LATEST update: Met office issues HEAVY rain ALERT for THESE 5 districts",
-            "link": "https://newsable.asianetnews.com/gallery/india/chennai-tamil-nadu-weather-latest-update-met-office-issues-heavy-rain-alert-for-these-5-districts-atg-sq2ph0",
-            "keywords": null,
-            "creator": null,
-            "video_url": null,
-            "description": "As the Northeast Monsoon in Tamil Nadu reaches its final stage, several areas are experiencing light rain. Heavy rainfall is expected in a few places in Ramanathapuram, Tenkasi, Thoothukudi, Tirunelveli, and Kanyakumari districts Northeast Monsoon in its final stage As the Northeast Monsoon nears its end, several areas in Tamil Nadu are experiencing light rain. According to the Chennai Meteorological Center, a low-pressure area persists over the Southeast Arabian Sea and the adjoining equatorial Indian Ocean. Consequently, light to moderate rain with thunder and lightning is expected in a few places in Tamil Nadu, Puducherry, and Karaikal today (14-01-2025) Heavy Rain Alert Heavy rain is likely in a few places in Ramanathapuram, Tenkasi, Thoothukudi, Tirunelveli, and Kanyakumari districts. 15-01-2025: Light to moderate rain is likely in a few places in South Tamil Nadu, one or two places in North Tamil Nadu, Puducherry, and Karaikal. 16-01-2025 & 17-01-2025: Light to moderate rain is likely in one or two places in Tamil Nadu, Puducherry, and Karaikal Rainfall Status in Tamil Nadu Light to moderate rain with thunder and lightning is expected in a few places in coastal and South Tamil Nadu, one or two places in interior Tamil Nadu, Puducherry, and Karaikal on January 18, 19, and 20. Chennai Weather Forecast: Tomorrow (15-01-2025): Partly cloudy sky. Light/moderate rain is likely in some areas of the city. Maximum temperature around 30-31°C and minimum temperature around 24°C Fishermen Warning: Tamil Nadu Coastal Areas: 15-01-2025: Gale winds with speeds of 35-45 kmph, gusting to 55 kmph, are likely over the Kumari Sea and adjoining Mannar Gulf",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-01-14 10:07:48",
-            "pubDateTZ": "UTC",
-            "image_url": "https://static-gi.asianetnews.com/images/01jeywjcc53ezzsehbfj10f5ym/whatsapp-image-2024-12-13-at-07.40.59.jpeg",
-            "source_id": "newsable_asianetnews",
-            "source_priority": 7749,
-            "source_name": "Asianet Newsable",
-            "source_url": "https://newsable.asianetnews.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/newsable_asianetnews.jpg",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "62f2a20758b3daf65e58f20030dc5ac1",
-            "title": "गाजियाबाद में न्यूड वीडियो बनाने वाले 8 आरोपी अरेस्ट:डेटिंग ऐप पर फंसाकर बुलाते थे और फिर करते थे ब्लैकमेल, 70 हजार रुपए बरामद",
-            "link": "https://www.bhaskar.com/local/uttar-pradesh/ghaziabad/news/8-accused-arrested-for-making-nude-video-in-ghaziabad-134292547.html",
-            "keywords": null,
-            "creator": null,
-            "video_url": null,
-            "description": "गाजियाबाद पुलिस ने एक ऐसे गिरोह का भंडाफोड़ किया है जो डेटिंग ऐप के जरिए युवकों को फंसाकर ब्लैकमेलिंग करता था। पुलिस ने इस मामले में 8 आरोपियों को गिरफ्तार किया है। आरोपी GRINDR डेटिंग ऐप पर युवकों से दोस्ती कर उन्हें फ्लैट पर बुलाते थे। वहां पहुंचने पर उन्हें जबरन नग्न कर वीडियो बनाते और फिर वायरल करने की धमकी देकर पैसे वसूलते थे। एसीपी कवि नगर अभिषेक श्रीवास्तव के अनुसार, थाना मधुबन बापूधाम क्षेत्र में दो पीड़ितों की शिकायत के आधार पर कार्रवाई की गई है। गिरफ्तार आरोपियों में कपिल वर्मा, संदीप, नितिन चौहान, दीपक वर्मा, अरुण, अभिषेक बालियान, अभिषेक चौधरी और अर्जुन शर्मा शामिल हैं। पूछताछ में सामने आया कि आरोपी पहले युवकों को सेक्शुअल एक्टिविटी का झांसा देते थे। फिर उन्हें बंधक बनाकर जान से मारने की धमकी देते और वीडियो वायरल करने का डर दिखाकर पैसे ऐंठते थे। पुलिस के मुताबिक, गिरोह ने अब तक दो युवकों से करीब 2 लाख रुपए की वसूली की है। आरोपियों के पास से 9 मोबाइल फोन और 70 हजार रुपए नकद बरामद किए गए हैं। पुलिस अन्य पीड़ितों की तलाश में जुटी है, क्योंकि आशंका है कि गिरोह ने कई और युवकों को अपना शिकार बनाया होगा।",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-01-14 10:07:44",
-            "pubDateTZ": "UTC",
-            "image_url": "https://images.bhaskarassets.com/thumb/1000x1000/web2images/521/2025/01/14/0f412b96-ae11-4cfc-bd87-df62064a3f2c_1736848002786.jpg",
-            "source_id": "bhaskar_hindi",
-            "source_priority": 34179,
-            "source_name": "Bhaskar",
-            "source_url": "https://www.bhaskar.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/bhaskar_hindi.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top",
-                "domestic"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "82e7e8fea1dde85fd4e1ddb4a0b4e186",
-            "title": "Personalised prevention can ease UK NHS pressures: Report - Daijiworld.com",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9pTlo1NjRINHBZNW9wY0JqVjdNNU4zcE5mWkdZbm1RN2poOGxqdTFOZGNLV1ppQ01aTEVqY2ZMWGNyTTItZFkzSjd2OElLZ21pVVBPLUE2eXFlVkkyaV9qdGxmd1kzMzRWaHc?oc=5",
-            "keywords": null,
-            "creator": null,
-            "video_url": null,
-            "description": "Personalised prevention can ease UK NHS pressures: Report Daijiworld.com",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-01-14 10:07:41",
-            "pubDateTZ": "UTC",
-            "image_url": null,
-            "source_id": "google",
-            "source_priority": 14,
-            "source_name": "Google News",
-            "source_url": "https://news.google.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/google.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "health"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "77638fbbefd2af4d6ecffbdf859baa37",
-            "title": "IIT Delhi - Abu Dhabi Opens Admissions For Second Undergraduate Batch",
-            "link": "https://www.freepressjournal.in/education/iit-delhi-abu-dhabi-opens-admissions-for-second-undergraduate-batch",
-            "keywords": [
-                "education",
-                "fpj shorts",
-                "topnews"
-            ],
-            "creator": null,
-            "video_url": null,
-            "description": null,
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-01-14 10:07:41",
-            "pubDateTZ": "UTC",
-            "image_url": "https://media.assettype.com/freepressjournal/2024-05/ee7dbc80-96ed-4ae2-969d-bba0fae35490/temporary_campus.webp",
-            "source_id": "freepressjournal",
-            "source_priority": 26427,
-            "source_name": "The Free Press Journal",
-            "source_url": "https://www.freepressjournal.in",
-            "source_icon": "https://i.bytvi.com/domain_icons/freepressjournal.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "c94aea82c02ab39a70d9bc6fcf609c4c",
-            "title": "Scam alert! How Pakistani fraudster with police officer's photo tried to fool Indian man on WhatsApp call | Viral video",
-            "link": "https://www.livemint.com/news/trends/scam-alert-how-pakistani-fraudster-with-police-officers-photo-tried-to-fool-indian-man-on-whatsapp-call-viral-video-11736844519648.html",
-            "keywords": null,
-            "creator": null,
-            "video_url": null,
-            "description": "A caller from Pakistan impersonating a police officer tried to fool an Indian man by claiming that the child was arrested. However, aware of such tactics by fraudsters, the man outsmart the caller.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-01-14 10:07:39",
-            "pubDateTZ": "UTC",
-            "image_url": "https://www.livemint.com/lm-img/img/2025/01/14/1600x900/fraud_1714009330901_1736848785541.jpg",
-            "source_id": "livemint",
-            "source_priority": 7134,
-            "source_name": "Mint",
-            "source_url": "https://www.livemint.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/livemint.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "198356297aa60af865195fdfa8afb9e3",
-            "title": "Meet man, who once worked at Mukesh Ambani's company, has now joined...",
-            "link": "https://www.dnaindia.com/business/report-meet-man-mansingh-jhajhria-who-oncae-worked-at-mukesh-ambani-reliance-jio-now-joined-trucksup-as-coo-3126966",
-            "keywords": [
-                "business"
-            ],
-            "creator": [
-                "Prashant Tamta"
-            ],
-            "video_url": null,
-            "description": "He has more than two decades of experience in the logistics, supply chain and business development sectors delivering strong business achievement.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-01-14 10:07:31",
-            "pubDateTZ": "UTC",
-            "image_url": "https://cdn.dnaindia.com/sites/default/files/styles/third/public/2025/01/14/2671459-man-singh.jpg",
-            "source_id": "dnaindia",
-            "source_priority": 18388,
-            "source_name": "Dna",
-            "source_url": "https://www.dnaindia.com",
-            "source_icon": null,
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "business"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "74b67768768f36408927f068df2447fb",
-            "title": "Two-wheelers power India’s 12% rise in auto dispatches, record 25.49 million sales: SIAM",
-            "link": "https://www.cnbctv18.com/auto/two-wheelers-power-indias-12-rise-in-auto-dispatches-record-25-49-million-sales-siam-19539845.htm",
-            "keywords": [
-                "auto"
-            ],
-            "creator": [
-                "CNBCTV18"
-            ],
-            "video_url": null,
-            "description": "Shailesh Chandra, President of SIAM, noted that 2024 was a promising year for the auto sector and said, \"Positive consumer sentiments and the country's macroeconomic stability helped in propelling reasonable growth for the sector across vehicle segments.\"",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-01-14 10:07:30",
-            "pubDateTZ": "UTC",
-            "image_url": "https://images.cnbctv18.com/uploads/2025/01/shutterstock-2571331441-2025-01-e6c8659cb3c1aa57c611717b9175d48d.jpg",
-            "source_id": "cnbctv18",
-            "source_priority": 17950,
-            "source_name": "Cnbctv18",
-            "source_url": "https://www.cnbctv18.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/cnbctv18.jpg",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "technology"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "3e3e6c91faa67a8f21c7c52f666fd926",
-            "title": "'Thandel,' 'OG,' 'Jack': Netflix unveils 2025 lineup of Telugu films",
-            "link": "https://www.newsbytesapp.com/news/entertainment/netflix-unveils-2025-lineup-of-telugu-films-full-list-here/story",
-            "keywords": null,
-            "creator": [
-                "Tanvi Gupta"
-            ],
-            "video_url": null,
-            "description": "Netflix has unveiled its 2025 slate of Telugu films under the banner \"Netflix Pandaga.\"",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-01-14 10:07:28",
-            "pubDateTZ": "UTC",
-            "image_url": "https://i.cdn.newsbytesapp.com/images/l39720250114143946.jpeg",
-            "source_id": "newsbytesapp",
-            "source_priority": 309848,
-            "source_name": "Newsbytes",
-            "source_url": "https://www.newsbytesapp.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/newsbytesapp.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "95f47e37cab40df962eab7b885acbae7",
-            "title": "Tips to enhance memory and focus with sage oil",
-            "link": "https://www.newsbytesapp.com/news/lifestyle/enhancing-memory-and-focus-with-sage-oil/story",
-            "keywords": null,
-            "creator": [
-                "Simran Jeet"
-            ],
-            "video_url": null,
-            "description": "Sage oil, extracted from the medicinal sage plant, has long been acknowledged for its positive effects on memory and focus.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-01-14 10:07:28",
-            "pubDateTZ": "UTC",
-            "image_url": "https://i.cdn.newsbytesapp.com/images/l50320250114150132.jpeg",
-            "source_id": "newsbytesapp",
-            "source_priority": 309848,
-            "source_name": "Newsbytes",
-            "source_url": "https://www.newsbytesapp.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/newsbytesapp.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "f878775472feb685dfd107e825492489",
-            "title": "The benefits of using castor oil for healthier eyelashes",
-            "link": "https://www.newsbytesapp.com/news/lifestyle/enhancing-natural-mascara-with-castor-oil/story",
-            "keywords": null,
-            "creator": [
-                "Simran Jeet"
-            ],
-            "video_url": null,
-            "description": "Castor oil, a natural vegetable oil derived from the castor bean, has long been hailed as a health and beauty powerhouse.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-01-14 10:07:28",
-            "pubDateTZ": "UTC",
-            "image_url": "https://i.cdn.newsbytesapp.com/images/l83120250114150423.jpeg",
-            "source_id": "newsbytesapp",
-            "source_priority": 309848,
-            "source_name": "Newsbytes",
-            "source_url": "https://www.newsbytesapp.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/newsbytesapp.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "288cd9c3ec4551fd7d31d9f5c94d2567",
-            "title": "Key teachings from the book 'Zorba the Greek'",
-            "link": "https://www.newsbytesapp.com/news/lifestyle/cultivating-enthusiasm-with-zorba-the-greek/story",
-            "keywords": null,
-            "creator": [
-                "Anujj Trehaan"
-            ],
-            "video_url": null,
-            "description": "Zorba the Greek by Nikos Kazantzakis is a novel that encapsulates the art of living life passionately and enthusiastically.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-01-14 10:07:28",
-            "pubDateTZ": "UTC",
-            "image_url": "https://i.cdn.newsbytesapp.com/images/l58320250114150441.jpeg",
-            "source_id": "newsbytesapp",
-            "source_priority": 309848,
-            "source_name": "Newsbytes",
-            "source_url": "https://www.newsbytesapp.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/newsbytesapp.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "cc9eabbf13a4073e6e65156eed82e9b3",
-            "title": "Add mimosa oil to your laundry for natural floral aroma",
-            "link": "https://www.newsbytesapp.com/news/lifestyle/elevating-laundry-fragrance-with-mimosa-oil/story",
-            "keywords": null,
-            "creator": [
-                "Simran Jeet"
-            ],
-            "video_url": null,
-            "description": "Mimosa oil, extracted from the delicate blossoms of the mimosa tree, holds a captivating sweet, floral aroma.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-01-14 10:07:28",
-            "pubDateTZ": "UTC",
-            "image_url": "https://i.cdn.newsbytesapp.com/images/l81120250114150630.jpeg",
-            "source_id": "newsbytesapp",
-            "source_priority": 309848,
-            "source_name": "Newsbytes",
-            "source_url": "https://www.newsbytesapp.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/newsbytesapp.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "83a3e14ce6094b1a4a4f853f054e0fd7",
-            "title": "Zomato may become a Nifty 50 share this March",
-            "link": "https://www.newsbytesapp.com/news/business/zomato-may-join-nifty-50-by-march-predicts-jm-financial/story",
-            "keywords": null,
-            "creator": [
-                "Dwaipayan Roy"
-            ],
-            "video_url": null,
-            "description": "Brokerage firm JM Financial has projected that food delivery giant Zomato could be included in the Nifty 50 index, after its bi-annual revision in February.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-01-14 10:07:28",
-            "pubDateTZ": "UTC",
-            "image_url": "https://i.cdn.newsbytesapp.com/images/l65820250114144518.jpeg",
-            "source_id": "newsbytesapp",
-            "source_priority": 309848,
-            "source_name": "Newsbytes",
-            "source_url": "https://www.newsbytesapp.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/newsbytesapp.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "d2ad76adb45215fbc8cd1881fd0464aa",
-            "title": "Etiquette to follow when attending planetarium shows",
-            "link": "https://www.newsbytesapp.com/news/lifestyle/etiquette-for-visiting-planetarium-shows/story",
-            "keywords": null,
-            "creator": [
-                "Anujj Trehaan"
-            ],
-            "video_url": null,
-            "description": "Visiting a planetarium is a magical experience that transports you to the infinite realm of the universe.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-01-14 10:07:28",
-            "pubDateTZ": "UTC",
-            "image_url": "https://i.cdn.newsbytesapp.com/images/l16620250114150817.jpeg",
-            "source_id": "newsbytesapp",
-            "source_priority": 309848,
-            "source_name": "Newsbytes",
-            "source_url": "https://www.newsbytesapp.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/newsbytesapp.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "195f8928f11767005bb17f65edb28f12",
-            "title": "'Bigg Boss 18' finale: Top finalists, prize money, OTT details",
-            "link": "https://www.newsbytesapp.com/news/entertainment/bigg-boss-18-grand-finale-finalists-when-where-to-watch/story",
-            "keywords": null,
-            "creator": [
-                "Shreya Mukherjee"
-            ],
-            "video_url": null,
-            "description": "The grand finale of Bigg Boss 18 will air on Sunday (January 19). The contestants remaining in the race for the winner's trophy are Vivian Dsena, Karanveer Mehra, Shilpa Shirodkar, Chum Darang, Avinash Mishra, Rajat Dalal, and Eisha Singh.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-01-14 10:07:28",
-            "pubDateTZ": "UTC",
-            "image_url": "https://i.cdn.newsbytesapp.com/images/l93320250114150921.jpeg",
-            "source_id": "newsbytesapp",
-            "source_priority": 309848,
-            "source_name": "Newsbytes",
-            "source_url": "https://www.newsbytesapp.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/newsbytesapp.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "945ebed86956cec611de01d76be35ea5",
-            "title": "JPMorgan Chase ends remote work, employees consider unionizing",
-            "link": "https://www.newsbytesapp.com/news/business/jpmorgan-chase-employees-are-planning-to-unionize/story",
-            "keywords": null,
-            "creator": [
-                "Dwaipayan Roy"
-            ],
-            "video_url": null,
-            "description": "JPMorgan Chase has announced that from March onward, all its employees will be required to work in-office five days a week.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-01-14 10:07:28",
-            "pubDateTZ": "UTC",
-            "image_url": "https://i.cdn.newsbytesapp.com/images/l9120250114145510.jpeg",
-            "source_id": "newsbytesapp",
-            "source_priority": 309848,
-            "source_name": "Newsbytes",
-            "source_url": "https://www.newsbytesapp.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/newsbytesapp.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
         }
     ]
 }
