@@ -1,6 +1,675 @@
 {
     "articles": [
         {
+            "article_id": "bff7664e3c6bb30205c087d42afa69fb",
+            "title": "Saif Ali Khan attack case: Police take accused to actor's residence to recreate crime scene",
+            "link": "https://www.thestatesman.com/entertainment/bollywood/saif-ali-khan-attack-case-police-take-accused-to-actors-residence-to-recreate-crime-scene-1503388899.html",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-01-21 05:07:58",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.thestatesman.com/wp-content/uploads/2025/01/Saif-Ali-Khan-Saif-Ali-Khan-films-Bollywood-Saif-Ali-Khan-attack-saif-ali-khan-stabbing-jpg.webp",
+            "source_id": "thestatesman",
+            "source_priority": 42473,
+            "source_name": "The Statesman",
+            "source_url": "https://www.thestatesman.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/thestatesman.jpg",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "88cf62aa91d81b2e36cc77c23ed8dbb4",
+            "title": "Stock market update: Stocks that hit 52-week lows on NSE",
+            "link": "https://economictimes.indiatimes.com/markets/stocks/stock-watch/stock-market-update-stocks-that-hit-52-week-lows-on-nse/articleshow/117415384.cms",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "Trent, Adani Ent., Adani Ports SEZ, RIL and NTPC were among the top losers on NSE.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-01-21 05:07:58",
+            "pubDateTZ": "UTC",
+            "image_url": "https://img.etimg.com/thumb/msid-83608600,width-1200,height-630,imgsize-23742,overlay-etmarkets/articleshow.jpg",
+            "source_id": "economictimes_indiatimes",
+            "source_priority": 231,
+            "source_name": "The Economic Times",
+            "source_url": "https://economictimes.indiatimes.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/economictimes_indiatimes.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "business"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "fb8ffe25b251719611f8b20b685e3c08",
+            "title": "फिल्म हिट होने के बाद अहंकार और शराब के नशे में डूब गया था 'सत्या' का डायरेक्टर, कहा- 'मैंने उन लोगों के साथ विश्वासघात किया...'",
+            "link": "https://ndtv.in/bollywood/ram-gopal-varma-said-success-got-to-my-head-after-satya-became-hit-said-i-betrayed-those-people-who-helped-me-7522411",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "निर्देशक राम गोपाल वर्मा की फिल्म 'सत्या' हाल ही में सिनेमाघरों में फिर से रिलीज हुई. निर्देशक ने सोशल मीडिया पर एक भावुक नोट साझा किया और बताया कि वह शराब के नशे में नहीं, बल्कि अपनी सफलता और अहंकार के नशे में थे.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-01-21 05:07:55",
+            "pubDateTZ": "UTC",
+            "image_url": "https://c.ndtvimg.com/2025-01/v9etmau8_ram-gopal-varma_625x300_21_January_25.jpeg?im=FitAndFill%2Calgorithm%3Ddnn%2Cwidth%3D1200%2Cheight%3D738",
+            "source_id": "ndtv_in",
+            "source_priority": 129751,
+            "source_name": "Ndtv",
+            "source_url": "https://www.ndtv.in",
+            "source_icon": "https://i.bytvi.com/domain_icons/ndtv_in.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "entertainment"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "6160c7bfbfe8f9b832c929b982325a29",
+            "title": "ऐश्वर्या राय को छोड़ आमिर खान ने पकड़ा जिसका हाथ, साबित हुई ‘मनहूस’",
+            "link": "https://hindi.news18.com/photogallery/entertainment/bollywood-aishwarya-rai-was-first-choice-opposite-aamir-khan-in-film-mela-with-brother-faisal-khan-later-replaced-by-flop-actress-proved-disaster-8974445.html",
+            "keywords": [
+                "बॉलीवुड"
+            ],
+            "creator": [
+                "News18 Hindi"
+            ],
+            "video_url": null,
+            "description": "मॉडलिंग की दुनिया में अपना जलवा बिखेरने के बाद जब ऐश्वर्या राय ने फिल्मों में कदम रखा, तो डेब्यू करते ही उनके पास फिल्मों के ऑफर्स की लाइन लग गई. बॉलीवुड के कई दिग्गज फिल्ममेकर्स ऐश्वर्या संग फिल्में बनाना चाहते थे, लेकिन उन दिनों वो मिस वर्ल्ड के कामकाज में बिजी थीं जिसके चलते वो ‘राजा हिंदुस्तानी’ जैसी ब्लॉकबस्टर फिल्म का हिस्सा बनने से चूक गईं.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-01-21 05:07:54",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.news18.com/ibnkhabar/uploads/2025/01/aishwarya-rai-2025-01-0bf0313550a2fd711625263985d40860-3x2.jpg",
+            "source_id": "hindinews18",
+            "source_priority": 4077,
+            "source_name": "News 18 Hindi",
+            "source_url": "https://hindi.news18.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/hindinews18.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "entertainment"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "24a57db9d6396816be4ca7fcb75380e7",
+            "title": "चंबल पुल की रेलिंग तोड़ लटका डंपर:ड्राइवर ने कूदकर बचाई जान, गिट्टी भरकर ले जा रहा था ट्रक",
+            "link": "https://www.bhaskar.com/local/mp/bhind/news/a-major-accident-was-averted-on-the-chambal-bridge-134330970.html",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "भिंड के फूप थाना क्षेत्र के बरही के पास चंबल पुल पर मंगलवार सुबह बड़ा हादसा टल गया। एक 22 चक्का डंपर पुल की रेलिंग तोड़कर नदी में लटक गया, लेकिन ड्राइवर सुरक्षित बच गया। यह घटना सुबह करीब 5:15 बजे की है। काली गिट्टी से लदा डंपर तेज गति से भिंड से इटावा की ओर जा रहा था। तेज रफ्तार में था डंपरप्रत्यक्षदर्शियों के अनुसार, पुल पार करते समय ड्राइवर ने वाहन से नियंत्रण खो दिया। डंपर ने रेलिंग तोड़ते हुए आगे का हिस्सा नदी की ओर लटक गया। भारी लोड के कारण पीछे का हिस्सा पुल पर ही रुका रहा, जिससे वाहन के पूरी तरह नदी में गिरने से बचा। घटना के बाद वहां मौजूद लोगों ने इसे अपने मोबाइल में रिकॉर्ड कर लिया और तुरंत पुलिस को सूचना दी। भिंड जिले की फूप थाना पुलिस और इटावा जिले की उदी थाना पुलिस मौके पर पहुंची। दोनों थानों की पुलिस ने अपनी-अपनी सीमा में जांच शुरू कर दी है। इस दुर्घटना में कोई हताहत नहीं हुआ। चालक के सुरक्षित बाहर निकलने से बड़ी दुर्घटना टल गई। पुलिस मामले की जांच के साथ-साथ पुल की सुरक्षा व्यवस्था की भी समीक्षा कर रही है।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-01-21 05:07:49",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.bhaskarassets.com/thumb/1000x1000/web2images/521/2025/01/21/screenshot2025-01-21-09-09-57-706012fa4d4ddec268fc_1737431517.jpg",
+            "source_id": "bhaskar_hindi",
+            "source_priority": 34179,
+            "source_name": "Bhaskar",
+            "source_url": "https://www.bhaskar.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/bhaskar_hindi.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "domestic",
+                "other"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "41d235c899e01366a0c9b32b2b4622a4",
+            "title": "Swiggy shares fall over 9% as Zomato numbers spoil near-term outlook",
+            "link": "https://economictimes.indiatimes.com/markets/stocks/news/swiggy-shares-fall-7-as-zomato-numbers-spoil-near-term-outlook/articleshow/117415379.cms",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "Swiggy share price: In Q3, Blinkit's GOV grew by 27.2% QoQ, maintaining a strong growth trajectory. However, profitability faced pressure, as EBITDAM dropped to -1.3% from -0.1% in Q2FY25, primarily due to accelerated store openings and increased competitive intensity, which led to higher customer acquisition costs.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-01-21 05:07:42",
+            "pubDateTZ": "UTC",
+            "image_url": "https://img.etimg.com/thumb/msid-117415365,width-1200,height-630,imgsize-10950,overlay-etmarkets/articleshow.jpg",
+            "source_id": "economictimes_indiatimes",
+            "source_priority": 231,
+            "source_name": "The Economic Times",
+            "source_url": "https://economictimes.indiatimes.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/economictimes_indiatimes.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "business"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "9ecee75c6b5eb928ca48bf7620376606",
+            "title": "'Extremely Critical' Risk As Winds Whip Fire-Weary Los Angeles",
+            "link": "https://www.ndtv.com/world-news/extremely-critical-risk-as-winds-whip-fire-weary-los-angeles-7522409",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "Fire-weary southern California was buffeted by dangerous winds, with forecasters warning of an \"extremely critical\" risk in a region already staggering from the devastation of horrifying blazes.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-01-21 05:07:40",
+            "pubDateTZ": "UTC",
+            "image_url": "https://c.ndtvimg.com/2025-01/6o3a3ul_california-wildfires_625x300_21_January_25.jpeg?downsize=773%3A435",
+            "source_id": "ndtv",
+            "source_priority": 1204,
+            "source_name": "Ndtv",
+            "source_url": "http://www.ndtv.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/ndtv.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": true
+        },
+        {
+            "article_id": "38bce9217c558160ee5b616f4acbb4b0",
+            "title": "Markets open flat as Trump’s second term begins; Healthcare, Cement stocks lead gains",
+            "link": "https://www.thehindubusinessline.com/markets/markets-open-flat-as-trumps-second-term-begins-healthcare-cement-stocks-lead-gains/article69122273.ece",
+            "keywords": [
+                "markets"
+            ],
+            "creator": null,
+            "video_url": null,
+            "description": "Sensex opened higher at 77,261.72 and is currently trading at 76,929.21, down by 144.23 points or 0.19%; Nifty opened at 23,421.65 and is now at 23,331.95, slipping 12.80 points or 0.05%",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-01-21 05:07:39",
+            "pubDateTZ": "UTC",
+            "image_url": "https://bl-i.thgim.com/public/incoming/kmkasn/article69122175.ece/alternates/LANDSCAPE_1200/IMG_Businessman_investor_2_1_USD136N3.jpg",
+            "source_id": "thehindubusinessline",
+            "source_priority": 33540,
+            "source_name": "The Hindu - Business Line",
+            "source_url": "https://www.thehindubusinessline.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/thehindubusinessline.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "business"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "b498a918837e0622e7ce9125a5bae425",
+            "title": "Saif Ali Khan to be discharged from Lilavati Hospital later today: Reports",
+            "link": "https://www.moneycontrol.com/entertainment/saif-ali-khan-to-be-discharged-from-lilavati-hospital-later-today-reports-article-12915404.html",
+            "keywords": [
+                "saif ali khan stabbed, saif ali khan attack, saif ali khan hospital discharge, saif ali khan lilavati hospital, when is saif ali khan getting discharge from hospital"
+            ],
+            "creator": [
+                "Moneycontrol"
+            ],
+            "video_url": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-01-21 05:07:39",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.moneycontrol.com/static-mcnews/2025/01/20250121050335_Saif-Ali-Khan-to-discharge-from-Lilavati-Hospital.jpg",
+            "source_id": "moneycontrol",
+            "source_priority": 1064,
+            "source_name": "Moneycontrol",
+            "source_url": "https://www.moneycontrol.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/moneycontrol.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top",
+                "business",
+                "world",
+                "politics"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "1b36d9ec6af97b586fed5b7370a08c64",
+            "title": "Hyundai Creta Flex Fuel Version launched At Bharat Mobility Expo, Expected Launch And Specs Revealed",
+            "link": "https://news24online.com/auto/hyundai-creta-flex-fuel-version-launched-at-bharat-mobility-expo-expected-launch-and-specs-revealed/448147/",
+            "keywords": [
+                "hyundai creta electric",
+                "hyundai",
+                "auto",
+                "bharat mobility expo"
+            ],
+            "creator": [
+                "Shriyansh Garg"
+            ],
+            "video_url": null,
+            "description": "While the car is visually similar to that of the normal Creta, The flex fuel version at the 2025 auto expo has various changes under the hood- Details BelowThe post Hyundai Creta Flex Fuel Version launched At Bharat Mobility Expo, Expected Launch And Specs Revealed appeared first on News24.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-01-21 05:07:31",
+            "pubDateTZ": "UTC",
+            "image_url": "https://news24online.com/wp-content/uploads/2025/01/Creta-Flex-Fuel.png",
+            "source_id": "news24online",
+            "source_priority": 549589,
+            "source_name": "News 24",
+            "source_url": "https://news24online.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/news24online.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "1e83a9882c8fbfaed944cd5f30332f4b",
+            "title": "'Were Our Protests...': Kolkata Fumes At 'Lenient' Sentence For RG Kar Rapist, Wants Death Penalty",
+            "link": "https://www.news18.com/india/were-our-protests-kolkata-fumes-at-lenient-sentence-for-rg-kar-rapist-wants-death-penalty-9196109.html",
+            "keywords": [
+                "india"
+            ],
+            "creator": [
+                "News18"
+            ],
+            "video_url": null,
+            "description": "The anger over the judgment was palpable on the roads as people from all walks of life questioned the rationale behind not treating the case as ‘rarest of rare’",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-01-21 05:07:24",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.news18.com/ibnlive/uploads/2024/09/untitled-design-43-2024-09-11ddf89d6be76c4962d49a206e2df471-3x2.jpg",
+            "source_id": "news18",
+            "source_priority": 3864,
+            "source_name": "News 18",
+            "source_url": "https://www.news18.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/news18.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "3d32483e460672960dc3d882bb07b2ac",
+            "title": "EAM Jaishankar attends inaugural celebrations as Trump becomes 47th US President",
+            "link": "https://economictimes.indiatimes.com/news/international/global-trends/eam-jaishankar-attends-inaugural-celebrations-as-trump-becomes-47th-us-president/articleshow/117415375.cms",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "External Affairs Minister S Jaishankar attended Donald Trump's swearing-in as the 47th President of the US in Washington, DC. During the event, he met key administration members, including Speaker Mike Johnson and Senate Majority Leader John Thune. Jaishankar also met Argentina's President Javier Milei and conveyed greetings from PM Narendra Modi.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-01-21 05:07:22",
+            "pubDateTZ": "UTC",
+            "image_url": "https://img.etimg.com/thumb/msid-117415446,width-1200,height-630,imgsize-27918,overlay-economictimes/articleshow.jpg",
+            "source_id": "economictimes_indiatimes",
+            "source_priority": 231,
+            "source_name": "The Economic Times",
+            "source_url": "https://economictimes.indiatimes.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/economictimes_indiatimes.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "7ef32a4f4e83940a10928065302bddf2",
+            "title": "Vantara to Offer Chain-Free Haven for 20 Elephants Rescued from Exploitative Logging Industry",
+            "link": "https://www.republicworld.com/india/vantara-to-offer-chain-free-haven-for-20-elephants-rescued-from-exploitative-logging-industry",
+            "keywords": [
+                "india"
+            ],
+            "creator": [
+                "editor@republicworld.com (Digital Desk)"
+            ],
+            "video_url": null,
+            "description": "Vantara to Offer Chain-Free Haven for 20 Elephants Rescued from Exploitative Logging Industry",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-01-21 05:07:21",
+            "pubDateTZ": "UTC",
+            "image_url": "http://img.republicworld.com/all_images/vantara-to-offer-chain-free-haven-for-20-elephants-rescued-from-exploitative-logging-industry-1737436033924-16_9.webp",
+            "source_id": "republicworld",
+            "source_priority": 17361,
+            "source_name": "Republic World",
+            "source_url": "https://www.republicworld.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/republicworld.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": true
+        },
+        {
+            "article_id": "9f684b7ea37d0e8a81839137fbf727e2",
+            "title": "Maharashtra CM Fadnavis orders to make forts encroachment-free by May 31",
+            "link": "https://www.business-standard.com/india-news/maharashtra-cm-fadnavis-orders-to-make-forts-encroachment-free-by-may-31-125012100228_1.html",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "Maharashtra Chief Minister Devendra Fadnavis has ordered a crackdown on encroachments at forts across the state, aiming to remove illegal structures by May 31, an official said on Tuesday.The district collectors have been asked to prepare fort-wise lists of encroachments by January 31, the official said.The chief minister has said that to ensure a systematic approach, district-level committees under the chairmanship of collectors will be formed, and these will oversee the phased removal of encroachments from February 1 to May 31.He said the government will also set up vigilance committees to prevent future encroachments.\"Public demand for decisive action had been growing, and the government has responded accordingly,\" Fadnavis said.Maharashtra is home to 47 forts that are centrally protected, 62 state-protected, and approximately 300 unprotected forts. The initiative aims to preserve the historical and aesthetic significance of these cultural landmarks.On Monday, the state",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-01-21 05:07:19",
+            "pubDateTZ": "UTC",
+            "image_url": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1250121/thumb-125012100228.jpg",
+            "source_id": "business-standard",
+            "source_priority": 9158,
+            "source_name": "Business Standard",
+            "source_url": "https://www.business-standard.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/business-standard.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "8965adbf1b1b0ab356ad96a707765fa8",
+            "title": "वजन घटाने के लिए स्विमिंग कितना कारगर? 1 घंटे तैरने पर कितनी कैलोरी होगी बर्न?",
+            "link": "https://hindi.news18.com/news/lifestyle/health-weight-loss-tips-how-effect-is-swimming-how-many-calories-burn-after-swim-for-1-hour-know-5-benefits-from-experts-preeti-pandey-8974475.html",
+            "keywords": [
+                "हेल्थ &amp; फिटनेस"
+            ],
+            "creator": [
+                "News18 Hindi"
+            ],
+            "video_url": null,
+            "description": "Health Benefits of Swimming: वजन घटाने के लिए यदि आपको कार्डियो एक्सरसाइज बोरिंग लगती है तो आप स्विमिंग कर सकते हैं. एक्सपर्ट के मुताबिक, 30 मिनट की स्विमिंग 45 मिनट की नॉर्मल कार्डियो के बराबर असर करती है. इससे कार्डियोवस्कुलर सिस्टम स्ट्रॉन्ग होता है. साथ ही, हार्ट संबंधी कई प्रॉब्लम्स का खतरा भी कम होगा.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-01-21 05:07:19",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.news18.com/ibnkhabar/uploads/2025/01/weight-6-2025-01-7ca26af34192a38e5c7294fbd0851606-3x2.jpg",
+            "source_id": "hindinews18",
+            "source_priority": 4077,
+            "source_name": "News 18 Hindi",
+            "source_url": "https://hindi.news18.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/hindinews18.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "health"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "fcddd39408824c174f6449203492810a",
+            "title": "कौन है पाकिस्तानी करोड़पति, जिसने राजस्थान में की बेटी की शादी, बयां किया दर्द",
+            "link": "https://hindi.asianetnews.com/state/rajasthan/pakistani-businessman-ganpat-singh-sodha-daughter-got-married-in-rajasthan/articleshow-nff68wa",
+            "keywords": [
+                "rajasthan"
+            ],
+            "creator": [
+                "Arvind Raghuwanshi"
+            ],
+            "video_url": null,
+            "description": "पाकिस्तानी प्रॉपर्टी डीलर गणपत सिंह सोढ़ा ने अपनी बेटी की शादी राजस्थान में की। सुरक्षा कारणों से भारत को चुना, नागरिकता की मांग कर रहे हैं।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-01-21 05:07:18",
+            "pubDateTZ": "UTC",
+            "image_url": "https://static-gi.asianetnews.com/images/01jj3kc3r9e3mvbsdsq5nd4rke/Rajasthan-News-1737435254536.jpg",
+            "source_id": "hindi_asianetnews",
+            "source_priority": 7805,
+            "source_name": "Asianet News Hindi",
+            "source_url": "https://hindi.asianetnews.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/hindi_asianetnews.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "628405bd8976e961eec1502315172f18",
+            "title": "पति-पत्नी हैं एक दूसरे की जान के दुश्मन तो करें इस रुद्राक्ष की पूजा",
+            "link": "https://hindi.asianetnews.com/religious-news/spiritual/2-mukhi-rudraksha-remedies-mantra-benefits-and-how-to-wear-it-jyotish-upay/articleshow-hyxwkee",
+            "keywords": [
+                "spiritual"
+            ],
+            "creator": [
+                "Manish Meharele"
+            ],
+            "video_url": null,
+            "description": "रुद्राक्ष के बारे में हम सभी जानते हैं। भगवान शिव इसे आभूषण के रूप में पहनते हैं। शिवपुराण में इसकी उत्पत्ति से जुड़ी कथा, प्रकार व अन्य बातें बताई गई हैं। इसे पहनने से कईं फायदे हमारे जीवन में हो सकते हैं।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-01-21 05:07:15",
+            "pubDateTZ": "UTC",
+            "image_url": "https://static-gi.asianetnews.com/images/01jj3kj165f9jqeb3w889h8ray/2-mukhi-rudraksh-for-couple-fight-1737435448517.jpg",
+            "source_id": "hindi_asianetnews",
+            "source_priority": 7805,
+            "source_name": "Asianet News Hindi",
+            "source_url": "https://hindi.asianetnews.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/hindi_asianetnews.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "36c8cb3e645f0854da253593be2c175e",
+            "title": "Traffic Suspended on Bandipora_Gurez Road Due to Fresh Snowfall",
+            "link": "https://kashmirreader.com/2025/01/21/traffic-suspended-on-bandipora_gurez-road-due-to-fresh-snowfall/",
+            "keywords": [
+                "latest"
+            ],
+            "creator": [
+                "GOWHAR MAQBOOL"
+            ],
+            "video_url": null,
+            "description": "SRINAGAR: Fresh snowfall at Razdan Pass has led to the suspension of traffic on the Gurez-Bandipora road as a precautionary measure, according to the Sub-Divisional Magistrate (SDM) Gurez. The decision was taken to ensure the safety of travellers amid deteriorating weather conditions. Officials said that Razdan Pass witnessed fresh snow accumulation making the road [...]",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-01-21 05:07:14",
+            "pubDateTZ": "UTC",
+            "image_url": null,
+            "source_id": "kashmirreader",
+            "source_priority": 1088812,
+            "source_name": "Kashmir Reader",
+            "source_url": "https://kashmirreader.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/kashmirreader.jpg",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "7b4254bc2e26e567b12c2f2ff374f0ae",
+            "title": "Donald Trump's meme coin soars on his first day in office, lifts up other cryptocurrencies",
+            "link": "https://www.hindustantimes.com/world-news/us-news/donald-trumps-meme-coin-soars-on-his-first-day-in-office-lifts-up-other-cryptocurrencies-101737427299824.html",
+            "keywords": [
+                "business"
+            ],
+            "creator": null,
+            "video_url": null,
+            "description": "The optimism towards the crypto market due to Donald Trump's re-election also resulted in other cryptocurrencies soaring. Bitcoin for example, hit a record high",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-01-21 05:07:01",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.hindustantimes.com/ht-img/img/2025/01/21/1600x900/HK-TRUMP-INAUGURATION-CRYPTO-1_1737427610647_1737427638955.jpg",
+            "source_id": "hindustantimes",
+            "source_priority": 933,
+            "source_name": "Hindustan Times",
+            "source_url": "http://www.hindustantimes.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/hindustantimes.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "business"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "8e07133f20e8e9bd059242451977705d",
+            "title": "In RG Kar rape-murder verdict, Kolkata court slams police, hospital: ‘Tried to show death as suicide’",
+            "link": "https://www.hindustantimes.com/india-news/in-rg-kar-rape-murder-verdict-kolkata-court-slams-police-hospital-tried-to-show-death-as-suicide-101737429035824.html",
+            "keywords": [
+                "india-news"
+            ],
+            "creator": null,
+            "video_url": null,
+            "description": "Judge Anirban Das questioned why the FIR in the case was registered after 11:30 pm when the incident was reported on the morning of August 9 last year.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-01-21 05:07:00",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.hindustantimes.com/ht-img/img/2025/01/21/1600x900/RG-Kar-Verdict-14_1737429476119_1737429512221.jpg",
+            "source_id": "hindustantimes",
+            "source_priority": 933,
+            "source_name": "Hindustan Times",
+            "source_url": "http://www.hindustantimes.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/hindustantimes.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
             "article_id": "811c57209d320d7513f77b14151b8b86",
             "title": "Sompo Insurance (Thailand) partners with Collinson International to provide access to airport lounges and travel experiences in the case of flight disruptions",
             "link": "https://www.prnewswire.com/apac/news-releases/sompo-insurance-thailand-partners-with-collinson-international-to-provide-access-to-airport-lounges-and-travel-experiences-in-the-case-of-flight-disruptions-302355818.html",
@@ -23526,426 +24195,6 @@
             "source_name": "Latestly",
             "source_url": "https://www.latestly.com",
             "source_icon": "https://i.bytvi.com/domain_icons/latestly.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "4c12397bcb5184f2a0662d252712c9ec",
-            "title": "ऑटो चालक पिता की ख्वाहिश थी बड़ी, अफसर बन बिटिया ने की पूरी, सेल्फ स्टडी और कड़ी मेहनत से आयशा अंसारी बनीं डिप्टी कलेक्टर",
-            "link": "https://zeenews.india.com/hindi/career/education/story-from-self-study-and-hard-work-to-success-ayesha-ansari-crack-mppsc-with-12-rank-became-deputy-collector/2608494",
-            "keywords": null,
-            "creator": [
-                "Zee News Hindi"
-            ],
-            "video_url": null,
-            "description": "MPPSC Success Story: कुछ बड़ा और बेहतरीन करने की जिद और जज्बा हो, तो आपको मंजिल तक पहुंचने से कोई नहीं रोक सकता है. इस बात को साबित किया है आयशा अंसारी ने, उन्होंने सेल्फ स्टडी करके MPPSC में सफलता पाई है. पढ़िए उनकी सक्सेस स्टोरी...",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-01-19 17:08:18",
-            "pubDateTZ": "UTC",
-            "image_url": "https://hindi.cdn.zeenews.com/hindi/sites/default/files/2025/01/19/3608984-mppsc-2022-ayesha-ansari.jpg?im=FitAndFill%3D%281200%2C900%29",
-            "source_id": "zeenews",
-            "source_priority": 5319,
-            "source_name": "Zee News",
-            "source_url": "http://zeenews.india.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/zeenews.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "efd2771fd8b233f9feb04ce59d40eb72",
-            "title": "खेल की खबरें | एक बार फिर से जश्न मनाने के लिए चैंपियंस ट्रॉफी को वानखेड़े में लाना चाहता हूं: रोहित",
-            "link": "https://hindi.latestly.com/agency-news/want-to-bring-champions-trophy-to-wankhede-to-celebrate-once-again-rohitr-2463816.html",
-            "keywords": null,
-            "creator": null,
-            "video_url": null,
-            "description": "Get Latest हिन्दी समाचार, Breaking News on Sports at LatestLY हिन्दी. ... देवार्चित वर्मा ...",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-01-19 17:08:05",
-            "pubDateTZ": "UTC",
-            "image_url": "https://hist1.latestly.com/wp-content/uploads/2020/04/sports_default_img-380x214.jpg",
-            "source_id": "latestly",
-            "source_priority": 31923,
-            "source_name": "Latestly",
-            "source_url": "https://www.latestly.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/latestly.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "f3e31df12faaf54f8898be37fe291a8f",
-            "title": "Trump to revive TikTok, but wants 50 percent US ownership",
-            "link": "https://www.channelnewsasia.com/world/trump-revive-tiktok-wants-50-percent-us-ownership-4877311",
-            "keywords": [
-                "world ,business"
-            ],
-            "creator": null,
-            "video_url": null,
-            "description": null,
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-01-19 17:08:00",
-            "pubDateTZ": "UTC",
-            "image_url": "https://dam.mediacorp.sg/image/upload/s--440t9aAr--/fl_relative,g_south_east,l_one-cms:core:watermark:ap_data-1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/tiktok_ban_15710.jpg?itok=lDROvm3o",
-            "source_id": "channelnewsasia",
-            "source_priority": 4142,
-            "source_name": "Channel Newsasia",
-            "source_url": "https://www.channelnewsasia.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/channelnewsasia.jpg",
-            "language": "english",
-            "country": [
-                "singapore",
-                "georgia",
-                "yemen",
-                "afghanistan",
-                "cyprus",
-                "india",
-                "saudi arabia",
-                "maldives",
-                "japan",
-                "united arab emirates",
-                "malaysia",
-                "china",
-                "south korea",
-                "north korea",
-                "taiwan",
-                "thailand",
-                "pakistan",
-                "mongolia",
-                "brunei",
-                "lebanon",
-                "indonesia",
-                "kyrgyzstan",
-                "syria",
-                "israel",
-                "bhutan",
-                "iran",
-                "turkey",
-                "armenia",
-                "qatar",
-                "philippines",
-                "hong kong",
-                "kazakhstan",
-                "iraq",
-                "bangladesh",
-                "laos",
-                "vietnam",
-                "timor-leste",
-                "kuwait",
-                "myanmar",
-                "azerbaijan",
-                "jordan",
-                "nepal",
-                "oman",
-                "sri lanka",
-                "uzbekistan",
-                "turkmenistan",
-                "macau",
-                "bahrain",
-                "cambodia",
-                "tajikistan"
-            ],
-            "category": [
-                "business"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "2aec7facb146a7c1f9a62248c7c23823",
-            "title": "TikTok is restoring service, thanks Trump",
-            "link": "https://www.channelnewsasia.com/world/tiktok-restoring-service-thanks-trump-4877311",
-            "keywords": [
-                "world ,business"
-            ],
-            "creator": null,
-            "video_url": null,
-            "description": null,
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-01-19 17:08:00",
-            "pubDateTZ": "UTC",
-            "image_url": "https://dam.mediacorp.sg/image/upload/s--440t9aAr--/fl_relative,g_south_east,l_one-cms:core:watermark:ap_data-1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/tiktok_ban_15710.jpg?itok=lDROvm3o",
-            "source_id": "channelnewsasia",
-            "source_priority": 4142,
-            "source_name": "Channel Newsasia",
-            "source_url": "https://www.channelnewsasia.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/channelnewsasia.jpg",
-            "language": "english",
-            "country": [
-                "singapore",
-                "georgia",
-                "yemen",
-                "afghanistan",
-                "cyprus",
-                "india",
-                "saudi arabia",
-                "maldives",
-                "japan",
-                "united arab emirates",
-                "malaysia",
-                "china",
-                "south korea",
-                "north korea",
-                "taiwan",
-                "thailand",
-                "pakistan",
-                "mongolia",
-                "brunei",
-                "lebanon",
-                "indonesia",
-                "kyrgyzstan",
-                "syria",
-                "israel",
-                "bhutan",
-                "iran",
-                "turkey",
-                "armenia",
-                "qatar",
-                "philippines",
-                "hong kong",
-                "kazakhstan",
-                "iraq",
-                "bangladesh",
-                "laos",
-                "vietnam",
-                "timor-leste",
-                "kuwait",
-                "myanmar",
-                "azerbaijan",
-                "jordan",
-                "nepal",
-                "oman",
-                "sri lanka",
-                "uzbekistan",
-                "turkmenistan",
-                "macau",
-                "bahrain",
-                "cambodia",
-                "tajikistan"
-            ],
-            "category": [
-                "business"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": true
-        },
-        {
-            "article_id": "fc53219230de535f42a5cae632f8414d",
-            "title": "राजस्थान: एंबुलेंस का गेट लॉक हो गया, होने लगा हंगामा, भीलवाड़ा में जानें क्यों मचा बवाल",
-            "link": "https://navbharattimes.indiatimes.com/state/rajasthan/bhilwara/bhilwara-woman-dies-because-ambulance-gate-was-locked-rajasthan-latest-news/articleshow/117377336.cms",
-            "keywords": null,
-            "creator": null,
-            "video_url": null,
-            "description": "राजस्थान के भीलवाड़ा में एक महिला की एंबुलेंस के गेट लॉक होने के कारण मौत का मामला सामने आया है। परिजनों ने आरोप लगाया कि ऑक्सीजन सिलेंडर काम न करने और ड्राइवर के रास्ता भूलने से इलाज में देरी हुई जिससे महिला की जान गई।",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-01-19 17:07:57",
-            "pubDateTZ": "UTC",
-            "image_url": "https://static.langimg.com/photo/imgsize-1012243,msid-117377336/navbharat-times.jpg",
-            "source_id": "navbharattimes",
-            "source_priority": 244,
-            "source_name": "Nbt Navbharattimes",
-            "source_url": "https://navbharattimes.indiatimes.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/navbharattimes.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "c1ca812788931e3ac2ec551d985d0563",
-            "title": "Will Tyler Herro play tonight against the San Antonio Spurs? Latest update on the Miami Heat star's injury report (January 19, 2025)",
-            "link": "https://timesofindia.indiatimes.com/sports/nba/top-stories/will-tyler-herro-play-tonight-against-the-san-antonio-spurs-latest-update-on-the-miami-heat-stars-injury-report-january-19-2025/articleshow/117377090.cms",
-            "keywords": null,
-            "creator": null,
-            "video_url": null,
-            "description": "Tyler Herro’s uncertain status due to an elbow injury ahead of the Heat's January 19 game adds to Miami's injury woes. Herro’s impressive performance has been crucial for the team's offense. With the Heat in a tight playoff race, Herro’s potential absence places pressure on other players to step up against the Spurs.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-01-19 17:07:41",
-            "pubDateTZ": "UTC",
-            "image_url": "https://static.toiimg.com/thumb/msid-117377083,imgsize-45094,width-400,resizemode-4/117377083.jpg",
-            "source_id": "toi",
-            "source_priority": 239,
-            "source_name": "The Times Of India",
-            "source_url": "https://timesofindia.indiatimes.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/toi.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "3ea2f74d6c802335df7787a887d5ec9f",
-            "title": "Donald Trump To Delay TikTok Ban With Executive Order, Proposes 50% US Ownership In Joint Venture",
-            "link": "https://english.jagran.com/us/news/trump-to-delay-tiktok-ban-with-executive-order-proposes-50-us-ownership-in-joint-venture-10213508",
-            "keywords": null,
-            "creator": null,
-            "video_url": null,
-            "description": "Donald Trump,Donald Trump tik tok ban,us tik tok ban,donald trump to delay tik tok ban,donald trump order",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-01-19 17:07:35",
-            "pubDateTZ": "UTC",
-            "image_url": "https://imgeng.jagran.com/images/2025/01/19/article/image/US-Tik-Tok-1737306092156.webp",
-            "source_id": "english_jagran",
-            "source_priority": 10561,
-            "source_name": "Jagran English",
-            "source_url": "https://english.jagran.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/english_jagran.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "08d85ee95f99a5758b734126630a1d6f",
-            "title": "Premier League: Everton triumph over Tottenham in thrilling 3-2 victory",
-            "link": "https://www.newsbytesapp.com/news/sports/everton-tame-sorry-tottenham-in-premier-league/story",
-            "keywords": null,
-            "creator": [
-                "Rajdeep Saha"
-            ],
-            "video_url": null,
-            "description": "Everton took full advantage of Tottenham's weak defense to clinch a thrilling 3-2 victory at Goodison Park in matchweek 22 of the Premier League 2024/25 season. The win has further intensified the relegation battle for Spurs.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-01-19 17:07:15",
-            "pubDateTZ": "UTC",
-            "image_url": "https://i.cdn.newsbytesapp.com/images/l78920250119220737.jpeg",
-            "source_id": "newsbytesapp",
-            "source_priority": 309848,
-            "source_name": "Newsbytes",
-            "source_url": "https://www.newsbytesapp.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/newsbytesapp.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "c90fb372fdfbf44ae776d3a407d39818",
-            "title": "Neeraj Chopra announces marriage, shares heartfelt message: Details here",
-            "link": "https://www.newsbytesapp.com/news/sports/neeraj-chopra-gets-married-shares-update-on-professional-commitments/story",
-            "keywords": null,
-            "creator": [
-                "Rajdeep Saha"
-            ],
-            "video_url": null,
-            "description": "Two-time Olympic medalist Neeraj Chopra has announced his marriage on social media.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-01-19 17:07:15",
-            "pubDateTZ": "UTC",
-            "image_url": "https://i.cdn.newsbytesapp.com/images/l20520250119221129.jpeg",
-            "source_id": "newsbytesapp",
-            "source_priority": 309848,
-            "source_name": "Newsbytes",
-            "source_url": "https://www.newsbytesapp.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/newsbytesapp.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "3b4fe7d7376cdd5218d3f03df343f0d3",
-            "title": "BCCI's new policy: No personal vehicles for Indian cricketers",
-            "link": "https://www.newsbytesapp.com/news/sports/india-vs-england-cab-enforces-bcci-s-new-policy/story",
-            "keywords": null,
-            "creator": [
-                "Rajdeep Saha"
-            ],
-            "video_url": null,
-            "description": "In a first, the Board of Control for Cricket in India (BCCI) has banned personal vehicles for the national cricket team.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-01-19 17:07:13",
-            "pubDateTZ": "UTC",
-            "image_url": "https://i.cdn.newsbytesapp.com/images/l41220250119223039.jpeg",
-            "source_id": "newsbytesapp",
-            "source_priority": 309848,
-            "source_name": "Newsbytes",
-            "source_url": "https://www.newsbytesapp.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/newsbytesapp.png",
             "language": "english",
             "country": [
                 "india"
