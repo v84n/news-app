@@ -1,6 +1,734 @@
 {
     "articles": [
         {
+            "article_id": "c6c298d4b9a0ac0b20c7006e81d9ed31",
+            "title": "UCL Stats: City, PSG's knockout streaks, Dembele's hat-trick, Rogers' record for Villa",
+            "link": "https://www.espn.in/football/story/_/id/43619722/uefa-champions-league-stats-manchester-city-psg-knockout-streaks-dembele-hat-trick-rogers-record-ston-villa",
+            "keywords": null,
+            "creator": [
+                "Zenia D'Cunha"
+            ],
+            "video_url": null,
+            "description": "ESPN brings you the best of the mid-week stats from the UEFA Champions League.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-01-30 08:08:55",
+            "pubDateTZ": "UTC",
+            "image_url": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F0129%2Fr1444920_1296x729_16-9.jpg",
+            "source_id": "espn_in",
+            "source_priority": 34461,
+            "source_name": "Espn India",
+            "source_url": "https://www.espn.in",
+            "source_icon": "https://i.bytvi.com/domain_icons/espn_in.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "sports"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "ba7054e48cdc5bb8f9ec5dd13106a4d4",
+            "title": "Thiago Motta Takes Blame As Juventus Fall 2-0 To Benfica In UEFA Champions League",
+            "link": "https://www.outlookindia.com/sports/football/thiago-motta-takes-blame-as-juventus-fall-2-0-to-benfica-in-uefa-champions-league",
+            "keywords": [
+                " juventus vs benfica news ",
+                " juventus vs benfica post match reactions",
+                " thiago motta reactions",
+                " uefa champions league (europe)",
+                " juventus vs benfica updates",
+                " juventus vs benfica uefa champions league",
+                " football updates",
+                " juventus vs benfica reactions",
+                " juventus vs benfica news",
+                " juventus vs benfica champions league",
+                " juventus vs benfica champions league updates",
+                " football news",
+                " benfica",
+                "juventus",
+                " thiago motta",
+                " thiago motta reaction",
+                " juventus vs benfica"
+            ],
+            "creator": null,
+            "video_url": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-01-30 08:08:54",
+            "pubDateTZ": "UTC",
+            "image_url": "https://media.assettype.com/outlookindia/2025-01-30/pkhhlgzq/juventus_599zzt8o3jfc1gtefvhmsbbkn.jpg?ar=40%3A21&auto=format%2Ccompress&enlarge=true&mode=crop&ogImage=true&overlay=false&overlay_position=bottom&overlay_width=100&w=1200",
+            "source_id": "outlookindia",
+            "source_priority": 1033,
+            "source_name": "Outlook",
+            "source_url": "https://www.outlookindia.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/outlookindia.jpg",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "1777307eee863f386eb3c7747168339f",
+            "title": "NRLM, Panchayati Raj & Basic Education unite for anti-filariasis campaign in UP",
+            "link": "https://www.thestatesman.com/india/nrlm-panchayati-raj-basic-education-unite-for-anti-filariasis-campaign-in-up-1503392354.html",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-01-30 08:08:54",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.thestatesman.com/wp-content/uploads/2025/01/IMG_8790-jpeg.webp",
+            "source_id": "thestatesman",
+            "source_priority": 42473,
+            "source_name": "The Statesman",
+            "source_url": "https://www.thestatesman.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/thestatesman.jpg",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "cd0d2cb1bd401966d50289ccbdbeae7d",
+            "title": "प्रेग्नेंसी में महिलाओं को क्यों हो जाती है डायबिटीज, क्या ये फिर हमेशा रहती है?",
+            "link": "https://www.tv9hindi.com/health/why-women-get-diabetes-during-pregnancy-3089038.html",
+            "keywords": null,
+            "creator": [
+                "TV9 Bharatvarsh"
+            ],
+            "video_url": null,
+            "description": "भारत में डायबिटीज बीमारी तेजी से बढ़ रही है. इसका अंदाजा आप इसी से लगा सकते हैं कि हर पांच में से एक व्यक्ति इस बीमारी से ग्रस्ति है. आज भारत दुनिया का डायबीटीज कैपिटल बनता जा रहा है. कई लोगों को डायबिटीज के शुरुआती लक्षणों का पता नहीं चलता. खासकर महिलाओं और गर्भवती महिलाओं को तो और भी पता नहीं चलता और वो आसानी से इस बीमारी की जद में आ जाती हैं.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-01-30 08:08:54",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.tv9hindi.com/wp-content/uploads/2025/01/pregnancy-3.jpg",
+            "source_id": "tv9bharatvarsh",
+            "source_priority": 40538658,
+            "source_name": "Tv9 Bharatvarsh",
+            "source_url": "https://www.tv9hindi.com",
+            "source_icon": null,
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "health"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "9a6d0b89f4f3133b1d785582ef12a706",
+            "title": "वीडियो: बेगूसराय में पत्नी से अवैध संबंध के शक में चाचा को ही मार दी गोली, अजब कांड",
+            "link": "https://navbharattimes.indiatimes.com/state/bihar/begusarai/youth-shot-his-uncle-due-to-doubt-of-illicit-relation-with-his-wife-in-begusarai-bihar/videoshow/117729818.cms",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "बेगूसराय: जिले में एक भतीजे ने अपने चाचा को इसलिए गोली मार कर घायल कर दिया क्योंकि चाचा का उसकी पत्नी से प्रेम संबंध था। घटना लाखो थाना क्षेत्र के वाजितपुर गांव की है। गंभीर रूप से घायल युवक को इलाज के लिए शहर के एक निजी अस्पताल में भर्ती कराया गया है। घटना के संबंध में बताया जाता है कि वाजितपुर गांव निवासी रामनंदन पासवान को उसका भतीजे नुनु बाबू पासवान ने बुधवार की रात गोली मार दी। नुनू बाबू को शक था कि उसके चाचा रामानंद पासवान का उसकी पत्नी के साथ प्रेम संबंध है। इसको लेकर नुनु बाबू कई बार चाचा के साथ गाली गलौच कर चुका था। बुधवार की रात भी वह गाली गलौच कर रहा था और जब चाचा ने मना किया तो पिस्तौल निकाल कर रामानंद पासवान को पेट में गोली मार दी। गोली लगने से गंभीर रूप से घायल रामानंद पासवान का इलाज निजी अस्पताल में चल रहा है। इस संबंध में घायल की पत्नी रुणा देवी ने बताया कि नुनुबाबू पासवान कहता है कि हमारे पति रामनंदन पासवान का उसकी पत्नी से प्रेम संबंध है। हमारे पति ससुर लगते हैं, उनको खुद की पत्नी है तो क्यों किसी के साथ गलत काम करेंगे। उधर इस मामले में सदर-वन डीएसपी के नेतृत्व में लाखो थाना की पुलिस मौके पर पहुंची और जांच पड़ताल की गई।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-01-30 08:08:34",
+            "pubDateTZ": "UTC",
+            "image_url": "https://static.langimg.com/photo/imgsize-101980,msid-117729818/navbharat-times.jpg",
+            "source_id": "navbharattimes",
+            "source_priority": 244,
+            "source_name": "Nbt Navbharattimes",
+            "source_url": "https://navbharattimes.indiatimes.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/navbharattimes.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "4e663f5d8e48171339e3351fa88da339",
+            "title": "All-Party Meeting Commences at Parliament Ahead of Budget Session",
+            "link": "https://www.deccanchronicle.com/nation/all-party-meeting-commences-at-parliament-ahead-of-budget-session-1857705",
+            "keywords": [
+                "nation,news"
+            ],
+            "creator": [
+                "DC Correspondent"
+            ],
+            "video_url": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-01-30 08:08:32",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.deccanchronicle.com/h-upload/2025/01/30/1886274-ani.webp",
+            "source_id": "deccanchronicle",
+            "source_priority": 14130,
+            "source_name": "Deccan Chronicle",
+            "source_url": "https://www.deccanchronicle.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/deccanchronicle.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "world"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": true
+        },
+        {
+            "article_id": "70550be051a88de741042add8402a96a",
+            "title": "Business News | IndiGo Ramps Up Prayagraj Capacity Significantly During Mahakumbh",
+            "link": "https://www.latestly.com/agency-news/business-news-indigo-ramps-up-prayagraj-capacity-significantly-during-mahakumbh-6604487.html",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "Get latest articles and stories on Business at LatestLY. With rising demand for Prayragraj flights, IndiGo airline has further increased its flights and seat capacity significantly to/from the Sangram city during the period in which the city hosts the Mahakumbh Mela 2025.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-01-30 08:08:30",
+            "pubDateTZ": "UTC",
+            "image_url": "https://st1.latestly.com/wp-content/uploads/2025/01/ANI-20250130073444-380x214.jpg",
+            "source_id": "latestly",
+            "source_priority": 31923,
+            "source_name": "Latestly",
+            "source_url": "https://www.latestly.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/latestly.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "bc885757ccc499ff5a1a9b698343874b",
+            "title": "वक्फ संशोधन विधेयक- JPC ने लोकसभा स्पीकर को रिपोर्ट सौंपी:बजट सत्र में संसद में पेश की जाएगी, ओवैसी बोले थे- इसका विरोध करेंगे",
+            "link": "https://www.bhaskar.com/national/news/waqf-bill-update-om-birla-jagdambika-pal-bjp-aimim-asaduddin-owaisi-134382871.html",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "वक्फ (संशोधन) विधेयक को लेकर संसद की जॉइंट पार्लियामेंट्री कमेटी (JPC) ने गुरुवार को ड्रॉफ्ट रिपोर्ट लोकसभा स्पीकर ओम बिरला को सौंप दी। इस दौरान जेपीसी अध्यक्ष जगदंबिका पाल, निशिकांत दुबे सहित अन्य भाजपा सांसद मौजूद रहे। विपक्ष का कोई सांसद नजर नहीं आया। जेपीसी ने एक दिन पहले ही ड्रॉफ्ट रिपोर्ट को मंजूरी दी थी। 16 सदस्यों ने इसके पक्ष में वोट डाला। वहीं 11 मेंबर्स ने विरोध किया। कमेटी में शामिल विपक्षी सांसदों ने इस बिल पर आपत्ति जताई। AIMIM चीफ असदुद्दीन ओवैसी ने कहा, हमें 655 पन्नों की ड्रॉफ्ट रिपोर्ट मिली थी। 655 पन्नों की रिपोर्ट को एक रात में पढ़ना असंभव था। मैंने असहमति जताई है और संसद में भी इस विधेयक का विरोध करूंगा। विपक्ष का रुख क्या है... JPC में हंगामे के बाद निलंबित हुए थे 10 मेंबर्सJPC की 24 जनवरी को दिल्ली में हुई बैठक में विपक्षी सदस्यों ने हंगामा किया था। उन्होंने दावा किया कि उन्हें ड्राफ्ट में प्रस्तावित बदलावों पर रिसर्च के लिए पर्याप्त समय नहीं दिया गया। आरोप लगाया कि BJP दिल्ली चुनावों के कारण ध्यान में रखते हुए वक्फ संशोधन विधेयक पर रिपोर्ट को संसद में जल्दी पेश करने पर जोर दे रही है। TMC सांसद कल्याण बनर्जी ने कहा कि समिति की कार्यवाही एक तमाशा बन गई है। समिति ने बनर्जी-ओवैसी सहित 10 विपक्षी सांसदों को एक दिन के लिए सस्पेंड कर दिया। बजट सत्र में पेश की जाएगी रिपोर्ट, 4 अप्रैल से शुरूजॉइंट पार्लियामेंट्री कमेटी वक्फ (संशोधन) विधेयक पर अपनी रिपोर्ट बजट सत्र के दौरान पेश करेगी। संसद का बजट सत्र 31 जनवरी से शुरू होकर 4 अप्रैल तक चलेगा। सेंट्रल बजट 1 फरवरी को पेश किया जाएगा। वक्फ (संशोधन) विधेयक 2024 का मकसद डिजिटलीकरण, बेहतर ऑडिट, बेहतर पारदर्शिता और अवैध रूप से कब्जे वाली संपत्तियों को वापस लेने के लिए कानूनी सिस्टम में सुधारों को लाकर इन चुनौतियों को हल करना है। 22 अगस्त को पहली बैठक हुई थी संसदीय कार्य और अल्पसंख्यक मामलों के मंत्री किरेन रिजिजू ने 8 अगस्त को लोकसभा में वक्फ बिल 2024 पेश किया था। कांग्रेस और समाजवादी पार्टी समेत विपक्षी दलों ने इस बिल का विरोध करते हुए इसे मुस्लिम विरोधी बताया था। विपक्ष की आपत्ति और भारी विरोध के बीच ये बिल लोकसभा में बिना किसी चर्चा के JPC को भेज दिया गया था। वक्फ बिल संशोधन पर बनी 31 सदस्यीय JPC की पहली बैठक 22 अगस्त को हुई थी। बिल में 44 अमेंडमेंट्स पर चर्चा होनी थी। ------------------------------------ JPC से जुड़ी ये खबर भी पढ़ें... वक्फ बोर्ड के पास 3 दिल्ली जितनी जमीन, मुस्लिम संस्था के पास कहां से आई इतनी संपत्ति 8 अगस्त को लोकसभा में वक्फ संशोधन बिल पेश किया। इस बिल के सदन में पेश होते ही देश की सबसे बड़ी और ताकतवर मुस्लिम संस्था वक्फ बोर्ड एक बार फिर से चर्चा में है। दिल्ली का कुल एरिया करीब 3.6 लाख एकड़ है, जबकि वक्फ बोर्ड के पास 9 लाख एकड़ से ज्यादा जमीन है। पढ़ें पूरी खबर... यूपी सरकार का दावा- वक्फ की 78% जमीन हमारी, अयोध्या का बहू-बेगम मकबरा भी लखनऊ में वक्फ संशोधन विधेयक के लिए गठित संयुक्त संसदीय समिति यानी जेपीसी की बैठक हुई। जिसमें यूपी सरकार की तरफ से कृषि उत्पादन आयुक्त मोनिका गर्ग ने पक्ष रखा। उन्होंने बताया- यूपी में वक्फ की 14 हजार हेक्टेयर जमीन है। इसमें से 11 हजार (करीब 78 प्रतिशत) सरकारी जमीन है। शिया वक्फ बोर्ड ने इसका विरोध किया। पढ़ें पूरी खबर...",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-01-30 08:08:15",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.bhaskarassets.com/thumb/1000x1000/web2images/521/2025/01/30/comp-120-2_1738224162.gif",
+            "source_id": "bhaskar_hindi",
+            "source_priority": 34179,
+            "source_name": "Bhaskar",
+            "source_url": "https://www.bhaskar.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/bhaskar_hindi.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "sports"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "b77499f2beffa0136d31057cb7a408a1",
+            "title": "Delhi Elections: ‘Punjab Govt’ Car with Cash, Liquor Seized In Delhi, AAP says ‘planted stunt’",
+            "link": "https://economictimes.indiatimes.com/news/international/world-news/delhi-elections-punjab-govt-car-with-cash-liquor-seized-in-delhi-aap-says-planted-stunt/videoshow/117729804.cms",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-01-30 08:08:14",
+            "pubDateTZ": "UTC",
+            "image_url": "https://img.etimg.com/thumb/msid-117729804,width-1070,height-580,overlay-economictimes/videoshow.jpg",
+            "source_id": "economictimes_indiatimes",
+            "source_priority": 231,
+            "source_name": "The Economic Times",
+            "source_url": "https://economictimes.indiatimes.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/economictimes_indiatimes.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "b5762719b4ef9ea408ed5b09bc96ad74",
+            "title": "महात्मा गांधी के विचारों और शिक्षा का आज भी महत्व:पुण्यतिथि पर कांग्रेस कार्यकर्ताओं और नेताओं ने दी श्रद्धांजलि",
+            "link": "https://www.bhaskar.com/local/rajasthan/hanumangarh/news/mahatma-gandhis-thoughts-and-teachings-are-still-important-today-134382870.html",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "राष्ट्रपिता महात्मा गांधी की पुण्यतिथि पर गुरुवार को जिला कांग्रेस कमेटी कार्यालय में विशेष श्रद्धांजलि कार्यक्रम आयोजित किया गया। कार्यक्रम में कांग्रेस के नेताओं और कार्यकर्ताओं ने बापू के छायाचित्र पर पुष्प अर्पित कर दो मिनट का मौन रखा। जिला कांग्रेस कमेटी के अध्यक्ष सुरेन्द्र दादरी ने कहा कि महात्मा गांधी ने देश को प्रेम, सर्वधर्म समभाव और सत्य के लिए संघर्ष करना सिखाया। उन्होंने बताया कि बापू का संपूर्ण जीवन राष्ट्र की नि:स्वार्थ सेवा में समर्पित रहा और भारत की स्वतंत्रता के लिए उन्होंने अंग्रेजों से निरंतर संघर्ष किया। जिला प्रमुख कविता मेघवाल ने एक महत्वपूर्ण तथ्य याद दिलाया कि 30 जनवरी 1948 को, जब देश आजादी का जश्न मना रहा था, सत्य और अहिंसा के पुजारी महात्मा गांधी की हत्या कर दी गई। तभी से यह दिन शहीदी दिवस के रूप में मनाया जाता है। उन्होंने जोर देकर कहा कि आज भले ही गांधीजी के मूल्यों को चुनौती दी जा रही है, लेकिन प्रेम, सद्भाव, भाईचारे और शांति के उनके संदेश की अंततः जीत होगी। लाखों भारतीय, विशेषकर आम जनता, आज भी उनके विचारों और शिक्षाओं को महत्व देती है। पुष्पांजलि कार्यक्रम में संगठन महामंत्री गुरमीत सिंह चन्दड़ा, उपाध्यक्ष तरुण विजय, जयदेव भिड़ासरा, करणीसिंह राठौड़ व जगदीश सिंह राठौड़, महामंत्री हरप्रीत सिंह ढिल्लों व रविन्द्र बेनीवाल, प्रवक्ता व कांग्रेस सेवादल जिलाध्यक्ष अश्विनी पारीक, प्रवक्ता नवनीत संधू, सोशल मीडिया प्रभारी जयराम ढुकिया, सचिव विजेन्द्र साईं, मांगीलाल स्वामी, हरी सैनी, रणवीर सिहाग व मोहम्मद हुसैन खोखर, डीसीसी के पूर्व महामंत्री कृष्ण नेहरा, पूर्व सरपंच चेतराम खीचड़, पूर्व उपसभापति अनिल खीचड़, ओबीसी विभाग के महामंत्री सोहन लदोइया, विधि विभाग जिलाध्यक्ष विजय गोंद, एनएसयूआई के रोहित जावा, मोहनलाल इन्दलिया, कांग्रेस सेवादल महासचिव महेन्द्र चतुर्वेदी सहित कई कांग्रेसजन मौजूद रहे।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-01-30 08:08:11",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.bhaskarassets.com/thumb/1000x1000/web2images/521/2025/01/30/8a7f641b-6cda-47e0-a7e5-9df673ba3e8a1738223497326_1738224293.jpg",
+            "source_id": "bhaskar_hindi",
+            "source_priority": 34179,
+            "source_name": "Bhaskar",
+            "source_url": "https://www.bhaskar.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/bhaskar_hindi.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "domestic",
+                "other"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "6dcbf85f4f40e581c628826d29bddcbb",
+            "title": "Sikka Art Festival 2025: 400+ Workshops, 40 Public Art Pieces, Theatre Shows & More To Expect At The 13th Edition In Dubai",
+            "link": "https://curlytales.com/sikka-art-festival-2025-400-workshops-40-public-art-pieces-theatre-shows-more-to-expect-at-the-13th-edition-in-dubai/",
+            "keywords": [
+                "ct scoop",
+                "sikka art design festival theatre shows",
+                "events & experiences",
+                "sikka art design festival 13th edition",
+                "sikka art design festival dates",
+                "sikka art design festival workshops",
+                "sikka art & design festival",
+                "trending",
+                "sikka art design festival highlights",
+                "sikka art design festival 2025",
+                "sikka art design festival al shindagha",
+                "sikka art design festival events"
+            ],
+            "creator": [
+                "Anupriya Mishra"
+            ],
+            "video_url": null,
+            "description": "The months of January and February in Dubai are quite busy. After all, the calendar is full of exciting eventsThe post Sikka Art Festival 2025: 400+ Workshops, 40 Public Art Pieces, Theatre Shows & More To Expect At The 13th Edition In Dubai appeared first on Curly Tales.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-01-30 08:08:10",
+            "pubDateTZ": "UTC",
+            "image_url": "https://curlytales.com/wp-content/uploads/2025/01/sikka-art-800x450.jpg",
+            "source_id": "curlytales",
+            "source_priority": 220522,
+            "source_name": "Curly Tales",
+            "source_url": "https://curlytales.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/curlytales.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "769da3988470a7d0d65ddd73a6e63230",
+            "title": "Meta trying to entice TikTok creators by offering up to ₹43 lakh monthly to join Instagram reels exclusively: Report",
+            "link": "https://tech.hindustantimes.com/tech/news/meta-trying-to-entice-tiktok-creators-by-offering-up-to-rs-43-lakh-monthly-to-join-instagram-reels-exclusively-report-71738223795175.html",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "Meta is reportedly offering TikTok creators up to Rs. 43 lakh monthly to post exclusive content on Instagram Reels, as part of a new strategy.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-01-30 08:08:08",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.hindustantimes.com/tech/img/2025/01/30/1600x900/Meta_TikTok_creators__1738224315637_1738224315862.jpg",
+            "source_id": "hindustantimes_tech",
+            "source_priority": 337,
+            "source_name": "Ht Tech",
+            "source_url": "https://tech.hindustantimes.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/hindustantimes_tech.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "technology"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "199d1ed07a0add23bfaeec212101bad1",
+            "title": "Shell Q4 profit down 39%, $3.5 bln buyback announced",
+            "link": "https://in.investing.com/news/stock-market-news/shell-q4-profit-down-39-35-bln-buyback-announced-4637663",
+            "keywords": null,
+            "creator": [
+                "Investing.com"
+            ],
+            "video_url": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-01-30 08:08:04",
+            "pubDateTZ": "UTC",
+            "image_url": null,
+            "source_id": "investing_in",
+            "source_priority": 1205,
+            "source_name": "Investing India",
+            "source_url": "https://in.investing.com",
+            "source_icon": null,
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "business"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": true
+        },
+        {
+            "article_id": "66cdbdbf7979b8f313c998a2c51e0e36",
+            "title": "नो एंट्री के बावजूद सड़क पर दौड़ रही बसें:पूर्णिया में टेंपो चालक संघ ने दी आंदोलन की चेतावनी, कहा- यातायात नियमों की उड़ रही धज्जियां",
+            "link": "https://www.bhaskar.com/local/bihar/purnia/news/traffic-rules-are-being-openly-flouted-in-purnea-134382869.html",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "पूर्णिया में नो एंट्री होने के बाद भी बसें लाइन बाजार के रास्ते कटिहार मोड़, जीरो माइल होते हुए रौटा अमौर जा रही हैं। नो एंट्री के बावजूद यात्री बसों की एंट्री के खिलाफ शहर के सैकड़ों टेंपो चालक गोलबंद होकर डीएम कुंदन कुमार को अपनी समस्याओं से अवगत कराने पहुंचे। प्रशासन के रवैये से नाराज टेंपो चालक संघ के सदस्यों ने डीएम को आवेदन सौंप ऐसे बस चालकों के खिलाफ कार्रवाई की मांग की। नो एंट्री के बावजूद शहर की सड़कों पर दौड़ने वाली इन बसों पर कार्रवाई न होने पर संघ के सदस्यों ने प्रदर्शन की चेतावनी दी है। टेंपो चालक संघ के अध्यक्ष मोहम्मद जहांगीर उर्फ लड्डू ने बताया कि शहर की मुख्य सड़कों पर सुबह आठ बजे से रात नौ बजे तक नो एंट्री का सख्त आदेश है, लेकिन इसके बावजूद बस चालक इस आदेश की अवहेलना कर बसों को चला रहे हैं। खासकर यात्री बसों के चलने से ऑटो चालकों के व्यापार पर गंभीर असर पड़ा है। उनका धंधा पूरी तरह से प्रभावित हो गया है। पिछले 8 महीनों से यह समस्या बढ़ रही है, जबकि पहले ऐसी स्थिति नहीं थी। वे इस संबंध में जिला प्रशासन को कई बार आवेदन दे चुके हैं। फिर भी किसी तरह की कोई कार्रवाई नहीं की जा रही है। धड़ल्ले से नो एंट्री के बावजूद बस स्टैंड से लाइन बाजार के रास्ते कटिहार मोड़, जीरो माइल होते हुए रौटा और अमौर जा रही हैं। अगर जिला प्रशासन आगे किसी तरह की कोई कार्रवाई नहीं करती है, तो सभी टेंपो चालक मिलकर सड़क जाम कर विरोध प्रदर्शन करेंगे। हालांकि उन्होंने इसकी तारीखों का अब तक ऐलान नहीं किया है। टेंपो संघ के अध्यक्ष ने चेतावनी देते हुए कहा कि जिला प्रशासन सख्त कार्रवाई करे नहीं तो आने वाले दिनों में बड़ा आंदोलन होगा। टेंपो चालकों ने अपना दर्द बयां करते हुए कहा कि नो एंट्री के बाद भी बस इस रूट से जाती है, जिसके कारण काफी परेशानी होती है। जबकि 6 महीने पहले बस बाईपास होकर जाती थी तो किसी प्रकार की कोई दिक्कत नहीं होती थी, लेकिन अब फिर से पिछले 7 से 8 महीनों से बस मालिक अपने बस का परिचालन बस स्टैंड होते हुए लाइन बाजार से करवा रहे हैं। ये सब कुछ कहीं ना कहीं जिला प्रशासन की मिलीभगत से हो रहा है। बस संचालकों ने आगे कहा कि हम लोगों ने लाइन बाजार का परमिट बना रखा है और हम लोग किसी भी प्रकार की लोकल सवारी नहीं उठाते हैं। इसे लेकर फिलहाल टेंपो चालकों के बीच काफी आक्रोश देखा जा रहा है। टेंपो चालकों का साफ कहना है कि अगर आगे ऐसे बेसन की मनमानी के खिलाफ प्रशासनिक कार्रवाई नहीं की जाती, तो सड़क पर उतरकर प्रदर्शन करेंगे।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-01-30 08:08:00",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.bhaskarassets.com/thumb/1000x1000/web2images/521/2025/01/30/image-730x548jpg-15_1738221914.png",
+            "source_id": "bhaskar_hindi",
+            "source_priority": 34179,
+            "source_name": "Bhaskar",
+            "source_url": "https://www.bhaskar.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/bhaskar_hindi.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top",
+                "tourism"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "6aceb747b61e9c9be5fcde0cb9628c1a",
+            "title": "Experts On How Budget Can Empower Businesses And Consumers",
+            "link": "https://www.ndtv.com/business-news/union-budget-2025-experts-on-how-budget-can-empower-businesses-and-consumers-7593816",
+            "keywords": [
+                "business news"
+            ],
+            "creator": null,
+            "video_url": null,
+            "description": "Giving an overview of the retail sector, Mr Parekh said that it has witnessed robust growth, and is projected to rise from $779 billion in 2019 to $1.8 trillion by 2030.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-01-30 08:07:59",
+            "pubDateTZ": "UTC",
+            "image_url": null,
+            "source_id": "ndtv",
+            "source_priority": 1204,
+            "source_name": "Ndtv",
+            "source_url": "http://www.ndtv.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/ndtv.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "6d078523a9888a76eae4e81bf1347006",
+            "title": "Harvard MBAs struggling for jobs. Is an IIM degree for Rs 25 lakh still a good bet? Netizens debate",
+            "link": "https://economictimes.indiatimes.com/magazines/panache/harvard-mbas-struggling-for-jobs-is-an-iim-degree-for-rs-25-lakh-still-a-good-bet-netizens-debate/articleshow/117729380.cms",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "Harvard MBA graduates struggle with job placements, with 23% still unemployed three months post-graduation. Similar trends are seen in other top MBA programs. Debates on the value of an IIM MBA, given its high cost and uncertain ROI, are growing. Some argue work experience might provide better returns, while MBA relevance declines in today's market.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-01-30 08:07:58",
+            "pubDateTZ": "UTC",
+            "image_url": "https://img.etimg.com/thumb/msid-117729775,width-1200,height-630,imgsize-40684,overlay-etpanache/articleshow.jpg",
+            "source_id": "economictimes_indiatimes",
+            "source_priority": 231,
+            "source_name": "The Economic Times",
+            "source_url": "https://economictimes.indiatimes.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/economictimes_indiatimes.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "entertainment"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "21c8b43dbd059e093a376beca42d051c",
+            "title": "Sivakarthikeyan and Vijay Antony clash over ‘Parasakthi’ title rights",
+            "link": "https://www.moneycontrol.com/entertainment/sivakarthikeyan-and-vijay-antony-clash-over-parasakthi-title-rights-article-12924160.html",
+            "keywords": [
+                "sivakarthikeyan and vijay antony, sivakarthikeyan, vijay antony, parasakthi’ title rights issue, parasakthi sivakarthikeyan"
+            ],
+            "creator": [
+                "Moneycontrol"
+            ],
+            "video_url": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-01-30 08:07:56",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.moneycontrol.com/static-mcnews/2025/01/20250130080709_Sivakarthikeyan-and-Vijay-Antony-in-Parasakthi.jpg",
+            "source_id": "moneycontrol",
+            "source_priority": 1064,
+            "source_name": "Moneycontrol",
+            "source_url": "https://www.moneycontrol.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/moneycontrol.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top",
+                "business",
+                "world",
+                "politics"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "7f0f1e6e30e71212df42ea69e3136d38",
+            "title": "Maha Kumbh Stampede: VVIP पास रद्द करने से लेकर नो-व्हीकल जोन तक, महाकुंभ में भगदड़ के बाद हुए ये 5 बड़े बदलाव",
+            "link": "https://www.herzindagi.com/hindi/society-culture/maha-kumbh-stampede-vvip-pass-to-no-vehicle-zone-know-key-changes-after-bhagdad-article-1016532",
+            "keywords": [
+                "maha kumbh,maha kumbh 2025,kumbh mela,prayagraj 2025 maha kumbh"
+            ],
+            "creator": null,
+            "video_url": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-01-30 08:07:51",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.herzindagi.info/her-zindagi-hindi/images/2025/01/30/article/image/Mahakumbh-stampede-1738223814030.jpg",
+            "source_id": "herzindagi",
+            "source_priority": 12931,
+            "source_name": "Herzindagi",
+            "source_url": "https://www.herzindagi.com",
+            "source_icon": null,
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "af00b00c74346ffe3f559b72036f5d02",
+            "title": "इंतजाम अच्छे होते तो महाकुंभ में दुर्घटना न होती..? अखिलेश यादव ने उठाए सवाल",
+            "link": "https://theliberalworld.com/had-the-arrangements-been-good-there-would-have-been-no-accident-in-maha-kumbh-akhilesh-yadav-raised-questions/",
+            "keywords": [
+                "nation",
+                "up news",
+                "hindi news",
+                "libearl breaking",
+                "liberal breaking",
+                "no accident",
+                "there would have been",
+                "महाकुंभ की गूंज",
+                "politics",
+                "akhilesh yadav",
+                "maha kumbh",
+                "raised questions",
+                "had the arrangements been good"
+            ],
+            "creator": [
+                "LTV Breaking Desk"
+            ],
+            "video_url": null,
+            "description": "समाजवादी पार्टी प्रमुख अखिलेश यादव ने कहा, सरकार के इंतज़ाम अच्छे होते तो महाकुंभ में दुर्घटना न होती। जो हुआ उसकी जिम्मेदारी सरकार की है। मैं पीडि़तों से मिलने नहीं जाऊंगा क्योंकि अगर मैं वहां गया तो भाजपा के लोग आरोप लगाएंगे कि हम राजनीति कर रहे हैं। उम्मीद है कि राष्ट्रपति के अभिभाषण में [...]The post इंतजाम अच्छे होते तो महाकुंभ में दुर्घटना न होती..? अखिलेश यादव ने उठाए सवाल first appeared on LIBERAL TV.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-01-30 08:07:50",
+            "pubDateTZ": "UTC",
+            "image_url": null,
+            "source_id": "theliberalworld",
+            "source_priority": 18095419,
+            "source_name": "Liberal Tv",
+            "source_url": "https://theliberalworld.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/theliberalworld.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "politics"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "f1eedb574980dc43876d206a14ab1e0f",
+            "title": "Hostage releases under way in Gaza",
+            "link": "https://www.bbc.com/news/articles/ce8j6rq855jo",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "Three Israelis and five Thais are being freed in the latest set of releases as part of the ceasefire.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-01-30 08:07:48",
+            "pubDateTZ": "UTC",
+            "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/29ff/live/14ee1260-dedd-11ef-bd1b-d536627785f2.jpg",
+            "source_id": "bbc",
+            "source_priority": 103,
+            "source_name": "The Bbc",
+            "source_url": "http://www.bbc.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/bbc.jpg",
+            "language": "english",
+            "country": [
+                "georgia",
+                "yemen",
+                "afghanistan",
+                "cyprus",
+                "united kingdom",
+                "india",
+                "saudi arabia",
+                "united arab emirates",
+                "pakistan",
+                "egypt",
+                "lebanon",
+                "kyrgyzstan",
+                "syria",
+                "israel",
+                "djibouti",
+                "iran",
+                "turkey",
+                "armenia",
+                "qatar",
+                "morocco",
+                "kazakhstan",
+                "iraq",
+                "kuwait",
+                "ethiopia",
+                "azerbaijan",
+                "jordan",
+                "sudan",
+                "somalia",
+                "algeria",
+                "oman",
+                "libya",
+                "uzbekistan",
+                "turkmenistan",
+                "mauritania",
+                "bahrain",
+                "tunisia",
+                "tajikistan"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
             "article_id": "32398ab9b3c97085936ab23867a13939",
             "title": "Human Rights Commissions are not to be ‘toothless tigers’: Delhi HC",
             "link": "https://www.thehindu.com/news/national/human-rights-commissions-are-not-to-be-toothless-tigers-delhi-hc/article69155456.ece",
@@ -23550,872 +24278,6 @@
             ],
             "category": [
                 "science"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "a165bc9824d21a66eed418574fe8e4c7",
-            "title": "Mumbai: Woman Allegedly Beats 3-Year-Old Son With Plastic Pipe After Husband Refuses To Take Her Out In Ghatkopar",
-            "link": "https://www.freepressjournal.in/mumbai/mumbai-woman-allegedly-beats-3-year-old-son-with-plastic-pipe-after-husband-refuses-to-take-her-out-in-ghatkopar",
-            "keywords": [
-                "fpj shorts",
-                "mumbai news",
-                "topnews"
-            ],
-            "creator": null,
-            "video_url": null,
-            "description": null,
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-01-28 20:09:48",
-            "pubDateTZ": "UTC",
-            "image_url": "https://media.assettype.com/freepressjournal/2023-03/6c286542-336a-4faf-be25-a0bb6895606b/child_rape.jpg",
-            "source_id": "freepressjournal",
-            "source_priority": 26427,
-            "source_name": "The Free Press Journal",
-            "source_url": "https://www.freepressjournal.in",
-            "source_icon": "https://i.bytvi.com/domain_icons/freepressjournal.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "e39576b56d9cfdc33e6d6c217c8baef8",
-            "title": "Kishore Kumar left Madhubala alone in her dying days, he ignored her calls, reveals actress' sister Madhur Bhushan",
-            "link": "https://www.moneycontrol.com/entertainment/kishore-kumar-left-madhubala-alone-in-her-dying-days-he-ignored-her-calls-reveals-actress-sister-madhur-bhushan-article-12922102.html",
-            "keywords": [
-                "madhubala kishore kumar, kishore kumar and madhubala marraige, madhubala and dilip kumar, dilip kumar and madhubala, madhubala sister madhur bhushan, madhubala death, madhubala bollywood, madhubala dilip kumar lovestory"
-            ],
-            "creator": [
-                "Moneycontrol"
-            ],
-            "video_url": null,
-            "description": null,
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-01-28 20:09:27",
-            "pubDateTZ": "UTC",
-            "image_url": "https://images.moneycontrol.com/static-mcnews/2025/01/20250128200903_Madhubala-with-Kishore-Kumar.jpg",
-            "source_id": "moneycontrol",
-            "source_priority": 1064,
-            "source_name": "Moneycontrol",
-            "source_url": "https://www.moneycontrol.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/moneycontrol.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top",
-                "business",
-                "world",
-                "politics"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "99719416dbea4957fa886203d95a1513",
-            "title": "Kishore Kumar left Madhubala alone in her dying days, he ignored her calls, reveals actress' sister Madhur... - Moneycontrol",
-            "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNSG1PdjQwcGg2WHpqbW83OHRGcGFnOTlSTzg0TUJBS0NQYmw4QkFJdzVvOEpCWnVnaVBFSmVteVdoZGExT0xTTTFJRkRGcnVUXzBrNjBHSTQwR3dranV2akJnWXVXR0dhcEd1VFVhb0RwWDBRU0p4aU5rQ292OVdIb0ZVbjZxSWVmMFJRYlZ1dVVRdXdMelAzYVotNFRyN0FDYVVlcWd3YjlKQ1o5SnhIQU0wZGl6T3UtZHctMktTd2hPeDNKeUtoY0J1d2NIbzI4WGlfMk56dVVQSHpaYmVmTVFxWkpUSUtnM1g2MUkxRGIxbUNRa2E0d2FiQU8zMWw0Z3VFSThTUdIBjAJBVV95cUxPUVo3UnktU3dWel94Q1FBWnpNS1JMSk9qLU0tNDBOWVlFT1FsUkh6MDNfVHY2aEhjN3hmaEx3dGNpSXZyRlZxVEg2MVhGV19Ka3BWa3JRNUhoNTdnQWNBdHZvZmtQVFJ5WGRWaExiN2oxVkQyU2pHdmhGTDV5MXQ5RlhJajFscUw3UTFDTHJfbnBkRFRnYVZQSGg5QUJzd0pLdDdpbHZSSUlCSWxJbEpZUGpCQV9hWHFYQ29XQkZ6dzV4WXVLZHJsWVgtWVdZQkFJQmN6VlhwNXpoMW1DOGxnUkZ0U204MnlrY2hILXhlUkV2MlF6Yk92NVhub29rSGMwUHdmcGN6VjAyeTgz?oc=5",
-            "keywords": null,
-            "creator": null,
-            "video_url": null,
-            "description": "Kishore Kumar left Madhubala alone in her dying days, he ignored her calls, reveals actress' sister Madhur... MoneycontrolWhen Madhubala’s Sister Revealed She Was In A Miserable Marriage With Kishore Kumar: “She Cried A Lot In Loneliness” KoimoiWhen Madhubala Prevented Her Sister From Spending Money On Her Treatments NDTV Movies",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-01-28 20:09:27",
-            "pubDateTZ": "UTC",
-            "image_url": null,
-            "source_id": "google",
-            "source_priority": 14,
-            "source_name": "Google News",
-            "source_url": "https://news.google.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/google.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "entertainment"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "6e50d2cf5db41b316bcb65489f6750eb",
-            "title": "Budaun News: डोडा रखने के चार दोषियों को दस साल की सजा",
-            "link": "https://www.amarujala.com/uttar-pradesh/budaun/ten-years-imprisonment-to-four-accused-of-possessing-doda-badaun-news-c-123-1-sbly1029-133464-2025-01-29",
-            "keywords": null,
-            "creator": [
-                "संवाद न्यूज एजेंसी, बदायूं"
-            ],
-            "video_url": null,
-            "description": "दस साल पहले अवैध डोडा रखने के चार आरोपियों को विशेष न्यायाधीश एनडीपीएस एक्ट सौरभ सक्सेना ने दोषी करार देते हुए दस साल की सजा सुनाई है। साथ ही जुर्माना भी लगाया है।",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-01-28 20:09:14",
-            "pubDateTZ": "UTC",
-            "image_url": "https://staticimg.amarujala.com/assets/images/2021/10/08/budaun_1633684075.jpeg?dpr=1.0&q=65&w=414",
-            "source_id": "amarujala",
-            "source_priority": 55215,
-            "source_name": "Amar Ujala",
-            "source_url": "https://www.amarujala.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/amarujala.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "76d2b2808086c43d22af9a32badef36e",
-            "title": "सरोकार की पत्रकारिता से समाज को दें दिशा : डॉ राजेश्वर",
-            "link": "https://www.prabhatkhabar.com/state/bihar/muzaffarpur/give-direction-to-the-society-through-journalism",
-            "keywords": [
-                "muzaffarpur",
-                "muzaffarpur news",
-                "bihar politics"
-            ],
-            "creator": [
-                "Prabhat Khabar News Desk"
-            ],
-            "video_url": null,
-            "description": "सरोकार की पत्रकारिता से समाज को दें दिशा : डॉ राजेश्वरThe post सरोकार की पत्रकारिता से समाज को दें दिशा : डॉ राजेश्वर appeared first on Prabhat Khabar.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-01-28 20:09:14",
-            "pubDateTZ": "UTC",
-            "image_url": "https://www.prabhatkhabar.com/wp-content/uploads/2024/03/1_garibnath-mandir-muzaffarpur-scaled.jpg",
-            "source_id": "prabhatkhabar",
-            "source_priority": 343253,
-            "source_name": "Prabhat Khabar",
-            "source_url": "https://www.prabhatkhabar.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/prabhatkhabar.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "fd4f6674e099a5dc6b6bc3f5371260bf",
-            "title": "Moradabad News: नाबालिग को बालिग दर्शा शादी करने का फरार आरोपी गिरफ्तार, भेजा जेल",
-            "link": "https://www.amarujala.com/uttar-pradesh/moradabad/absconding-accused-of-marrying-a-minor-pretending-to-be-an-adult-arrested-sent-to-jail-thakurdwara-news-c-279-1-mo11005-106996-2025-01-29",
-            "keywords": null,
-            "creator": [
-                ""
-            ],
-            "video_url": null,
-            "description": "किशोरी को बालिग दर्शा शादी करने वाले फरार आरोपी को पुलिस ने गिरफ्तार कर जेल भेज दिया है।",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-01-28 20:09:09",
-            "pubDateTZ": "UTC",
-            "image_url": "https://staticimg.amarujala.com/assets/images/2021/10/25/moradabad_1635143244.jpeg?dpr=1.0&q=65&w=414",
-            "source_id": "amarujala",
-            "source_priority": 55215,
-            "source_name": "Amar Ujala",
-            "source_url": "https://www.amarujala.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/amarujala.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "945a00f13fa56e7e5a44bc11153d6dca",
-            "title": "Udham Singh Nagar News: बाजारों में ई-रिक्शा के कारण लग रहा जाम",
-            "link": "https://www.amarujala.com/uttarakhand/udham-singh-nagar/e-rickshaws-cause-traffic-jams-in-the-markets-kashipur-news-c-235-1-ksp1001-122545-2025-01-29",
-            "keywords": null,
-            "creator": [
-                "संवाद न्यूज एजेंसी, ऊधम सिंह नगर"
-            ],
-            "video_url": null,
-            "description": "। शहर के मुख्य बाजार और रतन सिनेमा रोड के बाजार में इन दिनों ई-रिक्शा चालक नो एंट्री के बावजूद बाजार में वाहन संचालन कर जाम की स्थिति पैदा कर रहे हैं।",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-01-28 19:08:00",
-            "pubDateTZ": "UTC",
-            "image_url": "https://staticimg.amarujala.com/assets/images/2023/06/16/udham-singh-nagar_1686902427.jpeg?dpr=1.0&q=65&w=414",
-            "source_id": "amarujala",
-            "source_priority": 55215,
-            "source_name": "Amar Ujala",
-            "source_url": "https://www.amarujala.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/amarujala.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "a5b3666d86507eccdf64ad225e7f4e63",
-            "title": "नोएडा में वॉट्सऐप पर जोड़कर ठगे 52.50 लाख:निवेश में मुनाफा का दिया लालच, 10 खातों में रकम कराई ट्रांसफर",
-            "link": "https://www.bhaskar.com/local/uttar-pradesh/gautambudh-nagar/news/5250-lakhs-cheated-in-noida-by-adding-on-whatsapp-lure-of-profit-in-investment-transferred-money-to-10-accounts-134372259.html",
-            "keywords": null,
-            "creator": null,
-            "video_url": null,
-            "description": "स्टॉक मार्केट में निवेश कर मोटा मुनाफा कमाने का झांसा देकर साइबर जालसाजों ने एक व्यक्ति के साथ 52 लाख 50 हजार रुपए की ठगी कर ली। पीड़ित की शिकायत पर साइबर क्राइम थाने की पुलिस ने अज्ञात ठगों के खिलाफ केस दर्ज कर मामले की जांच शुरू कर दी है। जिन खातों में ठगी की रकम ट्रांसफर हुई है, उन खातों की जानकारी एकत्र की जा रही है। जिन खातों की जानकारी मिल गई है उन्हें फ्रीज कराया जा रहा है। लिंक के जरिए वॉट्सऐप पर जुड़ेबिसरख स्थित एक सोसाइटी में रहने वाले नवीन कुमार सिन्हा ने बताया कि कुछ समय पहले उन्हें टेलीग्राम पर स्टॉक मार्केट से जुड़ा एक लिंक मिला था। उस लिंक पर क्लिक करने के बाद वह वॉट्सऐप ग्रुप में जुड़े थे। इस ग्रुप में उन्हें स्टॉक मार्केट में निवेश के लिए टिप्स दिए जा रहे थे। जिसमें एक व्यक्ति खुद को निवेश गुरु बताकर जानकारी दे रहा था। ग्रुप के कुछ सदस्य निवेश पर मुनाफा होने का स्क्रीनशॉट भी डाल रहे थे। शिकायतकर्ता ने भी जब निवेश करने की इच्छा जताई तो उसे एक अन्य ग्रुप में जोड़ दिया गया। निवेश के बाद दिखने लगा मुनाफायहां शिकायतकर्ता को व्यक्तिगत टिप्स देने का काम किया जाने लगा। प्रारंभिक चरण में शिकायतकर्ता ने कम राशि निवेश की, इसपर उसे मुनाफा हुआ। मुनाफे की रकम उसके खाते में भी आ गई। इसके बाद ठगों की बातों में आकर उन्होंने 4 दिसंबर 2024 से 10 जनवरी 2025 के बीच 10 खाते में कई बार में रुपए ट्रांसफर कर दिए। आरोपी उन्हें एक ऐप पर निवेश के बाद मुनाफा दिखाते रहे। मुनाफे समेत रकम ऐप पर दोगुना के करीब दिखने लगी। जिंदगी भर की कमाई लगा दीजब रुपए निकालने का प्रयास किया तो उनसे कई प्रकार की फीस मांगी गई। जब उन्होंने और रुपए देने से इनकार किया तो आरोपियों के नंबर बंद हो गए और शिकायतकर्ता को ग्रुप से भी बाहर कर दिया गया। शिकायतकर्ता के मुताबिक उसने जो रकम ठगी में गंवाई है वह उनके जिंदगी भर की कमाई थी। डीसीपी साइबर क्राइम प्रीति यादव ने बताया कि किसी भी अनजान व्यक्ति के कहने पर कभी भी निवेश न करें। अगर कोई अनजान व्यक्ति किसी ग्रुप में जोड़कर निवेश संबंधी जानकारी दे रहा है और इसपर दो से तीन गुना मुनाफा होने की बात कह रहा है तो तुंरत सतर्क हो जाएं।",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-01-28 19:08:00",
-            "pubDateTZ": "UTC",
-            "image_url": "https://images.bhaskarassets.com/thumb/1000x1000/web2images/521/2025/01/28/cyber_1738074481.png",
-            "source_id": "bhaskar_hindi",
-            "source_priority": 34179,
-            "source_name": "Bhaskar",
-            "source_url": "https://www.bhaskar.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/bhaskar_hindi.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top",
-                "domestic"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "7b2ca3e985f4f1ac7224b0bbf0c0f4d4",
-            "title": "Udham Singh Nagar News: बाबा दीप सिंह का जन्मदिवस मनाया गया",
-            "link": "https://www.amarujala.com/uttarakhand/udham-singh-nagar/baba-deep-singhs-birthday-was-celebrated-bazpur-news-c-235-1-ksp1006-122539-2025-01-29",
-            "keywords": null,
-            "creator": [
-                "संवाद न्यूज एजेंसी, ऊधम सिंह नगर"
-            ],
-            "video_url": null,
-            "description": "बाबा दीप सिंह का जन्मदिवस मनाया गया",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-01-28 19:07:59",
-            "pubDateTZ": "UTC",
-            "image_url": "https://staticimg.amarujala.com/assets/images/2023/06/16/udham-singh-nagar_1686902427.jpeg?dpr=1.0&q=65&w=414",
-            "source_id": "amarujala",
-            "source_priority": 55215,
-            "source_name": "Amar Ujala",
-            "source_url": "https://www.amarujala.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/amarujala.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "8b2425501e9da310da9841a8712cc64b",
-            "title": "Siddharthnagar News: धोखाधड़ी के शिकार व्यक्ति के खाते में 50 हजार वापस कराए",
-            "link": "https://www.amarujala.com/uttar-pradesh/siddharthnagar/50-thousand-returned-to-the-account-of-the-victim-of-fraud-siddharthnagar-news-c-227-1-sgkp1033-131438-2025-01-29",
-            "keywords": null,
-            "creator": [
-                ""
-            ],
-            "video_url": null,
-            "description": "50 thousand returned to the account of the victim of fraud",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-01-28 19:07:59",
-            "pubDateTZ": "UTC",
-            "image_url": "https://staticimg.amarujala.com/assets/images/2021/12/02/siddharthnagar_1638432039.jpeg?dpr=1.0&q=65&w=414",
-            "source_id": "amarujala",
-            "source_priority": 55215,
-            "source_name": "Amar Ujala",
-            "source_url": "https://www.amarujala.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/amarujala.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "ff3ce3a3a8ae91e56def5ff58354548f",
-            "title": "Siddharthnagar News: घने कोहरे से थमे वाहनों के पहिये, ठंड से ठिठुरी तराई",
-            "link": "https://www.amarujala.com/uttar-pradesh/siddharthnagar/wheels-of-vehicles-stopped-due-to-dense-fog-valley-shivered-with-cold-siddharthnagar-news-c-227-1-sdn1003-131428-2025-01-29",
-            "keywords": null,
-            "creator": [
-                ""
-            ],
-            "video_url": null,
-            "description": "Wheels of vehicles stopped due to dense fog, valley shivered with cold",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-01-28 19:07:58",
-            "pubDateTZ": "UTC",
-            "image_url": "https://staticimg.amarujala.com/assets/images/2021/12/02/siddharthnagar_1638432039.jpeg?dpr=1.0&q=65&w=414",
-            "source_id": "amarujala",
-            "source_priority": 55215,
-            "source_name": "Amar Ujala",
-            "source_url": "https://www.amarujala.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/amarujala.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "f18d8c76cacea95a5df5d6667ee0c307",
-            "title": "Siddharthnagar News: हार्ट के मरीजों को तत्काल मिलेगा इलाज, नहीं होंगे रेफर",
-            "link": "https://www.amarujala.com/uttar-pradesh/siddharthnagar/heart-patients-will-get-immediate-treatment-and-will-not-be-referred-siddharthnagar-news-c-227-1-sdn1003-131441-2025-01-29",
-            "keywords": null,
-            "creator": [
-                ""
-            ],
-            "video_url": null,
-            "description": "Heart patients will get immediate treatment and will not be referred.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-01-28 19:07:57",
-            "pubDateTZ": "UTC",
-            "image_url": "https://staticimg.amarujala.com/assets/images/4cplus/2025/01/29/madakal-kalja-imarajasa-varada-ma-maraja-ka-bhaugdha-savatha_2746df4ca162ad7c852dced24d823ac9.jpeg?dpr=1.0&q=65&w=414",
-            "source_id": "amarujala",
-            "source_priority": 55215,
-            "source_name": "Amar Ujala",
-            "source_url": "https://www.amarujala.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/amarujala.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "3710b7fd8f24149494a5e2412cce962d",
-            "title": "Siddharthnagar News: भारत से 90 हजार टन गेहूं आयात करेगा नेपाल, सात दिन में करें आवेदन",
-            "link": "https://www.amarujala.com/uttar-pradesh/siddharthnagar/nepal-will-import-90-thousand-tons-of-wheat-from-india-apply-in-seven-days-siddharthnagar-news-c-227-1-sgkp1032-131403-2025-01-29",
-            "keywords": null,
-            "creator": [
-                ""
-            ],
-            "video_url": null,
-            "description": "Nepal will import 90 thousand tons of wheat from India, apply in seven days",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-01-28 19:07:56",
-            "pubDateTZ": "UTC",
-            "image_url": "https://staticimg.amarujala.com/assets/images/2021/12/02/siddharthnagar_1638432039.jpeg?dpr=1.0&q=65&w=414",
-            "source_id": "amarujala",
-            "source_priority": 55215,
-            "source_name": "Amar Ujala",
-            "source_url": "https://www.amarujala.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/amarujala.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "cdbfc507a25c35e421f2eca2b000a3b0",
-            "title": "Siddharthnagar News: दो सदस्यीय जांच टीम ने पीड़ित व एक नर्स का बयान दर्ज किया",
-            "link": "https://www.amarujala.com/uttar-pradesh/siddharthnagar/a-two-member-investigation-team-recorded-the-statement-of-the-victim-and-a-nurse-siddharthnagar-news-c-227-1-sgkp1033-131442-2025-01-29",
-            "keywords": null,
-            "creator": [
-                ""
-            ],
-            "video_url": null,
-            "description": "A two-member investigation team recorded the statement of the victim and a nurse.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-01-28 19:07:54",
-            "pubDateTZ": "UTC",
-            "image_url": "https://staticimg.amarujala.com/assets/images/2021/12/02/siddharthnagar_1638432039.jpeg?dpr=1.0&q=65&w=414",
-            "source_id": "amarujala",
-            "source_priority": 55215,
-            "source_name": "Amar Ujala",
-            "source_url": "https://www.amarujala.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/amarujala.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "0d2bab7492ffdbbb9ec84afa3ea9fa89",
-            "title": "Hamirpur News: हत्या की कोशिश में तीन दोषियों को सात-सात वर्ष की कैद",
-            "link": "https://www.amarujala.com/uttar-pradesh/hamirpur/seven-years-imprisonment-for-three-accused-in-attempt-to-murder-hamirpur-news-c-223-1-sknp1030-120377-2025-01-29",
-            "keywords": null,
-            "creator": [
-                "संवाद न्यूज एजेंसी, हमीरपुर"
-            ],
-            "video_url": null,
-            "description": "हत्या की कोशिश में तीन दोषियों को सात-सात वर्ष की कैद",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-01-28 19:07:54",
-            "pubDateTZ": "UTC",
-            "image_url": "https://staticimg.amarujala.com/assets/images/2021/12/02/hamirpur_1638430652.jpeg?dpr=1.0&q=65&w=414",
-            "source_id": "amarujala",
-            "source_priority": 55215,
-            "source_name": "Amar Ujala",
-            "source_url": "https://www.amarujala.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/amarujala.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "de8a900b6962c3462310d8e9ca9951e2",
-            "title": "Saharanpur News: सहारनपुर को मिली कुंभ विशेष ट्रेन, आठ फरवरी से चलेगी",
-            "link": "https://www.amarujala.com/uttar-pradesh/saharanpur/saharanpur-gets-kumbh-special-train-will-run-from-february-8-saharanpur-news-c-30-1-smrt1054-141357-2025-01-29",
-            "keywords": null,
-            "creator": [
-                "संवाद न्यूज एजेंसी, सहारनपुर"
-            ],
-            "video_url": null,
-            "description": "Saharanpur gets Kumbh special train, will run from February 8",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-01-28 19:07:53",
-            "pubDateTZ": "UTC",
-            "image_url": "https://staticimg.amarujala.com/assets/images/2021/10/18/saharanpur_1634557017.jpeg?dpr=1.0&q=65&w=414",
-            "source_id": "amarujala",
-            "source_priority": 55215,
-            "source_name": "Amar Ujala",
-            "source_url": "https://www.amarujala.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/amarujala.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "9c49b4598c18821bda6462efbdf5ae58",
-            "title": "Siddharthnagar News: शादी का वादा कर शारीरिक संबंध बनाने का आरोप",
-            "link": "https://www.amarujala.com/uttar-pradesh/siddharthnagar/allegation-of-having-physical-relationship-with-promise-of-marriage-siddharthnagar-news-c-227-1-sgkp1033-131449-2025-01-29",
-            "keywords": null,
-            "creator": [
-                ""
-            ],
-            "video_url": null,
-            "description": "Allegation of having physical relationship with promise of marriage",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-01-28 19:07:53",
-            "pubDateTZ": "UTC",
-            "image_url": "https://staticimg.amarujala.com/assets/images/2021/12/02/siddharthnagar_1638432039.jpeg?dpr=1.0&q=65&w=414",
-            "source_id": "amarujala",
-            "source_priority": 55215,
-            "source_name": "Amar Ujala",
-            "source_url": "https://www.amarujala.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/amarujala.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "2b5003e67db0e9e5e07c7c08b6116123",
-            "title": "Hamirpur News: जिला जज लिखी कार गैस वाहन से टकराई, चालक सहित तीन घायल",
-            "link": "https://www.amarujala.com/uttar-pradesh/hamirpur/district-judges-written-car-collides-with-gas-vehicle-three-injured-including-driver-hamirpur-news-c-223-1-sknp1027-120361-2025-01-29",
-            "keywords": null,
-            "creator": [
-                "संवाद न्यूज एजेंसी, हमीरपुर"
-            ],
-            "video_url": null,
-            "description": "जिला जज लिखी कार गैस वाहन से टकराई, चालक सहित तीन घायल",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-01-28 19:07:52",
-            "pubDateTZ": "UTC",
-            "image_url": "https://staticimg.amarujala.com/assets/images/2021/12/02/hamirpur_1638430652.jpeg?dpr=1.0&q=65&w=414",
-            "source_id": "amarujala",
-            "source_priority": 55215,
-            "source_name": "Amar Ujala",
-            "source_url": "https://www.amarujala.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/amarujala.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "484019e67a4c3f92f2a5e2631c9e195b",
-            "title": "Saharanpur News: पोल में उतरे करंट से भैंसे की मौत, किसान गंभीर रूप से झुलसा",
-            "link": "https://www.amarujala.com/uttar-pradesh/saharanpur/buffalo-dies-due-to-electric-current-in-pole-farmer-severely-burnt-saharanpur-news-c-30-1-smrt1014-141346-2025-01-29",
-            "keywords": null,
-            "creator": [
-                "संवाद न्यूज एजेंसी, सहारनपुर"
-            ],
-            "video_url": null,
-            "description": "Buffalo dies due to electric current in pole, farmer severely burnt",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-01-28 19:07:51",
-            "pubDateTZ": "UTC",
-            "image_url": "https://staticimg.amarujala.com/assets/images/2021/10/18/saharanpur_1634557017.jpeg?dpr=1.0&q=65&w=414",
-            "source_id": "amarujala",
-            "source_priority": 55215,
-            "source_name": "Amar Ujala",
-            "source_url": "https://www.amarujala.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/amarujala.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "a83586b9b15bb4186fc580e891643ea4",
-            "title": "Siddharthnagar News: मौनी अमावस्या का पवित्र स्नान आज, तैयारी पूरी",
-            "link": "https://www.amarujala.com/uttar-pradesh/siddharthnagar/holy-bath-of-mauni-amavasya-today-preparations-complete-siddharthnagar-news-c-227-1-sdn1002-131409-2025-01-29",
-            "keywords": null,
-            "creator": [
-                ""
-            ],
-            "video_url": null,
-            "description": "Holy bath of Mauni Amavasya today, preparations complete",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-01-28 19:07:51",
-            "pubDateTZ": "UTC",
-            "image_url": "https://staticimg.amarujala.com/assets/images/2021/12/02/siddharthnagar_1638432039.jpeg?dpr=1.0&q=65&w=414",
-            "source_id": "amarujala",
-            "source_priority": 55215,
-            "source_name": "Amar Ujala",
-            "source_url": "https://www.amarujala.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/amarujala.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "b59936e9608e23a74e387049cc85c2f7",
-            "title": "Hamirpur News: दुष्कर्म के बाद हत्या करने के मामले में दो दोषियों को उम्रकैद",
-            "link": "https://www.amarujala.com/uttar-pradesh/hamirpur/life-imprisonment-to-two-accused-in-case-of-murder-after-rape-hamirpur-news-c-223-1-sknp1030-120362-2025-01-29",
-            "keywords": null,
-            "creator": [
-                "संवाद न्यूज एजेंसी, हमीरपुर"
-            ],
-            "video_url": null,
-            "description": "दुष्कर्म के बाद हत्या करने के मामले में दो दोषियों को उम्रकैद",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-01-28 19:07:51",
-            "pubDateTZ": "UTC",
-            "image_url": "https://staticimg.amarujala.com/assets/images/2021/12/02/hamirpur_1638430652.jpeg?dpr=1.0&q=65&w=414",
-            "source_id": "amarujala",
-            "source_priority": 55215,
-            "source_name": "Amar Ujala",
-            "source_url": "https://www.amarujala.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/amarujala.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "606134da5a69c5f91c8aefcefc73b2e3",
-            "title": "Shamli News: लापरवाही पर सीएचओ की सेवा समाप्त करने के दिए निर्देश",
-            "link": "https://www.amarujala.com/uttar-pradesh/shamli/instructions-given-to-terminate-chos-service-for-negligence-shamli-news-c-26-1-sal1002-136016-2025-01-29",
-            "keywords": null,
-            "creator": [
-                "संवाद न्यूज एजेंसी, शामली"
-            ],
-            "video_url": null,
-            "description": "जिला पंचायत के सभागार में मंगलवार को स्वास्थ्य समिति की बैठक में टीकाकरण कम होने पर जिलाधिकारी अरविंद चौहान ने नाराजगी जाहिर की।",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-01-28 19:07:50",
-            "pubDateTZ": "UTC",
-            "image_url": "https://staticimg.amarujala.com/assets/images/2021/12/02/shamli_1638431905.jpeg?dpr=1.0&q=65&w=414",
-            "source_id": "amarujala",
-            "source_priority": 55215,
-            "source_name": "Amar Ujala",
-            "source_url": "https://www.amarujala.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/amarujala.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "29b1400f793227bae56bb98263e0920f",
-            "title": "Sant Kabir Nagar News: छह लिंक सड़कों की बदलेगी सूरत, शासन से एक करोड़ जारी",
-            "link": "https://www.amarujala.com/uttar-pradesh/sant-kabir-nagar/appearance-of-six-link-roads-will-change-rs-1-crore-released-from-government-khalilabad-news-c-209-1-sgkp1039-127722-2025-01-29",
-            "keywords": null,
-            "creator": [
-                "संवाद न्यूज एजेंसी, संत कबीर नगर"
-            ],
-            "video_url": null,
-            "description": "Appearance of six link roads will change, Rs 1 crore released from government",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-01-28 19:07:50",
-            "pubDateTZ": "UTC",
-            "image_url": "https://staticimg.amarujala.com/assets/images/4cplus/2025/01/29/nathanagara-kashhatara-ma-panarama-ka-jarajara-saugdhaka_23f2ac585522139f02b8f329f32e0d9e.jpeg?dpr=1.0&q=65&w=414",
-            "source_id": "amarujala",
-            "source_priority": 55215,
-            "source_name": "Amar Ujala",
-            "source_url": "https://www.amarujala.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/amarujala.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "124edf9ee6c561c78d366ff6274e9ccd",
-            "title": "Saharanpur News: मंडल में बनेंगे नौ आयुष वेलनेस सेंटर भवन",
-            "link": "https://www.amarujala.com/uttar-pradesh/saharanpur/nine-ayush-wellness-center-buildings-will-be-built-in-the-division-saharanpur-news-c-30-1-sah1001-141311-2025-01-29",
-            "keywords": null,
-            "creator": [
-                "संवाद न्यूज एजेंसी, सहारनपुर"
-            ],
-            "video_url": null,
-            "description": "घर के नजदीक मरीजों को बेहतर स्वास्थ्य सुविधाएं मिले, इसके लिए नए स्वास्थ्य केंद्र बनाए जा रहे हैं।",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-01-28 19:07:50",
-            "pubDateTZ": "UTC",
-            "image_url": "https://staticimg.amarujala.com/assets/images/2021/10/18/saharanpur_1634557017.jpeg?dpr=1.0&q=65&w=414",
-            "source_id": "amarujala",
-            "source_priority": 55215,
-            "source_name": "Amar Ujala",
-            "source_url": "https://www.amarujala.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/amarujala.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "c09390aa5f49cac9c34dd77fab135e64",
-            "title": "Siddharthnagar News: महाकुंभ जाने के लिए रेलवे स्टेशन पर उमड़ी श्रद्धालुओं की भीड़",
-            "link": "https://www.amarujala.com/uttar-pradesh/siddharthnagar/crowd-of-devotees-gathered-at-the-railway-station-to-go-to-maha-kumbh-siddharthnagar-news-c-227-1-sgkp1032-131422-2025-01-29",
-            "keywords": null,
-            "creator": [
-                ""
-            ],
-            "video_url": null,
-            "description": "Crowd of devotees gathered at the railway station to go to Maha Kumbh",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-01-28 19:07:50",
-            "pubDateTZ": "UTC",
-            "image_url": "https://staticimg.amarujala.com/assets/images/2021/12/02/siddharthnagar_1638432039.jpeg?dpr=1.0&q=65&w=414",
-            "source_id": "amarujala",
-            "source_priority": 55215,
-            "source_name": "Amar Ujala",
-            "source_url": "https://www.amarujala.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/amarujala.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "7eb5dda647f8f5260ce8051ef70ebdef",
-            "title": "Sultanpur News: बुलेट रोकने से नाराज युवकों ने किया था हमला",
-            "link": "https://www.amarujala.com/uttar-pradesh/sultanpur/youths-angry-over-stopping-the-bullet-attacked-sultanpur-news-c-103-1-ame1010-126333-2025-01-29",
-            "keywords": null,
-            "creator": [
-                "संवाद न्यूज एजेंसी, सुल्तानपुर"
-            ],
-            "video_url": null,
-            "description": "बुलेट रोकने से नाराज युवकों ने किया था हमला",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-01-28 19:07:50",
-            "pubDateTZ": "UTC",
-            "image_url": "https://staticimg.amarujala.com/assets/images/2021/12/01/sultanpur_1638339982.jpeg?dpr=1.0&q=65&w=414",
-            "source_id": "amarujala",
-            "source_priority": 55215,
-            "source_name": "Amar Ujala",
-            "source_url": "https://www.amarujala.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/amarujala.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
             ],
             "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
             "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
