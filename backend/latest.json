@@ -1,6 +1,675 @@
 {
     "articles": [
         {
+            "article_id": "4b17bebe299f39a1c8be259d48a3f76c",
+            "title": "In Not Following the Fed, the BOE Is Set to Be One of the Herd",
+            "link": "https://www.wsj.com/articles/in-not-following-the-fed-the-boe-is-set-to-be-one-of-the-herd-c7ce6f01?siteid=yhoof2&yptr=yahoo",
+            "keywords": null,
+            "creator": [
+                "The Wall Street Journal"
+            ],
+            "video_url": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-02-03 07:07:00",
+            "pubDateTZ": "UTC",
+            "image_url": null,
+            "source_id": "yahoo",
+            "source_priority": 17,
+            "source_name": "Yahoo! News",
+            "source_url": "https://news.yahoo.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/yahoo.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "business"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "a61755132b972ed2d2950de84a4a3605",
+            "title": "Budget math looks realistic, economic growth to pick up pace: Morgan Stanley",
+            "link": "https://www.siasat.com/budget-math-looks-realistic-economic-growth-to-pick-up-pace-morgan-stanley-3174839/",
+            "keywords": [
+                "gdp",
+                "budget",
+                "finance minister",
+                "growth",
+                "business"
+            ],
+            "creator": null,
+            "video_url": null,
+            "description": "New Delhi: The Union Budget has managed to meet the goals of boosting consumption though tax cuts, increasing capex through transfers to states, and maintaining the path of fiscal consolidation which is expected to lead to a recovery in the economic growth rate with macro stability in a comfortable range, according to a Morgan Stanley ...Get the latest updates in Hyderabad City News, Technology, Entertainment, Sports, Politics and Top Stories on WhatsApp & Telegram by subscribing to our channels. You can also download our app for Android and iOS.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-02-03 07:07:00",
+            "pubDateTZ": "UTC",
+            "image_url": "https://cdn.siasat.com/wp-content/uploads/2024/02/Untitled-design-2024-02-01T210615.813.jpg",
+            "source_id": "siasat",
+            "source_priority": 30879,
+            "source_name": "Siasat.com",
+            "source_url": "https://www.siasat.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/siasat.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": true
+        },
+        {
+            "article_id": "cd2d8fab150b203d9f6d3b384f138fd6",
+            "title": "चंद्रबाबू नायडू बोले, वैश्विक AI क्रांति में भारत निभाएगा महत्वपूर्ण भूमिका",
+            "link": "https://hindi.webdunia.com/regional-hindi-news/india-will-play-an-important-role-in-the-ai-%E2%80%8B%E2%80%8Brevolution-125020300029_1.html",
+            "keywords": [
+                "regional news"
+            ],
+            "creator": null,
+            "video_url": null,
+            "description": "Chandrababu Naidu News: आंध्रप्रदेश के मुख्यमंत्री एन. चंद्रबाबू नायडू (Chandrababu Naidu) ने सोमवार को कहा कि भारत कृत्रिम मेधा ( AI) और हरित ऊर्जा क्षेत्रों में महत्वपूर्ण भूमिका निभाने के लिए तैयार है और वैश्विक आर्थिक वृद्धि में प्रमुख चालक के ...",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-02-03 07:07:00",
+            "pubDateTZ": "UTC",
+            "image_url": "https://wd-image.webdunia.com/image-conversion/process-aws.php?outtype=webp&url=https%3A%2F%2Fnonprod-media.webdunia.com%2Fpublic_html%2F_media%2Fhi%2Fimg%2Farticle%2F2024-04%2F08%2Ffull%2F1712587777-2269.jpg",
+            "source_id": "webdunia",
+            "source_priority": 19669,
+            "source_name": "हिन्दी समाचार",
+            "source_url": "https://webdunia.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/webdunia.jpg",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "a6cfecece40d955f877b63143e344eb0",
+            "title": "Tamil Nadu IPS Officer Kalpana Nayak alleges conspiracy to kill her for flagging irregularities",
+            "link": "https://www.news9live.com/state/tamil-nadu/tamil-nadu-ips-officer-kalpana-nayak-alleges-conspiracy-to-kill-her-for-flagging-irregularities-2812272",
+            "keywords": [
+                "tamil nadu"
+            ],
+            "creator": [
+                "Ramkumar"
+            ],
+            "video_url": null,
+            "description": "Kalpana Naik IPS has alleged that the fire incident at her office was not an accident, but rather a deliberate attempt to eliminate her.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-02-03 07:07:00",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.news9live.com/wp-content/uploads/2025/02/Kalpana-Nayak-IPS.jpg",
+            "source_id": "news9live",
+            "source_priority": 193096,
+            "source_name": "News9live",
+            "source_url": "https://www.news9live.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/news9live.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "b73d130e9fa2b6d6d44fa3024882c1b0",
+            "title": "Maruti Brezza कितने कलर ऑप्शन में बिकती है, ₹8.34 लाख कीमत वाली इस एसयूवी की खासियत देखें",
+            "link": "https://navbharattimes.indiatimes.com/auto/car-bikes/maruti-suzuki-brezza-all-color-options-and-price-features-detail/articleshow/117880406.cms",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "Maruti Brezza SUV Color Options: भारत में नई कार खरीदने वाले अब अपनी गाड़ी के कलर कॉम्बिनेशन पर खास ध्यान देते हैं और कार कंपनियां भी ग्राहकों की जरूरत देखते हुए एक से बढ़कर एक सिंगल टोन और डुअल टोन कलर ऑप्शंस पेश कर रही है। जिन लोगों को मारुति सुजुकी की ब्रेजा एसयूवी पसंद आती है, उनके पास तो काफी सारे विकल्प हैं, जो कि देखने में काफी आकर्षक लगते हैं। आइए, आज हम आपको देश की सबसे पॉपुलर एसयूवी में से एक मारुति सुजुकी ब्रेजा के सभी कलर ऑप्शन की तस्वीरें दिखाते हैं।​15 वेरिएंट्सइससे पहले आपको ब्रेजा एसयूवी की कीमत और खासियतों के बारे में बता दें तो यह सब-4 मीटर कॉम्पैक्ट एसयूवी एलएक्सआई, वीएक्सआई, जेडएक्सआई और जेडएक्सआई प्लस जैसे ट्रिम लेवल के कुल 15 वेरिएंट्स में बिकती है। ब्रेजा की मौजूदा एक्स शोरूम प्राइस 8.34 लाख रुपये से शुरू होकर 14.14 लाख रुपये तक जाती है। मारुति ब्रेजा आपको पेट्रोल और सीएनजी पावरट्रेन के साथ मैनुअल और ऑटोमैटिक ट्रांसमिशन ऑप्शन में भी मिल जाएगी।​ब्रेजा के धांसू फीचर्सखूबियों की बात करें तो मारुति सुजुकी ब्रेजा में आपको कंफर्टेबल सीट्स, 9 इंच का टचस्क्रीन इन्फोटेनमेंट सिस्टम, वायरलेस एंड्रॉइड ऑटो और ऐपल कारप्ले सपोर्ट, वायरलेस फोन चार्जर, सनरूफ, कीलेस एंट्री, ऑटो हेडलैंप्स, ऑटोमैटिक क्लाइमेट कंट्रोल, रियर एसी वेंट्स, हेडअप डिस्प्ले, 60:40 रियर स्प्लिट सीट्स, 328 लीटर का बूट स्पेस, 360 डिग्री कैमरा, 6 एयरबैग्स, 19.89 kmpl (पेट्रोल) से लेकर 25.51 km/kg (सीएनजी) तक की माइलेज समेत और भी स्टैंडर्ड और सेफ्टी फीचर्स हैं। अब आप ब्रेजा के कलर ऑप्शन देख लें।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-02-03 07:06:53",
+            "pubDateTZ": "UTC",
+            "image_url": "https://static.langimg.com/photo/imgsize-1392486,msid-117880406/navbharat-times.jpg",
+            "source_id": "navbharattimes",
+            "source_priority": 244,
+            "source_name": "Nbt Navbharattimes",
+            "source_url": "https://navbharattimes.indiatimes.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/navbharattimes.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "other"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "980efda62d8d582780f21cf33fe0a0a4",
+            "title": "जुआ खेलने के विवाद में युवक की हत्या:वैशाली में गला रेतकर 29 जनवरी को मारा था, 3 आरोपी गिरफ्तार",
+            "link": "https://www.bhaskar.com/local/bihar/vaishali/hajipur/news/youth-murdered-in-gambling-dispute-134406601.html",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "वैशाली के जंदाहा थाना क्षेत्र के बहसी दामोदर गांव में 29 जनवरी की देर शाम जुआ खेलने के विवाद में 22 साल के युवक की गला रेतकर हत्या कर दी गई थी। मृतक की पहचान सुनील साहनी के बेटे महेश साहनी के रूप में हुई थी। इसके बाद आरोपियों ने सबूत मिटाने के लिए शव को पास के ही झाड़ियों में छिपा कर जलाने की कोशिश की थी। जांच में यह भी खुलासा हुआ कि आरोपियों ने घटना से दो दिन पहले ही मृतक को जान से मारने की धमकी दी थी। पुलिस ने त्वरित कार्रवाई करते हुए तीन आरोपियों को गिरफ्तार कर लिया है। गिरफ्तार आरोपियों में मोहम्मद रहीम अंसारी का बेटा मोहम्मद मनेर अंसारी, स्वर्गीय जयकिशोर पासवान का बेटा मिथुन कुमार और मुकेश सिंह का बेटा विशाल शामिल है। सभी आरोपी बहसी दामोदर गांव के निवासी है। पुलिस ने आरोपियों को जंदाहा थाना कांड संख्या 40/25 के तहत गिरफ्तार कर न्यायिक हिरासत में भेज दिया है।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-02-03 07:06:52",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.bhaskarassets.com/thumb/1000x1000/web2images/521/2025/02/03/2f75a4a2-87d8-4b5a-92a8-8ea5e9e74c29_1738563226734.jpg",
+            "source_id": "bhaskar_hindi",
+            "source_priority": 34179,
+            "source_name": "Bhaskar",
+            "source_url": "https://www.bhaskar.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/bhaskar_hindi.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top",
+                "tourism"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "fd4fba7dbf224a754cf43e62972c4419",
+            "title": "​8 incredible benefits of onion juice for your hair",
+            "link": "https://economictimes.indiatimes.com/news/web-stories/8-incredible-benefits-of-onion-juice-for-your-hair/slideshow/117880459.cms",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "Onion juice is a natural remedy packed with sulfur, antioxidants, and antibacterial properties that promote hair growth, reduce hair fall, combat dandruff, and improve scalp health. Discover its eight incredible benefits for stronger, healthier hair.​",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-02-03 07:06:52",
+            "pubDateTZ": "UTC",
+            "image_url": "https://img.etimg.com/thumb/msid-117880472,width-900,height-1200,resizemode-6.cms",
+            "source_id": "economictimes_indiatimes",
+            "source_priority": 231,
+            "source_name": "The Economic Times",
+            "source_url": "https://economictimes.indiatimes.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/economictimes_indiatimes.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top",
+                "business"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "2671a7567af117fa132d5d6b9766ab41",
+            "title": "Donald Trump Speech: ट्रंप के ज्यादा बोलने से व्हाइट हाउस के कर्मचारी परेशान, कर्मचारियों ने उठाई मांग",
+            "link": "https://www.prabhatkhabar.com/world/donald-trump-speech-so-much-white-house-stenographers-struggle-to-keep-up",
+            "keywords": [
+                "world news",
+                "world",
+                "donald trump"
+            ],
+            "creator": [
+                "Abhishek Pandey"
+            ],
+            "video_url": null,
+            "description": "Donald Trump Speech: ट्रंप के अत्यधिक भाषणों से व्हाइट हाउस के कर्मचारी परेशान, स्टेनोग्राफरों ने काम का बोझ कम करने के लिए नई भर्ती की मांग की, स्थिति बिगड़ीThe post Donald Trump Speech: ट्रंप के ज्यादा बोलने से व्हाइट हाउस के कर्मचारी परेशान, कर्मचारियों ने उठाई मांग appeared first on Prabhat Khabar.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-02-03 07:06:51",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.prabhatkhabar.com/wp-content/uploads/2025/01/Donald-Trump-1-1.jpg",
+            "source_id": "prabhatkhabar",
+            "source_priority": 343253,
+            "source_name": "Prabhat Khabar",
+            "source_url": "https://www.prabhatkhabar.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/prabhatkhabar.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "40a362bbacb6a985f1cbbd347c2bdea9",
+            "title": "Delhi HC issues summons to Shashi Tharoor in defamation case filed by BJP's Rajeev Chandrasekhar",
+            "link": "https://newsable.asianetnews.com/india/delhi-hc-issues-summons-to-shashi-tharoor-in-defamation-case-filed-by-bjp-s-rajeev-chandrasekhar-anr-sr3ifc",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "The Delhi High Court on Monday (Feb 03) issued a summons to Congress leader Shashi Tharoor in a defamation suit filed by BJP leader Rajeev Chandrashekhar. Chandrasekhar has prayed for an order restraining Tharoor from making any defamatory statements and sought a public apology and damages of Rs 10 crore for defaming and tarnishing his reputation. The suit, which was filed over alleged false and defamatory statements made by Tharoor during the 2024 General Elections, accuses the Congress leader of accusing Chandrashekhar of bribing voters in the Thiruvananthapuram constituency. The bench of Justice Purushainder Kumar Kaurav issued a summon to Shashi Tharoor, instructing him to respond to the defamation charges levelled against him. After hearing the matter, the High Court of Delhi was pleased to issue notice to Tharoor by all permissible modes returnable on April 28, 2025. Rajeev Chandrashekhar has claimed that Tharoor's remarks, made on national television, were intended to damage his reputation and influence the election results. The BJP leader argues that the false allegations, which were widely broadcasted on news channels and social media, played a key role in his loss during the Lok Sabha elections. In the suit, the BJP Leader asserted that false and defamatory statements were made in public forums by Tharoor in April 2024 which severely damaged his professional and personal reputation. Plaintiff Chandrasekhar was represented by Vaibhav Gaggar, Senior Advocate who was briefed by the team of Karanjawala and Company comprising Meghna Mishra- Senior Partner, Ankit Rajgarhia-Principal Associate and Palak Sharma- Associate. On April 10, Chandrasekhar accused Tharoor of disseminating patently false information among the constituents of Thiruvananthapuram, purportedly spreading misleading information regarding bribing key voters and influential figures such as Parish priests, among others.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-02-03 07:06:49",
+            "pubDateTZ": "UTC",
+            "image_url": "https://static-gi.asianetnews.com/images/01htymes40s4p6cx3cb9cc7d48/Rajeev-Chandrasekhar-Challenged-Shashi-Tharoor-1712572556415.jpg",
+            "source_id": "newsable_asianetnews",
+            "source_priority": 7749,
+            "source_name": "Asianet Newsable",
+            "source_url": "https://newsable.asianetnews.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/newsable_asianetnews.jpg",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "aa67a04bb279d314c1feb1bac7440055",
+            "title": "REC Q3 Results: Date, Time, Interim Dividend Details And All You Need To Know",
+            "link": "https://www.ndtvprofit.com/quarterly-earnings/rec-q3-results-date-time-interim-dividend-details-and-all-you-need-to-know",
+            "keywords": [
+                "quarterly earnings"
+            ],
+            "creator": [
+                "NDTV Profit News"
+            ],
+            "video_url": null,
+            "description": "REC in October 2024 declared the second interim dividend for shareholders in FY25, fixing it at Rs 4 per equity share.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-02-03 07:06:45",
+            "pubDateTZ": "UTC",
+            "image_url": "https://media.assettype.com/bloombergquint%2F2025-02-03%2Fiz9a5xcw%2FREC.jpg?auto=format%2Ccompress&ogImage=true&w=1200",
+            "source_id": "bloombergquint",
+            "source_priority": 9222807,
+            "source_name": "Bq Prime",
+            "source_url": "https://www.bloombergquint.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/bloombergquint.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "business"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "53ca3f701719ccb75fb596b614f2ab7e",
+            "title": "Marginal Relief Calculator: What If You Income Is Just Above Rs 12.75 Lakh? Know Your Tax Relief",
+            "link": "https://www.news18.com/business/tax/marginal-relief-calculator-what-if-you-income-is-just-above-rs-12-75-lakh-know-your-tax-relief-9212628.html",
+            "keywords": [
+                "latest"
+            ],
+            "creator": [
+                "News18"
+            ],
+            "video_url": null,
+            "description": "According to the FAQs issued by the government, in the new regime under Section 115BAC(1A), marginal relief is available to only resident individuals who have income \"marginally above Rs 12 lakh\".",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-02-03 07:06:42",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.news18.com/ibnlive/uploads/2025/02/income-tax-calculator-budget-2025-02-5274ef736dbf3a3f77aaadb6857248f9-3x2.jpeg",
+            "source_id": "news18",
+            "source_priority": 3864,
+            "source_name": "News 18",
+            "source_url": "https://www.news18.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/news18.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "dca590ef414d12b087d59638c52cfa14",
+            "title": "India News | Akhilesh Yadav to Address Public Meeting in Milkipur on Final Day of By-poll Campaigning",
+            "link": "https://www.latestly.com/agency-news/india-news-akhilesh-yadav-to-address-public-meeting-in-milkipur-on-final-day-of-by-poll-campaigning-6614281.html",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "Get latest articles and stories on India at LatestLY. On the last day of campaigning for the Milkipur by-election, Samajwadi Party (SP) chief Akhilesh Yadav is set to hold a public meeting in support of SP candidate Ajit Prasad on Monday.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-02-03 07:06:30",
+            "pubDateTZ": "UTC",
+            "image_url": "https://st1.latestly.com/wp-content/uploads/2025/02/ANI-20250203063526-380x214.jpg",
+            "source_id": "latestly",
+            "source_priority": 31923,
+            "source_name": "Latestly",
+            "source_url": "https://www.latestly.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/latestly.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "1f0d2ca5738c7af9a19f4c3c86682f7c",
+            "title": "Srinagar Police Files Chargesheet Against Seven Terror Associates Under UA(P) Act",
+            "link": "https://www.dailyexcelsior.com/1919058-2/",
+            "keywords": [
+                "news",
+                "latest news"
+            ],
+            "creator": [
+                "Daily Excelsior"
+            ],
+            "video_url": null,
+            "description": "Srinagar : Police have filed a chargesheet against seven terror associates under the Unlawful Activities (Prevention) Act (UA(P)A) in the Hon’ble UA(P)A Court, Srinagar. The chargesheet pertains to Case FIR No. 31/2024, registered at Police Station Khanyar, under Sections 13, 18, 20, 23, and 38 of the UA(P) Act, along with Section 7/25 of the Arms Act. A total of 08 accused were involved in the case, including a Pakistani terrorist operating under the code name Usman, who was [...]The post Srinagar Police Files Chargesheet Against Seven Terror Associates Under UA(P) Act appeared first on Daily Excelsior.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-02-03 07:06:23",
+            "pubDateTZ": "UTC",
+            "image_url": "https://cdndailyexcelsior.b-cdn.net/wp-content/uploads/2025/02/sgt.jpg",
+            "source_id": "dailyexcelsior",
+            "source_priority": 693953,
+            "source_name": "Daily Excelsior",
+            "source_url": "https://www.dailyexcelsior.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/dailyexcelsior.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "8a4b00d6d3f92d1d42150328e496a1b1",
+            "title": "CBSE Admit Card 2025 Released For Classes 10 and 12, Check Details",
+            "link": "https://www.ndtv.com/education/cbse-admit-card-2025-released-for-classes-10-and-12-check-details-7622325",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "This year, around 44 lakh students are expected to appear for the Class 10 and Class 12 board examinations.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-02-03 07:06:21",
+            "pubDateTZ": "UTC",
+            "image_url": "https://c.ndtvimg.com/2025-01/nsk4rl1o_dddd_625x300_12_January_25.jpeg?im=FeatureCrop%2Calgorithm%3Ddnn%2Cwidth%3D1200%2Cheight%3D738",
+            "source_id": "ndtv",
+            "source_priority": 1204,
+            "source_name": "Ndtv",
+            "source_url": "http://www.ndtv.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/ndtv.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "055d77863233e6378b27c3f21d4d7e3b",
+            "title": "Yuvi paaji was the one to believe in me: Abhishek Sharma after record-ton",
+            "link": "https://www.deccanchronicle.com/sports/yuvi-paaji-was-the-one-to-believe-in-me-abhishek-sharma-after-record-ton-1858607",
+            "keywords": [
+                "sports,cricket"
+            ],
+            "creator": [
+                "PTI/ DC"
+            ],
+            "video_url": null,
+            "description": "Yuvraj Singh's imprints on Abhishek's flourish are hard to miss but to his credit, he has reciprocated on the field all that the great Indian all-rounder has sounded to him in their countless sessions in myriad set-ups over the last few years",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-02-03 07:06:20",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.deccanchronicle.com/h-upload/2025/02/03/1887318-untitleddesign20.webp",
+            "source_id": "deccanchronicle",
+            "source_priority": 14130,
+            "source_name": "Deccan Chronicle",
+            "source_url": "https://www.deccanchronicle.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/deccanchronicle.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "sports"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "c7227d61b1afe12e27ffff1c47e0ca13",
+            "title": "'Kumbh Pe Jawab Do': Mahakumbh Stampede Rocks Lok Sabha, Oppn Demands Casualties List, Yogi's Resignation",
+            "link": "https://english.jagran.com/india/kumbh-pe-jawab-do-mahakumbh-stampede-rocks-lok-sabha-oppn-demands-casualties-list-yogi-resignation-lok-sabha-proceedings-10216407",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "Budget session,Parliament news,mahakumbh 2025,mahakumbh stampede,yogi adityanath,opposition mp,list of casualties,bjp,congress,SP",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-02-03 07:06:18",
+            "pubDateTZ": "UTC",
+            "image_url": "https://imgeng.jagran.com/images/2025/02/03/article/image/BHAARJVJH-1738568024244.webp",
+            "source_id": "english_jagran",
+            "source_priority": 10561,
+            "source_name": "Jagran English",
+            "source_url": "https://english.jagran.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/english_jagran.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "e9c7fee939b86613470b54b2bbe15d7d",
+            "title": "Argo Blockchain PLC Announces PDMR Dealing",
+            "link": "https://in.investing.com/news/press-releases/argo-blockchain-plc-announces-pdmr-dealing-93CH-4642865",
+            "keywords": null,
+            "creator": [
+                "Investing.com"
+            ],
+            "video_url": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-02-03 07:06:09",
+            "pubDateTZ": "UTC",
+            "image_url": "https://i-invdn-com.investing.com/news/World_News_10_M_1440052130.jpg",
+            "source_id": "investing_in",
+            "source_priority": 1205,
+            "source_name": "Investing India",
+            "source_url": "https://in.investing.com",
+            "source_icon": null,
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "38e0cbbe4ae53d8eedad4a3947359366",
+            "title": "GoldHaven Files 43-101 Technical Report on CopeÃ§al Gold Project in Brazil",
+            "link": "https://in.investing.com/news/press-releases/goldhaven-files-43101-technical-report-on-copeaal-gold-project-in-brazil-93CH-4642866",
+            "keywords": null,
+            "creator": [
+                "Investing.com"
+            ],
+            "video_url": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-02-03 07:06:09",
+            "pubDateTZ": "UTC",
+            "image_url": "https://i-invdn-com.investing.com/news/World_News_8_M_1440052125.jpg",
+            "source_id": "investing_in",
+            "source_priority": 1205,
+            "source_name": "Investing India",
+            "source_url": "https://in.investing.com",
+            "source_icon": null,
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "557f4edbc2d06068e12b8c2533596261",
+            "title": "VAALCO Energy, Inc. Announces Significant Milestone in Its CÃ ́te D'Ivoire FPSO Dry Dock Refurbishment Project",
+            "link": "https://in.investing.com/news/press-releases/vaalco-energy-inc-announces-significant-milestone-in-its-cate-divoire-fpso-dry-dock-refurbishment-project-93CH-4642862",
+            "keywords": null,
+            "creator": [
+                "Investing.com"
+            ],
+            "video_url": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-02-03 07:06:08",
+            "pubDateTZ": "UTC",
+            "image_url": "https://i-invdn-com.investing.com/news/World_News_10_M_1440052130.jpg",
+            "source_id": "investing_in",
+            "source_priority": 1205,
+            "source_name": "Investing India",
+            "source_url": "https://in.investing.com",
+            "source_icon": null,
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "c36cda8495a6441584491747c187873d",
+            "title": "Delhi Elections 2025: The Rise of AAP And Fall Of Congress",
+            "link": "https://www.freepressjournal.in/india/delhi-elections-the-rise-of-aap-and-fall-of-congress",
+            "keywords": [
+                "india",
+                "topnews",
+                "fpj shorts"
+            ],
+            "creator": null,
+            "video_url": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-02-03 07:06:08",
+            "pubDateTZ": "UTC",
+            "image_url": "https://media.assettype.com/freepressjournal/2025-02-03/bbwub0vn/AAP-rise-Congress-fall.jpg",
+            "source_id": "freepressjournal",
+            "source_priority": 26427,
+            "source_name": "The Free Press Journal",
+            "source_url": "https://www.freepressjournal.in",
+            "source_icon": "https://i.bytvi.com/domain_icons/freepressjournal.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
             "article_id": "f95b802a18bc952a2ba2c4a8c53020d9",
             "title": "Non-bailable warrant issued by Palakkad court against Ramdev for providing misleading medical advertisements",
             "link": "https://www.news9live.com/state/kerala/non-bailable-warrant-issued-by-palakkad-court-against-ramdev-for-providing-misleading-medical-advertisements-2812320",
@@ -23121,764 +23790,6 @@
             ],
             "category": [
                 "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "ae28ecfc5d069aa40404f416bee1a8e4",
-            "title": "आज का मेष राशिफल, 02 फरवरी 2025, रविवार - आप धैर्य से काम लेंगे!",
-            "link": "https://hindi.oneindia.com/astrology/aaj-ka-mesh-rashifal-02-february-2025-read-aries-horoscope-today-prediction-in-hindi-011-1215651.html",
-            "keywords": [
-                "astrology"
-            ],
-            "creator": null,
-            "video_url": null,
-            "description": "मेष राशिफल आज 02 फरवरी 2025, हिंदी में, रविवार: हमारे दैनिक ज्योतिष भविष्यवाणियों के साथ अपने दिन का अन्वेषण करें",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-02-01 19:06:25",
-            "pubDateTZ": "UTC",
-            "image_url": "https://imagesvs.oneindia.com/hi/img/2025/02/aries-horoscope-today-february-02-sunday-astrology-prediction-600x338-20250202003610.jpg",
-            "source_id": "oneindia",
-            "source_priority": 12404,
-            "source_name": "One India",
-            "source_url": "https://www.oneindia.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/oneindia.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "86b3dc84fb9d49a3ba66cfa1a8ee4f16",
-            "title": "U.S. Airstrikes Target ISIS Leaders in Somalia",
-            "link": "https://www.devdiscourse.com/article/politics/3249283-us-airstrikes-target-isis-leaders-in-somalia",
-            "keywords": null,
-            "creator": null,
-            "video_url": null,
-            "description": "U.S. Airstrikes Target ISIS Leaders in Somalia In recent developments, Somalia's President Hassan Sheikh Mohamud has expressed his acknowledgment of U.S. military airstrikes that target key Islamic State leaders in the northern regions of the nation.The president's office, in a social media statement, conveyed appreciation for the unwavering support demonstrated by the United States against the threat of international terrorism. Additionally, President Mohamud welcomed the ongoing decisive commitment under the leadership of U.S. President Donald Trump, further strengthening anti-terrorism efforts in the region.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-02-01 19:06:09",
-            "pubDateTZ": "UTC",
-            "image_url": "https://devdiscourse.blob.core.windows.net/devnews/01_02_2025_22_20_30_7378528.jpg",
-            "source_id": "devdiscourse",
-            "source_priority": 566021,
-            "source_name": "Devdiscourse",
-            "source_url": "https://www.devdiscourse.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/devdiscourse.jpg",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "1d5a5e892b0e969252fdab817c7460dd",
-            "title": "Police arrest key suspect in harassing of women on East Coast Road",
-            "link": "https://www.thehindu.com/news/cities/chennai/police-arrest-key-suspect-in-harassing-of-women-on-east-coast-road/article69169482.ece",
-            "keywords": [
-                "chennai"
-            ],
-            "creator": null,
-            "video_url": null,
-            "description": "The case relates to a complaint alleging that on January 25, a group of women was harassed by men who came in two cars",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-02-01 19:06:06",
-            "pubDateTZ": "UTC",
-            "image_url": "https://www.thehindu.com/theme/images/og-image.png",
-            "source_id": "thehindu",
-            "source_priority": 2972,
-            "source_name": "The Hindu",
-            "source_url": "https://www.thehindu.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/thehindu.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "9df2e9cd4ea8523193de92684de7b32a",
-            "title": "Kalahandi cops arrest 6 dacoits from Ranchi, recover Rs 3.5cr",
-            "link": "https://timesofindia.indiatimes.com/city/bhubaneswar/kalahandi-cops-arrest-6-dacoits-from-ranchi-recover-rs-3-5cr/articleshow/117831417.cms",
-            "keywords": null,
-            "creator": [
-                "Debabrata Mohapatra"
-            ],
-            "video_url": null,
-            "description": null,
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-02-01 19:06:06",
-            "pubDateTZ": "UTC",
-            "image_url": "https://static.toiimg.com/thumb/msid-117841282,width-1070,height-580,imgsize-85004,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-            "source_id": "toi",
-            "source_priority": 239,
-            "source_name": "The Times Of India",
-            "source_url": "https://timesofindia.indiatimes.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/toi.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "cee72fbe0419c31bd7c36da7cd85cb42",
-            "title": "नेपाल सीमा पर स्थित 90 मदरसों की मान्यता रद्द करने की तैयारी, शासन को भेजी गई सिफारिश",
-            "link": "https://indianews.in/breaking/preparation-to-cancel-recognition-of-90-madrassas-located-on-nepal-border-recommendation-sent-to-government/",
-            "keywords": null,
-            "creator": null,
-            "video_url": null,
-            "description": "India News UP (इंडिया न्यूज़), Bahraich News: बहराइच जिले में संचालित 90 मदरसों की मान्यता रद्द करने की सिफारिश की गई है। जिला अल्पसंख्यक कल्याण अधिकारी (DMO) संजय मिश्रा ने शासन को पत्र लिखकर इन मदरसों पर कार्रवाई की मांग की है। जनपद बहराइच में कुल 301 मान्यता प्राप्त मदरसे संचालित हैं। इनमें से नेपाल सीमा से [...]",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-02-01 19:06:05",
-            "pubDateTZ": "UTC",
-            "image_url": "https://indianews.in/wp-content/uploads/2025/02/UP-.webp",
-            "source_id": "indianews",
-            "source_priority": 1433119,
-            "source_name": "India News Rajasthan",
-            "source_url": "https://rajasthan.indianews.in",
-            "source_icon": "https://i.bytvi.com/domain_icons/indianews.jpg",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "d87c691836c115cdd64c502f8ec21e8b",
-            "title": "दिल्ली विधानसभा चुनाव से पहले चुनाव आयोग की सख्त कार्रवाई, अधिकारियों को दिए गए कड़े निर्देश",
-            "link": "https://indianews.in/delhi/strict-action-by-election-commission-before-delhi-assembly-elections-strict-instructions-given-to-officials/",
-            "keywords": null,
-            "creator": null,
-            "video_url": null,
-            "description": "India News Delhi (इंडिया न्यूज़), Delhi Elections 2025: आगामी दिल्ली विधानसभा चुनाव से पहले निर्वाचन आयोग ने राजधानी में सुरक्षा व्यवस्था को लेकर कड़े कदम उठाने का निर्णय लिया है। चुनाव आयोग ने दिल्ली के शीर्ष पुलिस अधिकारियों को निर्देश दिए हैं कि वे 5 फरवरी को मतदान से पहले सुरक्षा स्थिति पर विशेष बैठक करें, [...]",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-02-01 19:06:05",
-            "pubDateTZ": "UTC",
-            "image_url": "https://indianews.in/wp-content/uploads/2025/02/Delhi-Election-2025-1-1.webp",
-            "source_id": "indianews",
-            "source_priority": 1433119,
-            "source_name": "India News Rajasthan",
-            "source_url": "https://rajasthan.indianews.in",
-            "source_icon": "https://i.bytvi.com/domain_icons/indianews.jpg",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "09c1531dac8c61ee2f23471eb89254d6",
-            "title": "Ad agency owner chopped 552 Bismarck palm & Ashok trees to install pole kiosks, unfurl banners",
-            "link": "https://timesofindia.indiatimes.com/city/nagpur/ad-agency-owner-chopped-552-bismarck-palm-ashok-trees-to-install-pole-kiosks-unfurl-banners/articleshow/117841281.cms",
-            "keywords": null,
-            "creator": [
-                "Viraj Deshpande"
-            ],
-            "video_url": null,
-            "description": null,
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-02-01 19:05:56",
-            "pubDateTZ": "UTC",
-            "image_url": "https://static.toiimg.com/thumb/msid-117841278,width-1070,height-580,imgsize-117472,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-            "source_id": "toi",
-            "source_priority": 239,
-            "source_name": "The Times Of India",
-            "source_url": "https://timesofindia.indiatimes.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/toi.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "8c9226ebe0d21ccead1c1627133352cb",
-            "title": "Art teacher held for secretlyfilming women in restroom",
-            "link": "https://timesofindia.indiatimes.com/city/nagpur/art-teacher-held-for-secretlyfilming-women-in-restroom/articleshow/117841274.cms",
-            "keywords": null,
-            "creator": null,
-            "video_url": null,
-            "description": null,
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-02-01 19:05:48",
-            "pubDateTZ": "UTC",
-            "image_url": "https://static.toiimg.com/thumb/msid-117841271,width-1070,height-580,imgsize-22942,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-            "source_id": "toi",
-            "source_priority": 239,
-            "source_name": "The Times Of India",
-            "source_url": "https://timesofindia.indiatimes.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/toi.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "4c60693ee70a5ce7f0bf24d0cb637ecc",
-            "title": "What Happened To Ac7ionMan? Streamer's Exchange With Border Patrol Agent Caught On Video",
-            "link": "https://www.timesnownews.com/world/us/us-buzz/what-happened-to-ac7ionman-streamer-detained-by-border-patrol-article-117840542",
-            "keywords": null,
-            "creator": [
-                "Naman Trivedi"
-            ],
-            "video_url": null,
-            "description": "Streamer Ac7ionMan, real name Aaron Travis, was asked to stop recording inside a border patrol detention center. In a video that has gone viral on X, Travis is seen conversing with a border patrol agent before being asked to stop recording because he did not have the authorization to do so.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-02-01 19:05:40",
-            "pubDateTZ": "UTC",
-            "image_url": "https://static.tnn.in/thumb/msid-117841168,thumbsize-333358,width-1280,height-720,resizemode-75/117841168.jpg",
-            "source_id": "timesnownews",
-            "source_priority": 2243,
-            "source_name": "Times Now News",
-            "source_url": "https://www.timesnownews.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/timesnownews.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "b72c993b37b872d64291343f44761748",
-            "title": "Bawankule criticizes Sonia Gandhi’s remark on President Murmu",
-            "link": "https://timesofindia.indiatimes.com/city/nagpur/bawankule-criticizes-sonia-gandhis-remark-on-president-murmu/articleshow/117841267.cms",
-            "keywords": null,
-            "creator": [
-                "Ved Ghulghule"
-            ],
-            "video_url": null,
-            "description": null,
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-02-01 19:05:39",
-            "pubDateTZ": "UTC",
-            "image_url": "https://static.toiimg.com/thumb/msid-117593244,imgsize-102912,width-400,height-225,resizemode-72/117593244.jpg",
-            "source_id": "toi",
-            "source_priority": 239,
-            "source_name": "The Times Of India",
-            "source_url": "https://timesofindia.indiatimes.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/toi.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "32f4cdd4b0d576ef53ff194700ae7c58",
-            "title": "Union Budget dashes Vidarbha’s development dreams, experts decry neglect",
-            "link": "https://timesofindia.indiatimes.com/city/nagpur/union-budget-dashes-vidarbhas-development-dreams-experts-decry-neglect/articleshow/117841268.cms",
-            "keywords": null,
-            "creator": [
-                "Viraj Deshpande and Vaibhav Ganjapure"
-            ],
-            "video_url": null,
-            "description": null,
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-02-01 19:05:39",
-            "pubDateTZ": "UTC",
-            "image_url": "https://static.toiimg.com/thumb/msid-117841266,imgsize-41374,width-400,height-225,resizemode-72/117841266.jpg",
-            "source_id": "toi",
-            "source_priority": 239,
-            "source_name": "The Times Of India",
-            "source_url": "https://timesofindia.indiatimes.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/toi.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "393ee434e853442cf04210ae56626c84",
-            "title": "Doctor dies in SUV crash, colleague critically injured",
-            "link": "https://timesofindia.indiatimes.com/city/hyderabad/doctor-dies-in-suv-crash-colleague-critically-injured/articleshow/117841262.cms",
-            "keywords": null,
-            "creator": null,
-            "video_url": null,
-            "description": null,
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-02-01 19:05:33",
-            "pubDateTZ": "UTC",
-            "image_url": "https://static.toiimg.com/thumb/msid-117518051,width-1070,height-580,imgsize-173662,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-            "source_id": "toi",
-            "source_priority": 239,
-            "source_name": "The Times Of India",
-            "source_url": "https://timesofindia.indiatimes.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/toi.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "9ff2bf1994101e6b7349dfe875723305",
-            "title": "Maha Start-Up Capital After Amrit Kaal Budget: CM",
-            "link": "https://timesofindia.indiatimes.com/city/nagpur/maha-start-up-capital-after-amrit-kaal-budget-cm/articleshow/117841196.cms",
-            "keywords": null,
-            "creator": [
-                "Vaibhav Ganjapure"
-            ],
-            "video_url": null,
-            "description": null,
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-02-01 19:05:33",
-            "pubDateTZ": "UTC",
-            "image_url": "https://static.toiimg.com/thumb/msid-117841255,width-1070,height-580,imgsize-49292,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-            "source_id": "toi",
-            "source_priority": 239,
-            "source_name": "The Times Of India",
-            "source_url": "https://timesofindia.indiatimes.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/toi.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "befa0adafd44d1c63cbf26d1bf4dacd2",
-            "title": "Assam reports 1st Guillain-Barre Syndrome death, Maharashtra tally climbs to 5",
-            "link": "https://timesofindia.indiatimes.com/india/assam-reports-1st-guillain-barre-syndrome-death-maharashtra-tally-climbs-to-5/articleshow/117841253.cms",
-            "keywords": null,
-            "creator": [
-                "Neha Madaan and Kangkan Kalita"
-            ],
-            "video_url": null,
-            "description": "Maharashtra reported its fifth death due to Guillain-Barre Syndrome (GBS), with Assam confirming its first fatality. The outbreak has caused an increase in critical cases in Pune, leading to a rise in ICU admissions and ventilator support. Water contamination has been identified as a potential cause.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-02-01 19:05:30",
-            "pubDateTZ": "UTC",
-            "image_url": "https://static.toiimg.com/thumb/msid-117841340,imgsize-29304,width-400,resizemode-4/117841340.jpg",
-            "source_id": "toi",
-            "source_priority": 239,
-            "source_name": "The Times Of India",
-            "source_url": "https://timesofindia.indiatimes.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/toi.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "food"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "2d25587e7f6bd2f2ce50fdde30368a75",
-            "title": "Union Budget 2025-26",
-            "link": "https://kashmirreader.com/2025/02/02/union-budget-2025-26/",
-            "keywords": [
-                "business"
-            ],
-            "creator": [
-                "Agencies"
-            ],
-            "video_url": null,
-            "description": "FM announces removal of import duties on 12 critical minerals, 36 drugs for cancer, rare diseases NEW DELHI: Finance Minister Nirmala Sitharaman on Saturday announced the removal of import duties on 12 critical minerals, lithium-ion batteries scrap, cobalt products, LED, zinc and 36 drugs for cancer and rare diseases. Presenting her eighth straight budget, Sitharaman [...]",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-02-01 19:05:23",
-            "pubDateTZ": "UTC",
-            "image_url": null,
-            "source_id": "kashmirreader",
-            "source_priority": 1088812,
-            "source_name": "Kashmir Reader",
-            "source_url": "https://kashmirreader.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/kashmirreader.jpg",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "business"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "397b32647ed700760fec322a6af83137",
-            "title": "SPOBIS 2025: Europe’s Biggest Sports Business Conference Set To Be Held In Hamburg - All You Need To Know",
-            "link": "https://www.outlookindia.com/sports/others/spobis-2025-europes-biggest-sports-business-conference-set-to-be-held-in-hamburg-germany-all-you-need-to-know",
-            "keywords": [
-                " sports business",
-                " germany",
-                " sports business conference",
-                " sports tourism",
-                " sports business industry",
-                " sports industry",
-                " hamburg",
-                " what is spobis",
-                " spobis conference schedule",
-                " spobis conference",
-                " spobis conference speakers",
-                "spobis 2025"
-            ],
-            "creator": null,
-            "video_url": null,
-            "description": null,
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-02-01 19:05:22",
-            "pubDateTZ": "UTC",
-            "image_url": "https://media.assettype.com/outlookindia/2025-02-01/ixz0fe2y/470688118183402626111440471769962407497476934n.jpeg?ar=40%3A21&auto=format%2Ccompress&enlarge=true&mode=crop&ogImage=true&overlay=false&overlay_position=bottom&overlay_width=100&w=1200",
-            "source_id": "outlookindia",
-            "source_priority": 1033,
-            "source_name": "Outlook",
-            "source_url": "https://www.outlookindia.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/outlookindia.jpg",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "d389b7a35f19938f9f274eb8334f378d",
-            "title": "Centre to introduce new Income Tax bill in Parliament next week",
-            "link": "https://kashmirreader.com/2025/02/02/centre-to-introduce-new-income-tax-bill-in-parliament-next-week/",
-            "keywords": [
-                "business"
-            ],
-            "creator": [
-                "Agencies"
-            ],
-            "video_url": null,
-            "description": "To raise insurance FDI to 100% NEW DELHI: The government will introduce a new Income Tax bill next week to take forward the “trust first, scrutinise later” concept, Finance Minister Nirmala Sitharaman said on Saturday. In another major reform move, the minister announced that the Foreign Direct Investment (FDI) in the insurance sector will be [...]",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-02-01 19:04:53",
-            "pubDateTZ": "UTC",
-            "image_url": null,
-            "source_id": "kashmirreader",
-            "source_priority": 1088812,
-            "source_name": "Kashmir Reader",
-            "source_url": "https://kashmirreader.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/kashmirreader.jpg",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "business"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "bb1722e5793930b69242e317918206bb",
-            "title": "Budget For J & K: Mixed Reaction From Kashmir Inc",
-            "link": "https://menafn.com/1109156928/Budget-For-J-K-Mixed-Reaction-From-Kashmir-Inc",
-            "keywords": null,
-            "creator": [
-                "marketing@menafn.com (MENAFN)"
-            ],
-            "video_url": null,
-            "description": "(MENAFN - Kashmir Observer)Representational PhotoSrinagar- The Centre proposing allocation of Rs 41000.07 crore to Jammu & Kashmir in the 2025-26 Union Budget evoked a mixed response from the ...",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-02-01 19:04:52",
-            "pubDateTZ": "UTC",
-            "image_url": "https://menafn.com/updates/pr/2025-02/01/KO_9849cimage_story.jpg",
-            "source_id": "menafn",
-            "source_priority": 1117534,
-            "source_name": "Menafn",
-            "source_url": "https://menafn.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/menafn.png",
-            "language": "english",
-            "country": [
-                "georgia",
-                "yemen",
-                "afghanistan",
-                "cyprus",
-                "india",
-                "singapore",
-                "saudi arabia",
-                "maldives",
-                "japan",
-                "united arab emirates",
-                "malaysia",
-                "china",
-                "south korea",
-                "north korea",
-                "taiwan",
-                "thailand",
-                "pakistan",
-                "mongolia",
-                "brunei",
-                "lebanon",
-                "indonesia",
-                "kyrgyzstan",
-                "syria",
-                "israel",
-                "bhutan",
-                "iran",
-                "turkey",
-                "armenia",
-                "qatar",
-                "philippines",
-                "kazakhstan",
-                "iraq",
-                "bangladesh",
-                "laos",
-                "vietnam",
-                "timor-leste",
-                "kuwait",
-                "myanmar",
-                "azerbaijan",
-                "jordan",
-                "nepal",
-                "sri lanka",
-                "uzbekistan",
-                "turkmenistan",
-                "macau",
-                "bahrain",
-                "cambodia",
-                "tajikistan"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "e31fd0353e42ad164cee26211a085c7a",
-            "title": "Budget For J & K: NC Satisfied, Congress, PC Critical",
-            "link": "https://menafn.com/1109156927/Budget-For-J-K-NC-Satisfied-Congress-PC-Critical",
-            "keywords": null,
-            "creator": [
-                "marketing@menafn.com (MENAFN)"
-            ],
-            "video_url": null,
-            "description": "(MENAFN - Kashmir Observer)Nirmala Sitharaman Creates History With 8th Consecutive BudgetSrinagar- The ruling National Conference on Saturday expressed satisfaction over some of the announcements ...",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-02-01 19:04:51",
-            "pubDateTZ": "UTC",
-            "image_url": "https://menafn.com/updates/pr/2025-02/01/KO_5de68image_story.jpg",
-            "source_id": "menafn",
-            "source_priority": 1117534,
-            "source_name": "Menafn",
-            "source_url": "https://menafn.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/menafn.png",
-            "language": "english",
-            "country": [
-                "georgia",
-                "yemen",
-                "afghanistan",
-                "cyprus",
-                "india",
-                "singapore",
-                "saudi arabia",
-                "maldives",
-                "japan",
-                "united arab emirates",
-                "malaysia",
-                "china",
-                "south korea",
-                "north korea",
-                "taiwan",
-                "thailand",
-                "pakistan",
-                "mongolia",
-                "brunei",
-                "lebanon",
-                "indonesia",
-                "kyrgyzstan",
-                "syria",
-                "israel",
-                "bhutan",
-                "iran",
-                "turkey",
-                "armenia",
-                "qatar",
-                "philippines",
-                "kazakhstan",
-                "iraq",
-                "bangladesh",
-                "laos",
-                "vietnam",
-                "timor-leste",
-                "kuwait",
-                "myanmar",
-                "azerbaijan",
-                "jordan",
-                "nepal",
-                "sri lanka",
-                "uzbekistan",
-                "turkmenistan",
-                "macau",
-                "bahrain",
-                "cambodia",
-                "tajikistan"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "ff7f51ec91d12a975e646890932579eb",
-            "title": "स्वतंत्रता-सेनानी, चौरीचौरा समेत 11 ट्रेनें निरस्त, 04 का रूट चेंज:वाराणसी, प्रयागराज, अयोध्या में तीर्थ क्षेत्र में श्रद्धालुओं के सैलाब को रोकने के लिए रेलवे ने उठाया कदम",
-            "link": "https://www.bhaskar.com/local/uttar-pradesh/varanasi/news/11-trains-including-swatantrata-senani-and-chauri-chaura-cancelled-04-routes-changed-134397517.html",
-            "keywords": null,
-            "creator": null,
-            "video_url": null,
-            "description": "महाकुंभ में भगदड़ जैसी घटनाएं भी आस्था के सैलाब को रोक नहीं पा रही। त्रिकोण तीर्थक्षेत्र यानी वाराणसी, प्रयागरण और अयोध्या में तीर्थयात्रियों की भीड़ कम होने का नाम नहीं ले रही। अपील के बाद भी काशी के साथ पूरे देश से श्रद्धालुओं का प्रयागराज और अयोध्या आने का सिलसिला जारी है। वाराणसी में ही वसंत पंचमी पर 50 लाख से अधिक भीड़ का अनुमान है। वाराणसी और प्रयागराज में लगातार बढ़ती भीड़ को देखते हुए क्राउड मैनेजमेंट के तहत रेलवे ने स्वतंत्रता संग्राम सेनानी, चौरीचौरा समेत 11 ट्रेनों को निरस्त कर दिया है। कैंसिल की गई सभी ट्रेनें वाराणसी और प्रयागराज होते हुए गंतव्य को जाती है। पहले जानिए कौन सी ट्रेन कब तक है कैंसिल 02 एवं 03 फरवरी को नई दिल्ली से प्रस्थान करने वाली गाड़ी सं. 12562 (नई दिल्ली-जयनगर) स्वतंत्रता सेनानी एक्सप्रेस निरस्त। 02 से 04 फरवरी तक गोरखपुर से प्रस्थान करने वाली गाड़ी सं 15004 (गोरखपुर-कानपुर अनवरगंज) चौरीचौरा एक्सप्रेस निरस्त रहेगी 02 से 04 फरवरी तक हावड़ा से प्रस्थान करने वाली 12333 (हावड़ा-प्रयागराज रामबाग) विभूति एक्सप्रेस निरस्त रहेगी 02 से 04 फरवरी तक आनंद विहार टर्मिनल से प्रस्थान करने वाली गाड़ी सं 14006 (आनंद विहार टर्मिनल-सीतामढ़ी) लिच्छवी एक्सप्रेस निरस्त। 02 से 04 फरवरी तक वाराणसी सिटी एवं गोरखपुर से प्रस्थान करने वाली वाराणसी सिटी-गोरखपुर/वाराणसी सिटी-गोरखपुर एक्सप्रेस गाड़ी 15131/15132 निरस्त रहेगी। 03 एवं 04 फरवरी को जयनगर से प्रस्थान करने वाली ट्रेन नंबर 12561 (जयनगर-नई दिल्ली) स्वतंत्रता सेनानी एक्सप्रेस कैंसिल। 03 से 05 फरवरी तक कानपुर अनवरगंज से प्रस्थान करने वाली गाड़ी सं. 15003 (कानपुर अनवरगंज-गोरखपुर) चौरीचौरा एक्सप्रेस कैंसिल। 03 से 05 फरवरी तक प्रयागराज रामबाग से प्रस्थान करने वाली गाड़ी सं 12334 (प्रयागराज रामबाग-हावड़ा) विभूति एक्सप्रेस निरस्त। 03 से 05 फरवरी तक सीतामढ़ी से प्रस्थान करने वाली गाड़ी सं 14005 (सीतामढ़ी-आनंद विहार टर्मिनल) लिच्छवी एक्सप्रेस निरस्त। 03 से 05 फरवरी तक वाराणसी सिटी एवं गोरखपुर से प्रस्थान करने वाली वाराणसी सिटी-गोरखपुर/वाराणसी सिटी-गोरखपुर एक्सप्रेस गाड़ी 15130/15129 निरस्त। 03 से 05 फरवरी,2025 तक बनारस एवं गोरखपुर स्टेशनों से चलने वाली गाड़ी सं- 15103/15104 बनारस-गोरखपुर-बनारस इंटरसिटी एक्सप्रेस निरस्त रहेगी। गोरखपुर तक चलेगी कृषक एक्सप्रेस लखनऊ से 02 से 04 फरवरी तक चलने वाली 15008 (लखनऊ-वाराणसी सिटी) कृषक एक्सप्रेस गोरखपुर तक ही जाएगी। ट्रेन गोरखपुर - वाराणसी सिटी के मध्य चार फरवरी तक निरस्त रहेगी। 03 से 05 फरवरी तक कृषक एक्सप्रेस 15007 गोरखपुर से ही चलेगी। ये ट्रेन भी वाराणसी नहीं आएगी। जानिए किन ट्रेनों का मार्ग हुआ परिवर्तन 03 फरवरी को गोरखपुर से प्रस्थान करने वाली गाड़ी सं-15018 (गोरखपुर-लोकमान्य तिलक टर्मिनल) काशी दादर एक्सप्रेस अपने निर्धारित मार्ग के स्थान पर गोरखपुर- बाराबंकी- लखनऊ-कानपूर सेंट्रल- झाँसी-इटारसी होकर चलेगी। डाइवर्जन के कारण ये ट्रेन पूर्व निर्धारित ठहराव चौरीचौरा, देवरिया सदर, भटनी, सलेमपुर, बेल्थरा रोड, मऊ, जखनिया, सादत, औडिहार, वाराणसी सिटी, वाराणसी, भदोही, जंघई, उग्रसेनपुर,फूलपुर,फाफामऊ,प्रयागराज, नैनी, मानिकपुर, कटनी, जबलपुर, नरसिंहपुर, पिपरिया, सोहागपुर स्टेशनों पर नहीं रुकेगी। पवन एक्सप्रेस की दिशा बदली 03 फरवरी,2025 को छपरा से प्रस्थान करने वाली गाड़ी सं11060 (छपरा-लोकमान्य तिलक टर्मिनल) पवन एक्सप्रेस अपने निर्धारित मार्ग के स्थान पर परिवर्तित मार्ग शाहगंज -लखनऊ-कानपूर सेन्ट्रल- झाँसी-बिना-इटारसी होकर चलाई जाएगी। ये ट्रेन अगले आदेश तक जौनपुर,जफराबाद,मणियाहू,जंघ,फूलपुर, प्रयागराज, नैनी, सतना, जबलपुर नहीं जाएगी। मुंबई से आ रही ट्रेन नहीं जाएगी प्रयागराज 02 फरवरी,2025 को यात्रियों को लेकर लोकमान्य तिलक टर्मिनल से प्रस्थान करने वाली गाड़ी सं-15017 (लोकमान्य तिलक टर्मिनल-गोरखपुर) काशी दादर एक्सप्रेस अपने निर्धारित मार्ग के स्थान पर इटारसी-झाँसी-कानपुर सेंट्रल -लखनऊ -बाराबंकी-गोरखपुर होकर चलाई जाएगी। ये ट्रेन भी प्रयागराज और वाराणसी अपने अन्य पूर्व निर्धारित रूट से नहीं चलेगी। 02 फरवरी को लोकमान्य तिलक टर्मिनल से प्रस्थान करने वाली गाड़ी सं-11055 (लोकमान्य तिलक टर्मिनल-छपरा) एक्सप्रेस अपने निर्धारित मार्ग के स्थान पर परिवर्तित मार्ग इटारसी- झाँसी-कानपुर-लखनऊ-शाहगंज होकर चलाई जाएगी।",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-02-01 19:04:42",
-            "pubDateTZ": "UTC",
-            "image_url": "https://images.bhaskarassets.com/thumb/1000x1000/web2images/521/2025/02/02/videocapture20250202-002846_1738436350.jpg",
-            "source_id": "bhaskar_hindi",
-            "source_priority": 34179,
-            "source_name": "Bhaskar",
-            "source_url": "https://www.bhaskar.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/bhaskar_hindi.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top",
-                "domestic"
             ],
             "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
             "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
