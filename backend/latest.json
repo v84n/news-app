@@ -1,6 +1,826 @@
 {
     "articles": [
         {
+            "article_id": "316c10bd1b9684291c856917e7ad0785",
+            "title": "FB Financial के जेम्स एयर्स ने स्टॉक में $209,260 की खरीदारी की",
+            "link": "https://hi.investing.com/news/insider-trading-news/article-93CH-394171",
+            "keywords": null,
+            "creator": [
+                "Investing.com"
+            ],
+            "video_url": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-02-05 22:08:43",
+            "pubDateTZ": "UTC",
+            "image_url": "https://i-invdn-com.investing.com/news/news_pile_108x81.jpg",
+            "source_id": "investing_hi",
+            "source_priority": 1143,
+            "source_name": "Investing भारत",
+            "source_url": "https://hi.investing.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/investing_hi.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "4758df896c924f9f12373c9c8eaa3c54",
+            "title": "स्काईवर्क्स ने iPhone सेटबैक पर टम्बल शेयर किया",
+            "link": "https://hi.investing.com/news/stock-market-news/article-93CH-394170",
+            "keywords": null,
+            "creator": [
+                "Investing.com"
+            ],
+            "video_url": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-02-05 22:08:34",
+            "pubDateTZ": "UTC",
+            "image_url": "https://i-invdn-com.investing.com/news/indicatornews_3_M_1440048334.jpg",
+            "source_id": "investing_hi",
+            "source_priority": 1143,
+            "source_name": "Investing भारत",
+            "source_url": "https://hi.investing.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/investing_hi.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "business"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "93112ef6812ffd20a3dc518410066fc7",
+            "title": "USAID shutdown isn’t just a humanitarian issue – it’s a gift to China",
+            "link": "https://asiatimes.com/2025/02/usaid-shutdown-isnt-just-a-humanitarian-issue-its-a-gift-to-china/",
+            "keywords": [
+                "block 3",
+                "donald trump",
+                "infectious diseases",
+                "us department of government efficiency",
+                "the conversation",
+                "marco rubio",
+                "opinion",
+                "usaid"
+            ],
+            "creator": null,
+            "video_url": null,
+            "description": "The website for the United States Agency for International Development (USAID), the world’s biggest aid donor, has gone dark. Donald Trump’s new administration plans to place the autonomous agency under the control of the State Department. The secretary of state, Marco Rubio, has now declared himself head of the agency to “align” it with Trump’s [...]The post USAID shutdown isn’t just a humanitarian issue – it’s a gift to China appeared first on Asia Times.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-02-05 22:06:56",
+            "pubDateTZ": "UTC",
+            "image_url": "https://i0.wp.com/asiatimes.com/wp-content/uploads/2024/04/Maldives-China-Bridge-Peoples-Daily-1280x720-1-e1738791367852.jpg?fit=1200%2C675&quality=89&ssl=1",
+            "source_id": "asiatimes",
+            "source_priority": 67073,
+            "source_name": "Asia Times",
+            "source_url": "https://asiatimes.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/asiatimes.png",
+            "language": "english",
+            "country": [
+                "georgia",
+                "yemen",
+                "afghanistan",
+                "cyprus",
+                "india",
+                "singapore",
+                "saudi arabia",
+                "maldives",
+                "japan",
+                "united arab emirates",
+                "malaysia",
+                "china",
+                "south korea",
+                "north korea",
+                "taiwan",
+                "thailand",
+                "pakistan",
+                "mongolia",
+                "brunei",
+                "lebanon",
+                "indonesia",
+                "kyrgyzstan",
+                "syria",
+                "israel",
+                "bhutan",
+                "iran",
+                "turkey",
+                "armenia",
+                "qatar",
+                "philippines",
+                "hong kong",
+                "kazakhstan",
+                "iraq",
+                "bangladesh",
+                "laos",
+                "vietnam",
+                "timor-leste",
+                "kuwait",
+                "myanmar",
+                "azerbaijan",
+                "jordan",
+                "nepal",
+                "oman",
+                "sri lanka",
+                "uzbekistan",
+                "turkmenistan",
+                "macau",
+                "bahrain",
+                "cambodia",
+                "tajikistan"
+            ],
+            "category": [
+                "politics"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "40e44fcd6edafeb588ab1ab4deaafa84",
+            "title": "Budget and the grouse over bias",
+            "link": "https://www.deccanherald.com/opinion/editorial/budget-and-the-grouse-over-bias-3391708",
+            "keywords": null,
+            "creator": [
+                "DHNS"
+            ],
+            "video_url": null,
+            "description": "Budget and the grouse over bias",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-02-05 22:06:24",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.deccanherald.com/deccanherald%2F2025-01-27%2Fdno6m1kn%2Fistockphoto-2068561602-612x612.jpg?auto=format%2Ccompress&fit=max&fmt=webp&rect=0%2C0%2C612%2C344&w=1200",
+            "source_id": "deccanherald",
+            "source_priority": 10080,
+            "source_name": "Deccan Herald",
+            "source_url": "https://www.deccanherald.com",
+            "source_icon": null,
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "e5d209b0019476248864e007ac56a988",
+            "title": "Abraham and Felix fire Milan past Roma and into Coppa semi-finals",
+            "link": "https://www.channelnewsasia.com/sport/abraham-and-felix-fire-milan-past-roma-and-coppa-semi-finals-4920121",
+            "keywords": [
+                "sport"
+            ],
+            "creator": null,
+            "video_url": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-02-05 22:06:12",
+            "pubDateTZ": "UTC",
+            "image_url": "https://dam.mediacorp.sg/image/upload/s--_a5Tw6-4--/c_fill,g_auto,h_468,w_830/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2025-02-05t220612z_1_lynxmpel14119_rtroptp_3_soccer-italy-mil-rom-report.jpg?itok=V8zvtpf3",
+            "source_id": "channelnewsasia",
+            "source_priority": 4142,
+            "source_name": "Channel Newsasia",
+            "source_url": "https://www.channelnewsasia.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/channelnewsasia.jpg",
+            "language": "english",
+            "country": [
+                "georgia",
+                "yemen",
+                "afghanistan",
+                "cyprus",
+                "india",
+                "singapore",
+                "saudi arabia",
+                "maldives",
+                "japan",
+                "united arab emirates",
+                "malaysia",
+                "china",
+                "south korea",
+                "north korea",
+                "taiwan",
+                "thailand",
+                "pakistan",
+                "mongolia",
+                "brunei",
+                "lebanon",
+                "indonesia",
+                "kyrgyzstan",
+                "syria",
+                "israel",
+                "bhutan",
+                "iran",
+                "turkey",
+                "armenia",
+                "qatar",
+                "philippines",
+                "hong kong",
+                "kazakhstan",
+                "iraq",
+                "bangladesh",
+                "laos",
+                "vietnam",
+                "timor-leste",
+                "kuwait",
+                "myanmar",
+                "azerbaijan",
+                "jordan",
+                "nepal",
+                "sri lanka",
+                "uzbekistan",
+                "turkmenistan",
+                "macau",
+                "bahrain",
+                "cambodia",
+                "tajikistan",
+                "oman"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": true
+        },
+        {
+            "article_id": "f0e950d61b983bf4b16bc66b2b0d0315",
+            "title": "नेक्सजेल के सीईओ एडम लेवी ने कॉमन स्टॉक में $14,557 बेचे",
+            "link": "https://hi.investing.com/news/insider-trading-news/article-93CH-394168",
+            "keywords": null,
+            "creator": [
+                "Investing.com"
+            ],
+            "video_url": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-02-05 22:05:07",
+            "pubDateTZ": "UTC",
+            "image_url": "https://i-invdn-com.investing.com/news/World_News_9_M_1440052127.jpg",
+            "source_id": "investing_hi",
+            "source_priority": 1143,
+            "source_name": "Investing भारत",
+            "source_url": "https://hi.investing.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/investing_hi.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "daabd7cdac18d56d3026c0e46a150d2f",
+            "title": "एविडिटी बायोसाइंसेज के मुख्य कार्यक्रम अधिकारी ने स्टॉक में $188,918 बेचे",
+            "link": "https://hi.investing.com/news/insider-trading-news/article-93CH-394167",
+            "keywords": null,
+            "creator": [
+                "Investing.com"
+            ],
+            "video_url": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-02-05 22:05:04",
+            "pubDateTZ": "UTC",
+            "image_url": "https://i-invdn-com.investing.com/news/World_News_8_M_1440052125.jpg",
+            "source_id": "investing_hi",
+            "source_priority": 1143,
+            "source_name": "Investing भारत",
+            "source_url": "https://hi.investing.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/investing_hi.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "65beb05d745210fd55dd9f35b47404dd",
+            "title": "Newcastle ease by Arsenal to reach Carabao final",
+            "link": "https://www.espn.in/football/report/_/gameId/727883",
+            "keywords": null,
+            "creator": [
+                "Reuters"
+            ],
+            "video_url": null,
+            "description": "Newcastle United reached a second League Cup final in three seasons as they overwhelmed Arsenal 2-0 at a feverish St James' Park on Wednesday to complete a crushing 4-0 aggregate win.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-02-05 22:04:31",
+            "pubDateTZ": "UTC",
+            "image_url": "https://a.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fmisc_logos%2F500%2Fsoccer.png",
+            "source_id": "espn_in",
+            "source_priority": 34461,
+            "source_name": "Espn India",
+            "source_url": "https://www.espn.in",
+            "source_icon": "https://i.bytvi.com/domain_icons/espn_in.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "sports"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "d420650d04e04a1297af893b4310a510",
+            "title": "Brute power of an imperial presidency",
+            "link": "https://www.thestatesman.com/opinion/brute-power-of-an-imperial-presidency-1503394890.html",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-02-05 22:04:25",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.thestatesman.com/wp-content/uploads/2024/07/IMG_1920-jpeg.webp",
+            "source_id": "thestatesman",
+            "source_priority": 42473,
+            "source_name": "The Statesman",
+            "source_url": "https://www.thestatesman.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/thestatesman.jpg",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "17779dcf3d78d6dd5c665e63747534d1",
+            "title": "Arab American, Muslim Leaders Decry Trump Comments On Gaza",
+            "link": "https://www.ndtv.com/world-news/arab-american-muslim-leaders-decry-trump-comments-on-gaza-7643842",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "U.S. Arab American and Muslim leaders, including some who supported Donald Trump in the 2024 election, criticized the president's proposal for the U.S. to take over Gaza and resettle Palestinians as unacceptable.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-02-05 22:04:23",
+            "pubDateTZ": "UTC",
+            "image_url": "https://c.ndtvimg.com/2024-12/lbm9125_gaza_625x300_29_December_24.jpeg?im=FeatureCrop%2Calgorithm%3Ddnn%2Cwidth%3D1200%2Cheight%3D738",
+            "source_id": "ndtv",
+            "source_priority": 1204,
+            "source_name": "Ndtv",
+            "source_url": "http://www.ndtv.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/ndtv.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": true
+        },
+        {
+            "article_id": "cdbe8c048ab018ed8e1d1dcd86b50f37",
+            "title": "‘हाफिज सईद को रिहा करो’, लश्कर आतंकी के बेटे ने लाहौर में दिया भाषण, भारत के खिलाफ उगला जहर",
+            "link": "https://www.aajtak.in/world/story/lashkar-terrorist-hafiz-saeed-son-gave-a-speech-in-lahore-against-india-ntc-rptc-2159995-2025-02-06",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "आतंकी हाफिज सईद के बेटे हाफिज तल्हा सईद ने पाकिस्तान के तथाकथित “कश्मीर एकजुटता दिवस” यानी 5 फरवरी को लाहौर में एक रैली में भारत के खिलाफ भड़काऊ भाषण दिया. सभा को संबोधित करते हुए तल्हा सईद ने किसी भी कीमत पर कश्मीर को भारत से आजाद कराने की कसम खाई. इस दौरान भीड़ ने जेल में बंद उसके पिता की रिहाई की मांग करते हुए नारे लगाए.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-02-05 22:03:23",
+            "pubDateTZ": "UTC",
+            "image_url": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202502/67a3db0c4c864-hafeez-saeed-054126559-16x9.jpg",
+            "source_id": "aajtak",
+            "source_priority": 20158,
+            "source_name": "Aaj Tak",
+            "source_url": "http://aajtak.in",
+            "source_icon": "https://i.bytvi.com/domain_icons/aajtak.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "4e689334b852159e0e5023847ea4d8d7",
+            "title": "Meet Fear and Gibson, the new Torvill and Dean of GB Olympic ice dancing",
+            "link": "https://www.theguardian.com/sport/2025/feb/05/meet-fear-and-gibson-the-new-torvill-and-dean-of-gb-olympic-ice-dancing",
+            "keywords": [
+                "team gb",
+                "sport",
+                "winter olympics",
+                "winter olympics 2026"
+            ],
+            "creator": [
+                "Paul MacInnes"
+            ],
+            "video_url": null,
+            "description": "With Milano-Cortina 2026 in their sights, the pair look ready to follow in the footsteps of their heroesGreat Britain have a new couple ready to make magic on the ice. With 12 months to go until the Milano-Cortina Winter Olympics, Lilah Fear and Lewis Gibson are winning medals and turning heads in the sport of ice dancing. They have skill and charisma that carries echoes of Torvill and Dean, but their soundtrack is less Boléro, more Beyoncé.Just off the back of a bronze medal at the European championships, Fear and Gibson closed out their routine with a free dance to a medley of Beyoncé hits. Including a section that Fear has previously described as involving some twerking, the couple are doing things differently to generations that have gone before and building a connection with a new generation of fans. Continue reading...",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-02-05 22:02:22",
+            "pubDateTZ": "UTC",
+            "image_url": "https://i.guim.co.uk/img/media/9090d0fb14dae3436f94fb6e11e2ba6e3d15f5f1/0_201_5909_3545/master/5909.jpg?auto=format&enable=upscale&fit=crop&height=630&overlay-align=bottom%2Cleft&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&overlay-width=100p&quality=85&s=db649f6fe8ce11f0a28ac8a935f80a48&width=1200",
+            "source_id": "theguardian",
+            "source_priority": 106,
+            "source_name": "The Guardian",
+            "source_url": "https://www.theguardian.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/theguardian.jpg",
+            "language": "english",
+            "country": [
+                "united kingdom",
+                "india",
+                "singapore",
+                "canada"
+            ],
+            "category": [
+                "sports"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "03fb9a6b67d4021e094fbf87f4a1b685",
+            "title": "Pension, encroachment plaints addressed at camp in Rohtak",
+            "link": "https://www.tribuneindia.com/news/haryana/pension-encroachment-plaints-addressed-at-camp-in-rohtak",
+            "keywords": null,
+            "creator": [
+                "Ravinder Saini"
+            ],
+            "video_url": null,
+            "description": "Taking a serious note of complaints, Rohtak SDM Ashish Kumar has instructed officials of the Municipal Corporation and the Panchayat Department to appoint duty magistrates to remove encroachments and illegal occupations from public roads in order to prevent inconvenience to the public. He issued directives while listening to public grievances during Samadhan Shivir here on [...]",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-02-05 22:02:08",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/webp/medium/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWUyZWM0NDUwLWU0MGMtMTFlZi04ZGU2LTkzNGIzY2M4YTM2NC5qcGc%3D",
+            "source_id": "tribuneindia",
+            "source_priority": 15316,
+            "source_name": "The Tribune India",
+            "source_url": "https://www.tribuneindia.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/tribuneindia.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "78b32db890a39ef43e32a1b92452f148",
+            "title": "Ford Motor sees weaker profit in 2025; shares slump",
+            "link": "https://in.investing.com/news/stock-market-news/ford-motor-sees-weaker-profit-in-2025-shares-slump-4650188",
+            "keywords": null,
+            "creator": [
+                "Investing.com"
+            ],
+            "video_url": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-02-05 22:02:08",
+            "pubDateTZ": "UTC",
+            "image_url": "https://i-invdn-com.investing.com/news/LYNXMPEB4P0NW_M.jpg",
+            "source_id": "investing_in",
+            "source_priority": 1205,
+            "source_name": "Investing India",
+            "source_url": "https://in.investing.com",
+            "source_icon": null,
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "business"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": true
+        },
+        {
+            "article_id": "307481906fd957132c31856a165950c7",
+            "title": "Qualcomm Q1 results top estimates as smartphone demand continues to improve",
+            "link": "https://in.investing.com/news/stock-market-news/qualcomm-q1-results-top-estimates-as-smartphone-demand-continues-to-improve-4650184",
+            "keywords": null,
+            "creator": [
+                "Investing.com"
+            ],
+            "video_url": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-02-05 22:02:05",
+            "pubDateTZ": "UTC",
+            "image_url": null,
+            "source_id": "investing_in",
+            "source_priority": 1205,
+            "source_name": "Investing India",
+            "source_url": "https://in.investing.com",
+            "source_icon": null,
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "business"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": true
+        },
+        {
+            "article_id": "9f7739b852699d6e093dfbe03045c233",
+            "title": "Newcastle finish off Arsenal to reach League Cup final",
+            "link": "https://www.channelnewsasia.com/sport/newcastle-finish-arsenal-reach-league-cup-final-4920116",
+            "keywords": [
+                "sport"
+            ],
+            "creator": null,
+            "video_url": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-02-05 22:02:01",
+            "pubDateTZ": "UTC",
+            "image_url": "https://dam.mediacorp.sg/image/upload/s--mrlWJ88_--/c_fill,g_auto,h_468,w_830/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2025-02-05t221417z_2_lynxmpel14114_rtroptp_3_soccer-england-new-ars-report.jpg?itok=xK4nbUTq",
+            "source_id": "channelnewsasia",
+            "source_priority": 4142,
+            "source_name": "Channel Newsasia",
+            "source_url": "https://www.channelnewsasia.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/channelnewsasia.jpg",
+            "language": "english",
+            "country": [
+                "georgia",
+                "yemen",
+                "afghanistan",
+                "cyprus",
+                "india",
+                "singapore",
+                "saudi arabia",
+                "maldives",
+                "japan",
+                "united arab emirates",
+                "malaysia",
+                "china",
+                "south korea",
+                "north korea",
+                "taiwan",
+                "thailand",
+                "pakistan",
+                "mongolia",
+                "brunei",
+                "lebanon",
+                "indonesia",
+                "kyrgyzstan",
+                "syria",
+                "israel",
+                "bhutan",
+                "iran",
+                "turkey",
+                "armenia",
+                "qatar",
+                "philippines",
+                "hong kong",
+                "kazakhstan",
+                "iraq",
+                "bangladesh",
+                "laos",
+                "vietnam",
+                "timor-leste",
+                "kuwait",
+                "myanmar",
+                "azerbaijan",
+                "jordan",
+                "nepal",
+                "sri lanka",
+                "uzbekistan",
+                "turkmenistan",
+                "macau",
+                "bahrain",
+                "cambodia",
+                "tajikistan",
+                "oman"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": true
+        },
+        {
+            "article_id": "e6b46ddd280c78d0aa2e5930b5a49752",
+            "title": "Liquor licences: Reform with caution",
+            "link": "https://www.deccanherald.com/opinion/editorial/liquor-licences-reform-with-caution-3391707",
+            "keywords": null,
+            "creator": [
+                "DHNS"
+            ],
+            "video_url": null,
+            "description": "Liquor licences: Reform with caution",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-02-05 22:01:36",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.deccanherald.com/deccanherald%2F2024-11-14%2Fw91l95ax%2Falcohol_istock_890950_1600699720.jpg?auto=format%2Ccompress&fit=max&fmt=webp&rect=0%2C0%2C1280%2C720&w=1200",
+            "source_id": "deccanherald",
+            "source_priority": 10080,
+            "source_name": "Deccan Herald",
+            "source_url": "https://www.deccanherald.com",
+            "source_icon": null,
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "ba72013921d5a403f9045aa01fca1e08",
+            "title": "Denzel Washington",
+            "link": "https://www.outlookindia.com/entertainment-spotlight/profiles/denzel-washington",
+            "keywords": [
+                " two-time oscar winner",
+                " malcom x actor",
+                "denzel washington",
+                " american actor",
+                " star profiles"
+            ],
+            "creator": null,
+            "video_url": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-02-05 22:01:33",
+            "pubDateTZ": "UTC",
+            "image_url": "https://media.assettype.com/outlookindia/2025-01-11/ywlfzn2d/13.jpg?ar=40%3A21&auto=format%2Ccompress&enlarge=true&mode=crop&ogImage=true&overlay=false&overlay_position=bottom&overlay_width=100&w=1200",
+            "source_id": "outlookindia",
+            "source_priority": 1033,
+            "source_name": "Outlook",
+            "source_url": "https://www.outlookindia.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/outlookindia.jpg",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "6a6e893e87ed185d8005b1fa836b1ae6",
+            "title": "बुध के गोचर के साथ इस राशि की बदलेगी किस्मत, करियर में मिलेगा जबरदस्त फायदा",
+            "link": "https://hindi.news18.com/news/astro/daily-horoscope-kanya-rashifal-6-february-2025-these-zodiac-career-will-be-beneficial-with-transit-of-mercury-aaj-ka-virgo-horoscope-today-local18-ws-b-9010187.html",
+            "keywords": [
+                "राशि"
+            ],
+            "creator": [
+                "News18 Hindi"
+            ],
+            "video_url": null,
+            "description": "Kanya Rashifal 6 February: बुध के गोचर के साथ कन्या राशि वालों की किस्मत बदलने वाली है. देवघर के ज्योतिषाचार्य ने बताया है कि आज का दिन इन जातकों के लिए कैसा रहने वाला है.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-02-05 22:01:03",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.news18.com/ibnkhabar/uploads/2025/02/HYP_4958236_cropped_05022025_131204_20241226_203801_watermark__1-3x2.jpg",
+            "source_id": "hindinews18",
+            "source_priority": 4077,
+            "source_name": "News 18 Hindi",
+            "source_url": "https://hindi.news18.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/hindinews18.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "other"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "6949a4e6183e6422d0022491c11c5dd4",
+            "title": "Arsenal player ratings vs Newcastle: That's why Gunners need Alexander Isak! Striker terrorises Gabriel & William Saliba as David Raya clanger ensures Mikel Arteta's men crash out of Carabao Cup - GOAL English",
+            "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPblFGbnNrSHMzZzJHWjgyMFBZNDhHbzMtMFR4Nk1ualJpaGlST1pRaVZVU1Z0ZTlmUXhaSHNfc0pBem9HV0doNzBSZkxNcG1aS29TcWpkSXdLazFZaktzeUJ2a2toSWZ4SElkQjBFUGFNTUVLNXZhcFBvM1JsLXNfSDdmRzQyOEhuTjhqa0pRRk1MUHdtVE4xMFZ2dWVZcjhXWGNqTnFFSlpwSnkxc0ZSQ0JPc1I?oc=5",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "Arsenal player ratings vs Newcastle: That's why Gunners need Alexander Isak! Striker terrorises Gabriel & William Saliba as David Raya clanger ensures Mikel Arteta's men crash out of Carabao Cup GOAL EnglishTotal Bruno sucks Arteta’s side into turf war and leaves them beaten and bruised | Jonathan Liew The GuardianNewcastle sweep aside Arsenal to reach League Cup final The Times of IndiaNewcastle United vs Arsenal Carabao Cup live match time and streaming Business Standard3 talking points ahead of Newcastle vs Arsenal Pain In The Arsenal",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-02-05 22:00:56",
+            "pubDateTZ": "UTC",
+            "image_url": null,
+            "source_id": "google",
+            "source_priority": 14,
+            "source_name": "Google News",
+            "source_url": "https://news.google.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/google.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "sports"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
             "article_id": "128f928bf23e8d3e5a8081263550f767",
             "title": "California's Plea for Federal Aid Amid Catastrophic Fires",
             "link": "https://www.devdiscourse.com/article/politics/3254448-californias-plea-for-federal-aid-amid-catastrophic-fires",
@@ -22629,685 +23449,6 @@
             ],
             "category": [
                 "sports"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "1d7cfaebf1a93e7b88a94ba93cdf65ae",
-            "title": "अमेरिका के वार के बाद चीन का प्रहार, क्या ट्रंप ने गलत बंदे से ले लिया पंगा ?",
-            "link": "https://zeenews.india.com/hindi/business/china-counters-trump-tariffs-with-taxes-on-crude-cars-and-a-google-investigation/2631187",
-            "keywords": null,
-            "creator": [
-                "Zee News हिन्दी",
-                "Zee News Hindi"
-            ],
-            "video_url": null,
-            "description": "अमेरिका की सत्ता संभालने के बाद से डोनाल्ड ट्रंप की तल्खी जारी है. आते ही डोनाल्ड ट्रंप ने टैरिफ वॉर की शुरुआत कर दी. कनाडा, मैक्सिको और चीन पर टैरिफ बढ़ाने का आदेश दे दिया. ट्रंप के इस फैसले से अमेरिका और चीन के बीच ट्रेड वॉर की शुरुआत हो गई है.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-02-04 10:07:57",
-            "pubDateTZ": "UTC",
-            "image_url": "https://hindi.cdn.zeenews.com/hindi/sites/default/files/2025/02/04/3653034-copy-of-copy-of-zee-web-image-2025-02-04t153721.528.png?im=FitAndFill%3D%281200%2C900%29",
-            "source_id": "zeenews",
-            "source_priority": 5319,
-            "source_name": "Zee News",
-            "source_url": "http://zeenews.india.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/zeenews.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "business"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "a125507cecfc5c41c35811251f244682",
-            "title": "Odisha Govt Hikes Monthly Allowances Of Fire & Emergency Services Personnel",
-            "link": "https://odishabytes.com/odisha-hikes-monthly-allowances-of-fire-emergency-services-personnel/",
-            "keywords": [
-                "government",
-                "odisha"
-            ],
-            "creator": [
-                "OB Bureau"
-            ],
-            "video_url": null,
-            "description": "Bhubaneswar: The Mohan Majhi government on Tuesday approved several welfare measure for personnel of Odisha Fire and Emergency Services. The notification issued by the Home department said that the government has extended and revised allowances, which were under consideration for some time past. The hikes are as follows: 1. House Rent Allowance (HRA) for Fireman, [...]The post Odisha Govt Hikes Monthly Allowances Of Fire & Emergency Services Personnel appeared first on Odisha Bytes.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-02-04 10:07:55",
-            "pubDateTZ": "UTC",
-            "image_url": "https://assets.odishabytes.com/wp-content/uploads/2025/02/fire-service-e1738663483773.jpeg",
-            "source_id": "odishabytes",
-            "source_priority": 512881,
-            "source_name": "Odisha Bytes News",
-            "source_url": "https://odishabytes.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/odishabytes.jpg",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "88dae517d3f3cc9ec9443245066a8413",
-            "title": "ECI rejects 'deliberate pressure tactics to malign it' amid Kejriwal’s allegations",
-            "link": "https://www.thestatesman.com/cities/eci-rejects-deliberate-pressure-tactics-to-malign-it-amid-kejriwals-allegations-1503394183.html",
-            "keywords": null,
-            "creator": null,
-            "video_url": null,
-            "description": null,
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-02-04 10:07:53",
-            "pubDateTZ": "UTC",
-            "image_url": "https://www.thestatesman.com/wp-content/uploads/2024/05/Untitled-design-2024-05-11T170956.177.jpg",
-            "source_id": "thestatesman",
-            "source_priority": 42473,
-            "source_name": "The Statesman",
-            "source_url": "https://www.thestatesman.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/thestatesman.jpg",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "e87c0c6a67326ac1c5a0f6106903b595",
-            "title": "रणथंभौर टाइगर रिजर्व के पास घायल लेपर्ड मिला:वन विभाग की टीम ने ट्रेंकुलाइज करने के बाद पहुंचाया अस्पताल",
-            "link": "https://www.bhaskar.com/local/rajasthan/sawai-madhopur/news/injured-leopard-found-near-vinoba-basti-134413317.html",
-            "keywords": null,
-            "creator": null,
-            "video_url": null,
-            "description": "सवाई माधोपुर में रणथंभौर टाइगर रिजर्व के समीपवर्ती विनोबा बस्ती के पास वन विभाग की टीम को घायल अवस्था में एक लेपर्ड मिला। जिसे ROPT (रेंज ऑफ टाइगर प्रोजेक्ट) और फ्लाइंग रेंज की टीम की ओर से उपचार के लिए रणथंभौर टाइगर रिजर्व की वेटरनरी अस्पताल लाया गया। जहां फिलहाल लेपर्ड का उपचार जारी है। रणथंभौर टाइगर रिजर्व के वेटरनरी ऑफिसर डॉ. सीपी मीना ने बताया कि वन विभाग की टीम को मंगलवार को दोपहर में विनोबा बस्ती के पास झाड़ियों में एक लेपर्ड के घायल अवस्था में पड़े होने की सूचना स्थानीय लोगों ने दी थी। इसके बाद वन विभाग की टीम मौके पर पहुंची। यहां पर वन विभाग की टीम को झाड़ियों में घायल लेपर्ड दिखाई दिया। जिसे वन विभाग की टीम ने ट्रेंकुलाइज किया। हालत में सुधार होने के बाद जंगल में छोड़ दिया जाएगा ट्रेंकुलाइज करने के बाद लेपर्ड को उपचार के लिए रणथंभौर टाइगर रिजर्व के वेटरनरी अस्पताल लाया गया। जहां वेटरनरी टीम ने घायल लेपर्ड का उपचार किया। डॉ. मीना ने बताया कि घायल लेपर्ड की उम्र करीब 2 साल है और वह एक मादा लेपर्ड है। जिसे उपचार के दौरान फ्लूड थैरेपी, ऑक्सीजन और लाइफ सेविंग ड्रग्स दी गई है। फिलहाल लेपर्ड की हालत स्थिर बताई जा रही है। जल्दी लेपर्ड की हालत में सुधार होने के बाद उसे जंगल में छोड़ दिया जाएगा।",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-02-04 10:07:52",
-            "pubDateTZ": "UTC",
-            "image_url": "https://images.bhaskarassets.com/thumb/1000x1000/web2images/521/2025/02/04/1000516681_1738663540.jpg",
-            "source_id": "bhaskar_hindi",
-            "source_priority": 34179,
-            "source_name": "Bhaskar",
-            "source_url": "https://www.bhaskar.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/bhaskar_hindi.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "domestic",
-                "other"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "44eba2d09047ba964e94c3f9319e6374",
-            "title": "दो नवजात शिशुओं की अदला-बदली, DNA टेस्ट से होगा सच्चाई का खुलासा! जानें मामला",
-            "link": "https://hindi.news18.com/news/ajab-gajab/viral-newborns-swapped-dna-test-will-reveal-truth-major-negligence-in-durg-district-hospital-local18-9007826.html",
-            "keywords": [
-                "अजब-गजब"
-            ],
-            "creator": [
-                "News18 Hindi"
-            ],
-            "video_url": null,
-            "description": "दुर्ग जिला अस्पताल में दो नवजात शिशुओं की अदला-बदली से दो परिवारों में हड़कंप मच गया. डीएनए टेस्ट से असली माता-पिता की पहचान होगी. अस्पताल की लापरवाही पर सवाल उठे हैं.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-02-04 10:07:48",
-            "pubDateTZ": "UTC",
-            "image_url": "https://images.news18.com/ibnkhabar/uploads/2025/02/HYP_4955950_cropped_04022025_115603_new_project_1_3_watermark__2-3x2.jpg",
-            "source_id": "hindinews18",
-            "source_priority": 4077,
-            "source_name": "News 18 Hindi",
-            "source_url": "https://hindi.news18.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/hindinews18.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "other"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "aab28cbbb1e0c9c48abb712357b6b33a",
-            "title": "'इसी तरह से बैटिंग करते रहे तो...'संजू सैमसन को लेकर क्या बोले अश्विन?",
-            "link": "https://hindi.news18.com/cricket/r-ashwin-says-if-sanju-samson-out-like-indian-cricketer-advice-sanju-after-flop-show-against-england-9007871.html",
-            "keywords": [
-                "क्रिकेट"
-            ],
-            "creator": [
-                "News18 Hindi"
-            ],
-            "video_url": null,
-            "description": "भारत के संजू सैमसन इंग्लैंड के खिलाफ सभी टी20 मुकाबले में फ्लॉप साबित हुए. अश्विन ने कहा है कि अगर एक बल्लेबाज के तौर पर संजू इसी तरह आउट होते रहे तो उनका दिमाग ही उनके साथ चालें चलना शुरू कर देगा.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-02-04 10:07:38",
-            "pubDateTZ": "UTC",
-            "image_url": "https://images.news18.com/ibnkhabar/uploads/2025/02/sanju-samon-2025-02-c4c9af5fc080856c5f46f3947b4c1b09-3x2.jpg",
-            "source_id": "hindinews18",
-            "source_priority": 4077,
-            "source_name": "News 18 Hindi",
-            "source_url": "https://hindi.news18.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/hindinews18.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "sports"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "677774bfd838077538ca62c23d769a79",
-            "title": "Chitrangda Singh returns to an 'unexplored genre' with ‘Khakee: The Bengal Chapter’",
-            "link": "https://www.deccanherald.com/entertainment/chitrangda-singh-returns-to-an-unexplored-genre-with-khakee-the-bengal-chapter-3388436",
-            "keywords": null,
-            "creator": [
-                "DH Web Desk"
-            ],
-            "video_url": null,
-            "description": null,
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-02-04 10:07:30",
-            "pubDateTZ": "UTC",
-            "image_url": "https://images.deccanherald.com/deccanherald%2F2025-02-04%2Ft84ar9bc%2FChitrangda-Singh.jpg?ar=40%3A21&auto=format%2Ccompress&mode=crop&ogImage=true&rect=0%2C0%2C1280%2C672&w=1200",
-            "source_id": "deccanherald",
-            "source_priority": 10080,
-            "source_name": "Deccan Herald",
-            "source_url": "https://www.deccanherald.com",
-            "source_icon": null,
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "369baa8775fa03454aaf81226ac47392",
-            "title": "बिहार बोर्ड 12वीं गणित उत्तर कुंजी 2025 PDF: Bihar Board Class 12th Maths Answer Key In Hindi",
-            "link": "https://www.jagranjosh.com/articles/bseb-bihar-board-class-12th-maths-answer-key-2025-in-hindi-download-pdf-1738663700-2",
-            "keywords": [
-                "बिहार बोर्ड 12वीं गणित उत्तर कुंजी 2025, bihar board 12th maths answer key 2025, bseb inter maths answer key, बिहार बोर्ड गणित उत्तर कुंजी, bihar board maths solution pdf, bihar board 12th answer key 2025, bihar board maths exam key, bseb 12th maths answer key"
-            ],
-            "creator": null,
-            "video_url": null,
-            "description": null,
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-02-04 10:07:30",
-            "pubDateTZ": "UTC",
-            "image_url": "https://img.jagranjosh.com/images/2025/February/422025/Bihar-Board-Class-12th-Maths-Answer-Key-In-Hindi.webp",
-            "source_id": "jagranjosh",
-            "source_priority": 7152,
-            "source_name": "Jagran Josh",
-            "source_url": "https://www.jagranjosh.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/jagranjosh.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "education"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "86f22a192fa5a3d663ef387898612f76",
-            "title": "Madras High Court restrains SIT from harassing journalists in Anna University sexual assault FIR leak case",
-            "link": "https://www.thehindu.com/news/national/tamil-nadu/anna-university-sexual-assault-fir-leak-case-madras-high-court-restrains-sit-from-harassing-journalists/article69179074.ece",
-            "keywords": [
-                "tamil nadu"
-            ],
-            "creator": null,
-            "video_url": null,
-            "description": "Justice G.K. Ilanthiraiyan asks the journalists also to cooperate with the probe and says he will pass detailed orders in the course of the day",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-02-04 10:07:25",
-            "pubDateTZ": "UTC",
-            "image_url": "https://th-i.thgim.com/public/incoming/7o46dq/article69179387.ece/alternates/LANDSCAPE_1200/11914_1_2_2025_18_13_49_2__DSC0884.JPG",
-            "source_id": "thehindu",
-            "source_priority": 2972,
-            "source_name": "The Hindu",
-            "source_url": "https://www.thehindu.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/thehindu.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "50a14981aba76ec6114f56d9820e0289",
-            "title": "Cochin Shipyard Q3 Results: Date, Interim Dividend Details, Share Price History And More",
-            "link": "https://www.ndtvprofit.com/quarterly-earnings/cochin-shipyard-q3-results-date-interim-dividend-details-share-price-history-and-more",
-            "keywords": [
-                "quarterly earnings"
-            ],
-            "creator": [
-                "NDTV Profit News"
-            ],
-            "video_url": null,
-            "description": "Shares of Cochin Shipyard Ltd. have slipped nearly 1.3% over the past five NSE trading sessions while declining 6.8% over the past month.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-02-04 10:07:22",
-            "pubDateTZ": "UTC",
-            "image_url": "https://media.assettype.com/bloombergquint%2F2025-02-04%2Fi9c81usf%2FFWLHLwBaUAACfLE.jpg?auto=format%2Ccompress&ogImage=true&w=1200",
-            "source_id": "bloombergquint",
-            "source_priority": 9222807,
-            "source_name": "Bq Prime",
-            "source_url": "https://www.bloombergquint.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/bloombergquint.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "business"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "d8ebc68fd3a74e980ca5e10f79854f9d",
-            "title": "परीक्षा केंद्र की दूरी को लेकर कलेक्टर से की शिकायत:छात्र बोले- स्कूल से 10 किलोमीटर की दूरी पर ही बनाया जाए एग्जाम सेंटर",
-            "link": "https://www.bhaskar.com/local/mp/shivpuri/news/complaint-made-to-the-collector-regarding-the-distance-of-the-examination-center-134413314.html",
-            "keywords": null,
-            "creator": null,
-            "video_url": null,
-            "description": "शिवपुरी के बैराड़ में स्थित लॉर्ड लखेश्वर हायर सेकेंडरी स्कूल के छात्रों ने मंगलवार को जिला कलेक्टर के सामने अपनी समस्याएं रखी। छात्रों का कहना है कि शिक्षा विभाग ने उनका परीक्षा केंद्र 30 किलोमीटर दूर पोहरी के सीएम राइज स्कूल में बना दिया है, जिससे उन्हें और उनके अभिभावकों को परेशानी का सामना करना पड़ेगा। स्कूल से कक्षा 10वीं के 268 और 12वीं के 304 विद्यार्थी इस वर्ष बोर्ड परीक्षा में शामिल होंगे। अधिकांश छात्र आसपास के गांवों से आते हैं, जिनके लिए पोहरी तक की दूरी 30 से 50 किलोमीटर तक हो जाएगी। छात्रों ने कलेक्टर को ज्ञापन सौंपकर मांग की है कि उनका परीक्षा केंद्र विद्यालय से 10 किलोमीटर की दूरी पर बनाया जाए। स्कूल पर बोर्ड परीक्षा में नकल कराने के आरोपजिला शिक्षा अधिकारी के अनुसार, पिछले वर्ष इस स्कूल प्रबंधन पर बोर्ड परीक्षा में नकल कराने के आरोप लगे थे। इसी कारण इस वर्ष विभाग ने सख्त कदम उठाते हुए परीक्षा केंद्र को दूर स्थानांतरित किया है। हालांकि छात्रों की परेशानी को देखते हुए प्रशासन इस मामले पर विचार कर रहा है।",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-02-04 10:07:20",
-            "pubDateTZ": "UTC",
-            "image_url": "https://images.bhaskarassets.com/thumb/1000x1000/web2images/521/2025/02/04/fee47089-b996-4c04-9110-ab7aed0b5d22_1738657247103.jpg",
-            "source_id": "bhaskar_hindi",
-            "source_priority": 34179,
-            "source_name": "Bhaskar",
-            "source_url": "https://www.bhaskar.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/bhaskar_hindi.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "domestic",
-                "other"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "af3d87034a95d30247cb1016be62c2d5",
-            "title": "Manish Sisodia claims BJP supporters engage in violence, voter intimidation",
-            "link": "https://www.hindustantimes.com/india-news/manish-sisodia-claims-bjp-supporters-engage-in-violence-voter-intimidation-101738660164081.html",
-            "keywords": [
-                "india-news"
-            ],
-            "creator": null,
-            "video_url": null,
-            "description": "Manish Sisodia accused the Election Commission and Delhi Police of colluding with the BJP to manipulate elections, alleging voter intimidation and violence.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-02-04 10:07:20",
-            "pubDateTZ": "UTC",
-            "image_url": "https://www.hindustantimes.com/ht-img/img/2025/02/04/1600x900/Sisodia-Manish-8_1738660645862_1738660652761.jpg",
-            "source_id": "hindustantimes",
-            "source_priority": 933,
-            "source_name": "Hindustan Times",
-            "source_url": "http://www.hindustantimes.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/hindustantimes.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "2be273016186c36dd11c4c66c4f29450",
-            "title": "‘Crazxy’ poster featuring Sohum Shah promises a bold narrative",
-            "link": "https://yespunjab.com/crazxy-poster-featuring-sohum-shah-promises-a-bold-narrative/",
-            "keywords": [
-                "crazxy movie",
-                "girish kohli",
-                "tumbbad 2 update",
-                "sohum shah",
-                "bollywood upcoming movies 2025",
-                "bollywood suspense movie",
-                "sohum shah films",
-                "bollywood",
-                "tumbbad sequel",
-                "bollywood thriller",
-                "crazxy release date",
-                "crazxy first look",
-                "edge-of-the-seat thriller",
-                "sohum shah transformation",
-                "crazxy poster",
-                "crazxy teaser"
-            ],
-            "creator": [
-                "YP Team"
-            ],
-            "video_url": null,
-            "description": "Mumbai, Feb 4, 2025 The poster of the upcoming movie ‘Crazxy’ starring Sohum Shah was unveiled on Tuesday. It teases the film’s wild, unpredictable essence. The film’s poster promises presents a bold, slick, and visually striking first look, hinting at the craziness that awaits. The film is touted to be an emotionally charged edge-of-the-seat thriller [...]The post ‘Crazxy’ poster featuring Sohum Shah promises a bold narrative appeared first on Yes Punjab News.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-02-04 10:07:19",
-            "pubDateTZ": "UTC",
-            "image_url": "https://yespunjab.com/wp-content/uploads/2025/02/Crazxy-poster-featuring-Sohum-Shah-696x497.jpg",
-            "source_id": "yespunjab",
-            "source_priority": 422545,
-            "source_name": "Yes Punjab News",
-            "source_url": "https://yespunjab.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/yespunjab.jpg",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": true
-        },
-        {
-            "article_id": "05cc431507cceb090b636231ba0df1a1",
-            "title": "Congress सांसद बोले- JCB लगाकर फेंकवाया लोगों का सामान",
-            "link": "https://www.aajtak.in/short-videos/video/congress-leader-ujjawal-raman-singh-slams-up-government-for-mahakumbh-stampede-2158625-2025-02-04",
-            "keywords": null,
-            "creator": null,
-            "video_url": null,
-            "description": "इलाहाबाद से कांग्रेस सांसद उज्ज्वल रमन सिंह ने महाकुंभ में मौनी अमावस्या पर अमृत स्नान के दौरान हुई भगदड़ का मुद्दा संसद में उठाया..कांग्रेस सांसद ने दावा किया कि झूंसी में भी भगदड़ मची थी, जिसमें कई श्रद्धालुओं की जान चली गई.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-02-04 10:07:15",
-            "pubDateTZ": "UTC",
-            "image_url": "https://akm-img-a-in.tosshub.com/aajtak/images/video/202502/67a1e49d5eb5e-ujjawal-raman-singh-about-mahakumbh-stampede-045743649-16x9.jpg",
-            "source_id": "aajtak",
-            "source_priority": 20158,
-            "source_name": "Aaj Tak",
-            "source_url": "http://aajtak.in",
-            "source_icon": "https://i.bytvi.com/domain_icons/aajtak.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "10d6be5c7e20d693cb0acb555b7ac8de",
-            "title": "Kennedy's Controversial Path to Health Secretary",
-            "link": "https://www.devdiscourse.com/article/law-order/3252390-kennedys-controversial-path-to-health-secretary",
-            "keywords": null,
-            "creator": [
-                "noemail@noemail.org (Devdiscourse News Desk)"
-            ],
-            "video_url": null,
-            "description": "Robert F Kennedy Jr, a controversial figure given his shift from environmental law to public health criticism, has taken a significant step forward in becoming the nation's leading health authority. On Tuesday, he navigated past the initial hurdle with the Senate Finance Committee voting in favor of advancing his nomination for a floor vote.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-02-04 10:07:12",
-            "pubDateTZ": "UTC",
-            "image_url": "https://devdiscourse.blob.core.windows.net/imagegallery/03_03_2020_19_08_19_05616.jpg",
-            "source_id": "devdiscourse",
-            "source_priority": 566021,
-            "source_name": "Devdiscourse",
-            "source_url": "https://www.devdiscourse.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/devdiscourse.jpg",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "cf05a7f5281638f50ebb21e90e5c1d31",
-            "title": "Defence Minister Rajnath Singh accuses Rahul Gandhi of making false charges involving Army Chief in Lok Sabha",
-            "link": "https://www.thehindu.com/news/national/defence-minister-rajnath-singh-accuses-rahul-gandhi-of-making-false-charges-involving-army-chief-in-lok-sabha/article69179362.ece",
-            "keywords": [
-                "india"
-            ],
-            "creator": null,
-            "video_url": null,
-            "description": "Rahul Gandhi had said \"The PM has denied that Chinese forces are inside our territory but for some reason our Army keeps talking to the Chinese about their entry into our territory and our chief of army staff has said that the Chinese are inside our territory,\"",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-02-04 10:07:05",
-            "pubDateTZ": "UTC",
-            "image_url": "https://th-i.thgim.com/public/news/national/ow8r6p/article69179385.ece/alternates/LANDSCAPE_1200/PTI02_04_2025_000068B.jpg",
-            "source_id": "thehindu",
-            "source_priority": 2972,
-            "source_name": "The Hindu",
-            "source_url": "https://www.thehindu.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/thehindu.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "9ee0242e6a2b7c7c76b4ec2c199286af",
-            "title": "UAPA amendments challenge: SC refuses to hear matter, sends it to Delhi HC",
-            "link": "https://www.hindustantimes.com/india-news/uapa-amendments-challenge-sc-refuses-to-hear-matter-sends-it-to-delhi-hc-101738663625337.html",
-            "keywords": [
-                "india-news"
-            ],
-            "creator": null,
-            "video_url": null,
-            "description": "UAPA amendments challenge: SC refuses to hear matter, sends it to Delhi HC",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-02-04 10:07:04",
-            "pubDateTZ": "UTC",
-            "image_url": "https://www.hindustantimes.com/ht-img/img/2024/12/18/1600x900/India_6_1734523724131_1734523741441.jpg",
-            "source_id": "hindustantimes",
-            "source_priority": 933,
-            "source_name": "Hindustan Times",
-            "source_url": "http://www.hindustantimes.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/hindustantimes.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "18ea416d8626b0c8d19b1a31e3e358e8",
-            "title": "अंबेडकर प्रतिमा तोड़फोड़: पंजाब सरकार पर उठे सवाल, BJP ने कहा-दलित विरोधी",
-            "link": "https://hindi.asianetnews.com/state/punjab/punjab-aap-government-facing-criticise-over-vandalisation-of-br-ambedkar-statue/articleshow-f50c3hm",
-            "keywords": [
-                "punjab"
-            ],
-            "creator": [
-                "Dheerendra Gopal"
-            ],
-            "video_url": null,
-            "description": "अमृतसर में अंबेडकर प्रतिमा तोड़े जाने पर पंजाब की 'आप' सरकार आलोचनाओं से घिरी। भाजपा ने केजरीवाल पर दलित विरोधी होने का आरोप लगाया और इस्तीफे की मांग की। पुलिस की भूमिका पर भी सवाल उठ रहे हैं।",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-02-04 10:07:03",
-            "pubDateTZ": "UTC",
-            "image_url": "https://static-gi.asianetnews.com/images/01jj94d99n45rvqcds15cawdst/br-ambedkar-interesting-facts-1737620890933.jpg",
-            "source_id": "hindi_asianetnews",
-            "source_priority": 7805,
-            "source_name": "Asianet News Hindi",
-            "source_url": "https://hindi.asianetnews.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/hindi_asianetnews.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "2981fed5cc7b741852199d0ff946cf8a",
-            "title": "Man buys plate worth Rs 415 from thrift store, turns out to be a historical artefact priced in lacs",
-            "link": "https://timesofindia.indiatimes.com/etimes/trending/man-buys-plate-worth-rs-415-from-thrift-store-turns-out-to-be-a-historical-artefact-priced-in-lacs/articleshow/117913006.cms",
-            "keywords": null,
-            "creator": null,
-            "video_url": null,
-            "description": "John Carcerano, a carpet cleaner from Illinois, discovered a rare 18th-century Chinese plate at a Goodwill store for just $4.99. Experts confirmed its authenticity and estimated its value between $4,000 and $6,000. Carcerano's extensive thrifting knowledge played a crucial role in identifying and acquiring the valuable item.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-02-04 10:07:03",
-            "pubDateTZ": "UTC",
-            "image_url": "https://static.toiimg.com/thumb/msid-117913006,width-1070,height-580,imgsize-44554,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-            "source_id": "toi",
-            "source_priority": 239,
-            "source_name": "The Times Of India",
-            "source_url": "https://timesofindia.indiatimes.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/toi.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "2d98e6ad4266f60d4d8c9147444762ca",
-            "title": "Akshay Kumar, Shah Rukh Khan wanted to do THIS Thalapathy Vijay remake, but who won?",
-            "link": "https://www.bollywoodlife.com/photos/akshay-kumar-shah-rukh-khan-wanted-to-do-this-thalapathy-vijay-remake-but-who-won-3074564/",
-            "keywords": null,
-            "creator": null,
-            "video_url": null,
-            "description": "Bollywood superstars Akshay Kumar and Shah Rukh Khan wanted the rights of this popular South Indian film remake in Hindi, know who won the battle.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-02-04 10:07:00",
-            "pubDateTZ": "UTC",
-            "image_url": "http://st1.bollywoodlife.com/wp-content/uploads/2019/11/bl-default-featured-image.jpg",
-            "source_id": "bollywoodlife",
-            "source_priority": 13281,
-            "source_name": "Bollywoodlife",
-            "source_url": "https://www.bollywoodlife.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/bollywoodlife.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "entertainment"
             ],
             "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
             "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
