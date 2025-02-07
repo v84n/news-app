@@ -1,6 +1,801 @@
 {
     "articles": [
         {
+            "article_id": "b7cac046aca83b52a178d30fbd0f0931",
+            "title": "Wizards overhaul roster, load up on draft picks in trade deadline frenzy",
+            "link": "https://www.washingtontimes.com/news/2025/feb/6/wizards-overhaul-roster-load-draft-picks-trade-dea/",
+            "keywords": null,
+            "creator": [
+                "Liam Griffin"
+            ],
+            "video_url": null,
+            "description": "The Washington Wizards weren't shy ahead of Thursday afternoon's NBA trade deadline. General manager Will Dawkins was wheeling and dealing, shipping out veterans on expiring contracts in exchange for promising young prospects and future draft picks. After two days of trades, the roster has been overhauled.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-02-06 21:08:57",
+            "pubDateTZ": "UTC",
+            "image_url": "https://twt-thumbs.washtimes.com/media/image/2024/12/07/Grizzlies_Celtics_Basketball_11970_s1440x1237.jpg",
+            "source_id": "washingtontimes",
+            "source_priority": 9784,
+            "source_name": "The Washington Times",
+            "source_url": "https://www.washingtontimes.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/washingtontimes.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "sports"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "1f6ec7fbfd5db9a3fb343de0b0082043",
+            "title": "Rumor Replay: Apple’s M5 chip is coming, iPhone roadmap tease, and more",
+            "link": "https://9to5mac.com/2025/02/06/rumor-replay-apples-m5-chip-is-coming-plus-iphone-roadmap-and-more/",
+            "keywords": [
+                "news"
+            ],
+            "creator": [
+                "Ryan Christoffel"
+            ],
+            "video_url": null,
+            "description": "This is Rumor Replay, a weekly column at 9to5Mac offering a quick rundown of the most recent Apple product rumors, with analysis and commentary. Today: Apple’s M5 chip is coming with AI enhancements, Tim Cook teases the iPhone roadmap, and Vision Pro’s expanding game support. Here are this week’s Apple rumors. more...",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-02-06 21:08:41",
+            "pubDateTZ": "UTC",
+            "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2025/02/Rumor-Replay-M5.jpg?quality=82&strip=all&w=1600",
+            "source_id": "9to5mac",
+            "source_priority": 2672,
+            "source_name": "9to5 Mac",
+            "source_url": "https://9to5mac.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/9to5mac.png",
+            "language": "english",
+            "country": [
+                "india",
+                "singapore",
+                "united states of america",
+                "australia",
+                "united kingdom"
+            ],
+            "category": [
+                "technology"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "a2868ab5c343bdd3bcd640e81cd1b195",
+            "title": "Amazon beats quarterly revenue estimates, cloud growth lags",
+            "link": "https://www.channelnewsasia.com/business/amazon-beats-quarterly-revenue-estimates-cloud-growth-lags-4922751",
+            "keywords": [
+                "business"
+            ],
+            "creator": null,
+            "video_url": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-02-06 21:08:24",
+            "pubDateTZ": "UTC",
+            "image_url": "https://dam.mediacorp.sg/image/upload/s--HQfI55q8--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2025-02-06t210315z_1_lynxmpel150w4_rtroptp_3_retail-holidayshopping-cyber-monday.jpg?itok=qHDIFm3g",
+            "source_id": "channelnewsasia",
+            "source_priority": 4142,
+            "source_name": "Channel Newsasia",
+            "source_url": "https://www.channelnewsasia.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/channelnewsasia.jpg",
+            "language": "english",
+            "country": [
+                "singapore",
+                "georgia",
+                "yemen",
+                "afghanistan",
+                "cyprus",
+                "india",
+                "saudi arabia",
+                "maldives",
+                "japan",
+                "united arab emirates",
+                "malaysia",
+                "china",
+                "south korea",
+                "north korea",
+                "taiwan",
+                "thailand",
+                "pakistan",
+                "mongolia",
+                "brunei",
+                "lebanon",
+                "indonesia",
+                "kyrgyzstan",
+                "syria",
+                "israel",
+                "bhutan",
+                "iran",
+                "turkey",
+                "armenia",
+                "qatar",
+                "philippines",
+                "hong kong",
+                "kazakhstan",
+                "iraq",
+                "bangladesh",
+                "laos",
+                "vietnam",
+                "timor-leste",
+                "kuwait",
+                "myanmar",
+                "azerbaijan",
+                "jordan",
+                "nepal",
+                "oman",
+                "sri lanka",
+                "uzbekistan",
+                "turkmenistan",
+                "macau",
+                "bahrain",
+                "cambodia",
+                "tajikistan"
+            ],
+            "category": [
+                "business"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": true
+        },
+        {
+            "article_id": "4a9f187ddc51f877782e8ab9b9d8e865",
+            "title": "US seizes Venezuelan government plane in Dominican Republic",
+            "link": "https://www.hindustantimes.com/world-news/us-news/us-seizes-venezuelan-government-plane-in-dominican-republic-101738876094390.html",
+            "keywords": [
+                "world-news"
+            ],
+            "creator": null,
+            "video_url": null,
+            "description": "USA-VENEZUELA-PLANE:US seizes Venezuelan government plane in Dominican Republic",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-02-06 21:08:14",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.hindustantimes.com/ht-img/img/2024/12/18/1600x900/World_3_1734523201355_1734523249781.jpg",
+            "source_id": "hindustantimes",
+            "source_priority": 933,
+            "source_name": "Hindustan Times",
+            "source_url": "http://www.hindustantimes.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/hindustantimes.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "world"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": true
+        },
+        {
+            "article_id": "27416a6af5ebea3b068ab7d81e3af642",
+            "title": "Southwestern Railways to submit detailed project report, hopes green signal for new Hubballi-Ankola line",
+            "link": "https://www.deccanherald.com/india/karnataka/rlys-hope-for-green-signal-with-new-hubballi-ankola-line-dpr-3393936",
+            "keywords": null,
+            "creator": [
+                "Pavan Kumar H"
+            ],
+            "video_url": null,
+            "description": "Rlys hope for green signal with new Hubballi-Ankola line DPR",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-02-06 21:08:08",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.deccanherald.com/deccanherald%2F2025-01-31%2Fux4b7uya%2Fdeccanherald_import_sites_dh_files_articleimages_2021_03_24_railways-965848-1616576065.avif?ar=40%3A21&auto=format%2Ccompress&mode=crop&ogImage=true&rect=0%2C0%2C700%2C368&w=1200",
+            "source_id": "deccanherald",
+            "source_priority": 10080,
+            "source_name": "Deccan Herald",
+            "source_url": "https://www.deccanherald.com",
+            "source_icon": null,
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "cc5759a2e875f250692ddbac86ee1b75",
+            "title": "Amazon shares drop as cloud growth, sales forecast lag",
+            "link": "https://www.channelnewsasia.com/business/amazon-shares-earnings-cloud-computing-ai-4922751",
+            "keywords": [
+                "business"
+            ],
+            "creator": null,
+            "video_url": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-02-06 21:08:00",
+            "pubDateTZ": "UTC",
+            "image_url": "https://dam.mediacorp.sg/image/upload/s--HQfI55q8--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2025-02-06t210315z_1_lynxmpel150w4_rtroptp_3_retail-holidayshopping-cyber-monday.jpg?itok=qHDIFm3g",
+            "source_id": "channelnewsasia",
+            "source_priority": 4142,
+            "source_name": "Channel Newsasia",
+            "source_url": "https://www.channelnewsasia.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/channelnewsasia.jpg",
+            "language": "english",
+            "country": [
+                "singapore",
+                "georgia",
+                "yemen",
+                "afghanistan",
+                "cyprus",
+                "india",
+                "saudi arabia",
+                "maldives",
+                "japan",
+                "united arab emirates",
+                "malaysia",
+                "china",
+                "south korea",
+                "north korea",
+                "taiwan",
+                "thailand",
+                "pakistan",
+                "mongolia",
+                "brunei",
+                "lebanon",
+                "indonesia",
+                "kyrgyzstan",
+                "syria",
+                "israel",
+                "bhutan",
+                "iran",
+                "turkey",
+                "armenia",
+                "qatar",
+                "philippines",
+                "hong kong",
+                "kazakhstan",
+                "iraq",
+                "bangladesh",
+                "laos",
+                "vietnam",
+                "timor-leste",
+                "kuwait",
+                "myanmar",
+                "azerbaijan",
+                "jordan",
+                "nepal",
+                "oman",
+                "sri lanka",
+                "uzbekistan",
+                "turkmenistan",
+                "macau",
+                "bahrain",
+                "cambodia",
+                "tajikistan"
+            ],
+            "category": [
+                "business"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": true
+        },
+        {
+            "article_id": "019294067637065ec7cd013297ae2825",
+            "title": "फिरोज ने मिथुन बनकर हिंदू लड़की से की शादी, पहली पत्नी ने फोड़ा भांडा और फिर...",
+            "link": "https://www.aajtak.in/india/jharkhand/story/jharkhand-feroze-married-a-hindu-girl-by-becoming-mithun-first-wife-exposes-truth-accused-sent-to-jail-ntc-rptc-2160738-2025-02-07",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "साहिबगंज के मुफस्सिल थाना क्षेत्र के मोहम्मद फिरोज ने बिहार के कटिहार की एक लड़की से प्रेम प्रसंग के बाद शादी की थी. आरोपी ने अपना नाम मिथुन बताया था. फिरोज की पहली पत्नी निकहत परवीन ने अपने पति की करतूत का खुलासा किया और पुलिस को अपने पति की सच्चाई बताई.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-02-06 21:07:26",
+            "pubDateTZ": "UTC",
+            "image_url": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202502/67a523e2ae854-wedding-06042957-16x9.jpg",
+            "source_id": "aajtak",
+            "source_priority": 20158,
+            "source_name": "Aaj Tak",
+            "source_url": "http://aajtak.in",
+            "source_icon": "https://i.bytvi.com/domain_icons/aajtak.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "b1120f104347282275f9845b6f79d527",
+            "title": "Indore: Tribal Affairs Minister Vijay Shah Reviews Healthcare At MY Hospital, Lauds Sickle Cell Treatment Programme",
+            "link": "https://www.freepressjournal.in/indore/indore-tribal-affairs-minister-vijay-shah-reviews-healthcare-at-my-hospital-lauds-sickle-cell-treatment-programme",
+            "keywords": [
+                "indore news",
+                "topnews"
+            ],
+            "creator": null,
+            "video_url": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-02-06 21:07:16",
+            "pubDateTZ": "UTC",
+            "image_url": "https://media.assettype.com/freepressjournal/2025-02-06/jti2wovx/Tarun-vijay-shah.jpeg",
+            "source_id": "freepressjournal",
+            "source_priority": 26427,
+            "source_name": "The Free Press Journal",
+            "source_url": "https://www.freepressjournal.in",
+            "source_icon": "https://i.bytvi.com/domain_icons/freepressjournal.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "2e4231c794628be30642be37b5902244",
+            "title": "Karan Veer Mehra On Life After Bigg Boss 18: ‘I Still Have To Give Auditions’ - News18",
+            "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTjMxRVNtTWhXT2tBOFdXeG5MWlJrd3dYTG1pZXByTXJsVHd5RnRqdUJva1Y5YmFSTHNnamx6WmpCaThYZW5CMVd4STFMWFpOSWJ3dmpvWnpzc0ZpbFdzRnozMGdnQ1pDWjNnUlZIOWxUbGdVRmJLbXJMRTlYdVBkZm96VWVNMmFhQmZuTWJ0bHU4Tl9WVUpSVEs4d2RFZGFRakp6cWJ1cGVzaHBRa1RQemNoanFvOUV6TllkMXdYTWlad9IBxwFBVV95cUxOZUd1cExBbDlhczZxOTF3RHlOVndaMEUzalBLUmNjZnYzWmZESm9URWdtME9BTGYtQmZBU0xJOVl0R04wdHJXR1N4MlBJZm5ZQU1hTlBiYXRlcGc4NjhncFJtdUVtMG5PODNIYVJzRG1kTzRfaDdvVHBLZi0xUm9jd1p5Qi1QU01vRVd1ZlNJYlFHMmQ2NElJOHlTRjlKa1VKY1Z0M1FqV3dTYV9Ib2xHT1JCTTdGUVliVWRFdHJ5OEdaMkY5c0d3?oc=5",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "Karan Veer Mehra On Life After Bigg Boss 18: ‘I Still Have To Give Auditions’ News18Karan Veer Mehra Admits People 'Not Happy' With His Bigg Boss 18 Win: 'They Are Talking Bad About Me' News18Bigg Boss 18 winner Karanveer Mehra reveals Sushant Singh Rajput helped him battle alcoholism, expresses guilt for not being there when Sushant needed him The Indian ExpressKaran Veer Mehra on co-contestants not clapping for him while receiving trophy: 'Khush kam the log..' India ForumsBigg Boss 18 winner Karan Veer Mehra reveals his mother was hospitalized while he was in the show; shares The Times of India",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-02-06 21:06:39",
+            "pubDateTZ": "UTC",
+            "image_url": null,
+            "source_id": "google",
+            "source_priority": 14,
+            "source_name": "Google News",
+            "source_url": "https://news.google.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/google.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "entertainment"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "6ead6639405462e2df96388012205862",
+            "title": "Who Is Marko Elez And What Did He Say? DOGE Staffer Resigns Over Racist Posts",
+            "link": "https://www.timesnownews.com/world/us/us-news/who-is-marko-elez-and-what-did-he-say-doge-staffer-resigns-over-racist-posts-article-117993933",
+            "keywords": null,
+            "creator": [
+                "Times Now Digital"
+            ],
+            "video_url": null,
+            "description": "Elon Musk's Department of Government Efficiency employee, whose request for access to U.S. Treasury payment systems was granted by a federal judge on Thursday, had connections to a social media account that was removed and promoted racism and eugenics, The Wall Street Journal reported.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-02-06 21:06:13",
+            "pubDateTZ": "UTC",
+            "image_url": "https://static.tnn.in/thumb/msid-117994041,thumbsize-73906,width-1280,height-720,resizemode-75/117994041.jpg",
+            "source_id": "timesnownews",
+            "source_priority": 2243,
+            "source_name": "Times Now News",
+            "source_url": "https://www.timesnownews.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/timesnownews.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "75fb380d0d8673b98a0a359e2447c6fc",
+            "title": "Donald Trump gave former Coast Guard commandant Admiral Linda Fagan just three hours to leave her home following her ouster as Coast Guard commandant",
+            "link": "https://economictimes.indiatimes.com/news/international/us/donald-trump-gave-former-coast-guard-commandant-admiral-linda-fagan-just-three-hours-to-leave-her-home-following-her-ouster-as-coast-guard-commandant/articleshow/117994040.cms",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "Donald Trump's recent obsession with diversity, equity, and inclusion policies is again in the spotlight after his administration gave the former highest-ranking woman in the American military just three hours to leave her home after her ouster. The female officer was in support of DEI policies, and Trump fired her as soon as he took office",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-02-06 21:06:12",
+            "pubDateTZ": "UTC",
+            "image_url": "https://img.etimg.com/thumb/msid-117994042,width-1200,height-630,imgsize-2063630,overlay-economictimes/articleshow.jpg",
+            "source_id": "economictimes_indiatimes",
+            "source_priority": 231,
+            "source_name": "The Economic Times",
+            "source_url": "https://economictimes.indiatimes.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/economictimes_indiatimes.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "083fddff017210eff99b557c81dce632",
+            "title": "Patrick Mahomes Takes More Strain in His Body During a Playoff Game Than a Marathon Runner: WHOOP Founder",
+            "link": "https://thesportsrush.com/nfl-news-patrick-mahomes-takes-more-strain-in-his-body-during-a-playoff-game-than-a-marathon-runner-whoop-founder/",
+            "keywords": [
+                "nfl",
+                "patrick mahomes"
+            ],
+            "creator": [
+                "Alex Murray"
+            ],
+            "video_url": null,
+            "description": "The strain of performing both mentally and physically at the highest athletic level can really place massive stress on a person. Even someone like Patrick Mahomes, who always seems cool, calm, and collected, is not immune to those intense pressures. But, when Mahomes gets stressed during a football game is just another piece of evidence...The post Patrick Mahomes Takes More Strain in His Body During a Playoff Game Than a Marathon Runner: WHOOP Founder appeared first on The SportsRush.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-02-06 21:05:53",
+            "pubDateTZ": "UTC",
+            "image_url": "https://cdn-wp.thesportsrush.com/2025/02/b22d9b56-httpscdn-wp.thesportsrush.com202501563b226b-usatsi_25170599.jpg-38.jpg?format=auto&q=75&w=3840",
+            "source_id": "thesportsrush",
+            "source_priority": 4166,
+            "source_name": "The Sportsrush",
+            "source_url": "https://thesportsrush.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/thesportsrush.jpg",
+            "language": "english",
+            "country": [
+                "india",
+                "australia",
+                "united states of america",
+                "united kingdom"
+            ],
+            "category": [
+                "sports"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "1daf7176990b52e17bc81c5570849a2a",
+            "title": "South African president alludes to Trump's threat in speech to the nation 'We will not be bullied'",
+            "link": "https://www.theweek.in/wire-updates/international/2025/02/07/fgn9-south-africa-president-speech.html",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "Cape Town, South Africa, Feb 7 (AP) South African President Cyril Ramaphosa appeared to respond to threats from US counterpart",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-02-06 21:05:49",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.theweek.in/content/dam/week/wire-updates/pti-preview-theweek.jpg",
+            "source_id": "theweek_in",
+            "source_priority": 26911,
+            "source_name": "The Week",
+            "source_url": "https://www.theweek.in",
+            "source_icon": "https://i.bytvi.com/domain_icons/theweek_in.jpg",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "world"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "82b678cd2d023cb6ec0d169e459bc155",
+            "title": "Trump and Jay Monahan meet at White House as PGA Tour deal with Saudis gets closer",
+            "link": "https://www.theweek.in/wire-updates/international/2025/02/07/fgn10-us-pga-tour-trump.html",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "Washington, Feb 7 (AP) PGA Tour Commissioner Jay Monahan said he met with President Donald Trump at the White House",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-02-06 21:05:43",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.theweek.in/content/dam/week/wire-updates/pti-preview-theweek.jpg",
+            "source_id": "theweek_in",
+            "source_priority": 26911,
+            "source_name": "The Week",
+            "source_url": "https://www.theweek.in",
+            "source_icon": "https://i.bytvi.com/domain_icons/theweek_in.jpg",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "world"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": true
+        },
+        {
+            "article_id": "f50295b6eb69642cc4d199502b3cc4ee",
+            "title": "Arcadium Lithium Announces Date for Fourth Quarter and Full Year 2024 Earnings Release",
+            "link": "https://www.prnewswire.com/apac/news-releases/arcadium-lithium-announces-date-for-fourth-quarter-and-full-year-2024-earnings-release-302370352.html",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "PHILADELPHIA and PERTH, Australia, Feb. 7, 2025 /PRNewswire/ -- Arcadium Lithium plc (NYSE: ALTM, ASX: LTM, \"Arcadium Lithium\") today announced it will release fourth quarter and full year 2024 earnings results on Thursday, February 27, 2025, after stock market close via PR Newswire and...",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-02-06 21:05:00",
+            "pubDateTZ": "UTC",
+            "image_url": "https://mma.prnewswire.com/media/2310012/Arcadium_Lithium_Horizontal_Logo.jpg?p=publish",
+            "source_id": "prnewswire_apac",
+            "source_priority": 1822,
+            "source_name": "Pr Newswire Apac",
+            "source_url": "https://www.prnewswire.com/apac",
+            "source_icon": "https://i.bytvi.com/domain_icons/prnewswire_apac.png",
+            "language": "english",
+            "country": [
+                "afghanistan",
+                "india",
+                "australia",
+                "singapore",
+                "fiji",
+                "maldives",
+                "japan",
+                "malaysia",
+                "china",
+                "south korea",
+                "thailand",
+                "pakistan",
+                "mongolia",
+                "brunei",
+                "new zealand",
+                "indonesia",
+                "bhutan",
+                "philippines",
+                "hong kong",
+                "bangladesh",
+                "nepal",
+                "sri lanka",
+                "cambodia"
+            ],
+            "category": [
+                "technology",
+                "business"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": true
+        },
+        {
+            "article_id": "392399a30080165a3b0a3b6207e52774",
+            "title": "ChatGPT comes to 500,000 new users in OpenAI’s largest AI education deal yet",
+            "link": "https://arstechnica.com/ai/2025/02/chatgpt-comes-to-500000-new-users-in-openais-largest-ai-education-deal-yet/",
+            "keywords": [
+                "large language models",
+                "chatgpt edu",
+                "ted underwood",
+                "chatgpt",
+                "california state university",
+                "machine learning",
+                "ai in education",
+                "ai assitants",
+                "openai",
+                "ai"
+            ],
+            "creator": [
+                "Benj Edwards"
+            ],
+            "video_url": null,
+            "description": "Still banned at some schools, ChatGPT gains an official role at California State University.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-02-06 21:04:47",
+            "pubDateTZ": "UTC",
+            "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/02/robot_university-1152x648.jpg",
+            "source_id": "arstechnica",
+            "source_priority": 3840,
+            "source_name": "Ars Technica",
+            "source_url": "https://arstechnica.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/arstechnica.png",
+            "language": "english",
+            "country": [
+                "india",
+                "canada",
+                "united states of america"
+            ],
+            "category": [
+                "technology"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "dcf68666ecbe8e8d52d091dad12f1921",
+            "title": "Amazon.com कमाई रिजल्ट, आय पिछाडा Q4 में",
+            "link": "https://hi.investing.com/news/stock-market-news/article-395231",
+            "keywords": null,
+            "creator": [
+                "Investing.com"
+            ],
+            "video_url": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-02-06 21:04:37",
+            "pubDateTZ": "UTC",
+            "image_url": "https://i-invdn-com.investing.com/news/LYNXMPEDAQ1JE_M.jpg",
+            "source_id": "investing_hi",
+            "source_priority": 1143,
+            "source_name": "Investing भारत",
+            "source_url": "https://hi.investing.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/investing_hi.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "business"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "8cdfd5cbe5e26497bcad166b7ad5e0b1",
+            "title": "Amazon.com earnings beat by $0.39, revenue topped estimates",
+            "link": "https://in.investing.com/news/stock-market-news/amazoncom-earnings-beat-by-039-revenue-topped-estimates-4652617",
+            "keywords": null,
+            "creator": [
+                "Investing.com"
+            ],
+            "video_url": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-02-06 21:04:24",
+            "pubDateTZ": "UTC",
+            "image_url": "https://i-invdn-com.investing.com/news/LYNXMPEA5H15I_M.jpg",
+            "source_id": "investing_in",
+            "source_priority": 1205,
+            "source_name": "Investing India",
+            "source_url": "https://in.investing.com",
+            "source_icon": null,
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "business"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": true
+        },
+        {
+            "article_id": "c7e2a77cb0f356c7d05587c2d473cd40",
+            "title": "Expedia कमाई रिजल्ट, आय पिछाडा Q4 में",
+            "link": "https://hi.investing.com/news/stock-market-news/article-395228",
+            "keywords": null,
+            "creator": [
+                "Investing.com"
+            ],
+            "video_url": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-02-06 21:04:20",
+            "pubDateTZ": "UTC",
+            "image_url": "https://i-invdn-com.investing.com/news/indicatornews_4_M_1440048337.jpg",
+            "source_id": "investing_hi",
+            "source_priority": 1143,
+            "source_name": "Investing भारत",
+            "source_url": "https://hi.investing.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/investing_hi.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "business"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "328f6a11b1a027e5d6403a16c12f34d9",
+            "title": "Trump trade nominee floats universal tariffs",
+            "link": "https://www.hindustantimes.com/world-news/us-news/trump-trade-nominee-floats-universal-tariffs-101738875849752.html",
+            "keywords": [
+                "world-news"
+            ],
+            "creator": null,
+            "video_url": null,
+            "description": "Trump trade nominee floats universal tariffs",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-02-06 21:04:09",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.hindustantimes.com/ht-img/img/2024/12/18/1600x900/World_3_1734523201355_1734523249781.jpg",
+            "source_id": "hindustantimes",
+            "source_priority": 933,
+            "source_name": "Hindustan Times",
+            "source_url": "http://www.hindustantimes.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/hindustantimes.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "world"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
             "article_id": "5ba3de174bc795de67aef16598531e64",
             "title": "Bareilly News: महाकुंभ में स्नान को लेकर विवादित टिप्पणी, रिपोर्ट",
             "link": "https://www.amarujala.com/uttar-pradesh/bareilly/controversial-comment-regarding-bathing-in-mahakumbh-report-bareilly-news-c-400-1-ala1001-271-2025-02-07",
@@ -22711,735 +23506,6 @@
             ],
             "category": [
                 "entertainment"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "dd735414e991304cbfb17ef308596db4",
-            "title": "Zomato के CEO ने कहा, हमारे साथ काम करने के लिए किसी ने कोई पैसे नहीं दिए",
-            "link": "https://hindi.webdunia.com/latest-business-news/zomato-ceo-deepinder-goyal-s-clarification-on-recruitment-125020500039_1.html",
-            "keywords": [
-                "business news"
-            ],
-            "creator": null,
-            "video_url": null,
-            "description": "Zomato: जोमैटो (Zomato) के संस्थापक एवं मुख्य कार्यपालक अधिकारी (सीईओ) दीपिंदर गोयल (Deepinder Goyal) ने बुधवार को नई दिल्ली में कहा कि कंपनी को 'चीफ ऑफ स्टाफ' (Chief of Staff) पद के लिए 18,000 से अधिक आवेदन मिले जिनमें से 30 उम्मीदवारों को विभिन्न ...",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-02-05 09:08:00",
-            "pubDateTZ": "UTC",
-            "image_url": "https://wd-image.webdunia.com/image-conversion/process-aws.php?outtype=webp&url=https%3A%2F%2Fnonprod-media.webdunia.com%2Fpublic_html%2F_media%2Fhi%2Fimg%2Farticle%2F2025-02%2F05%2Ffull%2F1738746937-2302.jpg",
-            "source_id": "webdunia",
-            "source_priority": 19669,
-            "source_name": "हिन्दी समाचार",
-            "source_url": "https://webdunia.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/webdunia.jpg",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "ea9c40aaebb9fad4145dc2c85cdba7d2",
-            "title": "‘He needs to work on...’: Ex-India cricketer gives BLUNT verdict on Sanju Samson’s poor form",
-            "link": "https://www.cricketcountry.com/news/he-needs-to-work-on-sanjay-manjrekar-gives-blunt-verdict-on-sanju-samsons-poor-form-1228948/",
-            "keywords": [
-                "news",
-                "sanju samson",
-                "t20 internationals",
-                "sanjay manjrekar",
-                "ind vs eng"
-            ],
-            "creator": [
-                "Ansh Sharma"
-            ],
-            "video_url": null,
-            "description": "The ex-India cricketer in question here is Sanjay Manjrekar who pointed out the flaws in Samson's technique and added that street smartness should help the wicketkeeper-batter a lotThe post ‘He needs to work on...’: Ex-India cricketer gives BLUNT verdict on Sanju Samson’s poor form appeared first on Cricket Country.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-02-05 09:07:51",
-            "pubDateTZ": "UTC",
-            "image_url": "https://st3.cricketcountry.com/wp-content/uploads/2025/02/Sanju-Samson-flop-show.jpg",
-            "source_id": "cricketcountry",
-            "source_priority": 104348,
-            "source_name": "Cricket Country",
-            "source_url": "https://www.cricketcountry.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/cricketcountry.jpg",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "sports"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "0b68d95cf5694712d3c9458368c07884",
-            "title": "Hostel superintendent booked for beating up several minor girls in Madhya Pradesh",
-            "link": "https://www.deccanherald.com/india/madhya-pradesh/hostel-superintendent-booked-for-beating-up-several-minor-girls-in-madhya-pradesh-3390330",
-            "keywords": null,
-            "creator": [
-                "PTI"
-            ],
-            "video_url": null,
-            "description": null,
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-02-05 09:07:50",
-            "pubDateTZ": "UTC",
-            "image_url": "https://images.deccanherald.com/deccanherald%2F2024-01%2Fa3d3f945-ab66-4f24-a3fb-3b2f608bad20%2FFIR_istokc.jpg?ar=40%3A21&auto=format%2Ccompress&mode=crop&ogImage=true&rect=0%2C27%2C700%2C368&w=1200",
-            "source_id": "deccanherald",
-            "source_priority": 10080,
-            "source_name": "Deccan Herald",
-            "source_url": "https://www.deccanherald.com",
-            "source_icon": null,
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "691cac351022a0f00be79bd6fe00848f",
-            "title": "Viral Video: ‘Hope They Became Friends!’ Netizens React After Tiger And Boar...",
-            "link": "https://news24online.com/trending/viral-video-hope-they-became-friends-netizens-react-after-tiger-and-boars-dramatic-rescue/463449/",
-            "keywords": [
-                "trending"
-            ],
-            "creator": [
-                "Vaidika Thapa"
-            ],
-            "video_url": null,
-            "description": "Pench Tiger Reserve wrote, “A tiger and a boar accidentally fell into a well in Pipariya village near the reserve. Thanks to the swift action of the Pench Tiger Reserve rescue team, big cat and boar were safely rescued! With expert coordination & care, both animals were pulled out unharmed and released back.”The post Viral Video: ‘Hope They Became Friends!’ Netizens React After Tiger And Boar... appeared first on News24.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-02-05 09:07:49",
-            "pubDateTZ": "UTC",
-            "image_url": "https://news24online.com/wp-content/uploads/2025/02/pic-64.jpg",
-            "source_id": "news24online",
-            "source_priority": 549589,
-            "source_name": "News 24",
-            "source_url": "https://news24online.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/news24online.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "6d4dcf1b1688b5ee11242c56c2c1d22e",
-            "title": "Assam: Watershed Yatra On Land And Water Conservation Held In Guwahati",
-            "link": "https://www.sentinelassam.com/north-east-india-news/assam-news/assam-watershed-yatra-on-land-and-water-conservation-held-in-guwahati",
-            "keywords": null,
-            "creator": [
-                "Sentinel Digital Desk"
-            ],
-            "video_url": null,
-            "description": "A special event called the Watershed Yatra was held today at the Bhumi Sangrakshan Bhawan in Guwahati which focused on land and water conservation and is organized under the Assam WDC - PMKSY.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-02-05 09:07:48",
-            "pubDateTZ": "UTC",
-            "image_url": "https://media.assettype.com/sentinelassam-english%2F2025-02-05%2Fq08j4x0n%2Fwatershed?ar=40%3A21&auto=format%2Ccompress&enlarge=true&mode=crop&ogImage=true&overlay=false&overlay_position=bottom&overlay_width=100&w=1200",
-            "source_id": "sentinel",
-            "source_priority": 177615,
-            "source_name": "The Sentinel",
-            "source_url": "https://www.sentinelassam.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/sentinel.jpg",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "4bb96c817fbaa183fa6669d8a4d30971",
-            "title": "US Flight Carrying 104 Deported Indians Lands In Punjab’s Amritsar",
-            "link": "https://news24online.com/world/us-flight-carrying-104-deported-indians-lands-in-punjabs-amritsar/463629/",
-            "keywords": [
-                "india",
-                "world"
-            ],
-            "creator": [
-                "Priyanka Negi"
-            ],
-            "video_url": null,
-            "description": "A United States military C-17 aircraft carrying 104 deported Indian nationals landed in Amritsar, Punjab, on February 5, 2025.The post US Flight Carrying 104 Deported Indians Lands In Punjab’s Amritsar appeared first on News24.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-02-05 09:07:46",
-            "pubDateTZ": "UTC",
-            "image_url": "https://news24online.com/wp-content/uploads/2025/02/US-PLAN.jpg",
-            "source_id": "news24online",
-            "source_priority": 549589,
-            "source_name": "News 24",
-            "source_url": "https://news24online.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/news24online.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "6a73a085e808b03987bd59880ec3f6db",
-            "title": "लोगों ने अधिकारियों से कहा कुछ ऐसा, भोपाल में रुक गई कार्रवाई",
-            "link": "https://hindi.news18.com/news/madhya-pradesh/bhopal-action-to-relocate-500-families-110-shops-from-moti-nagar-basti-in-bhopal-reason-is-very-surprising-9010335.html",
-            "keywords": [
-                "मध्य प्रदेश"
-            ],
-            "creator": [
-                "News18 Hindi"
-            ],
-            "video_url": null,
-            "description": "Bhopal News: भोपाल के मोती नगर बस्ती से 500 परिवारों और 110 दुकानों को हटाने की कार्रवाई थोड़ वक्त के लिए थम गई है. स्थानी लोगों को विस्थापन से पहले समय देने की मांग की है.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-02-05 09:07:46",
-            "pubDateTZ": "UTC",
-            "image_url": "https://images.news18.com/ibnkhabar/uploads/2025/02/bhopa-eviction-2025-02-228a21b87d4f1f85d8cef1ee4cefde44-3x2.jpg",
-            "source_id": "hindinews18",
-            "source_priority": 4077,
-            "source_name": "News 18 Hindi",
-            "source_url": "https://hindi.news18.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/hindinews18.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "ac610c6666da6b5618ef915d77ad13b3",
-            "title": "BJP alleges fake voting in Seelampur, AAP claims voter suppression in Chirag Dilli",
-            "link": "https://www.thehindu.com/elections/delhi-assembly/bjp-alleges-fake-voting-in-seelampur-aap-claims-voter-suppression-in-chirag-dilli/article69183284.ece",
-            "keywords": [
-                "delhi assembly"
-            ],
-            "creator": null,
-            "video_url": null,
-            "description": null,
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-02-05 09:07:41",
-            "pubDateTZ": "UTC",
-            "image_url": "https://www.thehindu.com/theme/images/th-online/1x1_spacer.png",
-            "source_id": "thehindu",
-            "source_priority": 2972,
-            "source_name": "The Hindu",
-            "source_url": "https://www.thehindu.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/thehindu.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": true
-        },
-        {
-            "article_id": "f4bb765da56259c6c484333e1e6a6790",
-            "title": "Wife Can Claim Maintenance From Second Husband Even If First Marriage Subsists, Says Supreme Court",
-            "link": "https://www.news18.com/india/wife-can-claim-maintenance-from-second-husband-even-if-first-marriage-subsists-says-supreme-court-9215492.html",
-            "keywords": [
-                "india"
-            ],
-            "creator": [
-                "News18"
-            ],
-            "video_url": null,
-            "description": "The Supreme Court has said it must be borne in mind that the right to maintenance under Section 125 CrPC is not a benefit received by a wife but rather a “legal and moral duty owed by the husband”",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-02-05 09:07:24",
-            "pubDateTZ": "UTC",
-            "image_url": "https://images.news18.com/ibnlive/uploads/2025/02/supreme-court-2025-02-99ae42b33ac5fd06f3b599ca3825bcee-3x2.jpg",
-            "source_id": "news18",
-            "source_priority": 3864,
-            "source_name": "News 18",
-            "source_url": "https://www.news18.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/news18.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "d5750397a5bf9e7d09884f9927a62cb2",
-            "title": "UP News: तांत्रिक और सोशल मीडिया का विज्ञापन ऐसे बन गया जानलेवा, मौत की हुई 'ऑनलाइन डिलीवरी'",
-            "link": "https://hindi.oneindia.com/news/uttar-pradesh/up-bagpat-samajwadi-party-leader-died-online-dava-latest-news-uttar-pradesh-1218097.html",
-            "keywords": [
-                "news/uttar-pradesh"
-            ],
-            "creator": null,
-            "video_url": null,
-            "description": "उत्तर प्रदेश के बागपत से एक दिल दहला देने वाली घटना सामने आई है। यहां एक सपा नेता को तांत्रिक के चक्कर में पड़ना भारी पड़ गया। आइए जानते हैं पूरा मामला क्या है?",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-02-05 09:07:24",
-            "pubDateTZ": "UTC",
-            "image_url": null,
-            "source_id": "oneindia",
-            "source_priority": 12404,
-            "source_name": "One India",
-            "source_url": "https://www.oneindia.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/oneindia.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "98039f8a436f7eb8c09f73484226d685",
-            "title": "‘Bogotá: City of the Lost’ review: Song Joong-ki’s Netflix crime film is a waste of good actors",
-            "link": "https://me.mashable.com/entertainment/52242/bogota-city-of-the-lost-review-song-joong-kis-netflix-crime-film-is-a-waste-of-good-actors",
-            "keywords": [
-                "netflix",
-                "song joong ki",
-                "kdrama",
-                "entertainment",
-                "post",
-                "bogotá: city of the lost"
-            ],
-            "creator": [
-                "Mamta Raut"
-            ],
-            "video_url": null,
-            "description": "Well, this was torture.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-02-05 09:07:20",
-            "pubDateTZ": "UTC",
-            "image_url": "https://sm.mashable.com/mashable_me/photo/default/untitled-2025-02-05t130606511_bm23.jpg",
-            "source_id": "mashable_me",
-            "source_priority": 1215,
-            "source_name": "Mashable Me",
-            "source_url": "https://me.mashable.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/mashable_me.png",
-            "language": "english",
-            "country": [
-                "georgia",
-                "yemen",
-                "afghanistan",
-                "cyprus",
-                "india",
-                "saudi arabia",
-                "united arab emirates",
-                "pakistan",
-                "egypt",
-                "lebanon",
-                "kyrgyzstan",
-                "syria",
-                "israel",
-                "djibouti",
-                "iran",
-                "turkey",
-                "armenia",
-                "qatar",
-                "morocco",
-                "kazakhstan",
-                "iraq",
-                "kuwait",
-                "ethiopia",
-                "azerbaijan",
-                "jordan",
-                "sudan",
-                "somalia",
-                "algeria",
-                "oman",
-                "libya",
-                "uzbekistan",
-                "turkmenistan",
-                "mauritania",
-                "bahrain",
-                "tunisia",
-                "tajikistan"
-            ],
-            "category": [
-                "entertainment"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "09e75638b92d5971f01b89fdaf1cf070",
-            "title": "British Foreign Secretary David Lammy’s visit to Ukraine highlights the UK’s blind support for a losing cause",
-            "link": "https://easternherald.com/2025/02/05/lammy-ukraine-blind-support/",
-            "keywords": [
-                "world",
-                "ukraine",
-                "kyiv",
-                "russia",
-                "foreign affairs",
-                "conflicts, military and war",
-                "military operation in ukraine - russo-ukrainian war",
-                "united kingdom",
-                "volodymyr zelenskyy",
-                "united states",
-                "news",
-                "europe",
-                "david lammy"
-            ],
-            "creator": [
-                "Europe Desk"
-            ],
-            "video_url": null,
-            "description": "British Foreign Secretary David Lammy’s visit to Ukraine highlights the UK’s blind support for a losing cause\" data-image-caption=\"UK Foreign Secretary David Lammy shakes hands with President of Ukraine Volodymyr Zelenskyy [PHOTO: Reuters]\" data-medium-file=\"https://i0.wp.com/easternherald.com/wp-content/uploads/2025/02/UK-Foreign-Secretary-David-Lammy-shakes-hands-with-President-of-Ukraine-Volodymyr-Zelenskyy-scaled.webp?fit=485%2C323&ssl=1\" data-large-file=\"https://i0.wp.com/easternherald.com/wp-content/uploads/2025/02/UK-Foreign-Secretary-David-Lammy-shakes-hands-with-President-of-Ukraine-Volodymyr-Zelenskyy-scaled.webp?fit=696%2C464&ssl=1\" />British Foreign Secretary David Lammy has arrived in the Ukrainian capital, Kyiv, on an official visit to further solidify the United Kingdom’s continued support for Ukraine. The visit comes as Russia’s special military operation in Ukraine persists, with the UK reinforcing its commitment to assist Kyiv through financial aid, strategic dialogue, and military support. Lammy’s [...]",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-02-05 09:07:20",
-            "pubDateTZ": "UTC",
-            "image_url": "https://easternherald.com/i0.wp.com/easternherald.com/wp-content/uploads/2025/02/UK-Foreign-Secretary-David-Lammy-shakes-hands-with-President-of-Ukraine-Volodymyr-Zelenskyy-scaled.webp?fit=2560%2C1707&ssl=1",
-            "source_id": "easternherald",
-            "source_priority": 1647045,
-            "source_name": "The Eastern Herald",
-            "source_url": "https://www.easternherald.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/easternherald.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "cb2f7a7ef4723f72d7451bad7addd276",
-            "title": "Odisha CM Mohan Majhi launches 'Viksit Gaon Viksit Odisha' scheme",
-            "link": "https://sambadenglish.com/latest-news/odisha-cm-mohan-majhi-launches-viksit-gaon-viksit-odisha-scheme-8692709",
-            "keywords": [
-                "odisha latest"
-            ],
-            "creator": [
-                "Chinmayee Dash"
-            ],
-            "video_url": null,
-            "description": "Khordha: Chief Minister Mohan Charan Majhi today launched 'Viksit Gaon Viksit Odisha', the scheme rebranded by the BJP Government for development of rural Odisha, at Jankia here in the district. The scheme was launched at a programme attended by Panchayatiraj & Rural Debelopment Minister Rabi Narayan Naik, Khordha MLA Prasanta Jagadev, Bhubaneswar-Ekamra MLA Babu Singh and Collector Chanchal Rana. Speaking at the event, CM said, \"We need to keep politics and development separately.\" Attacking the BJD, he said, \"The previous government that ruled 24 years in Odisha had conspired to create vote bank in name of 5T. However, the BJP government will continue fighting against poverty and backwardness. Under the Viksit Gaon Viksit Odisha scheme, each village will be developed within five years.\" Earlier, a detailed guideline has been released for the implementation of Viksit Gaon Viksit Odisha scheme. The collectors have been asked to prepare 5-year action plan for the development of villages and send the report to the government by February 15. Notably, Mohan Majhi-led BJP Government recently replaced Naveen Patnaik-led BJD government’s flagship rural scheme “Ama Odisha Nabina Odisha” with the Viksit Gaon Viksit Odisha (Developed Village, Developed Odisha). Under this scheme, the government will spend around Rs 5,000 crore in the next five years.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-02-05 09:07:17",
-            "pubDateTZ": "UTC",
-            "image_url": "https://img-cdn.publive.online/fit-in/1280x960/sambad-english/media/media_files/2025/02/05/VSpv1cHSZA3f9jBeOnZG.jpg",
-            "source_id": "sambadenglish",
-            "source_priority": 332200,
-            "source_name": "Sambad English",
-            "source_url": "https://sambadenglish.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/sambadenglish.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "ef9a1a63eb1a2d3f07a0716475fc8320",
-            "title": "US aircraft carrying deported Indians lands at Amritsar airport",
-            "link": "https://www.thehindubusinessline.com/news/us-aircraft-carrying-deported-indians-lands-at-amritsar-airport/article69183283.ece",
-            "keywords": [
-                "news"
-            ],
-            "creator": null,
-            "video_url": null,
-            "description": "30 deportees are from Punjab, 33 each from Haryana and Gujarat, three each from Maharashtra and UP, and two from Chandigarh, sources said",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-02-05 09:07:07",
-            "pubDateTZ": "UTC",
-            "image_url": "https://bl-i.thgim.com/public/incoming/dmz4x/article69183299.ece/alternates/LANDSCAPE_1200/PTI02_05_2025_000313A.jpg",
-            "source_id": "thehindubusinessline",
-            "source_priority": 33540,
-            "source_name": "The Hindu - Business Line",
-            "source_url": "https://www.thehindubusinessline.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/thehindubusinessline.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": true
-        },
-        {
-            "article_id": "7ea4c0a7cd44c8bdb56ecde1b94c9a6a",
-            "title": "Mystery deepens over who owns 52 kg of gold and Rs 11 crore found in Bhopal car",
-            "link": "https://www.news9live.com/india/mystery-deepens-over-who-owns-52-kg-of-gold-and-rs-11-crore-found-in-bhopal-car-2814281",
-            "keywords": [
-                "india"
-            ],
-            "creator": [
-                "Tirtho Banerjee"
-            ],
-            "video_url": null,
-            "description": "A huge discovery of 52 kilograms of gold and Rs 11 crore in cash, found in an abandoned car in Bhopal, Madhya Pradesh, has triggered an extensive corruption investigation. Former constable Saurabh Sharma is at the center of the probe, with discrepancies in the Lokayukta’s report raising suspicions. The investigation, involving multiple agencies like the ED and IT department, has revealed possible connections to international money laundering and illegal gold smuggling.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-02-05 09:07:00",
-            "pubDateTZ": "UTC",
-            "image_url": "https://images.news9live.com/wp-content/uploads/2025/02/gold.jpg",
-            "source_id": "news9live",
-            "source_priority": 193096,
-            "source_name": "News9live",
-            "source_url": "https://www.news9live.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/news9live.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "c0753e79db499d4a0ccc7e04dff2105e",
-            "title": "UGC NET Cut Off 2025: Category-wise NTA NET Previous Year Cut Off",
-            "link": "https://www.jagranjosh.com/articles/ugc-net-cut-off-2025-paper-1-and-paper-2-category-wise-qualifying-marks-1738745946-1",
-            "keywords": [
-                "ugc net cut off 2025, nta net cut off marks, ugc net paper 1 cut off, ugc net paper 2 cut off, ugc net previous year cut off, nta ugc net qualifying marks, ugc net category wise cut off, ugc net subject wise cut off"
-            ],
-            "creator": null,
-            "video_url": null,
-            "description": null,
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-02-05 09:06:59",
-            "pubDateTZ": "UTC",
-            "image_url": "https://img.jagranjosh.com/images/2025/February/522025/UGC-NET-Cut-Off-2025.webp",
-            "source_id": "jagranjosh",
-            "source_priority": 7152,
-            "source_name": "Jagran Josh",
-            "source_url": "https://www.jagranjosh.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/jagranjosh.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "education"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "96ca47296a4bcf045a8e81d86a6ccbd5",
-            "title": "‘Bete Ko Haath Lagane Se Pehle Baap Se Baat Kar’: Aryan Khan’s ‘The Ba***ds of Bollywood’ Plays on Shah Rukh Khan’s Iconic Dialogue From ‘Jawan’ (Watch Video)",
-            "link": "https://www.latestly.com/entertainment/bollywood/bete-ko-haath-lagane-se-pehle-baap-se-baat-kar-aryan-khans-the-bads-of-bollywood-plays-on-shah-rukh-khans-iconic-dialogue-from-jawan-6619674.html",
-            "keywords": null,
-            "creator": null,
-            "video_url": null,
-            "description": "With son Aryan Khan’s debut web series ‘The Ba***ds of Bollywood’ on Netflix, Shah Rukh Khan continues to get back at cop Sameer Wankhede through his now iconic dialogue from his 2023 hit film Jawan.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-02-05 09:06:57",
-            "pubDateTZ": "UTC",
-            "image_url": "https://st1.latestly.com/wp-content/uploads/2025/02/Shah-Rukh-in-Jawan-and-The-Bads-of-Bollywood-380x214.jpg",
-            "source_id": "latestly",
-            "source_priority": 31923,
-            "source_name": "Latestly",
-            "source_url": "https://www.latestly.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/latestly.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "entertainment"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "d0913d0eb2b0854b610101284ef8a678",
-            "title": "No Chakravarthy In India's XI For 1st ODI, Manjrekar Takes Bold Calls",
-            "link": "https://sports.ndtv.com/cricket/no-varun-chakravarthy-in-indias-xi-for-1st-odi-vs-england-sanjay-manjrekar-makes-bold-calls-7639525",
-            "keywords": null,
-            "creator": null,
-            "video_url": null,
-            "description": "The Indian team management has some bold selection calls to make for the first ODI against England.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-02-05 09:06:52",
-            "pubDateTZ": "UTC",
-            "image_url": "https://c.ndtvimg.com/2025-02/nle9it6g_varun-chakravarthy-bcci_625x300_05_February_25.jpg?im=FeatureCrop%2Calgorithm%3Ddnn%2Cwidth%3D806%2Cheight%3D605",
-            "source_id": "ndtv",
-            "source_priority": 1204,
-            "source_name": "Ndtv",
-            "source_url": "http://www.ndtv.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/ndtv.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "sports"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "cb97bc2bfedaa015ed156483b6a9eb9d",
-            "title": "One UI 7 release delayed: Know about expected release date, AI features, and more",
-            "link": "https://www.hindustantimes.com/technology/one-ui-7-release-delayed-know-about-expected-release-date-ai-features-and-more-101738746010628.html",
-            "keywords": [
-                "technology"
-            ],
-            "creator": null,
-            "video_url": null,
-            "description": "One UI 7 released awaited, know when the update will be rolled out to compatible Samsung Galaxy phones including Galaxy S24 and S23 series.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-02-05 09:06:49",
-            "pubDateTZ": "UTC",
-            "image_url": "https://www.hindustantimes.com/ht-img/img/2025/02/05/1600x900/GALAXY-UNPACKED-31_1737630136384_1738746165877.jpg",
-            "source_id": "hindustantimes",
-            "source_priority": 933,
-            "source_name": "Hindustan Times",
-            "source_url": "http://www.hindustantimes.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/hindustantimes.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "technology"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "61b9dbb2809b081be07cc05d7bc6c120",
-            "title": "One UI 7 release delayed: Know about expected release date, AI features, and more - Hindustan Times",
-            "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQdEl4NV9UWHljdmQwRWtqSFJxaEtuS1N5TktpNGFidmFCRDBJaldvVENIYkRuc2NYNUZBZ3AxSDhiZ0JIbHFET0MzcEdwandSeElRQ0VqX3JqVmtYTWYtd2hhUWNOa2NrcEtjaTZCQ0ItODhmUkxlUTJKczk4S2hLWVhHUmxSMmdaaUxaMlpMbk1pdUl2ektQOFEwU25WTzAxRXh3akl1dEFweVlxZUw3TWJvdzNySml4emNmc2FBRVc2VWtkd1NSWExjdnJFV1hWRTNhZUZqYTTSAd4BQVVfeXFMUFI1dTlKU01ZdUhiMmJHTEM2dWl1ZzJmdndUVVVzMWl6SDd5dFk1TjVZaGxjVURPcUJ3QVV5MUMwSEQ1TmhCclB0al8zQ3hTeU90MldnSDdQOHZHZzU1Yy1QeTRoNWtjdDQzTnMtbkZ6WW53eEMwUWNRa1RiSWlTbGswUmhSZXFPOHdIVjRQSkcyb3B3VmRGVGNVOG04RXBuN0hGdVNuODdkSmhBVDE2NEZUT3ZPcU1hT2FULUFiZmZHTGhMTmlKZTFWd2ZTMlJ0aGw0ay00U2VrYnNKQ0pB?oc=5",
-            "keywords": null,
-            "creator": null,
-            "video_url": null,
-            "description": "One UI 7 release delayed: Know about expected release date, AI features, and more Hindustan TimesOne UI 7 release date may be delayed: Android 15 update for Galaxy S24 and S23 could arrive later DigitSamsung One UI Update: Eligible Devices, Features, Expected Date, And More HerZindagi EnglishSamsung’s Surprising Update—Galaxy S25 Falls Behind S24 And S23 ForbesOne UI 7: Whole lot of new customisation options including animations The Week",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-02-05 09:06:49",
-            "pubDateTZ": "UTC",
-            "image_url": null,
-            "source_id": "google",
-            "source_priority": 14,
-            "source_name": "Google News",
-            "source_url": "https://news.google.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/google.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "technology"
             ],
             "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
             "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
