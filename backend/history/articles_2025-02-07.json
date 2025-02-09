@@ -1,6 +1,706 @@
 {
     "articles": [
         {
+            "article_id": "963d26ccf73b377136b0e7de4ef0c8f7",
+            "title": "Boeing has informed its employees that NASA may cancel SLS contracts",
+            "link": "https://arstechnica.com/space/2025/02/boeing-has-informed-its-employees-that-nasa-may-cancel-sls-contracts/",
+            "keywords": [
+                "nasa",
+                "space"
+            ],
+            "creator": [
+                "Eric Berger"
+            ],
+            "video_url": null,
+            "description": "The White House has not made a final decision yet on the large rocket.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-02-07 22:07:39",
+            "pubDateTZ": "UTC",
+            "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2022/03/SLS-Mar-17-2022-2546-1152x648.jpg",
+            "source_id": "arstechnica",
+            "source_priority": 3840,
+            "source_name": "Ars Technica",
+            "source_url": "https://arstechnica.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/arstechnica.png",
+            "language": "english",
+            "country": [
+                "india",
+                "canada",
+                "united states of america"
+            ],
+            "category": [
+                "technology"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "6950255c599bb27ffcb127cbc82163b3",
+            "title": "US-China AI rivalry: Lessons for India",
+            "link": "https://www.deccanherald.com/specials/us-china-ai-rivalry-lessons-for-india-3395938",
+            "keywords": null,
+            "creator": [
+                "Sameer Patil"
+            ],
+            "video_url": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-02-07 22:06:49",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.deccanherald.com/deccanherald%2F2024-01%2Fc911a7a5-cffd-4e95-9a53-3cbcba3d14b4%2Fus_china_flags_istock_948223_1612604242.png?ar=40%3A21&auto=format%2Ccompress&mode=crop&ogImage=true&rect=0%2C0%2C1116%2C586&w=1200",
+            "source_id": "deccanherald",
+            "source_priority": 10080,
+            "source_name": "Deccan Herald",
+            "source_url": "https://www.deccanherald.com",
+            "source_icon": null,
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "78100e74dd7b957442e87644240fd98d",
+            "title": "Government Extends NCSK Tenure for Upliftment of Sanitation Workers",
+            "link": "https://www.devdiscourse.com/article/law-order/3257549-government-extends-ncsk-tenure-for-upliftment-of-sanitation-workers",
+            "keywords": null,
+            "creator": [
+                "noemail@noemail.org (Devdiscourse News Desk)"
+            ],
+            "video_url": null,
+            "description": "The Central Government's decision to extend the tenure of the National Commission for Safai Karamcharis (NCSK) has been met with approval from Goa Chief Minister Pramod Sawant. In a statement, he praised the move, which comes with a financial implication of approximately Rs 50.91 crore, as a significant step towards bettering the lives of sanitation workers.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-02-07 22:06:29",
+            "pubDateTZ": "UTC",
+            "image_url": "https://devdiscourse.blob.core.windows.net/imagegallery/03_03_2020_19_04_32_3060217.jpg",
+            "source_id": "devdiscourse",
+            "source_priority": 566021,
+            "source_name": "Devdiscourse",
+            "source_url": "https://www.devdiscourse.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/devdiscourse.jpg",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "13f12a31b71639af14d7e9d81e7233ad",
+            "title": "China Urges Panama to Rethink Belt and Road Departure",
+            "link": "https://www.devdiscourse.com/article/politics/3257550-china-urges-panama-to-rethink-belt-and-road-departure",
+            "keywords": null,
+            "creator": [
+                "noemail@noemail.org (Devdiscourse News Desk)"
+            ],
+            "video_url": null,
+            "description": "China expressed regret on Saturday over Panama's intent to exit Beijing's Belt and Road Initiative. The country is urging Panama to reconsider, as conveyed by Assistant Foreign Minister Zhao Zhuyuan.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-02-07 22:06:29",
+            "pubDateTZ": "UTC",
+            "image_url": "https://devdiscourse.blob.core.windows.net/aiimagegallery/20_06_2024_08_36_38_3873874.png",
+            "source_id": "devdiscourse",
+            "source_priority": 566021,
+            "source_name": "Devdiscourse",
+            "source_url": "https://www.devdiscourse.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/devdiscourse.jpg",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "0504e91a4817a6e447056b8991e01d90",
+            "title": "Slovakia protesters call on Fico to resign over government's pro-Russia policy shift",
+            "link": "https://www.devdiscourse.com/article/politics/3257477-slovakia-protesters-call-on-fico-to-resign-over-governments-pro-russia-policy-shift",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "Slovakia protesters call on Fico to resign over government's pro-Russia policy shift Huge crowds gathered in dozens of cities and towns across Slovakia on Friday to mount vocal protests against the pro-Russian policies of populist Prime Minister Robert Fico.The latest wave of anti-government rallies was fueled by Fico's recent trip to Moscow for talks with Russian President Vladimir Putin, a rare visit to the Kremlin by a European Union leader since Moscow's all-out invasion of Ukraine began on February 24, 2022.Fico's recent remarks that Slovakia's foreign policy orientation could involve leaving the European Union and NATO contributed to the anger of protesters.“Resign, resign,” was the the clear message to the premier. “Slovakia is Europe,” they chanted.The latest rallies took place in 41 locations in Slovakia, up from 28 two weeks ago, and in another 13 cities abroad, organizers said.They are biggest demonstrations since major street protests in 2018 prompted by the slayings of an investigative reporter and his fiancee. The ensuing political crisis led to the collapse of Fico's previous government.Fico, who survived an assassination attempt in May 2024, has escalated the tension in the country by accusing protest organizers of being in contact with foreigners who organized recent anti-government protests in Georgia and are under control of Ukraine's authorities who, he said, are working toward engineering a coup in Slovakia. Government officials have failed to provide evidence for the claim, which has been dismissed by the Peace for Ukraine organization.Fico's views on Russia have sharply differed from the European mainstream. He returned to power last year after his leftist party Smer (Direction) won a parliamentary election on a pro-Russia and anti-American platform. He has since ended Slovakia's military aid for Ukraine, criticized European Union sanctions on Russia and vowed to block Ukraine from joining NATO. He declared Ukraine's President Volodymyr Zelenskyy as an enemy after Ukraine halted on Russian gas supplies to Slovakia and some other European customers.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-02-07 22:06:06",
+            "pubDateTZ": "UTC",
+            "image_url": "https://devdiscourse.blob.core.windows.net/imagegallery/29_02_2020_16_57_14_7140931.jpg",
+            "source_id": "devdiscourse",
+            "source_priority": 566021,
+            "source_name": "Devdiscourse",
+            "source_url": "https://www.devdiscourse.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/devdiscourse.jpg",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": true
+        },
+        {
+            "article_id": "438f940965c7b34a5715f9fdba1029a3",
+            "title": "Antonio Brown Blew Through $80,000,000, Now Files for Bankruptcy with Just $50,000 Left - But That’s Not Even the Wildest Part!",
+            "link": "https://timesofindia.indiatimes.com/sports/nfl/news/antonio-brown-blew-through-80000000-now-files-for-bankruptcy-with-just-50000-left-but-thats-not-even-the-wildest-part/articleshow/118038790.cms",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "Antonio Brown, a former NFL star, has filed for Chapter 11 bankruptcy, claiming assets under $50,000 against debts exceeding $3,000,000. He owes $1,200,000 to a moving truck driver and is accused of hiding assets and financial misreporting. His post-NFL life includes controversies and financial chaos, with his bankruptcy approval hanging in the balance.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-02-07 22:05:46",
+            "pubDateTZ": "UTC",
+            "image_url": "https://static.toiimg.com/thumb/msid-118038821,width-1070,height-580,imgsize-201706,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "source_id": "toi",
+            "source_priority": 239,
+            "source_name": "The Times Of India",
+            "source_url": "https://timesofindia.indiatimes.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/toi.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "958ae62fc4d0406951c0bd7de50d93fd",
+            "title": "UPDATE 1-IMF sees Nicaragua economic growth cooling as pace of remittances fall",
+            "link": "https://www.devdiscourse.com/article/politics/3257476-update-1-imf-sees-nicaragua-economic-growth-cooling-as-pace-of-remittances-fall",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "UPDATE 1-IMF sees Nicaragua economic growth cooling as pace of remittances fall Nicaragua's economy will likely grow at around 4% this year, similar to its expected 2024 expansion, due to prudent macro-economic polices as well as \"high\" remittances, according to a Friday report from the International Monetary Fund.The Central American economy grew by 4.6% in 2023. But the board report from the international lender expects economic expansion to cool in the medium-term, at around 3.5%, due to the likelihood of slowing remittances from Nicaragua's large migrant diaspora, which is heavily concentrated in the United States.Remittances make up just over a fourth of the country's gross domestic product. Other factors weighing on growth cited by the IMF include smaller private sector investment and less domestic labor due to accelerating migration.\"Going forward, domestic and international political developments, and deterioration of the rule of law may also impact economic performance by potentially increasing the cost of doing business,\" according to the IMF report. The government of President Daniel Ortega faces increasing isolation abroad, as rights groups and the United Nations have sounded the alarm over whey they describe as a growing concentration of power and broad restrictions on freedom of expression, following the recent enactment of a sweeping constitutional reform.Ortega's 2018 crackdown on dissent, following mass anti-government protests, has led to what critics see as a tightening grip on power marked by arbitration arrests and violent suppression of dissent to his rule, which is now shared with his wife and newly installed co-president, Rosario Murillo. The IMF report emphasized the need to \"significantly improve\" the rule of law and protect the judiciary's independence. The lender also urged the government to mitigate fiscal risks, including by reforming its pension system, strengthen transparency and improve supervision over state-run companies.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-02-07 22:05:43",
+            "pubDateTZ": "UTC",
+            "image_url": "https://devdiscourse.blob.core.windows.net/imagegallery/27_05_2019_12_10_51_4304562.jpg",
+            "source_id": "devdiscourse",
+            "source_priority": 566021,
+            "source_name": "Devdiscourse",
+            "source_url": "https://www.devdiscourse.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/devdiscourse.jpg",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "6598a03492932ca1cac0598a6a05e5be",
+            "title": "Maguire heads Manchester United into FA Cup fifth round",
+            "link": "https://www.channelnewsasia.com/sport/maguire-heads-manchester-united-fa-cup-fifth-round-4925326",
+            "keywords": [
+                "sport"
+            ],
+            "creator": null,
+            "video_url": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-02-07 22:05:32",
+            "pubDateTZ": "UTC",
+            "image_url": "https://dam.mediacorp.sg/image/upload/s--2tkoX1wz--/c_fill,g_auto,h_468,w_830/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2025-02-07t220532z_1_lynxmpel160tr_rtroptp_3_soccer-england-mun-lei-report.jpg?itok=G6paSwC6",
+            "source_id": "channelnewsasia",
+            "source_priority": 4142,
+            "source_name": "Channel Newsasia",
+            "source_url": "https://www.channelnewsasia.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/channelnewsasia.jpg",
+            "language": "english",
+            "country": [
+                "georgia",
+                "yemen",
+                "afghanistan",
+                "cyprus",
+                "india",
+                "singapore",
+                "saudi arabia",
+                "maldives",
+                "japan",
+                "united arab emirates",
+                "malaysia",
+                "china",
+                "south korea",
+                "north korea",
+                "taiwan",
+                "thailand",
+                "pakistan",
+                "mongolia",
+                "brunei",
+                "lebanon",
+                "indonesia",
+                "kyrgyzstan",
+                "syria",
+                "israel",
+                "bhutan",
+                "iran",
+                "turkey",
+                "armenia",
+                "qatar",
+                "philippines",
+                "hong kong",
+                "kazakhstan",
+                "iraq",
+                "bangladesh",
+                "laos",
+                "vietnam",
+                "timor-leste",
+                "kuwait",
+                "myanmar",
+                "azerbaijan",
+                "jordan",
+                "nepal",
+                "sri lanka",
+                "uzbekistan",
+                "turkmenistan",
+                "macau",
+                "bahrain",
+                "cambodia",
+                "tajikistan",
+                "oman"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": true
+        },
+        {
+            "article_id": "186912264b1e6f1e4b1f2f1d4d1ca632",
+            "title": "Youth dies in road accident in Yamunanagar",
+            "link": "https://www.tribuneindia.com/news/haryana/youth-dies-in-road-accident-in-yamunanagar",
+            "keywords": null,
+            "creator": [
+                "Tribune News Service"
+            ],
+            "video_url": null,
+            "description": "A youth was killed when his motorcycle was allegedly hit by a truck near the Sadar police station, Jagadhri. The deceased has been identified as Vashu of Telipura village and he was a student of Class XI. According to information, Harsh of Madhuwala village of Yamunanagar district was going with his friend Vashu on a [...]",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-02-07 22:05:16",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/webp/medium/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWEwMWQyNGMwLWU1OWYtMTFlZi04ZGU2LTkzNGIzY2M4YTM2NC5qcGc%3D",
+            "source_id": "tribuneindia",
+            "source_priority": 15316,
+            "source_name": "The Tribune India",
+            "source_url": "https://www.tribuneindia.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/tribuneindia.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "d143be0d1ea391973f85de4f37b8c143",
+            "title": "State Department lays out plans for $7 billion-plus arms sale to Israel as Netanyahu visits DC",
+            "link": "https://www.devdiscourse.com/article/politics/3257475-state-department-lays-out-plans-for-7-billion-plus-arms-sale-to-israel-as-netanyahu-visits-dc",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "State Department lays out plans for $7 billion-plus arms sale to Israel as Netanyahu visits DC The State Department has formally told Congress that it plans to sell more than USD 7 billion in weapons to Israel, including thousands of bombs and missiles, just two days after President Donald Trump met with Israeli Prime Minister Benjamin Netanyahu at the White House.The massive arms sale comes as a fragile ceasefire agreement between Israel and Hamas holds, even as Trump continues to tout his widely criticized proposal to move all Palestinians from Gaza and redevelop it as an international travel destination.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-02-07 22:04:46",
+            "pubDateTZ": "UTC",
+            "image_url": "https://devdiscourse.blob.core.windows.net/imagegallery/29_02_2020_16_57_55_697089.jpg",
+            "source_id": "devdiscourse",
+            "source_priority": 566021,
+            "source_name": "Devdiscourse",
+            "source_url": "https://www.devdiscourse.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/devdiscourse.jpg",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": true
+        },
+        {
+            "article_id": "40b70fb7313dc6706a022d932a129ee5",
+            "title": "WhatsApp Chats Expose Network Within I-T Deptarment, Middlemen Leaking Faceless AOs' Identities For Undue Benefit",
+            "link": "https://www.freepressjournal.in/mumbai/whatsapp-chats-expose-network-within-i-t-deptarment-middlemen-leaking-faceless-aos-identities-for-undue-benefit",
+            "keywords": [
+                "fpj shorts",
+                "mumbai news",
+                "topnews"
+            ],
+            "creator": null,
+            "video_url": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-02-07 22:04:00",
+            "pubDateTZ": "UTC",
+            "image_url": "https://media.assettype.com/freepressjournal/2022-12/34a2778b-b971-4424-b4a0-70a8a35dbde5/hoax_bomb_call.jpg",
+            "source_id": "freepressjournal",
+            "source_priority": 26427,
+            "source_name": "The Free Press Journal",
+            "source_url": "https://www.freepressjournal.in",
+            "source_icon": "https://i.bytvi.com/domain_icons/freepressjournal.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "5d45a19524b6376f255ae4114a600f52",
+            "title": "Who Is Rachel Wick And Why Buena Park High School Students Are Protesting Against Her?",
+            "link": "https://www.timesnownews.com/world/us/us-news/who-is-rachel-wick-and-why-buena-park-high-school-students-in-california-are-protesting-against-her-article-118038387",
+            "keywords": null,
+            "creator": [
+                "Shamik Banerjee"
+            ],
+            "video_url": null,
+            "description": "Students at Buena Park High School in California organized a protest against staffer Rachel Wick, who allegedly made a racist post calling for the burning of \"all Mexico flags\" amid ICE deportations. Wick’s Instagram post, stating, \"This is America,\" sparked outrage, leading to a protest outside the school on Friday.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-02-07 22:03:10",
+            "pubDateTZ": "UTC",
+            "image_url": "https://static.tnn.in/thumb/msid-118038464,thumbsize-1203242,width-1280,height-720,resizemode-75/118038464.jpg",
+            "source_id": "timesnownews",
+            "source_priority": 2243,
+            "source_name": "Times Now News",
+            "source_url": "https://www.timesnownews.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/timesnownews.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "4e26982e7218c6d04c5ad5a2a842c685",
+            "title": "IMF sees Nicaragua economic growth cooling as pace of remittances fall",
+            "link": "https://www.devdiscourse.com/article/business/3257474-imf-sees-nicaragua-economic-growth-cooling-as-pace-of-remittances-fall",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "IMF sees Nicaragua economic growth cooling as pace of remittances fall Nicaragua's economy will likely grow at around 4% this year, similar to its expected 2024 expansion, due to prudent macro-economic polices as well as \"high\" remittances, according to a Friday report from the International Monetary Fund.The Central American economy grew by 4.6% in 2023.But the board report from the international lender expects economic expansion to cool in the medium-term, at around 3.5%, due to the likelihood of slowing remittances from Nicaragua's large migrant diaspora, which is heavily concentrated in the United States.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-02-07 22:03:06",
+            "pubDateTZ": "UTC",
+            "image_url": "https://devdiscourse.blob.core.windows.net/imagegallery/27_06_2019_18_37_32_7527733.png",
+            "source_id": "devdiscourse",
+            "source_priority": 566021,
+            "source_name": "Devdiscourse",
+            "source_url": "https://www.devdiscourse.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/devdiscourse.jpg",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "10c1c5fa8fab706f70bd470e02c03665",
+            "title": "World News | More Active Duty Troops Will Head to US-Mexico Border, Bringing the Total to 3,600",
+            "link": "https://www.latestly.com/agency-news/world-news-more-active-duty-troops-will-head-to-us-mexico-border-bringing-the-total-to-3600-6626971.html",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "Get latest articles and stories on World at LatestLY. The Pentagon will deploy roughly 1,500 more active duty soldiers to the southern border to support President Donald Trump's expanding crackdown on immigration, a U.S. official said Friday.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-02-07 22:02:07",
+            "pubDateTZ": "UTC",
+            "image_url": "https://st1.latestly.com/wp-content/uploads/2020/10/Latestly-World-News-380x214.jpg",
+            "source_id": "latestly",
+            "source_priority": 31923,
+            "source_name": "Latestly",
+            "source_url": "https://www.latestly.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/latestly.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "543816401101db9d29409e1c57038065",
+            "title": "More active duty troops will head to US-Mexico border, bringing the total to 3,600",
+            "link": "https://www.devdiscourse.com/article/law-order/3257473-more-active-duty-troops-will-head-to-us-mexico-border-bringing-the-total-to-3600",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "More active duty troops will head to US-Mexico border, bringing the total to 3,600 The Pentagon will deploy roughly 1,500 more active duty soldiers to the southern border to support President Donald Trump's expanding crackdown on immigration, a U.S. official said Friday.That would eventually bring the total to about 3,600 active duty troops at the border.The order has been approved, the official said, to send a logistics brigade from the 18th Airborne Corps at Fort Liberty in North Carolina. The official spoke on condition of anonymity because the deployment has not yet been publicly announced.The Pentagon has been scrambling to put in motion Trump's executive orders signed shortly after he took office on Jan. 20. The first group of 1,600 active duty troops has already deployed to the border, and close to 500 more soldiers from the 10th Mountain Division are expected to begin moving in the coming days. About 500 Marines also have been told to go to Guantanamo Bay, Cuba, where some of the detained migrants will be held. Several hundred Marines have already arrived there.Troops going to the border are expected to help put in place concertina wire barriers and provide needed transportation, intelligence and other support to the Border Patrol. The logistics brigade will help support and sustain the troops.Troops going to Guantanamo are helping to prepare the facility for an influx of migrants and do other support duties.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-02-07 22:01:44",
+            "pubDateTZ": "UTC",
+            "image_url": "https://devdiscourse.blob.core.windows.net/imagegallery/03_03_2020_19_08_19_05616.jpg",
+            "source_id": "devdiscourse",
+            "source_priority": 566021,
+            "source_name": "Devdiscourse",
+            "source_url": "https://www.devdiscourse.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/devdiscourse.jpg",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": true
+        },
+        {
+            "article_id": "6dbf64444d1e0e2ed291bd85b226de9b",
+            "title": "Weather Forecast : आज सुबह रहेगा हल्का कोहरा, गर्मी के अहसास के साथ बढ़ेगा दिल्ली में दिन का तापमान",
+            "link": "https://www.amarujala.com/delhi-ncr/weather-forecast-day-temperature-will-increase-in-delhi-with-the-feeling-of-heat-2025-02-08",
+            "keywords": null,
+            "creator": [
+                "अमर उजाला नेटवर्क, दिल्ली"
+            ],
+            "video_url": null,
+            "description": "राजधानी में शनिवार सुबह हल्का कोहरा छाए रहने और दिन में तापमान बढ़ने का अनुमान है।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-02-07 22:01:08",
+            "pubDateTZ": "UTC",
+            "image_url": "https://staticimg.amarujala.com/assets/images/original/default_500.png?dpr=1.0&q=65&w=414",
+            "source_id": "amarujala",
+            "source_priority": 55215,
+            "source_name": "Amar Ujala",
+            "source_url": "https://www.amarujala.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/amarujala.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "8879dbf96081d01b1b80d475ac0a8536",
+            "title": "8 फरवरी को कन्या राशि वालों का बुरा हाल, जीवनसाथी के साथ बढ़ेगा तनाव",
+            "link": "https://hindi.news18.com/news/astro/daily-horoscope-virgo-horoscope-today-this-zodiac-face-problem-in-love-life-and-property-dispute-astrology-aaj-ka-kanya-rashifal-8-february-local18-9015178.html",
+            "keywords": [
+                "राशि"
+            ],
+            "creator": [
+                "News18 Hindi"
+            ],
+            "video_url": null,
+            "description": "Kanya Rashi 8 february 2025: आज एक और दिन की शुरुआत हो रही है. वहीं इसके साथ लोगों को इस बात की चींता भी सता रही है कि आज का दिन उनके लिए कैसा रहने वाला है, तो चलिए जानते हैं कन्या राशि का आज का राशिफल.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-02-07 22:01:02",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.news18.com/ibnkhabar/uploads/2025/02/HYP_4962375_cropped_07022025_124217_20241226_203801_watermark__1-3x2.jpg",
+            "source_id": "hindinews18",
+            "source_priority": 4077,
+            "source_name": "News 18 Hindi",
+            "source_url": "https://hindi.news18.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/hindinews18.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "other"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "2a18db443de10b42ec2535bf2b050200",
+            "title": "MC Poll: BJP leaders reviews biodata of aspirants",
+            "link": "https://www.tribuneindia.com/news/haryana/mc-poll-bjp-leaders-reviews-biodata-of-aspirants",
+            "keywords": null,
+            "creator": [
+                "Tribune News Service"
+            ],
+            "video_url": null,
+            "description": "Ahead of the MC elections scheduled for March 2, BJP leaders of Karnal district held a meeting and reviewed the biodata of aspirants who have applied for the posts of Mayor, councillors for Karnal Municipal Corporation (KMC), Chairpersons And Councillors for Indri and Nilokheri MCs and the Chairperson for Assandh byelection. In two days, 17 [...]",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-02-07 22:00:30",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/webp/medium/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWY5ZGIzMTYwLWU1OWUtMTFlZi04ZGU2LTkzNGIzY2M4YTM2NC5qcGc%3D",
+            "source_id": "tribuneindia",
+            "source_priority": 15316,
+            "source_name": "The Tribune India",
+            "source_url": "https://www.tribuneindia.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/tribuneindia.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "94252c675e786b712b15be7b902e92b5",
+            "title": "Meta prepares for layoffs on Monday -internal memo",
+            "link": "https://www.devdiscourse.com/article/technology/3257472-meta-prepares-for-layoffs-on-monday--internal-memo",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "Meta prepares for layoffs on Monday -internal memo Facebook owner Meta Platforms plans to carry out its expected company-wide layoffs next week while pushing ahead with the expedited hiring of machine learning engineers, it told staffers in internal memos seen by Reuters on Friday.Notices will go out to employees losing their jobs starting at 5 a.m. local time Monday in most countries, including in the U.S., according to one of the posts, authored by Meta's Head of People Janelle Gale. Employees in Germany, France, Italy and the Netherlands will be exempt from the cuts \"due to local regulations,\" while those in more than a dozen other countries across Europe, Asia and Africa will receive their notifications between February 11 and February 18, it said.A Meta spokesperson declined to comment on the posts. The company confirmed last month that it was planning to trim about 5% of its \"lowest performers\" and backfill at least some of the positions. The Friday memo, in which Gale referred to the cuts as \"performance terminations,\" was first reported by The Information.Unlike with previous company-wide layoffs, Meta was planning to keep its offices open on Monday and would not issue any updates providing further details on the decisions, Gale said in her post. A separate memo, posted by VP of Engineering for Monetization Peng Fan also on Friday, asked staffers to assist with an expedited hiring process for machine learning engineers and other \"business critical\" engineering roles.That process would take place between February 11 and March 13, Fan said in that post. \"Thank you for your continued support in helping us achieve our accelerated hiring goals, and better align with our company's priorities for 2025.\"",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-02-07 22:00:24",
+            "pubDateTZ": "UTC",
+            "image_url": "https://devdiscourse.blob.core.windows.net/imagegallery/27_06_2019_18_33_47_4854533.png",
+            "source_id": "devdiscourse",
+            "source_priority": 566021,
+            "source_name": "Devdiscourse",
+            "source_url": "https://www.devdiscourse.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/devdiscourse.jpg",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "24e391ccd64701e8f60a8ad4cbdfd9c5",
+            "title": "Zelensky Appeals For Deal With Trump, Highlights Ukraine’s Critical Mineral Resources",
+            "link": "https://www.newsx.com/world/zelensky-appeals-for-deal-with-trump-highlights-ukraines-critical-mineral-resources/",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "Ukrainian President Volodymyr Zelensky has expressed willingness to negotiate a deal with U.S. President Donald Trump, emphasizing the importance of security guarantees for Ukraine as part of any settlement with Russia.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-02-07 22:00:20",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.newsx.com/wp-content/uploads/2025/02/ukraine-2.webp",
+            "source_id": "newsx",
+            "source_priority": 189603,
+            "source_name": "Newsx",
+            "source_url": "https://www.newsx.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/newsx.jpg",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
             "article_id": "8a5e8b5355013574ebfeff410947fb7c",
             "title": "Bangladesh's government warns of stern action after house where independence was declared is razed",
             "link": "https://www.devdiscourse.com/article/politics/3257449-bangladeshs-government-warns-of-stern-action-after-house-where-independence-was-declared-is-razed",
