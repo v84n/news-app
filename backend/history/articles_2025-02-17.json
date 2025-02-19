@@ -1,6 +1,621 @@
 {
     "articles": [
         {
+            "article_id": "a16d8b0ba4e8b260258ff0a81deeccca",
+            "title": "Leeds return to the top as Pascal Struijk strikes twice to sink Sunderland",
+            "link": "https://www.theguardian.com/football/2025/feb/17/leeds-sunderland-championship-match-report",
+            "keywords": [
+                "sunderland",
+                "championship",
+                "football",
+                "sport",
+                "leeds united"
+            ],
+            "creator": [
+                "Louise Taylor at Elland Road"
+            ],
+            "video_url": null,
+            "description": "The news that a national poetry centre is to be established in Leeds proved the source of considerable pride in West Yorkshire on Monday.By 10pm on a bitterly cold night at Elland Road any notions that Leeds United would capture the mood courtesy of a suitably cadenced performance had been thoroughly disabused as Daniel Farke’s side scrapped their way to a dramatic last-gasp win after Wilson Isidor had given Sunderland the lead. Continue reading...",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-02-17 22:07:55",
+            "pubDateTZ": "UTC",
+            "image_url": "https://i.guim.co.uk/img/media/08a48dd99a0802086b537a59822cb7a7eb60d7f6/121_199_2912_1747/master/2912.jpg?auto=format&enable=upscale&fit=crop&height=630&overlay-align=bottom%2Cleft&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&overlay-width=100p&quality=85&s=5cc0443724569b1627e6d6226ab5beee&width=1200",
+            "source_id": "theguardian",
+            "source_priority": 106,
+            "source_name": "The Guardian",
+            "source_url": "https://www.theguardian.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/theguardian.jpg",
+            "language": "english",
+            "country": [
+                "united kingdom",
+                "india",
+                "singapore",
+                "canada"
+            ],
+            "category": [
+                "sports"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": true
+        },
+        {
+            "article_id": "d456afd26bd128ae75df4773c6dd3ee1",
+            "title": "NYT Strands February 18, 2025: Clues, answers, Spangram for today",
+            "link": "https://timesofindia.indiatimes.com/technology/gaming/nyt-strands-february-18-2025-clues-answers-spangram-for-today/articleshow/118339703.cms",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "The New York Times published its first crossword puzzle in 1942, starting a cultural shift. Over the years, the NYT expanded its game offerings and acquired Wordle in 2022. Recently, the NYT introduced the game Strands, a blend of Connections, Spelling Bee, and crosswords. It offers daily challenges with a theme, aiming to engage a global puzzle community.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-02-17 22:07:51",
+            "pubDateTZ": "UTC",
+            "image_url": "https://static.toiimg.com/thumb/msid-118339770,imgsize-10260,width-400,resizemode-4/118339770.jpg",
+            "source_id": "toi",
+            "source_priority": 239,
+            "source_name": "The Times Of India",
+            "source_url": "https://timesofindia.indiatimes.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/toi.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "9c2fc676d47ecd5a6027657be6c18ca7",
+            "title": "Clearway Energy, Inc. Increases Quarterly Dividend to $0.4312 per Share",
+            "link": "https://in.investing.com/news/press-releases/clearway-energy-inc-increases-quarterly-dividend-to--04312-per-share-93CH-4669673",
+            "keywords": null,
+            "creator": [
+                "Investing.com"
+            ],
+            "video_url": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-02-17 22:06:05",
+            "pubDateTZ": "UTC",
+            "image_url": "https://i-invdn-com.investing.com/news/international_newspapers_108x81.jpg",
+            "source_id": "investing_in",
+            "source_priority": 1205,
+            "source_name": "Investing India",
+            "source_url": "https://in.investing.com",
+            "source_icon": null,
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": true
+        },
+        {
+            "article_id": "6984b2fde4e12ae6311c34fe342a8ae6",
+            "title": "Argentine judge finds sufficient evidence to charge ex-president with committing gender violence",
+            "link": "https://www.theweek.in/wire-updates/international/2025/02/18/fes9-argentina-ex-president-trial.html",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "Buenos Aires, Feb 18 (AP) A federal judge on Monday ruled that sufficient evidence exists to proceed with formal charges",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-02-17 22:05:43",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.theweek.in/content/dam/week/wire-updates/pti-preview-theweek.jpg",
+            "source_id": "theweek_in",
+            "source_priority": 26911,
+            "source_name": "The Week",
+            "source_url": "https://www.theweek.in",
+            "source_icon": "https://i.bytvi.com/domain_icons/theweek_in.jpg",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "world"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": true
+        },
+        {
+            "article_id": "70e175bbe08c6e7ffe65d4dcd4296f82",
+            "title": "Uttarakhand News: उत्तराखंड के राजकीय मेडिकल कॉलेजों में भरे जाएंगे असिस्टेंट प्रोफेसर के 439 पद",
+            "link": "https://www.jagran.com/uttarakhand/dehradun-city-uttarakhand-news-439-posts-of-assistant-professor-will-be-filled-in-government-medical-colleges-of-uttarakhand-23886256.html",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "उत्तराखंड के राजकीय मेडिकल कॉलेजों में असिस्टेंट प्रोफेसर के 439 रिक्त पद जल्द भरे जाएंगे। चिकित्सा शिक्षा मंत्री डॉ. धन सिंह रावत ने बताया कि इसके लिए विभाग ने राज्य चिकित्सा सेवा चयन बोर्ड को अधियाचन भेजा है। इन पदों में से सामान्य श्रेणी के 218 अनुसूचित जाति के 112 अनुसूचित जनजाति के नौ ओबीसी के 68 तथा आर्थिक रूप से कमजोर वर्ग के लिए 32 पद शामिल हैं।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-02-17 22:05:24",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.jagranimages.com/images/newimg/18022025/18_02_2025-dhan_singh_rawat_23886256_m.webp",
+            "source_id": "jagran",
+            "source_priority": 6734,
+            "source_name": "ताजा हिंदी ख़बरें",
+            "source_url": "https://www.jagran.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/jagran.jpg",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "domestic"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "9f8330509687eb19f392c09443bd11c2",
+            "title": "केरल कैडर के IAS... 37 वर्षों का प्रशासनिक करियर, जानिए भारत के नए मुख्य चुनाव आयुक्त ज्ञानेश कुमार के बारे में",
+            "link": "https://www.aajtak.in/india/news/story/ias-gyanesh-kumar-appointed-as-cec-and-vivek-joshi-election-commissioner-of-india-ntc-dskc-2169666-2025-02-18",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "ज्ञानेश कुमार के पास भारत सरकार के रक्षा मंत्रालय में संयुक्त सचिव, गृह मंत्रालय में संयुक्त सचिव और अतिरिक्त सचिव, संसदीय कार्य मंत्रालय में सचिव और सहकारिता मंत्रालय में सचिव के रूप में काम करने का अनुभव है.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-02-17 22:05:04",
+            "pubDateTZ": "UTC",
+            "image_url": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202502/67b3b1d3caa09-gyanesh-kumar-appointed-new-chief-election-commissioner-of-india-170150348-16x9.png",
+            "source_id": "aajtak",
+            "source_priority": 20158,
+            "source_name": "Aaj Tak",
+            "source_url": "http://aajtak.in",
+            "source_icon": "https://i.bytvi.com/domain_icons/aajtak.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "e13da28650126c0215aaf2a966d23492",
+            "title": "H1N1 influenza cases surge in metropolis - The Express Tribune",
+            "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOQnFrZThWc0R0X29FQXo5emN2ZFd2UWZ2eC1va2Vhcm41cDZxWGZQZ3I5TkZlZXkzV3prak9ac0xLbExfa3AwQWhLX3F5WjJxRjlJcElfVjRQdFROSzU3dmNvLUtSSEI5SkJJOGFuRXZYN21ZcFlTZWw5SHR0N0RSb0dNY9IBiwFBVV95cUxOczBLR3RuMzhDSE9BUEwzUlZYRndDSEk5amhLN1pvT19oS0pSVVd3ejAzMExSdHBNYW5UUWcwN0FwcDlwR3ZhWk9uMjVweEJ1ZHZkeEZqZ1p6ZDJwbmVwNEpnNnBjOGNJTW9ndjFqUTRjUWttelF5Y1RIYXQyV043YThfc0NpWHp3OE1n?oc=5",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "H1N1 influenza cases surge in metropolis The Express TribuneWave of flu patients ‘overwhelms’ Karachi hospitals; caution advised DAWN.comAlarming rise in respiratory diseases reported in Karachi The NationSindh calls for social distancing amid rising H1N1 cases TIMES OF KARACHIHealth News Live Updates: Ahead of Champions Trophy Pakistan Faces Growing Health Crisis in Karachi TheHealthSite",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-02-17 22:04:59",
+            "pubDateTZ": "UTC",
+            "image_url": null,
+            "source_id": "google",
+            "source_priority": 14,
+            "source_name": "Google News",
+            "source_url": "https://news.google.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/google.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "health"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "0746783d80a3c8950339315d6daf2f84",
+            "title": "Last Minute Presidents' Day Deals at Walmart on iPhones, Headphones, and More",
+            "link": "https://www.pcmag.com/news/last-minute-walmart-presidents-day-tech-sale-deals-2025",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "We found a number of discounts for the holiday weekend on your favorite electronics you won’t want to miss. Score massive savings on top-rated products from PCMag.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-02-17 22:04:44",
+            "pubDateTZ": "UTC",
+            "image_url": null,
+            "source_id": "pcmag",
+            "source_priority": 439,
+            "source_name": "Pcmag",
+            "source_url": "https://www.pcmag.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/pcmag.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "52c2892d69ba5cf883a6693d8e9a829f",
+            "title": "Two more GBS deaths in Maharashtra, India toll at 21",
+            "link": "https://timesofindia.indiatimes.com/india/two-more-gbs-deaths-in-maharashtra-india-toll-at-21/articleshow/118339700.cms",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "Two more GBS deaths in Maharashtra, India toll at 21",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-02-17 22:04:04",
+            "pubDateTZ": "UTC",
+            "image_url": "https://static.toiimg.com/thumb/msid-118339730,width-1070,height-580,imgsize-28534,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "source_id": "toi",
+            "source_priority": 239,
+            "source_name": "The Times Of India",
+            "source_url": "https://timesofindia.indiatimes.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/toi.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "f62f41202b73a1e408448977e93fd99d",
+            "title": "USA vs. the World? NBA stars like new ASG idea",
+            "link": "https://www.espn.in/nba/story/_/id/43887692/nba-stars-idea-us-vs-world-matchup-all-star-game",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "As the NBA searches for the right All-Star Game format, multiple stars warmed to the idea of an international competition featuring U.S. players on one team and international players on another.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-02-17 22:03:38",
+            "pubDateTZ": "UTC",
+            "image_url": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F0217%2Fr1453019_1296x729_16-9.jpg",
+            "source_id": "espn_in",
+            "source_priority": 34461,
+            "source_name": "Espn India",
+            "source_url": "https://www.espn.in",
+            "source_icon": "https://i.bytvi.com/domain_icons/espn_in.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "sports"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": true
+        },
+        {
+            "article_id": "6d3b54952b94a97143517caa989043a5",
+            "title": "Arsenal fined for reaction to Lewis-Skelly red",
+            "link": "https://www.espn.in/football/story/_/id/43889836/arsenal-fined-65-000-reaction-myles-lewis-skelly-red-card",
+            "keywords": null,
+            "creator": [
+                "ESPN"
+            ],
+            "video_url": null,
+            "description": "Arsenal have been fined £65,000 ($82,000) after their players were deemed to have behaved in an \"improper way\" following Myles Lewis-Skelly's red card against Wolverhampton Wanderers last month.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-02-17 22:03:38",
+            "pubDateTZ": "UTC",
+            "image_url": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F0127%2Fr1443847_1296x729_16-9.jpg",
+            "source_id": "espn_in",
+            "source_priority": 34461,
+            "source_name": "Espn India",
+            "source_url": "https://www.espn.in",
+            "source_icon": "https://i.bytvi.com/domain_icons/espn_in.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "sports"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": true
+        },
+        {
+            "article_id": "785763cd987d99bec0d4e962c47ca955",
+            "title": "Rohit Sharma Stats In Champions Trophy: चैंपियंस ट्रॉफी में कुछ ऐसा रहा है रोहित शर्मा का प्रदर्शन, 'हिटमैन' के आकंड़ों पर एक नजर",
+            "link": "https://hindi.latestly.com/sports/cricket/rohit-sharma-stats-in-champions-trophy-rohit-sharmas-performance-in-champions-trophy-has-been-like-this-take-a-look-at-the-statistics-of-hitman-2503460.html",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "टीम इंडिया का मिशन 20 फरवरी से शुरू होगा. 20 फरवरी को टीम इंडिया और बांग्लादेश के बीच रोमांचक मुकाबला खेला जाएगा. इसके बाद टीम इंडिया और पाकिस्तान के बीच महामुकाबला 23 फरवरी को दुबई इं​टरनेशनल स्टेडियम में खेला जाएगा. टीम इंडिया का अगला मुकाबला 2 मार्च को न्यूजीलैंड से होगा.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-02-17 22:03:02",
+            "pubDateTZ": "UTC",
+            "image_url": "https://hist1.latestly.com/wp-content/uploads/2025/02/Rohit-Sharma-22-380x214.jpg",
+            "source_id": "latestly",
+            "source_priority": 31923,
+            "source_name": "Latestly",
+            "source_url": "https://www.latestly.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/latestly.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "sports"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "7d391dd39e00b877c4ce01bb1130d3a0",
+            "title": "World News | Argentine Judge Finds Sufficient Evidence to Charge Ex-president with Committing Gender Violence",
+            "link": "https://www.latestly.com/agency-news/world-news-argentine-judge-finds-sufficient-evidence-to-charge-ex-president-with-committing-gender-violence-6650914.html",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "Get latest articles and stories on World at LatestLY. A federal judge on Monday ruled that sufficient evidence exists to proceed with formal charges against Argentina's former President Alberto Fernandez for committing violence against former first lady Fabiola Yanez.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-02-17 22:02:07",
+            "pubDateTZ": "UTC",
+            "image_url": "https://st1.latestly.com/wp-content/uploads/2020/10/Latestly-World-News-380x214.jpg",
+            "source_id": "latestly",
+            "source_priority": 31923,
+            "source_name": "Latestly",
+            "source_url": "https://www.latestly.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/latestly.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "84f1a2879c628863a1d7b5f42fe6ab8c",
+            "title": "कन्या राशि वालों की चमकेगी किस्मत, यात्रा से करियर में मिलेगा बड़ा लाभ",
+            "link": "https://hindi.news18.com/news/astro/daily-horoscope-virgo-horoscope-today-these-zodiac-will-get-benefit-in-financial-love-and-health-aaj-ka-kanya-rashifal-18-february-2025-local18-9038987.html",
+            "keywords": [
+                "राशि"
+            ],
+            "creator": [
+                "News18 Hindi"
+            ],
+            "video_url": null,
+            "description": "kanya rashifal 18 february 2025: कन्या राशि वालों के लिए आज का दिन कैसा रहेगा, ये चींता जरुर जातक को सता रही है, तो चलिए जानते हैं आज के दिन स्वास्थ्य से लेकर आर्थिक दृष्टिकोण क्या होने वाला है.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-02-17 22:01:03",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.news18.com/ibnkhabar/uploads/2025/02/HYP_4982468_cropped_17022025_133333_20241226_203801_watermark__2-3x2.jpg",
+            "source_id": "hindinews18",
+            "source_priority": 4077,
+            "source_name": "News 18 Hindi",
+            "source_url": "https://hindi.news18.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/hindinews18.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "other"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "4db212917cf3a5abbd0d48c4f2128b5f",
+            "title": "MP स्कूल शिक्षा का BRC रिश्वत लेते गिरफ्तार, INDORE लोकायुक्त करवाई - Karmchari news",
+            "link": "https://www.bhopalsamachar.com/2025/02/mp-brc-indore-karmchari-news.html",
+            "keywords": [
+                "employee",
+                "madhyapradesh"
+            ],
+            "creator": [
+                "noreply@blogger.com (Bhopal Samachar)"
+            ],
+            "video_url": null,
+            "description": "मध्य प्रदेश लोकायुक्त संगठन, विशेष पुलिस स्थापना, संभागीय मुख्यालय इंदौर की टीम ने झाबुआ जिले में छापामारा कार्रवाई करते हुए, स्कूल शिक्षा विभाग के Sanjay Sikarwar, Block Resource Coordinator को रिश्वत लेते हुए गिरफ्तार कर लिया। संजय सिकरवार, बीआरएसी थांदला, रिश्वत लेते हुए गिरफ्तारविशेष पुलिस स्थापना, लोकायुक्त संगठन इंदौर संभाग द्वारा दी गई अधिकृत जानकारी में बताया गया है कि, आवदेक श्री रूसमल भूरिया पिता श्री मांगिया भूरिया उम्र 32 वर्ष, निवासी ग्राम छोटा गुडा तहसील मेघनगर जिला झाबुआ एक प्राइवेट स्कूल (ज्ञानगंगा एकेडमी थांदला जिला झाबुआ) का संचालन करता है। जिसकी मान्यता मार्च 2024 में समाप्त हो गई थी। जिसके नवीनीकरण करने के एवज में आरोपी श्री संजय सिकरवार, बीआरएसी एवं आरोपी श्री श्यामलाल पाल भृत्य द्वारा आवेदक से 18,000/- रू. रिश्वत की मांग की जा रही थी। जिसकी शिकायत आवेदक द्वारा श्री राजेश सहाय, पुलिस अधीक्षक, विपुस्था लोकायुक्त इंदौर को की गई। सत्यापन में शिकायत सही पाई जाने पर दिनांक 17 फरवरी 2025 को ट्रैपदल का गठन किया गया और आरोपीगण को 11,000/- रू रिश्वत लेते हुये रंगे हाथो पकडा गया। आरोपीगण के विरूद्ध भ्रष्टाचार निवारण संशोधन अधिनियम 2018 की धारा 7 एवं 61 (2) बीएनएस 2023 के अन्तर्गत कार्यवाही जारी है।महत्वपूर्ण जानकारीआवदेक - श्री रूसमल भूरिया पिता श्री मांगिया भूरिया उम्र 32 वर्ष, स्कूल संचालक, ज्ञानगंगा एकेडमी थांदला जिला झाबुआ निवासी ग्राम छोटा गुडा तहसील मेघनगर जिला झाबुआ।आरोपी 1 - श्री संजय सिकरवार पिता श्री वीरेन्द्र सिंह सिकरवार उम्र 51 वर्ष पद- खण्ड स्त्रोत समन्वयक (बीआरसी) कार्यालय खण्ड स्त्रोत समन्वयक (बीआरसी) थांदला जिला झाबुआ मूल विभाग शिक्षा विभाग झाबुआ निवासी 24 लक्ष्मीनगर झाबुआ।आरोपी 2 - श्यामलाल पाल पिता श्री प्रताप पाल उम्र-43 वर्ष पद मृत्य कार्यालय खण्ड स्त्रोत समन्वयक (बीआरसी) थांदला जिला झाबुआ निवासी ग्राम- मछलाई तहसील थांदला जिला झाबुआ।रिश्वत राशि - 11,000/- रू०ट्रेपदल - निरीक्षक श्री राहुल गजभिये, कार्यवाहक निरीक्षक श्रीमती प्रतिभा तोमर, आरक्षक विजय कुमार, आरक्षक अनिल परमार, आरक्षक शैलेन्द्र सिंह बघेल, आरक्षक मनीष माथुर एवं आरक्षक कृष्णा। विनम्र अनुरोध कृपया हमें गूगल न्यूज़ पर फॉलो करें। सबसे तेज अपडेट प्राप्त करने के लिए टेलीग्राम चैनल सब्सक्राइब करें एवं हमारे व्हाट्सएप कम्युनिटी ज्वॉइन करें। इन सबकी डायरेक्ट लिंक नीचे स्क्रॉल करने पर मिल जाएंगी। कर्मचारियों से संबंधित महत्वपूर्ण समाचार पढ़ने के लिए कृपया स्क्रॉल करके सबसे नीचे POPULAR Category में employee पर क्लिक करें।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-02-17 22:01:00",
+            "pubDateTZ": "UTC",
+            "image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjb10VouTdsK1OEYX7n75bco5gJFvz9Vj6kSkbmAp4A6m32XMUdYkalfOd6RRhiFv4_qav4LiC1oHrmqqDS4-3y7KP2uc52R_GWjvDmqqDBqHV52P3nDRKKkbN3NKBwttQxYu_TCkYQXIfKpKza4zSlvbqCPNX9WEDp4W3FQmYtOU7QmF8sXOPS8w-GsdI/s72-c/1.webp",
+            "source_id": "bhopalsamachar",
+            "source_priority": 2476680,
+            "source_name": "Bhopal Samachar",
+            "source_url": "http://www.bhopalsamachar.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/bhopalsamachar.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "0c2b4d6585dc85f6d1d37cdb9af0cd23",
+            "title": "Former Argentine President Faces Charges of Gender Violence",
+            "link": "https://www.devdiscourse.com/article/headlines/3268433-former-argentine-president-faces-charges-of-gender-violence",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "Former Argentine President Faces Charges of Gender Violence In a dramatic legal development, a federal judge has determined that former Argentine President Alberto Fernandez must face formal charges relating to allegations of gender violence against former first lady Fabiola Yanez. The ruling came after Judge Julian Ercolini reviewed evidence suggesting Fernandez committed acts of physical abuse against Yanez, including neck grabs and slaps, during and beyond his term as president.The accusations, which Fernandez denies, could potentially lead to a prison sentence of up to 18 years if he is found guilty. The judge's decision followed a prosecutor's formal investigation that began after Yanez filed a complaint in August 2024. Fernandez has legal avenues left to pursue, including an appeal process that might delay further proceedings for years.Key pieces of evidence presented in the case include WhatsApp exchanges that Yanez provided, showing photographic evidence of her injuries, along with comprehensive testimonies from her family and friends. The judge highlighted the long-term psychological and physical impact on Yanez, citing eight years of alleged abuse and its enduring effects on her wellbeing.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-02-17 22:00:58",
+            "pubDateTZ": "UTC",
+            "image_url": "https://devdiscourse.blob.core.windows.net/devnews/09_09_2023_11_34_00_728969.jpg",
+            "source_id": "devdiscourse",
+            "source_priority": 566021,
+            "source_name": "Devdiscourse",
+            "source_url": "https://www.devdiscourse.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/devdiscourse.jpg",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "be3f05335c92efc58f722703bc8b3e48",
+            "title": "Five mayoral candidates file nominations in Rohtak",
+            "link": "https://www.tribuneindia.com/news/haryana/five-mayoral-candidates-file-nominations-in-rohtak",
+            "keywords": null,
+            "creator": [
+                "Sunit Dhawan"
+            ],
+            "video_url": null,
+            "description": "The mayoral candidates of the ruling BJP and Opposition parties the Congress, INLD and Aam Aadmi Party (AAP) as well as an Independent filed their nomination papers on the last day for filing of papers at Rohtak on Monday. In all, five aspirants filed their nominations for the post of Rohtak Mayor. These include BJP [...]",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-02-17 22:00:56",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/webp/medium/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWFkNmMxNzcwLWVkN2EtMTFlZi04ZGU2LTkzNGIzY2M4YTM2NC5qcGc%3D",
+            "source_id": "tribuneindia",
+            "source_priority": 15316,
+            "source_name": "The Tribune India",
+            "source_url": "https://www.tribuneindia.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/tribuneindia.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "cef216641b5adf62458bc0809a3cdeaa",
+            "title": "US: Jewish man shoots Israeli tourists, thinking they are Palestinians",
+            "link": "https://timesofindia.indiatimes.com/world/us/jewish-miami-beach-plumber-shoots-israeli-tourists-thinking-theyre-palestinians/articleshow/118339336.cms",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "A 27-year-old Jewish plumber in Miami Beach fired 17 rounds at a vehicle he believed contained Palestinians, injuring two Israeli tourists instead. Mordechai Brafman is in custody facing attempted-murder charges. The incident occurred on Alton Road, with one victim suffering a shoulder wound and the other an arm graze. Brafman had no previous connection with the victims.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-02-17 22:00:48",
+            "pubDateTZ": "UTC",
+            "image_url": "https://static.toiimg.com/thumb/msid-118339695,imgsize-23508,width-400,resizemode-4/118339695.jpg",
+            "source_id": "toi",
+            "source_priority": 239,
+            "source_name": "The Times Of India",
+            "source_url": "https://timesofindia.indiatimes.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/toi.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "d140d80cb88c2ee9986ac1f9e78a3a52",
+            "title": "'Had To Bear Crocodiles, Snakes': US Deportee From Punjab Shares Details Of 'Donkey Route' - News18",
+            "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPTnFsUDVIM1RxSHFrakxLYkMxS3puX2pfcGhlZkQyRjRmZktSeVFwMzNhWG80YTdGVExseWFSOFo1SUI5RTJrRk51NV9fbmw0U1c0NjhDVFRVU0ItQ2dia2lmbUJoUWwwcmJiMmZ3OWFvNkNESFJtWWdsemFkZWQzbzltT01uanBfcWZTdGFvTHg4TGphdWFCVllqeTVQNmxkN1VVbFFtV1o5Z0p5YWJyZEpFYWV6bUh4NnVVU2NfY0RudlVa0gHKAUFVX3lxTE9qTkNNOWJwcXFGZzRUU3dLZzZJUVZxTVM0enRySVc0bU9ESlZqRU9kMTRnbjhKTUI1MnIwZ052Y0pJbzY4X0Nlam0ySGJJSS16dmt0MDNtT0ktN2xudnpVOFNjR1BzQVVTaTNUVDVDMVQ3LTlyVndmd2l6THJ1NnNNSTVBcnhjai0zTmZCN1JNZTNVVnZES0RYZzVVc05lZ1pCLUU0cnUzQVBZejNSY2Y3bTdWUGhDX0dFbS1Hbzc0TmM2d0FkSkl6blE?oc=5",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "'Had To Bear Crocodiles, Snakes': US Deportee From Punjab Shares Details Of 'Donkey Route' News18Faced with mental torture and not allowed to wear a turban, Jashandeep recalls the horrors of US detentio The Times of IndiaEx-serviceman forced to shave beard by agents The Tribune IndiaThird US military plane carrying undocumented Indians lands in Amritsar The News MinuteSikh deportees from US forced to remove turbans, sparking outrage in India India Today",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-02-17 22:00:33",
+            "pubDateTZ": "UTC",
+            "image_url": null,
+            "source_id": "google",
+            "source_priority": 14,
+            "source_name": "Google News",
+            "source_url": "https://news.google.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/google.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
             "article_id": "de9b9a4ea5f2b71a8a1f612445fe2703",
             "title": "“Thrilled to death”: Mets owner Steve Cohen confesses true feelings on spending $765,000,000 on Juan Soto",
             "link": "https://timesofindia.indiatimes.com/sports/mlb/news/thrilled-to-death-mets-owner-steve-cohen-confesses-true-feelings-on-spending-765000000-on-juan-soto/articleshow/118339294.cms",
