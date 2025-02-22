@@ -1,6 +1,666 @@
 {
     "articles": [
         {
+            "article_id": "0a4120d2a3ed8bbda089c6baf0b5c2ec",
+            "title": "More than 376,000 Tesla Model Y, Model 3s have faulty steering",
+            "link": "https://arstechnica.com/cars/2025/02/more-than-376000-tesla-model-y-model-3s-have-faulty-steering/",
+            "keywords": [
+                "tesla recall",
+                "nhtsa",
+                "tesla",
+                "cars"
+            ],
+            "creator": [
+                "Jonathan M. Gitlin"
+            ],
+            "video_url": null,
+            "description": "The system won't fail while the car is in motion.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-02-21 15:10:59",
+            "pubDateTZ": "UTC",
+            "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/02/GettyImages-2155506391-1152x648.jpg",
+            "source_id": "arstechnica",
+            "source_priority": 3840,
+            "source_name": "Ars Technica",
+            "source_url": "https://arstechnica.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/arstechnica.png",
+            "language": "english",
+            "country": [
+                "india",
+                "canada",
+                "united states of america"
+            ],
+            "category": [
+                "technology"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "5cf0b627421e7436f3f79d91807a2e94",
+            "title": "More than 20 DCC presidents in New Delhi to petition AICC leaders against TNCC president K. Selvaperunthagai",
+            "link": "https://www.thehindu.com/news/national/tamil-nadu/more-than-20-dcc-presidents-in-new-delhi-to-petition-aicc-leaders-against-tncc-president-k-selvaperunthagai/article69248267.ece",
+            "keywords": [
+                "tamil nadu"
+            ],
+            "creator": null,
+            "video_url": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-02-21 15:10:59",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+            "source_id": "thehindu",
+            "source_priority": 2972,
+            "source_name": "The Hindu",
+            "source_url": "https://www.thehindu.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/thehindu.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "ee5eb2eb14606bb75877a6f0b49e69f1",
+            "title": "Is Donald Trump planning to take control of the US Postal Service? What we know",
+            "link": "https://economictimes.indiatimes.com/news/international/us/is-donald-trump-planning-to-take-control-of-the-us-postal-service-what-we-know/articleshow/118456444.cms",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "The Donald Trump administration is reportedly seeking to remove members of the independent board overseeing the US Postal Service, a move seen as a key step towards its potential privatisation. As one of the largest employers in the country, with a workforce of around 600,000, the USPS plays a major role in mail delivery and logistics. The White House, however, has denied any plans to privatise the agency.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-02-21 15:10:49",
+            "pubDateTZ": "UTC",
+            "image_url": null,
+            "source_id": "economictimes_indiatimes",
+            "source_priority": 231,
+            "source_name": "The Economic Times",
+            "source_url": "https://economictimes.indiatimes.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/economictimes_indiatimes.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "adbdb4218f14a65a97a0fb55d715a4ba",
+            "title": "L-G urges Ministry of External Affairs to extend all legal and medical aid to Karaikal and T.N. fishermen arrested by Sri Lankan Navy",
+            "link": "https://www.thehindu.com/news/cities/puducherry/l-g-urges-ministry-of-external-affairs-to-extend-all-legal-and-medical-aid-to-karaikal-and-tn-fishermen-arrested-by-sri-lankan-navy/article69247309.ece",
+            "keywords": [
+                "puducherry"
+            ],
+            "creator": null,
+            "video_url": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-02-21 15:10:41",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+            "source_id": "thehindu",
+            "source_priority": 2972,
+            "source_name": "The Hindu",
+            "source_url": "https://www.thehindu.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/thehindu.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "f15386d7f25fe78785c1bfa4bd233428",
+            "title": "OpenAI ने निगरानी उपकरण विकास से जुड़े खातों पर प्रतिबंध लगा दिया",
+            "link": "https://hi.investing.com/news/stock-market-news/article-93CH-407106",
+            "keywords": null,
+            "creator": [
+                "Investing.com"
+            ],
+            "video_url": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-02-21 15:10:34",
+            "pubDateTZ": "UTC",
+            "image_url": "https://i-invdn-com.investing.com/news/LYNXMPEE0L0XJ_M.jpg",
+            "source_id": "investing_hi",
+            "source_priority": 1143,
+            "source_name": "Investing भारत",
+            "source_url": "https://hi.investing.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/investing_hi.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "c8d443a50ad5d293fa1e53b0f24327fb",
+            "title": "Supreme Court notice to CBI on ex-Bengal minister Partha Chatterjee’s bail plea",
+            "link": "https://www.hindustantimes.com/india-news/supreme-court-notice-to-cbi-on-ex-bengal-minister-partha-chatterjee-s-bail-plea-101740150633308.html",
+            "keywords": [
+                "india-news"
+            ],
+            "creator": null,
+            "video_url": null,
+            "description": "Partha Chatterjee’s petition for bail comes months after the top court granted him bail in connection with a money laundering probe by ED",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-02-21 15:10:32",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.hindustantimes.com/ht-img/img/2025/02/21/1600x900/A-view-of-the-Supreme-Court-of-India-in-New-Delhi-_1740150624653.jpg",
+            "source_id": "hindustantimes",
+            "source_priority": 933,
+            "source_name": "Hindustan Times",
+            "source_url": "http://www.hindustantimes.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/hindustantimes.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "2f9ff03e5c7d60d78a1404699384f8dd",
+            "title": "India News | Kerala: Over 50 CPI(M) Workers Booked for Locking Up Police Officers,",
+            "link": "https://www.latestly.com/agency-news/india-news-kerala-over-50-cpim-workers-booked-for-locking-up-police-officers-6660503.html",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "Get latest articles and stories on India at LatestLY. In a dramatic incident in Thalassery, over 50 CPI(M) activists allegedly locked police officers inside a room and freed an accused party worker wanted in an assault case involving police personnel. The altercation occurred after a temple festival clash.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-02-21 15:10:31",
+            "pubDateTZ": "UTC",
+            "image_url": "https://st1.latestly.com/wp-content/uploads/2025/02/ANI-20250221123458-380x214.jpg",
+            "source_id": "latestly",
+            "source_priority": 31923,
+            "source_name": "Latestly",
+            "source_url": "https://www.latestly.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/latestly.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "4e9d030d61640f797b3d91643f9f6790",
+            "title": "NDTV Exclusive: Why Sports Must Shape India's Future",
+            "link": "https://sports.ndtv.com/badminton/ndtv-exclusive-why-sports-must-shape-indias-future-7764012",
+            "keywords": [
+                "badminton"
+            ],
+            "creator": null,
+            "video_url": null,
+            "description": "There is an urgent need to recognize the importance of sports in shaping India's collective future, regardless of socioeconomic background.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-02-21 15:10:26",
+            "pubDateTZ": "UTC",
+            "image_url": "https://c.ndtvimg.com/2025-02/9so4shi_badminton-stock_625x300_21_February_25.jpg?im=FeatureCrop%2Calgorithm%3Ddnn%2Cwidth%3D806%2Cheight%3D605",
+            "source_id": "ndtv",
+            "source_priority": 1204,
+            "source_name": "Ndtv",
+            "source_url": "http://www.ndtv.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/ndtv.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "9eaee77a017953d0294d1c3a6f07f571",
+            "title": "Sports News | Barcelona''s Flick Calls for Refs to Be Respected After Fallout of Bellingham Red Card",
+            "link": "https://www.latestly.com/agency-news/sports-news-barcelonas-flick-calls-for-refs-to-be-respected-after-fallout-of-bellingham-red-card-6660502.html",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "Get latest articles and stories on Sports at LatestLY. Barcelona coach Hansi Flick made an impassioned call for better treatment of Spain's referees following a week of criticism and scrutiny of an official who sent off Real Madrid star Jude Bellingham for having cursed at him.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-02-21 15:10:24",
+            "pubDateTZ": "UTC",
+            "image_url": "https://st1.latestly.com/wp-content/uploads/2018/03/default-img-01-784x441.jpg",
+            "source_id": "latestly",
+            "source_priority": 31923,
+            "source_name": "Latestly",
+            "source_url": "https://www.latestly.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/latestly.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "c63cd8d0d51532a23d0ce944f030311a",
+            "title": "Why Mumbai doctors believe scoliosis deserves timely intervention",
+            "link": "https://www.mid-day.com/lifestyle/health-&-fitness/article/why-mumbai-doctors-believe-scoliosis-deserves-timely-intervention-23487985",
+            "keywords": [
+                "lifestyle"
+            ],
+            "creator": [
+                "Mid-day"
+            ],
+            "video_url": null,
+            "description": "Recognising early signs such as uneven shoulders, an abnormal posture, or one hip appearing higher than the other can help in seeking timely treatment and preventing further progression",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-02-21 15:10:19",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.mid-day.com/images/images/2025/feb/health-istock_d.jpg",
+            "source_id": "mid_day",
+            "source_priority": 18499,
+            "source_name": "Mid-day",
+            "source_url": "https://www.mid-day.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/mid_day.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "lifestyle"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "716d3d870cabe518e19224d1c83717d9",
+            "title": "Court upholds Aditya Pancholi`s conviction in 2005 parking assault case",
+            "link": "https://www.mid-day.com/mumbai/mumbai-crime-news/article/2005-parking-assault-case-mumbai-court-upholds-actor-aditya-pancholis-conviction-in-case-gives-him-relief-from-jail-term-23487984",
+            "keywords": [
+                "mumbai"
+            ],
+            "creator": [
+                "Mid-day"
+            ],
+            "video_url": null,
+            "description": "The Mumbai sessions court has directed the actor to pay a compensation of Rs 1.5 lakh to assault case victim",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-02-21 15:10:16",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.mid-day.com/images/images/2025/feb/aditya-pancholi-file_d.jpg",
+            "source_id": "mid_day",
+            "source_priority": 18499,
+            "source_name": "Mid-day",
+            "source_url": "https://www.mid-day.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/mid_day.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "13a8bcd47607e4978dfe3af77ed90ee6",
+            "title": "घायल व्यक्ति की इलाज के दौरान मौत",
+            "link": "https://www.prabhatkhabar.com/state/bihar/araria/injured-person-dies-during-treatment",
+            "keywords": [
+                "araria",
+                "araria news"
+            ],
+            "creator": [
+                "Prabhat Khabar News Desk"
+            ],
+            "video_url": null,
+            "description": "आटो की टक्कर से हुआ था घायल The post घायल व्यक्ति की इलाज के दौरान मौत appeared first on Prabhat Khabar.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-02-21 15:10:15",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.prabhatkhabar.com/wp-content/uploads/2025/02/file_2025-02-21T17-07-43.jpeg",
+            "source_id": "prabhatkhabar",
+            "source_priority": 343253,
+            "source_name": "Prabhat Khabar",
+            "source_url": "https://www.prabhatkhabar.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/prabhatkhabar.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "427b67e2643170298347a37ad966fc61",
+            "title": "लगातार गर्म हो रही धरती, फिर इतनी ठंड क्यों?",
+            "link": "https://hindi.latestly.com/world/the-earth-is-constantly-getting-hot-then-why-so-cold-2508928.html",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "‘ध्रुवीय भंवर’ की वजह से अमेरिका और कनाडा के बड़े हिस्से में भारी बर्फबारी हो रही है.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-02-21 15:10:12",
+            "pubDateTZ": "UTC",
+            "image_url": "https://hist1.latestly.com/wp-content/uploads/2025/02/70868454_403-380x214.jpg",
+            "source_id": "latestly",
+            "source_priority": 31923,
+            "source_name": "Latestly",
+            "source_url": "https://www.latestly.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/latestly.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "world"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "d9f45c9916e6f8cc50ffb4e3dc01da27",
+            "title": "Liberty Interactive Stock Hits 52-Week Low at $2",
+            "link": "https://in.investing.com/news/company-news/liberty-interactive-stock-hits-52week-low-at-2-93CH-4680252",
+            "keywords": null,
+            "creator": [
+                "Investing.com"
+            ],
+            "video_url": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-02-21 15:10:08",
+            "pubDateTZ": "UTC",
+            "image_url": "https://i-invdn-com.investing.com/news/World_News_8_M_1440052125.jpg",
+            "source_id": "investing_in",
+            "source_priority": 1205,
+            "source_name": "Investing India",
+            "source_url": "https://in.investing.com",
+            "source_icon": null,
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "4d7781cd8596b12f4169e0c477ba8117",
+            "title": "भारत में बाघ बचाने की कोशिशें रंग लाईं, दोगुने हुए बाघ",
+            "link": "https://hindi.latestly.com/agency-news/efforts-to-save-tiger-in-india-paid-off-double-tiger-2508926.html",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "पिछले दशक में भारत में बाघों की संख्या दोगुनी होकर लगभग 3,682 हो गई है.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-02-21 15:10:08",
+            "pubDateTZ": "UTC",
+            "image_url": "https://hist1.latestly.com/wp-content/uploads/2025/02/66648366_403-380x214.jpg",
+            "source_id": "latestly",
+            "source_priority": 31923,
+            "source_name": "Latestly",
+            "source_url": "https://www.latestly.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/latestly.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "440b88b98acb8a09a8fcad8d46a2bebd",
+            "title": "Kareena Kapoor Khan's red sindoor and Saif Ali Khan's nawabi charm at Aadar Jain’s wedding",
+            "link": "https://timesofindia.indiatimes.com/life-style/fashion/celeb-style/kareena-kapoor-khans-red-sindoor-and-saif-ali-khans-nawabi-charm-at-aadar-jains-wedding/articleshow/118456258.cms",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "Bollywood stars Saif Ali Khan and Kareena Kapoor Khan dazzled at Aadar Jain and Alekha Advani's wedding in Mumbai. Kareena wore a red embroidered saree, while Saif donned a traditional outfit. Their flawless appearances set major fashion goals, affirming their status as Bollywood’s ultimate power couple.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-02-21 15:10:04",
+            "pubDateTZ": "UTC",
+            "image_url": "https://static.toiimg.com/thumb/msid-118456258,width-1070,height-580,imgsize-97580,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "source_id": "toi",
+            "source_priority": 239,
+            "source_name": "The Times Of India",
+            "source_url": "https://timesofindia.indiatimes.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/toi.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "fbe8d2b909c8dbfe8dfcf38a41ded25d",
+            "title": "India has more match-winners, its strength lies in middle and lower-order: Shahid Afridi",
+            "link": "https://economictimes.indiatimes.com/news/sports/india-has-more-match-winners-its-strength-lies-in-middle-and-lower-order-shahid-afridi/articleshow/118456455.cms",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "Shahid Afridi acknowledges India's strength with their numerous match-winners and emphasizes the need for a collective effort by Pakistan to overcome them in the upcoming Champions Trophy clash. Yuvraj Singh notes Pakistan's familiarity with Dubai conditions may offer an advantage but stresses that adapting to the situation and handling pressure will be crucial for victory.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-02-21 15:10:02",
+            "pubDateTZ": "UTC",
+            "image_url": null,
+            "source_id": "economictimes_indiatimes",
+            "source_priority": 231,
+            "source_name": "The Economic Times",
+            "source_url": "https://economictimes.indiatimes.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/economictimes_indiatimes.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": true
+        },
+        {
+            "article_id": "2f75926d5ec8e300ef94894e06b7b666",
+            "title": "Prime Minister Narendra Modi Says, 'In Dino Chhaava Ki Dhoom Machi Hui Hai'; Praises Vicky Kaushal Film",
+            "link": "https://www.timesnownews.com/entertainment-news/bollywood/prime-minister-narendra-modi-says-in-dino-chhaava-ki-dhoom-machi-hui-hai-praises-vicky-kaushal-film-article-118455919",
+            "keywords": null,
+            "creator": [
+                "Risha Ganguly"
+            ],
+            "video_url": null,
+            "description": "​​Talking about the growing impact of Vicky Kaushal starrer Chhaava, Prime Minister Narendra Modi remarked, “In dino to Chhaava ki dhoom machi hui hai,” highlighting the nationwide buzz surrounding the film.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-02-21 15:10:02",
+            "pubDateTZ": "UTC",
+            "image_url": "https://static.tnn.in/thumb/msid-118455919,imgsize-1188190,width-1280,height-720/118455919.jpg",
+            "source_id": "timesnownews",
+            "source_priority": 2243,
+            "source_name": "Times Now News",
+            "source_url": "https://www.timesnownews.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/timesnownews.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "f5359933b8f22f8269d34745d01f0a60",
+            "title": "Mumbai: DRI Seizes Over ₹9 Crore In Smuggled Gold At CSMIA In 2 Operations; 7 Arrested, Including 3 Women",
+            "link": "https://www.freepressjournal.in/mumbai/mumbai-dri-seizes-over-9-crore-in-smuggled-gold-at-csmia-in-2-operations-7-arrested-including-3-women",
+            "keywords": [
+                "fpj shorts",
+                "mumbai news",
+                "topnews"
+            ],
+            "creator": null,
+            "video_url": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-02-21 15:09:55",
+            "pubDateTZ": "UTC",
+            "image_url": "https://media.assettype.com/freepressjournal/2024-08-13/3ix8n7a6/FotoJet%20-%202024-08-13T201502.399.jpg",
+            "source_id": "freepressjournal",
+            "source_priority": 26427,
+            "source_name": "The Free Press Journal",
+            "source_url": "https://www.freepressjournal.in",
+            "source_icon": "https://i.bytvi.com/domain_icons/freepressjournal.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "5c75a1151cd2b9caeaa82d6114ff2dc5",
+            "title": "Bharti Airtel to acquire additional 5% stake in Africa unit",
+            "link": "https://telecom.economictimes.indiatimes.com/news/industry/bharti-airtel-to-acquire-additional-5-stake-in-africa-unit/118456425",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "At Airtel Africa’s current market capitalisation of Pound Sterling 5.07 billion (Rs 55,541 crore approx), a 5% stake would be worth around Rs 2,777 crore. Airtel’s cash & bank balances stood at Rs 6,024.4 crore in the quarter ended December 2024.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-02-21 15:09:54",
+            "pubDateTZ": "UTC",
+            "image_url": "https://etimg.etb2bimg.com/photo/118456438.cms",
+            "source_id": "telecom_economictimes",
+            "source_priority": 483,
+            "source_name": "Et Telecom",
+            "source_url": "https://telecom.economictimes.indiatimes.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/telecom_economictimes.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "technology"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
             "article_id": "8aa4516139497ebe8f7b2354c9129c2e",
             "title": "Swiggy To Invest INR 1,000 Cr In Subsidiary Scootsy",
             "link": "https://inc42.com/buzz/swiggy-to-invest-inr-1000-cr-in-subsidiary-scootsy/",
@@ -22279,1319 +22939,6 @@
             "source_name": "Amar Ujala",
             "source_url": "https://www.amarujala.com",
             "source_icon": "https://i.bytvi.com/domain_icons/amarujala.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "8ed85f93839d93048dec35cde3f77124",
-            "title": "Delhi CM oath-taking ceremony LIVE: Rekha Gupta to be sworn in as Delhi’s 4th woman Chief Minister today - The Hindu",
-            "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOalJtcjRiMC1RR1hLdlhKWXJtUGFBcDhfa2czR1N4NENVVGx3aXhnSm5pYW94RU5kenZhX2xHbW5UQVhmSnM3aTVOMDBRQ1NqR3Z0dnY0Wmlxc1hQdHFmSU0zRzNKaEJ0T3VSbUJwOEd4UFBremtYNzdoY05ITnlkX0ljdjIyWkpOOGluM19KZERZcVhVZGdoSmx4aGJTQ1hYTDhOd2c4X2dGNjBJSmVKNDRydG94VnRaSnhBRzI3LWtzUlhXcEpNemNmUWpIT3dPcUFINWhlQ2Qzb2p5ZnVmNHRKMmljb1Z6SDJZbXB2ZXhRdGYxRlAzdVRwWQ?oc=5",
-            "keywords": null,
-            "creator": null,
-            "video_url": null,
-            "description": "Delhi CM oath-taking ceremony LIVE: Rekha Gupta to be sworn in as Delhi’s 4th woman Chief Minister today The Hindu30 years ago, they took oath together: Alka Lamba’s nostalgic photo with Delhi CM designate Rekha Gupta g The Times of IndiaParvesh Verma, Kapil Mishra To Be In 6-Member Council Of Rekha Gupta NDTVRekha Gupta oath: Who are the 6 Delhi cabinet ministers set to be sworn in today? Hindustan TimesDaily Briefing: Delhi’s new Chief Minister to take oath today The Indian Express",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-02-20 03:09:00",
-            "pubDateTZ": "UTC",
-            "image_url": null,
-            "source_id": "google",
-            "source_priority": 14,
-            "source_name": "Google News",
-            "source_url": "https://news.google.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/google.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "5ed95bd6c99276788c131dc41e9eeaec",
-            "title": "Rekha Gupta: इन वजहों से रेखा गुप्ता को मिला दिल्ली का ताज... भाजपा ने खींची विपक्ष के सामने बड़ी लकीर",
-            "link": "https://www.amarujala.com/photo-gallery/delhi-ncr/delhi-cm-rekha-gupta-for-these-reasons-rekha-gupta-was-made-chief-minister-of-delhi-2025-02-20",
-            "keywords": null,
-            "creator": [
-                "अमर उजाला नेटवर्क, दिल्ली"
-            ],
-            "video_url": null,
-            "description": "रेखा गुप्ता दिल्ली की नई मुख्यमंत्री होंगी। वह देश की दूसरी और मौजूदा भाजपा शासित राज्यों की पहली महिला मुख्यमंत्री होंगी।",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-02-20 03:08:59",
-            "pubDateTZ": "UTC",
-            "image_url": null,
-            "source_id": "amarujala",
-            "source_priority": 55215,
-            "source_name": "Amar Ujala",
-            "source_url": "https://www.amarujala.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/amarujala.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "69c3fd9789d7f76155a78b2e325a9a46",
-            "title": "Rajasthan Weather: मौसम ने ली करवट, हुई झमाझम बारिश, जाने क्या है तजा अपडेट",
-            "link": "https://indianews.in/rajasthan/rajasthan-weather-weather-took-a-turn-it-rained-heavily-know-what-is-the-latest-update/",
-            "keywords": null,
-            "creator": null,
-            "video_url": null,
-            "description": "India News (इंडिया न्यूज), Rajasthan Weather: राजस्थान में एक बार फिर मौसम ने करवट बदली है। पश्चिमी विक्षोभ के सक्रिय होने से राज्य के कई जिलों में तेज हवा, बारिश और ओलावृष्टि हुई। बुधवार को जयपुर, सीकर, बीकानेर, झुंझुनूं और डीडवाना में दोपहर बाद तेज हवाओं के साथ जोरदार बारिश हुई। झुंझुनूं और बीकानेर में [...]",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-02-20 03:08:59",
-            "pubDateTZ": "UTC",
-            "image_url": "https://indianews.in/wp-content/uploads/2025/02/Rajasthan-Weather-News.jpg",
-            "source_id": "indianews",
-            "source_priority": 1433119,
-            "source_name": "India News Rajasthan",
-            "source_url": "https://rajasthan.indianews.in",
-            "source_icon": "https://i.bytvi.com/domain_icons/indianews.jpg",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "59aa51f7dc784d8e4ff332b87b827f89",
-            "title": "Himachal Weather: हिमाचल के 4 जिलों में बदलेगा मौसम का रुख, IMD ने दी पूरी जानकारी",
-            "link": "https://indianews.in/himachal-pradesh/himachal-weather-weather-will-change-in-4-districts-of-himachal-imd-gave-complete-information/",
-            "keywords": null,
-            "creator": null,
-            "video_url": null,
-            "description": "India News (इंडिया न्यूज), Himachal Weather: हिमाचल प्रदेश में पश्चिमी विक्षोभ के सक्रिय होने से मौसम का मिजाज बदल गया है। शिमला समेत कई इलाकों में बादल छाए रहे और ठंडी हवाओं ने तापमान में गिरावट ला दी। वहीं, रोहतांग और अन्य ऊंचाई वाले दर्रों पर हल्का हिमपात हुआ। मौसम विभाग ने चंबा, कांगड़ा, कुल्लू [...]",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-02-20 03:08:59",
-            "pubDateTZ": "UTC",
-            "image_url": "https://indianews.in/wp-content/uploads/2025/02/Himachal-Weather-5.webp",
-            "source_id": "indianews",
-            "source_priority": 1433119,
-            "source_name": "India News Rajasthan",
-            "source_url": "https://rajasthan.indianews.in",
-            "source_icon": "https://i.bytvi.com/domain_icons/indianews.jpg",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "4a766a9b182c68b7a29eb6284339cc59",
-            "title": "Does Logan Paul’s Elimination Chamber History Hints Towards a Match Against a Top Legend at WrestleMania 41?",
-            "link": "https://timesofindia.indiatimes.com/sports/wwe/top-stories/does-logan-pauls-elimination-chamber-history-hints-towards-a-match-against-a-top-legend-at-wrestlemania-41/articleshow/118402760.cms",
-            "keywords": null,
-            "creator": null,
-            "video_url": null,
-            "description": "Logan Paul's involvement in the WWE Elimination Chamber has a significant impact on his WrestleMania opportunities. Following his past encounters at the event, he is set to compete in the 2025 Men's Chamber match. There's speculation that Paul might target John Cena, potentially setting up a high-profile showdown at WrestleMania 41.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-02-20 03:08:46",
-            "pubDateTZ": "UTC",
-            "image_url": "https://static.toiimg.com/thumb/msid-118403510,imgsize-38940,width-400,resizemode-4/118403510.jpg",
-            "source_id": "toi",
-            "source_priority": 239,
-            "source_name": "The Times Of India",
-            "source_url": "https://timesofindia.indiatimes.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/toi.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "efea1aefd9384b9056edb1530bdb4fcc",
-            "title": "Atchanna slams YSRCP ‘false propaganda’ on chilli prices",
-            "link": "https://www.thehansindia.com/andhra-pradesh/atchanna-slams-ysrcp-false-propaganda-on-chilli-prices-947318",
-            "keywords": [
-                "andhra pradesh,news,cities,state,vijayawada"
-            ],
-            "creator": [
-                "The Hans India"
-            ],
-            "video_url": null,
-            "description": "Asserts that the state govt is committed to protect interests of chilli farmersCalling YSRCP chief Jagan’s bluff, the agriculture minister points out that maximum price for chilli has been Rs 13,600 per quintal in the past one decade contrary to the claims that it was Rs 27,000 earlierStates that exports to China and Malaysia have been decreasing as those countries are cultivating the crop themselves, thus pulling down the prices",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-02-20 03:08:44",
-            "pubDateTZ": "UTC",
-            "image_url": "https://assets.thehansindia.com/h-upload/2025/02/20/1525793-untitled-1.webp",
-            "source_id": "thehansindia",
-            "source_priority": 41360,
-            "source_name": "The Hans India",
-            "source_url": "http://www.thehansindia.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/thehansindia.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "85d2d21873b016d25ce7f4c5ccefa70b",
-            "title": "Oman vs USA 1st T20 2025 Live Streaming: आज पहले टी20 में ओमान और अमेरिका के बीच होगी कड़ी टक्कर, यहां जानें कब-कहां और कैसे देखें लाइव प्रसारण",
-            "link": "https://hindi.latestly.com/sports/cricket/oman-vs-usa-1st-t20-2025-live-streaming-there-will-be-a-tough-competition-between-oman-and-america-in-the-first-t20-today-know-here-when-where-and-how-to-watch-the-live-telecast-2506329.html",
-            "keywords": null,
-            "creator": null,
-            "video_url": null,
-            "description": "ओमान राष्ट्रीय क्रिकेट टीम और संयुक्त राज्य अमेरिका राष्ट्रीय क्रिकेट टीम के बीच पहला टी20 आज यानी 20 फरवरी को खेला जाना है. दोनों टीमों के बीच यह मैच अल अमरात के अल अमरात क्रिकेट ग्राउंड (मिनिस्ट्री टर्फ 1) में खेला जाएगा. यह सीरीज का पहला मैच होगा. ऐसे में दोनों टीमें जीत के साथ शुरुआत करना चाहेंगी.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-02-20 03:08:33",
-            "pubDateTZ": "UTC",
-            "image_url": "https://hist1.latestly.com/wp-content/uploads/2025/02/159-70-1-380x214.jpg",
-            "source_id": "latestly",
-            "source_priority": 31923,
-            "source_name": "Latestly",
-            "source_url": "https://www.latestly.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/latestly.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "sports"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "e2eb3242fd498c06921b20a10a6893d6",
-            "title": "Champions Trophy: Pakistan's road ahead - why wins vs IND, BAN are crucial",
-            "link": "https://www.business-standard.com/cricket/champions-trophy/champions-trophy-pakistan-s-road-ahead-why-wins-vs-ind-ban-are-crucial-125021901440_1.html",
-            "keywords": null,
-            "creator": null,
-            "video_url": null,
-            "description": "Pakistan have two matches left in the group stage against India and Bangladesh on February 23 and 27, respectively, and they need to win both games if they wish to qualify for the semifinals",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-02-20 03:08:30",
-            "pubDateTZ": "UTC",
-            "image_url": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1250219/thumb-125021901440.jpg",
-            "source_id": "business-standard",
-            "source_priority": 9158,
-            "source_name": "Business Standard",
-            "source_url": "https://www.business-standard.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/business-standard.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "sports"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "a25ff4a0e2cf61b23d360340c8be3e27",
-            "title": "South Korea's impeached President Yoon attends his first criminal trial hearing",
-            "link": "https://www.hindustantimes.com/world-news/south-koreas-impeached-president-yoon-attends-his-first-criminal-trial-hearing-101740020143800.html",
-            "keywords": [
-                "world-news"
-            ],
-            "creator": null,
-            "video_url": null,
-            "description": "Prosecutors last month indicted Yoon after accusing him of leading an insurrection with his short-lived imposition of martial law on December 3.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-02-20 03:08:27",
-            "pubDateTZ": "UTC",
-            "image_url": "https://www.hindustantimes.com/ht-img/img/2025/02/20/1600x900/SKOREA-POLITICS-YOON-4_1740020490763_1740020507903.jpg",
-            "source_id": "hindustantimes",
-            "source_priority": 933,
-            "source_name": "Hindustan Times",
-            "source_url": "http://www.hindustantimes.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/hindustantimes.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "world"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "c64b2a39eb527308178c1a6d03395813",
-            "title": "Apple iPhone 16e: 48MP कैमरा, A18 चिप, धांसू फीचर्स-जानें कीमत",
-            "link": "https://hindi.asianetnews.com/technology/tech-news/apple-iphone-16e-launched-with-48mp-camera-a18-chip-price-and-specifications/articleshow-t6kcxex",
-            "keywords": [
-                "tech news"
-            ],
-            "creator": [
-                "rohan salodkar"
-            ],
-            "video_url": null,
-            "description": "ऐप्पल ने अपने बजट-फ्रेंडली फोन सीरीज को रीब्रांड करके iPhone 16e लॉन्च किया है। आइए जानते हैं iPhone 16e की कीमत और फीचर्स।",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-02-20 03:08:21",
-            "pubDateTZ": "UTC",
-            "image_url": "https://static-gi.asianetnews.com/images/01jmfg2t1jbq217mzwxzwkbfrb/whatsapp-image-2025-02-19-at-9.44.52-pm.jpeg",
-            "source_id": "hindi_asianetnews",
-            "source_priority": 7805,
-            "source_name": "Asianet News Hindi",
-            "source_url": "https://hindi.asianetnews.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/hindi_asianetnews.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "0eee6fdc880492896b36acb96abc3b90",
-            "title": "Bihar News : भिखारी ठाकुर के सहकर्मी लखीचंद मांझी का हुआ निधन, बिहार सरकार ने दिया लाइफ टाइम अचीवमेंट पुरस्कार",
-            "link": "https://www.amarujala.com/bihar/bihar-news-bhikhari-thakur-s-colleague-lakhichand-manjhi-died-honored-life-time-achievement-award-saran-bihar-2025-02-20",
-            "keywords": null,
-            "creator": [
-                "amarujala.com"
-            ],
-            "video_url": null,
-            "description": "Lakhichand Manjhi : बिहार सरकार द्वारा लाइफ टाइम अचीवमेंट अवार्ड से सम्मानित भोजपुरी के प्रसिद्ध नाट्यकार सह भोजपुरी के शेक्सपियर कहे जाने वाले लोक कवि भिखारी ठाकुर के शिष्य रहे लोक कलाकार लखीचंद मांझी का निधन हो गया।",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-02-20 03:08:19",
-            "pubDateTZ": "UTC",
-            "image_url": null,
-            "source_id": "amarujala",
-            "source_priority": 55215,
-            "source_name": "Amar Ujala",
-            "source_url": "https://www.amarujala.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/amarujala.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "85f23a6008f3dfa8b3d996160ca83c7e",
-            "title": "Now three world records to be attempted on Feb 24, 25 at Mahakumbh",
-            "link": "https://www.hindustantimes.com/cities/others/now-three-world-records-to-be-attempted-on-feb-24-25-at-mahakumbh-101739994714191.html",
-            "keywords": [
-                "cities/others"
-            ],
-            "creator": null,
-            "video_url": null,
-            "description": "15,000 sanitation workers to clean the roads; 10,000 people together to do hand printing; and 500 shuttle buses to be operated on same day",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-02-20 03:08:19",
-            "pubDateTZ": "UTC",
-            "image_url": "https://www.hindustantimes.com/ht-img/img/2025/02/19/1600x900/Devotees-return-home-after-taking-a-dip-at-Triveni_1739994704293.jpg",
-            "source_id": "hindustantimes",
-            "source_priority": 933,
-            "source_name": "Hindustan Times",
-            "source_url": "http://www.hindustantimes.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/hindustantimes.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "30bf8a81b40f96beabf98e613a236afb",
-            "title": "जौनपुर में सड़क हादसा, 8 की मौत, 5 झारखंड के लोग",
-            "link": "https://zeenews.india.com/hindi/india/bihar-jharkhand/ranchi/bus-and-sumo-accident-8-killed-going-to-mahakumbh-prayagraj-ayodhya-in-jaunpur/2653360",
-            "keywords": null,
-            "creator": [
-                "Zee News Hindi"
-            ],
-            "video_url": null,
-            "description": null,
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-02-20 03:08:17",
-            "pubDateTZ": "UTC",
-            "image_url": "https://hindi.cdn.zeenews.com/hindi/sites/default/files/2025/02/20/3698021-brk.jpeg?im=FitAndFill%3D%28600%2C315%29",
-            "source_id": "zeenews",
-            "source_priority": 5319,
-            "source_name": "Zee News",
-            "source_url": "http://zeenews.india.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/zeenews.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "7c1a5bc5404da7bd67b00b8bdace6bea",
-            "title": "Sporting Kansas City 0-1 Inter Miami, CONCACAF Champions Cup 2025: Lionel Messi's Lone Goal Helps Javier Mascherano's Side Win Competition Opener With Ease",
-            "link": "https://www.latestly.com/socially/sports/football/sporting-kansas-city-0-1-inter-miami-concacaf-champions-cup-2025-lionel-messis-lone-goal-helps-javier-mascheranos-side-win-competition-opener-with-ease-6656122.html",
-            "keywords": null,
-            "creator": null,
-            "video_url": null,
-            "description": "Inter Miami started their CONCACAF Champions Cup 2025 campaign with a win over Sporting Kansas City. Lionel Messi scored the lone goal of the match, which helped The Herons win 1-0 in their first round away match.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-02-20 03:08:17",
-            "pubDateTZ": "UTC",
-            "image_url": "https://st1.latestly.com/wp-content/uploads/2025/02/22-221-380x214.jpg",
-            "source_id": "latestly",
-            "source_priority": 31923,
-            "source_name": "Latestly",
-            "source_url": "https://www.latestly.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/latestly.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "sports"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "f1df2b1229e8cf796240175de867471e",
-            "title": "Suriya's Film With Chandoo Mondeti To Have 'Larger Than Life' Story",
-            "link": "https://www.timesnownews.com/entertainment-news/tamil/chandoo-mondeti-shares-update-about-film-with-suriya-article-118403367",
-            "keywords": null,
-            "creator": [
-                "Raisa Nasreen"
-            ],
-            "video_url": null,
-            "description": "Chandoo Mondeti, who is currently basking in the success of the film Thandel, has opened up about his project with Suriya and what one can expect from the film. In a recent interview, he shared that the film's story will be larger than life. Fans are now excited to news of their collaboration. Read on to know more.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-02-20 03:08:13",
-            "pubDateTZ": "UTC",
-            "image_url": "https://static.tnn.in/thumb/msid-118403367,imgsize-88000,width-1280,height-720/118403367.jpg",
-            "source_id": "timesnownews",
-            "source_priority": 2243,
-            "source_name": "Times Now News",
-            "source_url": "https://www.timesnownews.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/timesnownews.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "a0bd66d62c2e8be0e99e51c4f4d1a8bc",
-            "title": "Trump: Federal government should 'take over' Washington, D.C., backing congressional GOP push",
-            "link": "https://www.washingtontimes.com/news/2025/feb/19/trump-federal-government-take-washington-d-c-backing-congressional-gop/",
-            "keywords": null,
-            "creator": null,
-            "video_url": null,
-            "description": "WASHINGTON — President Trump on Wednesday threw his support behind congressional efforts for a federal takeover of the nation's capital, saying he approves putting the District of Columbia back under direct federal control.Speaking to reporters aboard Air Force One, Trump complained about crime and homelessness in the district, saying, “I ...",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-02-20 03:08:12",
-            "pubDateTZ": "UTC",
-            "image_url": null,
-            "source_id": "washingtontimes",
-            "source_priority": 9784,
-            "source_name": "The Washington Times",
-            "source_url": "https://www.washingtontimes.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/washingtontimes.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "0fdf16c22b266412944bb579413aca9e",
-            "title": "Champions Trophy 2025: R Ashwin Mocks Babar Azam As ‘Tortoise’ After Slow Knock Sinks Pakistan Against New Zealand",
-            "link": "https://www.freepressjournal.in/sports/champions-trophy-2025-r-ashwin-mocks-babar-azam-as-tortoise-after-slow-knock-sinks-pakistan-against-new-zealand",
-            "keywords": [
-                "dailyhunt",
-                "sports",
-                "fpj shorts",
-                "topnews"
-            ],
-            "creator": null,
-            "video_url": null,
-            "description": null,
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-02-20 03:08:10",
-            "pubDateTZ": "UTC",
-            "image_url": "https://media.assettype.com/freepressjournal/2025-02-20/p51nu9wo/sports-news-2025-02-20T083630.121.png",
-            "source_id": "freepressjournal",
-            "source_priority": 26427,
-            "source_name": "The Free Press Journal",
-            "source_url": "https://www.freepressjournal.in",
-            "source_icon": "https://i.bytvi.com/domain_icons/freepressjournal.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "1b9357f877401b1ef1449769384abc94",
-            "title": "Will form an opinion on setting up A.P. High Court Bench in Kurnool, says Chief Justice Dhiraj Singh Thakur",
-            "link": "https://www.thehindu.com/news/cities/Vijayawada/will-form-an-opinion-on-setting-up-ap-high-court-bench-in-kurnool-says-chief-justice-dhiraj-singh-thakur/article69239109.ece",
-            "keywords": [
-                "vijayawada"
-            ],
-            "creator": null,
-            "video_url": null,
-            "description": "All relevant factors will be taken into consideration, and the grounds on which such Benches were set up in other States will be looked into, says Dhiraj Singh Thakur",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-02-20 03:08:09",
-            "pubDateTZ": "UTC",
-            "image_url": "https://th-i.thgim.com/public/incoming/ijnkot/article69239601.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202024-08-15%20at%207.43.21%20PM.jpeg",
-            "source_id": "thehindu",
-            "source_priority": 2972,
-            "source_name": "The Hindu",
-            "source_url": "https://www.thehindu.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/thehindu.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "ab58d897c4f1da69f1d77e533a34e9c3",
-            "title": "एसबीआई रिपोर्ट: सबसे तेज बढ़ेगी हमारी जीडीपी; मजबूत घरेलू मांग, निवेश व खपत से अर्थव्यवस्था को मिलेगी मजबूती",
-            "link": "https://www.amarujala.com/photo-gallery/business/business-diary/sbi-report-our-gdp-will-grow-fastest-strong-domestic-demand-investment-consumption-will-strengthen-economy-2025-02-20",
-            "keywords": null,
-            "creator": [
-                "amarujala.com"
-            ],
-            "video_url": null,
-            "description": "राष्ट्रीय सांख्यिकी कार्यालय के अनुसार, 2024-25 में वास्तविक व नॉमिनल जीडीपी वृद्धि दर क्रमशः 6.4 फीसदी व 9.7 फीसदी अनुमानित है। एसबीआई रिपोर्ट के अनुसार, 36 उच्च आवृत्ति संकेतक अर्थव्यवस्था में मजबूती का संकेत दे रहे हैं।",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-02-20 03:08:06",
-            "pubDateTZ": "UTC",
-            "image_url": null,
-            "source_id": "amarujala",
-            "source_priority": 55215,
-            "source_name": "Amar Ujala",
-            "source_url": "https://www.amarujala.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/amarujala.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "bfbb0e0d9775522ec282f48d5237e121",
-            "title": "Positive Breakout: These 3 stocks cross above their 200 DMAs - The Economic Times",
-            "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQdjFrd3o5ZGdCUmlKT1V2cEMtWHlPQzZrSzVWOVY2SGwyZW1YTjJ5RVlsZGthZWZKT0s4a1JBT3R6bG40T3dlakFtUDFoVVU2a01EQm9MTExwaGFIN0RVTUpXOFV1SzNGNmdkVVVvSzdfR19jTGlzVldWOGZxUFRTSHRaYWc3emJVRmtVOVBpMGhmcUQ3RVlEYXJlZl9EY0FkaVM1WURJc21CVm5sQ1lLNkVWTzA1NkNaLWw2WTN5eEhFTnNBVFhOYW5SNmI3SElQdERpbVdiaUFWNmh4?oc=5",
-            "keywords": null,
-            "creator": null,
-            "video_url": null,
-            "description": "Positive Breakout: These 3 stocks cross above their 200 DMAs The Economic TimesNifty 50 stocks trading at the 200-Day Moving Average support to keep on your radar Trade BrainsPositive Breakout: These 3 stocks crossed above their 200 DMAs The Economic Times",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-02-20 03:08:06",
-            "pubDateTZ": "UTC",
-            "image_url": null,
-            "source_id": "google",
-            "source_priority": 14,
-            "source_name": "Google News",
-            "source_url": "https://news.google.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/google.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "business"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "89848c1591800eed177cf6bcfd5de320",
-            "title": "Meghan Markle’s new brand logo is ‘another headache’ that may result in...",
-            "link": "https://www.hindustantimes.com/world-news/meghan-markle-s-new-brand-logo-is-another-headache-that-may-result-in-101740014610149.html",
-            "keywords": [
-                "world-news"
-            ],
-            "creator": null,
-            "video_url": null,
-            "description": "Meghan Markle rebrands her struggling business, American Riviera Orchard, to As Ever, partnering with Netflix.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-02-20 02:08:52",
-            "pubDateTZ": "UTC",
-            "image_url": "https://www.hindustantimes.com/ht-img/img/2025/02/20/1600x900/download_1740017004143_1740017013598.png",
-            "source_id": "hindustantimes",
-            "source_priority": 933,
-            "source_name": "Hindustan Times",
-            "source_url": "http://www.hindustantimes.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/hindustantimes.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "world"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "6ff7fa9b27b8672f660437da6a69fab4",
-            "title": "Stocks to watch, February 20: JBM Auto, BSE, Waaree Energies, Religare Enterprises, Torrent Power, Bharat Forge, and more - Upstox",
-            "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOSDVWSTd5WjliZF9UVGRJRHdkV3R1aHdZNjBtNkd1LThwTHdoMFpuREI0czRMenEwdVBPVEczMzdCbnhQY29sUUFhOXlkbzR1aVlURkRITmNiOG5JNjFXa2t1bGIwNVpzUDBsc0VIUzRxRVFMeE8wNWhjOHBOTF95TndHcnZybDNqWEx6a1FDczdXeFZtRTFBeGR0b1A3Y01qNlMyRUxnR2x0WDNFaUdyQXJIdE9ubk1KWndxd2E0eS00ZEM0QlprcUwtWS1YVjAxRUhKdnNhRkFkbXRDdTh0TF95RnhsQkVxd0wzVDNNaXBHbWdRYkk5ckQ0ajF6MUZoT0E?oc=5",
-            "keywords": null,
-            "creator": null,
-            "video_url": null,
-            "description": "Stocks to watch, February 20: JBM Auto, BSE, Waaree Energies, Religare Enterprises, Torrent Power, Bharat Forge, and more UpstoxStocks to Watch Today: HFCL, Waaree Energies, IREDA, Tata Technologies, Sundaram Clayton, Orchid Pharma in... MoneycontrolStocks to Watch on Feb 20: Bharat Forge, Mahindra Group, Waaree Energies, Orchid Pharma and more CNBCTV18Stocks in news: Cyient, Waaree Energies, BSE, Tata Technologies, Orchid Pharma The Economic TimesStocks to Watch, Feb 20, 2025: Religare Ent, Waaree Energies, Bharat Forge Business Standard",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-02-20 02:08:52",
-            "pubDateTZ": "UTC",
-            "image_url": null,
-            "source_id": "google",
-            "source_priority": 14,
-            "source_name": "Google News",
-            "source_url": "https://news.google.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/google.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "business"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "3aed88660efa5521b540382d32d11733",
-            "title": "AI literacy: Transforming education for a tech-driven future",
-            "link": "https://www.thehansindia.com/hans/young-hans/ai-literacy-transforming-education-for-a-tech-driven-future-947292",
-            "keywords": [
-                "young hans,hans"
-            ],
-            "creator": [
-                "Avinash Mada"
-            ],
-            "video_url": null,
-            "description": null,
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-02-20 02:08:35",
-            "pubDateTZ": "UTC",
-            "image_url": "https://assets.thehansindia.com/h-upload/2025/02/20/1525768-yh.webp",
-            "source_id": "thehansindia",
-            "source_priority": 41360,
-            "source_name": "The Hans India",
-            "source_url": "http://www.thehansindia.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/thehansindia.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "417fbabaa5610ca9a21289a8557c0fe3",
-            "title": "दिल्ली में आज शपथ ग्रहण, दिल्लीवाले ध्यान दें, ये रास्ते खुले ये बंद, ट्रैफिक से सुरक्षा तक ए टू जेड जानकारी",
-            "link": "https://ndtv.in/delhi-news/rekha-gupta-swearing-in-ceremony-in-delhi-all-information-from-traffic-to-security-7750776",
-            "keywords": null,
-            "creator": null,
-            "video_url": null,
-            "description": "शपथ ग्रहण समारोह में शामिल होने के लिए उम्मीद है कि 50 हजार से ज्यादा लोग पहुंच सकते हैं. इसलिए रामलीला मैदान को सजाने के साथ ही सुरक्षा के भी कड़े प्रबंध किए गए हैं.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-02-20 02:08:33",
-            "pubDateTZ": "UTC",
-            "image_url": "https://c.ndtvimg.com/2025-02/rbclmfeo_rekha-gupta-_625x300_20_February_25.jpeg",
-            "source_id": "ndtv",
-            "source_priority": 1204,
-            "source_name": "Ndtv",
-            "source_url": "http://www.ndtv.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/ndtv.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "6604c05f8c4e23cd7eaebf46af534b9d",
-            "title": "Milk price to be hiked by Rs 5 per litre in Karnataka after state budget",
-            "link": "https://www.newindianexpress.com/states/karnataka/2025/Feb/20/milk-price-to-be-hiked-by-rs-5-per-litre-in-karnataka-after-state-budget",
-            "keywords": [
-                "karnataka"
-            ],
-            "creator": [
-                "Bosky Khanna"
-            ],
-            "video_url": null,
-            "description": null,
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-02-20 02:08:30",
-            "pubDateTZ": "UTC",
-            "image_url": "https://media.assettype.com/newindianexpress/2025-02-19/dli5qbmz/Milk-price-to-be-hiked.jpg",
-            "source_id": "newindianexpress",
-            "source_priority": 15406,
-            "source_name": "The New Indian Express",
-            "source_url": "https://www.newindianexpress.com/nation",
-            "source_icon": null,
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "2beadb151118be6d77d7a7960d442f00",
-            "title": "PAK vs NZ: टॉम लैथम का तहलका, चैंपियंस ट्रॉफी में वर्ल्ड रिकॉर्ड बनाकर विश्व क्रिकेट में मचाई खलबली",
-            "link": "https://ndtv.in/cricket/tom-latham-record-highest-ever-score-at-no-5-or-lower-in-champions-trophy-pak-vs-nz-hindi-7750770",
-            "keywords": null,
-            "creator": null,
-            "video_url": null,
-            "description": "Tom Latham record in Champions Trophy 2025:",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-02-20 02:08:28",
-            "pubDateTZ": "UTC",
-            "image_url": "https://c.ndtvimg.com/2025-02/bn23vgeo_tom-latham-_625x300_20_February_25.jpg?im=FitAndFill%2Calgorithm%3Ddnn%2Cwidth%3D1200%2Cheight%3D738",
-            "source_id": "ndtv_in",
-            "source_priority": 129751,
-            "source_name": "Ndtv",
-            "source_url": "https://www.ndtv.in",
-            "source_icon": "https://i.bytvi.com/domain_icons/ndtv_in.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "sports"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "80e54852feec087956ff5055803fee72",
-            "title": "Pakistan KNOCKED OUT of ICC Champions Trophy 2025 After Embarrassing Loss vs New Zealand? Qualification Scenario - Republic World",
-            "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOUUVjNFJ0bDFYaTg5Rkk5ZDZJTER5MkhGbjhXaE80dlVGVHhITF9zTzVpMEFaS2dhVjJzSmdxOUdZcnYtWkhiQkVBT0hSSGJfWUgzbDJPaHFXT3gwRDhTMm5rXzR1cjdPOUM3MVBvOWgtNktpSHVNZkxwZlJHd2VVTV9FUWZLNlhqSEVqNi16bUlGYjNKOXNvWGdBNzBzV0lVdlphQlRlVTJIb0cySlFHN21mXzlVelJNeEdGcFd3WnBwOWl0Z3NEOEZTa0x4WXpKZjRUZ194US1WSWdZdmF0TmNRc0JQTF9zMEFhQnRzMXhaQ3p4NzYwUzF5Rm9HcVZBVjNuN2poYVfSAY4CQVVfeXFMTkpXNTFzV2ZTUU1ON2psakVIV2Z2c2NWcnNha3VrRElGTURycXNSSGhBbU5lY1c2OUZ2bG5tTDZ1YVhRbng0dWR4LU53Sm85RkdsY296NkpEZ2U5ZGd6UG56WXJaZjJMM2ZzLVB0Ny12ZU5OcWNld3hRNUNzUVFFUFh0RTc0ZUFrN2VBTFpfb25MZlFhMEE4VmxGcEZYR3c3TGpXSGYzS0hhTkdRUlNtYkZaSzhrU2F5elpJT3I0ZWRoZjAtYnZ1TEVrcEZCdC1qYUVEUmdDaEhHUHhUWmJiVnBjOWVqUFg3d3R5THVEY3VuUlFTbm9BTTllWE14TnZsc0JBekRTZ2VKbVg2bk5B?oc=5",
-            "keywords": null,
-            "creator": null,
-            "video_url": null,
-            "description": "Pakistan KNOCKED OUT of ICC Champions Trophy 2025 After Embarrassing Loss vs New Zealand? Qualification Scenario Republic WorldPartnerships key to New Zealand's win on tricky Karachi surface, says Young CricbuzzPakistan Hit New Low, Become First Team In The World To... NDTV Sports'We Didn't Expect That': Mohammad Rizwan Rues Pakistan's Repetition Of Mistakes After Loss To NZ In CT 2025 News18Dominant New Zealand crush Pakistan by 60 runs in Champions Trophy opener The Times of India",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-02-20 02:08:23",
-            "pubDateTZ": "UTC",
-            "image_url": null,
-            "source_id": "google",
-            "source_priority": 14,
-            "source_name": "Google News",
-            "source_url": "https://news.google.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/google.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "sports"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "7b18b49a0e51495308a3beb756d6f547",
-            "title": "Pakistan KNOCKED OUT of ICC Champions Trophy 2025 After Embarrassing Loss vs New Zealand? Qualification Scenario",
-            "link": "https://www.republicworld.com/sports/cricket/pakistan-knocked-out-of-icc-champions-trophy-2025-after-embarrassing-loss-vs-new-zealand-qualification-scenario-ahead-of-india-clash",
-            "keywords": [
-                "sports",
-                "cricket"
-            ],
-            "creator": [
-                "editor@republicworld.com (Republic Writer)"
-            ],
-            "video_url": null,
-            "description": "Pakistan KNOCKED OUT of ICC Champions Trophy 2025 After Embarrassing Loss vs New Zealand? Qualification Scenario",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-02-20 02:08:23",
-            "pubDateTZ": "UTC",
-            "image_url": "http://img.republicworld.com/all_images/umpire-stops-fakhar-zaman-to-bat-due-to-this-reason-panic-in-pakistan-dressing-room-1739975587462-16_9.webp",
-            "source_id": "republicworld",
-            "source_priority": 17361,
-            "source_name": "Republic World",
-            "source_url": "https://www.republicworld.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/republicworld.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "sports"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "20b7c6cf987c7222524e05a541448545",
-            "title": "Gold Price Steady Over Rs 86,000 — Check Rates In Mumbai, Bengaluru, Delhi, Chennai And More",
-            "link": "https://www.ndtvprofit.com/markets/gold-price-steady-over-rs-86000-check-rates-in-mumbai-bengaluru-delhi-chennai-and-more",
-            "keywords": [
-                "notifications",
-                "markets",
-                "business"
-            ],
-            "creator": [
-                "Ann Jacob"
-            ],
-            "video_url": null,
-            "description": "Gold price in India was steady over the Rs 86,000-mark at Rs 86,070 per 10 grams as of 6:50 a.m. on Feb. 20.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-02-20 02:08:23",
-            "pubDateTZ": "UTC",
-            "image_url": "https://media.assettype.com/bloombergquint%2F2025-02-20%2Fbjbb9nvs%2Fzlataky-cz-KmZbZuyBWkM-unsplash.jpg?auto=format%2Ccompress&ogImage=true&rect=0%2C175%2C5184%2C2722&w=1200",
-            "source_id": "bloombergquint",
-            "source_priority": 9222807,
-            "source_name": "Bq Prime",
-            "source_url": "https://www.bloombergquint.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/bloombergquint.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "business"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "1e6c5ea87a69257ef4c0e6b0f95ac4b1",
-            "title": "Markets in consolidation mode; midcaps and smallcaps likely to see value buying",
-            "link": "https://www.thehindubusinessline.com/markets/markets-in-consolidation-mode-midcaps-and-smallcaps-likely-to-see-value-buying/article69241113.ece",
-            "keywords": [
-                "markets"
-            ],
-            "creator": null,
-            "video_url": null,
-            "description": "Immediate resistance is at 23,200, with key support at 22,800. A breakout beyond this range will determine the next trend.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-02-20 02:08:21",
-            "pubDateTZ": "UTC",
-            "image_url": "https://bl-i.thgim.com/public/incoming/l5ke0h/article69186665.ece/alternates/LANDSCAPE_1200/PO05_Stock_data.jpg",
-            "source_id": "thehindubusinessline",
-            "source_priority": 33540,
-            "source_name": "The Hindu - Business Line",
-            "source_url": "https://www.thehindubusinessline.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/thehindubusinessline.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "business"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "8c1279cd83e0cd5ea9b7f12e83cbe670",
-            "title": "Big screen ticket gives 80s novel on Sambhaji a new lease of life",
-            "link": "https://www.hindustantimes.com/cities/mumbai-news/blockbuster-chhaava-s-success-triggers-english-version-of-novel-101739992790385.html",
-            "keywords": [
-                "latest"
-            ],
-            "creator": null,
-            "video_url": null,
-            "description": "MUMBAI: The film Chhaava boosts sales of Shivaji Sawant's novel, prompting a special edition release and increased demand across Maharashtra and online.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-02-20 02:08:17",
-            "pubDateTZ": "UTC",
-            "image_url": "https://www.hindustantimes.com/ht-img/img/2025/02/19/1600x900/-p-Big-screen-ticket-gives-80s-novel-on-Sambhaji-a_1739992963700.jpg",
-            "source_id": "hindustantimes",
-            "source_priority": 933,
-            "source_name": "Hindustan Times",
-            "source_url": "http://www.hindustantimes.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/hindustantimes.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "5c56414fdcb7e78a4d81ac9b16d8732b",
-            "title": "Kochi gears up for Invest Kerala Global Summit 2025; CM Vijayan to Inaugurate",
-            "link": "https://english.mathrubhumi.com/news/kerala/invest-kerala-summit-2025-1.10359233",
-            "keywords": null,
-            "creator": null,
-            "video_url": null,
-            "description": "Kochi (Kerala): Kochi is set to host the Invest Kerala Global Summit 2025 (IKGS 2025), a two-day event aimed at attracting both domestic and international ...",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-02-20 02:08:13",
-            "pubDateTZ": "UTC",
-            "image_url": "https://english.mathrubhumi.com/image/contentid/policy:1.10258168:1740017355/image/Invest%20Kerala%20Global%20Summit-tvm.jpg?%24p=ddad63b&f=16x10&q=0.8&w=852",
-            "source_id": "mathrubhumi",
-            "source_priority": 29098,
-            "source_name": "Mathrubhumi English",
-            "source_url": "https://english.mathrubhumi.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/mathrubhumi.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "65edaf7f8580db67ced91321d8db6859",
-            "title": "Shabari Jayanti 2025: आज शबरी जयंती पर पढ़ें व्रत की पूरी कथा, जानिए कौन थीं श्रीराम के लिए फल लाने वाली माता शबरी",
-            "link": "https://ndtv.in/faith/shabari-jayanti-2025-shabri-jayanti-katha-shabari-jayanti-puja-vidhi-and-shubh-muhurt-7750777",
-            "keywords": null,
-            "creator": null,
-            "video_url": null,
-            "description": "Shabari Jayanti Katha: रामचरितमानस में माता शबरी की भक्ति, तपस्या और त्यागभाव का जिक्र किया गया है. यहां जानिए कौन थी शबरी और क्यों मनाई जाती है शबरी जयंती.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-02-20 02:08:12",
-            "pubDateTZ": "UTC",
-            "image_url": "https://c.ndtvimg.com/2022-02/46deubf_shabari-jayanti-_625x300_16_February_22.jpg?im=FeatureCrop%2Calgorithm%3Ddnn%2Cwidth%3D773%2Cheight%3D435",
-            "source_id": "ndtv",
-            "source_priority": 1204,
-            "source_name": "Ndtv",
-            "source_url": "http://www.ndtv.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/ndtv.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "9a5a11b1c6b6d21eccbbc7934f5bd756",
-            "title": "World Day of Social Justice 2025: Date, theme, history and significance",
-            "link": "https://www.business-standard.com/world-news/world-day-of-social-justice-2025-date-theme-history-and-significance-nc-125021900885_1.html",
-            "keywords": null,
-            "creator": null,
-            "video_url": null,
-            "description": "The World Day of Social Justice is celebrated on Feb 20th every year. Building equal societies is crucial since social issues are threatened by severe injustices and widespread labor instability",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-02-20 02:08:10",
-            "pubDateTZ": "UTC",
-            "image_url": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1250219/thumb-125021900885.jpg",
-            "source_id": "business-standard",
-            "source_priority": 9158,
-            "source_name": "Business Standard",
-            "source_url": "https://www.business-standard.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/business-standard.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "world"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "a78a35708b85b9ddb1c01dc14626edee",
-            "title": "SKMCH में प्रसव पीड़ा में मरीज, नहीं मिली ट्रॉली VIDEO:परिजनों ने कंधे के सहारे ले गए डॉक्टर के पास, गेट पर थी नहीं था ट्रॉली मैन",
-            "link": "https://www.bhaskar.com/local/bihar/muzaffarpur/news/video-of-hospital-staff-negligence-at-skmch-in-muzaffarpur-134507378.html",
-            "keywords": null,
-            "creator": null,
-            "video_url": null,
-            "description": "मुजफ्फरपुर के एसकेएमसीएच में एक मरीज को ट्रॉली नहीं मिलने का वीडियो वायरल हुआ है। वीडियो में देखा जा सकता है कि दर्द से कराहती हुई एक प्रसूता को ट्रॉली नहीं मिली, जबकि ट्रॉली एसकेएमसीएच के गेट पर ही रखी हुई है। ट्रॉली मैन के नहीं होने पर मरीज के परिजन उसे कंधे का सहारा देकर डॉक्टर के पास ले जा रहे हैं। एसकेएमसीएच में मरीजों के लिए ट्रॉली की सुविधा निशुल्क है, लेकिन कई मरीजों को इसकी सुविधा नहीं मिल पा रही है। अस्पताल के गेट पर रखी हुई ट्राली प्रसूता के किसी काम नहीं आई। जिसका वीडियो सोशल मीडिया पर दो दिनों से वायरल हो रहा है। वीडियो को लेकर विभाग में होगी जांच पिछले दो दिन से सोशल मीडिया ग्रुप पर एक वीडियो वायरल हो रहा है। जिसमें प्रसव पीड़ा से कराहती हुई कांटी की एक प्रसूता आती है। परिजन उसे डॉक्टर के पास ले जाने के लिए ट्रॉली देखती है। ट्रॉली एमसीएच गेट के पास रखी हुई है, लेकिन, ट्रॉली मैन नहीं हैं। काफी ढूंढ़ने पर भी ट्रॉली मैन कहीं नहीं मिलते हैं। जिसके बाद परिजन प्रसूता को सहारा देकर डॉक्टर के पास ले गए, लेकिन दर्द इतना था कि हर दो कदम बाद वह बैठ जा रही थी। परिजन किसी तरह मरीज को दूसरी तल पर डॉक्टर के पास ले गए। हालांकि, वायरल वीडियो कब की है, इसकी पुष्टि नहीं हो पाई है। एसकेएमसीएच अधीक्षक प्रो. डॉ. कुमारी बिभा ने बताया कि वायरल वीडियो उनके पास नहीं पहुंची है। एमसीएच विभागाध्यक्ष और प्रबंधक से इसकी जानकारी ली जाएगी।",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-02-20 02:08:04",
-            "pubDateTZ": "UTC",
-            "image_url": "https://images.bhaskarassets.com/thumb/1000x1000/web2images/521/2025/02/19/videocapture20250219-230300_1739986436.jpg",
-            "source_id": "bhaskar_hindi",
-            "source_priority": 34179,
-            "source_name": "Bhaskar",
-            "source_url": "https://www.bhaskar.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/bhaskar_hindi.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top",
-                "tourism"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "d20b0d616d9c0e323faa90a413bb2f20",
-            "title": "लखनऊ: देर रात प्रॉपर्टी डीलर की गोली मारकर हत्या, बाइक पर सवार होकर आए थे हत्यारे; मौके से निकले भाग",
-            "link": "https://www.amarujala.com/lucknow/lucknow-property-dealer-shot-dead-late-night-killers-came-riding-on-a-bike-run-away-from-the-scene-2025-02-20",
-            "keywords": null,
-            "creator": [
-                "अमर उजाला, सिटी रिपोर्टर, लखनऊ"
-            ],
-            "video_url": null,
-            "description": "Murder of property dealer: लखनऊ में बुधवार की देर रात एक प्रॉपर्टी डीलर की गोली मारकर हत्या कर दी गई। हत्यारे माइक से सवार होकर आए थे। पुलिस मामले की जांच कर रही है।",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-02-20 02:08:02",
-            "pubDateTZ": "UTC",
-            "image_url": null,
-            "source_id": "amarujala",
-            "source_priority": 55215,
-            "source_name": "Amar Ujala",
-            "source_url": "https://www.amarujala.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/amarujala.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "b39a2fb55ce1b3e52418b5eb2878ae6b",
-            "title": "Belal Muhammad Claims Dana White’s Treatment Changed After Seeing His Star Potential",
-            "link": "https://thesportsrush.com/ufc-news-belal-muhammad-claims-dana-whites-treatment-changed-after-seeing-his-star-potential/",
-            "keywords": [
-                "dana white",
-                "belal muhammad",
-                "ufc"
-            ],
-            "creator": [
-                "Allan Binoy"
-            ],
-            "video_url": null,
-            "description": "Belal Muhammad believes that his title fight win at UFC 304 was the defining moment that propelled him into stardom, even changing how UFC President Dana White viewed him. After he dominated former champion Leon Edwards, White walked into the octagon to put the title on his waist. The video amassed some serious engagement in...The post Belal Muhammad Claims Dana White’s Treatment Changed After Seeing His Star Potential appeared first on The SportsRush.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-02-20 02:07:59",
-            "pubDateTZ": "UTC",
-            "image_url": "https://cdn-wp.thesportsrush.com/2025/02/65785016-untitled-design-2025-02-20t073634.367.jpg?format=auto&q=75&w=3840",
-            "source_id": "thesportsrush",
-            "source_priority": 96305,
-            "source_name": "The Sportsrush",
-            "source_url": "https://thesportsrush.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/thesportsrush.jpg",
-            "language": "english",
-            "country": [
-                "india",
-                "australia",
-                "united states of america",
-                "united kingdom"
-            ],
-            "category": [
-                "sports"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "970fb5f5c5221e2260163a848c1ac726",
-            "title": "GIS समापन पर अमित शाह देंगे एमपी को सौगात:सांची की होगी नेशनल ब्रांडिंग, एनडीडीबी के साथ होगा एमओयू, एमडी को ट्रेनिंग में भेजा",
-            "link": "https://www.bhaskar.com/local/mp/bhopal/news/amit-shah-will-give-a-gift-to-mp-on-the-completion-of-gis-134507377.html",
-            "keywords": null,
-            "creator": null,
-            "video_url": null,
-            "description": "ग्लोबल इन्वेस्टर्स समिट के समापन कार्यक्रम में मुख्य अतिथि के रूप में शामिल होने भोपाल आ रहे केंद्रीय सहकारिता मंत्री अमित शाह एमपी को दूध संकलन के लिए बड़ी सौगात देंगे। समिट के दौरान ही मध्यप्रदेश सरकार का एनडीडीबी (नेशनल डेयरी डेवलपमेंट बोर्ड) के साथ एमओयू किया जाएगा और इसके माध्यम से सांची दूध की नेशनल लेवल पर ब्रांडिंग की जाएगी। सरकार ने साफ किया है कि सांची ब्रांड के नाम में कोई बदलाव नहीं होगा। उधर एमपी स्टेट कोआपरेटिव डेयरी फेडरेशन के एमडी को इस एमओयू के पहले ट्रेनिंग पर भेज दिया गया है। कुशाभाऊ ठाकरे अंतर्राष्ट्रीय कन्वेंशन सेंटर में 25 फरवरी को एमपी स्टेट कोऑपरेटिव डेयरी फेडरेशन लिमिटेड एवं संबद्ध दुग्ध संघों और राष्ट्रीय डेयरी विकास बोर्ड के मध्य सहकार्यता अनुबंध (कोलेबोरेशन एग्रीमेंट) किया जाएगा। मुख्यमंत्री डॉ. मोहन यादव ने इसको लेकर कहा कि राज्य सरकार ने प्रदेश के दुग्ध उत्पादकों की आय दोगुनी करने और दुग्ध उत्पादन को बढ़ावा देने के लिए यह फैसला किया है। कैबिनेट द्वारा एमपी स्टेट को-ऑपरेटिव डेयरी फेडरेशन लिमिटेड और संबद्ध दुग्ध संघों और राष्ट्रीय डेयरी विकास बोर्ड (NDDB) के मध्य होने वाले सहकारिता अनुबंध (कोलेबोरेशन एग्रीमेंट) पर पहले ही सहमति दे दी गयी है। इस अनुबंध की अवधि 5 साल होगी, जिसका आपसी सहमति से विस्तार किया जा सकेगा। एग्रीमेंट के बाद यह काम किए जाएंगे बीजेपी के संकल्प पत्र पर भी होगा अमल बीजेपी ने अपने संकल्प पत्र में प्रदेश में दूध खरीदी तय करने और किसानों को दूध के सही दाम दिलाने का वायदा किया है, जिसे राज्य सरकार ने अपनी प्राथमिकता में लिया है। इस एमओयू के माध्यम से संकल्प पत्र-2023 पर भी अमल किया जाएगा। इसके लिए हर ग्राम पंचायत में डेयरी सहकारी समिति एवं कलेक्शन सेंटर खोले जाने हैं। श्वेत क्रांति मिशन के अंतर्गत ढाई हजार करोड़ के निवेश से हर जिले में सांची डेयरी के साथ मिल्क कूलर, मिनी डेयरी प्लांट एवं चीलिंग सेंटर की संख्या में वृद्धि की जाएगी। यह राज्य के पशुपालन एवं डेयरी विभाग के अंतर्गत सहकारी प्रणाली और सांची ब्राण्ड को मजबूत करेगा। सीएम बोले, सांची ब्रांड होगा और मजबूत मुख्यमंत्री डॉ. यादव ने कहा कि राष्ट्रीय डेयरी विकास बोर्ड द्वारा प्रदेश के सांची ब्रांड को और मजबूत किया जाएगा। इसका व्यापक प्रचार-प्रसार किया जाकर राष्ट्रीय स्तर पर स्थापित किया जायेगा। ब्रांड के नाम में कोई परिवर्तन नहीं किया जाएगा। दुग्ध संघ के प्रबंधन एवं संचालन के लिए प्रबंधन शुल्क और नवीन प्रसंस्करण एवं अधोसंरचनाओं के विकास के लिए भी कोई परामर्श शुल्क नहीं लिया जाएगा। आवश्यकता अनुसार तकनीकी एवं प्रबंधन विशेषज्ञों को अपने पैरोल पर दुग्ध संघ में पदस्थ किया जाएगा तथा कार्यरत अमले का हित संरक्षण भी किया जाएगा। दुग्ध सहकारी समितियां से संबद्ध डेयरी किसानों की शिकायतों के निराकरण के लिए शिकायत निवारण प्रणाली भी विकसित की जाएगी। एमडी डेयरी फेडरेशन को ट्रेनिंग के लिए किया रिलीव उधर, राज्य सरकार ने इस एमओयू के पहले एमपी स्टेट कोआपरेटिव डेयरी फेडरेशन लिमिटेड के एमडी और पशुपालन व डेयरी विभाग के सचिव सतेंद्र सिंह को 17 फरवरी से 28 मार्च तक लाल बहादुर शास्त्री राष्ट्रीय प्रशासन अकादमी मसूरी में आयोजित इंडक्शन ट्रेनिंग के लिए रिलीव कर दिया है। इनका चार्ज मत्स्य महासंघ की एमडी निधि निवेदिता को सौंपा गया है। सतेंद्र सिंह के अलावा संचालक विमुक्त घुमंतु और अर्ध घुमंतु जनजाति विभाग के संचालक नीरज कुमार वशिष्ठ, एमडी पाठ्यपुस्तक निगम विनय निगम, उपसचिव मछुआ कल्याण व मत्स्य विभाग प्रताप नारायण यादव तथा उपसचिव संस्कृति विभाग जगदीश कुमार गोमे को भी मसूरी में ट्रेनिंग के लिए रिलीव कर दिया गया है।",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-02-20 02:07:56",
-            "pubDateTZ": "UTC",
-            "image_url": "https://images.bhaskarassets.com/thumb/1000x1000/web2images/521/2025/02/19/_1739973994.jpg",
-            "source_id": "bhaskar_hindi",
-            "source_priority": 34179,
-            "source_name": "Bhaskar",
-            "source_url": "https://www.bhaskar.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/bhaskar_hindi.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "domestic",
-                "other"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "7c783cfd8462feaa781af4d591a0ec00",
-            "title": "50 lakh people from Nepal take holy bath",
-            "link": "https://www.thehansindia.com/news/national/50-lakh-people-from-nepal-take-holy-bath-947291",
-            "keywords": [
-                "national,news"
-            ],
-            "creator": [
-                "The Hans India"
-            ],
-            "video_url": null,
-            "description": "Holy rice and other items specially brought from Lord Ram’s in-laws’ place for Bade Hanuman JiUnique faith among the people of Nepal towards Bade Hanuman Temple and Akshay Vat",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-02-20 02:07:52",
-            "pubDateTZ": "UTC",
-            "image_url": "https://assets.thehansindia.com/h-upload/2025/02/20/1525767-maha-kumbh-2025.webp",
-            "source_id": "thehansindia",
-            "source_priority": 41360,
-            "source_name": "The Hans India",
-            "source_url": "http://www.thehansindia.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/thehansindia.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "4de2c11e2045a9742c63e4a177c0f079",
-            "title": "Bihar Politics: RJD पर लटक रही टूट की तलवार! तेजस्वी ने जगदानंद सिंह का परिवार मनाया तो नवादा में खेला हो गया",
-            "link": "https://zeenews.india.com/hindi/india/bihar-jharkhand/nawada/rjd-is-facing-internal-conflict-when-tejashwi-yadav-set-jagdanand-singh-family-two-mlas-angry-in-nawada/2653276",
-            "keywords": null,
-            "creator": [
-                "Zee News Hindi"
-            ],
-            "video_url": null,
-            "description": "RJD Poster In Nawada: नवादा में तेजस्वी यादव के संवाद कार्यक्रम से पहले लगे पोस्टरों में दो विधायकों की तस्वीरें गायब कर दी गई हैं. जिलाध्यक्ष उदय यादव ने कहा कि दोनों विधायको ने लोकसभा चुनाव में भी इन्होंने गड़बड़ी की थी, इसलिए उनकी तस्वीरें हटाई गई हैं.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-02-20 02:07:47",
-            "pubDateTZ": "UTC",
-            "image_url": "https://hindi.cdn.zeenews.com/hindi/sites/default/files/2025/02/20/3697880-nawada-rjd.jpg?im=FitAndFill%3D%281200%2C900%29",
-            "source_id": "zeenews",
-            "source_priority": 5319,
-            "source_name": "Zee News",
-            "source_url": "http://zeenews.india.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/zeenews.png",
             "language": "hindi",
             "country": [
                 "india"
