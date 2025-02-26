@@ -1,6 +1,652 @@
 {
     "articles": [
         {
+            "article_id": "76929b00bef483c80741575e035ac8c8",
+            "title": "Chandigarh’s NINE hosts annual fete to support underprivileged patients",
+            "link": "https://timesofindia.indiatimes.com/city/chandigarh/chandigarhs-nine-hosts-annual-fete-to-support-underprivileged-patients/articleshow/118565650.cms",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-02-25 19:09:00",
+            "pubDateTZ": "UTC",
+            "image_url": "https://static.toiimg.com/thumb/msid-118565698,width-1070,height-580,imgsize-44230,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "source_id": "toi",
+            "source_priority": 239,
+            "source_name": "The Times Of India",
+            "source_url": "https://timesofindia.indiatimes.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/toi.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "world"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "14b08c6c7812e0574286293be0792997",
+            "title": "Prajakta Koli Marries Beau Vrishank Khanal In A Fairytale Ceremony, See FIRST Dreamy Pic",
+            "link": "https://zeenews.india.com/people/prajakta-koli-marries-beau-vrishank-khanal-in-a-fairytale-ceremony-see-first-dreamy-pic-2864280.html",
+            "keywords": null,
+            "creator": [
+                "Zee News"
+            ],
+            "video_url": null,
+            "description": "Prajakta Koli who is recently seen in 'Mismatched season 3', marries longtime boyfriend Vrishank Khanal in a dreamy wedding in Karjat.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-02-25 19:09:00",
+            "pubDateTZ": "UTC",
+            "image_url": "https://english.cdn.zeenews.com/sites/default/files/styles/zm_700x400/public/2025/02/25/1680926-jh234-9.png?im=Resize%3D%28400%29",
+            "source_id": "zeenews",
+            "source_priority": 5319,
+            "source_name": "Zee News",
+            "source_url": "http://zeenews.india.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/zeenews.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "entertainment"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "d3ec343a9dd50d136b467c40179a1b07",
+            "title": "White House says it 'will decide' which news outlets cover Trump, rotating some traditional ones",
+            "link": "https://www.hindustantimes.com/world-news/us-news/white-house-says-it-will-decide-which-news-outlets-cover-trump-rotating-some-traditional-ones-101740510538766.html",
+            "keywords": [
+                "world-news"
+            ],
+            "creator": null,
+            "video_url": null,
+            "description": "White House says it 'will decide' which news outlets cover Trump, rotating some traditional ones",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-02-25 19:08:58",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.hindustantimes.com/ht-img/img/2024/12/18/1600x900/World_3_1734523201355_1734523249781.jpg",
+            "source_id": "hindustantimes",
+            "source_priority": 933,
+            "source_name": "Hindustan Times",
+            "source_url": "http://www.hindustantimes.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/hindustantimes.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "world"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": true
+        },
+        {
+            "article_id": "9c8ece1daec2dab29135ddb730467319",
+            "title": "PCMC chief eyes infra push via new projects, vows pollution checks",
+            "link": "https://timesofindia.indiatimes.com/city/pune/pcmc-chief-eyes-infra-push-via-new-projects-vows-pollution-checks/articleshow/118565697.cms",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-02-25 19:08:56",
+            "pubDateTZ": "UTC",
+            "image_url": "https://static.toiimg.com/thumb/msid-118565694,width-1070,height-580,imgsize-44254,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "source_id": "toi",
+            "source_priority": 239,
+            "source_name": "The Times Of India",
+            "source_url": "https://timesofindia.indiatimes.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/toi.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "health"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "e0d2295806569ddc12a538bdc2434e39",
+            "title": "Dr Farooq, Mehbooba Mufti, Altaf Bukhari, Tarigami greet people on Mahashivratri",
+            "link": "https://www.greaterkashmir.com/gk-top-news/dr-farooq-mehbooba-mufti-altaf-bukhari-tarigami-greet-people-on-mahashivratri/",
+            "keywords": [
+                "gk top news",
+                "page 2",
+                "kashmir",
+                "today's paper"
+            ],
+            "creator": [
+                "",
+                "GK NEWS SERVICE"
+            ],
+            "video_url": null,
+            "description": "In his message, Dr Farooq Abdullah expressed hope that the festival would be celebrated in the true spirit of Jammu and Kashmir's composite culture, strengthening the bonds of amity and brotherhood between various communitiesThe post Dr Farooq, Mehbooba Mufti, Altaf Bukhari, Tarigami greet people on Mahashivratri appeared first on Greater Kashmir.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-02-25 19:08:56",
+            "pubDateTZ": "UTC",
+            "image_url": "https://greaterkashmir.imagibyte.sortdcdn.net/wp-content/uploads/2023/08/greetings.jpg",
+            "source_id": "greaterkashmir",
+            "source_priority": 101259,
+            "source_name": "Greater Kashmir",
+            "source_url": "https://www.greaterkashmir.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/greaterkashmir.jpg",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "40900947b6bc6804fe2d159283a49724",
+            "title": "Shifting Solutions: Bus Stops Clear Of Main Junctions",
+            "link": "https://timesofindia.indiatimes.com/city/pune/shifting-solutions-bus-stops-clear-of-main-junctions/articleshow/118565645.cms",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-02-25 19:08:52",
+            "pubDateTZ": "UTC",
+            "image_url": "https://static.toiimg.com/thumb/msid-118565689,width-1070,height-580,imgsize-105816,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "source_id": "toi",
+            "source_priority": 239,
+            "source_name": "The Times Of India",
+            "source_url": "https://timesofindia.indiatimes.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/toi.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "health"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "4ceb9d76a258b27ac393bade5ee268ac",
+            "title": "Man misses cut & drives on wrong side of DME, cops slap 7k fine, lodge FIR",
+            "link": "https://timesofindia.indiatimes.com/city/noida/man-misses-cut-drives-on-wrong-side-of-dme-cops-slap-7k-fine-lodge-fir/articleshow/118565690.cms",
+            "keywords": null,
+            "creator": [
+                "Avishek Kumar"
+            ],
+            "video_url": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-02-25 19:08:50",
+            "pubDateTZ": "UTC",
+            "image_url": "https://static.toiimg.com/thumb/msid-118565686,width-1070,height-580,imgsize-75330,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "source_id": "toi",
+            "source_priority": 239,
+            "source_name": "The Times Of India",
+            "source_url": "https://timesofindia.indiatimes.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/toi.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "afcf3d331c8767ee25a08f7a3e085350",
+            "title": "Student pushed into drug peddling by dad",
+            "link": "https://timesofindia.indiatimes.com/city/jaipur/student-pushed-into-drug-peddling-by-dad/articleshow/118565684.cms",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-02-25 19:08:45",
+            "pubDateTZ": "UTC",
+            "image_url": "https://static.toiimg.com/thumb/msid-117622050,imgsize-381677,width-400,height-225,resizemode-72/117622050.jpg",
+            "source_id": "toi",
+            "source_priority": 239,
+            "source_name": "The Times Of India",
+            "source_url": "https://timesofindia.indiatimes.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/toi.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "3f9a33ba6218966ef4a0079fb22b9af1",
+            "title": "6 suspended Congress MLAs barred from entering House, party protests",
+            "link": "https://timesofindia.indiatimes.com/city/jaipur/6-suspended-congress-mlas-barred-from-entering-house-party-protests/articleshow/118565683.cms",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-02-25 19:08:44",
+            "pubDateTZ": "UTC",
+            "image_url": "https://static.toiimg.com/thumb/msid-118565681,width-1070,height-580,imgsize-81950,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "source_id": "toi",
+            "source_priority": 239,
+            "source_name": "The Times Of India",
+            "source_url": "https://timesofindia.indiatimes.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/toi.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "59ab4dcef83273c25506d577cfba729e",
+            "title": "CBI busts scam of ‘DRDO recruitment’ in Jaipur, Del",
+            "link": "https://timesofindia.indiatimes.com/city/jaipur/cbi-busts-scam-of-drdo-recruitment-in-jaipur-del/articleshow/118565680.cms",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-02-25 19:08:42",
+            "pubDateTZ": "UTC",
+            "image_url": "https://static.toiimg.com/thumb/msid-118565679,imgsize-50496,width-400,height-225,resizemode-72/118565679.jpg",
+            "source_id": "toi",
+            "source_priority": 239,
+            "source_name": "The Times Of India",
+            "source_url": "https://timesofindia.indiatimes.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/toi.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "6d257e4af2e5e69e6eb8319e92a09aef",
+            "title": "Cognizant CEO Ravi Kumar S: What I did in the past is my past... I am accountable for ...",
+            "link": "https://timesofindia.indiatimes.com/technology/tech-news/cognizant-ceo-ravi-kumar-s-what-i-did-in-the-past-is-my-past-i-am-accountable-for/articleshow/118565671.cms",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "Cognizant CEO Ravi Kumar S aims to focus on the company's progress amid a legal dispute with Infosys. He underscores milestones such as enhanced AI integration, steady growth, and significant deals. Although facing macroeconomic challenges, Kumar remains optimistic about AI's potential to create new business opportunities.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-02-25 19:08:42",
+            "pubDateTZ": "UTC",
+            "image_url": "https://static.toiimg.com/thumb/msid-118565663,imgsize-61404,width-400,resizemode-4/118565663.jpg",
+            "source_id": "toi",
+            "source_priority": 239,
+            "source_name": "The Times Of India",
+            "source_url": "https://timesofindia.indiatimes.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/toi.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "6f165f3e4f53aaa3dab4ff4dca488d59",
+            "title": "Hospitals, patients see anxious moments as internet blinks off",
+            "link": "https://timesofindia.indiatimes.com/city/goa/hospitals-patients-see-anxious-moments-as-internet-blinks-off/articleshow/118565678.cms",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "An internet outage in Goa disrupted hospital operations, delaying access to patient records and diagnostic results. Both private and government facilities faced challenges, impacting diagnostics and insurance claims. Many healthcare providers resorted to manual record-keeping and mobile hotspots as a workaround.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-02-25 19:08:41",
+            "pubDateTZ": "UTC",
+            "image_url": "https://static.toiimg.com/thumb/msid-118565678,imgsize-149914,width-400,height-225,resizemode-72/118565678.jpg",
+            "source_id": "toi",
+            "source_priority": 239,
+            "source_name": "The Times Of India",
+            "source_url": "https://timesofindia.indiatimes.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/toi.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "8df96daa8993d0f00794de84c9cb5575",
+            "title": "Insurance agent arrested for cheating woman of 49L",
+            "link": "https://timesofindia.indiatimes.com/city/chennai/insurance-agent-arrested-for-cheating-woman-of-49l/articleshow/118565676.cms",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-02-25 19:08:37",
+            "pubDateTZ": "UTC",
+            "image_url": "https://static.toiimg.com/thumb/msid-117517372,imgsize-231270,width-400,height-225,resizemode-72/117517372.jpg",
+            "source_id": "toi",
+            "source_priority": 239,
+            "source_name": "The Times Of India",
+            "source_url": "https://timesofindia.indiatimes.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/toi.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "politics",
+                "education"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "8801c69540a6fa7ffdf90c8c7b2797f5",
+            "title": "A week after wedding dance with rifles, couple faces FIR",
+            "link": "https://timesofindia.indiatimes.com/city/noida/a-week-after-wedding-dance-with-rifles-couple-faces-fir/articleshow/118565675.cms",
+            "keywords": null,
+            "creator": [
+                "Avishek Kumar"
+            ],
+            "video_url": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-02-25 19:08:35",
+            "pubDateTZ": "UTC",
+            "image_url": "https://static.toiimg.com/thumb/msid-118565674,width-1070,height-580,imgsize-84526,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "source_id": "toi",
+            "source_priority": 239,
+            "source_name": "The Times Of India",
+            "source_url": "https://timesofindia.indiatimes.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/toi.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "b8decfcb7753c5309d57e73e1c01dd5f",
+            "title": "Gurgaon hit & run: Couple living in gurdwara with 3 children for 10 years",
+            "link": "https://timesofindia.indiatimes.com/city/gurgaon/gurgaon-hit-run-couple-living-in-gurdwara-with-3-children-for-10-years/articleshow/118565672.cms",
+            "keywords": null,
+            "creator": [
+                "Mahesh Buddi"
+            ],
+            "video_url": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-02-25 19:08:34",
+            "pubDateTZ": "UTC",
+            "image_url": "https://static.toiimg.com/thumb/msid-117516401,width-1070,height-580,imgsize-207033,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "source_id": "toi",
+            "source_priority": 239,
+            "source_name": "The Times Of India",
+            "source_url": "https://timesofindia.indiatimes.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/toi.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "business"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "ec0957ca90299de3ae568e56d07b63c6",
+            "title": "Trichy airport surpasses pre-Covid international traffic levels with record-breaking January 2025.",
+            "link": "https://timesofindia.indiatimes.com/city/chennai/trichy-airport-surpasses-pre-covid-international-traffic-levels-with-record-breaking-january-2025-/articleshow/118565673.cms",
+            "keywords": null,
+            "creator": [
+                "Deepak Karthik"
+            ],
+            "video_url": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-02-25 19:08:34",
+            "pubDateTZ": "UTC",
+            "image_url": "https://static.toiimg.com/thumb/msid-117517394,imgsize-235489,width-400,height-225,resizemode-72/117517394.jpg",
+            "source_id": "toi",
+            "source_priority": 239,
+            "source_name": "The Times Of India",
+            "source_url": "https://timesofindia.indiatimes.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/toi.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "politics",
+                "education"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "4b4a7f95c0bc112a53113fef7a6069ec",
+            "title": "U-turn flyover at Tidel Park junction on OMR opened",
+            "link": "https://www.thehindu.com/news/cities/chennai/u-turn-flyover-at-tidel-park-junction-on-omr-opened/article69262981.ece",
+            "keywords": [
+                "chennai"
+            ],
+            "creator": null,
+            "video_url": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-02-25 19:08:34",
+            "pubDateTZ": "UTC",
+            "image_url": "https://th-i.thgim.com/public/news/cities/chennai/adzc9v/article69263830.ece/alternates/LANDSCAPE_1200/PH%20-%201.jpg",
+            "source_id": "thehindu",
+            "source_priority": 2972,
+            "source_name": "The Hindu",
+            "source_url": "https://www.thehindu.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/thehindu.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "0ddc90b231d7d114b8decb7cc14dc05a",
+            "title": "HC junks review officers’ list of seniority, promotion order",
+            "link": "https://timesofindia.indiatimes.com/city/lucknow/hc-junks-review-officers-list-of-seniority-promotion-order/articleshow/118565637.cms",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-02-25 19:08:31",
+            "pubDateTZ": "UTC",
+            "image_url": "https://static.toiimg.com/thumb/msid-117515974,imgsize-364726,width-400,height-225,resizemode-72/117515974.jpg",
+            "source_id": "toi",
+            "source_priority": 239,
+            "source_name": "The Times Of India",
+            "source_url": "https://timesofindia.indiatimes.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/toi.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "e06cf40039304ad805446be38112a4f2",
+            "title": "Want Better Diagnostics and Treatments in Medicine? Here's How Technology is Changing the Game - HealthTechZone",
+            "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNbUlHLXh3emlnRzc1ejEzOFNvd255U21YTGdDZjliWXUweDF6OGJBanJZQkN5SVJFSjVQYy02RkREZExNajluY1NhZmRSekh3MVJfdnFMbWdPYTE5OXlzNXhMNUl6ZWJ3eFhFY1hNYWh5X3ZzUV9OX2RCcjdVMGptMkFSZE50U1owZGRENDFvT3NLcVJOa0dlSjR2ODdaWlM4cFpZbXNkT3VUazhXMUpndkh5YUwyX3hmU2ZsZHRWMHRBVXY3NkpYVEJhWmJkV0lvalpOMHpCZWFWZmhj?oc=5",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "Want Better Diagnostics and Treatments in Medicine? Here's How Technology is Changing the Game HealthTechZoneFrom facility to home: A prescription for change The Financial Express5 tips to determine how tech can support your physicians American Medical AssociationWhat’s New in Medtech? 5 Prototypes Bolster Rehab, Diagnosis, and More All About CircuitsThree Rapidly Evolving Technologies in Diagnostic Medicine Fierce healthcare",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-02-25 19:08:23",
+            "pubDateTZ": "UTC",
+            "image_url": null,
+            "source_id": "google",
+            "source_priority": 14,
+            "source_name": "Google News",
+            "source_url": "https://news.google.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/google.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "health"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "22ad50f8415a49de0b5c78c27034fbd5",
+            "title": "TPDK cadre planning to hurl petrol bomb at Seeman’s house held",
+            "link": "https://www.thehindu.com/news/cities/chennai/tpdk-cadre-planning-to-hurl-petrol-bomb-at-seemans-house-held/article69261994.ece",
+            "keywords": [
+                "chennai"
+            ],
+            "creator": null,
+            "video_url": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-02-25 19:08:22",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+            "source_id": "thehindu",
+            "source_priority": 2972,
+            "source_name": "The Hindu",
+            "source_url": "https://www.thehindu.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/thehindu.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
             "article_id": "45801a50e851dec9b8214030da46fc5d",
             "title": "इस पौधे की पत्तियों में जादू...सर्दी, जुकाम और डायबिटीज हो जाएंगे छूमंतर",
             "link": "https://hindi.news18.com/photogallery/lifestyle/health-celery-plant-is-cure-for-cold-cough-fever-and-diabetes-local18-9059519.html",
@@ -22922,667 +23568,6 @@
             "source_url": "http://www.ndtv.com",
             "source_icon": "https://i.bytvi.com/domain_icons/ndtv.png",
             "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "7174b5c43e9d8b2c30ffda0f7dbf724a",
-            "title": "VIDEO: स्विमिंग पूल में संगम स्नान! नोएडा के स्विमिंग पूल में डाला महाकुंभ का जल, डुबकी लगाने पहुंची भीड़",
-            "link": "https://hindi.latestly.com/india/sangam-bath-in-swimming-pool-water-of-maha-kumbh-poured-into-swimming-pool-in-noida-crowd-gathered-to-take-a-dip-2512236.html",
-            "keywords": null,
-            "creator": null,
-            "video_url": null,
-            "description": "सोसाइटी के कुछ लोग महाकुंभ मेले में शामिल होने के लिए प्रयागराज गए थे. वहां से लौटते समय वे संगम का पवित्र जल अपने साथ लेकर आए और उसे सोसाइटी के स्विमिंग पूल में डाल दिया.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-02-24 07:06:54",
-            "pubDateTZ": "UTC",
-            "image_url": "https://hist1.latestly.com/wp-content/uploads/2025/02/Untitled-design-3-68-29-29-7-380x214.jpg",
-            "source_id": "latestly",
-            "source_priority": 31923,
-            "source_name": "Latestly",
-            "source_url": "https://www.latestly.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/latestly.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "3092a07e850e54fb5db1ca09b2c1d46e",
-            "title": "Bangladesh vs New Zealand Live Score, ICC Champions Trophy 2025: BAN eye comeback win, NZ one step closer to semis - Hindustan Times",
-            "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOa0xzMm41Z3lFMloyNUxzQ1hGUkFvZUt0SW5aYXJwMXY1Z2V2ZUZldGEzdkNMOUVKRlphR1BTYVliMnViUFJjbUtXNkU2LWJYNUxrVm42bFhrU01fSTBWcS1kMWh1ZDBUUlU0YlR4TWFabjUzYUNtWFpWNjBBT2JIOEZ2WVp3cHU1RkZ0aFdmVy0yMW0tUjZKWERWZVFZOFppWTl6bUd4aTFIUFB6WWFCam1XekdpNmRWdGc2Z3N0ZUhlQmRhY0gzSXpSWVZVZ09UdkJfbWpxeTNoN1NyV3I2VS1wVE5tNFVUUklmWVJwbVhwUlJRWHJ3TG9JaTR6TGIxY2VJ0gGIAkFVX3lxTE1yVVVHN1U4QjF2R3BlcXZKdUJya2N0Qk1leElfMVczMlo0OFlNLW10VE14NU9kSFhrZDkyV002X25xdWdBQ0thbEkxZFd6VUV3QWNScEFjT0wyX09XV3FnaTlYdDRxMjNMZ3J6ZjllV3laMkhtRGlJMjZic0h0VTZEZXoxTDBsckMzRVhBYUhqMlJlNmlpYXV0dmduZnRkaDRobUlRX2Ywc0ZLQTJBRDJ5QUhObUZwLW1fYmZSV1kyNXplRmEzQmVOLTNCcVMzZ240UHNPM2otQVJYYURySXNPQ1E4MDFvTEpQZ1l5cGhuUWpVeC13NXVLWEQ0V2huVmZvdDg1SWcxaA?oc=5",
-            "keywords": null,
-            "creator": null,
-            "video_url": null,
-            "description": "Bangladesh vs New Zealand Live Score, ICC Champions Trophy 2025: BAN eye comeback win, NZ one step closer to semis Hindustan TimesNew Zealand vs Bangladesh LIVE Cricket Score, Champions Trophy 2025: Will BAN be able to beat NZ? The Indian ExpressLive - New Zealand look to finalise semi-final spot; must-win for Bangladesh ESPNcricinfoExplained: Why New Zealand's Win Over Bangladesh Will Knock Pakistan Out Of Champions Trophy 2025 News18LIVE: New Zealand take on Bangladesh in a crucial Group A encounter in Rawalpindi ICC Cricket",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-02-24 07:06:54",
-            "pubDateTZ": "UTC",
-            "image_url": null,
-            "source_id": "google",
-            "source_priority": 14,
-            "source_name": "Google News",
-            "source_url": "https://news.google.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/google.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "sports"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "4bed77e4b16994ea95317d4efc5e3f75",
-            "title": "Bangladesh students who led anti-Hasina protests, set to float political party",
-            "link": "https://www.hindustantimes.com/world-news/bangladeshi-students-to-launch-new-political-party-following-sheikh-hasinas-ouster-101740377952914.html",
-            "keywords": [
-                "world-news"
-            ],
-            "creator": null,
-            "video_url": null,
-            "description": "Hasina was forced to leave to India as the demonstrations, which started as a student-led campaign against public sector employment quotas grew larger",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-02-24 07:06:51",
-            "pubDateTZ": "UTC",
-            "image_url": "https://www.hindustantimes.com/ht-img/img/2025/02/24/1600x900/PTI01-07-2024-000037A-0_1704607311244_1740378248452.jpg",
-            "source_id": "hindustantimes",
-            "source_priority": 933,
-            "source_name": "Hindustan Times",
-            "source_url": "http://www.hindustantimes.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/hindustantimes.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "world"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "a60e4cfa86b165539966147d578678a7",
-            "title": "Maha Shivratri 2025 Rangoli: महाशिवरात्रि पर बनाएं ये आसान और क्रिएटिव शिवलिंग रंगोली, देखें वीडियो",
-            "link": "https://hindi.latestly.com/lifestyle/festivals-events/maha-shivratri-2025-rangoli-make-this-easy-and-creative-shivling-rangoli-on-mahashivratri-watch-video-2512174.html",
-            "keywords": null,
-            "creator": null,
-            "video_url": null,
-            "description": "भारत में महाशिवरात्रि की तिथि बुधवार 26 फरवरी, 2025 है. महाशिवरात्रि भगवान शिव को समर्पित सबसे महत्वपूर्ण हिंदू त्योहारों में से एक है. भक्तों के संदर्भ के लिए महाशिवरात्रि की तिथि और समय नीचे दिया गया है. महाशिवरात्रि पर भारत और दुनिया भर के भक्त दिव्य आशीर्वाद पाने के लिए उपवास, रात्रि जागरण और शिव पूजा करते हैं...",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-02-24 07:06:43",
-            "pubDateTZ": "UTC",
-            "image_url": "https://hist1.latestly.com/wp-content/uploads/2025/02/07-244-380x214.jpg",
-            "source_id": "latestly",
-            "source_priority": 31923,
-            "source_name": "Latestly",
-            "source_url": "https://www.latestly.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/latestly.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "entertainment"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "f69ffc47c89e338d6e610fa0f8a29709",
-            "title": "Apple Intelligence Coming To India With iOS 18.4 Beta: Check What’s New",
-            "link": "https://in.mashable.com/tech/90187/apple-intelligence-coming-to-india-with-ios-184-beta-check-whats-new",
-            "keywords": [
-                "tech",
-                "apple",
-                "post",
-                "ios"
-            ],
-            "creator": [
-                "Priya Singh"
-            ],
-            "video_url": null,
-            "description": "The new Priority Notifications analyze iPhone notifications using AI.Apple's iOS 18.4 beta introduces expanded Apple Intelligence with English (India) support and new features like \"Priority Notifications.\"",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-02-24 07:06:40",
-            "pubDateTZ": "UTC",
-            "image_url": "https://sm.mashable.com/mashable_in/photo/default/untitled-design-2025-02-24t121532963_tu9x.jpg",
-            "source_id": "in_mashable",
-            "source_priority": 335,
-            "source_name": "In Mashable",
-            "source_url": "https://in.mashable.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/in_mashable.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "technology"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "44789efd02624c9ede9840d4bcc6e410",
-            "title": "Nifty Metal falls 1.6% after 5 straight sessions of rise; National Aluminium, SAIL, Vedanta among top... - Moneycontrol",
-            "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOUVZoTUgya0pDUW9jSUJacTZjLWd4bzRDenZHWWFYcFRNS19Nc29aV056MjlBN0N6M2JqY3pqVFNlbWJocWtCTnFIbjIxeS0zUFkzVzhabmVKcVhCRW1FQ0drMmVzeXdWUTZmT29GVUNsTHdKOWZyMUFMazkyWFpSVHhueWM4dW8wYU95Mzl2bVRvQlpPelY1MHJ2SWpZdWpBb2ctQlFzZFROclR5RlQzZ0lmQVdZQktmeHYxRjZQVkxabGhaUUhqOHc0NFV0QWtJYlZkVXV2ajN3andtZnB6N3dRNUxnQ2FpcEZqMlFNNXFYTmM5RkRKT2hGam82d9IBgwJBVV95cUxOUlV0VEZocmp5UWZSczd6YXNrYTl6b3E4MlU5dWJJazIzWURISUIwM3habnJ0ME5nQ3dMVkFsSzc4RHNMUzRZcFVMWGhidUVTQnRxYXJjN0Y1MlV0RWgxTEJBUlRLZUpMaEdtNE84QTh2RVVmWXFNbGFWeHVYdl9HSDkzb3FjUkN2ZmtjOUNGZDhlMngzZElrOUQtZ3ZKSVZiT2lJdF9WNXZROVlxMGR2ZU9vQW1UVTBhaV95TEtOYk9MV1dhTzBsNGFLbkdBNVMxeFJyRkJYSUg0UFJ6dm5JaFk1YVNDdHJTOVN1bTdNNzB3c1REU3EzSDg2VUFPX2swWjV3?oc=5",
-            "keywords": null,
-            "creator": null,
-            "video_url": null,
-            "description": "Nifty Metal falls 1.6% after 5 straight sessions of rise; National Aluminium, SAIL, Vedanta among top... MoneycontrolStock market crash - Sensex, Nifty in red. 5 things to know about stock market bloodbath India TodayStock market crash today: BSE Sensex tanks over 800 points; Nifty50 below 22,600 - top reasons bears are The Times of IndiaF&O Strategy: Buy Kaynes Technology, Amber Enterprises suggests Rupak De in a weak stock market today MintSensex, Nifty, SMIDs: Why the Indian stock market fell today? Key reasons Business Standard",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-02-24 07:06:29",
-            "pubDateTZ": "UTC",
-            "image_url": null,
-            "source_id": "google",
-            "source_priority": 14,
-            "source_name": "Google News",
-            "source_url": "https://news.google.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/google.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "business"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "bbbddc196d16cbeddb7083ef501a95e5",
-            "title": "Nifty Metal falls 1.6% after 5 straight sessions of rise; National Aluminium, SAIL, Vedanta among top losers",
-            "link": "https://www.moneycontrol.com/news/business/markets/nifty-metal-falls-1-6-after-5-straight-sessions-of-rise-national-aluminium-sail-vedanta-among-top-losers-12948646.html",
-            "keywords": [
-                "buzzing stocks, nifty metal"
-            ],
-            "creator": [
-                "Moneycontrol"
-            ],
-            "video_url": null,
-            "description": null,
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-02-24 07:06:29",
-            "pubDateTZ": "UTC",
-            "image_url": "https://images.moneycontrol.com/static-mcnews/2013/07/metals_300_23562335.jpg",
-            "source_id": "moneycontrol",
-            "source_priority": 1064,
-            "source_name": "Moneycontrol",
-            "source_url": "https://www.moneycontrol.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/moneycontrol.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top",
-                "business",
-                "world",
-                "politics"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "1af544a4f1d23b4a3b14e5f7d161fc91",
-            "title": "Echoes of Uttarakhand: Telangana rescuers race against time to find trapped workers",
-            "link": "https://www.deccanchronicle.com/southern-states/telangana/echoes-of-uttarakhand-telangana-rescuers-race-against-time-to-find-trapped-workers-1863131",
-            "keywords": [
-                "southern states,telangana,trending"
-            ],
-            "creator": [
-                "Hanmi Reddy"
-            ],
-            "video_url": null,
-            "description": "In 2023, 41 Indian workers were rescued after a marathon 17-day operation.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-02-24 07:06:29",
-            "pubDateTZ": "UTC",
-            "image_url": "https://www.deccanchronicle.com/h-upload/2025/02/24/1893520-24slbc2.jpg",
-            "source_id": "andhrabhoomi",
-            "source_priority": 4054772,
-            "source_name": "Andhrabhoomi",
-            "source_url": "http://www.andhrabhoomi.net",
-            "source_icon": null,
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "8b30968110b21d27474db759df9c6b34",
-            "title": "Mangal Lakshmi update: Mangal joins the ‘Startup Sultan’ contest with Kusum’s support!",
-            "link": "https://www.timesnownews.com/videos/entertainment/tv/serial-updates/mangal-lakshmi-update-mangal-joins-the-startup-sultan-contest-with-kusums-support-video-118525152",
-            "keywords": null,
-            "creator": [
-                "Times Now Digital"
-            ],
-            "video_url": null,
-            "description": "Mangal and Kusum arrive together to enroll in the 'Startup Sultan' contest. However, Mangal grows nervous upon seeing her competitors. She is taken aback when the producer informs her that only she can enter, leaving Kusum behind. Feeling uncertain, Mangal hesitates and refuses to proceed. But Kusum stands by her side, offering strong encouragement and support. With Kusum’s motivation, will Mangal overcome her fears and take a step forward in the competition? Watch the video to see how Mangal handles this challenge and whether she decides to participate in 'Startup Sultan' despite her initial doubts.#mangallakshmi #mangal #lakshmi #adit #saumya #onlocation #serialupdate #tvnews",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-02-24 07:06:27",
-            "pubDateTZ": "UTC",
-            "image_url": "https://static.tnn.in/thumb/msid-118525152,imgsize-117232,width-1280,height-720/118525152.jpg",
-            "source_id": "timesnownews",
-            "source_priority": 2243,
-            "source_name": "Times Now News",
-            "source_url": "https://www.timesnownews.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/timesnownews.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "other"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "0778cf15f514d7e0b356a2a0cc872315",
-            "title": "महाकुंभ से लौट रहे श्रद्धालुओं की कार का हादसा:किशनगंज के NH-327E पर एक्सीडेंट, 2 लोग हुए घायल",
-            "link": "https://www.bhaskar.com/local/bihar/kishanganj/news/accident-of-car-of-devotees-returning-from-maha-kumbh-134532034.html",
-            "keywords": null,
-            "creator": null,
-            "video_url": null,
-            "description": "किशनगंज के ठाकुरगंज प्रखंड में एक सड़क हादसा हुआ है। सुखानी थाना क्षेत्र के गंभीरगढ़ चौक के पास NH-327E पर यह घटना हुई। घटना में लोग घायल हो गए है। महाकुंभ से लौट रहे श्रद्धालुओं की कार बारातियों के वाहन से टकरा गई। हादसा सुखानी थाना क्षेत्र के तातपौआ ग्राम पंचायत की ओर जाने वाली टर्निंग पर रविवार देर रात हादसा हुआ। टक्कर इतनी जबरदस्त थी कि दोनों गाड़ियों के परखच्चे उड़ गए। साथ ही इस सड़क हादसे में दोनों गाड़ियों के दो लोग गंभीर रूप से घायल हो गए, जबकि कई अन्य लोगों को मामूली चोटें आईं। घटना के बाद मौके पर स्थानीय लोगो की भीड़ जुट गई। स्थानीय लोगो ने पुलिस को घटना की जानकारी दे दी, सूचना मिलते ही सुखानी थाना की पुलिस मौके पर पहुंची। गंभीर घायलों को तुरंत अस्पताल भेजा गया। पुलिस ने दोनों वाहनों को जब्त कर लिया है और मामले की जांच शुरू कर दी है। साथ ही परिजनों को घटना की सूचना दे दी गई है।",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-02-24 07:06:27",
-            "pubDateTZ": "UTC",
-            "image_url": "https://images.bhaskarassets.com/thumb/1000x1000/web2images/521/2025/02/24/2b3f8d0d-b23d-41f0-84d4-63e8c056a422_1740379087933.jpg",
-            "source_id": "bhaskar_hindi",
-            "source_priority": 34179,
-            "source_name": "Bhaskar",
-            "source_url": "https://www.bhaskar.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/bhaskar_hindi.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top",
-                "tourism"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "4bba26ed041a4dad268aa9c1e6c57662",
-            "title": "मंदिर वहीं बनाएंगे... ये कैसे हो गया? पाकिस्तान में सरकार ने खजाना खोल दिया, जगह-जगह होंगे दर्शन!",
-            "link": "https://zeenews.india.com/hindi/world/pakistan-china/temples-renovation-in-pakistan-fund-release-by-shehbaz-sharif-govt/2658625",
-            "keywords": null,
-            "creator": [
-                "Zee News Hindi"
-            ],
-            "video_url": null,
-            "description": "Pakistan News: पाकिस्तान में मंदिरों के संरक्षण को लेकर यह फैसला काफी अहम माना जा रहा है. क्योंकि लंबे समय से वहां हिंदू समुदाय के धार्मिक स्थलों को निशाना बनाया जाता रहा है. लेकिन अब वहां से एक चौंकाने वाली खबर सामने आई है. इसके पीछे एक चालाकी भी है.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-02-24 07:06:19",
-            "pubDateTZ": "UTC",
-            "image_url": "https://hindi.cdn.zeenews.com/hindi/sites/default/files/2025/02/24/3708416-temples-in-pakistan-44.jpg?im=FitAndFill%3D%281200%2C900%29",
-            "source_id": "zeenews",
-            "source_priority": 5319,
-            "source_name": "Zee News",
-            "source_url": "http://zeenews.india.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/zeenews.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "7e73995e8ce4553e265407f89f776a83",
-            "title": "Akshay Kumar Takes Holy Dip At Maha Kumbh Mela, Praises Arrangements",
-            "link": "https://www.dailyexcelsior.com/akshay-kumar-takes-holy-dip-at-maha-kumbh-mela-praises-arrangements/",
-            "keywords": [
-                "latest news",
-                "national"
-            ],
-            "creator": [
-                "Daily Excelsior"
-            ],
-            "video_url": null,
-            "description": "New Delhi, Feb 24: Bollywood superstar Akshay Kumar on Monday took a holy dip in sangam at the Maha Kumbh Mela in Prayagraj where he lauded Uttar Pradesh Chief Minister Yogi Adityanath’s efforts. The 57-year-old actor, whose last release was “Sky Force”, said he had also visited Maha Kumbh Mela in 2019 and there have been a massive improvement in the arrangements this time around. “I had a lot of fun, the arrangements are very good, very well done... We [...]The post Akshay Kumar Takes Holy Dip At Maha Kumbh Mela, Praises Arrangements appeared first on Daily Excelsior.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-02-24 07:06:17",
-            "pubDateTZ": "UTC",
-            "image_url": "https://cdndailyexcelsior.b-cdn.net/wp-content/uploads/2025/02/akshay-Kumar-696x393.jpg",
-            "source_id": "dailyexcelsior",
-            "source_priority": 693953,
-            "source_name": "Daily Excelsior",
-            "source_url": "https://www.dailyexcelsior.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/dailyexcelsior.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "f71400a53eb920ea27598b49ec319cd3",
-            "title": "बुरहानपुर के बाकड़ी में शराब बिक्री पर प्रतिबंध:बेचते पाए जाने पर लगेगा 25 हजार जुर्माना, केस; देजा नियम भी हुआ लागू",
-            "link": "https://www.bhaskar.com/local/mp/burhanpur/news/ban-on-liquor-sale-in-burhanpurs-bakdi-134532032.html",
-            "keywords": null,
-            "creator": null,
-            "video_url": null,
-            "description": "नेपानगर क्षेत्र की ग्राम पंचायत बाकड़ी ने शराब बंदी और देजा नियम को लागू कर दिया है। अब से गांव में शराब बेचने वालों पर 25 हजार रुपए का जुर्माना लगेगा। रविवार को ग्राम सभा ने इस संबंध में एक प्रस्ताव पारित किया है। इसकी प्रति कलेक्टर, एसपी, जिला आबकारी अधिकारी और नेपानगर थाना प्रभारी को भेजी गई है। 23 फरवरी को सिकदार मेहता की अध्यक्षता में विशेष ग्राम सभा का आयोजन किया गया। इसमें बाकड़ी के सरपंच शंकर, उप सरपंच नवल सिंह मेहता समेत कई पदाधिकारी शामिल हुए। भीलखेड़ी, हीरापुर, सागफाटा, सीवल, जोगीबेड़ा, लिंगी फाटा और खेरखेड़ा के पटेल, मुखिया और पंच भी मौजूद रहे। शराब की बिक्री पर पूर्ण प्रतिबंध ग्राम सभा ने देसी, विदेशी और कच्ची शराब की बिक्री पर पूर्ण प्रतिबंध लगाया है। साथ ही 12 फरवरी को बुरहानपुर में हुए राज्य स्तरीय सर्व आदिवासी समाज महासम्मेलन में पारित देजा नियमों को भी लागू किया है। नियम तोड़ने पर होगी कार्रवाई नियम तोड़ने वालों के खिलाफ मध्य प्रदेश आबकारी अधिनियम 1915 की धारा 34-2 और 49 के तहत कार्रवाई होगी। देजा नियम तोड़ने पर दहेज निषेध अधिनियम 1961 के तहत केस दर्ज किया जाएगा। यह निर्णय भारतीय संविधान के अनुच्छेद 13(3)(क) के तहत रूढ़ी प्रथा के अनुसार लिया गया है।",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-02-24 07:06:09",
-            "pubDateTZ": "UTC",
-            "image_url": "https://images.bhaskarassets.com/thumb/1000x1000/web2images/521/2025/02/24/5879cc05-34c4-4250-bdbc-83627ba600fb_1740377118711.jpg",
-            "source_id": "bhaskar_hindi",
-            "source_priority": 34179,
-            "source_name": "Bhaskar",
-            "source_url": "https://www.bhaskar.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/bhaskar_hindi.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "domestic",
-                "other"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "8b1cb5acf5b8c0cba3ca50ef5607930f",
-            "title": "देश की खबरें | राकांपा(एसपी) नेता ने मंत्री कोकाटे को विधायक के रूप में अयोग्य ठहराने की मांग की",
-            "link": "https://hindi.latestly.com/agency-news/ncp-sp-leader-demanded-disqualification-of-minister-kokate-as-mla-2512254.html",
-            "keywords": null,
-            "creator": null,
-            "video_url": null,
-            "description": "Get Latest हिन्दी समाचार, Breaking News on India at LatestLY हिन्दी. राकांपा (एसपी) के विधायक जितेंद्र आव्हाड ने महाराष्ट्र विधानसभा अध्यक्ष राहुल नार्वेकर को पत्र लिखकर राज्य मंत्री माणिकराव कोकाटे को अयोग्य ठहराने की मांग की है। कोकाटे को धोखाधड़ी के एक मामले में दो साल के जेल की सजा सुनाई गई है।",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-02-24 07:06:07",
-            "pubDateTZ": "UTC",
-            "image_url": "https://hist1.latestly.com/wp-content/uploads/2020/04/india_default_img-380x214.jpg",
-            "source_id": "latestly",
-            "source_priority": 31923,
-            "source_name": "Latestly",
-            "source_url": "https://www.latestly.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/latestly.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "7a341c344b4e8eb393adb7e3647dd4c3",
-            "title": "Fast furniture is terrible for the environment – here are five ways to spot it",
-            "link": "https://www.thenewsminute.com/news/fast-furniture-is-terrible-for-the-environment-here-are-five-ways-to-spot-it",
-            "keywords": null,
-            "creator": [
-                "The Conversation"
-            ],
-            "video_url": null,
-            "description": null,
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-02-24 07:06:02",
-            "pubDateTZ": "UTC",
-            "image_url": "https://media.assettype.com/thenewsminute%2F2025-02-24%2Flqy85kix%2Ffile-20250217-32-8a8xsk.avif?auto=format%2Ccompress&fit=max&rect=0%2C18%2C926%2C521&w=480",
-            "source_id": "thenewsminute",
-            "source_priority": 51417,
-            "source_name": "The News Minute",
-            "source_url": "https://www.thenewsminute.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/thenewsminute.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": true
-        },
-        {
-            "article_id": "f43a6d3242a5312810f8e66485682332",
-            "title": "Akshay Kumar takes holy dip in Triveni Sangam in Prayagraj during Mahakumbh ahead of Mahashivratri 2025, WATCH video here",
-            "link": "https://www.dnaindia.com/viral/report-akshay-kumar-takes-holy-dip-in-triveni-sangam-in-prayagraj-during-maha-kumbh-ahead-of-mahashivratri-watch-3134915",
-            "keywords": [
-                "viral"
-            ],
-            "creator": [
-                "Sonali Sharma"
-            ],
-            "video_url": null,
-            "description": "Actor Akshay Kumar takes a holy dip in Triveni Sangam during ongoing Mahakumbh 2025 in UP's Prayagraj",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-02-24 07:06:00",
-            "pubDateTZ": "UTC",
-            "image_url": "https://cdn.dnaindia.com/sites/default/files/styles/third/public/2025/02/24/2678844-image-2025-02-24t124920.385.jpg",
-            "source_id": "dnaindia",
-            "source_priority": 18388,
-            "source_name": "Dna",
-            "source_url": "https://www.dnaindia.com",
-            "source_icon": null,
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "97a518489c303071f81c1d46e35271bf",
-            "title": "Mahashivratri 2025: महाशिवरात्रि के लिए महाकाल मंदिर में तैयारियां शुरू, ढाई किमी लंबे मार्ग पर बैरिकेड लगना शुरू",
-            "link": "https://www.naidunia.com/madhya-pradesh/ujjain-mahakal-temple-prepares-for-mahashivratri-barricades-set-up-8380657",
-            "keywords": null,
-            "creator": null,
-            "video_url": null,
-            "description": "महाशिवरात्रि के लिए उज्जैन के महाकाल मंदिर में तैयारियां शुरू हो गई हैं। करीब ढाई किलोमीटर लंबे मार्ग पर बैरिकेड लगाए जा रहे हैं। मंदिर प्रशासन ने दर्शनार्थियों की सुविधा के लिए व्यापक इंतजाम किए हैं।",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-02-24 07:05:58",
-            "pubDateTZ": "UTC",
-            "image_url": "https://img.naidunia.com/naidunia/ndnimg/24022025/24_02_2025-mahashivratri_mahakal_darshan_mp_2025224_123244.jpg",
-            "source_id": "naidunia",
-            "source_priority": 648711,
-            "source_name": "Naidunia",
-            "source_url": "https://www.naidunia.com",
-            "source_icon": null,
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "ed351aea56cc8412f5179319d0771dfc",
-            "title": "Tuni Municipal Chairperson Eluri Sudharani Resigns",
-            "link": "https://www.thehansindia.com/andhra-pradesh/tuni-municipal-chairperson-eluri-sudharani-resigns-948469",
-            "keywords": [
-                "andhra pradesh,news,state"
-            ],
-            "creator": [
-                "Kausalya Rachavelpula"
-            ],
-            "video_url": null,
-            "description": "The Chairperson of Tuni Municipality, Eluri Sudharani, has announced her resignation, citing pressure from TDP leaders.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-02-24 07:05:56",
-            "pubDateTZ": "UTC",
-            "image_url": "https://assets.thehansindia.com/h-upload/2025/02/24/1526961-es.webp",
-            "source_id": "thehansindia",
-            "source_priority": 41360,
-            "source_name": "The Hans India",
-            "source_url": "http://www.thehansindia.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/thehansindia.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "2f373d8d008a306fc5d01c880f28bc16",
-            "title": "Akhtar blasts Pakistan's 'brainless and clueless' management, showers praise on Kohli",
-            "link": "https://english.mathrubhumi.com/sports/cricket/legendary-pace-bowler-shoaib-akhtar-flays-pakistan-management-for-defeat-1.10370919",
-            "keywords": null,
-            "creator": null,
-            "video_url": null,
-            "description": "Dubai: Pace legend Shoaib Akhtar didn't pull any punches as he blasted Pakistan's \"brainless and clueless\" team management following the six-wicket loss ...",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-02-24 07:05:52",
-            "pubDateTZ": "UTC",
-            "image_url": "https://english.mathrubhumi.com/image/contentid/policy:1.10370926:1740381031/india-pakistar.jpg?%24p=3ddb72d&f=16x10&q=0.8&w=852",
-            "source_id": "mathrubhumi",
-            "source_priority": 29098,
-            "source_name": "Mathrubhumi English",
-            "source_url": "https://english.mathrubhumi.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/mathrubhumi.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "f2cc6cd32f31c70c806c1fb3b1dd6f99",
-            "title": "Telangana tunnel collapse: NDRF, Army teams struggle to reach trapped workers; survival chances bleak",
-            "link": "https://www.ptcnews.tv/nation/telangana-tunnel-collapse-ndrf-army-teams-struggle-to-reach-trapped-workers-survival-chances-bleak-4406175",
-            "keywords": null,
-            "creator": null,
-            "video_url": null,
-            "description": "PTC Web Desk: Rescue operations are in full swing to evacuate eight workers trapped inside the Srisailam Left Bank Canal (SLBC) tunnel in Telangana. The workers have been stranded for nearly 48 h",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-02-24 07:05:50",
-            "pubDateTZ": "UTC",
-            "image_url": "https://media.ptcnews.tv/wp-content/uploads/2025/02/baae9c002eb7b7e9ceeaac3d8c8fec51_1280X720.webp",
-            "source_id": "ptcnews",
-            "source_priority": 211063,
-            "source_name": "Ptc News",
-            "source_url": "https://www.ptcnews.tv",
-            "source_icon": "https://i.bytvi.com/domain_icons/ptcnews.jpg",
-            "language": "english",
             "country": [
                 "india"
             ],
