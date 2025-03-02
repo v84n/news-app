@@ -1,6 +1,816 @@
 {
     "articles": [
         {
+            "article_id": "4f9a6d28c124ea1273a7295ea94b40a9",
+            "title": "Microsoft Services Down: Millions of Users Left Unable to Access Emails",
+            "link": "https://www.republicworld.com/world-news/microsoft-services-down-millions-of-users-left-unable-to-access-emails",
+            "keywords": [
+                "world-news"
+            ],
+            "creator": [
+                "editor@republicworld.com (Digital Desk)"
+            ],
+            "video_url": null,
+            "description": "Microsoft Services Down: Millions of Users Left Unable to Access Emails",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-01 22:05:14",
+            "pubDateTZ": "UTC",
+            "image_url": "http://img.republicworld.com/all_images/microsoft-global-outage-how-to-fix-blue-screen-of-death-cert-in-suggests-steps-1721386167182-16_9.webp",
+            "source_id": "republicworld",
+            "source_priority": 17361,
+            "source_name": "Republic World",
+            "source_url": "https://www.republicworld.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/republicworld.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "world"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "627df141e17e29f597bb475aa1a1a08a",
+            "title": "Look past Maharaj at your own peril",
+            "link": "https://www.espn.in/cricket/story/_/id/44067632/eng-vs-sa-champions-trophy-2025-look-keshav-maharaj-your-own-peril",
+            "keywords": null,
+            "creator": [
+                "Danyal Rasool"
+            ],
+            "video_url": null,
+            "description": "Having quietly contributed towards South Africa's qualification for the semi-final, he could have a far bigger role to play in the knockouts",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-01 22:04:21",
+            "pubDateTZ": "UTC",
+            "image_url": "https://a1.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1475541_1296x729.jpg",
+            "source_id": "espn_in",
+            "source_priority": 34461,
+            "source_name": "Espn India",
+            "source_url": "https://www.espn.in",
+            "source_icon": "https://i.bytvi.com/domain_icons/espn_in.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "sports"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "8dea18c9bd4aff033d7eec978f829cd3",
+            "title": "Klaasen scores fifth successive fifty, wants to be 'the best in the world'",
+            "link": "https://www.espn.in/cricket/story/_/id/44066855/champions-trophy-2025-heinrich-klaasen-wants-best-world",
+            "keywords": null,
+            "creator": [
+                "ESPNcricinfo staff"
+            ],
+            "video_url": null,
+            "description": "Having missed South Africa's previous game with an elbow problem, he returned with a match-winning 64 off 56 balls against England",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-01 22:04:21",
+            "pubDateTZ": "UTC",
+            "image_url": "https://a2.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1475524_1296x729.jpg",
+            "source_id": "espn_in",
+            "source_priority": 34461,
+            "source_name": "Espn India",
+            "source_url": "https://www.espn.in",
+            "source_icon": "https://i.bytvi.com/domain_icons/espn_in.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "sports"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": true
+        },
+        {
+            "article_id": "d6ca0c95fc6ad9b255ee69ca77e10b5c",
+            "title": "Dear Manolo: Early ideas for Indian football ahead of international break",
+            "link": "https://www.espn.in/football/story/_/id/44065654/manolo-marquez-indian-football-ideas-international-break",
+            "keywords": null,
+            "creator": [
+                "Anirudh Menon"
+            ],
+            "video_url": null,
+            "description": "The international break is almost upon us, and for those vested in Indian football that means just one thing: the return to action of the national team.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-01 22:04:21",
+            "pubDateTZ": "UTC",
+            "image_url": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F0903%2Fr1381431_1296x729_16-9.jpg",
+            "source_id": "espn_in",
+            "source_priority": 34461,
+            "source_name": "Espn India",
+            "source_url": "https://www.espn.in",
+            "source_icon": "https://i.bytvi.com/domain_icons/espn_in.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "sports"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "7d1ae9421081c1876ff54d9537a58bb8",
+            "title": "Barça's Christensen suffers new injury setback",
+            "link": "https://www.espn.in/football/story/_/id/44065283/andrea-christensen-injury-barcelona-defender-suffers-another-setback",
+            "keywords": null,
+            "creator": [
+                "Sam Marsden and Moises Llorens"
+            ],
+            "video_url": null,
+            "description": "Barcelona coach Hansi Flick has revealed defender Andreas Christensen has picked up another injury just three days after being cleared to return to action against Real Sociedad this weekend.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-01 22:04:21",
+            "pubDateTZ": "UTC",
+            "image_url": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F0301%2Fr1458105_1296x729_16-9.jpg",
+            "source_id": "espn_in",
+            "source_priority": 34461,
+            "source_name": "Espn India",
+            "source_url": "https://www.espn.in",
+            "source_icon": "https://i.bytvi.com/domain_icons/espn_in.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "sports"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": true
+        },
+        {
+            "article_id": "e3eaadfae5c866da46805613f39a5190",
+            "title": "Mateta 'conscious,' in hospital after wild tackle",
+            "link": "https://www.espn.in/football/story/_/id/44065603/fa-cup-jean-philippe-mateta-hospitalised-wild-tackle",
+            "keywords": null,
+            "creator": [
+                "ESPN"
+            ],
+            "video_url": null,
+            "description": "Crystal Palace striker Jean-Philippe Mateta is \"conscious\" after being taken to hospital after being kicked in the face by Millwall goalkeeper Liam Roberts eight minutes into Saturday's FA Cup fifth-round clash,",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-01 22:04:21",
+            "pubDateTZ": "UTC",
+            "image_url": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F0301%2Fr1458119_1296x729_16-9.jpg",
+            "source_id": "espn_in",
+            "source_priority": 34461,
+            "source_name": "Espn India",
+            "source_url": "https://www.espn.in",
+            "source_icon": "https://i.bytvi.com/domain_icons/espn_in.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "sports"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "fbcbb91d0e83f9503a8c386ff5db6084",
+            "title": "Tsitsipas earns first ATP 500 title at Dubai",
+            "link": "https://www.espn.in/tennis/story/_/id/44067672/tsitsipas-earns-first-atp-500-title-wins-dubai-championships",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "Stefanos Tsitsipas secured his first ATP 500 title by beating Felix Auger-Aliassime 6-3, 6-3 in the Dubai Championships final on Saturday.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-01 22:04:21",
+            "pubDateTZ": "UTC",
+            "image_url": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F0301%2Fr1458189_1296x729_16-9.jpg",
+            "source_id": "espn_in",
+            "source_priority": 34461,
+            "source_name": "Espn India",
+            "source_url": "https://www.espn.in",
+            "source_icon": "https://i.bytvi.com/domain_icons/espn_in.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "sports"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "aa30832e6895b51f7e36065cbc4795a5",
+            "title": "FA Cup: Fans fume at record 8-minute VAR check",
+            "link": "https://www.espn.in/football/story/_/id/44067064/bournemouth-vs-wolves-fans-fume-8-minute-var-check",
+            "keywords": null,
+            "creator": [
+                "ESPN"
+            ],
+            "video_url": null,
+            "description": "Both sets of fans at the Vitality Stadium were up in arms during Saturday's FA Cup fifth-round clash between Bournemouth and Wolves after an almost eight-minute VAR check.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-01 22:04:21",
+            "pubDateTZ": "UTC",
+            "image_url": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F0301%2Fr1458161_1296x729_16-9.jpg",
+            "source_id": "espn_in",
+            "source_priority": 34461,
+            "source_name": "Espn India",
+            "source_url": "https://www.espn.in",
+            "source_icon": "https://i.bytvi.com/domain_icons/espn_in.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "sports"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "0a819a2d7cedd4ba5144ebc69712d880",
+            "title": "Corners to be given to combat GK time-wasting",
+            "link": "https://www.espn.in/football/story/_/id/44068077/corners-given-combat-gk-wasting-refs-body-says",
+            "keywords": null,
+            "creator": [
+                "Dale Johnson"
+            ],
+            "video_url": null,
+            "description": "The International Football Association Board (IFAB) on Saturday approved a marked change in the law that could see goalkeepers concede a corner if they hold the ball for too long.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-01 22:04:21",
+            "pubDateTZ": "UTC",
+            "image_url": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F0301%2Fr1458206_1296x729_16-9.jpg",
+            "source_id": "espn_in",
+            "source_priority": 34461,
+            "source_name": "Espn India",
+            "source_url": "https://www.espn.in",
+            "source_icon": "https://i.bytvi.com/domain_icons/espn_in.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "sports"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": true
+        },
+        {
+            "article_id": "076b2988384064c7d3f27255283ebb6a",
+            "title": "Ancelotti rues 'costly' Real Madrid defeat at Betis",
+            "link": "https://www.espn.in/football/story/_/id/44069401/real-madrid-carlo-ancelotti-real-betis-costly-defeat-laliga",
+            "keywords": null,
+            "creator": [
+                "Alex Kirkland and Rodrigo Faez"
+            ],
+            "video_url": null,
+            "description": "Carlo Ancelotti admitted that Real Madrid's 2-1 defeat at Real Betis on Saturday could prove \"costly\" in the LaLiga title race.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-01 22:04:21",
+            "pubDateTZ": "UTC",
+            "image_url": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F0301%2Fr1458252_1296x729_16-9.jpg",
+            "source_id": "espn_in",
+            "source_priority": 34461,
+            "source_name": "Espn India",
+            "source_url": "https://www.espn.in",
+            "source_icon": "https://i.bytvi.com/domain_icons/espn_in.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "sports"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "c2207af3da985acbc305422f91c4b7a1",
+            "title": "Teen O'Reilly helps Man City survive FA Cup scare",
+            "link": "https://www.espn.in/football/report/_/gameId/732573",
+            "keywords": null,
+            "creator": [
+                "Reuters"
+            ],
+            "video_url": null,
+            "description": "Manchester City survived an FA Cup scare for the second round running as they beat second-tier strugglers Plymouth Argyle 3-1 to reach the quarterfinals on Saturday.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-01 22:04:21",
+            "pubDateTZ": "UTC",
+            "image_url": "https://a.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fmisc_logos%2F500%2Fsoccer.png",
+            "source_id": "espn_in",
+            "source_priority": 34461,
+            "source_name": "Espn India",
+            "source_url": "https://www.espn.in",
+            "source_icon": "https://i.bytvi.com/domain_icons/espn_in.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "sports"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": true
+        },
+        {
+            "article_id": "932c8730366ddbdac3a0c03076a7f4c7",
+            "title": "Pep: FA Cup triumph won't save poor City season",
+            "link": "https://www.espn.in/football/story/_/id/44069668/man-city-pep-guardiola-fa-cup-win-poor-season",
+            "keywords": null,
+            "creator": [
+                "Rob Dawson"
+            ],
+            "video_url": null,
+            "description": "Pep Guardiola has said not even winning the FA Cup can save Manchester City's season.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-01 22:04:19",
+            "pubDateTZ": "UTC",
+            "image_url": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F0301%2Fr1458261_1296x729_16-9.jpg",
+            "source_id": "espn_in",
+            "source_priority": 34461,
+            "source_name": "Espn India",
+            "source_url": "https://www.espn.in",
+            "source_icon": "https://i.bytvi.com/domain_icons/espn_in.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "sports"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "08a6bb14622aac69d9e0906d060d1991",
+            "title": "News Update: महिलाओं को पुलिस हिरासत में रखा, पड़ोसियों ने दो भाईयों को पीटा; पढ़ें वाराणसी की खास खबरें",
+            "link": "https://www.amarujala.com/uttar-pradesh/varanasi/news-update-today-women-kept-in-police-custody-neighbors-beat-up-two-brothers-2025-03-01",
+            "keywords": null,
+            "creator": [
+                "अमर उजाला नेटवर्क, वाराणसी।"
+            ],
+            "video_url": null,
+            "description": "वाराणसी में एक चाैंकाने वाला मामला सामने आया है। आरोप है कि चेतगंज थाने की पुलिस ने दो महिलाओं को चोरी के मामले में पांच दिन तक हिरासत में रखा। वहीं, मारपीट मामले में तीन नामजद व अज्ञात के खिलाफ कैंट थाने में केस दर्ज किया गया।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-01 22:03:02",
+            "pubDateTZ": "UTC",
+            "image_url": "https://staticimg.amarujala.com/assets/images/original/default_500.png?dpr=1.0&q=65&w=414",
+            "source_id": "amarujala",
+            "source_priority": 55215,
+            "source_name": "Amar Ujala",
+            "source_url": "https://www.amarujala.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/amarujala.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "8da491e1e0e0c3721327fb8f7024c358",
+            "title": "DELHI, GET READY TO SAIL! Govt To Launch Yamuna River Cruise Soon",
+            "link": "https://www.republicworld.com/india/delhi-get-ready-to-set-sail-yamuna-river-cruise-service-soon",
+            "keywords": [
+                "india"
+            ],
+            "creator": [
+                "editor@republicworld.com (Digital Desk)"
+            ],
+            "video_url": null,
+            "description": "DELHI, GET READY TO SAIL! Govt To Launch Yamuna River Cruise Soon",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-01 22:02:05",
+            "pubDateTZ": "UTC",
+            "image_url": "http://img.republicworld.com/all_images/delhi-get-ready-to-set-sail-govt-to-launch-yamuna-river-cruise-service-soon-1740866519045-16_9.webp",
+            "source_id": "republicworld",
+            "source_priority": 17361,
+            "source_name": "Republic World",
+            "source_url": "https://www.republicworld.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/republicworld.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "946ebcea4749987704a40bfc3d1c0f4d",
+            "title": "Jackets, Wings honor Gaudreaus at Ohio Stadium",
+            "link": "https://www.espn.com/nhl/story/_/id/44070196/blue-jackets-red-wings-honor-johnny-matthew-gaudreau",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "The Columbus Blue Jackets and Detroit Red Wings honored the late Johnny and Matthew Gaudreau during their NHL Stadium Series entrances on Saturday at Ohio State University.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-01 22:01:13",
+            "pubDateTZ": "UTC",
+            "image_url": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F0301%2Fr1458268_1296x729_16-9.jpg",
+            "source_id": "espn",
+            "source_priority": 341,
+            "source_name": "Espn",
+            "source_url": "https://www.espn.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/espn.png",
+            "language": "english",
+            "country": [
+                "india",
+                "united states of america",
+                "united kingdom",
+                "australia",
+                "singapore",
+                "canada"
+            ],
+            "category": [
+                "sports"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "e912dc66509efcdfb2fd9b91a736bbef",
+            "title": "Zelenskyy embraced by British prime minister day after White House blowout",
+            "link": "https://www.theweek.in/wire-updates/international/2025/03/02/fgn3-uk-ukraine.html",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "London, Mar 2 (AP) British Prime Minister Keir Starmer embraced Ukrainian President Volodymyr Zelenskyy and told him he had the",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-01 22:00:29",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.theweek.in/content/dam/week/wire-updates/pti-preview-theweek.jpg",
+            "source_id": "theweek_in",
+            "source_priority": 26911,
+            "source_name": "The Week",
+            "source_url": "https://www.theweek.in",
+            "source_icon": "https://i.bytvi.com/domain_icons/theweek_in.jpg",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "world"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "566a40580c969b9acf1ab08e005f3ee2",
+            "title": "What’s lost when sacred objects are stolen from Bali’s temples? More than one may think",
+            "link": "https://www.channelnewsasia.com/asia/indonesia-bali-theft-historical-cultural-artefacts-sacred-temples-impact-cost-4964416",
+            "keywords": [
+                "asia"
+            ],
+            "creator": null,
+            "video_url": null,
+            "description": "Bali’s many temples make it more prone to artefact theft than other places in Indonesia, where similar objects can only be found in museums and historical sites.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-01 22:00:00",
+            "pubDateTZ": "UTC",
+            "image_url": "https://dam.mediacorp.sg/image/upload/s--yf_Wu-cH--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/mediacorp/cna/image/2025/02/27/dsc_6234.jpg?itok=tbZsD-md",
+            "source_id": "channelnewsasia",
+            "source_priority": 4142,
+            "source_name": "Channel Newsasia",
+            "source_url": "https://www.channelnewsasia.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/channelnewsasia.jpg",
+            "language": "english",
+            "country": [
+                "georgia",
+                "yemen",
+                "afghanistan",
+                "cyprus",
+                "india",
+                "singapore",
+                "saudi arabia",
+                "maldives",
+                "japan",
+                "united arab emirates",
+                "malaysia",
+                "china",
+                "south korea",
+                "north korea",
+                "taiwan",
+                "thailand",
+                "pakistan",
+                "mongolia",
+                "brunei",
+                "lebanon",
+                "indonesia",
+                "kyrgyzstan",
+                "syria",
+                "israel",
+                "bhutan",
+                "iran",
+                "turkey",
+                "armenia",
+                "qatar",
+                "philippines",
+                "hong kong",
+                "kazakhstan",
+                "iraq",
+                "bangladesh",
+                "laos",
+                "vietnam",
+                "timor-leste",
+                "kuwait",
+                "myanmar",
+                "azerbaijan",
+                "jordan",
+                "nepal",
+                "sri lanka",
+                "uzbekistan",
+                "turkmenistan",
+                "macau",
+                "bahrain",
+                "cambodia",
+                "tajikistan",
+                "oman"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "5d7cd1f6704425b98aee35510ec21c27",
+            "title": "Commentary: Steak mousse and a vibrating sofa - the impact of Japan’s ageing has become more dramatic",
+            "link": "https://www.channelnewsasia.com/commentary/japan-old-ageing-population-decline-technology-4967156",
+            "keywords": [
+                "commentary ,asia ,east asia"
+            ],
+            "creator": null,
+            "video_url": null,
+            "description": "Japan has reached the stage where its enormous baby boomer generation has fully moved from being “elderly” to “advanced elderly”, says the Financial Times’ Leo Lewis.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-01 22:00:00",
+            "pubDateTZ": "UTC",
+            "image_url": "https://dam.mediacorp.sg/image/upload/s--2KCMATw_--/f_auto,q_auto/c_fill,g_auto,h_468,w_830/japan-elderly-woman---3352222_0.png?itok=o6vd1ylR",
+            "source_id": "channelnewsasia",
+            "source_priority": 4142,
+            "source_name": "Channel Newsasia",
+            "source_url": "https://www.channelnewsasia.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/channelnewsasia.jpg",
+            "language": "english",
+            "country": [
+                "georgia",
+                "yemen",
+                "afghanistan",
+                "cyprus",
+                "india",
+                "singapore",
+                "saudi arabia",
+                "maldives",
+                "japan",
+                "united arab emirates",
+                "malaysia",
+                "china",
+                "south korea",
+                "north korea",
+                "taiwan",
+                "thailand",
+                "pakistan",
+                "mongolia",
+                "brunei",
+                "lebanon",
+                "indonesia",
+                "kyrgyzstan",
+                "syria",
+                "israel",
+                "bhutan",
+                "iran",
+                "turkey",
+                "armenia",
+                "qatar",
+                "philippines",
+                "hong kong",
+                "kazakhstan",
+                "iraq",
+                "bangladesh",
+                "laos",
+                "vietnam",
+                "timor-leste",
+                "kuwait",
+                "myanmar",
+                "azerbaijan",
+                "jordan",
+                "nepal",
+                "sri lanka",
+                "uzbekistan",
+                "turkmenistan",
+                "macau",
+                "bahrain",
+                "cambodia",
+                "tajikistan",
+                "oman"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "79bba47b633b4367e7e1ad3b97aab7bf",
+            "title": "A 5-year-old moves in with new foster parents. This is what happens in the first month",
+            "link": "https://www.channelnewsasia.com/cna-insider/new-foster-parents-child-moving-in-first-month-family-4967616",
+            "keywords": [
+                "cna insider ,singapore"
+            ],
+            "creator": null,
+            "video_url": null,
+            "description": "CNA Insider gets a rare glimpse into the chaos and joy of welcoming a foster child into one’s home for the first time. A whirlwind moving-in day marks this couple’s first steps on their journey as new foster parents.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-01 22:00:00",
+            "pubDateTZ": "UTC",
+            "image_url": "https://dam.mediacorp.sg/image/upload/s--gAie_GGa--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/mediacorp/cna/image/2025/03/01/dsc06534-enhanced-nr.jpg?itok=DSnrThos",
+            "source_id": "channelnewsasia",
+            "source_priority": 4142,
+            "source_name": "Channel Newsasia",
+            "source_url": "https://www.channelnewsasia.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/channelnewsasia.jpg",
+            "language": "english",
+            "country": [
+                "georgia",
+                "yemen",
+                "afghanistan",
+                "cyprus",
+                "india",
+                "singapore",
+                "saudi arabia",
+                "maldives",
+                "japan",
+                "united arab emirates",
+                "malaysia",
+                "china",
+                "south korea",
+                "north korea",
+                "taiwan",
+                "thailand",
+                "pakistan",
+                "mongolia",
+                "brunei",
+                "lebanon",
+                "indonesia",
+                "kyrgyzstan",
+                "syria",
+                "israel",
+                "bhutan",
+                "iran",
+                "turkey",
+                "armenia",
+                "qatar",
+                "philippines",
+                "hong kong",
+                "kazakhstan",
+                "iraq",
+                "bangladesh",
+                "laos",
+                "vietnam",
+                "timor-leste",
+                "kuwait",
+                "myanmar",
+                "azerbaijan",
+                "jordan",
+                "nepal",
+                "sri lanka",
+                "uzbekistan",
+                "turkmenistan",
+                "macau",
+                "bahrain",
+                "cambodia",
+                "tajikistan",
+                "romania"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "3729c6a81bade6aed8cddafae03d6899",
+            "title": "All for sorority",
+            "link": "https://www.thehindu.com/opinion/open-page/all-for-sorority/article69252654.ece",
+            "keywords": [
+                "open page"
+            ],
+            "creator": null,
+            "video_url": null,
+            "description": "These connections offer women a safe space to celebrate joys and seek comfort during hardships",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-01 22:00:00",
+            "pubDateTZ": "UTC",
+            "image_url": "https://th-i.thgim.com/public/news/national/anukfi/article69272148.ece/alternates/LANDSCAPE_1200/iStock-1296144988.jpg",
+            "source_id": "thehindu",
+            "source_priority": 2972,
+            "source_name": "The Hindu",
+            "source_url": "https://www.thehindu.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/thehindu.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
             "article_id": "60631f5f2a07aefc8288ae833a0efe68",
             "title": "Pope Francis 'stable', no new breathing crisis, says Vatican",
             "link": "https://timesofindia.indiatimes.com/world/rest-of-world/pope-francis-stable-no-new-breathing-crisis-vatican/articleshow/118654683.cms",
@@ -22943,669 +23753,6 @@
             ],
             "category": [
                 "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "610a80abcdcc04d444682a6e4ab98fb6",
-            "title": "DC-W vs MI-W WPL 2025 Dream11 prediction: Fantasy cricket tips for Delhi Capitals Women vs Mumbai Indians Women",
-            "link": "https://www.dnaindia.com/cricket/report-dc-w-vs-mi-w-wpl-2025-dream11-prediction-fantasy-cricket-tips-for-delhi-capitals-women-vs-mumbai-indians-women-3135831",
-            "keywords": [
-                "sports",
-                "cricket"
-            ],
-            "creator": [
-                "Chankesh Rao"
-            ],
-            "video_url": null,
-            "description": "DC-W vs MI-W Dream 11 Team - Check My Dream11 Team, Best Player's list for Match 13 between Delhi Capitals and Mumbai Indians.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-02-28 10:08:00",
-            "pubDateTZ": "UTC",
-            "image_url": "https://cdn.dnaindia.com/sites/default/files/styles/third/public/2025/02/28/2679783-untitled-design-80.jpg",
-            "source_id": "dnaindia",
-            "source_priority": 18388,
-            "source_name": "Dna",
-            "source_url": "https://www.dnaindia.com",
-            "source_icon": null,
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "sports"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "fcd85b116fa4cdff215cba916714be47",
-            "title": "4 career lessons from the show Schitts Creek",
-            "link": "https://economictimes.indiatimes.com/jobs/fresher/4-career-lessons-from-the-show-schitts-creek/articleshow/118626382.cms",
-            "keywords": null,
-            "creator": null,
-            "video_url": null,
-            "description": "Schitt's Creek offers more than humor, providing valuable career lessons. The series highlights the importance of adaptability, treating every job as a learning opportunity, mastering networking, and continuous learning. The Rose family's journey showcases resilience and reinvention in the face of adversity, making it both an entertaining and educational watch.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-02-28 10:08:00",
-            "pubDateTZ": "UTC",
-            "image_url": "https://img.etimg.com/thumb/msid-118626487,width-1200,height-630,imgsize-1447405,overlay-etcareers/articleshow.jpg",
-            "source_id": "economictimes_indiatimes",
-            "source_priority": 231,
-            "source_name": "The Economic Times",
-            "source_url": "https://economictimes.indiatimes.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/economictimes_indiatimes.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "adbe77a667127d2f79328e0336c43c27",
-            "title": "Mira Bhayandar-Vasai Virar Police Externs Two Notorious Goons For 2 Years",
-            "link": "https://www.freepressjournal.in/mumbai/mira-bhayandar-vasai-virar-police-externs-two-notorious-goons-for-2-years",
-            "keywords": [
-                "fpj shorts",
-                "mumbai news",
-                "topnews"
-            ],
-            "creator": null,
-            "video_url": null,
-            "description": null,
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-02-28 10:07:57",
-            "pubDateTZ": "UTC",
-            "image_url": "https://media.assettype.com/freepressjournal/2024-10-18/bv3q1npf/Arrest-1581568361.jpg",
-            "source_id": "freepressjournal",
-            "source_priority": 26427,
-            "source_name": "The Free Press Journal",
-            "source_url": "https://www.freepressjournal.in",
-            "source_icon": "https://i.bytvi.com/domain_icons/freepressjournal.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "64612b85312efdacf88045594f7e2c2b",
-            "title": "Planning Your Future Together? Don’t Ignore Your Credit Score",
-            "link": "https://news.abplive.com/business/personal-finance/planning-your-future-together-do-not-ignore-your-credit-score-1754523",
-            "keywords": [
-                "personal finance"
-            ],
-            "creator": [
-                "Malvika Singhal"
-            ],
-            "video_url": null,
-            "description": "Many couples believe that love alone is enough to sustain a relationship, but financial struggles can strain even the strongest of bonds. A healthy financial foundation is key to a successful marriage, and issues like a poor credit score can make shared goals—such as buying a home or starting a business—more difficult to achieve. If one partner has a low credit score, it can lead to higher interest rates, loan rejections, and long-term financial stress affecting both partners. Understanding how credit scores impact marriage can help couples plan for a more secure future together.What Your Credit Score Says About YouYour credit score is your financial report card—it reflects how well you manage credit and impacts your ability to borrow. A high score opens doors to better financial opportunities, while a low score can hold you back. It shows:Do you make payments on time or delay them?How well or poorly do you manage debt?Whether you are financially responsible or struggle with managing money.How A Bad Credit Score Can Disrupt Married BlissSignals poor money habits: A credit score reflects financial discipline. If one partner has a low score due to high debt or missed payments, it may indicate poor money management, creating stress in the relationship.Complicates life goals: Buying a home, car, or even renting can become challenging with a low credit score, leading to higher interest rates, loan rejections, and added financial pressure.Creates money conflicts: When one partner is financially responsible but the other overspends or struggles with debt, disagreements over money can arise, affecting trust and shared decision-making.Adds financial strain: Debt and poor credit can limit a couple’s ability to save, invest, or plan for the future, making it harder to achieve financial stability together.Fixing A Bad Credit Score – How To Do ItDon’t let a low credit score be the bone of contention in your marriage. With effort and planning, you can rebuild and improve it. Here’s how. Pay bills on time - Late payments damage your credit scores. Set reminders or automate payments to never miss deadlines.Keep credit utilization low: To demonstrate responsible credit usage, keep your credit utilization below 30 per cent of your limit.Avoid settling loans: Settling a loan for less than you owe may offer short-term relief but can harm your credit score severely in the long run.Check your credit score regularly: Track your score often to monitor your progress, and identify discrepancies. Correct mistakes: Dispute inaccuracies and errors in your credit report to minimise damage to your score. Since credit scores influence major financial decisions that you are now likely to take with your partner, regular monitoring ensures both partners are credit-ready. Marriage is about building a future together, and financial transparency is key. Discussing credit scores and money habits early helps set clear goals and strengthen trust in the partnership.(The author is the Senior Manager - Communications at BankBazaar.com. This article has been published as part of a special arrangement with BankBazaar)",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-02-28 10:07:57",
-            "pubDateTZ": "UTC",
-            "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2025/02/28/d49de1c045362b62233de7185f7be6351740737148107939_original.png",
-            "source_id": "abplive",
-            "source_priority": 7754,
-            "source_name": "Abp News",
-            "source_url": "http://abplive.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/abplive.jpg",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "business"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "2d5a60c16a770855ff0c86cab0631689",
-            "title": "स्वाद और सेहत से भरपूर होता है मक्का, सरकार ने भी उत्पादन को दोगुना करने का रखा लक्ष्य",
-            "link": "https://ndtv.in/food/maize-is-full-of-taste-and-health-the-government-also-set-a-target-to-double-the-production-7815346",
-            "keywords": null,
-            "creator": null,
-            "video_url": null,
-            "description": "मक्के में भरपूर मात्रा में पोषक तत्व भी पाए जाते हैं. इसमें कार्बोहाइड्रेट, शुगर, वसा, प्रोटीन, फाइबर, विटामिन और मिनरल मिलता है. इस लिहाज से मक्का की खेती कुपोषण के खिलाफ जंग साबित हो सकती है. इन्हीं खूबियों की वजह से मक्के को अनाजों की रानी कहा गया है.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-02-28 10:07:57",
-            "pubDateTZ": "UTC",
-            "image_url": "https://c.ndtvimg.com/2024-01/q8jq0quo_corn_625x300_30_January_24.jpg?im=FeatureCrop%2Calgorithm%3Ddnn%2Cwidth%3D1200%2Cheight%3D738",
-            "source_id": "ndtv_in",
-            "source_priority": 129751,
-            "source_name": "Ndtv",
-            "source_url": "https://www.ndtv.in",
-            "source_icon": "https://i.bytvi.com/domain_icons/ndtv_in.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "0cfc34b802934cb54fa7d8c81782e4e9",
-            "title": "दर-दर भटकीं, कूड़े से उठाकर खाना खाया, 1 शब्द सुनते ही 7 साल बाद लौटी याददाश्त",
-            "link": "https://hindi.news18.com/news/nation/missing-woman-found-after-7-years-badami-word-changed-life-sa-local18-9066242.html",
-            "keywords": [
-                "देश"
-            ],
-            "creator": [
-                "News18 Hindi"
-            ],
-            "video_url": null,
-            "description": "Mumbai: सात साल पहले लापता हुई कस्तूरी पाटिल का जीवन 'बादामी' शब्द से बदल गया. रायगढ़ की गलियों में भटक रही कस्तूरी को SEAL संगठन ने बचाया. जब उसने 'बादामी' कहा, तो पुलिस ने बेटी से मिलाया, यह किसी चमत्कार से कम नहीं.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-02-28 10:07:49",
-            "pubDateTZ": "UTC",
-            "image_url": "https://images.news18.com/ibnkhabar/uploads/2025/02/Missing-woman-found-after-7-years-2025-02-190226c79183d43ddb398bc97621c7fc-3x2.jpg",
-            "source_id": "hindinews18",
-            "source_priority": 4077,
-            "source_name": "News 18 Hindi",
-            "source_url": "https://hindi.news18.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/hindinews18.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "486a66714eadd0f3644e585f5378ce4b",
-            "title": "BREAKING: Suicide bombing inside mosque during Friday prayers in Pakistan; many killed, wounded (WATCH)",
-            "link": "https://newsable.asianetnews.com/world/breaking-suicide-bombing-inside-mosque-during-friday-prayers-in-pakistan-many-killed-wounded-watch-shk-sse1gp",
-            "keywords": null,
-            "creator": null,
-            "video_url": null,
-            "description": "A suicide bombing was reported inside a mosque in Nowshera district of northwestern Khyber Pakhtunkhwa province Pakistan on Friday. Several people killed and wounded, local police said An explosion was heard during Friday prayers in Darul uloom Haqqani Madrrasah, Akora Khattak, Nowshera, KPK, Pakistan. There are reports of multiple casualties. ISKP the primary suspect behind the attack. #BREAKING Suicide bombing inside a mosque in Nowshera district of northwestern Khyber Pakhtunkhwa province #Pakistan several people killed and wounded, local police said pic.twitter.com/kBDwocP8St — The South Asia Times (@thesouthasiatim) February 28, 2025",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-02-28 10:07:37",
-            "pubDateTZ": "UTC",
-            "image_url": "https://static-gi.asianetnews.com/images/01jn60bevp5e5w2abck3z5jvpc/whatsapp-image-2025-02-28-at-3.36.05-pm.jpeg",
-            "source_id": "newsable_asianetnews",
-            "source_priority": 7749,
-            "source_name": "Asianet Newsable",
-            "source_url": "https://newsable.asianetnews.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/newsable_asianetnews.jpg",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "3db5a73d3c993c3c2cc657f1034c0ef4",
-            "title": "वाराणसी में स्वामी अवधेशानंद गिरि महाराज प्रवाचन:बोले - लगभग आधा भारत कुंभ में आया...दुनिया ने हमारी एकता देखी",
-            "link": "https://www.bhaskar.com/local/uttar-pradesh/varanasi/news/swami-avdheshanand-giri-maharaj-discourse-in-varanasi-134557211.html",
-            "keywords": null,
-            "creator": null,
-            "video_url": null,
-            "description": "जूना अखाड़े के पीठाधीश्वर और आचार्य महामंडलेश्वर स्वामी अवधेशानंद गिरि महाराज काशी में महाकुंभ की पूर्णाहुति पर सिगरा स्थित रुद्राक्ष कन्वेंशन सेंटर में प्रवचन भी देने पहुंचे। उन्होंने धर्म, अध्यात्म और सनातन संस्कृति के प्रचार-प्रसार के लिए सनातन धर्म में समाहित है समष्टि कल्याण के सूत्र विषयक कथा में साधु, संत व अनुयायियों सहित 1500 लोग सभागार में पहुंचे। आधा भारत पहुंचा महाकुंभ स्वामी अविमुक्तेश्वरानंद ने कहा - कुंभ में भारत की लगभग आधी आबादी पहुंची। सभी जातियों, धर्मों और मतों के लोग यहां एक साथ आए। दुनिया ने हमारी एकता देखी... दुनिया ने हमारी सभ्यता और संस्कृति की झलक देखी... भारत की आधी आबादी ने यहां कुंभ में विश्व के कल्याण के लिए प्रार्थना की। हम कण-कण में भगवान को देखते है स्वामी अविमुक्तेश्वरानंद ने कहा - कुंभ में हमने देखा की हमने सबके लिए प्रार्थना किया। जो हमें अच्छा नहीं लगाता उसे किसी और के लिए नहीं करना चाहिए। हमें सिखाया गया है कि किसी की निंदा न करें। हमारे यहां बहुत से अकान्ताएं आये और हमारे मुर्तियों को तोड़ें लेकिन हमने तो ऐसा नहीं किया। हम लोग तो धरती पर उतरते समय प्रणाम करते है। भगवान विष्णु की दो पत्नी मानी गई है। एक श्रीदेवी और एक भू-देवी हम अन्य और जल में नारायण देखते हैं। उन्होंने कहा कि हम कण-कण में भगवान को देखने वाले हैं। स्वार्थ के लिए लोगों ने जाति को बांटा कुछ लोग स्वार्थ के लिए मत,पथ,संप्रदाय और जाति में बांट रहे हैं। उन्होंने कहा कि सभी जातियां समान हैं। उन्होंने कहा जातियां हमारी सौदार्य हैं। उन्होंने कहा कुंभ में देखिए कोई पूछने गया वहां डूबकी लगा रहे थे लेकिन जाति किसी ने नहीं पूछी। वहां आध्यात्मिक संगम देखने को मिला।",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-02-28 10:07:32",
-            "pubDateTZ": "UTC",
-            "image_url": "https://images.bhaskarassets.com/thumb/1000x1000/web2images/521/2025/02/28/1002672522_1740737129.gif",
-            "source_id": "bhaskar_hindi",
-            "source_priority": 34179,
-            "source_name": "Bhaskar",
-            "source_url": "https://www.bhaskar.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/bhaskar_hindi.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top",
-                "domestic"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "0f3eaa6f3eb3ca3193575bceb8c6538f",
-            "title": "Including Rice In Your Diet Can Help You With Immunity & Vitamin Issues",
-            "link": "https://www.freepressjournal.in/lifestyle/including-rice-in-your-diet-can-help-you-with-immunity-vitamin-issues",
-            "keywords": [
-                "patanjali",
-                "featured news",
-                "health",
-                "lifestyle"
-            ],
-            "creator": null,
-            "video_url": null,
-            "description": null,
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-02-28 10:07:32",
-            "pubDateTZ": "UTC",
-            "image_url": "https://media.assettype.com/freepressjournal/2025-02-28/ghm06fz6/Amisha-2-2025-02-28T151822.034.jpg",
-            "source_id": "freepressjournal",
-            "source_priority": 26427,
-            "source_name": "The Free Press Journal",
-            "source_url": "https://www.freepressjournal.in",
-            "source_icon": "https://i.bytvi.com/domain_icons/freepressjournal.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "34d4d2397241da6eb9de7ec297655b2b",
-            "title": "वित्तीय साक्षरता शिविर में बैंक अधिकारियों ने दिए टिप्स:आय, बजट, बचत और निवेश हैं वित्तीय साक्षरता के चार स्तंभ, पहले बचत फिर खर्च का मंत्र",
-            "link": "https://www.bhaskar.com/local/uttar-pradesh/ambedkarnagar/news/bank-officials-gave-tips-in-financial-literacy-camp-134557210.html",
-            "keywords": null,
-            "creator": null,
-            "video_url": null,
-            "description": "अम्बेडकरनगर के अकबरपुर स्थित बीएनकेबी पीजी कॉलेज में बैंक ऑफ बड़ौदा के सहयोग से वित्तीय साक्षरता शिविर का आयोजन किया गया। इस शिविर की मुख्य थीम 'वित्तीय साक्षरता-समृद्ध नारी' रही। आरबीआई की अग्रणी बैंक प्रबंधक पल्लवी ने बताया कि रिजर्व बैंक 24 फरवरी 2025 से वित्तीय साक्षरता सप्ताह मना रहा है। उन्होंने कहा कि सभी बैंक शाखाएं ग्रामीण क्षेत्रों में कैंप लगाकर वित्तीय साक्षरता का प्रचार करेंगी। उन्होंने लोन को विकास का अच्छा उपकरण बताते हुए साइबर सुरक्षा की जानकारी भी दी। महाविद्यालय के अर्थशास्त्र विभागाध्यक्ष प्रो. सिद्धार्थ पांडे ने वित्तीय साक्षरता की महत्ता बताई। उन्होंने कहा कि सैलरी मिलते ही पहले बचत और निवेश करें। महीने का बजट बनाएं और उसके अनुसार खर्च करें। अग्रणी जिला प्रबंधक कमलेश भास्कर ने कहा कि भारत में वित्तीय रूप से साक्षर लोगों की संख्या कम है। उन्होंने वित्तीय नियोजन, जोखिम प्रबंधन और सिबिल स्कोर की जानकारी दी। साथ ही सीएम युवा योजना के बारे में भी बताया। बैंक ऑफ बड़ौदा के क्षेत्रीय प्रबंधक अभय कुमार ने वित्तीय साक्षरता के चार स्तंभों - आय, बजट, बचत और निवेश के बारे में विस्तार से जानकारी दी। कार्यक्रम में छात्र-छात्राओं और शिक्षकों के सवालों का समाधान भी किया गया।",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-02-28 10:07:28",
-            "pubDateTZ": "UTC",
-            "image_url": "https://images.bhaskarassets.com/thumb/1000x1000/web2images/521/2025/02/28/fb6b02ed-6d9d-4395-8e5c-7cbc55e68fdb_1740736801596.jpg",
-            "source_id": "bhaskar_hindi",
-            "source_priority": 34179,
-            "source_name": "Bhaskar",
-            "source_url": "https://www.bhaskar.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/bhaskar_hindi.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top",
-                "domestic"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "b23290588a6a4fa3fbb81234d9d70034",
-            "title": "IISc Bangalore opens applications for inaugural Research Science Initiative-India summer programme",
-            "link": "https://www.hindustantimes.com/cities/bengaluru-news/iisc-bangalore-opens-applications-for-inaugural-research-science-initiative-india-summer-programme-101740735735409.html",
-            "keywords": [
-                "cities/bengaluru-news"
-            ],
-            "creator": null,
-            "video_url": null,
-            "description": "Sponsored by the Adani Group, the six-week programme will be held from June 15 to July 26, at the IISc campus in Bengaluru.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-02-28 10:07:28",
-            "pubDateTZ": "UTC",
-            "image_url": "https://www.hindustantimes.com/ht-img/img/2025/02/28/1600x900/_DSC3735_1_1704357873089_1740735814815.jpg",
-            "source_id": "hindustantimes",
-            "source_priority": 933,
-            "source_name": "Hindustan Times",
-            "source_url": "http://www.hindustantimes.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/hindustantimes.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "3ddd5b7b0322cc35b7ce37e0ffdab1c6",
-            "title": "Delhi CM Rekha Gupta tables CAG report on health sector, highlights AAP govt's lapses in mohalla clinics",
-            "link": "https://www.indiatvnews.com/delhi/delhi-cm-rekha-gupta-tables-cag-report-on-health-sector-highlights-arvind-kejriwal-led-aap-govt-s-lapses-in-mohalla-clinics-reactions-updates-2025-02-28-978407",
-            "keywords": null,
-            "creator": null,
-            "video_url": null,
-            "description": "Delhi Chief Minister Rekha Gupta on Friday presented the Comptroller and Auditor General (CAG) report on Public Health Infrastructure & Management of Health Services, bringing to light the shortcomings of the previous Aam Aadmi Party (AAP)-led government.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-02-28 10:07:27",
-            "pubDateTZ": "UTC",
-            "image_url": "https://resize.indiatvnews.com/en/resize/newbucket/715_-/2022/11/breaking-news-template-1-1667263372.jpg",
-            "source_id": "indiatvnews",
-            "source_priority": 10055,
-            "source_name": "India Tv",
-            "source_url": "https://www.indiatvnews.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/indiatvnews.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "de36d93b7e9ef02dd6863b722a93aff1",
-            "title": "Chhaava Box Office: Vicky Kaushal Outshines ‘Tara Singh’ Sunny Deol In Star Ranking! - Koimoi",
-            "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbTZFLWw0ck5lbVV0TVhEMExRaHlJVVVHNjBWbWJIM0EteFVaOXJaR09rVzBDSGI1S0ZCTk9zYy1sZllTbTFvcUpOYlpCWTFJejBtYm9QWGNfN2NXb2MwaVg2SGtfSmVObVpJMnQ0ajNCcm5CUmRuaGRFeU43NGp4X2NWV2xZbl9jRVBRWkNVSlFpdmc5a29MLWNqdzk1MHV1MlY0SnlNNjBHUWdMZUZNSlgyZ01jZ9IBuwFBVV95cUxPTnBpaDluRWVZSmtHSFp6ejFBUklCSzJaVEFQTlRxemFVSWdZQ2cxTjFRR1RnRjhPbGoyeE9fU21zTzFtSUpwaE9CZ0p5M1JsSk0yNzZZbFZtb3pqRDB6c3A5bDVwNkR4ZmwzaFg3am8yVnV0SFBucXJNbmxBdmxhVk5rMnNNWXhIMWRVWjQzOVVONjR3TE1wNGJwSW5taVhUZVNXU0FTLXVudmIxNUo4TVF5T3M2eGxheG5z?oc=5",
-            "keywords": null,
-            "creator": null,
-            "video_url": null,
-            "description": "Chhaava Box Office: Vicky Kaushal Outshines ‘Tara Singh’ Sunny Deol In Star Ranking! KoimoiDoes the box office success of Vicky Kaushal's 'Chhaava' re-affirm that only larger-than-life stories, ro TOI EtimesChhaava Box Office Day 15 (Early Trends): Beats Baahubali 2, Pushpa 2 & Every Bollywood Film To Achieve A New Feat! KoimoiChhaava box office collection day 14: Vicky Kaushal’s historical blockbuster is just Rs 100 cr shy of overtaking Ranbir Kapoor’s Animal The Indian ExpressChhaava Box Office Collection Day 13: Next Stop For Vicky Kaushal's Film - Rs 400 Crore NDTV Movies",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-02-28 10:07:25",
-            "pubDateTZ": "UTC",
-            "image_url": null,
-            "source_id": "google",
-            "source_priority": 14,
-            "source_name": "Google News",
-            "source_url": "https://news.google.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/google.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "entertainment"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "0497e109b15b9ee7d093a11a4dd5412b",
-            "title": "PSL 2025: Full Schedule For Pakistan Super League 10 Unveiled",
-            "link": "https://news.abplive.com/sports/cricket/psl-2025-full-schedule-for-pakistan-super-league-10-unveiled-1754519",
-            "keywords": [
-                "cricket"
-            ],
-            "creator": [
-                "ABP News Bureau"
-            ],
-            "video_url": null,
-            "description": "PSL 2025 Full Schedule: Pakistan's campaign in ICC Champions Trophy 2025 has ended in disappointment, and with the tournament behind them, the Pakistan Cricket Board (PCB) has now turned its focus to the Pakistan Super League (PSL).The schedule for the 10th edition of Pakistan Super League (PSL) has been officially announced, with the tournament set to begin on April 11. Here's everything you need to know about the upcoming Pakistan Super League (PSL) season 10.Pakistan Super League (PSL) 2025 begins on April 11The 10th season of Pakistan Super League will kick off on April 11, with Islamabad United facing Lahore Qalandars in Rawalpindi. Pakistan Super League (PSL) 2025 will conclude with the final on May 18. Meanwhile, with Indian Premier League (IPL) 2025 set to start in India on March 22, Pakistan's premier T20 league will begin just a few weeks later.Six teams, four cities, 34 matchesAs in previous seasons, six teams will battle for the Pakistan Super League (PSL) trophy. Matches will be played across four venues: Multan, Lahore, Rawalpindi, and Karachi.A total of 34 matches are scheduled for the season. Also, reports suggest that a special match may take place in Peshawar on April 8, just before the tournament officially begins. However, details about the teams involved are yet to be confirmed.Also on ABP Live | Pakistan's Prize Money At ICC Champions Trophy 2025: Complete DetailsKey venues & double headersLahore's Gaddafi Stadium will host 13 matches.Rawalpindi Cricket Stadium will stage 11 matches, including the qualifier on May 13.Karachi's National Bank Stadium and Multan Cricket Stadium will each host five matches.There will be three double-header matchdays during the season.Check out the complete Pakistan Super League (PSL) 2025 schedule below...The #HBLPSLX match schedule is here!🔊 Here's what you need to know about the exciting action ahead 🏏📺 WATCH 👉 https://t.co/9ubVDVeHl2#HBLPSL10 l #DECADEOFHBLPSL pic.twitter.com/LnNPLwG7XQ— Pakistan Cricket (@TheRealPCB) February 28, 2025",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-02-28 10:07:19",
-            "pubDateTZ": "UTC",
-            "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2025/02/28/0e0e77f0f29327d9ce3ef125f14abadb174073713942524_original.jpg",
-            "source_id": "abplive",
-            "source_priority": 7754,
-            "source_name": "Abp News",
-            "source_url": "http://abplive.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/abplive.jpg",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "sports"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "335605493018abcc5f425fc5964340b4",
-            "title": "Anupamaa: Moti Baa's evil plan to use Rahi to change Parag and Prem's sour relationship's dynamics",
-            "link": "https://timesofindia.indiatimes.com/tv/news/hindi/anupamaa-moti-baas-evil-plan-to-use-rahi-to-change-parag-and-prems-sour-relationships-dynamics/articleshow/118626474.cms",
-            "keywords": null,
-            "creator": null,
-            "video_url": null,
-            "description": "Anupamaa's current storyline highlights Rahi and Prem's wedding, with significant events such as Prem honouring his parents during traditions. Moti Baa strategizes to keep the couple from moving to Mumbai by involving Rahi in the family business, and Rahi's choice of attire for the haldi ceremony creates tension.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-02-28 10:07:02",
-            "pubDateTZ": "UTC",
-            "image_url": "https://static.toiimg.com/thumb/msid-118626441,imgsize-883211,width-400,resizemode-4/118626441.jpg",
-            "source_id": "toi",
-            "source_priority": 239,
-            "source_name": "The Times Of India",
-            "source_url": "https://timesofindia.indiatimes.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/toi.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "71bcaaf0e76e0dde09b46739f50be959",
-            "title": "मृत पिता की डिग्री पर इलाज कर रहा था फर्जी डॉक्टर, पुलिस ने की कार्रवाई",
-            "link": "https://www.indiatv.in/maharashtra/maharashtra-police-takes-action-in-fake-doctor-using-his-dead-father-degree-in-nagpur-2025-02-28-1116698",
-            "keywords": null,
-            "creator": null,
-            "video_url": null,
-            "description": "महाराष्ट्र के नागपुर में फर्जी डॉक्टर मृत पिता की डिग्री पर इलाज कर रहा था। महानगरपालिका और पुलिस ने इस मामले में कार्रवाई की है।",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-02-28 10:07:00",
-            "pubDateTZ": "UTC",
-            "image_url": "https://resize.indiatv.in/resize/1200_-/2025/02/fake-doctor-maharashtra-1740736841.jpg",
-            "source_id": "indiatv",
-            "source_priority": 216441,
-            "source_name": "India Tv",
-            "source_url": "https://www.indiatv.in",
-            "source_icon": "https://i.bytvi.com/domain_icons/indiatv.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "4893545753ab6b74a0a8c1b14a106e9a",
-            "title": "Guinea’s former Prime Minister jailed for 5 years for corruption",
-            "link": "https://www.dailyexcelsior.com/guineas-former-prime-minister-jailed-for-5-years-for-corruption/",
-            "keywords": [
-                "international"
-            ],
-            "creator": [
-                "Daily Excelsior"
-            ],
-            "video_url": null,
-            "description": "CONAKRY (Guinea), Feb 28: A special court in Guinea has sentenced the country’s former prime minister to five years in prison after finding him guilty of corruption and embezzlement of public funds. Ibrahima Kassory Fofana, who was prime minister in the government of former President Alpha Conde, was also fined 2 billion Guinean francs ($230,000) during his sentencing on Thursday in the capital of Conakry. Fofana was convicted of embezzling up to 15 billion Guinean francs ($1.7 million) in [...]The post Guinea’s former Prime Minister jailed for 5 years for corruption appeared first on Daily Excelsior.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-02-28 10:06:57",
-            "pubDateTZ": "UTC",
-            "image_url": "https://cdndailyexcelsior.b-cdn.net/wp-content/uploads/2025/02/Corruption-2-696x464.jpg",
-            "source_id": "dailyexcelsior",
-            "source_priority": 693953,
-            "source_name": "Daily Excelsior",
-            "source_url": "https://www.dailyexcelsior.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/dailyexcelsior.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "bb9925c817da8ffd39355d324104f3f2",
-            "title": "At Least 3 Killed, 20 Injured In Blast Inside Madrasa In Pakistan's Khyber Pakhtunkhwa",
-            "link": "https://news.abplive.com/news/world/pakiatan-blast-at-least-3-killed-20-injured-in-blast-inside-madrasa-in-pakistan-s-khyber-pakhtunkhwa-nowshera-1754524",
-            "keywords": [
-                "world"
-            ],
-            "creator": [
-                ""
-            ],
-            "video_url": null,
-            "description": "At Least 3 Killed, 20 Injured In Blast Inside Madrasa In Pakistan's Khyber Pakhtunkhwa",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-02-28 10:06:56",
-            "pubDateTZ": "UTC",
-            "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2024/09/05/6abf7f155d76e306bc0ba561671c38c81725512589653219_original.png",
-            "source_id": "abplive",
-            "source_priority": 7754,
-            "source_name": "Abp News",
-            "source_url": "http://abplive.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/abplive.jpg",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "d2e48c212624cd406916307d3a0e53f4",
-            "title": "इस चौक को मिलेगा नया रूप... नगर निगम ने बनाई खास योजना, मिलेंगी खास सुविधाएं!",
-            "link": "https://hindi.news18.com/news/jharkhand/palamu-municipal-corporation-has-planned-to-convert-chowk-into-park-vendor-zone-parking-space-and-food-court-developed-local18-9065220.html",
-            "keywords": [
-                "झारखंड"
-            ],
-            "creator": [
-                "News18 Hindi"
-            ],
-            "video_url": null,
-            "description": "Palamu News: पलामू के मेदिनीनगर नगर निगम द्वारा छ:मुहान चौक को पार्क में बदलने की योजना बनाई गई है. इसमें वेंडर जोन, पार्किंग स्पेस और फूड कोर्ट विकसित किए जाएंगे. रेड़मा चौक के सौंदर्यीकरण और सड़क चौड़ीकरण की डीपीआर भी तैयार है. योजनाओं से शहर की खूबसूरती और सुविधाएं बढ़ेंगी.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-02-28 10:06:33",
-            "pubDateTZ": "UTC",
-            "image_url": "https://images.news18.com/ibnkhabar/uploads/2025/02/HYP_5005214_cropped_28022025_082417_images_20250228t082357416__2-3x2.jpg",
-            "source_id": "hindinews18",
-            "source_priority": 4077,
-            "source_name": "News 18 Hindi",
-            "source_url": "https://hindi.news18.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/hindinews18.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "d9d79b73e6dcf5b98b46d002112720a4",
-            "title": "देश के पहले राष्ट्रपति डॉ. राजेंद्र प्रसाद की 61वीं पुण्यतिथि:गोपालगंज में DM ने प्रतिमा पर किया माल्यार्पण, कई अधिकारियों ने किया नमन",
-            "link": "https://www.bhaskar.com/local/bihar/gopalganj/news/61st-death-anniversary-of-the-countrys-first-president-dr-rajendra-prasad-134557206.html",
-            "keywords": null,
-            "creator": null,
-            "video_url": null,
-            "description": "गोपालगंज में भारत के प्रथम राष्ट्रपति और महान स्वतंत्रता सेनानी भारत रत्न डॉ. राजेंद्र प्रसाद की 61वीं पुण्यतिथि मनाई गई। जिलाधिकारी प्रशांत कुमार सीएच ने पोस्ट ऑफिस चौक स्थित उनकी प्रतिमा पर माल्यार्पण किया। इस अवसर पर अनुमंडल पदाधिकारी डॉ. प्रदीप कुमार, अनुमंडल लोक शिकायत निवारण पदाधिकारी प्रशांत अभिषेक और अन्य वरिष्ठ अधिकारी मौजूद रहे। सभी ने राजेंद्र बाबू को पुष्पांजलि अर्पित की। भारतीय राष्ट्रीय कांग्रेस के अध्यक्ष थे सीवान के जीरादेई में जन्मे डॉ. राजेंद्र प्रसाद भारतीय स्वतंत्रता आंदोलन के प्रमुख नेताओं में से एक थे। वे भारतीय राष्ट्रीय कांग्रेस के अध्यक्ष भी रहे। राष्ट्रपति बनने से पहले 1946-47 में उन्होंने देश के पहले मंत्रिमंडल में कृषि और खाद्य मंत्री का दायित्व भी संभाला। जिलाधिकारी ने कहा कि भारत के संविधान निर्माण में राजेंद्र प्रसाद की महत्वपूर्ण भूमिका रही। समृद्ध भारत के निर्माण में उनका योगदान सदैव स्मरणीय रहेगा।",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-02-28 10:06:32",
-            "pubDateTZ": "UTC",
-            "image_url": "https://images.bhaskarassets.com/thumb/1000x1000/web2images/521/2025/02/28/319b5d45-66e3-4785-bf2c-bf3b60b4d8d3_1740736749110.jpg",
-            "source_id": "bhaskar_hindi",
-            "source_priority": 34179,
-            "source_name": "Bhaskar",
-            "source_url": "https://www.bhaskar.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/bhaskar_hindi.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top",
-                "tourism"
             ],
             "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
             "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
