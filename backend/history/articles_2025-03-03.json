@@ -1,6 +1,671 @@
 {
     "articles": [
         {
+            "article_id": "e78d4c51ab4fb055922bdbbaf9512e1a",
+            "title": "Bajaj Auto, Ashok Leyland, Eicher Motors & Hero MotoCorp Showed Mixed Results In February",
+            "link": "https://zeenews.india.com/mobility/bajaj-auto-ashok-leyland-eicher-motors-hero-motocorp-showed-mixed-results-in-february-2866960.html",
+            "keywords": null,
+            "creator": [
+                "Zee News"
+            ],
+            "video_url": null,
+            "description": "In February, leading players in India's automotive sector reported mixed results across their sales performance.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-03 14:15:00",
+            "pubDateTZ": "UTC",
+            "image_url": "https://english.cdn.zeenews.com/sites/default/files/styles/zm_700x400/public/2025/03/03/1686350-bajaj-pulsar-n125.jpg?im=Resize%3D%28400%29",
+            "source_id": "zeenews",
+            "source_priority": 5319,
+            "source_name": "Zee News",
+            "source_url": "http://zeenews.india.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/zeenews.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "technology"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "6047242077d69b0f2c49f645f88e0106",
+            "title": "Hyundai Creta के 2 नए मॉडल लॉन्च, स्मार्ट फीचर्स के साथ इतनी है कीमत",
+            "link": "https://hindi.webdunia.com/car-news/hyundai-creta-updated-with-two-new-variants-and-upgraded-features-125030300083_1.html",
+            "keywords": [
+                "car news"
+            ],
+            "creator": null,
+            "video_url": null,
+            "description": "Hyundai ने दो नए वेरिएंट्स को लॉन्च किया है। इनमें से एक वेरिएंट को EX (O) नाम से पेश किया गया है और दूसरे वेरिएंट के तौर पर SX Premium को दिया गया है। हुंडई क्रेटा के SX प्रीमियम वेरिएंट में फ्रंट-पंक्ति में हवादार सीट्स, 8-वे पावर ड्राइवर सीट, बोस ...",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-03 14:15:00",
+            "pubDateTZ": "UTC",
+            "image_url": "https://wd-image.webdunia.com/image-conversion/process-aws.php?h=&outtype=webp&url=https%3A%2F%2Fnonprod-media.webdunia.com%2Fpublic_html%2F_media%2Fhi%2Fimg%2Farticle%2F2025-03%2F03%2Ffull%2F1741011844-2139.jpg&w=",
+            "source_id": "webdunia",
+            "source_priority": 19669,
+            "source_name": "हिन्दी समाचार",
+            "source_url": "https://webdunia.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/webdunia.jpg",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "31de1f259ccf4644e20fae1d4a62ad1f",
+            "title": "Warren Buffett Is Still Holding His Apple Stock: Should You?",
+            "link": "https://finance.yahoo.com/news/warren-buffett-still-holding-apple-141500007.html",
+            "keywords": null,
+            "creator": [
+                "Motley Fool"
+            ],
+            "video_url": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-03 14:15:00",
+            "pubDateTZ": "UTC",
+            "image_url": "https://media.zenfs.com/en/motleyfool.com/0b001e61c957586e7fe5774d56a2be2e",
+            "source_id": "yahoo",
+            "source_priority": 17,
+            "source_name": "Yahoo! News",
+            "source_url": "https://news.yahoo.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/yahoo.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "business"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": true
+        },
+        {
+            "article_id": "9ef63b20b5382f81efe401f54e2e176d",
+            "title": "Gujarat RTE Admission 2025: Registration Begins At rte1.orpgujarat.com, Steps To Apply",
+            "link": "https://www.news18.com/education-career/gujarat-rte-admission-2025-registration-begins-at-rte1-orpgujarat-com-steps-to-apply-ws-d-9248321.html",
+            "keywords": [
+                "education and career"
+            ],
+            "creator": null,
+            "video_url": null,
+            "description": "Gujarat RTE Admission 2025: Families earning an annual income of Rs 1.5 lakh or less are eligible and must submit relevant documents for verification to the Directorate of Primary Education",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-03 14:14:55",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.news18.com/ibnlive/uploads/2025/02/schools-5-2025-02-fc471e170753df3696bf015f6eabe5d9-3x2.jpg",
+            "source_id": "news18",
+            "source_priority": 1063,
+            "source_name": "News 18",
+            "source_url": "https://www.news18.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/news18.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "education"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "b1eecf5bd3cc9e77e23d23a668ac5e6a",
+            "title": "पीलीभीत में चौकी प्रभारी लाइन हाजिर, दो बीट कांस्टेबल निलंबित:एसपी ने दिए जल्द खुलासे के आदेश, दो दुकानों में हुई थी चोरी",
+            "link": "https://www.bhaskar.com/local/uttar-pradesh/pilibhit/news/outpost-in-charge-present-in-line-in-pilibhit-two-beat-constables-suspended-134576651.html",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "पीलीभीत के जहानाबाद थाना क्षेत्र में बढ़ती चोरी की घटनाओं को लेकर एसपी ने बड़ी कार्रवाई की है। शाही चौकी प्रभारी को लाइन हाजिर कर दिया गया है। साथ ही दो बीट कांस्टेबलों को निलंबित किया गया है। फरवरी के पहले सप्ताह में खमरियापुल में दो दुकानों से बड़ी चोरी हुई थी। ओजस्वी ज्वैलर्स से चोर एक किलोग्राम चांदी और सात ग्राम सोने के जेवरात ले गए। दूसरी दुकान बर्तन भंडार से पीतल के बर्तन और नगदी चोरी की गई। दोनों दुकानों से कुल तीन लाख रुपये का सामान चोरी हुआ। दुकान मालिक पुष्पेंद्र के अनुसार, चोरों ने तिजोरी तोड़ने का प्रयास किया। लेकिन वे इसमें सफल नहीं हो पाए। एसपी अविनाश पांडेय ने शाही चौकी प्रभारी हरवंश कुमार को लाइन हाजिर किया है। बीट कांस्टेबल पराग गौण और कपिल को निलंबित कर दिया है। एसपी ने थाना प्रभारी को चोरी का जल्द खुलासा करने के निर्देश दिए हैं। उन्होंने चेतावनी दी है कि खुलासा न होने पर और कार्रवाई की जाएगी।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-03 14:14:54",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.bhaskarassets.com/thumb/1000x1000/web2images/521/2025/03/03/97046b8b-0a9b-46b4-8cfb-2952ed8ef007_1741009447094.jpg",
+            "source_id": "bhaskar_hindi",
+            "source_priority": 34179,
+            "source_name": "Bhaskar",
+            "source_url": "https://www.bhaskar.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/bhaskar_hindi.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top",
+                "domestic"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "f42af43fcb3477d6e71527ebb267bfc0",
+            "title": "C’garh: In a first, C’garh finance minister presents hand written budget in Assembly",
+            "link": "https://www.deccanchronicle.com/nation/cgarh-in-a-first-cgarh-finance-minister-presents-hand-written-budget-in-assembly-1864694",
+            "keywords": [
+                "nation,news"
+            ],
+            "creator": [
+                "Rabindra Nath Choudhury"
+            ],
+            "video_url": null,
+            "description": "In a first of its kind move, Chhattisgarh finance minister O P Choudhury on Monday presented a 100-page handwritten budget for 2025-26 in the Assembly.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-03 14:14:53",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.deccanchronicle.com/h-upload/2025/03/03/1895727-budget.webp",
+            "source_id": "deccanchronicle",
+            "source_priority": 14130,
+            "source_name": "Deccan Chronicle",
+            "source_url": "https://www.deccanchronicle.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/deccanchronicle.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": true
+        },
+        {
+            "article_id": "e6ba79e3403d371bf60aeecaf72a0558",
+            "title": "आम आदमी पार्टी की एक खूबी है... विधानसभा में सीएम रेखा गुप्ता ने आतिशी पर कसा तंज",
+            "link": "https://www.tv9hindi.com/india/delhi-cag-report-health-department-rekha-gupta-bjp-aap-atishi-arvind-kejriwal-assembly-session-ayushman-3151781.html",
+            "keywords": null,
+            "creator": [
+                "Kumar Kundan"
+            ],
+            "video_url": null,
+            "description": "दिल्ली में स्वास्थ्य सुविधाओं पर बोलते हुए सीएम रेखा गुप्ता ने विधानसभा में कहा कि आम आदमी पार्टी के अंदर एक खूबी है कि वो अंत में अपनी गलती मान लेती है. आतिशी ने आखिरी में मान ही लिया कि उनकी गलती है. स्वाति मालीवाल के साथ घर में मारपीट की जा सकती है तो आतिशी के साथ भी हो सकती है.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-03 14:14:44",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.tv9hindi.com/wp-content/uploads/2025/03/delhi-cm-rekha-gupta.jpg",
+            "source_id": "tv9bharatvarsh",
+            "source_priority": 40538658,
+            "source_name": "Tv9 Bharatvarsh",
+            "source_url": "https://www.tv9hindi.com",
+            "source_icon": null,
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "domestic"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "3508d31d6a649db2fdf5001d7091dd74",
+            "title": "India News | Bal Mitras Participated in Various Programs in 30 Major Cities Across 30 States to Spread Awareness About Jan Aushadhi",
+            "link": "https://www.latestly.com/agency-news/india-news-bal-mitras-participated-in-various-programs-in-30-major-cities-across-30-states-to-spread-awareness-about-jan-aushadhi-6683721.html",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "Get latest articles and stories on India at LatestLY. At the initiative of the Prime Minister, the 7th of March is celebrated every year as \"Jan Aushadhi Diwas\" with a view to enhance awareness about the scheme and promote generic medicines",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-03 14:14:34",
+            "pubDateTZ": "UTC",
+            "image_url": "https://st1.latestly.com/wp-content/uploads/2025/03/ANI-20250303135309-380x214.jpg",
+            "source_id": "latestly",
+            "source_priority": 31923,
+            "source_name": "Latestly",
+            "source_url": "https://www.latestly.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/latestly.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "11d57c85359f305dd84704cbebd7ce55",
+            "title": "Can alternative investment funds (AIFs) accept joint investments?",
+            "link": "https://www.cnbctv18.com/alternative-investment-fund/can-alternative-investment-funds-aifs-accept-joint-investments-19567612.htm",
+            "keywords": [
+                "latest"
+            ],
+            "creator": null,
+            "video_url": null,
+            "description": "While many alternative investment funds are open to individuals, joint investors may also be allowed if they meet the fund’s investor eligibility standards. Joint investments may require formal agreements between the parties to define the terms under which they pool their resources for the fund.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-03 14:14:33",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.cnbctv18.com/uploads/2025/02/key-opportunities-2025-02-c3af64dfc91e4c7ca5cd29ea6cf3d77b.jpg",
+            "source_id": "cnbctv18",
+            "source_priority": 17950,
+            "source_name": "Cnbctv18",
+            "source_url": "https://www.cnbctv18.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/cnbctv18.jpg",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "cb6c7f69d752ce0562112c94f6697123",
+            "title": "Mohinder Bhagat Reviews Horticulture Progress, Directs Swift Subsidy Disbursal to Farmers",
+            "link": "https://yespunjab.com/mohinder-bhagat-reviews-horticulture-progress-directs-swift-subsidy-disbursal-to-farmers/",
+            "keywords": [
+                "farmer benefits punjab",
+                "featured",
+                "horticulture awareness campaigns",
+                "punjab budget allocations",
+                "punjab",
+                "punjab agriculture growth",
+                "punjab farming schemes",
+                "mohinder bhagat",
+                "punjab government agriculture",
+                "punjab horticulture policies",
+                "horticulture job vacancies",
+                "horticulture development",
+                "horticulture subsidies punjab",
+                "punjab horticulture"
+            ],
+            "creator": [
+                "YP Team"
+            ],
+            "video_url": null,
+            "description": "Chandigarh, March 3, 2025 (Yes Punjab News) Punjab Horticulture Minister Mohinder Bhagat held a review meeting today in Chandigarh to assess the progress of various ongoing projects under the Horticulture Department. During the meeting, the minister emphasized the need for transparent and timely disbursal of subsidies to farmers. He reviewed key departmental issues, including budget [...]The post Mohinder Bhagat Reviews Horticulture Progress, Directs Swift Subsidy Disbursal to Farmers appeared first on Yes Punjab News.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-03 14:14:26",
+            "pubDateTZ": "UTC",
+            "image_url": "https://yespunjab.com/wp-content/uploads/2024/11/Mohinder-Bhagat-AAP-Candidate-696x497.jpg",
+            "source_id": "yespunjab",
+            "source_priority": 422545,
+            "source_name": "Yes Punjab News",
+            "source_url": "https://yespunjab.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/yespunjab.jpg",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "e02702e043bebf2b5d3845f7dd1aebce",
+            "title": "Asteroid Alert! Two Over 100-Foot Asteroids Heading Towards Earth Tomorrow, NASA Issues Warning",
+            "link": "https://www.timesnownews.com/technology-science/science/asteroid-alert-two-over-100-foot-asteroids-heading-towards-earth-tomorrow-nasa-issues-warning-article-118687698",
+            "keywords": null,
+            "creator": [
+                "TN Science Desk"
+            ],
+            "video_url": null,
+            "description": "NASA warns of two giant asteroids hurtling towards Earth tomorrow. Will they pass safely, or is a collision imminent?",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-03 14:14:22",
+            "pubDateTZ": "UTC",
+            "image_url": "https://static.tnn.in/thumb/msid-118687698,imgsize-1619577,width-1280,height-720/118687698.jpg",
+            "source_id": "timesnownews",
+            "source_priority": 2243,
+            "source_name": "Times Now News",
+            "source_url": "https://www.timesnownews.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/timesnownews.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "e29bf8bf1b14549e5b74dacf17307c6d",
+            "title": "Asteroid Alert! Two Over 100-Foot Asteroids Heading Towards Earth Tomorrow, NASA Issues Warning - Times Now",
+            "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPSG5FVkMyODE3bTFybjZMRUs0Y19oTzBUVGNzNnRKTUF2M1F1SWVCVXR3M09QN1ptd2FfeU5kSElJUEIxLVJ0YVdOaThIWHRIUjJsamhoNFNaNFA2V29PUW85ZkF3UHQ4QXNEWDRkR1JsdkhhM2RfbGVIYlJ3R2dPZUtLaXdXNHhlOW83YjFCajJGam1WMW9kS0hqLV9nQUxpWWlaMnZzcmJ6NlVZd0VRUkc3d2h4NUJWSjRWTVhzcTdwaUNsNEFEQzVkZzdHVWVUR3Y5RXJZOVpmaXQ4ank1SXVMbTR6Ni1IUDBxLUlhNGZ3eHJFV1FEYUd2a9IBgAJBVV95cUxPZHhReGtka1ZNb2xVVHphNG55MWZvOUxLS29kZTUtMjdJeEJ1QUFHRVFtSk5ncGpzX2Jtejc4SnV6R25QbE5BeW5yM3lQSFo0b3ZjX0FXdmNNSEpYcjdwaUJuTGpPOHNJX0ltSkFzRGdJd1g3YkpfcXFzaHJzMWRVWi1lNjJ0MWlhWThqSGZxNHlKdWw0SDNIbGhtVjJ5dlpiR2xaU1EwLWRJTXZvdGx5cGhsMDRtaTdkZWtNRUlXVzB3ODFPU3JuQ1l2WkctMENkWTZVWTd1NlA4TDFZVEpTMXR2UlRPUEtkMVh4QUREMUNPdVk2ZFIxX3hzaVRPWmVk?oc=5",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "Asteroid Alert! Two Over 100-Foot Asteroids Heading Towards Earth Tomorrow, NASA Issues Warning Times NowThis 150-Foot Asteroid To Get Very Close To Earth Today; It Is Speeding At 23115 MPH, Says NASA NDTV ProfitNASA Confirms Asteroid 2025 DU7 Safely Passes Close to Earth Bizz BuzzHouse-Sized Asteroid Approaching Earth Tomorrow, NASA Reports MSNMassive Asteroid Racing Towards Earth: What You Need to Know Scimag.news",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-03 14:14:18",
+            "pubDateTZ": "UTC",
+            "image_url": null,
+            "source_id": "google",
+            "source_priority": 14,
+            "source_name": "Google News",
+            "source_url": "https://news.google.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/google.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "science"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "baf0e0b5815475a3a031be86869771fa",
+            "title": "NBA Coach JJ Redick warns the teams playing drops to watch out for Luka Doncic",
+            "link": "https://timesofindia.indiatimes.com/sports/nba/top-stories/nba-coach-jj-redick-warns-the-teams-playing-drops-to-watch-out-for-luka-doncic/articleshow/118687616.cms",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "JJ Redick cautions that using a \"drop\" defense against Luka Doncic will lead to major scoring issues. He emphasizes that Doncic's ability to score and make quick decisions requires a more aggressive defensive strategy to avoid being outplayed.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-03 14:14:16",
+            "pubDateTZ": "UTC",
+            "image_url": "https://static.toiimg.com/thumb/msid-118687624,width-1070,height-580,imgsize-64254,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "source_id": "toi",
+            "source_priority": 239,
+            "source_name": "The Times Of India",
+            "source_url": "https://timesofindia.indiatimes.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/toi.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "6adfb8965b4938a9328a6aab5e43df9c",
+            "title": "किसानों को आधुनिक खेती की ट्रेनिंग मिली:बागवानी से लेकर फसलों के रखरखाव तक की जानकारी, कोंडागांव के 30 आदिवासी किसान शामिल",
+            "link": "https://www.bhaskar.com/local/chhattisgarh/kondagaon/news/kondagaon-farmers-got-training-in-modern-farming-134576648.html",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "कोंडागांव जिले के किसानों को आधुनिक खेती की ट्रेनिंग दी गई। इस दौरान उन्हें खेती की तैयारी से लेकर फसलों के रखरखाव तक पूरी जानकारी दी गई। शासकीय उद्यान रोपणी कोपाबेड़ा में समग्र ग्रामीण विकास कार्यक्रम के तहत उन्हें विस्तार से समझाया गया। यह कार्यक्रम निजी कंपनियों के परियोजना के तहत चलाया गया। कार्यक्रम में कोंडागांव के दूरदराज के क्षेत्रों से 30 आदिवासी किसानों ने हिस्सा लिया। किसानों को व्यावहारिक जानकारी देने के लिए रोपणी का भ्रमण कराया गया। रोपणी प्रभारी लोकेश्वर प्रसाद ने किसानों को कृषि वानिकी के बारे में विस्तार से बताया। बागवानी फसलों के रखरखाव की जानकारी प्रशिक्षण में खेती की तैयारी, पौधों की रोपाई की दूरी और बागवानी फसलों के रखरखाव की जानकारी दी गई। साथ ही किसानों को सरकारी योजनाओं से भी अवगत कराया गया। इस प्रशिक्षण का मुख्य उद्देश्य किसानों को आधुनिक खेती से जोड़ना और प्रति इकाई क्षेत्र से अधिक लाभ कमाने में मदद करना था। कार्यक्रम में ग्राम बम्हनी और तोतर के किसान शामिल हुए। अंबुजा फाउंडेशन की ओर से नेहा कुशवाहा और अन्य पदाधिकारी भी मौजूद रहे।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-03 14:14:14",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.bhaskarassets.com/thumb/1000x1000/web2images/521/2025/03/03/50e5da21-2af7-4bad-a1bc-5f1c33a182df1741009579613-_1741010865.jpg",
+            "source_id": "bhaskar_hindi",
+            "source_priority": 34179,
+            "source_name": "Bhaskar",
+            "source_url": "https://www.bhaskar.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/bhaskar_hindi.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "domestic",
+                "other"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "4bc3538bb90bebeb976806eb26eff0c4",
+            "title": "Moily’s comment stirs up leadership issue again; D.K. Shivakumar says he will comply with Kharge’s directions",
+            "link": "https://www.thehindu.com/news/national/karnataka/moilys-comment-stirs-up-leadership-issue-again-dk-shivakumar-says-he-will-comply-with-kharges-directions/article69285160.ece",
+            "keywords": [
+                "karnataka"
+            ],
+            "creator": null,
+            "video_url": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-03 14:14:03",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.thehindu.com/theme/images/th-online/1x1_spacer.png",
+            "source_id": "thehindu",
+            "source_priority": 2972,
+            "source_name": "The Hindu",
+            "source_url": "https://www.thehindu.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/thehindu.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "a7ad7fc8bf2f3dd8bf8453547237a490",
+            "title": "Clashes break out in Bengal colleges over SFI’s student strike",
+            "link": "https://www.hindustantimes.com/cities/kolkata-news/clashes-break-out-in-bengal-colleges-over-sfi-s-student-strike-101741011239790.html",
+            "keywords": [
+                "cities"
+            ],
+            "creator": null,
+            "video_url": null,
+            "description": "Clashes erupted after the Leftist student unions tried to enforce a strike in various universities and colleges while the Trinamool Chhatra Parishad opposed it",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-03 14:13:59",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.hindustantimes.com/ht-img/img/2025/03/03/1600x900/Members-of-CPI-M--students-wing-SFI-stage-a-protes_1741011236863.jpg",
+            "source_id": "hindustantimes",
+            "source_priority": 933,
+            "source_name": "Hindustan Times",
+            "source_url": "http://www.hindustantimes.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/hindustantimes.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "a008badddab3192c78bb2532a9d68852",
+            "title": "Alec Baldwin shares one of \"most regrettable things\" about his divorce from Kim Basinger",
+            "link": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/alec-baldwin-shares-one-of-most-regrettable-things-about-his-divorce-from-kim-basinger/articleshow/118687669.cms",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "Actor and film producer Alec Baldwin talked about his divorce from ex-wife Kim Basinger more than two decades after their marriage ended.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-03 14:13:58",
+            "pubDateTZ": "UTC",
+            "image_url": "https://static.toiimg.com/thumb/msid-118687669,imgsize-23492,width-400,resizemode-4/118687669.jpg",
+            "source_id": "toi",
+            "source_priority": 239,
+            "source_name": "The Times Of India",
+            "source_url": "https://timesofindia.indiatimes.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/toi.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "bb89cd98a7545de716108597a589ec27",
+            "title": "India's Microbrewery Boom: How Craft Beer Is Redefining the Drinking Culture",
+            "link": "https://www.news18.com/lifestyle/indias-microbrewery-boom-how-craft-beer-is-redefining-the-drinking-culture-9248343.html",
+            "keywords": [
+                "lifestyle"
+            ],
+            "creator": null,
+            "video_url": null,
+            "description": "India's microbrewery boom is reshaping the drinking culture by fostering a deep appreciation for craftsmanship, quality, and locally sourced ingredients.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-03 14:13:57",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.news18.com/ibnlive/uploads/2025/03/Shutterstock_1842514762-2025-03-06d43480468af54a9034f28623f25343-3x2.jpg",
+            "source_id": "news18",
+            "source_priority": 1063,
+            "source_name": "News 18",
+            "source_url": "https://www.news18.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/news18.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "lifestyle"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "080e03d53a9b40fe92791610aaae75fd",
+            "title": "Reservation system is a farce as it is being followed only for third, fourth grade jobs: Thol. Thirumavalavan",
+            "link": "https://www.thehindu.com/news/cities/Madurai/reservation-system-is-a-farce-as-it-is-being-followed-only-for-third-fourth-grade-jobs-thol-thirumavalavan/article69286165.ece",
+            "keywords": [
+                "madurai"
+            ],
+            "creator": null,
+            "video_url": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-03 14:13:52",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.thehindu.com/theme/images/th-online/1x1_spacer.png",
+            "source_id": "thehindu",
+            "source_priority": 2972,
+            "source_name": "The Hindu",
+            "source_url": "https://www.thehindu.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/thehindu.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "2b7e34315f13ca662f1c4dac9effeeed",
+            "title": "Bihar Land Mutation: लैंड म्यूटेशन को लेकर सरकार ने फिर जारी की गाइडलाइन, जमीन मालिकों को होगा फायदा",
+            "link": "https://www.jagran.com/bihar/patna-city-bihar-land-mutation-streamlined-land-record-correction-district-officers-regain-authority-23894096.html",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "दाखिल-खारिज की प्रक्रिया में होने वाली गलतियों को सुधारने का अधिकार अब फिर से अंचल अधिकारियों को मिल गया है। राजस्व एवं भूमि सुधार विभाग के सचिव जय सिंह ने सभी समाहर्ताओं को पत्र लिखकर निर्देश दिया है कि दाखिल-खारिज संबंधी आदेश पारित करने के दौरान हुई लिपिकीय या गणित संबंधी भूलों को अंचल अधिकारी स्वप्रेरणा से या किसी पक्षकार के आवेदन पर शुद्ध कर सकेंगे।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-03 14:13:52",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.jagranimages.com/images/newimg/03032025/03_03_2025-bihar_land_mutation_1_23894096_m.webp",
+            "source_id": "jagran",
+            "source_priority": 6734,
+            "source_name": "ताजा हिंदी ख़बरें",
+            "source_url": "https://www.jagran.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/jagran.jpg",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "domestic"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
             "article_id": "5959f055885d705d220d76b077096913",
             "title": "Champions Trophy 2025: What happens if IND vs AUS or NZ vs SA semi-final clashes get washed out?",
             "link": "https://www.dnaindia.com/cricket/report-champions-trophy-2025-what-happens-if-india-vs-australia-or-new-zealand-vs-south-africa-semi-final-clashes-get-washed-out-3136509",
