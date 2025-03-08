@@ -1,6 +1,648 @@
 {
     "articles": [
         {
+            "article_id": "4af260632f16d8d9294501680ffa5cfb",
+            "title": "Railways to build waiting areas at 60 stations, restrict access to platforms",
+            "link": "https://www.thehindu.com/news/national/railways-to-build-waiting-areas-at-60-stations-restrict-access-to-platforms/article69302859.ece",
+            "keywords": [
+                "india"
+            ],
+            "creator": null,
+            "video_url": null,
+            "description": "A high-level meeting headed by Union Railway Minister Ashwini Vaishnaw discussed crowd control measures following the Kumbh stampede at New Delhi station",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-07 15:08:57",
+            "pubDateTZ": "UTC",
+            "image_url": "https://th-i.thgim.com/public/incoming/vub4ae/article69303766.ece/alternates/LANDSCAPE_1200/20250305133L.jpg",
+            "source_id": "thehindu",
+            "source_priority": 2972,
+            "source_name": "The Hindu",
+            "source_url": "https://www.thehindu.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/thehindu.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "dd56c0ac0661a98d43c458b8c60c172d",
+            "title": "Denmark's state-run postal service will no longer deliver letters",
+            "link": "https://www.washingtontimes.com/news/2025/mar/7/denmarks-state-run-postal-service-longer-deliver-letters/",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "No more mail for Denmark: PostNord will stop delivering letters to the Nordic nation at the end of 2025, though package distribution will remain.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-07 15:08:54",
+            "pubDateTZ": "UTC",
+            "image_url": "https://twt-thumbs.washtimes.com/media/image/2025/03/07/Denmark_Postal_Service_13242_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c=",
+            "source_id": "washingtontimes",
+            "source_priority": 9784,
+            "source_name": "The Washington Times",
+            "source_url": "https://www.washingtontimes.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/washingtontimes.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "world"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": true
+        },
+        {
+            "article_id": "f0f4c8eaa8e97290f9601ada5293888f",
+            "title": "Maserati kills electric version of MC20 supercar for lack of demand",
+            "link": "https://arstechnica.com/cars/2025/03/maserati-kills-electric-version-of-mc20-supercar-for-lack-of-demand/",
+            "keywords": [
+                "maserati mc20",
+                "cars"
+            ],
+            "creator": [
+                "Jonathan M. Gitlin"
+            ],
+            "video_url": null,
+            "description": "Buyers are increasingly turned off by electrification when it comes to supercars.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-07 15:08:51",
+            "pubDateTZ": "UTC",
+            "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2020/09/Medium-16857-MaseratiMC20-1152x648.jpg",
+            "source_id": "arstechnica",
+            "source_priority": 3840,
+            "source_name": "Ars Technica",
+            "source_url": "https://arstechnica.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/arstechnica.png",
+            "language": "english",
+            "country": [
+                "india",
+                "canada",
+                "united states of america"
+            ],
+            "category": [
+                "technology"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "16b0ee5e66997728806660956cc7df41",
+            "title": "पिता के बाद क्या बेटे को भी मिल सकता है पीएम आवास योजना का लाभ? ये हैं नियम",
+            "link": "https://www.abplive.com/utility-news/pm-awas-yojana-eligibility-can-son-also-get-benefit-of-pm-awas-yojana-after-father-2899314",
+            "keywords": [
+                "यूटिलिटी"
+            ],
+            "creator": [
+                ""
+            ],
+            "video_url": null,
+            "description": "पिता के बाद क्या बेटे को भी मिल सकता है पीएम आवास योजना का लाभ? ये हैं नियम",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-07 15:08:50",
+            "pubDateTZ": "UTC",
+            "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2025/03/07/ba5748fdd66d00f8c414f6f5e0585eef17413601124251169_original.jpg",
+            "source_id": "abplive",
+            "source_priority": 7754,
+            "source_name": "Abp News",
+            "source_url": "http://abplive.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/abplive.jpg",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "d63a854768b73f935eab4a54b943c931",
+            "title": "'Have To Keep Getting Points': David Moyes Feels Everton Are Not Safe From Relegation Battle",
+            "link": "https://www.news18.com/football/have-to-keep-getting-points-david-moyes-feels-everton-are-not-safe-from-relegation-battle-9253346.html",
+            "keywords": [
+                "football"
+            ],
+            "creator": null,
+            "video_url": null,
+            "description": "David Moyes praises Everton's form but warns relegation threat remains. Unbeaten in February, the Toffees aim to keep improving under his leadership.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-07 15:08:46",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.news18.com/ibnlive/uploads/2025/02/David-Moyes-2025-02-a62edcfa02b3b41b8901dc9d63a37f55-3x2.png",
+            "source_id": "news18",
+            "source_priority": 1063,
+            "source_name": "News 18",
+            "source_url": "https://www.news18.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/news18.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "sports"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "505b87122ef6e7137cdede091c6da414",
+            "title": "3 Express Trains To Originate From Bhubaneswar New Station: ECoR",
+            "link": "https://odishabytes.com/3-express-trains-to-originate-from-bhubaneswar-new-station-ecor/",
+            "keywords": [
+                "bhubaneswar",
+                "city"
+            ],
+            "creator": [
+                "OB Bureau"
+            ],
+            "video_url": null,
+            "description": "Bhubaneswar: Three Express trains will soon originate from Bhubaneswar New railway station in Odisha, the East Coast Railway (ECoR) informed on Friday. These trains are Bhubaneswar-Mumbai Konark Express, Bhubaneswar-Secunderabad Visakha Express and Bhubaneswar-Visakhapatnam Intercity Express. “The date of implementation for these changes will be announced shortly,” it said. The ECoR further stated that introduction of [...]The post 3 Express Trains To Originate From Bhubaneswar New Station: ECoR appeared first on Odisha Bytes.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-07 15:08:43",
+            "pubDateTZ": "UTC",
+            "image_url": "https://assets.odishabytes.com/wp-content/uploads/2025/03/BHUBANESWAR-NEW-STATION-1200x672.jpg",
+            "source_id": "odishabytes",
+            "source_priority": 512881,
+            "source_name": "Odisha Bytes News",
+            "source_url": "https://odishabytes.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/odishabytes.jpg",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "1ce2d4c3c522d0efab06eafe6ffbd0aa",
+            "title": "Rupee jumps 17 paise to settle at 86.95 against US dollar",
+            "link": "https://www.theweek.in/wire-updates/business/2025/03/07/del90-biz-ld-rupee.html",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "Mumbai, Mar 7 (PTI) The rupee rebounded and settled with a gain of 17 paise at 86.95 against",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-07 15:08:41",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.theweek.in/content/dam/week/wire-updates/pti-preview-theweek.jpg",
+            "source_id": "theweek_in",
+            "source_priority": 26911,
+            "source_name": "The Week",
+            "source_url": "https://www.theweek.in",
+            "source_icon": "https://i.bytvi.com/domain_icons/theweek_in.jpg",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "business"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "d4518d925f00df253cdfce04c232d31b",
+            "title": "Bajwa calls on all parties to discuss delimitation warns of Punjab's enfeeblement",
+            "link": "https://www.theweek.in/wire-updates/national/2025/03/07/des65-pb-delimitation-bajwa.html",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "Chandigarh, Mar 7 (PTI) Punjab Congress leader Partap Singh Bajwa on Friday called on leaders of all the political parties",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-07 15:08:41",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.theweek.in/content/dam/week/wire-updates/pti-preview-theweek.jpg",
+            "source_id": "theweek_in",
+            "source_priority": 26911,
+            "source_name": "The Week",
+            "source_url": "https://www.theweek.in",
+            "source_icon": "https://i.bytvi.com/domain_icons/theweek_in.jpg",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "world"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "132f045c3396dc4b056000393edbd547",
+            "title": "Tariffs may impact Indian exports to US provided inputs to govt EXIM Bank Dy MD",
+            "link": "https://www.theweek.in/wire-updates/business/2025/03/07/dcm75-biz-us-tariff-exim-bank.html",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "Mumbai, Mar 7 (PTI) A change in stance with regard to tariffs by the US may impact Indian exports to",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-07 15:08:40",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.theweek.in/content/dam/week/wire-updates/pti-preview-theweek.jpg",
+            "source_id": "theweek_in",
+            "source_priority": 26911,
+            "source_name": "The Week",
+            "source_url": "https://www.theweek.in",
+            "source_icon": "https://i.bytvi.com/domain_icons/theweek_in.jpg",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "business"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "8377ebcdce6a0dd533b7709bbcd810ff",
+            "title": "AgustaWestland case I can't accept bail says Christian Michel James",
+            "link": "https://www.theweek.in/wire-updates/national/2025/03/07/lgd20-dl-court-michel-bail.html",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "New Delhi, Mar 7 (PTI) Christian Michel James, an alleged middleman in AgustaWestland case, on Friday offered to \"finish his",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-07 15:08:40",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.theweek.in/content/dam/week/wire-updates/pti-preview-theweek.jpg",
+            "source_id": "theweek_in",
+            "source_priority": 26911,
+            "source_name": "The Week",
+            "source_url": "https://www.theweek.in",
+            "source_icon": "https://i.bytvi.com/domain_icons/theweek_in.jpg",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "world"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "2f6100bc971645e21c8185d672885ae9",
+            "title": "Nagaland Assembly stresses on oil exploration to boost economy",
+            "link": "https://www.theweek.in/wire-updates/national/2025/03/07/ces27-nl-assembly-exploration.html",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "Kohima, Mar 7 (PTI) The Nagaland Assembly on Friday emphasised the need for exploration and extraction of petroleum and natural",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-07 15:08:40",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.theweek.in/content/dam/week/wire-updates/pti-preview-theweek.jpg",
+            "source_id": "theweek_in",
+            "source_priority": 26911,
+            "source_name": "The Week",
+            "source_url": "https://www.theweek.in",
+            "source_icon": "https://i.bytvi.com/domain_icons/theweek_in.jpg",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "world"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "d0b48fb72adf84cbc2002e9ee758950e",
+            "title": "Giani Harpreet Singh calls Akal Takht jathedar's removal 'black day' for Sikhs leaders slam move",
+            "link": "https://www.theweek.in/wire-updates/national/2025/03/07/des67-pb-akal-takht-jathedar-reax.html",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "Chandigarh, Mar 7 (PTI) Former Akal Takht acting jathedar Giani Harpreet Singh on Friday strongly condemned the dismissals of the",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-07 15:08:39",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.theweek.in/content/dam/week/wire-updates/pti-preview-theweek.jpg",
+            "source_id": "theweek_in",
+            "source_priority": 26911,
+            "source_name": "The Week",
+            "source_url": "https://www.theweek.in",
+            "source_icon": "https://i.bytvi.com/domain_icons/theweek_in.jpg",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "world"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "51caa97425d9be192801301332c685ab",
+            "title": "\"मैंने पिच पर उन्हें पूरा परेशान किया, लेकिन उन्होंने...\", पाकिस्तानी स्पिनर अबरार अहमद ने किया विराट के साथ घटना का खुलासा",
+            "link": "https://ndtv.in/cricket/champions-trophy-2025-i-teased-him-but-he-didnt-respond-at-all-pakistan-spinner-abrar-ahmed-reveals-the-incident-with-virat-kohli-hindi-7871981",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "Ind vs Pak: अबरार ने भारत के खिलाफ कोहली को शब्दों से परेशान करने में कसर नहीं छोड़ी. इस युवा ने बताया कि विराट क्यों बहुत स्पेशल हैं",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-07 15:08:38",
+            "pubDateTZ": "UTC",
+            "image_url": "https://c.ndtvimg.com/2025-03/nirq4p48_virat-kohli_625x300_07_March_25.jpeg?im=FitAndFill%2Calgorithm%3Ddnn%2Cwidth%3D1200%2Cheight%3D738",
+            "source_id": "ndtv_in",
+            "source_priority": 129751,
+            "source_name": "Ndtv",
+            "source_url": "https://www.ndtv.in",
+            "source_icon": "https://i.bytvi.com/domain_icons/ndtv_in.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "sports"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "2e8427f5d552377211df86dfd7670801",
+            "title": "PM Modi to visit Mauritius next week to grace national day celebrations",
+            "link": "https://www.theweek.in/wire-updates/national/2025/03/07/del91-mea-pm-ld-mauritius.html",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "New Delhi, Mar 7 (PTI) Prime Minister Narendra Modi will pay a two-day state visit to Mauritius beginning March",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-07 15:08:38",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.theweek.in/content/dam/week/wire-updates/pti-preview-theweek.jpg",
+            "source_id": "theweek_in",
+            "source_priority": 26911,
+            "source_name": "The Week",
+            "source_url": "https://www.theweek.in",
+            "source_icon": "https://i.bytvi.com/domain_icons/theweek_in.jpg",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "world"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "9d82d763c702754f2ef3caec70105b9c",
+            "title": "14 fishermen arrested by Sri Lanka Stalin tells Jaishankar seeks action for their release",
+            "link": "https://www.theweek.in/wire-updates/national/2025/03/07/mds43-tn-fishermen-cm.html",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "Chennai, Mar 7 (PTI) Chief Minister M K Stalin on Friday wrote to External Affairs Minister S Jaishankar, apprising",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-07 15:08:38",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.theweek.in/content/dam/week/wire-updates/pti-preview-theweek.jpg",
+            "source_id": "theweek_in",
+            "source_priority": 26911,
+            "source_name": "The Week",
+            "source_url": "https://www.theweek.in",
+            "source_icon": "https://i.bytvi.com/domain_icons/theweek_in.jpg",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "world"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "609326ddde909686a1e03d3600facb87",
+            "title": "Cybercrime revenue massive two criminals bought helicopter last year Maharashtra Cyber chief",
+            "link": "https://www.theweek.in/wire-updates/national/2025/03/07/bom38-mh-cybercrime.html",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "Mumbai, Mar 7 (PTI) The image of the cyber criminal wearing a hoodie, typing away on a laptop, and trying",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-07 15:08:38",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.theweek.in/content/dam/week/wire-updates/pti-preview-theweek.jpg",
+            "source_id": "theweek_in",
+            "source_priority": 26911,
+            "source_name": "The Week",
+            "source_url": "https://www.theweek.in",
+            "source_icon": "https://i.bytvi.com/domain_icons/theweek_in.jpg",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "world"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "85d1741285a1fd15b280b5f28c46f666",
+            "title": "Not Chris Gayle or AB de Villiers: Gautam Gambhir Names Batsman Who Gave Him Sleepless Nights",
+            "link": "https://www.timesnownews.com/sports/cricket/not-chris-gayle-or-ab-de-villiers-gautam-gambhir-picks-rohit-sharma-as-batsman-who-gave-him-sleepless-nights-article-118789683",
+            "keywords": null,
+            "creator": [
+                "Rishav Narang"
+            ],
+            "video_url": null,
+            "description": "Gautam Gambhir ignored Chris Gayle and AB de Villiers and named the batsman who gave him sleepless nights in IPL. Gambhir captained Kolkata Knight Riders and Delhi Capitals (then known as Delhi Daredevils) in IPL. He had a long stint as KKR's captain and led them to 2 IPL title wins.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-07 15:08:36",
+            "pubDateTZ": "UTC",
+            "image_url": "https://static.tnn.in/thumb/msid-118789683,imgsize-51558,width-1280,height-720/118789683.jpg",
+            "source_id": "timesnownews",
+            "source_priority": 2243,
+            "source_name": "Times Now News",
+            "source_url": "https://www.timesnownews.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/timesnownews.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "sports"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "211e959446449c9bc80263bc528e9cfb",
+            "title": "India signs $248 million deal with Russia to upgrade T-72 tanks with 1000-HP engines",
+            "link": "https://newsable.asianetnews.com/india/india-signs-248-million-deal-with-russia-to-upgrade-t-72-tanks-with-1000-hp-engines-ddr-ssre29",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "New Delhi: India's defence ministry and Russia’s defence firm Rosoboronexport (RoE) on Friday inked a contract worth USD 248 million for procurement of 1000 HP Engines for T-72 Tanks in fully formed, completely knocked down and semi knocked down conditions. As part of the contract, Rosoboronexport will also give Transfer of Technology (ToT) to Armoured Vehicles Nigam Limited (Heavy Vehicle Factory), Avadi, Chennai, for integration and subsequent licensed production of engines under ToT to boost the \"Make in India' initiative in the defence sector. Also read: Future-ready combat vehicles to replace Indian Army's T-72 tanks from 2030 The T-72 tank, which is the mainstay of Indian Army’s armoured column, is currently equipped with 780-HP Engine. Equipping the existing fleet of T-72 Tanks with 1000 HP Engine will enhance the battle field mobility and offensive capability of Indian Army, an official said. Manufactured in India, the T-72 tank has fire capability of day and night and is being operated by three crew members — driver, gunner and commander. It is worth noting that a few months ago, the Indian Army set up two tank repair facilities in Ladakh, one in Nyoma and the other in Daulat Beg Oldie (DBO), to support the maintenance and repair of its armoured units. Also read: EXCLUSIVE | Inside Army's tactical drills in Ladakh: T-90 Bhishma, T-72 & BMP-II ICV roar 14k feet above-WATCH The Indian Army will start phasing out the four-decade-old T-72 tanks, starting 2030 in an effort to make the force more lethal, modern and agile. Russian-origin T-72 main battle tank will be replaced with the future-ready combat vehicles (FRCVs). The Indian Army is procuring a total of 1,770 FRCVs in three phases with 550-600 to be procured in each phase.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-07 15:08:34",
+            "pubDateTZ": "UTC",
+            "image_url": "https://static-gi.asianetnews.com/images/01h7ta9nghdt4azrzd8a03y4t7/t72.jpg",
+            "source_id": "newsable_asianetnews",
+            "source_priority": 7749,
+            "source_name": "Asianet Newsable",
+            "source_url": "https://newsable.asianetnews.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/newsable_asianetnews.jpg",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "0b27b197cf8d169462657a4ad88fdcec",
+            "title": "Terrorism Perennial Challenge To Be Dealt With Commitment: Jaishankar",
+            "link": "https://www.oneindia.com/international/terrorism-perennial-challenge-to-be-dealt-with-commitment-jaishankar-in-ireland-4089041.html",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "Conflicts are a dominating issue today and India has taken a view that differences must be settled through dialogue and diplomacy, External Affairs Minister S Jaishankar said in an address at University College Dublin in Ireland. Jaishankar went on to cover",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-07 15:08:31",
+            "pubDateTZ": "UTC",
+            "image_url": null,
+            "source_id": "oneindia",
+            "source_priority": 12404,
+            "source_name": "One India",
+            "source_url": "https://www.oneindia.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/oneindia.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "world"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "b09cb95a5b158e8376d23b83182338de",
+            "title": "बेटी को दुल्हन के जोड़े में देख कुमार विश्वास के छलके आंसू, पत्नी भी हुई इमोशनल, वायरल हुआ इनसाइड Video",
+            "link": "https://www.indiatv.in/entertainment/bollywood/kumar-vishwas-got-emotional-after-seeing-his-daughter-agrata-vishwas-in-bridal-attire-2025-03-07-1118560",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "कुमार विश्वास की बेटी अग्रता 2 मार्च को पवित्र खंडेलवाल के साथ उदयपुर के लीला पैलेस में शादी के बंधंन में बंधी। इसी बीच कुमार विश्वास और उनकी पत्नी मंजू का एक इमोशनल वीडियो सामने आया है, जिसमें वह बेटी को देख भावुक हो जाते हैं।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-07 15:08:31",
+            "pubDateTZ": "UTC",
+            "image_url": "https://resize.indiatv.in/resize/1200_-/2025/03/mixcollage-07-mar-2025-08-15-pm-7084-1741358768.jpg",
+            "source_id": "indiatv",
+            "source_priority": 216441,
+            "source_name": "India Tv",
+            "source_url": "https://www.indiatv.in",
+            "source_icon": "https://i.bytvi.com/domain_icons/indiatv.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "entertainment"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
             "article_id": "e6606ea8a857e47d23af0d5357933428",
             "title": "GM Stock Can Double, Analyst Says. Ford Stock, Well, Can’t.",
             "link": "https://www.barrons.com/articles/gm-stock-ford-wall-street-06d0bb6f?siteid=yhoof2&yptr=yahoo",
@@ -23056,710 +23698,6 @@
             "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
             "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
             "duplicate": false
-        },
-        {
-            "article_id": "c6407655f43901c099daa684b2341bab",
-            "title": "At least 8 hurt in South Korea after shell hits civilian area during military drills",
-            "link": "https://www.channelnewsasia.com/east-asia/south-korea-shell-hits-civilians-injured-live-firing-misfired-explosive-4980736",
-            "keywords": [
-                "east asia"
-            ],
-            "creator": null,
-            "video_url": null,
-            "description": null,
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-03-06 03:09:00",
-            "pubDateTZ": "UTC",
-            "image_url": "https://dam.mediacorp.sg/image/upload/s--jbrXQvYw--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2025-03-06t024234z_2_lynxnpel25023_rtroptp_3_southkorea-blast.jpg?itok=ZfJcaflT",
-            "source_id": "channelnewsasia",
-            "source_priority": 4142,
-            "source_name": "Channel Newsasia",
-            "source_url": "https://www.channelnewsasia.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/channelnewsasia.jpg",
-            "language": "english",
-            "country": [
-                "georgia",
-                "yemen",
-                "afghanistan",
-                "cyprus",
-                "india",
-                "singapore",
-                "saudi arabia",
-                "maldives",
-                "japan",
-                "united arab emirates",
-                "malaysia",
-                "china",
-                "south korea",
-                "north korea",
-                "taiwan",
-                "thailand",
-                "pakistan",
-                "mongolia",
-                "brunei",
-                "lebanon",
-                "indonesia",
-                "kyrgyzstan",
-                "syria",
-                "israel",
-                "bhutan",
-                "iran",
-                "turkey",
-                "armenia",
-                "qatar",
-                "philippines",
-                "hong kong",
-                "kazakhstan",
-                "iraq",
-                "bangladesh",
-                "laos",
-                "vietnam",
-                "timor-leste",
-                "kuwait",
-                "myanmar",
-                "azerbaijan",
-                "jordan",
-                "nepal",
-                "sri lanka",
-                "uzbekistan",
-                "turkmenistan",
-                "macau",
-                "bahrain",
-                "cambodia",
-                "tajikistan",
-                "oman"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": true
-        },
-        {
-            "article_id": "0a4b5ec12e4bc24cc49ee0f720958412",
-            "title": "Khalistani protestors stage demonstrations as EAM participates in discussions at Chatham House",
-            "link": "https://kalingatv.com/world/khalistani-protestors-stage-demonstrations-as-eam-participates-in-discussions-at-chatham-house/",
-            "keywords": [
-                "world",
-                "international news",
-                "khalistani terrorist"
-            ],
-            "creator": [
-                "KalingaTV Bureau"
-            ],
-            "video_url": null,
-            "description": "London: Pro-Khalistan protestors staged a demonstration outside the venue where External Affairs Minister S Jaishankar participated in a discussion held by Chatham House on Wednesday (UK local time). The protestors had gathered outside the building, holding flags and speakers as they sloganeered. During his ongoing visit to the United Kingdom, EAM Jaishankar had held discussions [...]The post Khalistani protestors stage demonstrations as EAM participates in discussions at Chatham House appeared first on KalingaTV.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-03-06 03:08:57",
-            "pubDateTZ": "UTC",
-            "image_url": "https://kalingatv.com/wp-content/uploads/2025/03/Khalistani-protestors-stage-demonstrations.jpg",
-            "source_id": "kalingatv",
-            "source_priority": 474757,
-            "source_name": "Kalinga Tv",
-            "source_url": "https://kalingatv.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/kalingatv.jpg",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "761bedba8cac0eb28dcb7b2dfa786595",
-            "title": "MPBSE Introduces Single Attempt In High School Improvement Exam",
-            "link": "https://www.freepressjournal.in/indore/mpbse-introduces-single-attempt-in-high-school-improvement-exam",
-            "keywords": [
-                "indore news",
-                "topnews",
-                "bhopal news"
-            ],
-            "creator": null,
-            "video_url": null,
-            "description": null,
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-03-06 03:08:57",
-            "pubDateTZ": "UTC",
-            "image_url": "https://media.assettype.com/freepressjournal/2025-03-06/3uhg75br/MPBSE-Recruitment.avif",
-            "source_id": "freepressjournal",
-            "source_priority": 26427,
-            "source_name": "The Free Press Journal",
-            "source_url": "https://www.freepressjournal.in",
-            "source_icon": "https://i.bytvi.com/domain_icons/freepressjournal.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "d16a98076dba04230ee032ec97f97cb3",
-            "title": "Taarak Mehta Ka Ooltah Chashmah: टप्पू संग सोनू का भागने का प्लान चौपट करेगा ये शख्स, क्या जेठालाल के बेटे को नहीं मिलेगा प्यार?",
-            "link": "https://www.prabhatkhabar.com/entertainment/taarak-mehta-ka-ooltah-chashmah-spoiler-bhide-spoil-sonu-plan-to-run-away-with-tappu",
-            "keywords": [
-                "entertainment news",
-                "entertainment",
-                "taarak mehta ka ooltah chashmah"
-            ],
-            "creator": [
-                "Divya Keshri"
-            ],
-            "video_url": null,
-            "description": "Taarak Mehta Ka Ooltah Chashmah: सीरियल तारक मेहता का उल्टा चश्मा के आने वाले एपिसोड में खूब सारे ट्विस्ट दिखाए जाएंगे. सोनू, टप्पू से फोन पर बात करती है, लेकिन भिड़े को नहीं पता होता. वह कहती है उससे वह मिलने नहीं आ सकती. The post Taarak Mehta Ka Ooltah Chashmah: टप्पू संग सोनू का भागने का प्लान चौपट करेगा ये शख्स, क्या जेठालाल के बेटे को नहीं मिलेगा प्यार? appeared first on Prabhat Khabar.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-03-06 03:08:53",
-            "pubDateTZ": "UTC",
-            "image_url": "https://www.prabhatkhabar.com/wp-content/uploads/2024/12/taarak-mehta-ka-ooltah-chashmah-4.jpg",
-            "source_id": "prabhatkhabar",
-            "source_priority": 343253,
-            "source_name": "Prabhat Khabar",
-            "source_url": "https://www.prabhatkhabar.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/prabhatkhabar.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "entertainment"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "971b0642c8f95b3d02443eca38c6ea72",
-            "title": "LIVE: पीएम नरेंद्र मोदी की हर्षिल में जनसभा, मुखबा में करेंगे मां गंगा की पूजा, मोटर बाइक रैली को दिखाएंगे हरी झंडी",
-            "link": "https://navbharattimes.indiatimes.com/state/uttarakhand/dehradun/pm-narendra-modi-uttarakhand-visit-harshil-speech-mukhba-ganga-mandir-darshan-motor-bike-rally-all-updates/articleshow/118747607.cms",
-            "keywords": null,
-            "creator": null,
-            "video_url": null,
-            "description": "Narendra Modi in Harshil: पीएम नरेंद्र मोदी गुरुवार को हर्षिल के दौरे पर आएंगे। यहां वे एक बड़ी जनसभा को संबोधित करेंगे। उत्तराखंड में शीतकालीन पर्यटन को बढ़ावा देने के लिए वे मुखबा में मां गंगा की पूजा करेंगे। गंगा मंदिर में दर्शन-पूजन का उनका कार्यक्रम है। इसके साथ ही पीएम जादुंग के लिए बाइक रैली को भी हरी झंडी दिखाएंगे।",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-03-06 03:08:50",
-            "pubDateTZ": "UTC",
-            "image_url": "https://static.langimg.com/photo/imgsize-98988,msid-118747607/navbharat-times.jpg",
-            "source_id": "navbharattimes",
-            "source_priority": 244,
-            "source_name": "Nbt Navbharattimes",
-            "source_url": "https://navbharattimes.indiatimes.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/navbharattimes.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "003cae60d601a35938626b669c646027",
-            "title": "If war is what US wants, we’re ready to fight: China",
-            "link": "https://www.thehansindia.com/news/international/if-war-is-what-us-wants-were-ready-to-fight-china-951274",
-            "keywords": [
-                "international,news"
-            ],
-            "creator": [
-                "The Hans India"
-            ],
-            "video_url": null,
-            "description": "China hikes defence budget to USD 249 billion amid hectic military modernisation",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-03-06 03:08:41",
-            "pubDateTZ": "UTC",
-            "image_url": "https://assets.thehansindia.com/h-upload/2025/03/06/1529827-china.webp",
-            "source_id": "thehansindia",
-            "source_priority": 41360,
-            "source_name": "The Hans India",
-            "source_url": "http://www.thehansindia.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/thehansindia.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "world"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "1a2463cbf6935bd9af6493b713adc900",
-            "title": "South Korea and US will begin annual military drills next week",
-            "link": "https://www.theweek.in/wire-updates/international/2025/03/06/fgn16-koreas-tensions.html",
-            "keywords": null,
-            "creator": null,
-            "video_url": null,
-            "description": "Seoul, Mar 6 (AP) South Korean and the US troops will begin their large annual joint military drills next week",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-03-06 03:08:40",
-            "pubDateTZ": "UTC",
-            "image_url": "https://www.theweek.in/content/dam/week/wire-updates/pti-preview-theweek.jpg",
-            "source_id": "theweek_in",
-            "source_priority": 26911,
-            "source_name": "The Week",
-            "source_url": "https://www.theweek.in",
-            "source_icon": "https://i.bytvi.com/domain_icons/theweek_in.jpg",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "world"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "41e7e59429b0b98b914ec61883e70092",
-            "title": "Privately run immigration detention centre that previously held families in Texas to reopen",
-            "link": "https://www.theweek.in/wire-updates/international/2025/03/06/fgn14-us-immigrant-detention-centre.html",
-            "keywords": null,
-            "creator": null,
-            "video_url": null,
-            "description": "Washington, Mar 6 (AP) A private prison company has signed an agreement to reopen an immigrant detention facility in Texas",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-03-06 03:08:39",
-            "pubDateTZ": "UTC",
-            "image_url": "https://www.theweek.in/content/dam/week/wire-updates/pti-preview-theweek.jpg",
-            "source_id": "theweek_in",
-            "source_priority": 26911,
-            "source_name": "The Week",
-            "source_url": "https://www.theweek.in",
-            "source_icon": "https://i.bytvi.com/domain_icons/theweek_in.jpg",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "world"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": true
-        },
-        {
-            "article_id": "de63e9d8ca94448fc9f7cda6a032e9ef",
-            "title": "'Bear with me' Trump says as both farmers consumers brace for tariff effects",
-            "link": "https://www.theweek.in/wire-updates/international/2025/03/06/fgn15-us-trump-tariffs-farmers.html",
-            "keywords": null,
-            "creator": null,
-            "video_url": null,
-            "description": "Omaha (US), Mar 6 (AP) Farmers and meat producers across the US can expect the new tariffs on Mexico, Canada",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-03-06 03:08:39",
-            "pubDateTZ": "UTC",
-            "image_url": "https://www.theweek.in/content/dam/week/wire-updates/pti-preview-theweek.jpg",
-            "source_id": "theweek_in",
-            "source_priority": 26911,
-            "source_name": "The Week",
-            "source_url": "https://www.theweek.in",
-            "source_icon": "https://i.bytvi.com/domain_icons/theweek_in.jpg",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "world"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": true
-        },
-        {
-            "article_id": "f06dde1ddbbcdb522a5ea031c747b6f5",
-            "title": "PM hails BJP performance in MLC polls in Telangana praises party workers' efforts",
-            "link": "https://www.theweek.in/wire-updates/national/2025/03/06/del1-pm-telangana-ap-polls.html",
-            "keywords": null,
-            "creator": null,
-            "video_url": null,
-            "description": "New Delhi, Mar 6 (PTI) Prime Minister Narendra Modi Thursday thanked the people of Telangana for their \"phenomenal support\" to",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-03-06 03:08:38",
-            "pubDateTZ": "UTC",
-            "image_url": "https://www.theweek.in/content/dam/week/wire-updates/pti-preview-theweek.jpg",
-            "source_id": "theweek_in",
-            "source_priority": 26911,
-            "source_name": "The Week",
-            "source_url": "https://www.theweek.in",
-            "source_icon": "https://i.bytvi.com/domain_icons/theweek_in.jpg",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "world"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": true
-        },
-        {
-            "article_id": "13f9e93f3e3db99b60d4006903c8d86f",
-            "title": "After slogan row village panchayat mandates 'outsiders' to get nod to run businesses",
-            "link": "https://www.theweek.in/wire-updates/national/2025/03/06/bom2-mh-village-outsiders.html",
-            "keywords": null,
-            "creator": null,
-            "video_url": null,
-            "description": "Mumbai, Mar 6 (PTI) A village panchayat in Maharashtra's Sindhudurg district has decided not to allow people from other",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-03-06 03:08:38",
-            "pubDateTZ": "UTC",
-            "image_url": "https://www.theweek.in/content/dam/week/wire-updates/pti-preview-theweek.jpg",
-            "source_id": "theweek_in",
-            "source_priority": 26911,
-            "source_name": "The Week",
-            "source_url": "https://www.theweek.in",
-            "source_icon": "https://i.bytvi.com/domain_icons/theweek_in.jpg",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "world"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": true
-        },
-        {
-            "article_id": "619f95f4c7ca0ca5ffe2a30de4a6bf2a",
-            "title": "Delhi NCR Weather: दिल्ली में ठंडी हवाओं ने गिराया तापमान, जानें कब तक रहेगा ऐसा मौसम",
-            "link": "https://indianews.in/delhi/delhi-ncr-weather-cold-winds-brought-down-the-temperature-in-delhi-know-how-long-will-this-weather-last/",
-            "keywords": null,
-            "creator": null,
-            "video_url": null,
-            "description": "India News(इंडिया न्यूज़),Delhi NCR Weather: दिल्ली में मौसम इन दिनों तेजी से करवट बदल रहा है। कभी तेज धूप और गर्मी तो कभी अचानक ठंडी हवाओं के कारण सर्दी का अहसास होने लगा है। बीते दिनों चढ़ते पारे के बाद अब राजधानी में तापमान में गिरावट दर्ज की गई है। बुधवार को सुबह से ही [...]",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-03-06 03:08:37",
-            "pubDateTZ": "UTC",
-            "image_url": "https://indianews.in/wp-content/uploads/2025/03/Clipboard-2025-03-06T082851.551.webp",
-            "source_id": "indianews",
-            "source_priority": 1433119,
-            "source_name": "India News Rajasthan",
-            "source_url": "https://rajasthan.indianews.in",
-            "source_icon": "https://i.bytvi.com/domain_icons/indianews.jpg",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "f7b3c06fcb38404839243f489920f42a",
-            "title": "MWC 2025: GlocalMe Unveils ‘First Smartphone For Pets’, Check Features Of PetPhone",
-            "link": "https://www.ndtvprofit.com/technology/mwc-2025-glocalme-petphone-launch-first-smartphone-for-pets-check-features",
-            "keywords": [
-                "technology"
-            ],
-            "creator": [
-                "NDTV Profit News"
-            ],
-            "video_url": null,
-            "description": "GlocalMe PetPhone will let pet parents understand if their pets are upset, hungry, in trouble, or facing any other difficulties.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-03-06 03:08:33",
-            "pubDateTZ": "UTC",
-            "image_url": "https://media.assettype.com/bloombergquint%2F2025-03-05%2Fnh0mj0d6%2Fimage-by-nvnbhanwala-naveen-bhanwala.jpg?auto=format%2Ccompress&ogImage=true&w=1200",
-            "source_id": "bloombergquint",
-            "source_priority": 9222807,
-            "source_name": "Bq Prime",
-            "source_url": "https://www.bloombergquint.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/bloombergquint.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "business"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "8282bc45daf453f480764e5fefd4bf41",
-            "title": "कोटा में MBBS स्टूडेंट का सुसाइड:हॉस्टल के कमरे में फांसी लगाई सुसाइड नोट में लिखा, माता-पिता का सपना पूरा नहीं कर पा रहा",
-            "link": "https://www.bhaskar.com/local/rajasthan/kota/news/rajasthan-kota-suicide-of-mbbs-student-in-kota-134592730.html",
-            "keywords": null,
-            "creator": null,
-            "video_url": null,
-            "description": "कोटा मेडिकल कॉलेज के एमबीबीएस के छात्र ने हॉस्टल के कमरे में फांसी लगा ली। घटना बुधवार रात 10 बजे के आसपास की है। मृतक सुनील बैरवा (28) बस्सी का रहने वाला था। कोटा मेडिकल कॉलेज से एमबीबीएस कर रहा था। पुलिस को स्टूडेंट के रूम सुसाइड नोट मिला है। जिसमें उसने लिखा है कि वह माता पिता का सपना पूरा नहीं कर पा रहा है। इसलिए उनसे माफी मांग रहा है। महावीर नगर थाना ASI मोहनलाल ने बताया कि तीन साल से हॉस्टल में रह रहता था। MBBS फाइनल ईयर की पढ़ाई कर रहा था। सुनील ने खुद को कमरे में बंद कर फांसी लगा ली। जब वह बुधवार को दिखाई नहीं दिया तो रात को उसके साथ हॉस्टल में रहने वाले लड़कों ने कमरे में जाकर देखा। सुनील कमरे पर फंदे पर लटका मिला। रात 10 बजे करीब सूचना पर पुलिस मौके पर पहुंची। शव को नीचे उतार गया। फिर हॉस्पिटल की मोर्चरी में शिफ्ट करवाया। छात्र के रूम से सुसाइड नोट मिला है। जिसमें उसने लिखा है कि वह माता पिता का सपना पूरा नहीं कर पा रहा है। इसलिए उनसे माफी मांग रहा है। पुलिस में परिजनों को सूचना दी है। परिजनों के आने के बाद शव का पोस्टमार्टम करवाया जाएगा।",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-03-06 03:08:29",
-            "pubDateTZ": "UTC",
-            "image_url": "https://images.bhaskarassets.com/thumb/1000x1000/web2images/521/2025/03/06/whatsapp-image-2025-03-06-at-74751-am-fotor-202503_1741227988.jpg",
-            "source_id": "bhaskar_hindi",
-            "source_priority": 34179,
-            "source_name": "Bhaskar",
-            "source_url": "https://www.bhaskar.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/bhaskar_hindi.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "domestic",
-                "other"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "7913a6831812839a024d6a060d48b052",
-            "title": "Hiba Nawab, Krushal Ahuja starrer Jhanak sparks controversy; netizens accuse makers of using colour on newborn, demand stern action",
-            "link": "https://timesofindia.indiatimes.com/tv/news/hindi/hiba-nawab-krushal-ahuja-starrer-jhanak-sparks-controversy-netizens-accuse-makers-of-using-colour-on-newborn-demand-stern-action/articleshow/118747982.cms",
-            "keywords": null,
-            "creator": null,
-            "video_url": null,
-            "description": "Jhanak, starring Hiba Nawab and Krushal Ahuja, is back with its original cast after plans for a leap were cancelled. The latest subplot involves Arshi's dangerous childbirth and a controversial behind-the-scenes video showing a possibly real newborn painted red. Netizens are demanding accountability for the baby's handling, sparking widespread concern.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-03-06 03:08:19",
-            "pubDateTZ": "UTC",
-            "image_url": "https://static.toiimg.com/thumb/msid-118747972,imgsize-1329411,width-400,resizemode-4/118747972.jpg",
-            "source_id": "toi",
-            "source_priority": 239,
-            "source_name": "The Times Of India",
-            "source_url": "https://timesofindia.indiatimes.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/toi.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "8a76016d8c90037769f7b65895cdf584",
-            "title": "NASA powers down instruments on Voyager spacecraft to conserve energy",
-            "link": "https://www.thehindubusinessline.com/news/science/nasa-powers-down-instruments-on-voyager-spacecraft-to-conserve-energy/article69297023.ece",
-            "keywords": [
-                "science"
-            ],
-            "creator": null,
-            "video_url": null,
-            "description": "Voyager 2 will disable its charged particle and cosmic ray measuring instrument later this month, while Voyager 1’s cosmic ray instrument has already been turned off",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-03-06 03:08:15",
-            "pubDateTZ": "UTC",
-            "image_url": "https://bl-i.thgim.com/public/incoming/leagmv/article69297024.ece/alternates/LANDSCAPE_1200/Voyager_56736.jpg",
-            "source_id": "thehindubusinessline",
-            "source_priority": 33540,
-            "source_name": "The Hindu - Business Line",
-            "source_url": "https://www.thehindubusinessline.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/thehindubusinessline.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "science"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "a1ccc1106728932d33d85141337acd13",
-            "title": "अंकिता लोखंडे के इस पोस्ट में छिपा है सुशांत सिंह राजपूत का कनेक्शन, फैंस ने किया रिएक्ट",
-            "link": "https://www.abplive.com/entertainment/television/ankita-lokhande-gulabi-post-has-a-connection-with-late-sushant-singh-rajput-2898030",
-            "keywords": [
-                "टेलीविजन"
-            ],
-            "creator": [
-                "आईएएनएस"
-            ],
-            "video_url": null,
-            "description": "Ankita Lokhande Post: छोटे पर्दे की दिग्गज अभिनेत्री अंकिता लोखंडे सोशल मीडिया पर काफी एक्टिव हैं. उन्होंने एक पोस्ट शेयर किया है, जिसमें उन्होंने गुलाबी रंग की आउटफिट पहनी है, जिसका दिवंगत अभिनेता सुशांत सिंह राजपूत से खास कनेक्शन है.बुधवार को अभिनेत्री ने अपने इंस्टाग्राम हैंडल पर अपनी ढेर सारी फोटोज शेयर कीं. एक तस्वीर में वो गुलाबी आउटफिट पहने हुई दिखाई दी हैं. बैकग्राउंड थीम अंकिता के आउटफिट के रंग से मेल खाती है.तस्वीरों में, 'पवित्र रिश्ता' की अभिनेत्री को कैमरे के लिए अलग-अलग पोज देते हुए देखा जा सकता है. अपनी तस्वीरों के साथ, उन्होंने लिखा, \"मैं भी गुलाबी, तू है गुलाबी, दिन भी गुलाबी है, गुलाबी ये कहर.\" View this post on Instagram A post shared by Ankita Lokhande Jain (@lokhandeankita)सुशांत सिंह राजपूत से है कनेक्शनदिलचस्प बात यह है कि अंकिता के \"गुलाबी\" कैप्शन ने सबसे ज्यादा ध्यान खींचा. अभिनेत्री ने सुशांत सिंह राजपूत की फिल्म \"शुद्ध देसी रोमांस\" के गाने \"गुलाबी\" के बोल इस्तेमाल किए, जिसमें वाणी कपूर भी थीं. इस रोमांटिक गाने में सुशांत और वाणी रोमांस करते नजर आए थे.सुशांत सिंह राजपूत का 34 साल की उम्र में निधन हो गया. कथित तौर पर उन्हें 14 जून, 2020 को मुंबई के बांद्रा स्थित उनके अपार्टमेंट में मृत पाया गया था. अंकिता और सुशांत 2016 में अलग हो गए थे, लेकिन उनकी दुखद मौत के बाद, अभिनेत्री अभिनेता के परिवार के लिए एक मजबूत सहारा बनी हुई हैं. सुशांत की बहन श्वेता सिंह कीर्ति भी अंकिता के बचाव में सामने आई हैं. उन्होंने उन दावों को खारिज किया, जिसमें कहा गया कि निजी लाभ के लिए अंकिता ने सुशांत के नाम का इस्तेमाल किया.अंकिता और सुशांत ने 2016 में ब्रेकअप होने से पहले सात साल तक डेट किया. उनका प्यार एकता कपूर के लोकप्रिय शो \"पवित्र रिश्ता\" के सेट पर पनपा.अंकिता अब विक्की जैन के साथ विवाहित जीवन में खुश हैं.अंकिता लोखंडे इन दिनों में \"लाफ्टर शेफ्स - अनलिमिटेड एंटरटेनमेंट\" के सीजन 2 में अपने पति विक्की जैन के साथ दिखाई दे रही हैं. शो में कई स्टार्स भी शामिल हैं, जिनमें एल्विश यादव, अब्दु रोजिक, अभिषेक कुमार, समर्थ जुरेल, कश्मीरा शाह, कृष्णा अभिषेक, मन्नारा चोपड़ा, सुदेश लहरी, राहुल वैद्य और रुबीना दिलैक शामिल हैं.ये भी पढ़ें: 'सास गारी देवे, देवर जी समझा लेवे...' कैटरीना कैफ ने दोस्त की शादी में 'ससुराल गेंदा फूल' गाने पर लगाए ठुमके, वीडियो वायरल",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-03-06 03:08:14",
-            "pubDateTZ": "UTC",
-            "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2025/03/06/2c23714f2d217198d5ad2e0c15ddbd4b1741230371277355_original.jpg",
-            "source_id": "abplive",
-            "source_priority": 7754,
-            "source_name": "Abp News",
-            "source_url": "http://abplive.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/abplive.jpg",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "entertainment"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "de74637217cbbb30597e56327b2cfbab",
-            "title": "पेलक इंटरचेंज से छज्जूनगर टोल प्लाजा की आज तय होंगी नई दरें, 3 किमी के सफर के लिए काटे जा रहे थे 285 रुपये",
-            "link": "https://navbharattimes.indiatimes.com/state/punjab-and-haryana/faridabad/haryana-expressway-news-new-rates-will-be-decided-today-from-pelk-interchange-to-chhajjunagar-toll-plaza-kgp/articleshow/118747885.cms",
-            "keywords": null,
-            "creator": null,
-            "video_url": null,
-            "description": "पेलक इंटरचेज से केजीपी पर सफर करने वालों के लिए अच्छी खबर सामने आई है। छज्जूनगर टोल प्लाजा क्रॉस करने वाले वाहन चालकों के लिए आज से नई दरें लागू की जाएंगी।",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-03-06 03:08:10",
-            "pubDateTZ": "UTC",
-            "image_url": "https://static.langimg.com/photo/imgsize-1889278,msid-118747885/navbharat-times.jpg",
-            "source_id": "navbharattimes",
-            "source_priority": 244,
-            "source_name": "Nbt Navbharattimes",
-            "source_url": "https://navbharattimes.indiatimes.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/navbharattimes.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "5c6599c539e888553a13007d55c9a655",
-            "title": "World News | South Korea and US Will Begin Annual Military Drills Next Week",
-            "link": "https://www.latestly.com/agency-news/world-news-south-korea-and-us-will-begin-annual-military-drills-next-week-6689883.html",
-            "keywords": null,
-            "creator": null,
-            "video_url": null,
-            "description": "Get latest articles and stories on World at LatestLY. South Korean and the US troops will begin their large annual joint military drills next week to enhance their readiness against North Korean threats, the South Korean military said Thursday, days after North Korea threatened high-profile provocations against what it called escalating US-led aggression.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-03-06 03:08:07",
-            "pubDateTZ": "UTC",
-            "image_url": "https://st1.latestly.com/wp-content/uploads/2020/10/Latestly-World-News-380x214.jpg",
-            "source_id": "latestly",
-            "source_priority": 31923,
-            "source_name": "Latestly",
-            "source_url": "https://www.latestly.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/latestly.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "66e4194e4b4e94add6bccf7a9b0e3347",
-            "title": "Asia stocks jump as Trump delays auto tariffs; HK shares surge on China stimulus",
-            "link": "https://in.investing.com/news/stock-market-news/asia-stocks-jump-as-trump-delays-auto-tariffs-hk-shares-surge-on-china-stimulus-4705635",
-            "keywords": null,
-            "creator": [
-                "Investing.com"
-            ],
-            "video_url": null,
-            "description": null,
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-03-06 03:08:06",
-            "pubDateTZ": "UTC",
-            "image_url": null,
-            "source_id": "investing_in",
-            "source_priority": 1205,
-            "source_name": "Investing India",
-            "source_url": "https://in.investing.com",
-            "source_icon": null,
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": true
         }
     ]
 }
