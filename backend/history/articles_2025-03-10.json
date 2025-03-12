@@ -1,6 +1,863 @@
 {
     "articles": [
         {
+            "article_id": "f0b2cf52ad21a6c6f73daf0fa6fbbb48",
+            "title": "Elon Musk confirms Twitter outage due to massive cyberattack, says: We are attacked everyday, but ...",
+            "link": "https://timesofindia.indiatimes.com/technology/social/elon-musk-confirms-twitter-outage-due-to-massive-cyberattack-says-we-are-attacked-everyday-but-/articleshow/118856363.cms",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "Elon Musk has confirmed that Twitter (now known as X) is facing a global outage due to a significant cyberattack. He suggested that a large, coordinated group or a country might be involved. Musk acknowledged the continuous attacks, emphasizing the extensive resources used in this particular incident.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-10 18:13:00",
+            "pubDateTZ": "UTC",
+            "image_url": "https://static.toiimg.com/thumb/msid-118856307,width-1070,height-580,imgsize-83707,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "source_id": "toi",
+            "source_priority": 239,
+            "source_name": "The Times Of India",
+            "source_url": "https://timesofindia.indiatimes.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/toi.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "e31333b55d3417199d742305485ddc98",
+            "title": "औरंगाबाद में लव जिहाद? शादी तय हुई तो नाबालिग को भगा ले गया मुस्लिम युवक, 7 घंटे में गढ़वा से बरामद",
+            "link": "https://navbharattimes.indiatimes.com/state/bihar/aurangabad/minor-girl-ran-away-with-her-muslim-lover-aurangabad-police-recovered-couple-from-garhwa/articleshow/118856068.cms",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "औरंगाबाद जिले की नाबालिग किशोरी को मोहम्मद जसीम बहला फुसलाकर घर से भगा ले गया। पिता की प्राथमिकी पर पुलिस ने 7 घंटे में गढ़वा से दोनों को बरामद किया। दोनों छुप छुप कर मिलते थे और फिर फरार हो गए। पुलिस ने मोबाइल लोकेशन के आधार पर उन्हें पकड़ा।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-10 18:12:55",
+            "pubDateTZ": "UTC",
+            "image_url": "https://static.langimg.com/photo/imgsize-35300,msid-118856068/navbharat-times.jpg",
+            "source_id": "navbharattimes",
+            "source_priority": 244,
+            "source_name": "Nbt Navbharattimes",
+            "source_url": "https://navbharattimes.indiatimes.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/navbharattimes.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "5412b74bb957ff9fd80773f0a24ac7fe",
+            "title": "Yankees' World Series at doubt as Gerrit Cole risks missing season due to elbow injury",
+            "link": "https://timesofindia.indiatimes.com/sports/mlb/news/yankees-world-series-at-doubt-as-gerrit-cole-risks-missing-season-due-to-elbow-injury/articleshow/118856405.cms",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "Gerrit Cole's elbow issue puts the New York Yankees' 2025 World Series aspirations in jeopardy, potentially causing him to miss the season. The Yankees face a significant challenge, with replacements like Carlos Rodón and Marcus Stroman unlikely to fill the void left by their ace.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-10 18:12:30",
+            "pubDateTZ": "UTC",
+            "image_url": "https://static.toiimg.com/thumb/msid-118856369,imgsize-886923,width-400,resizemode-4/118856369.jpg",
+            "source_id": "toi",
+            "source_priority": 239,
+            "source_name": "The Times Of India",
+            "source_url": "https://timesofindia.indiatimes.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/toi.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "85133e34bd6694075b2946dbff4f3ee8",
+            "title": "Workers Demolish 'BLM Plaza' Mural Outside White House In Washington DC | VIDEO",
+            "link": "https://www.timesnownews.com/world/us/us-news/workers-demolish-blm-plaza-mural-outside-white-house-in-washington-dc-video-article-118855931",
+            "keywords": null,
+            "creator": [
+                "Shamik Banerjee"
+            ],
+            "video_url": null,
+            "description": "Black Lives Matter Plaza in Washington, D.C., is being demolished and redesigned under Mayor Muriel Bowser’s order. Originally established during 2020 protests, it will become part of the \"America 250\" mural project. Videos of its removal sparked reactions online, with some right-wing commentators declaring, \"America is healing.\"",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-10 18:12:24",
+            "pubDateTZ": "UTC",
+            "image_url": "https://static.tnn.in/thumb/msid-118855931,imgsize-1710367,width-170,height-128,resizemode-75/118855931.jpg",
+            "source_id": "timesnownews",
+            "source_priority": 2243,
+            "source_name": "Times Now News",
+            "source_url": "https://www.timesnownews.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/timesnownews.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "028f95b0ca0ce37a4752891a5981e903",
+            "title": "Entertainment News | Penn Badgley Starrer 'You' Season 5 Release Date out",
+            "link": "https://www.latestly.com/agency-news/entertainment-news-penn-badgley-starrer-you-season-5-release-date-out-6701145.html",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "Get latest articles and stories on Entertainment at LatestLY. The fifth and last season of the Penn Badgley-starrer series 'You' will be released on April 28. The streaming giant platform Netflix has released a poster of the series, which features Penn Badgley's character, Joe Goldberg, sitting before a typewriter as he stares into a mirror.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-10 18:12:23",
+            "pubDateTZ": "UTC",
+            "image_url": "https://st1.latestly.com/wp-content/uploads/2025/03/ANI-20250310174513-380x214.jpg",
+            "source_id": "latestly",
+            "source_priority": 31923,
+            "source_name": "Latestly",
+            "source_url": "https://www.latestly.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/latestly.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "8555a7589060580da00adba90701c4ca",
+            "title": "'X Hit By Cyberattack, Large Group Or Country Likely Involved': Elon Musk",
+            "link": "https://www.ndtv.com/world-news/elon-musk-says-x-outage-due-to-massive-cyberattack-coordinated-group-or-country-likely-involved-7894423",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "Elon Musk said X (formerly twitter) was hit by a massive cyberattack on Monday, suggesting that a large, coordinated group or even a nation-state could be behind it.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-10 18:12:20",
+            "pubDateTZ": "UTC",
+            "image_url": "https://c.ndtvimg.com/2025-03/g9r7m66g_elon-musk-_625x300_05_March_25.jpeg?im=FitAndFill%2Calgorithm%3Ddnn%2Cwidth%3D1200%2Cheight%3D738",
+            "source_id": "ndtv",
+            "source_priority": 1204,
+            "source_name": "Ndtv",
+            "source_url": "http://www.ndtv.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/ndtv.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "656404258a6b6e7c4afb6167de8206ea",
+            "title": "Omar Abdullah govt fulfilling election promises: Sadhotra",
+            "link": "https://www.greaterkashmir.com/jammu/omar-abdullah-govt-fulfilling-election-promises-sadhotra/",
+            "keywords": [
+                "page 2",
+                "today's paper",
+                "jammu"
+            ],
+            "creator": [
+                "",
+                "GK NEWS SERVICE"
+            ],
+            "video_url": null,
+            "description": "“Despite empty coffers, the government has taken a big leap forward in fulfilling its election promises, demonstrating its commitment to public welfare and inclusive development,” Sadhotra said while addressing a workers meeting at Basohli, a press release saidThe post Omar Abdullah govt fulfilling election promises: Sadhotra appeared first on Greater Kashmir.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-10 18:12:16",
+            "pubDateTZ": "UTC",
+            "image_url": "https://greaterkashmir.imagibyte.sortdcdn.net/wp-content/uploads/2023/12/Ajay-SADHOTRA.jpg",
+            "source_id": "greaterkashmir",
+            "source_priority": 101259,
+            "source_name": "Greater Kashmir",
+            "source_url": "https://www.greaterkashmir.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/greaterkashmir.jpg",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "ced72338d099ed3efd2194fd70e5598c",
+            "title": "Kanpur Prime Indians reach semifinals",
+            "link": "https://timesofindia.indiatimes.com/city/kanpur/kanpur-prime-indians-reach-semifinals/articleshow/118856414.cms",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-10 18:12:12",
+            "pubDateTZ": "UTC",
+            "image_url": "https://static.toiimg.com/thumb/msid-117623027,width-1070,height-580,imgsize-374111,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "source_id": "toi",
+            "source_priority": 239,
+            "source_name": "The Times Of India",
+            "source_url": "https://timesofindia.indiatimes.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/toi.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "lifestyle"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "c486383f48e6774625222f33e9189d8d",
+            "title": "Today History: जब जापान की प्रलय देख कांप उठी थी पूरी दुनिया, जानें 11 मार्च का इतिहास",
+            "link": "https://zeenews.india.com/hindi/zee-hindustan/national/today-history-of-11th-march-india-world-when-a-massive-earthquake-tsunami-in-japan/2676498",
+            "keywords": null,
+            "creator": [
+                "Zee News Hindi"
+            ],
+            "video_url": null,
+            "description": "Today History: हर दिन किसी न किसी घटना की गवाह बन जाती है. ऐसे ही 11 मार्च की तारीख है, जिसकी घटनाएं इतिहास के पन्नों पर दर्ज हो चुकी है. यही वो दिन है जब 2011 में जापान में सुनामी आई थी.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-10 18:12:10",
+            "pubDateTZ": "UTC",
+            "image_url": "https://hindi.cdn.zeenews.com/hindi/sites/default/files/2025/03/10/3744739-history.png",
+            "source_id": "zeenews",
+            "source_priority": 5319,
+            "source_name": "Zee News",
+            "source_url": "http://zeenews.india.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/zeenews.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "5149ad43a1fa5cb87248f3d1075f645f",
+            "title": "देश की खबरें | असम में सीएए के तहत 39 लोगों ने किया आवेदन, दो व्यक्तियों को मिली नागरिकता: मंत्री",
+            "link": "https://hindi.latestly.com/agency-news/39-people-applied-under-caa-in-assam-two-persons-got-citizenship-minister-r-2531205.html",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "Get Latest हिन्दी समाचार, Breaking News on India at LatestLY हिन्दी. असम सरकार में संसदीय कार्यों के मंत्री चंद्र मोहन पटवारी ने सोमवार को विधानसभा में बताया कि असम में रहने वाले कुल 39 लोगों ने अब तक नागरिकता (संशोधन) अधिनियम (सीएए) के तहत आवेदन किया है जिनमें से दो व्यक्तियों को नागरिकता प्रदान की जा चुकी है।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-10 18:12:08",
+            "pubDateTZ": "UTC",
+            "image_url": "https://hist1.latestly.com/wp-content/uploads/2020/04/india_default_img-380x214.jpg",
+            "source_id": "latestly",
+            "source_priority": 31923,
+            "source_name": "Latestly",
+            "source_url": "https://www.latestly.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/latestly.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "8ed9ff45773067e6a7f993d798818e03",
+            "title": "SHRC recommends to pay ₹5 lakh compensation for school boy death in Dharmapuri",
+            "link": "https://www.thehindu.com/news/national/tamil-nadu/shrc-recommends-to-pay-5-lakh-compensation-for-school-boy-death-in-dharmapuri/article69313658.ece",
+            "keywords": [
+                "tamil nadu"
+            ],
+            "creator": null,
+            "video_url": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-10 18:12:08",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+            "source_id": "thehindu",
+            "source_priority": 2972,
+            "source_name": "The Hindu",
+            "source_url": "https://www.thehindu.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/thehindu.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "45cad151808400f3c667c547eb7843d0",
+            "title": "World News | Ontario Slaps 25% Tax Increase on Electricity Exports to US in Response to Trump's Trade War",
+            "link": "https://www.latestly.com/agency-news/world-news-ontario-slaps-25-tax-increase-on-electricity-exports-to-us-in-response-to-trumps-trade-war-6701143.html",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "Get latest articles and stories on World at LatestLY. Ontario's premier, the leader of Canada's most populous province, announced that effective Monday it is charging 25% more for electricity to 1.5 million Americans in response to US President Donald Trump's trade war.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-10 18:12:07",
+            "pubDateTZ": "UTC",
+            "image_url": "https://st1.latestly.com/wp-content/uploads/2020/10/Latestly-World-News-380x214.jpg",
+            "source_id": "latestly",
+            "source_priority": 31923,
+            "source_name": "Latestly",
+            "source_url": "https://www.latestly.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/latestly.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "8813eec58992b2f02f9213bbc20aad52",
+            "title": "A teacher who went beyond books, taught students to live with compassion & honesty",
+            "link": "https://timesofindia.indiatimes.com/city/kolkata/a-teacher-who-went-beyond-books-taught-students-to-live-with-compassion-honesty/articleshow/118856410.cms",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-10 18:12:04",
+            "pubDateTZ": "UTC",
+            "image_url": "https://static.toiimg.com/thumb/msid-118856409,imgsize-63414,width-400,height-225,resizemode-72/118856409.jpg",
+            "source_id": "toi",
+            "source_priority": 239,
+            "source_name": "The Times Of India",
+            "source_url": "https://timesofindia.indiatimes.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/toi.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "f27cf5faad16e815d64eaac409ffa33a",
+            "title": "मालदीव में जैकी संग रकुल की मस्ती, ‘फ्लोटिंग मील’ का भी उठाया लुत्फ",
+            "link": "https://hindi.news18.com/photogallery/entertainment/viral-social-rakul-preet-and-jackky-bhagnani-maldives-vacation-romantic-photos-viral-9092131.html",
+            "keywords": [
+                "मनोरंजन"
+            ],
+            "creator": [
+                "News18 Hindi"
+            ],
+            "video_url": null,
+            "description": "Rakul Preet Singh Maldives Trip: रकुल प्रीत सिंह और जैकी भगनानी मालदीव में छुट्टियां मना रहे हैं. रकुल ने इंस्टाग्राम पर रोमांटिक तस्वीरें और वीडियो शेयर किए. रकुल जल्द ही 'दे दे प्यार दे 2' में नजर आएंगी.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-10 18:12:04",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.news18.com/ibnkhabar/uploads/2025/03/rakul-preet-singh-4-2025-03-f18ce570db1aa1cd3eb4c053fde31420-3x2.jpg",
+            "source_id": "hindinews18",
+            "source_priority": 4077,
+            "source_name": "News 18 Hindi",
+            "source_url": "https://hindi.news18.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/hindinews18.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "entertainment"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "a2810d702b4b2e1b1ad46aaa652a300f",
+            "title": "Karnataka CM Honours Shabana Azmi With Lifetime Achievement Award At Bengaluru International Film Festival 2025",
+            "link": "https://www.republicworld.com/entertainment/celebrities/karnataka-cm-honours-shabana-azmi-with-lifetime-achievement-award-at-bengaluru-international-film-festival-2025",
+            "keywords": [
+                "celebrities",
+                "entertainment"
+            ],
+            "creator": [
+                "editor@republicworld.com (Asian News International)"
+            ],
+            "video_url": null,
+            "description": "Karnataka CM Honours Shabana Azmi With Lifetime Achievement Award At Bengaluru International Film Festival 2025",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-10 18:12:01",
+            "pubDateTZ": "UTC",
+            "image_url": "http://img.republicworld.com/all_images/shabana-azmi-awarded-lifetime-achievement-1741629778982-16_9.webp",
+            "source_id": "republicworld",
+            "source_priority": 17361,
+            "source_name": "Republic World",
+            "source_url": "https://www.republicworld.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/republicworld.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "entertainment"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "b157fc7e0d02d2d3a4cb3a035ab9b851",
+            "title": "41 illegal B’desh nat’ls faced criminal cases in 10 yrs: CM",
+            "link": "https://timesofindia.indiatimes.com/city/bhubaneswar/41-illegal-bdesh-natls-faced-criminal-cases-in-10-yrs-cm/articleshow/118856407.cms",
+            "keywords": null,
+            "creator": [
+                "Sandip Mishra"
+            ],
+            "video_url": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-10 18:11:56",
+            "pubDateTZ": "UTC",
+            "image_url": "https://static.toiimg.com/thumb/msid-117597042,imgsize-93129,width-400,height-225,resizemode-72/117597042.jpg",
+            "source_id": "toi",
+            "source_priority": 239,
+            "source_name": "The Times Of India",
+            "source_url": "https://timesofindia.indiatimes.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/toi.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "d360a970b624fea9f50d7106203f460b",
+            "title": "WPL 2025: Who Is Bharti Fulmali? Cricketer Who Nearly Jaw-Dropped Mumbai Indians And Fans With Her Sheer Hitting!",
+            "link": "https://news24online.com/sports/wpl-2025-who-is-bharti-fulmali-cricketer-who-nearly-jaw-dropped-mumbai-indians-and-fans-with-her-sheer-hitting/498926/",
+            "keywords": [
+                "wpl 2025",
+                "bharti fulmali",
+                "sports",
+                "cricket"
+            ],
+            "creator": [
+                "Aditya Mallick"
+            ],
+            "video_url": null,
+            "description": "Mumbai Indians set a challenging target, but Bharti Fulmali nearly pulled off a thrilling chase in WPL 2025.The post WPL 2025: Who Is Bharti Fulmali? Cricketer Who Nearly Jaw-Dropped Mumbai Indians And Fans With Her Sheer Hitting! appeared first on News24.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-10 18:11:52",
+            "pubDateTZ": "UTC",
+            "image_url": "https://news24online.com/wp-content/uploads/2025/03/Bharti-Fulmali-Photo-Credit-X-Platform.jpg",
+            "source_id": "news24online",
+            "source_priority": 549589,
+            "source_name": "News 24",
+            "source_url": "https://news24online.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/news24online.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "1afab3b33324913f1b69b96089615103",
+            "title": "Features Gaming and Betting with Krikya App in Bangladesh",
+            "link": "https://smestreet.in/online-gaming/features-gaming-and-betting-with-krikya-app-in-bangladesh-8841055",
+            "keywords": [
+                "online gaming"
+            ],
+            "creator": null,
+            "video_url": null,
+            "description": "How to Register and Start Playing in Krikya Apps?Today, millions of Bangladeshis are into betting and gambling - this unique entertainment format helps the local audience to find different leisure options and simply have fun. At the same time, users emphasise mobile applications, as most of them use smartphones and tablets to access the Internet. Among the many projects, can be singled out Krikya apps - convenient and functional programs for Android and iOS devices with instant access to their favourite bets and games. Becoming a part of the gaming community is very easy - just read our article to understand all the nuances of registration and choosing the right activity. Getting to Know Krikya AppsMany gambling and betting enthusiasts in Bangladesh have already experienced the benefits of the mobile format after Krikya download. This convenient and productive programme is fully adapted to the needs and interests of the local audience. The software is designed to provide quick access to key features and suggestions from the project team from any device, including legacy models. The interface also adapts to different screen sizes and is accompanied by intuitive navigation. The main features of the Krikya app include:Sports betting - users can bet on cricket, football, tennis and other popular sports with a user-friendly interface and up-to-date odds;Online casinos and live games - a large selection of slots, table games and live casinos with real dealers are available on the app;Easy navigation - the intuitive interface allows you to quickly find the events and games you want, place bets and track results in real time;Fast deposits and payouts - the system supports popular payment methods in Bangladesh, including bKash and Nagad;Bonus offers - the app offers welcome bonuses, cashbacks and promotions for new and regular users. Download Krikya apps, can only be downloaded from the official website of the project, as it is not available on Google Play and App Store. The installation takes place manually through downloading the APK file. After installation, users can register, make a deposit and start betting in a convenient mobile format.Registration in Krikya AppSigning up for Krikya apps is a quick and easy process that only takes a few minutes. But if you are new to betting and gambling use the step-by-step instructions:Go to the official website of the Krikya project - at the top of the start page there are basic tools for authorisation or registration;Click on the \"Register\" button - after that you will be redirected to the registration form, where you will have to provide your real personal data; Fill out the registration form - users will be asked to fill out a form with personal information that includes real first name, last name, email address, phone number and password;Confirm your registration - after completing the form, you will likely receive an email to the email address provided with a registration confirmation link that you must click on to activate your account.Log in - you can now log in using your username and password.Next, you need to make a deposit using any of the presented methods for a comfortable amount, taking into account the minimum limit. Beginning of GameplayAfter successfully registering and depositing, the user is presented with all the gaming features, as well as many options for betting on a wide variety of sports. Here's what you need to do:Choose a game or market to bet on - in the 's gaming and sports cataloguedifferent formats of slots, card games and other variations of activities are available , so every user will be able to find an activity they enjoy;Krikya appMake a deposit - to play for real money, you need to make a deposit to your account, so the Krikya project team usually offers various payment methods such as bank cards or e-wallets;Play and enjoy - bet on different sports and events, and don't forget to keep track of your losses and wins. Next, let's look at other options that will be useful for beginners. Security and PrivacySecurity and data privacy are the most important aspects when choosing a mobile app for betting and gambling. Like many other trustworthy projects, the developers of Krikya app use modern encryption technologies to protect user data. However, it is always important to make sure that your password is secure and not to share sensitive information with third parties.Special Offers Many projects in Bangladesh, including Krikya, offer bonuses and promotions for new and regular users. These may include sign-up bonuses, free spins or other attractive offers. Keep an eye on the promotions section of the website so that you don't miss out on lucrative offers.Additional Tips for BeginnersIf you're new to sports betting and online casino games, here are some universal tips to help you get started as comfortably and safely as possible. Familiarise Yourself with the Rules of the GamesBefore you start playing for real money, familiarise yourself with the rules and strategies of the games you are interested in. Many activities have demo modes where you can test the functionality and gameplay without the risk of losing your own money. Manage Your BankrollStart your budget planning by setting limits on your bets and don't exceed them to avoid financial problems. Also, don't use funds for betting and gambling that you are afraid of losing. Use the BonusesDon't miss the opportunity to use bonuses and promotions that can increase your chances of winning. But keep in mind the wagering requirements in order to correctly withdraw funds in case of a win.Play ResponsiblyRemember that gambling should be fun, not stressful or financially challenging. Set limits on the length of gaming sessions and deposits, take self-diagnostic tests, and seek help at the first sign of gambling addiction. Following these tips and guided by simple registration steps, you will be able to enjoy playing and betting in the Krikya app catalogue and get the most out of the process. But remember to play safely and responsibly to avoid getting into risky situations.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-10 18:11:51",
+            "pubDateTZ": "UTC",
+            "image_url": null,
+            "source_id": "smestreet",
+            "source_priority": 587507,
+            "source_name": "Smestreet In",
+            "source_url": "https://smestreet.in",
+            "source_icon": "https://i.bytvi.com/domain_icons/smestreet.jpg",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "business"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "22833933e45362c240b4d848b76c3948",
+            "title": "यूरोप तक पहुंचे पाकिस्तान के TTP आतंकी, स्पेन ने बार्सिलोना से 11 संदिग्धों को किया गिरफ्तार",
+            "link": "https://navbharattimes.indiatimes.com/world/rest-of-europe/spanish-police-arrest-11-suspected-members-of-pakistani-taliban-in-barcelona/articleshow/118855954.cms",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "स्पेन की पुलिस ने पाकिस्तानी तालिबान के नाम से कुख्यात तहरीक-ए-तालिबान पाकिस्तान (TTP) से जुड़े होने के संदेह में 11 पाकिस्तानी नागरिकों को गिरफ्तार किया है। ये सभी नागरिक स्पेन में कट्टरपंथ फैलाने, आतंकवाद का महिमामंडन करने और हमले की साजिश रचने के अपराधों में शामिल थे। स्पेन ने पिछले साल भी 30 आतंकवादियों को पकड़ा था।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-10 18:11:50",
+            "pubDateTZ": "UTC",
+            "image_url": "https://navbharattimes.indiatimes.com/photo/118855954/photo-118855954.jpg",
+            "source_id": "navbharattimes",
+            "source_priority": 244,
+            "source_name": "Nbt Navbharattimes",
+            "source_url": "https://navbharattimes.indiatimes.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/navbharattimes.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "333eb047a6ee70a49a2eaddcbc8c311e",
+            "title": "Over 2k drownings in 3 years: Govt",
+            "link": "https://timesofindia.indiatimes.com/city/bhubaneswar/over-2k-drownings-in-3-years-govt/articleshow/118856404.cms",
+            "keywords": null,
+            "creator": [
+                "Hemanta Pradhan"
+            ],
+            "video_url": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-10 18:11:48",
+            "pubDateTZ": "UTC",
+            "image_url": "https://static.toiimg.com/thumb/msid-118856399,width-1070,height-580,imgsize-19772,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "source_id": "toi",
+            "source_priority": 239,
+            "source_name": "The Times Of India",
+            "source_url": "https://timesofindia.indiatimes.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/toi.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "3c0700d8f56eecf0b58008fb76bb2e8b",
+            "title": "US-India trade: अमेरिका-भारत शुल्क वार्ता तेज, टेक्सटाइल उद्योग को राहत की उम्मीद",
+            "link": "https://hindi.business-standard.com/economy/us-india-trade-america-india-fee-talks-expected-textile-industry-expect-relief-id-421228",
+            "keywords": null,
+            "creator": [
+                "देवव्रत बाजपेयी"
+            ],
+            "video_url": null,
+            "description": "भारत और अमेरिका के बीच शुल्क घटाने पर चर्चा तेजी से चल रही है, क्योंकि राष्ट्रपति डॉनल्ड ट्रंप द्वारा जवाबी कर लगाने की योजना लागू करने को 1 महीने से भी कम बचा है। अगर दोनों देश किसी सहमति पर नहीं पहुंचते हैं तो कुछ सेक्टर प्रभावित हो सकते हैं। हालांकि उद्योग के विशेषज्ञों ने […]",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-10 17:09:51",
+            "pubDateTZ": "UTC",
+            "image_url": null,
+            "source_id": "business-standard",
+            "source_priority": 9158,
+            "source_name": "Business Standard",
+            "source_url": "https://www.business-standard.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/business-standard.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "business"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "1dba278c7d2fbc3248c1fcc70760199a",
+            "title": "Netherlands shares lower at close of trade; AEX down 0.97%",
+            "link": "https://in.investing.com/news/stock-market-news/netherlands-shares-lower-at-close-of-trade-aex-down-097-4712916",
+            "keywords": null,
+            "creator": [
+                "Investing.com"
+            ],
+            "video_url": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-10 17:09:39",
+            "pubDateTZ": "UTC",
+            "image_url": "https://i-invdn-com.investing.com/news/LYNXNPEB820J9_M.jpg",
+            "source_id": "investing_in",
+            "source_priority": 1205,
+            "source_name": "Investing India",
+            "source_url": "https://in.investing.com",
+            "source_icon": null,
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "business"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": true
+        },
+        {
+            "article_id": "e74259dc30c3c91a169e89950381aff0",
+            "title": "Sana Makbul Has Autoimmune Condition Like Samantha Ruth Prabhu: 'My Body Cells Are Attacking Liver'",
+            "link": "https://www.news18.com/movies/sana-makbul-has-autoimmune-condition-like-samantha-ruth-prabhu-my-body-cells-are-attacking-liver-9256862.html",
+            "keywords": [
+                "movies"
+            ],
+            "creator": null,
+            "video_url": null,
+            "description": "Sana Makbul reveals she has autoimmune hepatitis, a liver disease where her body attacks itself, similar to Samantha Ruth Prabhu’s condition.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-10 17:09:38",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.news18.com/ibnlive/uploads/2025/03/Bigg-Boss-OTT-3-winner-Sana-Makbul-reveals-she-has-a-liver-disease-2025-03-a96db827dfb03937702e9c69db8df43d-3x2.jpg",
+            "source_id": "news18",
+            "source_priority": 1063,
+            "source_name": "News 18",
+            "source_url": "https://www.news18.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/news18.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "entertainment"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "8891d106da6f84fe2122622e24bb7d92",
+            "title": "मार्क मैककिनी ने सैडोट ग्रुप के चेयरमैन के रूप में पदभार संभाला",
+            "link": "https://hi.investing.com/news/company-news/article-93CH-421817",
+            "keywords": null,
+            "creator": [
+                "Investing.com"
+            ],
+            "video_url": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-10 17:09:28",
+            "pubDateTZ": "UTC",
+            "image_url": "https://i-invdn-com.investing.com/news/World_News_10_M_1440052130.jpg",
+            "source_id": "investing_hi",
+            "source_priority": 1143,
+            "source_name": "Investing भारत",
+            "source_url": "https://hi.investing.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/investing_hi.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "bc4cc902d76f04c1662ef2581dfab410",
+            "title": "Treated Water for Chinnaswamy Stadium During IPL Matches",
+            "link": "https://www.deccanchronicle.com/southern-states/karnataka/treated-water-for-chinnaswamy-stadium-during-ipl-matches-1866090",
+            "keywords": [
+                "southern states,karnataka"
+            ],
+            "creator": [
+                "m b girish"
+            ],
+            "video_url": null,
+            "description": "The members of Karnataka State Cricket Association (KSCA) made a request to BWSSB for water in last year’s IPL and then officials concerned of BWSSB supplied water to the stadium from its Cubbon Park Waste Water Treatment Plant",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-10 17:09:10",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.deccanchronicle.com/dc-Cover-4ipivpeu06s2lck1bfl77a06p2-20180724212914.Medi.jpeg",
+            "source_id": "deccanchronicle",
+            "source_priority": 14130,
+            "source_name": "Deccan Chronicle",
+            "source_url": "https://www.deccanchronicle.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/deccanchronicle.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "2fa0ceb37fae7ce7ab647a730f6b1662",
+            "title": "Aakar Patel | Global and local problems many: Trump has added trade war threats",
+            "link": "https://www.deccanchronicle.com/opinion/columnists/aakar-patel-global-and-local-problems-many-trump-has-added-trade-war-threats-1866091",
+            "keywords": [
+                "opinion,columnists"
+            ],
+            "creator": [
+                "Aakar Patel"
+            ],
+            "video_url": null,
+            "description": "The average per person GDP of the world is $13,000, according to the World Bank. Most countries are considerably lower than that",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-10 17:09:10",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.deccanchronicle.com/h-upload/2025/03/10/1897671-dollar.webp",
+            "source_id": "deccanchronicle",
+            "source_priority": 14130,
+            "source_name": "Deccan Chronicle",
+            "source_url": "https://www.deccanchronicle.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/deccanchronicle.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": true
+        },
+        {
             "article_id": "0534c5e4444d8d3c6ed038f62be2633b",
             "title": "UAE extends school registration for academic year 2025-2026",
             "link": "http://www.en.etemaaddaily.com/world/international/uae-extends-school-registration-for-academic-year-2025-2026:171765",
