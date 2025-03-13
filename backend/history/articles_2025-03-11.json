@@ -1,6 +1,722 @@
 {
     "articles": [
         {
+            "article_id": "31471ac7c6654f1ef24cfe2003ff1f2b",
+            "title": "Hitachi Energy’s Rs 2,000 crore QIP subscribed 2 times, company may partially exercise the green shoe option",
+            "link": "https://economictimes.indiatimes.com/markets/stocks/news/hitachi-energys-rs-2000-crore-qip-subscribed-2-times-company-may-partially-exercise-the-green-shoe-option/articleshow/118916996.cms",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "Hitachi Energy India's Rs 2,000 crore qualified institutional placement (QIP) offering was subscribed two times. The issue saw participation from notable institutions including Norges Bank and various domestic insurance firms. Shares fell 4.2% on the BSE. Proceeds from the QIP will be used for capital expenditure, working capital, and general corporate purposes.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-11 23:07:48",
+            "pubDateTZ": "UTC",
+            "image_url": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-10360,resizemode-75,msid-118916996/markets/stocks/news/hitachi-energys-rs-2000-crore-qip-subscribed-2-times-company-may-partially-exercise-the-green-shoe-option.jpg",
+            "source_id": "economictimes_indiatimes",
+            "source_priority": 231,
+            "source_name": "The Economic Times",
+            "source_url": "https://economictimes.indiatimes.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/economictimes_indiatimes.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "91e23fc41fd6a3763d400f2fea792cdb",
+            "title": "Will throw Muslim MLAs out of assembly after BJP wins Bengal: Suvendu",
+            "link": "https://timesofindia.indiatimes.com/india/will-throw-muslim-mlas-out-of-assembly-after-bjp-wins-bengal-suvendu/articleshow/118907832.cms",
+            "keywords": null,
+            "creator": [
+                "Rohit Khanna"
+            ],
+            "video_url": null,
+            "description": "Bengal’s opposition leader, Suvendu Adhikari, has caused controversy by stating the BJP would forcibly remove Muslim MLAs from the assembly upon forming the next government. The Trinamool Congress criticized the statement as hate speech, questioning Adhikari's mental stability following recent political defections.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-11 23:07:29",
+            "pubDateTZ": "UTC",
+            "image_url": "https://static.toiimg.com/thumb/msid-118908188,imgsize-173644,width-400,resizemode-4/118908188.jpg",
+            "source_id": "toi",
+            "source_priority": 239,
+            "source_name": "The Times Of India",
+            "source_url": "https://timesofindia.indiatimes.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/toi.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "food"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "8b9d95d1a53229653eb4860497e2f894",
+            "title": "Kannur panchayat slams BSWML over Mitaganahalli waste dumping",
+            "link": "https://www.deccanherald.com/india/karnataka/bengaluru/kannur-panchayat-slams-bswml-over-mitaganahalli-waste-dumping-3442672",
+            "keywords": null,
+            "creator": [
+                "DHNS"
+            ],
+            "video_url": null,
+            "description": "Kannur panchayat slams BSWML over Mitaganahalli waste dumping",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-11 23:07:08",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.deccanherald.com/deccanherald%2F2025-03-11%2F6ipaqybq%2Ffile7ljovnkwjkxncpue2a5.jpg?ar=40%3A21&auto=format%2Ccompress&mode=crop&ogImage=true&rect=0%2C76%2C4032%2C2117&w=1200",
+            "source_id": "deccanherald",
+            "source_priority": 10080,
+            "source_name": "Deccan Herald",
+            "source_url": "https://www.deccanherald.com",
+            "source_icon": null,
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "12c687d69266bab2bb01035ba946292c",
+            "title": "Will throw Muslim MLAs out of assembly after BJP wins Bengal: Suvendu - The Times of India",
+            "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPajJTeEFsN3NoVG1nWmRkSGg2cGxKN3NIeUpGSUpUWlVyLWQ0SzJOS19GVHFKTVRjZWh5aVZRV1AtaUdIYzFqOUIwOUxtWF9Ka0FDNVNxMkxrdmdvNjc5NWtqLTlGTzgxY1pweU5PckNHN1hVb0JhWnhZT3o4YU1abTdtN216c1o4VXFiZnlwUTlfQUFOTlZ4bkx4SkFXQW1wYnFHSzFjQjJtVEpqa0F3QWFGX3dPUXZfMW1qUUgyaHhfZFhFRmstZmhLUXhmdVFaU0E?oc=5",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "Will throw Muslim MLAs out of assembly after BJP wins Bengal: Suvendu The Times of IndiaWest Bengal Speaker suspends BJP MLA, orders eviction of two others The HinduWest Bengal: Suvendu Adhikari says state BJP will move apex court on “MLA defection” issue The Economic TimesWest Bengal Budget Session: No paper for BJP MLAs, orders Speaker after torn documents tossed at him The Indian ExpressBengal Assembly Speaker issues directions not to provide BJP MLAs documents of House proceedings Deccan Herald",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-11 23:07:00",
+            "pubDateTZ": "UTC",
+            "image_url": null,
+            "source_id": "google",
+            "source_priority": 14,
+            "source_name": "Google News",
+            "source_url": "https://news.google.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/google.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "2496d1b5f91e0a5510be1c6e07e72c7f",
+            "title": "2 आरएएस सहित 14 अधिकारी-कर्मियों पर एसीबी की एफआईआर:पूगल में 2010 बीघा जमीन के फर्जी आवंटन से सरकार को 40 करोड़ रुपए का नुकसान पहुंचाया",
+            "link": "https://www.bhaskar.com/local/rajasthan/bikaner/news/acb-fir-against-14-officers-and-employees-including-2-ras-134630088.html",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "पूगल के दो पटवार मंडल में जमीनों का फर्जी आवंटन कर सरकार को बाजार मूल्य के अनुसार 40 करोड़ रुपए का नुकसान पहुंचाया गया। एसीबी ने इस मामले में दो आरएएस सहित 14 अधिकारी-कर्मचारियों के खिलाफ एफआईआर दर्ज कर ली है। छत्तरगढ़ में 1541 हेक्टेयर जमीनों के फर्जी आवंटन की तरह ही पूगल में भी 2010 बीघा यानी 508.68 बीघा जमीनों का फर्जी आवंटन हुआ। तत्कालीन अतिरिक्त आयुक्त सीएडी आईजीएनपी एमएल नेहरा के निर्देशन में प्रशिक्षु आईएएस एडीएम सिटी यक्ष चौधरी, उपनिवेशन के राजस्व लेखाधिकारी श्रवणसिंह चारण व कलेक्ट्रेट के वरिष्ठ विधि अधिकारी कपिल तंवर की कमेटी ने पिछले साल पूगल उपखंड में 10 सालों के जमीन आवंटन का रिकॉर्ड लेकर जांच-पड़ताल की तो सामने आया कि पटवार मंडल करणीसर भाटियान व बांदरेवाला में अधिकारी-कर्मचारियों की मिलीभगत से बड़े स्तर पर जमीनों का फर्जी आवंटन किया जिसमें 31 लाभार्थी हैं। करीब 2010 बीघा जमीन का फर्जी आवंटन किया गया। वर्तमान बाजार मूल्य करीब दो लाख रुपए बीघा के अनुसार सरकार को 40 करोड़ रुपए का नुकसान पहुंचाया गया। जांच कमेटी ने इसमें तत्कालीन पूगल उपखंड अधिकारी दो आरएएस सीता शर्मा और मनोज खेमदा सहित 14 अधिकारी-कर्मचारियों की मिलीभगत और पद का दुरुपयोग माना। राजस्व विभाग ने इस मामले में एसीबी को मुकदमा दर्ज करने के लिए कहा। एसीबी की बीकानेर चौकी के एएसपी महावीरप्रसाद शर्मा की रिपोर्ट पर जयपुर मुख्यालय ने 14 अधिकारी-कर्मचारियों पर मुकदमा दर्ज कर लिया है। इसकी जांच एसीबी स्पेशल यूनिट के एएसपी आशीष कुमार को सौंपी गई है। गौरतलब है कि इससे पहले छत्तरगढ़ में 1516 हेक्टेयर जमीन के फर्जी आवंटन और सरकार को डीएलसी दरों से 25 करोड़ का नुकसान पहुंचाने पर 18 अधिकारी-कर्मचारियों के खिलाफ भी एसीबी में मुकदमा दर्ज हो चुका है। ये 14 कार्मिक में नामजद किएतत्कालीन पूगल एसडीएम आरएएस सीता शर्मा, आरएएस मनोद खेमदा, तत्कालीन तहसीलदार रामेश्वरलाल गढ़वाल, अदित्या, नायब तहसीलदार प्रशिक्षु महेन्द्रसिंह मुवाल, राजेश कुमार शर्मा, कालूराम, भू अभिलेख निरीक्षक इकबालसिंह, जयसिंह, ऑफिस कानूनगो भंवरलाल, रिटायर्ड पटवारी मांगीलाल बिश्नोई कहां हुआ फर्जी आवंटन, कितने लाभार्थी ग्राम करणीसर भाटियान, सुरासर, बान्दरेवाला, भणावतावाला, बराला, बरजू, दीनसर। पटवार मंडल करणीसर भाटियान में 24 और पटवार मंडल बान्दरेवाला में 7 सहित कुल 31 लाभार्थी।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-11 23:06:36",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.bhaskarassets.com/thumb/1000x1000/web2images/521/2025/03/12/orig_1997-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1_1741734394.jpg",
+            "source_id": "bhaskar_hindi",
+            "source_priority": 34179,
+            "source_name": "Bhaskar",
+            "source_url": "https://www.bhaskar.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/bhaskar_hindi.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "domestic",
+                "other"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "52670c4933500ff76f01ae28411d3a7e",
+            "title": "ROSEN, SKILLED INVESTOR COUNSEL, Encourages Venture Global, Inc. Investors to Secure Counsel Before Important Deadline in Securities Class Action - VG",
+            "link": "https://in.investing.com/news/press-releases/rosen-skilled-investor-counsel-encourages-venture-global-inc-investors-to-secure-counsel-before-important-deadline-in-securities-class-action--vg-93CH-4716624",
+            "keywords": null,
+            "creator": [
+                "Investing.com"
+            ],
+            "video_url": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-11 23:06:06",
+            "pubDateTZ": "UTC",
+            "image_url": "https://i-invdn-com.investing.com/news/international_newspapers_108x81.jpg",
+            "source_id": "investing_in",
+            "source_priority": 1205,
+            "source_name": "Investing India",
+            "source_url": "https://in.investing.com",
+            "source_icon": null,
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": true
+        },
+        {
+            "article_id": "0cef15d477a287c9b7163524107e84a1",
+            "title": "New $4,873 Social Security Payment expected in March 2025 – Are You Eligible? Check Status - UP Excise Portal",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9oMldibjJ6RDdQLVJyZ1NJOC1aMUViLVk2UVBEQ0drMHd4dkFhWDVURm5zczNNUHVSWFRBcHI5T0tKVmt0dlNEREVpaXA2bEF1bHNsbzVqYTVlbXdOTGl1N2pPVnVVcy0xcXg2MHdxZ2g?oc=5",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "New $4,873 Social Security Payment expected in March 2025 – Are You Eligible? Check Status UP Excise Portal$472 SSI Payment March 2025, Check Payout Date & Eligibility UP Excise PortalHeres who’s getting $2,000 from Social Security Wednesday March 12: Check if you’re on the list AS USASocial Security Administration to Send $1,850 Payments on March 12th FingerLakes1.comApril Social Security direct payment worth $967 goes out in 21 days MSN",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-11 23:06:00",
+            "pubDateTZ": "UTC",
+            "image_url": null,
+            "source_id": "google",
+            "source_priority": 14,
+            "source_name": "Google News",
+            "source_url": "https://news.google.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/google.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "business"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "151be9e6be35638117eddbec14b39480",
+            "title": "आज का राशिफल 12 मार्च 2025 : अमला योग से आज मालामाल होंगे कन्या,तुला और मकर राशि के जातक, जानें अपना आज का भविष्यफल",
+            "link": "https://navbharattimes.indiatimes.com/astro/rashifal/bolen-sitare/aaj-ka-rashifal-12-march-2025-horoscope-today-on-wednesday-amala-yog-is-auspicious-and-lucky-for-kanya-tula-and-makar-rashi/articleshow/118888414.cms",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "Horoscope Today 12 march 2025 : 12 मार्च दिन बुधवार, आज का दिन ज्योतिषीय गणना के अनुसार कन्या,तुला और मकर राशि के जातकों के लिए लाभदायक रहेगा। दरअसल चंद्रमा का गोचर आज दिन रात सिंह राशि में होने जा रहा है और इस गोचर के दौरान चंद्रमा आज मघा नक्षत्र से संचार करेंगे। इन स्थितियों में आज चंद्रमा के गोचर से सूर्य और शनि के बीच समसप्तक योग बनेगा। इसके साथ ही आज अमला योग भी बनने जा रहा है। इससे मेष से लेकर मीन तक सभी राशियों के लिए दिन कैसा रहेगा, जानने के लिए देखें आज का राशिफल।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-11 23:06:00",
+            "pubDateTZ": "UTC",
+            "image_url": "https://static.langimg.com/photo/imgsize-83124,msid-118888414/navbharat-times.jpg",
+            "source_id": "navbharattimes",
+            "source_priority": 244,
+            "source_name": "Nbt Navbharattimes",
+            "source_url": "https://navbharattimes.indiatimes.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/navbharattimes.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "other"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "383e0661056da6c0550fab86db2fcb9b",
+            "title": "दिल्ली में यमुना की तस्वीर बदलेगा बोट टूरिज्म! इन 5 सरकारी विभागों को सौंपी गई जिम्मेदारियां",
+            "link": "https://www.aajtak.in/india/news/story/delhi-yamuna-river-boat-tourism-government-departments-responsibilities-ntc-rpti-2188114-2025-03-12",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "भारत सरकार और दिल्ली सरकार की 5 एजेंसियों ने यमुना में बोट टूरिज्म सर्विस के लिए एक समझौता ज्ञापन पर हस्ताक्षर किया है.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-11 23:05:56",
+            "pubDateTZ": "UTC",
+            "image_url": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202503/67d0c1cca4160-20250312-110543377-16x9.png",
+            "source_id": "aajtak",
+            "source_priority": 20158,
+            "source_name": "Aaj Tak",
+            "source_url": "http://aajtak.in",
+            "source_icon": "https://i.bytvi.com/domain_icons/aajtak.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "e38879a5ea60e6b88a71f3dd06dfe9b1",
+            "title": "12 March Leo Rashifal: सिंह राशि वालों को जीवन में आ सकती है दिक्कतें, ये उपाय आ सकते हैं काम!",
+            "link": "https://www.tv9hindi.com/religion/aaj-ka-singh-rashifal-12-march-2025-wednesday-leo-horoscope-today-prediction-3167151.html",
+            "keywords": [
+                "राशिफल",
+                "धर्म"
+            ],
+            "creator": [
+                "Anshu Pareek"
+            ],
+            "video_url": null,
+            "description": "Daily Horoscope: सिंह राशि वालों को प्रेम संबंधों में भावनाओं की जगह धन दौलत का अधिक महत्व दिखेगा. माता-पिता से अपेक्षित सहयोग और सानिध्य में मिलने से मन उदास हो जाएगा.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-11 23:05:55",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.tv9hindi.com/wp-content/uploads/2025/01/aaj-ka-rashifal-rashi5-2.jpg",
+            "source_id": "tv9bharatvarsh",
+            "source_priority": 40538658,
+            "source_name": "Tv9 Bharatvarsh",
+            "source_url": "https://www.tv9hindi.com",
+            "source_icon": null,
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "3541292b836ecc033f37f6cd11f2c138",
+            "title": "Vibrant Elegance: Yves Saint Laurent's Paris Fashion Finale",
+            "link": "https://www.devdiscourse.com/article/entertainment/3304566-vibrant-elegance-yves-saint-laurents-paris-fashion-finale",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "Vibrant Elegance: Yves Saint Laurent's Paris Fashion Finale Anthony Vaccarello, at the helm of French fashion giant Yves Saint Laurent, concluded Paris Fashion Week with a striking collection. His lineup included evening-ready minidresses in bold hues and sweeping gowns, showcased in a captivating nighttime display near the Eiffel Tower.Guests sat on dark leather seating, immersed in ambient pink lighting with marbled walls, as models strutted in statuesque silhouettes. The collection highlighted sharp tailoring over ornamentation, with colors ranging from fuchsia to teal.Celebrities like Bella Hadid showcased daring designs, alongside famous Parisian figures such as Betty Catroux and Catherine Deneuve, completing a star-studded front row at the climax of the illustrious fashion week.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-11 23:05:46",
+            "pubDateTZ": "UTC",
+            "image_url": "https://devdiscourse.blob.core.windows.net/imagegallery/01_04_2019_19_28_56_3344151.jpg",
+            "source_id": "devdiscourse",
+            "source_priority": 566021,
+            "source_name": "Devdiscourse",
+            "source_url": "https://www.devdiscourse.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/devdiscourse.jpg",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "449880867631a9338f26bdf39e62c929",
+            "title": "Rajasthan HC allows 13-year-old rape survivor to abort 27-week fetus",
+            "link": "https://timesofindia.indiatimes.com/india/rajasthan-hc-allows-13-year-old-rape-survivor-to-abort-27-week-fetus/articleshow/118907909.cms",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "The Rajasthan High Court has allowed a 13-year-old rape survivor to have a medical termination of her 27-week pregnancy. The court instructed that if the fetus survives, it should be incubated and cared for at the state’s expense. An FIR was lodged after discovering the pregnancy, and the medical procedure is to be supervised by the medical board.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-11 23:05:43",
+            "pubDateTZ": "UTC",
+            "image_url": "https://static.toiimg.com/thumb/msid-118908124,width-1070,height-580,imgsize-21060,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "source_id": "toi",
+            "source_priority": 239,
+            "source_name": "The Times Of India",
+            "source_url": "https://timesofindia.indiatimes.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/toi.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "661c04b514b8e7231ce969a596cf569b",
+            "title": "दूसरी निशान यात्रा श्री ज्ञान स्थल मंदिर से इस्लाम गंज स्थित खाटू धाम प्राचीन वैष्णो मंदिर तक निकाली",
+            "link": "https://www.bhaskar.com/local/punjab/ludhiana/news/the-second-nishan-yatra-was-taken-out-from-shri-gyan-sthal-temple-to-khatu-dham-ancient-vaishno-temple-located-in-islam-ganj-134630087.html",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "भास्कर न्यूज | लुधियाना दीवाने खाटू वाले सेवा समिति के सभी सेवादार और खाटू धाम प्राचीन वैष्णो मंदिर कमेटी के सहयोग से दूसरी निशान यात्रा का आयोजन राम पलटा और श्याम पलटा की अगुवाई में निकाली गई। यह निशान यात्रा सुभानी बिल्डिंग स्थित श्री ज्ञान स्थल मंदिर से इस्लाम गंज स्थित खाटू धाम प्राचीन वैष्णो मंदिर तक निकाली गई। इस निशान यात्रा का शुभारंभ ज्ञान स्थल मंदिर के प्रधान प्रवीण बजाज और शाम लाल कपूर द्वारा किया गया। साथ ही ज्ञान स्थल मंदिर की ओर से दीवाने खाटू वाले सेवा समिति के सभी सदस्यों को सम्मानित भी किया गया। इस निशान यात्रा में सैकड़ों की संख्या में खाटू श्याम के भक्त हाथों में खाटू श्याम बाबा का ध्वज लेकर पैदल भजन कीर्तन करते हुए साथ चले। इस निशान यात्रा के रास्ते में जगह जगह भक्तों द्वारा पुष्प वर्षा कर स्वागत किया गया। इस अवसर पर राम पलटा, श्याम पलटा, सुरिन्द्र डाबी, किशन खत्री, कमल शर्मा, सुनील कक्कड़, दिनेश भोला, देवेंद्र भल्ला, प्राचीन वैष्णो मंदिर कमेटी के प्रधान जसबीर सिंह कालड़ा, श्याम सुंदर कक्कड़, उत्तम राठौर आदि उपस्थित थे।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-11 23:05:41",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.bhaskarassets.com/thumb/1000x1000/web2images/521/2025/03/12/dn76582877v-v25133_manual.jpg",
+            "source_id": "bhaskar_hindi",
+            "source_priority": 34179,
+            "source_name": "Bhaskar",
+            "source_url": "https://www.bhaskar.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/bhaskar_hindi.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "domestic"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "e633f665c365517b8cd05fd1ec27a689",
+            "title": "Haryana News-अपनी-अपनी खाल बचाने में जुटे अधिकारी",
+            "link": "https://www.dainiktribuneonline.com/news/gurugram/haryana-news-officials-busy-saving-their-own-skins/",
+            "keywords": [
+                "गुरुग्राम",
+                "रोहतक"
+            ],
+            "creator": [
+                "Birendra Singh"
+            ],
+            "video_url": null,
+            "description": "जसमेर मलिक/हप्र जींद, 11 मार्च जींद जिले की जिस कथित समाजसेविका को जींद के महिला एवं बाल विकास विभाग ने 8 मार्च को अंतर्राष्ट्रीय महिला दिवस पर सीएम नायब सैनी के हाथों सम्मानित करवा दिया, उसे इस साल 26 जनवरी को शिक्षा मंत्री महिपाल ढांडा के हाथों सम्मानित करवाए जाने की सिफारिश भी जींद जिला [...]The post Haryana News-अपनी-अपनी खाल बचाने में जुटे अधिकारी appeared first on dainiktribuneonline.com.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-11 23:05:40",
+            "pubDateTZ": "UTC",
+            "image_url": "https://dainiktribuneonline.imagibyte.sortdcdn.net/wp-content/uploads/2025/03/11103283CD-_IMG_20250310_WA0001-768x576.jpg",
+            "source_id": "dainiktribuneonline",
+            "source_priority": 2014324,
+            "source_name": "Breaking News In Hindi Online",
+            "source_url": "https://www.dainiktribuneonline.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/dainiktribuneonline.jpg",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "c50e997949c4ab57bba3623082d08923",
+            "title": "Karnataka High Court stays consumer forum's order over ads inside cinema halls",
+            "link": "https://www.deccanherald.com/india/karnataka/bengaluru/hc-stays-consumer-forum-s-order-over-ads-inside-cinema-halls-3442674",
+            "keywords": null,
+            "creator": [
+                "Ambarish B"
+            ],
+            "video_url": null,
+            "description": "HC stays consumer forum's order over ads inside cinema halls",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-11 23:05:03",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.deccanherald.com/deccanherald%2F2025-03-03%2F83zttka1%2Fkarnataka_high_court_file_890422_1600609760_993109_1622659885.jpg?ar=40%3A21&auto=format%2Ccompress&mode=crop&ogImage=true&rect=0%2C0%2C700%2C368&w=1200",
+            "source_id": "deccanherald",
+            "source_priority": 10080,
+            "source_name": "Deccan Herald",
+            "source_url": "https://www.deccanherald.com",
+            "source_icon": null,
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "77859065d3b0b57460a07adcc6a495a6",
+            "title": "Keith Self Misgenders Sarah McBride, Calls Her 'Mr McBride' At House Committee Hearing | WATCH",
+            "link": "https://www.timesnownews.com/world/us/us-news/keith-self-misgenders-sarah-mcbride-calls-her-mr-mcbride-at-house-committee-hearing-watch-article-118907052",
+            "keywords": null,
+            "creator": [
+                "Saihaj Madan"
+            ],
+            "video_url": null,
+            "description": "A House subcommittee hearing descended into chaos after Rep. Keith Self misgendered Rep. Sarah McBride, leading to a heated exchange and an early adjournment.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-11 23:04:55",
+            "pubDateTZ": "UTC",
+            "image_url": "https://static.tnn.in/thumb/msid-118907052,imgsize-679831,width-1280,height-720/118907052.jpg",
+            "source_id": "timesnownews",
+            "source_priority": 2243,
+            "source_name": "Times Now News",
+            "source_url": "https://www.timesnownews.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/timesnownews.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "127aa37b60fe5cc96e3177562cf6d8dd",
+            "title": "Greenland's Independence Quest Amid U.S. Scrutiny",
+            "link": "https://www.devdiscourse.com/article/politics/3304565-greenlands-independence-quest-amid-us-scrutiny",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "Greenland's Independence Quest Amid U.S. Scrutiny Polling stations in Greenland closed recently after a pivotal parliamentary election heightened by U.S. President Donald Trump's ambition to purchase the island. The election underscores debates over Greenland's independence, as high voter turnout extended voting past its scheduled close.The potential acquisition of Greenland, a semi-autonomous territory of Denmark, is viewed by Trump as crucial for U.S. security. As Arctic geopolitics heat up, the election has become a forum for assessing Greenland's stance amidst ambitions for autonomy.Greenland's election saw a surge in national pride, with pro-independence parties gaining momentum. Concerns over maintaining economic stability without Denmark, along with distrust towards Trump's intents, play heavily into the political discourse as Greenland navigates its future.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-11 23:04:52",
+            "pubDateTZ": "UTC",
+            "image_url": "https://devdiscourse.blob.core.windows.net/aiimagegallery/07_08_2024_05_05_20_159799.png",
+            "source_id": "devdiscourse",
+            "source_priority": 566021,
+            "source_name": "Devdiscourse",
+            "source_url": "https://www.devdiscourse.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/devdiscourse.jpg",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "2c61fe63b4b0f2b7bdee56708922cfac",
+            "title": "Mumbai Crime: RCF Police Arrest 2 For Murder Of 22-Year-Old Man In Chembur",
+            "link": "https://www.freepressjournal.in/mumbai/mumbai-crime-rcf-police-arrest-2-for-murder-of-22-year-old-man-in-chembur",
+            "keywords": [
+                "mumbai news",
+                "topnews",
+                "fpj shorts"
+            ],
+            "creator": null,
+            "video_url": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-11 23:04:41",
+            "pubDateTZ": "UTC",
+            "image_url": "https://media.assettype.com/freepressjournal/2021-07/0aabee7d-36de-4fb2-a5ba-d5a464aac565/Arrest_1.jpeg",
+            "source_id": "freepressjournal",
+            "source_priority": 26427,
+            "source_name": "The Free Press Journal",
+            "source_url": "https://www.freepressjournal.in",
+            "source_icon": "https://i.bytvi.com/domain_icons/freepressjournal.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "dfd538faf0a4b6ecca689ec49d7fd42f",
+            "title": "Cryoport's chief scientific officer sells $7,723 in stock",
+            "link": "https://in.investing.com/news/insider-trading-news/cryoports-chief-scientific-officer-sells-7723-in-stock-93CH-4716622",
+            "keywords": null,
+            "creator": [
+                "Investing.com"
+            ],
+            "video_url": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-11 23:04:07",
+            "pubDateTZ": "UTC",
+            "image_url": "https://i-invdn-com.investing.com/news/World_News_8_M_1440052125.jpg",
+            "source_id": "investing_in",
+            "source_priority": 1205,
+            "source_name": "Investing India",
+            "source_url": "https://in.investing.com",
+            "source_icon": null,
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": true
+        },
+        {
+            "article_id": "38c02f3de18f57ef1d151f3ca1a066f0",
+            "title": "Upwork CEO Hayden Brown sells $851,946 in stock",
+            "link": "https://in.investing.com/news/insider-trading-news/upwork-ceo-hayden-brown-sells-851946-in-stock-93CH-4716620",
+            "keywords": null,
+            "creator": [
+                "Investing.com"
+            ],
+            "video_url": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-11 23:04:06",
+            "pubDateTZ": "UTC",
+            "image_url": "https://i-invdn-com.investing.com/news/news_six_pile_108x81.jpg",
+            "source_id": "investing_in",
+            "source_priority": 1205,
+            "source_name": "Investing India",
+            "source_url": "https://in.investing.com",
+            "source_icon": null,
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": true
+        },
+        {
+            "article_id": "6ca54b6134665d741ed153a3766513b7",
+            "title": "सड़क हादसे में महिला की मौत के बाद बवाल:औरंगाबाद में तेज रफ्तार बाइक ने मारी टक्कर, आरोपी की रिहाई पर 3 घंटे सड़क जाम",
+            "link": "https://www.bhaskar.com/local/bihar/aurangabad/news/chaos-after-womans-death-in-road-accident-134629752.html",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "औरंगाबाद के गोह थानाक्षेत्र में एक दर्दनाक सड़क हादसे में 55 वर्षीय महिला की मौत हो गई। दरधा गांव की रहने वाली चिंता देवी सोमवार शाम को गोशाला से मवेशियों को बांधकर लौट रही थीं। इसी दौरान एक तेज रफ्तार बाइक ने उन्हें टक्कर मार दी। टक्कर इतनी जोरदार थी कि महिला और बाइक पर सवार दोनों व्यक्ति सड़क पर गिर पड़े। हादसे के बाद एक बाइक सवार मौके से फरार हो गया। घायल महिला और दूसरे बाइक सवार को परिजन पीएचसी गोह ले गए। चिंता देवी की गंभीर हालत को देखते हुए डॉक्टरों ने उन्हें मगध मेडिकल कॉलेज रेफर कर दिया। मंगलवार को इलाज के दौरान उनकी मौत हो गई। मृतका के पति ने पुलिस पर लगाए गंभीर आरोप मृतका के पति शिवनंदन यादव ने पुलिस पर गंभीर आरोप लगाए। उन्होंने कहा कि पुलिस ने शुरू में बाइक और आरोपी को अपने कब्जे में लिया था। लेकिन बाद में आरोपी को छोड़ दिया गया। मृतका का शव घर पहुंचते ही परिजनों ने शव को सड़क पर रखकर विरोध प्रदर्शन शुरू कर दिया। आक्रोशित लोगों ने गया-दाउदनगर एनएच 120 पर जाम लगा दिया। करीब तीन घंटे तक सड़क जाम रहा। इस दौरान सड़क के दोनों तरफ वाहनों की लंबी कतार लग गई। सूचना मिलने पर पहुंची पुलिस ने लोगों को समझा-बुझाकर मामला शांत कराया। घटना के बाद से मृतका के परिजनों का रो-रोकर बुरा हाल है।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-11 22:10:00",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.bhaskarassets.com/thumb/1000x1000/web2images/521/2025/03/12/a2ce8b72-0c6e-4f47-88b2-bd6f8adaff00_1741698891631.jpg",
+            "source_id": "bhaskar_hindi",
+            "source_priority": 34179,
+            "source_name": "Bhaskar",
+            "source_url": "https://www.bhaskar.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/bhaskar_hindi.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top",
+                "tourism"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "b5b5a84092cdc03312d4ba77ee45a58e",
+            "title": "Cosmin and Suza agree on the way to resolve the summit of Sharjah and Al -Ahly youth",
+            "link": "https://thenewsglory.com/cosmin-and-suza-agree-on-the-way-to-resolve-the-summit-of-sharjah-and-al-ahly-youth/",
+            "keywords": [
+                "sports"
+            ],
+            "creator": [
+                "The News Glory"
+            ],
+            "video_url": null,
+            "description": "Sharjah Romanian coach Cosmin and the youth of Al -Ahly Portuguese Paulo Souza agreed on one opinion on the way to resolve the summit that gathered their teams this evening Wednesday at the Sharjah Stadium in the second leg of the quarter -finals of the “AFC Champions League 2”.Cosmin said at the match’s press conference [...]The post Cosmin and Suza agree on the way to resolve the summit of Sharjah and Al -Ahly youth appeared first on The News Glory.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-11 22:09:00",
+            "pubDateTZ": "UTC",
+            "image_url": "https://i2.wp.com/www.emaratalyoum.com/polopoly_fs/1.1927883.1741730997!/image/image.jpg?resize=750%2C375&ssl=1&w=750",
+            "source_id": "thenewsglory",
+            "source_priority": 321007,
+            "source_name": "Tng News",
+            "source_url": "https://thenewsglory.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/thenewsglory.jpg",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "sports"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
             "article_id": "c82e28c114aecdbf4478fe0e65603a9c",
             "title": "लखनऊ में अंसल के निदेशकों पर नौ और FIR:एक करोड़ रुपए की ठगी का आरोप, जांच शुरू",
             "link": "https://www.bhaskar.com/local/uttar-pradesh/lucknow/news/nine-more-firs-against-ansal-directors-in-lucknow-134629731.html",
