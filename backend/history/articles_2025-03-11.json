@@ -1,6 +1,614 @@
 {
     "articles": [
         {
+            "article_id": "73c400ec3ce6b5ff4a852d55126575b1",
+            "title": "BMC to hsg soc: Don’t light Holi fire in common garden",
+            "link": "https://timesofindia.indiatimes.com/city/mumbai/bmc-to-hsg-soc-dont-light-holi-fire-in-common-garden/articleshow/118903114.cms",
+            "keywords": null,
+            "creator": [
+                "Vijay Singh"
+            ],
+            "video_url": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-11 19:08:58",
+            "pubDateTZ": "UTC",
+            "image_url": "https://static.toiimg.com/thumb/msid-117518375,width-1070,height-580,imgsize-419011,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "source_id": "toi",
+            "source_priority": 239,
+            "source_name": "The Times Of India",
+            "source_url": "https://timesofindia.indiatimes.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/toi.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "entertainment"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "4dd318349a093ecf545accde6a1b7dd7",
+            "title": "Fake immigration officer dupes woman of 24L, 2 held",
+            "link": "https://timesofindia.indiatimes.com/city/jaipur/fake-immigration-officer-dupes-woman-of-24l-2-held/articleshow/118903115.cms",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-11 19:08:58",
+            "pubDateTZ": "UTC",
+            "image_url": "https://static.toiimg.com/thumb/msid-118903110,width-1070,height-580,imgsize-58290,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "source_id": "toi",
+            "source_priority": 239,
+            "source_name": "The Times Of India",
+            "source_url": "https://timesofindia.indiatimes.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/toi.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "a1b41cd3def6afe8ef69d26898796428",
+            "title": "Drive against illegal water connections from today",
+            "link": "https://timesofindia.indiatimes.com/city/jaipur/drive-against-illegal-water-connections-from-today/articleshow/118903105.cms",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-11 19:08:51",
+            "pubDateTZ": "UTC",
+            "image_url": "https://static.toiimg.com/thumb/msid-118903101,width-1070,height-580,imgsize-50330,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "source_id": "toi",
+            "source_priority": 239,
+            "source_name": "The Times Of India",
+            "source_url": "https://timesofindia.indiatimes.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/toi.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "8ceb30c432935a988d4c48ce158cefca",
+            "title": "Three Raj cities ranked among world’s Top 20 most polluted",
+            "link": "https://timesofindia.indiatimes.com/city/jaipur/three-raj-cities-ranked-among-worlds-top-20-most-polluted/articleshow/118903104.cms",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-11 19:08:50",
+            "pubDateTZ": "UTC",
+            "image_url": "https://static.toiimg.com/thumb/msid-118903099,width-1070,height-580,imgsize-48686,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "source_id": "toi",
+            "source_priority": 239,
+            "source_name": "The Times Of India",
+            "source_url": "https://timesofindia.indiatimes.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/toi.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "fea2e6e9745792528a91b4f0a61bdee4",
+            "title": "8,000 kg of adulterated mawa seized",
+            "link": "https://timesofindia.indiatimes.com/city/jaipur/8000-kg-of-adulterated-mawa-seized/articleshow/118903098.cms",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-11 19:08:48",
+            "pubDateTZ": "UTC",
+            "image_url": "https://static.toiimg.com/thumb/msid-118903095,width-1070,height-580,imgsize-29008,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "source_id": "toi",
+            "source_priority": 239,
+            "source_name": "The Times Of India",
+            "source_url": "https://timesofindia.indiatimes.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/toi.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "c09312a7b5fbb491178e007b9c30e963",
+            "title": "‘India produces 60% of world’s vaccines, says ex-ICMR chief",
+            "link": "https://timesofindia.indiatimes.com/city/thiruvananthapuram/india-produces-60-of-worlds-vaccines-says-ex-icmr-chief/articleshow/118903090.cms",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-11 19:08:43",
+            "pubDateTZ": "UTC",
+            "image_url": "https://static.toiimg.com/thumb/msid-117593886,imgsize-360609,width-400,height-225,resizemode-72/117593886.jpg",
+            "source_id": "toi",
+            "source_priority": 239,
+            "source_name": "The Times Of India",
+            "source_url": "https://timesofindia.indiatimes.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/toi.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "entertainment"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "96a23bc720900f2765a4b217e8145b20",
+            "title": "Airport control room to handle hijackings",
+            "link": "https://timesofindia.indiatimes.com/city/thiruvananthapuram/airport-control-room-to-handle-hijackings/articleshow/118903088.cms",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-11 19:08:41",
+            "pubDateTZ": "UTC",
+            "image_url": "https://static.toiimg.com/thumb/msid-117593888,width-1070,height-580,imgsize-92568,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "source_id": "toi",
+            "source_priority": 239,
+            "source_name": "The Times Of India",
+            "source_url": "https://timesofindia.indiatimes.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/toi.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "entertainment"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "ccdbfeac9a9a5f5d893801313cc7a84e",
+            "title": "Ex-IAS officer Pradeep Sharma sent to 2-day remand to ED",
+            "link": "https://timesofindia.indiatimes.com/city/ahmedabad/ex-ias-officer-pradeep-sharma-sent-to-2-day-remand-to-ed/articleshow/118903086.cms",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-11 19:08:40",
+            "pubDateTZ": "UTC",
+            "image_url": "https://static.toiimg.com/thumb/msid-117516821,imgsize-93623,width-400,height-225,resizemode-72/117516821.jpg",
+            "source_id": "toi",
+            "source_priority": 239,
+            "source_name": "The Times Of India",
+            "source_url": "https://timesofindia.indiatimes.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/toi.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "lifestyle"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "7af5c582c37f4d1b8c79d4bb21392692",
+            "title": "Wall Street's sell-off spirals briefly sending US stock market 10 below its record",
+            "link": "https://www.theweek.in/wire-updates/business/2025/03/12/fgn126-us-markets.html",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "New York, Mar 11 (AP) Wall Street's sell-off is spiralling Tuesday following President Donald Trump's latest escalation in his",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-11 19:08:38",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.theweek.in/content/dam/week/wire-updates/pti-preview-theweek.jpg",
+            "source_id": "theweek_in",
+            "source_priority": 26911,
+            "source_name": "The Week",
+            "source_url": "https://www.theweek.in",
+            "source_icon": "https://i.bytvi.com/domain_icons/theweek_in.jpg",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "business"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "2f3153036703cabb0c2b610fb758f441",
+            "title": "13 terrorists killed 80 passengers rescued in Pakistan train attack",
+            "link": "https://www.theweek.in/wire-updates/international/2025/03/12/fgn125-pak-train-attack-militants.html",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "Karachi, Mar 11 (PTI) At least 13 terrorists were killed and 80 passengers rescued by security forces after suspected Baloch",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-11 19:08:38",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.theweek.in/content/dam/week/wire-updates/pti-preview-theweek.jpg",
+            "source_id": "theweek_in",
+            "source_priority": 26911,
+            "source_name": "The Week",
+            "source_url": "https://www.theweek.in",
+            "source_icon": "https://i.bytvi.com/domain_icons/theweek_in.jpg",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "world"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "a69cb353f158409920f2f3a647899ba1",
+            "title": "George Russell’s Recent Comments on Verstappen Seem to Be a ‘Veiled’ Dig on Norris for Lack of ‘Steel’ Against Reigning World Champ",
+            "link": "https://thesportsrush.com/f1-news-george-russells-recent-comments-on-verstappen-seem-to-be-a-veiled-dig-on-norris-for-lack-of-steel-against-reigning-world-champ/",
+            "keywords": [
+                "f1",
+                "george russell",
+                "max verstappen",
+                "lando norris"
+            ],
+            "creator": [
+                "Vidit Dhawan"
+            ],
+            "video_url": null,
+            "description": "Max Verstappen can be an intimidating presence, both in the paddock and on track. No one matches his aggression, and this fear alone can help him win battles. George Russell labeled him a bully last year with these things in mind, which sparked a rivalry between the two drivers. When Russell and Verstappen clashed in [...]The post George Russell’s Recent Comments on Verstappen Seem to Be a ‘Veiled’ Dig on Norris for Lack of ‘Steel’ Against Reigning World Champ appeared first on The SportsRush.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-11 19:08:37",
+            "pubDateTZ": "UTC",
+            "image_url": "https://cdn-wp.thesportsrush.com/2025/03/68916669-1500-630-2025-03-12t003649.225.jpg?format=auto&q=75&w=3840",
+            "source_id": "thesportsrush",
+            "source_priority": 96305,
+            "source_name": "The Sportsrush",
+            "source_url": "https://thesportsrush.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/thesportsrush.jpg",
+            "language": "english",
+            "country": [
+                "india",
+                "australia",
+                "united states of america",
+                "united kingdom"
+            ],
+            "category": [
+                "sports"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "3336dc3379c4e9f6dbd9bb234a5d2cab",
+            "title": "History-sheeter hacked to death by gang in Kanchi",
+            "link": "https://timesofindia.indiatimes.com/city/chennai/history-sheeter-hacked-to-death-by-gang-in-kanchi/articleshow/118903084.cms",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-11 19:08:34",
+            "pubDateTZ": "UTC",
+            "image_url": "https://static.toiimg.com/thumb/msid-117517379,width-1070,height-580,imgsize-94050,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "source_id": "toi",
+            "source_priority": 239,
+            "source_name": "The Times Of India",
+            "source_url": "https://timesofindia.indiatimes.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/toi.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "politics",
+                "education"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "57f2a212724b6ecf3eb91b406dc2916e",
+            "title": "Student unions rally against GU’s fee increase",
+            "link": "https://timesofindia.indiatimes.com/city/ahmedabad/student-unions-rally-against-gus-fee-increase/articleshow/118903082.cms",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-11 19:08:33",
+            "pubDateTZ": "UTC",
+            "image_url": "https://static.toiimg.com/thumb/msid-117516817,width-1070,height-580,imgsize-95081,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "source_id": "toi",
+            "source_priority": 239,
+            "source_name": "The Times Of India",
+            "source_url": "https://timesofindia.indiatimes.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/toi.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "lifestyle"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "2b3a77a6a50392724b337e64ce8d9870",
+            "title": "Govt to link 1,630 villages via 5k km rds",
+            "link": "https://timesofindia.indiatimes.com/city/jaipur/govt-to-link-1630-villages-via-5k-km-rds/articleshow/118903083.cms",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-11 19:08:33",
+            "pubDateTZ": "UTC",
+            "image_url": "https://static.toiimg.com/thumb/msid-117622041,imgsize-364088,width-400,height-225,resizemode-72/117622041.jpg",
+            "source_id": "toi",
+            "source_priority": 239,
+            "source_name": "The Times Of India",
+            "source_url": "https://timesofindia.indiatimes.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/toi.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "323a5d63f1659d9a81efb4ca5876d091",
+            "title": "Seven-year-old boy dies after falling from flat; accident in Palazhi, Kozhikode",
+            "link": "https://keralakaumudi.com/en/news/kerala/general/seven-year-old-boy-dies-after-falling-from-flat-accident-in-palazhi-kozhikode-1496914",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "KOZHIKODE: A seven-year-old boy died after falling from a flat. The accident occurred near Palazhi in Kozhikode district.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-11 19:08:26",
+            "pubDateTZ": "UTC",
+            "image_url": "https://keralakaumudi.com/web-news/en/2025/03/NMAN0572786/image/kozhikode-.1.3179443.webp",
+            "source_id": "keralakaumudi",
+            "source_priority": 79921,
+            "source_name": "Kerala Kaumudi Online",
+            "source_url": "https://keralakaumudi.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/keralakaumudi.jpg",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "1f4dae594a588b64b035fffe4fa37791",
+            "title": "Body of Thomas, who was shot dead in Jordan, cremated; family in grief",
+            "link": "https://keralakaumudi.com/en/news/kerala/general/body-of-thomas-who-was-shot-dead-in-jordan-cremated-1496944",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "THIRUVANANTHAPURAM: I raised him by working as a fishmonger, carrying a basket over my head, says Celine, mother of Thumba native who died in Jordan.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-11 19:08:26",
+            "pubDateTZ": "UTC",
+            "image_url": "https://keralakaumudi.com/web-news/en/2025/03/NMAN0572789/image/thomas-obit.1.3179482.webp",
+            "source_id": "keralakaumudi",
+            "source_priority": 79921,
+            "source_name": "Kerala Kaumudi Online",
+            "source_url": "https://keralakaumudi.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/keralakaumudi.jpg",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "4bb4368ba1d5c4cd0d47d365376870e4",
+            "title": "Pakistani train hijacked by Baloch Liberation Army, 20 soldiers killed and 182 taken hostage",
+            "link": "https://keralakaumudi.com/en/news/world/others/pakistani-train-hijacked-by-baloch-liberation-army-20-soldiers-killed-and-182-taken-hostage-1496946",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "ISLAMABAD: The Balochistan Liberation Army (BLA), which is fighting for an independent Balochistan, has hijacked a train in Pakistan and taken 182 people hostage.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-11 19:08:26",
+            "pubDateTZ": "UTC",
+            "image_url": "https://keralakaumudi.com/web-news/en/2025/03/NMAN0572792/image/hijacked-.1.3179491.webp",
+            "source_id": "keralakaumudi",
+            "source_priority": 79921,
+            "source_name": "Kerala Kaumudi Online",
+            "source_url": "https://keralakaumudi.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/keralakaumudi.jpg",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "741fef361906c56e6df7fb96be06e5cf",
+            "title": "KTR’s claims baseless: Sridhar Babu",
+            "link": "https://www.deccanchronicle.com/southern-states/telangana/ktrs-claims-baseless-sridhar-babu-1866344",
+            "keywords": [
+                "southern states,telangana"
+            ],
+            "creator": [
+                "DC Correspondent"
+            ],
+            "video_url": null,
+            "description": "Speaking to reporters at a ward office in Uppal, Sridhar Babu dismissed allegations against the Congress government regarding the transfer of development rights as completely unfounded",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-11 19:08:17",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.deccanchronicle.com/h-upload/2025/02/15/1898014-sridharbabu.webp",
+            "source_id": "deccanchronicle",
+            "source_priority": 14130,
+            "source_name": "Deccan Chronicle",
+            "source_url": "https://www.deccanchronicle.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/deccanchronicle.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "7925850daa9bbe82488268d791aa69de",
+            "title": "Biovie stock plunges to 52-week low, touches $1.04",
+            "link": "https://in.investing.com/news/company-news/biovie-stock-plunges-to-52week-low-touches-104-93CH-4716021",
+            "keywords": null,
+            "creator": [
+                "Investing.com"
+            ],
+            "video_url": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-11 19:08:06",
+            "pubDateTZ": "UTC",
+            "image_url": "https://i-invdn-com.investing.com/news/news_six_pile_108x81.jpg",
+            "source_id": "investing_in",
+            "source_priority": 1205,
+            "source_name": "Investing India",
+            "source_url": "https://in.investing.com",
+            "source_icon": null,
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": true
+        },
+        {
             "article_id": "fb78f331ea8961350333648277726279",
             "title": "Trump's Tariff Tango: A Bid for American Revival",
             "link": "https://www.devdiscourse.com/article/politics/3304460-trumps-tariff-tango-a-bid-for-american-revival",
