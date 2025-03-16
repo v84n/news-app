@@ -1,6 +1,804 @@
 {
     "articles": [
         {
+            "article_id": "6aa35cbb4eaf18a7adc815f64b731a53",
+            "title": "Trump launches strikes against Yemen's Houthis",
+            "link": "https://www.channelnewsasia.com/world/trump-launches-strikes-against-yemens-houthis-5003336",
+            "keywords": [
+                "world"
+            ],
+            "creator": null,
+            "video_url": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-15 21:06:57",
+            "pubDateTZ": "UTC",
+            "image_url": "https://dam.mediacorp.sg/image/upload/s--fqrpdEme--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2025-02-28t151617z_1_lynxnpel1r0lo_rtroptp_3_israel-palestinians-protests-yemen.jpg?itok=o3NKda2j",
+            "source_id": "channelnewsasia",
+            "source_priority": 4142,
+            "source_name": "Channel Newsasia",
+            "source_url": "https://www.channelnewsasia.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/channelnewsasia.jpg",
+            "language": "english",
+            "country": [
+                "georgia",
+                "yemen",
+                "afghanistan",
+                "cyprus",
+                "india",
+                "singapore",
+                "saudi arabia",
+                "maldives",
+                "japan",
+                "united arab emirates",
+                "malaysia",
+                "china",
+                "south korea",
+                "north korea",
+                "taiwan",
+                "thailand",
+                "pakistan",
+                "mongolia",
+                "brunei",
+                "lebanon",
+                "indonesia",
+                "kyrgyzstan",
+                "syria",
+                "israel",
+                "bhutan",
+                "iran",
+                "turkey",
+                "armenia",
+                "qatar",
+                "philippines",
+                "hong kong",
+                "kazakhstan",
+                "iraq",
+                "bangladesh",
+                "laos",
+                "vietnam",
+                "timor-leste",
+                "kuwait",
+                "myanmar",
+                "azerbaijan",
+                "jordan",
+                "nepal",
+                "sri lanka",
+                "uzbekistan",
+                "turkmenistan",
+                "macau",
+                "bahrain",
+                "cambodia",
+                "tajikistan"
+            ],
+            "category": [
+                "world"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": true
+        },
+        {
+            "article_id": "8b6418860f6ff727bac0223adf793cc8",
+            "title": "Jammu News: शिकायतकर्ता के विरोध न करने पर दुष्कर्म के आरोपी को डेढ़ साल के बाद जमानत",
+            "link": "https://www.amarujala.com/jammu/jammu-heighcourt-bail-jammu-news-c-10-lko1027-566913-2025-03-16",
+            "keywords": null,
+            "creator": [
+                ""
+            ],
+            "video_url": null,
+            "description": "शिकायतकर्ता के विरोध न करने पर दुष्कर्म के आरोपी को डेढ़ साल बाद जमानत",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-15 21:06:53",
+            "pubDateTZ": "UTC",
+            "image_url": "https://staticimg.amarujala.com/assets/images/2021/11/03/jammu_1635936228.jpeg?dpr=1.0&q=80&w=414",
+            "source_id": "amarujala",
+            "source_priority": 55215,
+            "source_name": "Amar Ujala",
+            "source_url": "https://www.amarujala.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/amarujala.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "7206302467e85a83adf4c593be2bbf7c",
+            "title": "Jammu News: नई बस्ती में 14 दुकानदारों को मिले नोटिस पर आक्रोश, अनिश्चितकालीन धरना शुरू",
+            "link": "https://www.amarujala.com/jammu/jammu-nai-basti-shoperkeepers-case-protest-jammu-news-c-10-lko1027-566655-2025-03-16",
+            "keywords": null,
+            "creator": [
+                ""
+            ],
+            "video_url": null,
+            "description": "नई बस्ती में 14 दुकानदारों को मिले नोटिस पर आक्रोश, अनिश्चितकालीन धरना शुरू",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-15 21:06:48",
+            "pubDateTZ": "UTC",
+            "image_url": "https://staticimg.amarujala.com/assets/images/4cplus/2025/03/16/natasa-ka-varathha-ma-thharana-thata-naii-bsata-ka-thakanathara-savatha_29082adb9889608c5e576cb71fc6f377.jpeg?dpr=1.0&q=80&w=414",
+            "source_id": "amarujala",
+            "source_priority": 55215,
+            "source_name": "Amar Ujala",
+            "source_url": "https://www.amarujala.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/amarujala.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "eb76e7ec5e399c90f9c93b6a47928008",
+            "title": "Trump launches large-scale strikes on Yemen's Houthis, at least 19 killed",
+            "link": "https://www.channelnewsasia.com/world/trump-yemen-houthis-large-scale-strikes-killed-5003336",
+            "keywords": [
+                "world"
+            ],
+            "creator": null,
+            "video_url": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-15 21:06:00",
+            "pubDateTZ": "UTC",
+            "image_url": "https://dam.mediacorp.sg/image/upload/s--f5YN7YDx--/fl_relative,g_south_east,l_one-cms:core:watermark:ap_data-1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/trump_yemen_houthis_21930.jpg?itok=AXECPUfB",
+            "source_id": "channelnewsasia",
+            "source_priority": 4142,
+            "source_name": "Channel Newsasia",
+            "source_url": "https://www.channelnewsasia.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/channelnewsasia.jpg",
+            "language": "english",
+            "country": [
+                "georgia",
+                "yemen",
+                "afghanistan",
+                "cyprus",
+                "india",
+                "singapore",
+                "saudi arabia",
+                "maldives",
+                "japan",
+                "united arab emirates",
+                "malaysia",
+                "china",
+                "south korea",
+                "north korea",
+                "taiwan",
+                "thailand",
+                "pakistan",
+                "mongolia",
+                "brunei",
+                "lebanon",
+                "indonesia",
+                "kyrgyzstan",
+                "syria",
+                "israel",
+                "bhutan",
+                "iran",
+                "turkey",
+                "armenia",
+                "qatar",
+                "philippines",
+                "hong kong",
+                "kazakhstan",
+                "iraq",
+                "bangladesh",
+                "laos",
+                "vietnam",
+                "timor-leste",
+                "kuwait",
+                "myanmar",
+                "azerbaijan",
+                "jordan",
+                "nepal",
+                "sri lanka",
+                "uzbekistan",
+                "turkmenistan",
+                "macau",
+                "bahrain",
+                "cambodia",
+                "tajikistan"
+            ],
+            "category": [
+                "world"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": true
+        },
+        {
+            "article_id": "edb2bc99f39da536d4d9f0a90ff2023e",
+            "title": "Major storm in central U.S. leaves at least 18 dead",
+            "link": "https://www.thehindu.com/news/international/several-dead-in-storm-in-us-update/article69335039.ece",
+            "keywords": [
+                "world"
+            ],
+            "creator": null,
+            "video_url": null,
+            "description": "The State police reported downed trees and power lines, as well as damage to residential and commercial buildings, with some areas severely impacted by “tornadoes, thunderstorms and large hail”",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-15 21:05:42",
+            "pubDateTZ": "UTC",
+            "image_url": "https://th-i.thgim.com/public/incoming/cko832/article69335041.ece/alternates/LANDSCAPE_1200/Severe_Weather_94885.jpg",
+            "source_id": "thehindu",
+            "source_priority": 2972,
+            "source_name": "The Hindu",
+            "source_url": "https://www.thehindu.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/thehindu.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": true
+        },
+        {
+            "article_id": "9118029506c09528a0c167d1bceff4d9",
+            "title": "Bill Belichick’s girlfriend Jordon Hudson takes matters into her own hands after the couple got trolled again",
+            "link": "https://timesofindia.indiatimes.com/sports/nfl/news/bill-belichicks-girlfriend-jordon-hudson-takes-matters-into-her-own-hands-after-the-couple-got-trolled-again/articleshow/119056777.cms",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "Bill Belichick's relationship with Jordon Hudson has faced criticism due to their age gap of nearly 50 years. Jordon recently responded to a troll on Instagram, highlighting the intrusion into their personal life. Videos of Bill needing assistance while walking further fueled online trolling. The couple was also jested about at the NFL Honors by Snoop Dogg.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-15 21:05:36",
+            "pubDateTZ": "UTC",
+            "image_url": "https://static.toiimg.com/thumb/msid-119056784,width-1070,height-580,imgsize-32464,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "source_id": "toi",
+            "source_priority": 239,
+            "source_name": "The Times Of India",
+            "source_url": "https://timesofindia.indiatimes.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/toi.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "75eb826b15c377d34276f288803ded51",
+            "title": "केंद्रीय मंत्री के पिता का हुआ निधन, पीएम मोदी समेत तमाम सियासी दिग्गजों ने जताया शोक",
+            "link": "https://www.bhaskarhindi.com/politics/union-minister-bhupendra-yadav-bhupendra-yadav-father-passed-away-kadam-singh-pm-narendra-modi-amit-shah-rajnath-singh-shivraj-singh-chouhan-1121822",
+            "keywords": [
+                "राजनीति,बड़ी खबरें"
+            ],
+            "creator": [
+                "Anchal Shridhar"
+            ],
+            "video_url": null,
+            "description": "केंद्रीय मंत्री भूपेंद्र यादव पर टूटा दुखों का पहाड़पिता का हुआ निधानपीएम मोदी, अमित शाह और राजनाथ सिंह ने जताया शोक",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-15 21:05:15",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.bhaskarhindi.com/h-upload/2025/03/15/1411082-capture.webp",
+            "source_id": "bhaskarhindi",
+            "source_priority": 596776,
+            "source_name": "Bhaskar Hindi",
+            "source_url": "https://www.bhaskarhindi.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/bhaskarhindi.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "politics"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "d3569a71b7d41882e0ef68c6d68aba67",
+            "title": "Real's Ancelotti vows no more matches with less than 72 hours rest",
+            "link": "https://www.channelnewsasia.com/sport/reals-ancelotti-vows-no-more-matches-less-72-hours-rest-5003346",
+            "keywords": [
+                "sport"
+            ],
+            "creator": null,
+            "video_url": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-15 21:05:06",
+            "pubDateTZ": "UTC",
+            "image_url": "https://dam.mediacorp.sg/image/upload/s--NaMK-D6q--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2025-03-15t210506z_1_lynxmpel2e0c7_rtroptp_3_soccer-spain-vil-rma-report.jpg?itok=LM3BvfVq",
+            "source_id": "channelnewsasia",
+            "source_priority": 4142,
+            "source_name": "Channel Newsasia",
+            "source_url": "https://www.channelnewsasia.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/channelnewsasia.jpg",
+            "language": "english",
+            "country": [
+                "georgia",
+                "yemen",
+                "afghanistan",
+                "cyprus",
+                "india",
+                "singapore",
+                "saudi arabia",
+                "maldives",
+                "japan",
+                "united arab emirates",
+                "malaysia",
+                "china",
+                "south korea",
+                "north korea",
+                "taiwan",
+                "thailand",
+                "pakistan",
+                "mongolia",
+                "brunei",
+                "lebanon",
+                "indonesia",
+                "kyrgyzstan",
+                "syria",
+                "israel",
+                "bhutan",
+                "iran",
+                "turkey",
+                "armenia",
+                "qatar",
+                "philippines",
+                "hong kong",
+                "kazakhstan",
+                "iraq",
+                "bangladesh",
+                "laos",
+                "vietnam",
+                "timor-leste",
+                "kuwait",
+                "myanmar",
+                "azerbaijan",
+                "jordan",
+                "nepal",
+                "sri lanka",
+                "uzbekistan",
+                "turkmenistan",
+                "macau",
+                "bahrain",
+                "cambodia",
+                "tajikistan",
+                "oman"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": true
+        },
+        {
+            "article_id": "98c4792f1bcc31b3243478fb7fcfcfec",
+            "title": "Assam Congress spokesperson held over post on BJP MLAs",
+            "link": "https://timesofindia.indiatimes.com/india/assam-congress-spokesperson-held-over-post-on-bjp-mlas/articleshow/119056774.cms",
+            "keywords": null,
+            "creator": [
+                "Prabin Kalita"
+            ],
+            "video_url": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-15 21:04:18",
+            "pubDateTZ": "UTC",
+            "image_url": "https://static.toiimg.com/thumb/msid-119056800,imgsize-891626,width-400,resizemode-4/119056800.jpg",
+            "source_id": "toi",
+            "source_priority": 239,
+            "source_name": "The Times Of India",
+            "source_url": "https://timesofindia.indiatimes.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/toi.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "food"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "3a099942a07eebd4c11ab999cf58751d",
+            "title": "Muzaffarnagar News: सीबीएसई बोर्ड परीक्षा में समाचार लेखन से जुड़े प्रश्नों का दिया उत्तर",
+            "link": "https://www.amarujala.com/uttar-pradesh/muzaffarnagar/answers-given-to-questions-related-to-news-writing-in-cbse-board-exam-muzaffarnagar-news-c-29-1-mng1004-141482-2025-03-15",
+            "keywords": null,
+            "creator": [
+                ""
+            ],
+            "video_url": null,
+            "description": "Answers given to questions related to news writing in CBSE board exam",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-15 21:04:01",
+            "pubDateTZ": "UTC",
+            "image_url": "https://staticimg.amarujala.com/assets/images/2021/10/26/muzaffarnagar_1635234370.jpeg?dpr=1.0&q=80&w=414",
+            "source_id": "amarujala",
+            "source_priority": 55215,
+            "source_name": "Amar Ujala",
+            "source_url": "https://www.amarujala.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/amarujala.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "936e718bef3884f0aec4e441e07f11a7",
+            "title": "Who is Ebrahim Rasool? South African ambassador to the U.S who has been declared persona non grata and asked to leave the country by Donald Trump; here's the reason why",
+            "link": "https://economictimes.indiatimes.com/news/international/us/who-is-ebrahim-rasool-south-african-ambassador-to-the-u-s-who-has-been-declared-persona-non-grata-and-asked-to-leave-the-country-by-donald-trump-heres-the-reason-why/articleshow/119056756.cms",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "Trump administration expels South Africa’s ambassador over Musk criticism and land reform disputes. Explore the diplomatic fallout and Expropriation Act tensions.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-15 21:03:25",
+            "pubDateTZ": "UTC",
+            "image_url": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-119884,resizemode-75,msid-119056756/news/international/us/who-is-ebrahim-rasool-south-african-ambassador-to-the-u-s-who-has-been-declared-persona-non-grata-and-asked-to-leave-the-country-by-donald-trump-heres-the-reason-why.jpg",
+            "source_id": "economictimes_indiatimes",
+            "source_priority": 231,
+            "source_name": "The Economic Times",
+            "source_url": "https://economictimes.indiatimes.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/economictimes_indiatimes.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "fa5790651aff368ab0206b53c187524a",
+            "title": "Trump Unleashes Strikes on Houthis: A New Era in Middle Eastern Tensions",
+            "link": "https://www.devdiscourse.com/article/law-order/3309052-trump-unleashes-strikes-on-houthis-a-new-era-in-middle-eastern-tensions",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "Trump Unleashes Strikes on Houthis: A New Era in Middle Eastern Tensions In a decisive act of military aggression, U.S. President Donald Trump ordered assaults on Yemen's Houthi forces, responding to their persistent threats to Red Sea shipping lanes. Trump's declaration sent clear warning signals to Iran, the primary support of the Houthis, demanding an end to their backing or face severe reprisals.This military engagement marks the most significant U.S. intervention in the Middle East under the Trump administration as America leverages sanctions to pressure Iran into negotiating over its contentious nuclear program. The strikes resulted in civilian casualties in Yemen’s capital, Sanaa, highlighting the escalating humanitarian impact.Despite the Houthis' labeling of the attacks as a 'war crime,' the U.S. military pledged to restore 'Freedom of Navigation' in response to the group's aggressive maritime campaigns. Meanwhile, diplomatic tensions persist with Iran, particularly as the U.S. seeks to address and mitigate Tehran's nuclear ambitions amid broader regional instability.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-15 21:03:04",
+            "pubDateTZ": "UTC",
+            "image_url": "https://devdiscourse.blob.core.windows.net/imagegallery/03_03_2020_19_07_32_0301512.jpg",
+            "source_id": "devdiscourse",
+            "source_priority": 566021,
+            "source_name": "Devdiscourse",
+            "source_url": "https://www.devdiscourse.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/devdiscourse.jpg",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "c014e6647b7c74528633daa48b511456",
+            "title": "Karnal News: होली के दिन चाकू घोंपकर युवक की हत्या",
+            "link": "https://www.amarujala.com/haryana/karnal/a-young-man-was-stabbed-to-death-on-holi-karnal-news-c-18-knl1008-602253-2025-03-16",
+            "keywords": null,
+            "creator": [
+                "संवाद न्यूज एजेंसी, करनाल"
+            ],
+            "video_url": null,
+            "description": "होली के दिन आरोपियों ने चाकू घोंपकर युवक की हत्या कर दी। दूसरा युवक गंभीर रूप से घायल है, जिसका अस्पताल में इलाज चल रहा है।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-15 21:02:42",
+            "pubDateTZ": "UTC",
+            "image_url": "https://staticimg.amarujala.com/assets/images/2021/11/09/karnal_1636440329.jpeg?dpr=1.0&q=80&w=414",
+            "source_id": "amarujala",
+            "source_priority": 55215,
+            "source_name": "Amar Ujala",
+            "source_url": "https://www.amarujala.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/amarujala.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "029b0ce23e60835a950838ac742d72b4",
+            "title": "Jammu News: चार रेहड़ियां, दो टेंपो सामान जब्त",
+            "link": "https://www.amarujala.com/jammu/jammu-municipal-corporation-encrochment-drieve-jammu-news-c-10-lko1027-566634-2025-03-16",
+            "keywords": null,
+            "creator": [
+                ""
+            ],
+            "video_url": null,
+            "description": "चार रेहड़ियां, दो टेंपो सामान जब्त",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-15 21:02:38",
+            "pubDateTZ": "UTC",
+            "image_url": "https://staticimg.amarujala.com/assets/images/2021/11/03/jammu_1635936228.jpeg?dpr=1.0&q=80&w=414",
+            "source_id": "amarujala",
+            "source_priority": 55215,
+            "source_name": "Amar Ujala",
+            "source_url": "https://www.amarujala.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/amarujala.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "146a40a3289ab31be981a318657e5dba",
+            "title": "Karnal News: इंडो-वेस्टर्न शॉर्ट कुर्तियों का बढ़ रहा क्रेज",
+            "link": "https://www.amarujala.com/haryana/karnal/the-craze-of-indo-western-short-kurtis-is-increasing-karnal-news-c-18-knl1008-601868-2025-03-16",
+            "keywords": null,
+            "creator": [
+                "संवाद न्यूज एजेंसी, करनाल"
+            ],
+            "video_url": null,
+            "description": "गर्मी का असर दिखने लगा है और फैशन ट्रेंड भी बदल गया है। युवतियों के बीच शॉर्ट कुर्तियों का क्रेज बढ़ रहा है। शहर के कर्ण बाजार में स्कूल, कॉलेज जाने वाली युवतियां कुर्तियों की खूब खरीदारी कर रही हैं।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-15 21:02:33",
+            "pubDateTZ": "UTC",
+            "image_url": "https://staticimg.amarujala.com/assets/images/2021/11/09/karnal_1636440329.jpeg?dpr=1.0&q=80&w=414",
+            "source_id": "amarujala",
+            "source_priority": 55215,
+            "source_name": "Amar Ujala",
+            "source_url": "https://www.amarujala.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/amarujala.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "cbdfe5eb9659bb33d0af38833cf98c4e",
+            "title": "Will Stephen Curry play tonight against the New York Knicks? Latest update on the Golden State Warriors star's injury report (March 15, 2025)",
+            "link": "https://timesofindia.indiatimes.com/sports/nba/top-stories/will-stephen-curry-play-tonight-against-the-new-york-knicks-latest-update-on-the-golden-state-warriors-stars-injury-report-march-15-2025/articleshow/119056532.cms",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "Stephen Curry will play for the Golden State Warriors against the New York Knicks on March 15, with no current injuries. Curry's impressive performance is vital with the team facing depth issues, while the Knicks miss key player Jalen Brunson. Tip-off is at 8:30 p.m. ET on ABC and ESPN+.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-15 21:02:30",
+            "pubDateTZ": "UTC",
+            "image_url": "https://static.toiimg.com/thumb/msid-119056596,width-1070,height-580,imgsize-33464,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "source_id": "toi",
+            "source_priority": 239,
+            "source_name": "The Times Of India",
+            "source_url": "https://timesofindia.indiatimes.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/toi.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "c2db64c4b8544f99fbe015d463392949",
+            "title": "Jammu News: अवैध खनन में शामिल चार वाहन जब्त",
+            "link": "https://www.amarujala.com/jammu/jammu-crime-vehical-seize-jammu-news-c-336-1-ja11002-100336-2025-03-16",
+            "keywords": null,
+            "creator": [
+                "संवाद न्यूज एजेंसी, जम्मू"
+            ],
+            "video_url": null,
+            "description": "अवैध खनन में शामिल चार वाहन जब्त",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-15 21:02:28",
+            "pubDateTZ": "UTC",
+            "image_url": "https://staticimg.amarujala.com/assets/images/2021/11/03/jammu_1635936228.jpeg?dpr=1.0&q=80&w=414",
+            "source_id": "amarujala",
+            "source_priority": 55215,
+            "source_name": "Amar Ujala",
+            "source_url": "https://www.amarujala.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/amarujala.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "7e0ea7d18d767f473f5acb450393aadb",
+            "title": "218 BNS - किसी अधिकारी को संपत्ति के विरुद्ध कार्रवाई करने से रोकना कब अपराध होता है, जानिए",
+            "link": "https://www.bhopalsamachar.com/2025/03/218-bns.html",
+            "keywords": [
+                "national",
+                "legal"
+            ],
+            "creator": [
+                "noreply@blogger.com (Bhopal Samachar)"
+            ],
+            "video_url": null,
+            "description": "अगर कोई लोक सेवक अपने कर्तव्य का पालन करते हुए किसी व्यक्ति की संपत्ति जब्त कर रहा है और कोई व्यक्ति उसे ऐसा कार्य करने से रोकता है, जैसे कि न्यायालय द्वारा पुलिस अधिकारी को आदेश दिया गया हो कि आप \"म\" नामक व्यक्ति की कार को जब्त कर लें। पुलिस अधिकारी उस कार को जब्त करने जाता है और कार मालिक पुलिस अधिकारी को कार जब्त नहीं करने देता है तथा उनका प्रतिरोध करता है, तब कार मालिक पर क्या कार्यवाही हो सकती है, जानिए।भारतीय न्याय संहिता, 2023 की धारा 218 की परिभाषाजो कोई व्यक्ति किसी लोक सेवक को विधिपूर्ण तरीके से ली जाने वाली संपत्ति का प्रतिरोध करेगा, जबकि उसे पता है कि संपत्ति जब्त होनी है, लेकिन वह जानबूझकर लोक सेवक का प्रतिरोध करेगा, वह व्यक्ति BNS की धारा 218 के अंतर्गत दोषी होगा।नोट: सरकारी अधिकारी द्वारा वैध आदेश के अनुसार किसी व्यक्ति का मकान तोड़ना, अवैध कब्जा हटाना, बैंक अधिकारी द्वारा किसी के मकान पर ताला लगा देना, संपत्ति जब्त करना आदि का प्रतिरोध करने वाले व्यक्ति को इस धारा के अंतर्गत दंडित किया जाता है।Bharatiya Nyaya Sanhita, 2023 Section 218: Provision of Punishmentयह अपराध असंज्ञेय एवं जमानतीय होते हैं, अर्थात पुलिस थाने में इस अपराध के खिलाफ सीधे एफआईआर दर्ज नहीं होगी। इस अपराध के लिए कोई भी न्यायिक मजिस्ट्रेट के समक्ष परिवाद (शिकायत) दर्ज करवा सकता है, एवं इस अपराध की सुनवाई किसी भी न्यायिक मजिस्ट्रेट द्वारा की जाती है। यह अपराध समझौता योग्य नहीं है। इस अपराध के लिए छह माह का कारावास या जुर्माना, जो दस हजार रुपये तक हो सकता है, या दोनों से दंडित किया जा सकता है। लेखक✍️बी.आर. अहिरवार (पत्रकार एवं विधिक सलाहकार होशंगाबाद)। Notice: this is the copyright protected post. do not try to copy of this article) डिस्क्लेमर - यह जानकारी केवल शिक्षा और जागरूकता के लिए है। कृपया किसी भी प्रकार की कानूनी कार्रवाई से पहले बार एसोसिएशन द्वारा अधिकृत अधिवक्ता से संपर्क करें। विनम्र अनुरोध🙏कृपया हमें गूगल न्यूज़ पर फॉलो करें। सबसे तेज अपडेट प्राप्त करने के लिए टेलीग्राम चैनल सब्सक्राइब करें एवं हमारे व्हाट्सएप कम्युनिटी ज्वॉइन करें।333नियम कानून से जुड़ी महत्वपूर्ण जानकारी के लिए कृपया स्क्रॉल करके सबसे नीचे POPULAR Category में Legal पर क्लिक करें।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-15 21:02:00",
+            "pubDateTZ": "UTC",
+            "image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEUSet_w8b5Gfd4IJaNSwJ786dC0OtcfVga_PUm8Ox4CzqN2sIORRBTUUQ20Ck6GBaW146F3ud73-gSQ_jT90_IHQyzPyDi0lAhfG_lGIjPKQU02EYJLv20hy4skgHzWb2xuWhkzpe6n4YC5Fa2pf4NiL9xrlGfPjdaL_K_h_1cqBViqXYqi1MjLY_MZ4/s72-c/1.webp",
+            "source_id": "bhopalsamachar",
+            "source_priority": 2476680,
+            "source_name": "Bhopal Samachar",
+            "source_url": "http://www.bhopalsamachar.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/bhopalsamachar.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "526c5f6210132a2dc53d85e9248b1435",
+            "title": "NYT Strands today: Clues, answers, Spangram for March 16, 2025",
+            "link": "https://timesofindia.indiatimes.com/technology/gaming/nyt-strands-march-16-2025-clues-answers-spangram-for-today/articleshow/119056386.cms",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "The New York Times puzzle lineup includes the new NYT Strands game, which challenges players to discover theme-related words in a grid. Launched in 2022, Strands quickly garnered a loyal following, featuring the unique Spangram. The game combines elements of Connections, Spelling Bee, and classic crosswords, offering fresh daily themes.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-15 21:01:55",
+            "pubDateTZ": "UTC",
+            "image_url": "https://static.toiimg.com/thumb/msid-119056415,imgsize-10754,width-400,resizemode-4/119056415.jpg",
+            "source_id": "toi",
+            "source_priority": 239,
+            "source_name": "The Times Of India",
+            "source_url": "https://timesofindia.indiatimes.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/toi.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "ad34b996c3609e590d9f003418e84041",
+            "title": "Bill Gates praises India’s success in health, tech, and AI ahead of visit - Mint",
+            "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQ3dIVHV2c0ZBMXpmRUgtRlRLWlZESERZZWJRY3VmdXRleXk3dVdMd0VBY2pFRjJfekNzUkdoeWlTRkdWWFVMbnhJZVFnZF8xTzdKQXNRNGpsTGVJUXlnZVJiUHdUa2NrYjZrNXFwX0NpdllXNnhBODN1cTBaMHFLNTBnN1VNdHNfR3U5RExxUDlocGRiNkY5TVFiVHhGRXpIR3BtV0pOU0txYzFXaGJCSUt6TWZhYzhaSWJCMS1xbjBjRU9uWjV2SdIBzgFBVV95cUxQYjBIcE1WRHlDczVDblpwUUdIbFFOM2ktUjBKMDNFQ05RbHQyZkJ2MEtlWHBNS0xTWFlNY1lyMXVGU181cGJEYzBINldTZ2lZdm5uR2NYaGdrcVhMd3lKdDhjZFhnU3hickFpTG9MOGF5bG05SURjNmhPeGZaS0NyeXk0RXpIYzdsM19nbVhtZG1zd2R1cTkxWnpFWTI5TGllYXpZWldCZEIycGRveTZ3QTdOUlBHWTVDT3ZCaU1xa0k3NUh1VF9CNUpuZmNhdw?oc=5",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "Bill Gates praises India’s success in health, tech, and AI ahead of visit Mint",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-15 21:01:52",
+            "pubDateTZ": "UTC",
+            "image_url": null,
+            "source_id": "google",
+            "source_priority": 14,
+            "source_name": "Google News",
+            "source_url": "https://news.google.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/google.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "health"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
             "article_id": "bfc2378b7839d4f841f8dac847158519",
             "title": "यमुना एक्सप्रेसवे पर दिखा रफ्तार का कहर, डिवाइडर से टकराई कार, तीन की मौत, दो घायल",
             "link": "https://www.bhaskarhindi.com/national/yamuna-expressway-road-accident-car-crashed-mathura-police-mathura-hospital-mathura-news-mathura-breaking-news-up-news-1121818",
@@ -22195,736 +22993,6 @@
             "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
             "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
             "duplicate": false
-        },
-        {
-            "article_id": "56ec594d34534cb24f91b23f79f4ceb3",
-            "title": "Accounting Discrepancies: ICAI May Review IndusInd Bank's Books",
-            "link": "https://www.ndtvprofit.com/law-and-policy/biz-indusind-bank-icai-2",
-            "keywords": [
-                "pti",
-                "law & policy",
-                "business",
-                "nation"
-            ],
-            "creator": [
-                "PTI"
-            ],
-            "video_url": null,
-            "description": "On March 10, the bank disclosed some discrepancies in its derivatives portfolio that may impact about 2.35% of its net worth as of December 2024.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-03-14 09:07:53",
-            "pubDateTZ": "UTC",
-            "image_url": "https://media.assettype.com/bloombergquint%2F2025-03-14%2Fbtbwovh8%2Ffinancial-probe-investigation-glass-Fabrikasimf-Freepik.jpg?auto=format%2Ccompress&ogImage=true&w=1200",
-            "source_id": "bloombergquint",
-            "source_priority": 9222807,
-            "source_name": "Bq Prime",
-            "source_url": "https://www.bloombergquint.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/bloombergquint.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "business"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "740e1b09f3a0a45a323f0c311a9155f8",
-            "title": "Holi Hair Care: Hair Oiling Hacks To Prep And Protect Your Hair From Damage",
-            "link": "https://www.news18.com/lifestyle/holi-hair-care-hair-oiling-hacks-to-prep-and-protect-your-hair-from-damage-9261617.html",
-            "keywords": [
-                "latest"
-            ],
-            "creator": null,
-            "video_url": null,
-            "description": "Enjoy a stress-free Holi by following these easy hair oiling tips which will protect your hair from harsh colours and chemicals.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-03-14 09:07:40",
-            "pubDateTZ": "UTC",
-            "image_url": "https://images.news18.com/ibnlive/uploads/2025/03/MixCollage-14-Mar-2025-02-35-PM-4233-2025-03-f6ec92560b8673aea7445b88c2b3e30f-3x2.jpg",
-            "source_id": "news18",
-            "source_priority": 1063,
-            "source_name": "News 18",
-            "source_url": "https://www.news18.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/news18.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "c7ad2ee91e647068c890f9ff57127b22",
-            "title": "सनातन की ताकत आस्था और आस्था की आत्मा पर्व-त्योहार - योगी आदित्यनाथ",
-            "link": "https://www.khaskhabar.com/local/uttar-pradesh/gorakhpur-news/news-faith-is-the-strength-of-sanatan-and-festivals-are-the-soul-of-faith-yogi-adityanath-news-hindi-1-708761-KKN.html",
-            "keywords": null,
-            "creator": [
-                "khas khabar"
-            ],
-            "video_url": null,
-            "description": "गोरक्षपीठाधीश्वर एवं मुख्यमंत्री योगी आदित्यनाथ ने कहा कि सनातन धर्म जितनी समृद्ध पर्व-त्योहारों की परंपरा दुनिया के किसी भी अन्य देश में या मत, मजहब के पास नहीं है",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-03-14 09:07:40",
-            "pubDateTZ": "UTC",
-            "image_url": "https://www.khaskhabar.com/s3-storage/khaskhabar/khaskhabarimages/img500/yogi0111-27-1741943260-708761-khaskhabar.jpg",
-            "source_id": "khaskhabar",
-            "source_priority": 5174519,
-            "source_name": "Khas Khabar",
-            "source_url": "https://www.khaskhabar.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/khaskhabar.jpg",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": true
-        },
-        {
-            "article_id": "a05be99ec862bc56a3ee06647164dd95",
-            "title": "How Broken Mercedes Parts Helped Cops Trace Dehradun Hit-And-Run Suspect",
-            "link": "https://www.ndtv.com/india-news/how-cops-zeroed-in-on-killer-mercedes-after-deadly-dehradun-hit-and-run-7922225",
-            "keywords": null,
-            "creator": null,
-            "video_url": null,
-            "description": "Dehradun Police used camera footage and broken car parts to track down the luxury SUV that was involved in a deadly hit-and-run incident in the city on Wednesday.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-03-14 09:07:39",
-            "pubDateTZ": "UTC",
-            "image_url": "https://c.ndtvimg.com/2025-03/np0kt2og_mercedes-hit-and-run_625x300_14_March_25.jpg?im=FeatureCrop%2Calgorithm%3Ddnn%2Cwidth%3D773%2Cheight%3D435",
-            "source_id": "ndtv",
-            "source_priority": 1204,
-            "source_name": "Ndtv",
-            "source_url": "http://www.ndtv.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/ndtv.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "bacd5949d7084a1c8fbfe5238ff0095c",
-            "title": "Shocking! PIA flight lands at Lahore airport with one wheel",
-            "link": "https://www.orissapost.com/shocking-pia-flight-lands-at-lahore-airport-with-one-wheel/",
-            "keywords": [
-                "missing wheel",
-                "international",
-                "lahore airport",
-                "pia flight",
-                "home news"
-            ],
-            "creator": [
-                "Post News Network"
-            ],
-            "video_url": null,
-            "description": "Lahore: A Pakistan International Airlines (PIA) domestic flight landed on the Lahore airport with one of its wheels missing, an official said Friday. However, no untoward accident was reported due to the Thursday morning incident, the official said. One of the rear wheels of PIA flight PK-306, which left from Karachi for Lahore, was missing [...]",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-03-14 09:07:38",
-            "pubDateTZ": "UTC",
-            "image_url": "https://www.orissapost.com/wp-content/uploads/2020/05/PIA-offers-President-family-business-class-service-300x188.jpg",
-            "source_id": "orissapost",
-            "source_priority": 252515,
-            "source_name": "Orissa Post",
-            "source_url": "https://www.orissapost.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/orissapost.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "f0b66c06a2018daf6ff9786d5eec0b98",
-            "title": "Parli To Host Marathon Led By Milind Soman To Restore Image After Sarpanch Santosh Deshmukh’s Brutal Murder",
-            "link": "https://www.freepressjournal.in/mumbai/parli-to-host-marathon-led-by-milind-soman-to-restore-image-after-sarpanch-santosh-deshmukhs-brutal-murder",
-            "keywords": [
-                "mumbai news",
-                "fpj shorts",
-                "topnews"
-            ],
-            "creator": null,
-            "video_url": null,
-            "description": null,
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-03-14 09:07:25",
-            "pubDateTZ": "UTC",
-            "image_url": "https://media.assettype.com/freepressjournal/2025-03-14/e1nup8ry/Hero-Image-30.jpg",
-            "source_id": "freepressjournal",
-            "source_priority": 26427,
-            "source_name": "The Free Press Journal",
-            "source_url": "https://www.freepressjournal.in",
-            "source_icon": "https://i.bytvi.com/domain_icons/freepressjournal.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "f844e42a10873ab981e84aee39c76ce9",
-            "title": "How a Bengaluru techie has helped 300 apartments in the city reduce tanker dependency during water crisis",
-            "link": "https://economictimes.indiatimes.com/magazines/panache/how-a-bengaluru-techie-has-helped-300-apartments-in-the-city-reduce-tanker-dependency-during-water-crisis/articleshow/119014598.cms",
-            "keywords": null,
-            "creator": null,
-            "video_url": null,
-            "description": "Amid Bengaluru’s ongoing water crisis, a techie has implemented an innovative solution that has helped 300 apartment complexes reduce their reliance on water tankers. By leveraging smart water management techniques, the initiative has improved water conservation, reduced costs, and provided a sustainable approach to tackling water shortages in the city.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-03-14 09:07:25",
-            "pubDateTZ": "UTC",
-            "image_url": "https://img.etimg.com/thumb/msid-119016287,width-1200,height-630,imgsize-104252,overlay-etpanache/articleshow.jpg",
-            "source_id": "economictimes_indiatimes",
-            "source_priority": 231,
-            "source_name": "The Economic Times",
-            "source_url": "https://economictimes.indiatimes.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/economictimes_indiatimes.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "1276d636438e8f1b6f2ac479e7191bdd",
-            "title": "Tamil Nadu Budget 2025: DMK Govt Promises New Airport In Rameswaram, Metro Projects In Coimbatore And Madurai | Key Takeaways",
-            "link": "https://english.jagran.com/india/tamil-nadu-budget-2025-dmk-govt-promises-new-airport-in-rameswaram-metro-projects-in-coimbatore-madurai-key-takeaways-10223842",
-            "keywords": null,
-            "creator": null,
-            "video_url": null,
-            "description": "Tamil Nadu Budget 2025,Tamil Nadu Budget,Tamil Nadu budget session 2025,Tamil Nadu assembly budget session 2025,Tamil Nadu infrastructure,Tamil Nadu news,New Airports in Tamil Nadu,Tamil Nadu Airport Development,Greenfield Airports Tamil Nadu,Infrastructure Development Tamil Nadu,Tamil Nadu Economic Growth,Tamil Nadu Budget Highlights,Tamil Nadu Government Initiatives,Airport In Rameswaram,Rameswaram airport",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-03-14 09:07:25",
-            "pubDateTZ": "UTC",
-            "image_url": "https://imgeng.jagran.com/images/2025/03/14/article/image/tamilnadubudget-1741942880119.webp",
-            "source_id": "english_jagran",
-            "source_priority": 10561,
-            "source_name": "Jagran English",
-            "source_url": "https://english.jagran.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/english_jagran.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "5a5f5d80f937b04855dcabc0c0154087",
-            "title": "Georgian teen Salia's dream comes true with Newcastle move",
-            "link": "https://www.deccanherald.com/sports/football/georgian-teen-salias-dream-comes-true-with-newcastle-move-3446692",
-            "keywords": null,
-            "creator": [
-                "Reuters"
-            ],
-            "video_url": null,
-            "description": null,
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-03-14 09:07:24",
-            "pubDateTZ": "UTC",
-            "image_url": "https://images.deccanherald.com/deccanherald%2F2025-03-14%2Fqrdldn0b%2Ffile7zrd1lpozqqvjswu3p7.jpg?ar=40%3A21&auto=format%2Ccompress&mode=crop&ogImage=true&rect=0%2C10%2C512%2C269&w=1200",
-            "source_id": "deccanherald",
-            "source_priority": 10080,
-            "source_name": "Deccan Herald",
-            "source_url": "https://www.deccanherald.com",
-            "source_icon": null,
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "c59505c5a0a2f7843a45c17a70421786",
-            "title": "Elevated corridor in Bhubaneswar: Foundation stone to be laid by April end, says PWD minister",
-            "link": "https://kalingatv.com/odisha/elevated-corridor-in-bhubaneswar-foundation-stone-to-be-laid-by-april-end-says-pwd-minister/",
-            "keywords": [
-                "odisha latest news",
-                "odisha news today",
-                "odisha",
-                "bhubaneswar news today"
-            ],
-            "creator": [
-                "Himanshu"
-            ],
-            "video_url": null,
-            "description": "Bhubaneswar: Odisha Government is reportedly coming up with an elevated corridor in the Jaydev Vihar to Nandankanan road in Bhubaneswar to ease traffic congestion. The Foundation stone will be laid for this project in April. As per reports, the state government will lay the foundation stone for the elevated corridor in between Jaydev Vihar and [...]The post Elevated corridor in Bhubaneswar: Foundation stone to be laid by April end, says PWD minister appeared first on KalingaTV.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-03-14 09:07:17",
-            "pubDateTZ": "UTC",
-            "image_url": "https://kalingatv.com/wp-content/uploads/2025/03/uyuyui.jpg",
-            "source_id": "kalingatv",
-            "source_priority": 474757,
-            "source_name": "Kalinga Tv",
-            "source_url": "https://kalingatv.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/kalingatv.jpg",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "3577de0c234c81c2e879bcae377a527c",
-            "title": "Mamata's Media Mayhem: Annamalai Calls Out Bengal CM For ‘Unfortunate’ Attacks On Press",
-            "link": "https://www.republicworld.com/india/mamata-s-media-mayhem-annamalai-calls-out-bengal-cm-for-unfortunate-attacks-on-press",
-            "keywords": [
-                "india"
-            ],
-            "creator": [
-                "editor@republicworld.com (Digital Desk)"
-            ],
-            "video_url": null,
-            "description": "Mamata's Media Mayhem: Annamalai Calls Out Bengal CM For ‘Unfortunate’ Attacks On Press",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-03-14 09:07:16",
-            "pubDateTZ": "UTC",
-            "image_url": "http://img.republicworld.com/all_images/bjp-tamil-nadu-president-annamalai-attacks-mamata-banerjee-over-assault-on-journalists-in-west-bengal-1741943226593-16_9.webp",
-            "source_id": "republicworld",
-            "source_priority": 17361,
-            "source_name": "Republic World",
-            "source_url": "https://www.republicworld.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/republicworld.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "86feb3da4592432fca94e65e45910339",
-            "title": "My Melbourne Movie Review: Onir, Rima Das, Imtiaz Ali, and Kabir Khan craft a thought-provoking anthology capturing diverse human struggles",
-            "link": "https://www.moneycontrol.com/entertainment/my-melbourne-movie-review-onir-rima-das-imtiaz-ali-and-kabir-khan-craft-a-thought-provoking-anthology-capturing-diverse-human-struggles-article-12965110.html",
-            "keywords": [
-                "my melbourne, my melbourne movie review, my melbourne director"
-            ],
-            "creator": [
-                "Moneycontrol"
-            ],
-            "video_url": null,
-            "description": null,
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-03-14 09:07:14",
-            "pubDateTZ": "UTC",
-            "image_url": "https://images.moneycontrol.com/static-mcnews/2025/03/20250314090646_My-Melbourne-is-directed-by-Onir-Rima-Das-Imtiaz-Ali-and-Kabir-Khan.png",
-            "source_id": "moneycontrol",
-            "source_priority": 1064,
-            "source_name": "Moneycontrol",
-            "source_url": "https://www.moneycontrol.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/moneycontrol.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top",
-                "business",
-                "world",
-                "politics"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "6914432f6c717650d0685c8f15adbcdc",
-            "title": "China, Russia and Iran call for end to US sanctions on Iran and restart of nuclear talks",
-            "link": "https://www.dtnext.in/news/world/china-russia-and-iran-call-for-end-to-us-sanctions-on-iran-and-restart-of-nuclear-talks-826262",
-            "keywords": [
-                "world,news,headlines"
-            ],
-            "creator": [
-                "AP"
-            ],
-            "video_url": null,
-            "description": "The talks are the latest attempt to broach the matter and come after US President Donald Trump wrote to Iran's supreme leader in an attempt to jumpstart talks.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-03-14 09:07:07",
-            "pubDateTZ": "UTC",
-            "image_url": "https://media.dtnext.in/h-upload/2025/01/22/750x450_854940-untitled-design-35.jpg",
-            "source_id": "dtnext",
-            "source_priority": 9316,
-            "source_name": "Dt Next",
-            "source_url": "https://www.dtnext.in",
-            "source_icon": "https://i.bytvi.com/domain_icons/dtnext.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": true
-        },
-        {
-            "article_id": "d1c9c10bb2a52c5999b8877a4809c01b",
-            "title": "पेड़ पर लटका था बेटे का शव, फफक पड़े घरवाले, पुलिस से बोले- साहब ये मर्डर है",
-            "link": "https://www.tv9hindi.com/state/bihar/dead-body-of-a-man-was-found-in-field-family-members-said-this-is-murder-3173758.html",
-            "keywords": null,
-            "creator": [
-                "TV9 Bharatvarsh"
-            ],
-            "video_url": null,
-            "description": "बिहार के पटना के पनसूही गांव की घटना है. यहां खेत में एक युवक का शव मिला है. सूचना मिलने के बाद स्थानीय पुलिस मौके पर पहुंची. पुलिस ने शव को कब्जे में लेकर पोस्टमार्टम के लिए भेज दिया है.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-03-14 09:07:06",
-            "pubDateTZ": "UTC",
-            "image_url": "https://images.tv9hindi.com/wp-content/uploads/2025/03/untitled-4.jpg",
-            "source_id": "tv9bharatvarsh",
-            "source_priority": 40538658,
-            "source_name": "Tv9 Bharatvarsh",
-            "source_url": "https://www.tv9hindi.com",
-            "source_icon": null,
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "103ad21d49e24921a8d5099aabdffd8b",
-            "title": "'Mistook us for dead': Pakistan train driver recalls 36-hour terror siege",
-            "link": "https://timesofindia.indiatimes.com/world/pakistan/mistook-us-for-dead-pakistan-train-driver-recalls-36-hour-terror-siege/articleshow/119009143.cms",
-            "keywords": null,
-            "creator": null,
-            "video_url": null,
-            "description": "The driver of Jaffar Express recounted the terror when BLA militants attacked the train, killing 21 civilians and 4 soldiers. The militants exploded a bomb under the engine, causing a derailment. The Pakistani military rescued 340 passengers after a two-day standoff, claiming 33 attackers were killed. The BLA disputed this, alleging they still hold hostages.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-03-14 09:07:04",
-            "pubDateTZ": "UTC",
-            "image_url": "https://static.toiimg.com/thumb/msid-119009170,imgsize-871570,width-400,resizemode-4/119009170.jpg",
-            "source_id": "toi",
-            "source_priority": 239,
-            "source_name": "The Times Of India",
-            "source_url": "https://timesofindia.indiatimes.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/toi.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "1ffc5bb2a9e1efc2705ebf98c9273b34",
-            "title": "EU diplomats suggest doubling military aid for Ukraine this year",
-            "link": "https://www.deccanherald.com/world/eu-diplomats-suggest-doubling-military-aid-for-ukraine-this-year-3446699",
-            "keywords": null,
-            "creator": [
-                "Reuters"
-            ],
-            "video_url": null,
-            "description": null,
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-03-14 09:07:02",
-            "pubDateTZ": "UTC",
-            "image_url": "https://images.deccanherald.com/deccanherald%2F2025-03-07%2Fibjlwvgy%2F2025newsmlRC2B6DA6EEYQ1916732757.jpeg?ar=40%3A21&auto=format%2Ccompress&mode=crop&ogImage=true&rect=0%2C0%2C3500%2C1838&w=1200",
-            "source_id": "deccanherald",
-            "source_priority": 10080,
-            "source_name": "Deccan Herald",
-            "source_url": "https://www.deccanherald.com",
-            "source_icon": null,
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": true
-        },
-        {
-            "article_id": "b0e4a301bc5b17fe040593e7cc2674ba",
-            "title": "UPI Foils Major Theft Bid As Thane Thieves Manage To Loot Only ₹27k Despite Breaking Into 14 Shops",
-            "link": "https://www.news18.com/india/upi-foils-major-theft-bid-as-thane-thieves-manage-to-loot-27k-despite-breaking-into-14-shops-9261502.html",
-            "keywords": [
-                "india"
-            ],
-            "creator": null,
-            "video_url": null,
-            "description": "The thieves had broken into a doctor’s clinic, an Ayurvedic store, a paint shop, and a salon.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-03-14 09:07:01",
-            "pubDateTZ": "UTC",
-            "image_url": "https://images.news18.com/ibnlive/uploads/2025/03/Thane-Live-Thieves-2025-03-d2b3c38a76e902aea0e2f52de4c09234-3x2.png",
-            "source_id": "news18",
-            "source_priority": 1063,
-            "source_name": "News 18",
-            "source_url": "https://www.news18.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/news18.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "6d2ee17ad5edc34676a8a1c75c944fe6",
-            "title": "Telangana tunnel collapse: Search ops underway to locate seven missing persons",
-            "link": "https://www.hindustantimes.com/india-news/telangana-tunnel-collapse-search-ops-underway-to-locate-seven-missing-persons-101741942908051.html",
-            "keywords": [
-                "india-news"
-            ],
-            "creator": null,
-            "video_url": null,
-            "description": "Telangana tunnel collapse: Search ops underway to locate seven missing persons",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-03-14 09:06:41",
-            "pubDateTZ": "UTC",
-            "image_url": "https://www.hindustantimes.com/ht-img/img/2025/03/14/1600x900/PTI03-12-2025-000025B-0_1741942932796_1741942938779.jpg",
-            "source_id": "hindustantimes",
-            "source_priority": 933,
-            "source_name": "Hindustan Times",
-            "source_url": "http://www.hindustantimes.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/hindustantimes.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": true
-        },
-        {
-            "article_id": "910f7ac5fbf9e8b5ec9be950a942faf7",
-            "title": "असम की महिला के प्यार में गिरफ्तार हुआ कटिहार का युवक, पुलिस ने बताई सच्चाई तो टूटा दिल",
-            "link": "https://www.prabhatkhabar.com/state/bihar/katihar-youth-falling-in-love-with-assam-woman-heart-broken-when-police-told-her-truth",
-            "keywords": [
-                "bihar news",
-                "bihar",
-                "katihar"
-            ],
-            "creator": [
-                "Prashant Tiwari"
-            ],
-            "video_url": null,
-            "description": "बिहार के कटिहार के रहने वाले एक युवक की असम की रहने वाली महिला से ऑनलाइन दोस्ती हुई. फिर ये दोस्ती धीरे-धीरे प्यार में बदल गई और महिला अपने प्रेमी के घर आकर रहने भी लगी. लेकिन असम पुलिस ने जब महिला की सच्चाई तो प्रेमी का दिल टूट गया.The post असम की महिला के प्यार में गिरफ्तार हुआ कटिहार का युवक, पुलिस ने बताई सच्चाई तो टूटा दिल appeared first on Prabhat Khabar.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-03-14 09:06:31",
-            "pubDateTZ": "UTC",
-            "image_url": "https://www.prabhatkhabar.com/wp-content/uploads/2025/03/Prabhat-Khabar-67-1.jpg",
-            "source_id": "prabhatkhabar",
-            "source_priority": 343253,
-            "source_name": "Prabhat Khabar",
-            "source_url": "https://www.prabhatkhabar.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/prabhatkhabar.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "9723e8eeacff9ec7247850efd9daa6e9",
-            "title": "Zhibao Technology's Subsidiary, Sunshine Insurance Brokers Announces Expansion In The Natural Gas Insurance Market In Conjunction With Yipinsmart, A Subsidiary Of China Gas",
-            "link": "https://menafn.com/1109314977/Zhibao-Technologys-Subsidiary-Sunshine-Insurance-Brokers-Announces-Expansion-In-The-Natural-Gas-Insurance-Market-In-Conjunction-With-Yipinsmart-A-Subsidiary-Of-China-Gas",
-            "keywords": null,
-            "creator": [
-                "marketing@menafn.com (MENAFN)"
-            ],
-            "video_url": null,
-            "description": "(MENAFN - Newsfile Corp)Shanghai, China--(Newsfile Corp. - March 14, 2025) - Zhibao Technology Inc. (NASDAQ: ZBAO) (\"Zhibao,\" \"we,\" or the \"Company\"), a leading and high growth InsurTech company ...",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-03-14 09:06:30",
-            "pubDateTZ": "UTC",
-            "image_url": "https://menafn.com/images/Menafn_SmallLogo.jpg",
-            "source_id": "menafn",
-            "source_priority": 1117534,
-            "source_name": "Menafn",
-            "source_url": "https://menafn.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/menafn.png",
-            "language": "english",
-            "country": [
-                "georgia",
-                "yemen",
-                "afghanistan",
-                "cyprus",
-                "india",
-                "singapore",
-                "saudi arabia",
-                "maldives",
-                "japan",
-                "united arab emirates",
-                "malaysia",
-                "china",
-                "south korea",
-                "north korea",
-                "taiwan",
-                "thailand",
-                "pakistan",
-                "mongolia",
-                "brunei",
-                "lebanon",
-                "indonesia",
-                "kyrgyzstan",
-                "syria",
-                "israel",
-                "bhutan",
-                "iran",
-                "turkey",
-                "armenia",
-                "qatar",
-                "philippines",
-                "kazakhstan",
-                "iraq",
-                "bangladesh",
-                "laos",
-                "vietnam",
-                "timor-leste",
-                "kuwait",
-                "myanmar",
-                "azerbaijan",
-                "jordan",
-                "nepal",
-                "sri lanka",
-                "uzbekistan",
-                "turkmenistan",
-                "macau",
-                "bahrain",
-                "cambodia",
-                "tajikistan"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": true
         }
     ]
 }
