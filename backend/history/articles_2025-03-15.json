@@ -1,6 +1,682 @@
 {
     "articles": [
         {
+            "article_id": "cd4d272543e8103b1807464507d42b85",
+            "title": "LIVE News: India slams Pakistan for 'unjustified' reference to Jammu and Kashmir in UNGA",
+            "link": "https://www.business-standard.com/india-news/india-pakistan-modi-govt-trump-holi-adityanath-tamil-nadu-languages-external-affairs-jaishankar-125031500071_1.html",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "Latest news updates: Catch all the latest news developments from around the world here",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-15 03:07:52",
+            "pubDateTZ": "UTC",
+            "image_url": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1250315/thumb-125031500071.jpg",
+            "source_id": "business-standard",
+            "source_priority": 9158,
+            "source_name": "Business Standard",
+            "source_url": "https://www.business-standard.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/business-standard.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "53346dcf022e98f66d811ed7c18f211c",
+            "title": "‘AIMS’ भोपाल ने हासिल की बड़ी सफलता, अब ‘Digital’ होगी मरीजों की बेहतर देखभाल",
+            "link": "https://indianews.in/madhya-pradesh/bhopal-aims-aims-bhopal-achieved-a-big-success-now-better-care-of-patients-will-be-digital/",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "India News (इंडिया न्यूज), Bhopal AIMS: मध्य प्रदेश के AIMS भोपाल को कैंसर मरीजों की जीवन गुणवत्ता सुधारने के लिए एक महत्वपूर्ण उपलब्धि मिली है। भारत सरकार के विज्ञान और प्रौद्योगिकी विभाग",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-15 03:07:50",
+            "pubDateTZ": "UTC",
+            "image_url": "https://indianews.in/wp-content/uploads/2025/03/Bhopal-AIMS_.jpg",
+            "source_id": "indianews",
+            "source_priority": 1433119,
+            "source_name": "India News Rajasthan",
+            "source_url": "https://rajasthan.indianews.in",
+            "source_icon": "https://i.bytvi.com/domain_icons/indianews.jpg",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "5025fe2c1fbbd6dda395a17454f0a4e5",
+            "title": "बारिश और बर्फबारी का येलो अलर्ट, तापमान में बड़ी गिरावट, जानें क्या है आज का वेदर अपडेट?",
+            "link": "https://indianews.in/indianews/aaj-ka-mausam-yellow-alert-for-rain-and-snowfall-big-drop-temperature-know-weather-update/",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "Aaj ka Mausam: उत्तराखंड में बारिश और बर्फबारी को लेकर येलो अलर्ट जारी किया गया है। 3200 मीटर से अधिक ऊंचाई वाले इलाकों में बर्फबारी की संभावना है, जिससे सड़कें बंद हो सकती हैं और भूस्खलन हो सकता है। 16 मार्च को पूरे प्रदेश में बारिश होगी, जबकि 17 मार्च को 5 जिलों में बारिश के आसार हैं। तापमान बढ़ने से एसी-कूलर की मांग बढ़ गई है। बद्रीनाथ हाईवे अभी भी बर्फ से ढका हुआ है।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-15 03:07:50",
+            "pubDateTZ": "UTC",
+            "image_url": "https://indianews.in/wp-content/uploads/2025/03/Rajasthan-Weather-1.webp",
+            "source_id": "indianews",
+            "source_priority": 1433119,
+            "source_name": "India News Rajasthan",
+            "source_url": "https://rajasthan.indianews.in",
+            "source_icon": "https://i.bytvi.com/domain_icons/indianews.jpg",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "d03c896e68da5af3128dadc236dbc70c",
+            "title": "Iraq, Syria discuss ties, anti-terrorism cooperation",
+            "link": "https://yespunjab.com/iraq-syria-discuss-ties-anti-terrorism-cooperation/",
+            "keywords": [
+                "kurdish-led syrian democratic forces",
+                "iraq",
+                "asaad al-shaibani",
+                "middle east diplomacy",
+                "featured",
+                "syria",
+                "geopolitics",
+                "mohammed shia' al-sudani",
+                "world",
+                "islamic state",
+                "anti-terrorism cooperation",
+                "baghdad",
+                "intelligence coordination",
+                "iraq-syria border security",
+                "isis",
+                "syria-iraq relations",
+                "counterterrorism",
+                "territorial integrity",
+                "regional security",
+                "regional cooperation",
+                "syria sovereignty",
+                "bilateral relations",
+                "fuad hussein"
+            ],
+            "creator": [
+                "Team YP"
+            ],
+            "video_url": null,
+            "description": "Baghdad, March 15, 2025 Iraqi leaders met with Syria’s chief of foreign affairs authority, Asaad al-Shaibani to discuss bilateral relations and anti-terrorism cooperation. During a meeting on Friday with visiting al-Shaibani, Iraqi Prime Minister Mohammed Shia’ al-Sudani reaffirmed Iraq’s firm and consistent stance in respecting the will of the Syrian people, stressing the need for [...]The post Iraq, Syria discuss ties, anti-terrorism cooperation appeared first on Yes Punjab News.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-15 03:07:45",
+            "pubDateTZ": "UTC",
+            "image_url": "https://yespunjab.com/wp-content/uploads/2025/03/Iraq-Syria-discuss-ties-anti-terrorism-cooperation-1-1-696x497.jpg",
+            "source_id": "yespunjab",
+            "source_priority": 422545,
+            "source_name": "Yes Punjab News",
+            "source_url": "https://yespunjab.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/yespunjab.jpg",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": true
+        },
+        {
+            "article_id": "647740a190b137216398e3aa2c3e3f15",
+            "title": "Russian Military Planes Enter South Korean Air Defense Zone",
+            "link": "https://www.devdiscourse.com/article/business/3308242-russian-military-planes-enter-south-korean-air-defense-zone",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "Russian Military Planes Enter South Korean Air Defense Zone On Saturday, Russian military aircrafts entered South Korea's Air Defense Identification Zone, triggering regional security concerns. The aircrafts approached from the east coast, briefly crossing into the identification zone, according to South Korea's joint chiefs of staff.The planes left shortly after entering the zone, without violating South Korea's national airspace. A statement from the joint chiefs confirmed the absence of any breach of airspace, offering some relief amid growing tensions in the region.Such maneuvers, while not uncommon, underscore the persistent geopolitical strains and the importance of ongoing diplomatic dialogue to maintain regional stability.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-15 03:07:34",
+            "pubDateTZ": "UTC",
+            "image_url": "https://devdiscourse.blob.core.windows.net/aiimagegallery/25_07_2024_04_16_28_1264877.png",
+            "source_id": "devdiscourse",
+            "source_priority": 566021,
+            "source_name": "Devdiscourse",
+            "source_url": "https://www.devdiscourse.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/devdiscourse.jpg",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "b94c834bcda7e2ba266c9dcbf71c795d",
+            "title": "Exclusive: Amitabh Bachchan Shares How He Recorded His Popular Holi Songs",
+            "link": "https://news24online.com/entertainment/exclusive-amitabh-bachchan-shares-how-he-recorded-his-popular-holi-songs/502092/",
+            "keywords": [
+                "amitabh bachchan",
+                "entertainment"
+            ],
+            "creator": [
+                "Subhash K Jha"
+            ],
+            "video_url": null,
+            "description": "Amitabh Bachchan has given some iconic Holi songs in his career and they will remain evergreen. The post Exclusive: Amitabh Bachchan Shares How He Recorded His Popular Holi Songs appeared first on News24.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-15 03:07:25",
+            "pubDateTZ": "UTC",
+            "image_url": "https://news24online.com/wp-content/uploads/2025/03/amitabh-bachchan-1.jpg",
+            "source_id": "news24online",
+            "source_priority": 549589,
+            "source_name": "News 24",
+            "source_url": "https://news24online.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/news24online.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "0518fb6198a2c640edcd4ab7b46ce43d",
+            "title": "सोनाक्षी ने शादी के बाद अकेले मनाई पहली होली, जहीर इकबाल को नहीं लगाया रंग",
+            "link": "https://hindi.news18.com/photogallery/entertainment/bollywood-sonakshi-sinha-celebrated-her-first-holi-alone-after-marriage-not-play-colors-with-zaheer-iqbal-hits-back-at-trolls-criticising-9101816.html",
+            "keywords": [
+                "बॉलीवुड"
+            ],
+            "creator": [
+                "News18 Hindi"
+            ],
+            "video_url": null,
+            "description": "बॉलीवुड एक्ट्रेस सोनाक्षी सिन्हा ने होली खेलते हुए अपनी तस्वीरें इंस्टाग्राम पर पोस्ट कीं. इन तस्वीरों में जहीर इकबाल नजर नहीं आए. अकेले उन्हें होली मनाते हुए देख, सोशल मीडिया ट्रोल्स ने एक के बाद एक खूब सवाल किए. शॉटगन की लाडली भी कहां चुप रहने वालीं, उन्होंने भी जवाब देकर ट्रोल्स की बोलती बंद कर दी.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-15 03:07:24",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.news18.com/ibnkhabar/uploads/2025/03/Sonakshi-2025-03-59289aa442fb660c8d4e0d47cacceb31-3x2.jpg",
+            "source_id": "hindinews18",
+            "source_priority": 4077,
+            "source_name": "News 18 Hindi",
+            "source_url": "https://hindi.news18.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/hindinews18.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "entertainment"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "cbbefbdc7a61b0a36ddc21375ddbe768",
+            "title": "India Slams PAK: 'पाकिस्तान की कट्टरपंथी मानसिकता जगजाहिर', संयुक्त राष्ट्र में भारत की पड़ोसी देश को खरी-खरी",
+            "link": "https://www.amarujala.com/world/pakistan-fundamentalist-mentality-is-well-known-india-lashed-out-at-pak-at-united-nations-over-jammu-kashmir-2025-03-15",
+            "keywords": null,
+            "creator": [
+                "amarujala.com"
+            ],
+            "video_url": null,
+            "description": "संयुक्त राष्ट्र, न्यूयॉर्क में पाकिस्तान को एक बार फिर मुंह की खानी पड़ी है। एक बार फिर दुनिया के सामने उसकी किरकिरी हुई है और उसे शर्मिंदा होना पड़ा है।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-15 03:07:15",
+            "pubDateTZ": "UTC",
+            "image_url": "https://staticimg.amarujala.com/assets/images/original/default_500.png?dpr=1.0&q=80&w=414",
+            "source_id": "amarujala",
+            "source_priority": 55215,
+            "source_name": "Amar Ujala",
+            "source_url": "https://www.amarujala.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/amarujala.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "7f109d1765f16c067cb1a82c57e01361",
+            "title": "Madras HC upholds conviction of MMK’s Jawahirullah",
+            "link": "https://www.dtnext.in/news/tamilnadu/madras-hc-upholds-conviction-of-mmks-jawahirullah-826329",
+            "keywords": [
+                "tamil nadu,news,headlines"
+            ],
+            "creator": [
+                "DTNEXT Bureau"
+            ],
+            "video_url": null,
+            "description": "Justice P Velmurugan dismissed a criminal revision petition moved by Jawahirullah and others and confirmed the lower court order.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-15 03:07:10",
+            "pubDateTZ": "UTC",
+            "image_url": "https://media.dtnext.in/h-upload/2024/03/13/750x450_808618-untitleddesign20.webp",
+            "source_id": "dtnext",
+            "source_priority": 9316,
+            "source_name": "Dt Next",
+            "source_url": "https://www.dtnext.in",
+            "source_icon": "https://i.bytvi.com/domain_icons/dtnext.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "7cb077b28db2e0aa0bf6d1d8cf915d8a",
+            "title": "बस्ती में दो पक्षों के बीच खूनी संघर्ष:पुरानी रंजिश में दो बार हुई मारपीट, कई लोग घायल; पुलिस ने कई को हिरासत में लिया",
+            "link": "https://www.bhaskar.com/local/uttar-pradesh/basti/news/bloody-conflict-between-two-parties-in-basti-134645095.html",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "बस्ती के कप्तानगंज थाना क्षेत्र के सेठा गांव में पुरानी रंजिश को लेकर दो पक्षों के बीच खूनी संघर्ष हुआ। दोनों पक्षों के बीच दो बार जमकर मारपीट हुई, जिसमें कई लोग घायल हो गए। ग्रामीणों का कहना है कि अगर पुलिस पहली मारपीट की सूचना मिलने पर तुरंत पहुंची होती, तो दूसरी बार झगड़ा नहीं होता। पुलिस के देर से पहुंचने की वजह से स्थिति बिगड़ गई। ग्रामीणों का आरोप है कि पुलिस ने मौके पर पहुंचकर बेगुनाह लोगों को भी पीटा। वर्तमान में गांव में तनावपूर्ण माहौल है। पुलिस ने मामले को गंभीरता से लेते हुए कई लोगों को हिरासत में ले लिया है और जांच में जुटी है। दोनों पक्षों के लोग थाने पहुंचकर कार्रवाई की मांग कर रहे हैं। पुलिस अधिकारी मामले की जांच कर रहे हैं और स्थिति को नियंत्रण में रखने के लिए गांव में पुलिस बल तैनात किया गया है।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-15 03:07:04",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.bhaskarassets.com/thumb/1000x1000/web2images/521/2025/03/15/bbec98d1-6d18-4e6f-bafa-aa31f1ba55f3_1742007053839.jpg",
+            "source_id": "bhaskar_hindi",
+            "source_priority": 34179,
+            "source_name": "Bhaskar",
+            "source_url": "https://www.bhaskar.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/bhaskar_hindi.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top",
+                "domestic"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "16b12e2f4cc560d00a268efd538ad838",
+            "title": "दो पक्षों में मारपीट; 6 लोग घायल:गोपालगंज में बीच-बचाव करने आए लोगों को भी पीटा",
+            "link": "https://www.bhaskar.com/local/bihar/gopalganj/news/two-parties-clash-6-people-injured-134645094.html",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "गोपालगंज के नगर थाना क्षेत्र के तिरबिरवा गांव में दो पक्षों में जमकर मारपीट हुई, इस घटना में एक ही परिवार के 6 लोग घायल हो गए। जिन्हें इलाज के लिए सदर अस्पताल लाया गया है। बताया गया कि गांव के संजय यादव और दीपू यादव के बीच किसी बात को लेकर विवाद हो रहा था। जहां दोनों पक्षों में सतेंद्र कुमार राम के घर के सामने झगड़ा कर रहे थे। इस दौरान नागेंद्र राम ने बीच-बचाव की कोशिश करने पहुंचे, तभी दोनों पक्षों ने उनके साथ मारपीट कर घायल कर दिया। बीच बचाव करने पर पीटा जख्मी नागेंद्र राम ने बताया कि दोनों पक्षों को समझा रहे थे। इसी दौरान दोनों पक्षों ने उनके साथ मारपीट शुरू कर दी। जब यह खबर परिवार को लगी तो वे भी मौके पर पहुंच गए। आरोपियों ने एक महिला समेत परिवार के 6 लोगों को भी पीट दिया। घायलों में ध्रुप राम के बेटे सतेंद्र कुमार राम, नागेंद्र राम, उपेंद्र राम, मुन्ना राम और नरेश राम की बेटी सोनी कुमारी व पत्नी मालती देवी शामिल हैं। सभी घायलों को सदर अस्पताल में भर्ती कराया गया है। वहां डॉक्टरों की देखरेख में उनका इलाज चल रहा है। जांच में जुटी पुलिस थानाध्यक्ष ओमप्रकाश चौहान ने बताया कि मामले की जांच की जा रही है।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-15 03:07:03",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.bhaskarassets.com/thumb/1000x1000/web2images/521/2025/03/15/30c01ad8-4260-43be-8814-c2689522b626_1742006026056.jpg",
+            "source_id": "bhaskar_hindi",
+            "source_priority": 34179,
+            "source_name": "Bhaskar",
+            "source_url": "https://www.bhaskar.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/bhaskar_hindi.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top",
+                "tourism"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "23e9c292c21bee8e4c67f26b3a13bbd7",
+            "title": "लखनऊ: थाना बना दंगल, बहस के बाद पुलिस ने वकीलों को पीटा, पेशाब करने का भी आरोप",
+            "link": "https://www.tv9hindi.com/state/uttar-pradesh/lucknow-police-beat-up-lawyers-after-an-argument-at-vibhutikhand-police-station-fir-3174649.html",
+            "keywords": null,
+            "creator": [
+                "Safi Ahmad"
+            ],
+            "video_url": null,
+            "description": "उत्तर प्रदेश की राजधानी लखनऊ में वकीलों और पुलिस का टकराव एक बार फिर सामने आया है. पुलिसकर्मियों पर आरोप है कि उन्होंने वकीलों को पीटा और जेल भेजने की धमकी दी. घटना से जुड़े कई वीडियो सोशल मीडिया पर वायरल हुए, जिसके बाद सैकड़ों वकीलों ने जमकर नारेबाजी की.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-15 03:07:02",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.tv9hindi.com/wp-content/uploads/2025/03/lko-2025-03-15t083441.229.jpg",
+            "source_id": "tv9bharatvarsh",
+            "source_priority": 40538658,
+            "source_name": "Tv9 Bharatvarsh",
+            "source_url": "https://www.tv9hindi.com",
+            "source_icon": null,
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "crime"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "e2a272d402b9b578aba327495e3ddbf5",
+            "title": "INLD और JJP में अब ‘चश्मा’ बचाने और छिनवाने की खींचतान, चौटाला परिवार क्यों मचा है घमासान?",
+            "link": "https://www.jagran.com/haryana/panchkula-inld-vs-jjp-battle-for-chashma-election-symbol-heats-up-in-haryana-op-chautala-abhay-chautala-dushyant-chautala-23900084.html",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "Haryana Politics इंडियन नेशनल लोकदल (INLD) और जजपा के बीच चुनावी निशान चश्मा को लेकर नई लड़ाई शुरू हो गई है। जजपा ने इनेलो पर चुनाव आयोग के नियमों के शर्तों को पूरा न करने का आरोप लगाते हुए अदालत जाने के संकेत दिए हैं। इनेलो ने भी पलटवार करते हुए कहा है कि नियमों की बात करने वाले खुद सत्ता सुख लूटने का कोई मौका नहीं छोड़ते।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-15 03:07:01",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.jagranimages.com/images/newimg/15032025/15_03_2025-jjp_inld_23900084_m.webp",
+            "source_id": "jagran",
+            "source_priority": 6734,
+            "source_name": "ताजा हिंदी ख़बरें",
+            "source_url": "https://www.jagran.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/jagran.jpg",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "domestic"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "9e2a5ecab498402880f1fcfedad8d561",
+            "title": "\"Got Threatening Calls...\": India's Champions Trophy 2025 Hero Makes Shocking Revelation - NDTV Sports",
+            "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPYVFlOUtYRXczd183QnVUYUI0aVpMWUtwalMybU5fZmI4WXY0amlrWnF6T3Z4N2NUSWh5RGFBSHV3aGctRHpsT3I5NUtqdFM4VmhvWEpSQlBSS3hnaE83VDlkX3lHWVZvZ1JsNVJGc1E3REgzQWhLeVlTVzM4T01fd2R2bFZYRENsTEFVVHRCSlM1bkpBSlBTYm5ZVmFWSTVsWk0tRWEwU3VsNUZGSHBOQjVWTjliRUQ5bk93cFJWUHMxVXQzbmZYVERxeEZkMm51RWlBaks4T18xeEJ5NHRLOEU0Mzl1Y18xX3UzV0VR0gH2AUFVX3lxTE9JOTcwTG96ZXIzbGZxVFdnSkgwNDBubEFtVTB6UDE0NTdldjV2OVVWZUhaZVBVMzNOLW9zN2ZqYTAyU2pNMTN1Y1IyWlhLQi0yTXA1QWowYmJLd2pCc3VsenVKWHVvbkhKNTg5a3hpWWZ3b2hFTWh6aXBIOVE2N1BaM0FtZllFdGpVS1ZqVjhKd0Z3RXlCVkpfZDhoUnU2VmJfbk5JMnpHVmtrLTdONXVBVlh5ckhlbjNrTndXbGtIOTlxU0xlRHpOemFVZ3NIVlZ5ZXpIX2ZYYmhNUE9OSi0wdWJnWjJqZmZLSkRLelVfSE00WTM1UQ?oc=5",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "\"Got Threatening Calls...\": India's Champions Trophy 2025 Hero Makes Shocking Revelation NDTV Sports'After 2021 World Cup, I received threat calls - 'Don't come to India'': Champions Trophy winner Varun Ch The Times of India'After T20 World Cup, received threat calls; people said don't come to India': Varun Chakaravarthy's shocking revelation Hindustan Times\"Don't come to India\": Star player reveals receiving threat calls after poor performance in ICC tournament CrictodayI received threats, told not to return to India in 2021: Varun Chakravarthy India Today",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-15 03:07:00",
+            "pubDateTZ": "UTC",
+            "image_url": null,
+            "source_id": "google",
+            "source_priority": 14,
+            "source_name": "Google News",
+            "source_url": "https://news.google.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/google.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "sports"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "969baa468a6566512d86ee3f0f0498bf",
+            "title": "'Brought Out A Winning Mentality...': Dinesh Karthik Hails IPL For Revolutionising Indian Cricket",
+            "link": "https://zeenews.india.com/cricket/brought-out-a-winning-mentality-dinesh-karthik-hails-ipl-for-revolutionising-indian-cricket-2872355.html",
+            "keywords": null,
+            "creator": [
+                "Zee News"
+            ],
+            "video_url": null,
+            "description": "Dinesh Karthik recalled his experience of sharing a dressing room with Glenn McGrath in the early years of the IPL, and how it shaped his approach to the game.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-15 03:07:00",
+            "pubDateTZ": "UTC",
+            "image_url": "https://english.cdn.zeenews.com/sites/default/files/2025/03/15/1698804-dinesh-karthik.jpg",
+            "source_id": "zeenews",
+            "source_priority": 5319,
+            "source_name": "Zee News",
+            "source_url": "http://zeenews.india.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/zeenews.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "sports"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "310966e98dc64bfdcba2d275c6f4916a",
+            "title": "Hyderabad: LRS continues to move at sluggish pace in city",
+            "link": "https://www.thehansindia.com/news/cities/hyderabad/hyderabad-lrs-continues-to-move-at-sluggish-pace-in-city-953936",
+            "keywords": [
+                "telangana,news,cities,state,hyderabad"
+            ],
+            "creator": [
+                "K Chandrashekar"
+            ],
+            "video_url": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-15 03:06:55",
+            "pubDateTZ": "UTC",
+            "image_url": "https://assets.thehansindia.com/h-upload/2025/03/15/1532892-lrs.webp",
+            "source_id": "thehansindia",
+            "source_priority": 41360,
+            "source_name": "The Hans India",
+            "source_url": "http://www.thehansindia.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/thehansindia.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "5f0c9a65bb36c4faff83a14c45196267",
+            "title": "विधायक बोले- हेमा मालिनी के साथ क्यों नाच रहे थे:छोटे 'सरकार' ने दी कर्ज की नई परिभाषा; अफसर को हटाने मंत्री ने लिखी नोटशीट",
+            "link": "https://www.bhaskar.com/local/mp/bhopal/news/mla-ji-said-were-you-dancing-with-our-mp-134645093.html",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "कभी-कभी अफसर भी ‘सरकार’ को ऐसी जानकारी या सलाह ब्रीफ कर देते हैं कि फिर बैकफुट पर आना पड़ता है। हुआ यूं कि महिलाओं से जुड़े एक कार्यक्रम में बहुत बड़ा ऐलान हो गया। ऐलान भी ऐसा कि नेशनल न्यूज बन गई। भोपाल से दिल्ली तक इस इसकी चर्चा होने लगी। जानकारों ने बताया कि जो घोषणा की गई, उसके मुताबिक कानून बनाना असंभव सा है। अफसरों को अपनी गलती का एहसास हुआ। भूल सुधार करते हुए कार्यक्रम के आधिकारिक वीडियो से उस खास घोषणा वाला हिस्सा डिलीट कर दिया गया। विधायक ने पूछा- तुम हेमा मालिनी के साथ क्यों नाच रहे थेसूबे के एक विधायक जमीन खरीदी को लेकर सवालों के घेरे में हैं। सरकारी एजेंसी ने जांच-पड़ताल शुरू कर दी है। विधानसभा सत्र के दौरान विधायक जी मीडिया से चर्चा करते हुए बजट की तारीफ कर रहे थे। उसी बीच एक पत्रकार ने जमीन खरीदी मामले पर उनकी राय पूछ ली। इस पर विधायक पहले तो नमस्ते बोलकर आगे बढ़ गए। कुछ सेकेंड बाद वापस लौटे और कहा, पहले पता कर लेना मेरा उसमें नाम है नहीं और दूसरी बात, कल रात को तुम हेमा मालिनी के साथ क्यों नाच रहे थे? कैमरों के सामने विधायक जी की अपनी ही पार्टी की सांसद का नाम लेकर की गई टिप्पणी पार्टी में चर्चा का विषय बनी हुई है। इधर, इस घटनाक्रम के बाद से विधायक जी जब भी मीडिया से बात करते हैं, उनका एक करीबी मीडिया की तरफ वीडियो रिकॉर्ड करता है, ताकि पता चल सके कि कौन क्या सवाल पूछ रहा है? मंत्री जी ने दी कर्ज की नई परिभाषाप्रदेश के बजट के साथ इस बार एक नया जुमला वित्त मंत्री लाए हैं। बजट पेश करने के बाद मंत्री जी ने कहा कि सरकार कर्ज नहीं ले रही, बल्कि निवेश कर रही है। इतना ही नहीं, उन्होंने अपने विभाग के आईएएस अफसरों को भी यह सीखा दिया है कि कर्ज लिए जाने को निवेश का नाम दें। यही वजह रही कि बजट की जिम्मेदारी संभालने वाली एक आईएएस ने भी मीडिया से चर्चा में कई बार कर्ज के रूप में ली गई राशि को निवेश का नाम दिया। संभव है कि सरकार आने वाले समय में कर्ज के नोटिफिकेशन को निवेश राशि का नाम भी दे दे। हमले के वक्त सेनापति की गैरमौजूदगी की चर्चाविधानसभा सत्र के तीसरे दिन सत्ताधारी दल के एक विधायक जी ने विरोधी पार्टी के डिप्टी लीडर पर जमकर प्रहार किए। इन हमलों के वक्त विरोधी दल के लीडर सदन से नदारद थे। उनकी ओर से बताया गया कि बुखार आने के चलते वे सदन से चले गए हैं। तबीयत है, किसी की, कभी भी खराब हो सकती है, फिर भी पार्टी में ही उनकी सेहत नासाज होने की टाइमिंग पर ही चर्चा होने लगी। लोग सवाल कर रहे हैं- सब कुछ तो ठीक है न? चलते काम के बीच दफ्तर को लेकर संगठन के सुझावसत्ताधारी दल के संगठन से जुड़े राष्ट्रीय स्तर के पदाधिकारी हाल ही में दो दिनों तक भोपाल में रहे। वे पार्टी के अंडर कंस्ट्रक्शन ऑफिस का काम देखने पहुंचे। यहां उन्होंने ड्रॉइंग, डिजाइन के अनुसार काम तो देखा ही, लगे हाथ नए ऑफिस में पर्यावरण के हिसाब किए जाने वाले कामों के बारे में भी पूछ लिया। उन्होंने सॉलिड, लिक्विड वेस्ट मैनेजमेंट, पार्किंग, ग्रीनरी जैसे कामों की प्लानिंग के बारे में सवाल किया। बिल्डिंग के निर्माण से जुड़े कुछ सुझाव भी दिए हैं। आने वाले समय में जैसे-जैसे बिल्डिंग आकार लेगी, सुझावों की झलक देखने को मिलेगी। चिंता में तीन दिन नहीं सो पाए साहबराजधानी में हाल ही में हुए एक बड़े सरकारी इवेंट की चर्चा दूर-दूर तक है। इस इवेंट में अहम जिम्मेदारी निभाने वाले एक सीनियर अफसर टेंशन में तीन दिन नहीं सोए। दरअसल, जैसे ही वेन्यू फाइनल हुआ और साहब ने मौका मुआयना किया तो ये समझ आ गया कि यहां ट्रैफिक मैनेजमेंट गड़बड़ा जाएगा। इसके हिसाब से प्लानिंग भी की गई, लेकिन पहले ही दिन सारे प्लान फेल हो गए। देशी-विदेशी मेहमान जाम में फंसे रहे। पावरफुल अफसर को हटाने मंत्री जी की नोटशीटसूबे के एक मंत्री जी ने अपने ही विभाग के डायरेक्टर को न केवल हटाने, बल्कि सस्पेंड करने के लिए पिछले महीने नोटशीट लिखी। नोटशीट को सवा महीने का वक्त बीत गया है, बावजूद इसके अब तक फाइल अपने अंजाम तक नहीं पहुंची। अब दुखी मंत्री करे भी तो क्या करे? क्योंकि, जिस डायरेक्टर को सस्पेंड करने मंत्री जी ने नोटशीट लिखी, वे काफी पुराने और पावरफुल माने जाते हैं। और अंत में.. ट्रैफिक इंचार्ज ने उतार दिया रूलिंग पार्टी का झंडाबुंदेलखंड में महाराजा छत्रसाल की नगरी में ट्रैफिक सूबेदार इन दिनों सत्ताधारी दल के नेताओं के निशाने पर हैं। दरअसल, ट्रैफिक इंचार्ज ने पार्टी के एक पदाधिकारी की गाड़ी से पार्टी का झंडा उतरवा दिया। इसके बाद रूलिंग पार्टी के लोकल लीडर उनके पीछे पड़ गए हैं। सोशल मीडिया पर कहा जा रहा है कि ट्रैफिक इंचार्ज के घर पर पार्टी का झंडा लगाकर इसका जवाब देना चाहिए। ये भी पढ़ें... मंत्री के दरबार में नहीं 'सरकार' की फोटो: 'सरकार' का स्वागत करने खुद खड़े हो गए 'मामा'; मंत्री के बयान पर अपने चुप सूबे की सियासत में विपक्ष से ज्यादा सरकार की परेशानी अपने ही बढ़ाए रहते हैं। कभी बैठकों में विवाद तो कभी अंदर की खींचतान जगजाहिर हो जाती है। अब 'सरकार' के घर में इस बात की चर्चा है कि वे कौन से नेता हैं जिनके दरबार में 'सरकार' की तस्वीर नहीं हैं। चर्चा इस बात की है कि कबीना में एक सीनियर साथी के दरबार में एक तरफ अटल जी, संघ प्रमुख तो दूसरी तरफ प्रधानमंत्री, राष्ट्रपति और गर्वनर साहब की तस्वीरें तो लगी हैं। मगर 'सरकार' की तस्वीर नजर नहीं आती। पढ़ें पूरी खबर... जब मोदी ने पूछा- यहां पत्रकारों का आदमी कौन हैं: नए इंचार्ज के लिए मंगवाई ब्रांडेड कॉफी; आईएएस मैडम से बदजुबानी पर नपे इंजीनियर भोपाल में पहली बार प्रधानमंत्री मोदी ने नाइट स्टे किया। रात्रि विश्राम के पहले वे बीजेपी के विधायकों, सांसदों और मंत्रियों के साथ चुनिंदा बीजेपी पदाधिकारियों से मिले। इस मीटिंग की औपचारिक शुरुआत होने से पहले ही पीएम मोदी बोले- यहां पत्रकारों का आदमी कौन हैं, खड़े हो जाएं। ये सुनकर पूरे सभागार में सन्नाटा पसर गया। पीएम आगे बोले- आज की बैठक की बातें मैं कल के अखबारों में पढूंगा। पत्रकारों को खबरों पर जो मौन सहमति देते हैं ये भी ठीक नहीं। पढ़ें पूरी खबर...",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-15 03:06:49",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.bhaskarassets.com/thumb/1000x1000/web2images/521/2025/03/14/1741378519_1741959829.gif",
+            "source_id": "bhaskar_hindi",
+            "source_priority": 34179,
+            "source_name": "Bhaskar",
+            "source_url": "https://www.bhaskar.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/bhaskar_hindi.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "domestic",
+                "other"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "cde656b3061107ea4d5c4abf4512086f",
+            "title": "Holi bhai dooj kyu manate hai: होली भाई दूज क्यों मनाया जाता है? जानें इसकी पूरी कहानी",
+            "link": "https://www.tv9hindi.com/religion/holi-bhai-dooj-2025-date-why-celebrate-holi-bhai-dooj-kyo-manate-hai-bhai-dooj-story-in-hindi-3174616.html",
+            "keywords": null,
+            "creator": [
+                "Sarita Sharma"
+            ],
+            "video_url": null,
+            "description": "Why celebrate holi bhai dooj: भाई दूज के दिन बहनें अपने भाई को तिलक लगाकर उसके लंबी उम्र और तरक्की के लिए कामना करती हैं. वैसे तो यह पर्व दिवाली और होली के बाद मनाया जाता है, लेकिन आप जानते हैं कि यह पर्व होली के बाद क्यों मनाया जाता है.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-15 03:06:48",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.tv9hindi.com/wp-content/uploads/2025/03/holi-bhai-dooj-kyu-manate-hai.jpg",
+            "source_id": "tv9bharatvarsh",
+            "source_priority": 40538658,
+            "source_name": "Tv9 Bharatvarsh",
+            "source_url": "https://www.tv9hindi.com",
+            "source_icon": null,
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "10f5a4dbe2b92dee6ca6cdc25f3a653e",
+            "title": "आज और कल सीकर में बारिश का येलो अलर्ट जारी:2 दिन तेज हवा भी चलेगी,सुबह हल्के बादल छाए",
+            "link": "https://www.bhaskar.com/local/rajasthan/sikar/news/yellow-alert-for-rain-issued-in-sikar-today-and-tomorrow-134645092.html",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "प्रदेश के मौसम में एक्टिव हुए वेस्टर्न डिस्टरबेंस के चलते पिछले दो दिनों से सीकर सहित प्रदेश के कई इलाकों में मौसम बदला हुआ है। बीती रात सीकर में घने बादल छाए रहे। हालांकि आज सुबह धूप तो निकली है लेकिन आसमान में हल्के बादल छाए हैं। मौसम विशेषज्ञों की माने तो आज और कल सीकर में बारिश होने के आसार हैं। इस दौरान तेज हवाएं भी चल सकती है। सीकर के कृषि अनुसंधान केंद्र फतेहपुर पर आज सुबह न्यूनतम तापमान 15.3 डिग्री दर्ज किया गया। जबकि इससे पहले यहां शुक्रवार को न्यूनतम तापमान 15.5 और अधिकतम तापमान 35 डिग्री दर्ज किया गया था। दोपहर बाद आसमान में घने बादल भी छा चुके थे। कुछ इलाकों में हल्की बारिश भी हुई थी। मौसम एक्सपर्ट्स की माने तो 14 और 15 मार्च को बीकानेर, जयपुर और भरतपुर संभाग के इलाकों में हल्की बारिश होने का अनुमान है। इस दौरान 30 से 40 किलोमीटर प्रति घंटे की रफ्तार से तेज हवाएं भी चल सकती है। जयपुर मौसम केंद्र के द्वारा सीकर में आज और कल बारिश होने के साथ 30 से 40 किलोमीटर प्रति घंटे की रफ्तार से हवाएं चलने का अलर्ट जारी किया गया है। बारिश की गतिविधियां 16 मार्च से थम जाएगी। वेस्टर्न डिस्टरबेंस का असर खत्म होने के बाद 16 मार्च से मौसम साफ होना शुरू होगा। अगले 48 घंटे के दौरान तापमान में 2 से 3 डिग्री की गिरावट होने की संभावना है। बता दें कि वेस्टर्न डिस्टरबेंस एक्टिव होने के चलते सुबह और शाम के समय एक बार फिर ठंडक का एहसास होने लगा है।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-15 03:06:31",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.bhaskarassets.com/thumb/1000x1000/web2images/521/2025/03/15/whatsapp-image-2024-06-10-at-83847-am1722052767172_1742007850.png",
+            "source_id": "bhaskar_hindi",
+            "source_priority": 34179,
+            "source_name": "Bhaskar",
+            "source_url": "https://www.bhaskar.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/bhaskar_hindi.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "domestic",
+                "other"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "4ab3b72a5dd393bb42505b2b5cef48f9",
+            "title": "गाजियाबाद में महिला से लूट:मंदिर से लौट रही थीं, बैग छीना, सोने के कुंडल और मोबाइल ले गए बदमाश",
+            "link": "https://www.bhaskar.com/local/uttar-pradesh/ghaziabad/modinagar/news/up-woman-was-robbed-in-ghaziabad-134645090.html",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "गाजियाबाद के मुरादनगर में दिल्ली-मेरठ मार्ग पर एक महिला से बदमाशों ने दिनदहाड़े लूट की वारदात को अंजाम दिया। घटना लैंड क्राफ्ट मेट्रो होम्स के सामने हुई। लैंड क्राफ्ट मेट्रो होम्स की रहवासी नीरू अपनी पड़ोसी अनुराधा शर्मा के साथ सोसायटी के सामने स्थित मंदिर में पूजा करने गई थीं। करीब एक घंटे की पूजा के बाद जब वे वापस लौट रही थीं, तब यह घटना हुई। नीरू जब सड़क पार कर रही थीं, तभी बाइक पर सवार दो युवक आए। उन्होंने महिला के हाथ से बैग छीन लिया। महिला के शोर मचाने पर आसपास के लोगों ने बदमाशों का पीछा किया। लेकिन वे फरार हो गए। पीड़िता ने बताया कि बैग में मोबाइल फोन, नकदी और अनुराधा शर्मा के सोने के कुंडल समेत अन्य सामान था। पुलिस ने महिला की शिकायत पर चोरी की धाराओं में मामला दर्ज कर लिया है। बदमाशों की तलाश जारी है।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-15 03:06:25",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.bhaskarassets.com/thumb/1000x1000/web2images/521/2025/03/15/ba82fc65-a32b-4c61-b537-6631a9d7c607_1742004073859.jpg",
+            "source_id": "bhaskar_hindi",
+            "source_priority": 34179,
+            "source_name": "Bhaskar",
+            "source_url": "https://www.bhaskar.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/bhaskar_hindi.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top",
+                "domestic"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
             "article_id": "4305f50b03091d1fade57fafc667c55f",
             "title": "Bumrah to Miss Start of IPL 2025 Due to Injury Concerns",
             "link": "https://newstodaynet.com/2025/03/15/bumrah-to-miss-start-of-ipl-2025-due-to-injury-concerns/",
