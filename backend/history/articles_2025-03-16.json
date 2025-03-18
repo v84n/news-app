@@ -1,6 +1,449 @@
 {
     "articles": [
         {
+            "article_id": "626550a448c42ecbd6a6dd866dec91f5",
+            "title": "Runtime 005: I, for one, welcome our new robot overlords.",
+            "link": "https://startupnews.fyi/2025/03/16/runtime-005-i-for-one-welcome-our-new-robot-overlords/",
+            "keywords": [
+                "tech",
+                "world news"
+            ],
+            "creator": [
+                "9to5mac"
+            ],
+            "video_url": null,
+            "description": "Sophia and Zac inspect the last week of humanoid and non-humanoid robots while unpacking several days of AI announcements, including Amazon’s new Alexa+ AI, Anthropic’s Claude 3.7 and Claude Code, and much more. Note: recorded 2/27/2025 and released 3/16/2025 because... reasons. Thanks for viewing! Hosts Sophia Tung Zac Hall Subscribe, Rate, and Review Feedback Email [...]",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-16 17:09:03",
+            "pubDateTZ": "UTC",
+            "image_url": "https://startupnews.fyi/wp-content/uploads/2025/03/runtime-podcast-fi.jpg",
+            "source_id": "startupnews",
+            "source_priority": 2632039,
+            "source_name": "Startupnews",
+            "source_url": "https://startupnews.fyi",
+            "source_icon": "https://i.bytvi.com/domain_icons/startupnews.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "77bbb1e8a01369d34a9ee22fb9c556f0",
+            "title": "Blaze Kills 59 in North Macedonia Nightclub",
+            "link": "https://www.deccanchronicle.com/world/europe/blaze-kills-59-in-north-macedonia-nightclub-1867254",
+            "keywords": [
+                "world,europe"
+            ],
+            "creator": [
+                "DC Correspondent"
+            ],
+            "video_url": null,
+            "description": "A deadly stampede and fire devastate a packed nightclub in Kocani.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-16 17:08:55",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.deccanchronicle.com/h-upload/2025/03/16/1899332-aa-4236116.webp",
+            "source_id": "deccanchronicle",
+            "source_priority": 14130,
+            "source_name": "Deccan Chronicle",
+            "source_url": "https://www.deccanchronicle.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/deccanchronicle.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": true
+        },
+        {
+            "article_id": "2f8489d4ac3a5d3b57920d23143e3ee6",
+            "title": "In eye of storm over 'pahadi' remark Uttarakhand minister Prem Chand Aggarwal resigns",
+            "link": "https://www.theweek.in/wire-updates/national/2025/03/16/del54-ukd-minister-ld-resignation.html",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "Dehradun, Mar 16 (PTI) Uttarakhand minister Prem Chand Aggarwal resigned from the Cabinet on Sunday, weeks after his remark in",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-16 17:08:39",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.theweek.in/content/dam/week/wire-updates/pti-preview-theweek.jpg",
+            "source_id": "theweek_in",
+            "source_priority": 26911,
+            "source_name": "The Week",
+            "source_url": "https://www.theweek.in",
+            "source_icon": "https://i.bytvi.com/domain_icons/theweek_in.jpg",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "world"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "dbe093dc6714c3d25b6c22fabafd25bf",
+            "title": "US and Iran-backed Houthi rebels in Yemen both vow escalation after wave of US airstrikes",
+            "link": "https://www.theweek.in/wire-updates/international/2025/03/16/fgn65-yemen-ld-us.html",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "Cairo, Mar 16 (AP) The United States and Iran-backed Houthi rebels in Yemen are both vowing escalation after the US",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-16 17:08:39",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.theweek.in/content/dam/week/wire-updates/pti-preview-theweek.jpg",
+            "source_id": "theweek_in",
+            "source_priority": 26911,
+            "source_name": "The Week",
+            "source_url": "https://www.theweek.in",
+            "source_icon": "https://i.bytvi.com/domain_icons/theweek_in.jpg",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "world"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "bc58ca70cc185c6c917b55b885a888b9",
+            "title": "I am never alone God is always with me PM Modi",
+            "link": "https://www.theweek.in/wire-updates/national/2025/03/16/del55-pm-podcast-loneliness.html",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "New Delhi, Mar 16 (PTI) Prime Minister Narendra Modi has said he never feels lonely as God is",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-16 17:08:38",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.theweek.in/content/dam/week/wire-updates/pti-preview-theweek.jpg",
+            "source_id": "theweek_in",
+            "source_priority": 26911,
+            "source_name": "The Week",
+            "source_url": "https://www.theweek.in",
+            "source_icon": "https://i.bytvi.com/domain_icons/theweek_in.jpg",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "world"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "7c38b6ad930fc595bbdf08864f7513a0",
+            "title": "New MLAs to be trained on procedures of House",
+            "link": "https://timesofindia.indiatimes.com/city/delhi/new-mlas-to-be-trained-on-procedures-of-house/articleshow/119083097.cms",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-16 17:08:34",
+            "pubDateTZ": "UTC",
+            "image_url": "https://static.toiimg.com/thumb/msid-119083096,imgsize-35472,width-400,height-225,resizemode-72/119083096.jpg",
+            "source_id": "toi",
+            "source_priority": 239,
+            "source_name": "The Times Of India",
+            "source_url": "https://timesofindia.indiatimes.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/toi.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "business"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "387b4f339141bcd4e0641a09d4d0768e",
+            "title": "Hunter Biden Jets Off to Luxury Getaway, Sticks American Taxpayers with the Secret Service Tab",
+            "link": "https://news.knowledia.com/all/all/articles/hunter-biden-jets-off-to-luxury-getaway-sticks-american-taxpayers-with-4accf4f886ad28c548817ec32c81555720213335",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "Poor, poor Hunter. First we learn of his financial woes, and now we're told he had to flee to a fancy resort in order to avoid a deposition. When will the world let him rest? Heh.AdvertisementHunter Biden fled to 'ultra-luxurious' vacation with Secret Service protection — avoiding grueling... - twitchy.com",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-16 17:08:30",
+            "pubDateTZ": "UTC",
+            "image_url": "https://media.townhall.com/cdn/hodl/2024/163/c223aefa-3e53-4544-ba85-82a864e8d6a1.jpg",
+            "source_id": "knowledia",
+            "source_priority": 167779,
+            "source_name": "Knowledia News",
+            "source_url": "http://news.knowledia.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/knowledia.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": true
+        },
+        {
+            "article_id": "21aeffcde9e9828458cf3e06b9db2b76",
+            "title": "Hospitals Ask Parents to Identify Sexual Orientations of Newborns",
+            "link": "https://news.knowledia.com/all/all/articles/hospitals-ask-parents-to-identify-sexual-orientations-of-newborns-3a3673a044a008500fdeb56dd4a0cabf4f27351f",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "Back in 2022, an elementary school took its Twitter account private after Libs of TikTok shared a video of a transgender first-grade teacher telling kindergarteners through second-graders that when a baby is born, the doctor \"makes a guess\" at whether it's a girl or boy, and sometimes the doctor... - twitchy.com",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-16 17:08:30",
+            "pubDateTZ": "UTC",
+            "image_url": "https://media.townhall.com/cdn/hodl/tw/images/up/2023/231/2eba08d8-d496-44b5-a5a3-820e8404ac91.jpg",
+            "source_id": "knowledia",
+            "source_priority": 167779,
+            "source_name": "Knowledia News",
+            "source_url": "http://news.knowledia.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/knowledia.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": true
+        },
+        {
+            "article_id": "795dc6250a4a19a4c30ebc3d88bccd0c",
+            "title": "Byron York Has a GREAT Question After Judge Halts Deportation of Illegal Alien Gang Members",
+            "link": "https://news.knowledia.com/all/all/articles/byron-york-has-a-great-question-after-judge-halts-deportation-of-illegal-ce0ff477f681036ee5e522fccf0cde42b53b255f",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "As we told you yesterday, an activist federal judge has said that deportations of illegal alien gang members must be halted and ordered planes already outbound to return to the U.S. (though we're not sure what the judge would do if the flights just continued on their way):AdvertisementA... - twitchy.com",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-16 17:08:30",
+            "pubDateTZ": "UTC",
+            "image_url": "https://media.townhall.com/cdn/hodl/tw/images/up/2023/310/991d18f6-4618-4eb0-917c-072b028e9e1e.jpg",
+            "source_id": "knowledia",
+            "source_priority": 167779,
+            "source_name": "Knowledia News",
+            "source_url": "http://news.knowledia.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/knowledia.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": true
+        },
+        {
+            "article_id": "6f2e2a94d5a0a9d755fe875c2b99fa4f",
+            "title": "Hot Take: We're Closer to Cybertrucks Having More Rights Than Women",
+            "link": "https://news.knowledia.com/all/all/articles/hot-take-we-re-closer-to-cybertrucks-having-more-rights-than-women-749909687de6842244356ad06131dcdd78ec2ab1",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "I wrote earlier about how the new hot thing is to key a swastika into the side of any Cybertruck you see parked. This is after writing earlier this week about a suspicious fire at a Seattle lot housing Cybertrucks. If you drive one through the city, be prepared for some liberal nutjob to start... - twitchy.com",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-16 17:08:30",
+            "pubDateTZ": "UTC",
+            "image_url": "https://media.townhall.com/cdn/hodl/tw/images/up/2024/175/34120a34-f51e-45c3-b4b0-2a34e1397120.jpg",
+            "source_id": "knowledia",
+            "source_priority": 167779,
+            "source_name": "Knowledia News",
+            "source_url": "http://news.knowledia.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/knowledia.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": true
+        },
+        {
+            "article_id": "f2c975c837b662dc56ca9c984de53af7",
+            "title": "Musk Protesters Hold Swastika and Burning Cybertruck Signs Outside San Diego Tesla Dealership",
+            "link": "https://news.knowledia.com/all/all/articles/musk-protesters-hold-swastika-and-burning-cybertruck-signs-outside-san-4fb7067452e2ffa16dffa41167b9f7c89007ffa1",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "Protesters lined the streets outside a San Diego Tesla dealership on Saturday. Many were carrying signs with swastikas and other Nazi imagery that mirrored lies about Elon Musk spread by the legacy media and their partners in the Democrat Party. One even displayed a drawing of a burning... - twitchy.com",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-16 17:08:30",
+            "pubDateTZ": "UTC",
+            "image_url": "https://media.townhall.com/cdn/hodl/tw/images/up/2024/296/da56a498-89cc-4ae7-9cd1-2c93d7aeb0f4.jpg",
+            "source_id": "knowledia",
+            "source_priority": 167779,
+            "source_name": "Knowledia News",
+            "source_url": "http://news.knowledia.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/knowledia.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": true
+        },
+        {
+            "article_id": "be22d894993d982316dbbf4b07095782",
+            "title": "Unelected South African!!! Tara Setmayer Goes on Incoherent Rant Against Elon Musk and DOGE on CNN",
+            "link": "https://news.knowledia.com/all/all/articles/unelected-south-african-tara-setmayer-goes-on-incoherent-rant-against-a000d97566b5bd05ee800f8d93d230920a66455a",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "'Republican' Tara Setmayer (formerly of The Lincoln Project) sounds unsurprising like a deranged Democrat in a recent rant on CNN. She's even adopted the Democrats' talking point of Elon Musk being an 'unelected, South African, billionaire donor.' Yep, she's a Democrat.AdvertisementHere's her... - twitchy.com",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-16 17:08:30",
+            "pubDateTZ": "UTC",
+            "image_url": "https://media.townhall.com/cdn/hodl/tw/images/up/2024/311/ba904bf3-d60a-4972-a11c-e27602031d37.PNG",
+            "source_id": "knowledia",
+            "source_priority": 167779,
+            "source_name": "Knowledia News",
+            "source_url": "http://news.knowledia.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/knowledia.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": true
+        },
+        {
+            "article_id": "92a686c87b11c1517197fd25a92f2eb1",
+            "title": "Election Seat: New Book Reveals Kamala Harris Needed 'Booster' Chair During Presidential Campaign",
+            "link": "https://news.knowledia.com/all/all/articles/election-seat-new-book-reveals-kamala-harris-needed-booster-chair-5c6aa3f4c4860447dc29ac9ac0f607c1f6647a59",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "Kamala Harris was given the chair during her failed presidential campaign. No, not like that! Kamala wouldn't take a seat during her 2024 White House run unless the chair provided met certain measurement requirements. She learned this lesson early in her campaign.AdvertisementHere's more from... - twitchy.com",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-16 17:08:30",
+            "pubDateTZ": "UTC",
+            "image_url": "https://media.townhall.com/cdn/hodl/2024/296/65aa809a-e3ed-4125-a6cf-10adc51c642e.jpg",
+            "source_id": "knowledia",
+            "source_priority": 167779,
+            "source_name": "Knowledia News",
+            "source_url": "http://news.knowledia.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/knowledia.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": true
+        },
+        {
+            "article_id": "d6eca94b36f6cfdf150ff0c49a7e206e",
+            "title": "Trump Finally Smacks Down Houthis to Shield US Ships and Thwart Terror",
+            "link": "https://news.knowledia.com/all/all/articles/trump-finally-smacks-down-houthis-to-shield-us-ships-and-thwart-terror-404873318f7233b9e790c138fa1dea9438746183",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "It's been a long time coming, but finally the Houthis are getting what was coming to them. Thanks, Donald Trump. It's long past time to protect American shipping routes.AdvertisementTrump ordered American troops to go after the Houthis.Godspeed.pic.twitter.com/01NRoa9xex — Marina Medvin 🇺🇸... - twitchy.com",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-16 17:08:30",
+            "pubDateTZ": "UTC",
+            "image_url": "https://media.townhall.com/cdn/hodl/tw/images/up/2024/312/5f6fe4f0-376f-498a-ac04-9450ad3cb8cf.jpg",
+            "source_id": "knowledia",
+            "source_priority": 167779,
+            "source_name": "Knowledia News",
+            "source_url": "http://news.knowledia.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/knowledia.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": true
+        },
+        {
             "article_id": "a2fc631b78d44d49e7dd87787048fd60",
             "title": "Amazon, Flipkart ने फेस्टिवल सीजन में घटिया सामान बेचा, छापे में पकड़ा गया - Bhopal Samachar",
             "link": "https://www.bhopalsamachar.com/2025/03/amazon-flipkart-bhopal-samachar.html",
