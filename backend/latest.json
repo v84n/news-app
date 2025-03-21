@@ -1,6 +1,658 @@
 {
     "articles": [
         {
+            "article_id": "15d8dbd3396d50a014dedb05b98f2f2f",
+            "title": "Home Sales Jumped in February. It’s Not a Sign the Slump Is Over.",
+            "link": "https://www.barrons.com/articles/home-sales-jump-february-economists-slump-inventory-brokerages-779e8228?siteid=yhoof2&yptr=yahoo",
+            "keywords": null,
+            "creator": [
+                "Barrons.com"
+            ],
+            "video_url": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-20 15:23:00",
+            "pubDateTZ": "UTC",
+            "image_url": null,
+            "source_id": "yahoo",
+            "source_priority": 17,
+            "source_name": "Yahoo! News",
+            "source_url": "https://news.yahoo.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/yahoo.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "business"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": true
+        },
+        {
+            "article_id": "645afa5fc169f6b6a6d86bed0c574c2c",
+            "title": "ये BLDC पंखे लगाएं, बिना शोर वाली फर्राटेदार हवा पाएं, Amazon पर 60% तक का डिस्काउंट भी",
+            "link": "https://www.livehindustan.com/gadgets/best-bldc-ceiling-fans-to-buy-from-amazon-at-low-cost-201742482874171.html",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-20 15:22:55",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.livehindustan.com/lh-img/smart/img/2025/03/20/1200x900/nokia_1715252760798_1742484040231.jpg",
+            "source_id": "livehindustan",
+            "source_priority": 127332,
+            "source_name": "Hindustan",
+            "source_url": "https://www.livehindustan.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/livehindustan.jpg",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "technology"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "767cee36557bb3194c45685d8c28d059",
+            "title": "BJP murdering democracy, running away from questions in Parliament: Congress",
+            "link": "https://www.moneycontrol.com/news/india/bjp-murdering-democracy-running-away-from-questions-in-parliament-congress-12971009.html",
+            "keywords": [
+                "bjp, congress, kc venugopal"
+            ],
+            "creator": [
+                "Moneycontrol"
+            ],
+            "video_url": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-20 15:22:53",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.moneycontrol.com/static-mcnews/2024/06/20240625083925_KC-Venugopal.png",
+            "source_id": "moneycontrol",
+            "source_priority": 1064,
+            "source_name": "Moneycontrol",
+            "source_url": "https://www.moneycontrol.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/moneycontrol.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top",
+                "business",
+                "world",
+                "politics"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": true
+        },
+        {
+            "article_id": "cfc44e18a2a7406ec45edab85642e0d7",
+            "title": "Satya Kumar Yadav Assures to Continue to Modernise State Hospital",
+            "link": "https://www.deccanchronicle.com/southern-states/andhra-pradesh/satya-kumar-yadav-assures-to-continue-to-modernise-state-hospital-1868064",
+            "keywords": [
+                "southern states,andhra pradesh"
+            ],
+            "creator": [
+                "Sampat G. Samritan"
+            ],
+            "video_url": null,
+            "description": "Health Minister Satya Kumar Yadav outlines plans for modernizing healthcare, clearing dues, and building 100-bedded hospitals in every Assembly segment.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-20 15:22:52",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.deccanchronicle.com/h-upload/2025/03/20/1900464-screenshot2025-03-20204708.webp",
+            "source_id": "deccanchronicle",
+            "source_priority": 14130,
+            "source_name": "Deccan Chronicle",
+            "source_url": "https://www.deccanchronicle.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/deccanchronicle.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "09072a910050bef702969a68beb1497f",
+            "title": "'Chhaava' and the Morally Correct Choice Before Vicky Kaushal",
+            "link": "https://www.thequint.com/opinion/nagpur-violence-chhaava-vicky-kaushal-morally-correct-choice-of-an-actor-divisive-politics",
+            "keywords": [
+                "opinion"
+            ],
+            "creator": [
+                "Dushyant Arora"
+            ],
+            "video_url": null,
+            "description": "Vicky Kaushal chose to endorse and participate in a movie furthering vicious politics, writes Dushyant Arora.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-20 15:22:52",
+            "pubDateTZ": "UTC",
+            "image_url": "https://media.assettype.com/thequint%2F2025-03-20%2F8xwo41cd%2FOutlook-alanglyv.jpg?auto=format%2Ccompress&fmt=webp&w=1200&width=720",
+            "source_id": "thequint",
+            "source_priority": 9980,
+            "source_name": "The Quint",
+            "source_url": "https://www.thequint.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/thequint.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "b6233d288f9f08bc0ff9d43fe481a682",
+            "title": "नाबालिग से छेड़छाड़ का पांचवां आरोपी गिरफ्तार:मिर्जापुर में अश्लील वीडियो बनाकर किया था वायरल, 4 आरोपी पहले ही जेल में बंद",
+            "link": "https://www.bhaskar.com/local/uttar-pradesh/mirzapur/news/fifth-accused-of-molesting-a-minor-arrested-134677127.html",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "मिर्जापुर के हलिया थाना पुलिस ने मध्य प्रदेश की नाबालिग के साथ छेड़खानी के मामले में पांचवें आरोपी को गिरफ्तार कर लिया है। आरोपी की पहचान आजाद कुमार उर्फ लंगड़ के रूप में हुई है। वह सोनगढ़ा का रहने वाला है। यह मामला 16 मार्च का है। एक वीडियो सोशल मीडिया पर वायरल हुआ था। इसमें तीन युवक एक लड़की के साथ छेड़खानी कर रहे थे। पुलिस ने वीडियो का स्वतः संज्ञान लेकर मामला दर्ज किया। जांच में 4 आरोपियों के नाम सामने आए। वरिष्ठ पुलिस अधीक्षक सोमेन बर्मा ने मामले को गंभीरता से लिया। उन्होंने क्षेत्राधिकारी लालगंज के माध्यम से हलिया थाना प्रभारी को आरोपियों की गिरफ्तारी के निर्देश दिए। प्रभारी निरीक्षक वीरेंद्र सिंह ने पुलिस टीम के साथ मुखबिर की सूचना पर पांचवें आरोपी को गिरफ्तार किया। इससे पहले पुलिस चार आरोपियों को गिरफ्तार कर चुकी है। सभी आरोपियों को जेल भेज दिया गया है।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-20 15:22:48",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.bhaskarassets.com/thumb/1000x1000/web2images/521/2025/03/20/07f105ac-842e-423b-83fe-bdb752f39e08_1742481380342.jpg",
+            "source_id": "bhaskar_hindi",
+            "source_priority": 34179,
+            "source_name": "Bhaskar",
+            "source_url": "https://www.bhaskar.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/bhaskar_hindi.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top",
+                "domestic"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "68b03d0a247771b6fc5a9e3e04bf8e7a",
+            "title": "US existing home sales beat expectations in February",
+            "link": "https://economictimes.indiatimes.com/news/international/world-news/us-existing-home-sales-beat-expectations-in-february/articleshow/119264068.cms",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "Sales of previously owned homes in the United States rose 4.2 percent in February, surpassing analysts' expectations, as rising inventory enabled more buyers to enter the market. The median home price increased to $398,400, and all major regions logged price hikes amid steady mortgage rates.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-20 15:22:36",
+            "pubDateTZ": "UTC",
+            "image_url": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-584086,resizemode-75,msid-119264068/news/international/world-news/us-existing-home-sales-beat-expectations-in-february.jpg",
+            "source_id": "economictimes_indiatimes",
+            "source_priority": 231,
+            "source_name": "The Economic Times",
+            "source_url": "https://economictimes.indiatimes.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/economictimes_indiatimes.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top",
+                "business"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": true
+        },
+        {
+            "article_id": "9b718d248987902bbe288a53a6890ba4",
+            "title": "Eddie Jordan's brave final appearance as F1 legend kept working weeks before death",
+            "link": "https://timesofindia.indiatimes.com/sports/formula-one/news/eddie-jordans-brave-final-appearance-as-f1-legend-kept-working-weeks-before-death/articleshow/119264066.cms",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "Eddie Jordan, the former F1 team owner, continued working until weeks before his death at 76. Even as his health waned, Jordan was dedicated to Formula 1, showcasing his passion during his final public appearance. Tributes poured in from the motorsport community, celebrating his resilient spirit and lasting impact on the sport.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-20 15:22:34",
+            "pubDateTZ": "UTC",
+            "image_url": "https://static.toiimg.com/thumb/msid-119264045,imgsize-533926,width-400,resizemode-4/119264045.jpg",
+            "source_id": "toi",
+            "source_priority": 239,
+            "source_name": "The Times Of India",
+            "source_url": "https://timesofindia.indiatimes.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/toi.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": true
+        },
+        {
+            "article_id": "a9dd679855b85d6ebe8cbf426eb64196",
+            "title": "विजयम कॉन्वेंट का वार्षिकोत्सव मनाया:सांस्कृतिक कार्यक्रमों से आगाज, मेधावी छात्रों को आधी फीस माफी मिलेगी",
+            "link": "https://www.bhaskar.com/local/uttar-pradesh/lucknow/news/vijayam-convent-celebrated-its-annual-function-134677126.html",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "मोहनलालगंज के डेबरिया गांव स्थित विजयम कॉन्वेंट पब्लिक स्कूल में गुरुवार को पहला वार्षिक उत्सव मनाया गया। नाबार्ड भारत सरकार के जीतेंद्र श्रीवास्तव मुख्य अतिथि के रूप में मौजूद रहे। विशिष्ट अतिथि नागेश्वर द्विवेदी के साथ उन्होंने मां सरस्वती की प्रतिमा पर माल्यार्पण और दीप प्रज्ज्वलन किया। कार्यक्रम की शुरुआत छात्राओं द्वारा सरस्वती वंदना और स्वागत गीत से हुई। स्कूल के प्रबंधक अंकित तिवारी ने शिक्षा और संस्कार के महत्व पर प्रकाश डाला। उन्होंने कहा कि समाज को शिक्षित और संस्कारित बनाने के लिए निरंतर प्रयास करने चाहिए। समाजसेवी अंकुर द्विवेदी ने मेधावी छात्रों के लिए विशेष घोषणा की। कक्षा 5 से 8 तक के टॉपर छात्रों को एक साल की आधी फीस माफ की जाएगी। साथ ही कक्षा 6 से 8 तक के छात्रों को विशेष उपहार दिए जाएंगे। अभिभावकों की भी उपस्थिति रही कार्यक्रम में ब्लॉक प्रमुख ओम प्रकाश शुक्ला, भारतीय किसान यूनियन भानु गुट के प्रदेश प्रभारी ऋषि मिश्रा उपस्थित रहे। इसके अलावा समाजसेवी तरुण रस्तोगी, सनी पांडे, आशीष तिवारी और स्कूल के संस्थापक सत्य प्रकाश तिवारी भी मौजूद थे। कार्यक्रम में शिक्षक और अभिभावकों की भी उपस्थिति रही।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-20 15:22:28",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.bhaskarassets.com/thumb/1000x1000/web2images/521/2025/03/20/9c1c377b-8b4b-457c-bdc4-11299288ae76_1742471793479.jpg",
+            "source_id": "bhaskar_hindi",
+            "source_priority": 34179,
+            "source_name": "Bhaskar",
+            "source_url": "https://www.bhaskar.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/bhaskar_hindi.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top",
+                "domestic"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "9da6c439d3ae62dca14c84633b2ce4ec",
+            "title": "India News | West Bengal: RG Kar Hospital Protest Leader Dr Subarna Goswami Transferred to Darjeeling",
+            "link": "https://www.latestly.com/agency-news/india-news-west-bengal-rg-kar-hospital-protest-leader-dr-subarna-goswami-transferred-to-darjeeling-6723514.html",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "Get latest articles and stories on India at LatestLY. West Bengal government on Thursday transferred Dr Subarna Goswami, a prominent figure in the protests demanding justice for the female doctor who was brutally raped and murdered at RG Kar Hospital to Darjeeling as the Superintendent of the Darjeeling TB Hospital.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-20 15:22:27",
+            "pubDateTZ": "UTC",
+            "image_url": "https://st1.latestly.com/wp-content/uploads/2018/03/default-img-01-784x441.jpg",
+            "source_id": "latestly",
+            "source_priority": 31923,
+            "source_name": "Latestly",
+            "source_url": "https://www.latestly.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/latestly.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "5f2fc3814a65e7278822da76edb5e167",
+            "title": "Amaal Mallik Says Brother Armaan Malik And He 'Are One', Deletes Post About Breaking Ties With Family",
+            "link": "https://www.timesnownews.com/entertainment-news/bollywood/amaal-mallik-says-brother-armaan-malik-and-he-are-one-deletes-post-about-breaking-ties-with-family-article-119263076",
+            "keywords": null,
+            "creator": [
+                "Risha Ganguly"
+            ],
+            "video_url": null,
+            "description": "In his latest social media post, music composer Amaal Mallik has said that brother Armaan and he 'are one'. Amaal has also deleted his earlier post about breaking ties with family and said in his new story that he will continue to love them from afar. Read on to know more...",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-20 15:22:27",
+            "pubDateTZ": "UTC",
+            "image_url": "https://static.tnn.in/thumb/msid-119264043,thumbsize-1434093,width-1280,height-720,resizemode-75/119264043.jpg",
+            "source_id": "timesnownews",
+            "source_priority": 2243,
+            "source_name": "Times Now News",
+            "source_url": "https://www.timesnownews.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/timesnownews.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "ac631beeb53b7dd9eb5701a73234b834",
+            "title": "​जहां पढ़े राजीव-राहुल गांधी, उस स्कूल की फीस जानकर रह जाएंगे दंग!",
+            "link": "https://www.abplive.com/education/most-expensive-school-in-dehradun-know-the-fees-structure-admission-process-rajiv-gandhi-and-rahul-gandhi-studied-here-2908342",
+            "keywords": [
+                "शिक्षा"
+            ],
+            "creator": [
+                "एबीपी फीचर डेस्क"
+            ],
+            "video_url": null,
+            "description": "हर माता-पिता अपने बच्चे को बेहतरीन शिक्षा दिलाने का सपना देखते हैं, लेकिन क्या आप जानते हैं कि देहरादून के कुछ स्कूलों की फीस लाखों में होती है? खासकर 'द दून स्कूल', जो न केवल भारत बल्कि दुनियाभर में अपनी प्रतिष्ठा के लिए जाना जाता है. यहां एडमिशन पाना जितना मुश्किल है, उतनी ही इसकी फीस भी चौंकाने वाली है. आइए जानते हैं कि इस स्कूल की फीस कितनी है, एडमिशन की प्रक्रिया क्या है और कौन-कौन सी नामी हस्तियां यहां से पढ़ चुकी हैं.89 साल बाद भी देश में मशहूर है ये स्कूल भारत के कई स्कूलों की फीस लाखों में है. अपने बच्चे को वहां पढ़ाना आसान नहीं होता है. लेकिन बच्चों के बेहतर भविष्य के लिए माता-पिता लोन तक लेकर उनकी पढ़ाई पूरी करवाते हैं. उत्तराखंड के कई स्कूल विश्व प्रसिद्ध हैं. देहरादून में स्थित 'द दून स्कूल' भी उनमें से एक है (The Doon School Dehradun). यह देश का सबसे महंगा स्कूल है. इसकी स्थापना 1935 में की गई थी. 89 साल बाद भी उसकी प्रसिद्धि उतनी ही है, जितनी शुरुआती सालों में थी.12 से 18 साल तक के लड़कों को मिलता है एडमिशनद दून स्कूल में 12 से 18 साल तक के लड़कों को एडमिशन दिया जाता है. इस बोर्डिंग स्कूल में छात्राएं नहीं पढ़ती हैं. एडमिशन के लिए कठिन टेस्ट और इंटरव्यू देना पड़ता है. यहां सिर्फ 2 क्लासेस में एडमिशन मिलता है, क्लास 7 और क्लास 8. कक्षा 7वीं के लिए जनवरी में एडमिशन होता है और 8वीं के लिए अप्रैल में. इस पूरे स्कूल में सिर्फ 500 स्टूडेंट्स पढ़ते हैं. सभी छात्र और शिक्षक एक ही कैंपस में रहते हैं.The Doon School Feesइन दिनों सोशल मीडिया पर स्कूलों की बढ़ती फीस को लेकर चर्चा चलती रहती है. अपने शहर के मामूली स्कूलों की फीस के बीच द दून स्कूल, देहरादून की फीस आपके होश उड़ा देगी. मीडिया रिपोर्ट्स के मुताबिक, द दून स्कूल की फीस 11,95,000 रुपये प्रति वर्ष है. यहां की एडमिशन फीस 5,00,000 रुपये है (नॉन रिफंडेबल), सिक्योरिटी फीस 6,00,000 रुपये (रिफंडेबल) और आकस्मिक व्यय यानी इंसीडेंटल एक्सपेंस प्रति सत्र 25,000 रुपये है.The Doon School Dehradun Feesरिपोर्ट्स के अनुसार भारतीय स्टूडेंट्स की तुलना में विदेशी छात्रों की फीस ज्यादा है (The Doon School Dehradun Fees for Foreign Students). उन्हें सालाना 14,93,500 रुपये फीस जमा करनी होती है. उनकी एडमिशन फीस 7,46,875 रुपये (नॉन-रिफंडेबल), सिक्योरिटी फीस 7,46,875 रुपये (रिफंडेबल) और आकस्मिक व्यय यानी इंसीडेंटल एक्सपेंस प्रति सत्र 25,000 रुपये है.The Doon School Alumniदेश की कई नामी हस्तियों ने द दून स्कूल से पढ़ाई की है. द दून स्कूल, देहरादून के एल्युमनाई में राजीव गांधी (Rajiv Gandhi), राहुल गांधी (Rahul Gandhi), ज्योतिरादित्य सिंधिया, पटनायक, जितिन प्रसाद, मणिशंकर अय्यर, अमिताव घोष (Amitav Ghosh), विक्रम सेठ (Vikram Seth), तरुण ताहिल्यानी (Tarun Tahiliani), संदीप खोसला (Sandeep Khosla), अली फजल (Ali Fazal) और अभिनव बिंद्रा जैसे नाम शामिल हैं.यह भी पढ़ें: शिक्षा व्यवस्था में अमेरिका से बेहतर है भारत का ये पड़ोसी मुल्क, नाम जानकर हैरान रह जाएंगे आप",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-20 15:22:26",
+            "pubDateTZ": "UTC",
+            "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2025/03/20/772a311cdb6c6b0aacf41926ada44d701742483079470349_original.jpg",
+            "source_id": "abplive",
+            "source_priority": 7754,
+            "source_name": "Abp News",
+            "source_url": "http://abplive.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/abplive.jpg",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "education"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "726df82d6b6498327bebdbb3fdf8eaad",
+            "title": "Founder director of Pilikula zoo quits under controversial circumstances citing ‘personal reasons’",
+            "link": "https://www.thehindu.com/news/cities/Mangalore/founder-director-of-pilikula-zoo-quits-under-controversial-circumstances-citing-personal-reasons/article69354376.ece",
+            "keywords": [
+                "mangaluru"
+            ],
+            "creator": null,
+            "video_url": null,
+            "description": "The country has 18 large zoos among 150 recognised zoos in the country. Pilikula is one among the 18",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-20 15:22:21",
+            "pubDateTZ": "UTC",
+            "image_url": "https://th-i.thgim.com/public/incoming/mlkjrd/article69354609.ece/alternates/LANDSCAPE_1200/H%20Jayapraksh%20Bhandary%202.JPG",
+            "source_id": "thehindu",
+            "source_priority": 2972,
+            "source_name": "The Hindu",
+            "source_url": "https://www.thehindu.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/thehindu.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "e7543694c68931e113bc71728938d030",
+            "title": "'Fair' Game: UP's Sambhal Back In Spotlight, This Time Over Legacy Of Muslim Invader Salar Masud Ghazi",
+            "link": "https://www.news18.com/india/fair-game-ups-sambhal-back-in-spotlight-this-time-over-legacy-of-muslim-invader-salar-masud-ghazi-9268587.html",
+            "keywords": [
+                "india"
+            ],
+            "creator": null,
+            "video_url": null,
+            "description": "On March 17, the Sambhal administration categorically refused to allow the Neja Mela event, held to commemorate Syed Salar Masud Ghazi, citing objections from members of the Hindu community and concerns over public order",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-20 15:22:13",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.news18.com/ibnlive/uploads/2025/03/Sambhal-Neja-Mela-2025-03-839effa4c432b333b305a5aa2e99e9ea-3x2.jpg",
+            "source_id": "news18",
+            "source_priority": 1063,
+            "source_name": "News 18",
+            "source_url": "https://www.news18.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/news18.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "824d24c8638b84acc037f092700a08e8",
+            "title": "NHL referee Kelly Sutherland helps Steven Lorentz score a winning goal for the Toronto Maple Leafs",
+            "link": "https://timesofindia.indiatimes.com/sports/nhl/news/nhl-referee-kelly-sutherland-helps-steven-lorentz-score-a-winning-goal-for-the-toronto-maple-leafs/articleshow/119263892.cms",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "NHL referee Kelly Sutherland inadvertently aids Toronto Maple Leafs' Steven Lorentz in securing a winning goal against Colorado Avalanche, as Sutherland's high-dive prevents the puck from leaving the rink. Lorentz capitalizes on the situation and scores, making a significant difference for his team. Lorentz later attributes his success to the unexpected opportunity created by the referee.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-20 15:22:13",
+            "pubDateTZ": "UTC",
+            "image_url": "https://static.toiimg.com/thumb/msid-119263887,width-1070,height-580,imgsize-377900,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "source_id": "toi",
+            "source_priority": 239,
+            "source_name": "The Times Of India",
+            "source_url": "https://timesofindia.indiatimes.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/toi.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "a2e1cb6e83904f366908668bac3f5013",
+            "title": "Alcaraz headlines Barcelona Open field; Wawarinka, Nishikori gets wild card",
+            "link": "https://sportstar.thehindu.com/tennis/barcelona-open-carlos-alcaraz-casper-rudd-stan-wawrinka-kei-nishikori-wild-cards-schedule-format-tennis-news/article69354555.ece",
+            "keywords": [
+                "tennis"
+            ],
+            "creator": null,
+            "video_url": null,
+            "description": "Norway’s Casper Ruud will also be a part of the tournament in a bid to defend his title after beating Stefanos Tsitsipas in the final last year.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-20 15:22:12",
+            "pubDateTZ": "UTC",
+            "image_url": "https://ss-i.thgim.com/public/incoming/p1ff1b/article69354577.ece/alternates/LANDSCAPE_1200/2025-03-16T010850Z_1353272974_MT1USATODAY25684378_RTRMADP_3_TENNIS-BNP-PARIBAS-OPEN.JPG",
+            "source_id": "sportstar",
+            "source_priority": 2972,
+            "source_name": "Sport Star The Hindu",
+            "source_url": "https://sportstar.thehindu.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/sportstar.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "sports"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "990c034abf76d54cdf1a89326b92ba41",
+            "title": "देश की खबरें | केरल : वार्ता विफल होने पर आशा कार्यकर्ताओं ने भूख हड़ताल शुरू की",
+            "link": "https://hindi.latestly.com/agency-news/kerala-asha-workers-started-a-hunger-strike-when-negotiations-failed-2543257.html",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "Get Latest हिन्दी समाचार, Breaking News on India at LatestLY हिन्दी. केरल में आशा कार्यकर्ताओं ने अपनी मांगों को पूरा करने का दबाव बनाने के लिए बृहस्पतिवार को राज्य सचिवालय के बाहर विरोध-प्रदर्शन तेज करते हुए अनिश्चितकालीन भूख हड़ताल शुरू की।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-20 15:22:09",
+            "pubDateTZ": "UTC",
+            "image_url": "https://hist1.latestly.com/wp-content/uploads/2020/04/india_default_img-380x214.jpg",
+            "source_id": "latestly",
+            "source_priority": 31923,
+            "source_name": "Latestly",
+            "source_url": "https://www.latestly.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/latestly.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "01fa0273f446051ded8345cc4f1fd2f8",
+            "title": "Donald Trump Vows to Make America the 'Undisputed Bitcoin Superpower' - Decrypt",
+            "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQNEF0cEM3NHdpUkJNUnRoYjdxMk9SdkxIdmFqT2dYM01SM19LWVAwRUVyOEFyLU5HM0VhelYxT0NycjB4RXFzWTJjMFdTWXN3b0YwODhGNkRYazY5VURMcEY0Rmx5S3RnY2pYZ3lXaGdrOVNPU0dubDBJUXZKdlpDajNR0gGKAUFVX3lxTE1xT05kRUtITEIwSU02UTBoSEFmOTdLT3I3SDRicHQxYTJuc3F1VFFGU3ZOZWJFWW4xRmlRQ21nQzg5NGR3U1V4MUFleHlaQnhqMWtadnRhTGlfOVVod1J5a19TX21fVmdTdnlWRFpodTVsdlRZbmtrMnN5OEtlSzZ0dGY4NzN4R1pPdw?oc=5",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "Donald Trump Vows to Make America the 'Undisputed Bitcoin Superpower' DecryptLeak Fuels Wild Speculation Of A ‘Big’ Trump Crypto Update As Bitcoin Price Suddenly Surges ForbesDonald Trump to speak at Digital Asset Summit Dig Watch UpdatesWhat the US Pro Crypto Policy Under Trump Means for Indian Investors VCCircleTrump says US will dominate crypto, claims America will be crypto capital of the world FXStreet",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-20 15:22:08",
+            "pubDateTZ": "UTC",
+            "image_url": null,
+            "source_id": "google",
+            "source_priority": 14,
+            "source_name": "Google News",
+            "source_url": "https://news.google.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/google.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "business"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "90ee33731e7e5142ea4a2ea3b6f4d4bd",
+            "title": "Latest News | Haryana: Opposition MLAs Express Concern over 'mounting Debt'",
+            "link": "https://www.latestly.com/agency-news/latest-news-haryana-opposition-mlas-express-concern-over-mounting-debt-6723513.html",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "Get latest articles and stories on Latest News at LatestLY. Opposition Congress and INLD MLAs in Haryana on Thursday expressed concern over the mounting debt as they also raised issues related to health, education and drug menace in the State Assembly.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-20 15:22:06",
+            "pubDateTZ": "UTC",
+            "image_url": "https://st1.latestly.com/wp-content/uploads/2018/03/default-img-01-380x214.jpg",
+            "source_id": "latestly",
+            "source_priority": 31923,
+            "source_name": "Latestly",
+            "source_url": "https://www.latestly.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/latestly.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "4ab5b91438d4e8a59c01142714dbd12f",
+            "title": "देश की खबरें | असंतुष्ट बस चालक ने खुद वाहन में लगाई आग: पुणे बस हादसा मामले में पुलिस ने कहा",
+            "link": "https://hindi.latestly.com/agency-news/dissatisfied-bus-driver-himself-set-fire-to-the-vehicle-police-said-in-the-pune-bus-accident-case-r-2543256.html",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "Get Latest हिन्दी समाचार, Breaking News on India at LatestLY हिन्दी. पुणे के पास एक निजी कंपनी की मिनी बस में आग लगने की घटना की जांच कर रही पुलिस ने बृहस्पतिवार को दावा किया कि असंतुष्ट चालक ने कथित तौर पर खुद वाहन में आग लगाई थी। इस घटना में निजी कंपनी के चार कर्मचारियों की मौत हो गई थी।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-20 15:22:06",
+            "pubDateTZ": "UTC",
+            "image_url": "https://hist1.latestly.com/wp-content/uploads/2020/04/india_default_img-380x214.jpg",
+            "source_id": "latestly",
+            "source_priority": 31923,
+            "source_name": "Latestly",
+            "source_url": "https://www.latestly.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/latestly.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
             "article_id": "5b33a1f96af6c2c325b2f2f103ea9d4d",
             "title": "महाराष्ट्र में गोहत्या करने वालों पर लगेगा MCOCA, सीएम फडणवीस ने किया ऐलान",
             "link": "https://www.aajtak.in/india/maharashtra/story/mcoca-imposed-on-cow-slaughterers-in-maharashtra-cm-fadnavis-announced-ntc-rptc-2195461-2025-03-20",
@@ -22359,717 +23011,6 @@
             "source_name": "Abp News",
             "source_url": "http://abplive.com",
             "source_icon": "https://i.bytvi.com/domain_icons/abplive.jpg",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "ca9091b7136f23194acbbbe773a4c511",
-            "title": "Figure 8 Capital Hosts Exclusive HVL Hotels Site Inspection",
-            "link": "https://www.prnewswire.com/apac/news-releases/figure-8-capital-hosts-exclusive-hvl-hotels-site-inspection-302405297.html",
-            "keywords": null,
-            "creator": null,
-            "video_url": null,
-            "description": "SYDNEY, March 19, 2025 /PRNewswire/ -- On March 12, 2024, Figure 8 Capital successfully hosted an exclusive site inspection of the highly anticipated HVL Hotels project in the Hunter Valley. This invitation-only event provided investors and key stakeholders with a firsthand look at the...",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-03-19 03:10:00",
-            "pubDateTZ": "UTC",
-            "image_url": null,
-            "source_id": "prnewswire_apac",
-            "source_priority": 1822,
-            "source_name": "Pr Newswire Apac",
-            "source_url": "https://www.prnewswire.com/apac",
-            "source_icon": "https://i.bytvi.com/domain_icons/prnewswire_apac.png",
-            "language": "english",
-            "country": [
-                "afghanistan",
-                "india",
-                "australia",
-                "singapore",
-                "fiji",
-                "maldives",
-                "japan",
-                "malaysia",
-                "china",
-                "south korea",
-                "thailand",
-                "pakistan",
-                "mongolia",
-                "brunei",
-                "new zealand",
-                "indonesia",
-                "bhutan",
-                "philippines",
-                "hong kong",
-                "bangladesh",
-                "nepal",
-                "sri lanka",
-                "cambodia"
-            ],
-            "category": [
-                "technology",
-                "business"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": true
-        },
-        {
-            "article_id": "ed8238711ffaf9de2858d1627b7798e9",
-            "title": "Figure 8 Capital Hosts Exclusive HVL Hotels Site Inspection",
-            "link": "https://en.prnasia.com/story/482178-0.shtml",
-            "keywords": [
-                "rlt",
-                "hrt",
-                "tra"
-            ],
-            "creator": null,
-            "video_url": null,
-            "description": "SYDNEY, March 19, 2025 /PRNewswire/ -- On March 12, 2024, Figure 8 Capital successfully hosted an exclusive site inspection of the highly anticipated HVL Hotels project in the Hunter Valley. This invitation-only event provided investors and key stakeholders with a firsthand look at the transformation of the historic Ben Ean Estate into a world-class luxury destination. HVL Hotels is poised to redefine hospitality in the region, blending modern elegance with the rich history of the Hunter Valley. The development encompasses 65 luxury designer hotel rooms, a fine-dining restaurant led by celebrity chefs, and a rejuvenating European-style thermal spa. Situated on 164 acres of prime vineyard land, this project aims to cater to the growing demand for high-end accommodations in the region, which welcomes over 1.5 million visitors annually. During the site inspection, industry veteran Brian McGuigan attended and personally guided potential investors through the site, showcasing the vision and progress of the project. Attendees gained an in-depth understanding of the project's progress including the approved Development Application and design concepts. Guests had the opportunity to explore the location, review preliminary architectural plans, and discuss investment opportunities, including the Promissory Notes investment option, which offers a fixed return of 10% p.a. with additional incentives. \"This project represents a once-in-a-generation opportunity to invest in a landmark luxury hotel in the Hunter Valley, Australia's premier wine tourism destination,\" said Dominic Lambrinos, Managing Director of HVL Hotels. \"It was an incredible experience to showcase the vision behind HVL Hotels and share this milestone moment with our valued investors and partners.\" With momentum building, Figure 8 Capital remains committed to delivering an exceptional hospitality experience in the Hunter Valley. Investors and stakeholders can look forward to further updates as the project progresses.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-03-19 03:10:00",
-            "pubDateTZ": "UTC",
-            "image_url": null,
-            "source_id": "en_prnasisa",
-            "source_priority": 1333464,
-            "source_name": "Pr Newswire Apac",
-            "source_url": "https://en.prnasia.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/en_prnasisa.png",
-            "language": "english",
-            "country": [
-                "yemen",
-                "afghanistan",
-                "india",
-                "singapore",
-                "saudi arabia",
-                "united arab emirates",
-                "china",
-                "taiwan",
-                "pakistan",
-                "brunei",
-                "syria",
-                "bhutan",
-                "turkey",
-                "armenia",
-                "qatar",
-                "philippines",
-                "hong kong",
-                "romania",
-                "laos",
-                "timor-leste",
-                "bangladesh",
-                "vietnam",
-                "azerbaijan",
-                "uzbekistan",
-                "turkmenistan",
-                "macau",
-                "bahrain",
-                "tajikistan"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "431b3f9bc1417cfc6603044424b57cef",
-            "title": "LIVE India News updates on March 19: Gujarat village celebrates Sunita Williams' return",
-            "link": "https://newsable.asianetnews.com/india/india-news-today-live-breaking-updates-on-politics-sports-cricket-business-technology-auto-pm-modi-ipl-parliament-session-march-19-2025-stcosm",
-            "keywords": null,
-            "creator": null,
-            "video_url": null,
-            "description": "Stay updated with our LIVE Blog, bringing you real-time coverage of India's politics, sports, business, technology, auto and general news. Follow the latest developments and major events shaping the nation—all in one place.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-03-19 03:09:58",
-            "pubDateTZ": "UTC",
-            "image_url": "https://static-gi.asianetnews.com/images/01jmnwfbxqp0y7z2nddm4xg5ft/top-news.jpeg",
-            "source_id": "newsable_asianetnews",
-            "source_priority": 7749,
-            "source_name": "Asianet Newsable",
-            "source_url": "https://newsable.asianetnews.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/newsable_asianetnews.jpg",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "a335d9477bbced9185110b2b088ecb82",
-            "title": "Trump-Putin call: Key highlights from White House, Kremlin statements",
-            "link": "https://www.thehindu.com/news/international/trump-putin-call-key-highlights-from-white-house-kremlin-statements/article69347284.ece",
-            "keywords": [
-                "world"
-            ],
-            "creator": null,
-            "video_url": null,
-            "description": "The White House says a lengthy phone call between Presidents Donald Trump and Vladimir Putin had achieved “movement to peace” in Russia’s invasion of Ukraine",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-03-19 03:09:55",
-            "pubDateTZ": "UTC",
-            "image_url": "https://th-i.thgim.com/public/incoming/sduqbt/article69347287.ece/alternates/LANDSCAPE_1200/Trump_Putin_81676.jpg",
-            "source_id": "thehindu",
-            "source_priority": 2972,
-            "source_name": "The Hindu",
-            "source_url": "https://www.thehindu.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/thehindu.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "fe6e63a221c2895a0041f086220ecdfb",
-            "title": "मां विंध्यवासिनी का है भगवान शिव से गहरा नाता, सृष्टि की रचना से जुड़ी है कहानी",
-            "link": "https://hindi.news18.com/news/dharm/mother-vindhyavasini-has-a-deep-connection-with-lord-shiva-know-what-is-the-belief-local18-9111021.html",
-            "keywords": [
-                "उत्तर प्रदेश"
-            ],
-            "creator": [
-                "News18 Hindi"
-            ],
-            "video_url": null,
-            "description": "Maa Vindhyavasini Dham : मां विंध्यवासिनी का भगवान शिव से गहरा नाता है. मां विंध्यवासिनी ने सृष्टि की संरचना के लिए ब्रह्मा, विष्णु और महेश को प्रकट किया. भगवान शिव ने मां से तीसरा नेत्र मांगा, जिससे उन्हें विध्वंशकारी शक्ति मिली. भगवान शिव के द्वारा तीसरा नेत्र खोलने पर मां भस्म हो गई. ऐसा उन्होंने महसूस कराया. मां के भस्म होने से भगवान शिव ने तीन पिंडी बनाई. उसके बाद मां तीन रूप में प्रकट हुई.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-03-19 03:09:49",
-            "pubDateTZ": "UTC",
-            "image_url": "https://images.news18.com/ibnkhabar/uploads/2025/03/HYP_5045960_cropped_18032025_233942_20250211_140413_watermark__2-3x2.jpg",
-            "source_id": "hindinews18",
-            "source_priority": 4077,
-            "source_name": "News 18 Hindi",
-            "source_url": "https://hindi.news18.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/hindinews18.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "3d32135cd666bb5e6f21681896e6dc6a",
-            "title": "IPL 2025 Opening Ceremony: Date, Time, Live Streaming – All You Need To Know",
-            "link": "https://news24online.com/sports/cricket/ipl-2025-opening-ceremony-date-time-live-streaming-all-you-need-to-know/505531/",
-            "keywords": [
-                "ipl 2025",
-                "cricket",
-                "ipl opening ceremony",
-                "sports"
-            ],
-            "creator": [
-                "Daisy Mehta"
-            ],
-            "video_url": null,
-            "description": "After the grand opening ceremony, the match between Kolkata Knight Riders and Royal Challengers Bengaluru will take place.The post IPL 2025 Opening Ceremony: Date, Time, Live Streaming – All You Need To Know appeared first on News24.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-03-19 03:09:46",
-            "pubDateTZ": "UTC",
-            "image_url": "https://news24online.com/wp-content/uploads/2025/03/IPL-2025-will-be-starting-from-March-22.jpg",
-            "source_id": "news24online",
-            "source_priority": 549589,
-            "source_name": "News 24",
-            "source_url": "https://news24online.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/news24online.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "6ec5faec21d2e4897a4d23b9a076ac8d",
-            "title": "UPPCL: बिजली चोरी के खिलाफ बड़े एक्शन की तैयारी में विभाग, तैयार की गई लिस्ट; जल्द शुरू होगा अभियान",
-            "link": "https://www.jagran.com/uttar-pradesh/kanpur-city-crackdown-on-electricity-theft-in-kanpur-vigilance-teams-to-conduct-special-drives-23902037.html",
-            "keywords": null,
-            "creator": null,
-            "video_url": null,
-            "description": "UP Electricity कानपुर में बिजली चोरी पर लगाम लगाने के लिए विजिलेंस विभाग ने कमर कस ली है। शहर के टॉप-10 क्षेत्रों को चिह्नित कर बुधवार से विशेष अभियान चलाया जाएगा। विजिलेंस और केस्को की टीमें मिलकर घर-घर चेकिंग करेंगी। एक महीने तक चलने वाले इस अभियान में बिजली चोरी के दोषियों पर कार्रवाई की जाएगी। विजिलेंस टीम उनकी निगरानी 24 घंटे करेगी।",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-03-19 03:09:40",
-            "pubDateTZ": "UTC",
-            "image_url": "https://www.jagranimages.com/images/newimg/19032025/19_03_2025-electricity_23902037_m.webp",
-            "source_id": "jagran",
-            "source_priority": 6734,
-            "source_name": "ताजा हिंदी ख़बरें",
-            "source_url": "https://www.jagran.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/jagran.jpg",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "domestic"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "c42cff7cdb801d96343deaac325e301e",
-            "title": "NIA conducts raids at 10 locations in Jammu over infiltration cases",
-            "link": "https://economictimes.indiatimes.com/news/india/nia-conducts-raids-at-10-locations-in-jammu-over-infiltration-cases/articleshow/119188163.cms",
-            "keywords": null,
-            "creator": null,
-            "video_url": null,
-            "description": "The National Investigation Agency (NIA) is raiding 10 locations in Jammu over infiltration cases. The NIA opposes Baramulla MP Abdul Rashid Sheikh's plea for interim bail to attend the Parliament session. They argue his MP status does not exempt him from detention and fear he might influence witnesses. Sheikh’s plea hearing is tomorrow.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-03-19 03:09:33",
-            "pubDateTZ": "UTC",
-            "image_url": "https://img.etimg.com/thumb/msid-119188181,width-1200,height-630,imgsize-13362,overlay-economictimes/articleshow.jpg",
-            "source_id": "economictimes_indiatimes",
-            "source_priority": 231,
-            "source_name": "The Economic Times",
-            "source_url": "https://economictimes.indiatimes.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/economictimes_indiatimes.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "world"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "1681e318f4641b722f7daaae9328b2e9",
-            "title": "Controversy Erupts Over BJP MLA's Remarks on Actress in Gold Smuggling Case",
-            "link": "https://www.devdiscourse.com/article/law-order/3312744-controversy-erupts-over-bjp-mlas-remarks-on-actress-in-gold-smuggling-case",
-            "keywords": null,
-            "creator": null,
-            "video_url": null,
-            "description": "Controversy Erupts Over BJP MLA's Remarks on Actress in Gold Smuggling Case A political storm has engulfed BJP MLA Basangouda Patil Yatnal following accusations of derogatory remarks against Ranya Rao, an actress recently embroiled in a gold smuggling scandal. Yatnal's comments have led to legal action under Section 79 of the Bharatiya Nyaya Sanhita.Akula Anuradha filed a complaint at the High Grounds police station, claiming Yatnal made disrespectful media statements undermining Rao’s societal reputation. Rao, who appears in various languages, is entangled in a high-profile case involving substantial gold smuggling.With connections pegged to an extensive smuggling operation, authorities arrested Rao in Bengaluru, recovering gold bars worth Rs 12.56 crore, additional jewellery, and cash from her residence. The unfolding case continues to draw significant attention in both political and media circles.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-03-19 03:09:25",
-            "pubDateTZ": "UTC",
-            "image_url": "https://devdiscourse.blob.core.windows.net/devnews/05_03_2025_09_41_21_0997429.jpg",
-            "source_id": "devdiscourse",
-            "source_priority": 566021,
-            "source_name": "Devdiscourse",
-            "source_url": "https://www.devdiscourse.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/devdiscourse.jpg",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "3595124c330e696c12edf918c6954f64",
-            "title": "Global uncertainty necessitates deeper reforms in India: HSBC",
-            "link": "https://www.thehansindia.com/business/global-uncertainty-necessitates-deeper-reforms-in-india-hsbc-955067",
-            "keywords": [
-                "business"
-            ],
-            "creator": [
-                "The Hans India"
-            ],
-            "video_url": null,
-            "description": null,
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-03-19 03:09:23",
-            "pubDateTZ": "UTC",
-            "image_url": "https://assets.thehansindia.com/h-upload/2025/03/19/1534119-hsbc.webp",
-            "source_id": "thehansindia",
-            "source_priority": 41360,
-            "source_name": "The Hans India",
-            "source_url": "http://www.thehansindia.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/thehansindia.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "business"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "0e6470f8c62891a8451927edbb9ff8e6",
-            "title": "Muthoot Finance Gets S&P Global Ratings Upgrade, But Is the Stock Fairly Valued?",
-            "link": "https://in.investing.com/news/stock-market-news/muthoot-finance-gets-sp-global-ratings-upgrade-but-is-the-stock-fairly-valued-4729171",
-            "keywords": null,
-            "creator": [
-                "Investing.com"
-            ],
-            "video_url": null,
-            "description": null,
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-03-19 03:09:14",
-            "pubDateTZ": "UTC",
-            "image_url": "https://d56-invdn-com.investing.com/content/318e56b93c852b60d6296979f0426ffd.png",
-            "source_id": "investing_in",
-            "source_priority": 1205,
-            "source_name": "Investing India",
-            "source_url": "https://in.investing.com",
-            "source_icon": null,
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "business"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "68d6115cb59c65b8ca603713efb6171d",
-            "title": "आदर जैन ने एक्स तारा सुतारिया को 'टाइमपास' कहने पर दी प्रतिक्रिया बोले- वो मेरे लिए...",
-            "link": "https://ndtv.in/bollywood/aadar-jain-reacted-to-ex-tara-sutaria-being-called-timepass-said-she-is-my-7956543",
-            "keywords": null,
-            "creator": null,
-            "video_url": null,
-            "description": "आदर जैन ने यह भी उल्लेख किया कि कभी-कभी दो लोगों के बीच कुछ चीजें ठीक नहीं होती हैं और यह ठीक है. उन्होंने दोहराया कि हर किसी का एक अतीत होता है और अगर कोई रिश्ता टूट जाता है, तो इसका मतलब यह नहीं है कि कोई पलटकर दूसरे लोगों के बारे में बातें करना शुरू कर देगा.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-03-19 03:09:13",
-            "pubDateTZ": "UTC",
-            "image_url": "https://c.ndtvimg.com/2025-03/o9g3hif8_aadar_625x300_19_March_25.jpg?im=FeatureCrop%2Calgorithm%3Ddnn%2Cwidth%3D773%2Cheight%3D435",
-            "source_id": "ndtv",
-            "source_priority": 1204,
-            "source_name": "Ndtv",
-            "source_url": "http://www.ndtv.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/ndtv.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "7bb98977ba3e964303af763d511579de",
-            "title": "\"Wonderful To See...\": To \"Dear\" Sunita Williams, Message From R Madhavan",
-            "link": "https://www.ndtv.com/entertainment/to-dear-sunita-williams-a-message-from-r-madhavan-wonderful-to-see-you-safe-and-smiling-7956544",
-            "keywords": [
-                "bollywood"
-            ],
-            "creator": null,
-            "video_url": null,
-            "description": "Madhavan wrote, \"Welcome back to Earth our Dear Dear Sunita Williams\"",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-03-19 03:09:07",
-            "pubDateTZ": "UTC",
-            "image_url": "https://c.ndtvimg.com/2025-03/1v64v02g_sunita-_625x300_19_March_25.jpg?im=FeatureCrop%2Calgorithm%3Ddnn%2Cwidth%3D773%2Cheight%3D435",
-            "source_id": "ndtv",
-            "source_priority": 1204,
-            "source_name": "Ndtv",
-            "source_url": "http://www.ndtv.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/ndtv.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "cc2e5e0bc9a589a9a9b29b52b1465095",
-            "title": "Aamer Jamal Slams Brad Hogg Over Mohammad Rizwan Mockery: 'Very Shameful Act...' - News18",
-            "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQeWlER0ZVU1M0elYyTnhoUzNuR2ZiSmhIWHJ6cmZxSzZaNmJmSmdSY1hjMkFhUzZUOGVaeHd4TmQtWVhSR2pIVzZGMUFFNWJzY3NXcDVKeG5XOU8zeFpoZWdxY0Z5SUt3WHJQS183RS1fMklhZ0tZYzFwLTRFUHhMNXRJbkpiQXJUTkROOWFCZm1VdHJ2eFB4b2JOdWg5ZmowWEVQRm5McjhJOGdSN1NMa0FWQ1QtQUJ3T1HSAb8BQVVfeXFMTUlxT2dIVUNSZWFodU1oQV9sdU16bG5XQi1pMElhUUs1N0xQZ2RLVzd6VEp3REZzZ3lmTjc5aHVTN1Y0TnNWbXNSeWM1SEN2X3k5STRzRlBEVERSUmxDeW1PTFpKdFl1Zm9KeWozMXVSZTZtVkk2bXZ1QVBnTUZ4ZmhHVUF5Ym9xdWhFT2YzeExCN0w0Q1hsZDFHdjZDZFM5YVQwREpidUtuNFBpN2RCNDJYRU9PcjY2ZkpYMFRLZkU?oc=5",
-            "keywords": null,
-            "creator": null,
-            "video_url": null,
-            "description": "Aamer Jamal Slams Brad Hogg Over Mohammad Rizwan Mockery: 'Very Shameful Act...' News18Australia World Cup-Winner Called 'Pathetic', 'Unprofessional' For Mocking Mohammad Rizwan's English.. NDTV SportsAamer Jamal slams 'attention-grabbing' Brad Hogg, calls him out for making fun of Mohammad Rizwan's English India TV News‘Australia should be ashamed...What a disgrace!’ Brad Hogg mauled for 'pathetic' post mocking Mohammad Rizwan Hindustan Times",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-03-19 03:09:06",
-            "pubDateTZ": "UTC",
-            "image_url": null,
-            "source_id": "google",
-            "source_priority": 14,
-            "source_name": "Google News",
-            "source_url": "https://news.google.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/google.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "sports"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "cbeb0d83953dfba2ff33f431053dfcab",
-            "title": "Aamer Jamal Slams Brad Hogg Over Mohammad Rizwan Mockery: 'Very Shameful Act...'",
-            "link": "https://www.news18.com/cricket/aamer-jamal-slams-brad-hogg-over-mohammad-rizwan-mockery-very-shameful-act-9266452.html",
-            "keywords": [
-                "cricket"
-            ],
-            "creator": null,
-            "video_url": null,
-            "description": "Pakistan allrounder Aamer Jamal has now launched a scathing attack on Brad Hogg, calling his act \"shameful.\"",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-03-19 03:09:06",
-            "pubDateTZ": "UTC",
-            "image_url": "https://images.news18.com/ibnlive/uploads/2025/03/Untitled-design-9-2025-03-bf71c6175bca58a0f0326c3e4bb3f27d-3x2.jpg",
-            "source_id": "news18",
-            "source_priority": 1063,
-            "source_name": "News 18",
-            "source_url": "https://www.news18.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/news18.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "sports"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "a22f61c912a8a9389105bf2737a6125a",
-            "title": "TTD EO releases posters for annual Brahmotsavam",
-            "link": "https://www.thehansindia.com/andhra-pradesh/ttd-eo-releases-posters-for-annual-brahmotsavam-955066",
-            "keywords": [
-                "andhra pradesh,news,state"
-            ],
-            "creator": [
-                "Dusi Venkateswara Rao"
-            ],
-            "video_url": null,
-            "description": "TTD EO J Syamala Rao released the wall posters of the annual Brahmotsavam of Tirupati Sri Kodandarama Swamy on Thursday evening in his chamber at TTD administration building.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-03-19 03:08:58",
-            "pubDateTZ": "UTC",
-            "image_url": "https://assets.thehansindia.com/h-upload/2025/03/19/1534118-ttd-eo-j-syamala-rao.webp",
-            "source_id": "thehansindia",
-            "source_priority": 41360,
-            "source_name": "The Hans India",
-            "source_url": "http://www.thehansindia.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/thehansindia.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "f44c465d2cb92fea1c3d292669a5c3b8",
-            "title": "Rajasthan News: पुल‍िसकर्मी की लगी आंख, हथकड़ी से हाथ निकालकर ट्रेन से फरार हुआ कैदी, पुल‍िस वालों पर ग‍िरी गाज",
-            "link": "https://zeenews.india.com/hindi/india/rajasthan/bikaner/rajasthan-news-policemen-sleep-prisoner-escaped-from-train-by-removing-his-handcuffs/2685746",
-            "keywords": null,
-            "creator": [
-                "Zee News Hindi"
-            ],
-            "video_url": null,
-            "description": "Rajasthan News: पुलिसकर्मी की लगी आंख तो कैदी ने दिखा दी होशियारी. ट्रेन में पुलिस वालों को सोना इतना भारी पड़ गया की बात उनकी नौकरी पर आ गई...",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-03-19 03:08:57",
-            "pubDateTZ": "UTC",
-            "image_url": "https://hindi.cdn.zeenews.com/hindi/sites/default/files/2025/03/19/3763540-poo.jpg?im=FitAndFill%3D%281200%2C900%29",
-            "source_id": "zeenews",
-            "source_priority": 5319,
-            "source_name": "Zee News",
-            "source_url": "http://zeenews.india.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/zeenews.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "4b4f57dd36f21d27cb0d93b3ef0dd07a",
-            "title": "Sleep Smart: The Art and Science of Effective Napping",
-            "link": "https://www.devdiscourse.com/article/health/3312743-sleep-smart-the-art-and-science-of-effective-napping",
-            "keywords": null,
-            "creator": null,
-            "video_url": null,
-            "description": "Sleep Smart: The Art and Science of Effective Napping Coventry (UK), Mar 19 (The Conversation) Combining the beneficial and disruptive aspects of napping, this article examines the fine line between revitalizing energy and hindering nighttime sleep. For many, the midday snooze is a productive tool, yet it can often lead to challenges come bedtime.While naps are known for enhancing alertness and mental productivity, doing them inaccurately poses the risk of grogginess and disrupted sleep patterns. A strategic approach to napping, focusing on short durations and early afternoon timing, is essential for maintaining effective cognitive functions without nighttime sleep interference.Experts suggest strategic napping can greatly benefit individuals in demanding professions or those experiencing fragmented sleep schedules. Nonetheless, those managing chronic insomnia are advised against habitual naps, as they might upset the body's sleep-wake cycle. Ultimately, experimenting with naps can guide individuals to optimal sleep solutions tailored to personal needs.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-03-19 03:08:52",
-            "pubDateTZ": "UTC",
-            "image_url": "https://devdiscourse.blob.core.windows.net/aiimagegallery/29_08_2024_14_47_28_7602595.png",
-            "source_id": "devdiscourse",
-            "source_priority": 566021,
-            "source_name": "Devdiscourse",
-            "source_url": "https://www.devdiscourse.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/devdiscourse.jpg",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "87ed421fd58baf7c506a33c29ca72fee",
-            "title": "Ambitious road projects remaining on paper ‘squeezing’ Kochi's Tripunithura",
-            "link": "https://www.newindianexpress.com/cities/kochi/2025/Mar/19/ambitious-road-projects-remaining-on-paper-squeezing-kochis-tripunithura",
-            "keywords": [
-                "kochi"
-            ],
-            "creator": [
-                "Krishna Kumar K E"
-            ],
-            "video_url": null,
-            "description": null,
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-03-19 03:08:48",
-            "pubDateTZ": "UTC",
-            "image_url": "https://media.assettype.com/newindianexpress/2025-03-19/dbqpmvmf/karingachira091837.jpg",
-            "source_id": "newindianexpress",
-            "source_priority": 15406,
-            "source_name": "The New Indian Express",
-            "source_url": "https://www.newindianexpress.com/nation",
-            "source_icon": null,
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "929c1579796fd9c1065c6c00e3efce14",
-            "title": "BJP opposes 4 per cent quota for minorities Bill tabled in Karnataka Assembly",
-            "link": "https://www.newindianexpress.com/states/karnataka/2025/Mar/19/bjp-opposes-4-per-cent-quota-for-minorities-bill-tabled-in-karnataka-assembly",
-            "keywords": [
-                "karnataka"
-            ],
-            "creator": [
-                "Express News Service"
-            ],
-            "video_url": null,
-            "description": null,
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-03-19 03:08:45",
-            "pubDateTZ": "UTC",
-            "image_url": "https://media.assettype.com/newindianexpress/2025-03-17/kzy3nas0/C_35_1_CH0258_59685044.jpg",
-            "source_id": "newindianexpress",
-            "source_priority": 15406,
-            "source_name": "The New Indian Express",
-            "source_url": "https://www.newindianexpress.com/nation",
-            "source_icon": null,
             "language": "english",
             "country": [
                 "india"
