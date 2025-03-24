@@ -1,6 +1,661 @@
 {
     "articles": [
         {
+            "article_id": "c828407cd54df54aa358880be0a20454",
+            "title": "Market Sell-Off: 1 Growth Stock Down 25% to Buy Right Now",
+            "link": "https://finance.yahoo.com/news/market-sell-off-1-growth-181200762.html",
+            "keywords": null,
+            "creator": [
+                "Motley Fool"
+            ],
+            "video_url": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-22 18:12:00",
+            "pubDateTZ": "UTC",
+            "image_url": "https://media.zenfs.com/en/motleyfool.com/10cdd38f319d20c8a8be3f85adacd826",
+            "source_id": "yahoo",
+            "source_priority": 17,
+            "source_name": "Yahoo! News",
+            "source_url": "https://news.yahoo.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/yahoo.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "business"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": true
+        },
+        {
+            "article_id": "26c6f3ffd9467739906d722b019b3d73",
+            "title": "Roman script for Kokborok: TSF blockade continues",
+            "link": "https://timesofindia.indiatimes.com/city/guwahati/roman-script-for-kokborok-tsf-blockade-continues/articleshow/119351800.cms",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-22 18:11:55",
+            "pubDateTZ": "UTC",
+            "image_url": "https://static.toiimg.com/thumb/msid-117620926,width-1070,height-580,imgsize-216016,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "source_id": "toi",
+            "source_priority": 239,
+            "source_name": "The Times Of India",
+            "source_url": "https://timesofindia.indiatimes.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/toi.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "world"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "a1a8f79870a8c7241292ed0a260e206c",
+            "title": "YMCR leads river clean-up initiative in Itanagar",
+            "link": "https://timesofindia.indiatimes.com/city/guwahati/ymcr-leads-river-clean-up-initiative-in-itanagar/articleshow/119351797.cms",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-22 18:11:54",
+            "pubDateTZ": "UTC",
+            "image_url": "https://static.toiimg.com/thumb/msid-119351792,width-1070,height-580,imgsize-101734,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "source_id": "toi",
+            "source_priority": 239,
+            "source_name": "The Times Of India",
+            "source_url": "https://timesofindia.indiatimes.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/toi.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "world"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "f3467e725fe77c56204e4642a7de4828",
+            "title": "Manipur children in relief camps caught in cauldron of uncertainty",
+            "link": "https://timesofindia.indiatimes.com/city/guwahati/manipur-children-in-relief-camps-caught-in-cauldron-of-uncertainty/articleshow/119351798.cms",
+            "keywords": null,
+            "creator": [
+                "Mukut Das"
+            ],
+            "video_url": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-22 18:11:54",
+            "pubDateTZ": "UTC",
+            "image_url": "https://static.toiimg.com/thumb/msid-117620917,width-1070,height-580,imgsize-96102,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "source_id": "toi",
+            "source_priority": 239,
+            "source_name": "The Times Of India",
+            "source_url": "https://timesofindia.indiatimes.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/toi.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "world"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "4f1aa1b206fffd636b088b1ae3ad1962",
+            "title": "पैरों में गिरा, कोहली को सीने से लगाया, सुरक्षा घेरा तोड़ मैदान में घुसा शख्स",
+            "link": "https://hindi.news18.com/cricket/virat-kohli-fan-breaches-security-to-touch-his-feet-during-kkr-rcb-ipl-2025-first-game-9120939.html",
+            "keywords": [
+                "क्रिकेट"
+            ],
+            "creator": [
+                "News18 Hindi"
+            ],
+            "video_url": null,
+            "description": "Virat Kohli: केकेआर और आरसीबी के बीच मुकाबले से आईपीएल 2025 की ईडन गार्डन्स स्टेडियम में शुरुआत हुई. मैच के दौरान एक ऐसा नजारा देखने को मिला. विराट कोहली की दीवानगी चरम पर थी. एक शख्स सुरक्षा घेरा तोड़कर मैदान पर बैटिंग कर रहे विराट कोहली के पैरों में जा गिरा. जिसके बाद सुरक्षाकर्मियों ने उसे ग्राउंड से बाहर किया. ऐसे में सवाल ये उठता है कि आखिर शख्स कैसे कोहली के पास बीच मैदान में पहुंच गया. सुरक्षा पर सवाल उठना लाजिमी है.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-22 18:11:51",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.news18.com/ibnkhabar/uploads/2025/03/virat-kohli-22-2025-03-6809bd0bd94ecfa8ca1de651ef92b187-3x2.jpg",
+            "source_id": "hindinews18",
+            "source_priority": 4077,
+            "source_name": "News 18 Hindi",
+            "source_url": "https://hindi.news18.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/hindinews18.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "sports"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "f8e398c1a5463ed992170087909a23d0",
+            "title": "Samastipur News:हजारों की संख्या में कोर्ट कर्मचारी की नियुक्ति की प्रक्रिया जारी : न्यायमूर्ति",
+            "link": "https://www.prabhatkhabar.com/state/bihar/samastipur/process-of-appointment-of-court-employees-continues",
+            "keywords": [
+                "samastipur news",
+                "samastipur"
+            ],
+            "creator": [
+                "PREM KUMAR"
+            ],
+            "video_url": null,
+            "description": "इस अवसर पर संघ भवन में पहुंचे न्यायमूर्ति श्री पांडेय को संघ के अध्यक्ष संजय कुमार, महासचिव वीरेंद्र कुमार वीरेंद्र समेत कई अधिवक्ताओं ने उन्हें पाग, फूल माला एवं कलम भेंट कर सम्मानित किया. The post Samastipur News:हजारों की संख्या में कोर्ट कर्मचारी की नियुक्ति की प्रक्रिया जारी : न्यायमूर्ति appeared first on Prabhat Khabar.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-22 18:11:50",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.prabhatkhabar.com/wp-content/uploads/2025/03/file_2025-03-23T00-55-56.jpeg",
+            "source_id": "prabhatkhabar",
+            "source_priority": 343253,
+            "source_name": "Prabhat Khabar",
+            "source_url": "https://www.prabhatkhabar.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/prabhatkhabar.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "5e1a622ad25db803f0b1bc93a6ceffa4",
+            "title": "'यूं ही नहीं कहते किंग...', विराट कोहली ने IPL में बना डाला एक और बड़ा रिकॉर्ड, ऐसा करने वाले बने पहले बल्लेबाज",
+            "link": "https://hindi.asianetnews.com/sports/cricket/virat-kohli-scored-1000-runs-against-4-teams-in-ipl-history-kkr-csk-mi-dc/articleshow-z09zklh",
+            "keywords": [
+                "cricket"
+            ],
+            "creator": [
+                "Shivansh Shekhar"
+            ],
+            "video_url": null,
+            "description": "Virat Kohli IPL 2025: इंडियन प्रीमियर लीग IPL 2025 के पहले मुकाबले में विराट कोहली ने 59 रनों की नाबाद पारी खेली और आरसीबी को 7 विकेट से जीत दिला दी। केकेआर के गेंदबाजों के सामने उनका बल्ला जमकर बोला और एक नया रिकॉर्ड बना दिया।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-22 18:11:49",
+            "pubDateTZ": "UTC",
+            "image_url": "https://static-gi.asianetnews.com/images/01jpzgrqrd6ay152w44t0a4drr/vk-18-1742667013901.jpg",
+            "source_id": "hindi_asianetnews",
+            "source_priority": 7805,
+            "source_name": "Asianet News Hindi",
+            "source_url": "https://hindi.asianetnews.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/hindi_asianetnews.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "dd08d8a58555ef5173e1888bc73b1fb1",
+            "title": "Mizoram govt not to ban growing of areca nuts: Min Lalthansanga",
+            "link": "https://timesofindia.indiatimes.com/city/guwahati/mizoram-govt-not-to-ban-growing-of-areca-nuts-min-lalthansanga/articleshow/119351789.cms",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-22 18:11:49",
+            "pubDateTZ": "UTC",
+            "image_url": "https://static.toiimg.com/thumb/msid-119351788,width-1070,height-580,imgsize-91834,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "source_id": "toi",
+            "source_priority": 239,
+            "source_name": "The Times Of India",
+            "source_url": "https://timesofindia.indiatimes.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/toi.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "world"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "655ba2e872a929efd61cbbfd4a48dea1",
+            "title": "BDA to hire agency for town planning scheme implementation",
+            "link": "https://timesofindia.indiatimes.com/city/bhubaneswar/bda-to-hire-agency-for-town-planning-scheme-implementation/articleshow/119351787.cms",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-22 18:11:48",
+            "pubDateTZ": "UTC",
+            "image_url": "https://static.toiimg.com/thumb/msid-119351785,imgsize-85378,width-400,height-225,resizemode-72/119351785.jpg",
+            "source_id": "toi",
+            "source_priority": 239,
+            "source_name": "The Times Of India",
+            "source_url": "https://timesofindia.indiatimes.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/toi.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "d16d2dc532249afb03ee8b5f29eb6e4b",
+            "title": "Centre approved 60cr for Siaha: Mizoram BJP",
+            "link": "https://timesofindia.indiatimes.com/city/guwahati/centre-approved-60cr-for-siaha-mizoram-bjp/articleshow/119351786.cms",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-22 18:11:47",
+            "pubDateTZ": "UTC",
+            "image_url": "https://static.toiimg.com/thumb/msid-119351784,imgsize-32078,width-400,height-225,resizemode-72/119351784.jpg",
+            "source_id": "toi",
+            "source_priority": 239,
+            "source_name": "The Times Of India",
+            "source_url": "https://timesofindia.indiatimes.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/toi.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "world"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "c05adeb6f6e654cbed2d7d0ea2e453f8",
+            "title": "Five special corridors established Prayagraj on int’l map of tourism",
+            "link": "https://timesofindia.indiatimes.com/city/allahabad/five-special-corridors-established-prayagraj-on-intl-map-of-tourism/articleshow/119351783.cms",
+            "keywords": null,
+            "creator": [
+                "Rajiv Mani"
+            ],
+            "video_url": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-22 18:11:43",
+            "pubDateTZ": "UTC",
+            "image_url": "https://static.toiimg.com/thumb/msid-119351781,imgsize-116462,width-400,height-225,resizemode-72/119351781.jpg",
+            "source_id": "toi",
+            "source_priority": 239,
+            "source_name": "The Times Of India",
+            "source_url": "https://timesofindia.indiatimes.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/toi.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "health"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "b6454046236cce427462e3f837e64991",
+            "title": "‘Transportation of corpses began from Sept 1’",
+            "link": "https://timesofindia.indiatimes.com/city/guwahati/transportation-of-corpses-began-from-sept-1/articleshow/119351777.cms",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-22 18:11:39",
+            "pubDateTZ": "UTC",
+            "image_url": "https://static.toiimg.com/thumb/msid-119351775,width-1070,height-580,imgsize-34020,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "source_id": "toi",
+            "source_priority": 239,
+            "source_name": "The Times Of India",
+            "source_url": "https://timesofindia.indiatimes.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/toi.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "world"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "fd3b111de4f87648cced87686362709b",
+            "title": "33 teachers dismissed from service overappointment irregularities in Gopalganj",
+            "link": "https://timesofindia.indiatimes.com/city/patna/33-teachers-dismissed-from-service-overappointment-irregularities-in-gopalganj/articleshow/119351770.cms",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-22 18:11:34",
+            "pubDateTZ": "UTC",
+            "image_url": "https://static.toiimg.com/thumb/msid-117595689,width-1070,height-580,imgsize-93546,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "source_id": "toi",
+            "source_priority": 239,
+            "source_name": "The Times Of India",
+            "source_url": "https://timesofindia.indiatimes.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/toi.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "0611b3b32622cf6e7d35768748937313",
+            "title": "BRC exhibition concludes in Danapur",
+            "link": "https://timesofindia.indiatimes.com/city/patna/brc-exhibition-concludes-in-danapur/articleshow/119351771.cms",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-22 18:11:34",
+            "pubDateTZ": "UTC",
+            "image_url": "https://static.toiimg.com/thumb/msid-117595688,imgsize-313056,width-400,height-225,resizemode-72/117595688.jpg",
+            "source_id": "toi",
+            "source_priority": 239,
+            "source_name": "The Times Of India",
+            "source_url": "https://timesofindia.indiatimes.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/toi.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "cd6ebbfef7a551079142ee6a54e6d81e",
+            "title": "After 80 days, ASF resurfaces in Mizoram",
+            "link": "https://timesofindia.indiatimes.com/city/guwahati/after-80-days-asf-resurfaces-in-mizoram/articleshow/119351773.cms",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-22 18:11:34",
+            "pubDateTZ": "UTC",
+            "image_url": "https://static.toiimg.com/thumb/msid-119351772,width-1070,height-580,imgsize-17318,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "source_id": "toi",
+            "source_priority": 239,
+            "source_name": "The Times Of India",
+            "source_url": "https://timesofindia.indiatimes.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/toi.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "world"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "a2ddb88fb504ccba783447f505bb5cb7",
+            "title": "ये राज्य करने जा रहा मेडिकल ऑफिसर के 5000+ पदों पर भर्तियां; जल्द शुरू होंगे आवेदन, नोट करके रख लें तारीखें",
+            "link": "https://zeenews.india.com/hindi/career/naukri/government-doctor-jobs-opsc-medical-officer-recruitment-2025-apply-for-5248-vacancies-from-march-25/2690525",
+            "keywords": null,
+            "creator": [
+                "Zee News Hindi"
+            ],
+            "video_url": null,
+            "description": "Medical Officer Jobs: मेडिकल ग्रेजुएट्स के पास सरकारी डॉक्टर बनने की बेहतरीन अपॉर्चुनिटी है. ओडिशा में मेडिकल ऑफिसर बनने की इच्छा रखने वाले उम्मीदवारों के लिए यह शानदार मौका है. अगर आप इच्छुक हैं, तो तैयारी शुरू कर दें और समय पर आवेदन करें.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-22 18:11:32",
+            "pubDateTZ": "UTC",
+            "image_url": "https://hindi.cdn.zeenews.com/hindi/sites/default/files/2025/03/22/3774635-dr-jobs-1.jpg?im=FitAndFill%3D%281200%2C900%29",
+            "source_id": "zeenews",
+            "source_priority": 5319,
+            "source_name": "Zee News",
+            "source_url": "http://zeenews.india.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/zeenews.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "e454592d656b4aa26464c975d0e8e01f",
+            "title": "Pedal Power: Kashmir hosts historic 2-week cycling challenge",
+            "link": "https://www.greaterkashmir.com/sports/pedal-power-kashmir-hosts-historic-2-week-cycling-challenge/",
+            "keywords": [
+                "today's paper",
+                "page 13",
+                "sports"
+            ],
+            "creator": [
+                "",
+                "GK NEWS SERVICE"
+            ],
+            "video_url": null,
+            "description": "The event was proudly sponsored by Meraki, a product of Nutritions, further highlighting the growing support for cycling and endurance sports in the regionThe post Pedal Power: Kashmir hosts historic 2-week cycling challenge appeared first on Greater Kashmir.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-22 18:11:31",
+            "pubDateTZ": "UTC",
+            "image_url": "https://greaterkashmir.imagibyte.sortdcdn.net/wp-content/uploads/2025/03/Screenshot-2025-03-22-at-11.38.00-PM.png",
+            "source_id": "greaterkashmir",
+            "source_priority": 101259,
+            "source_name": "Greater Kashmir",
+            "source_url": "https://www.greaterkashmir.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/greaterkashmir.jpg",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "sports"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "24c793003e43322971acfbc1625efef2",
+            "title": "दिमाग की ताकत को करें डबल! याददाश्त मजबूत करने के 4 आसान और असरदार उपाय",
+            "link": "https://zeenews.india.com/hindi/health/double-your-brain-power-4-easy-and-effective-ways-to-strengthen-memory/2690524",
+            "keywords": null,
+            "creator": [
+                "Zee News Hindi",
+                "Zee News हिन्दी"
+            ],
+            "video_url": null,
+            "description": "भागदौड़ भरी जिंदगी, तनाव, गलत खानपान और बढ़ती उम्र का असर सबसे पहले हमारे ब्रेन और याददाश्त पर पड़ता है. अक्सर लोग छोटी-छोटी बातें भूलने लगते हैं, जैसे चाबियां कहां रखीं, किसी का नाम या फिर मोबाइल नंबर.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-22 18:11:24",
+            "pubDateTZ": "UTC",
+            "image_url": "https://hindi.cdn.zeenews.com/hindi/sites/default/files/2025/03/22/3774633-brain-power.jpg?im=FitAndFill%3D%281200%2C900%29",
+            "source_id": "zeenews",
+            "source_priority": 5319,
+            "source_name": "Zee News",
+            "source_url": "http://zeenews.india.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/zeenews.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "health"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "e2f37edb64951dcc04025cc258c7dd4a",
+            "title": "India was aware of anti-Hasina wave but could not interfere, says Jaishankar",
+            "link": "https://www.thehindu.com/news/national/india-was-aware-of-anti-hasina-wave-but-could-not-interfere-says-jaishankar/article69362726.ece",
+            "keywords": [
+                "india"
+            ],
+            "creator": null,
+            "video_url": null,
+            "description": "EAM briefs Members of Parliament on India’s foreign policy with regard to Bangladesh, Myanmar, says ‘SAARC is not off the table’",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-22 18:11:11",
+            "pubDateTZ": "UTC",
+            "image_url": "https://th-i.thgim.com/public/incoming/q7iydw/article69130302.ece/alternates/LANDSCAPE_1200/2025-01-21T202117Z_1693161588_RC2KECAWXTRE_RTRMADP_3_USA-QUAD.JPG",
+            "source_id": "thehindu",
+            "source_priority": 2972,
+            "source_name": "The Hindu",
+            "source_url": "https://www.thehindu.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/thehindu.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "2e6fefcb310e16d0fb73b3966c6fbeda",
+            "title": "Nagpur violence: Curfew removed, relaxed in 10 out of 11 police station areas",
+            "link": "https://www.deccanherald.com/india/maharashtra/nagpur-violence-curfew-removed-relaxed-in-10-out-of-11-police-station-areas-3458424",
+            "keywords": null,
+            "creator": [
+                "PTI"
+            ],
+            "video_url": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-22 18:11:07",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.deccanherald.com/deccanherald%2F2025-03-18%2Feotlzsa3%2Ffile7ztexb44zrbef91tbx4.jpg?ar=40%3A21&auto=format%2Ccompress&mode=crop&ogImage=true&rect=0%2C20%2C1200%2C630&w=1200",
+            "source_id": "deccanherald",
+            "source_priority": 10080,
+            "source_name": "Deccan Herald",
+            "source_url": "https://www.deccanherald.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/deccanherald.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": true
+        },
+        {
             "article_id": "c40ad7fd0596dee3bd8b67f6125cb17b",
             "title": "Centre To Bring Single Job Portal to Ease Application Process for Govt Exam Aspirants, Details Inside",
             "link": "https://www.republicworld.com/india/centre-to-bring-single-job-portal-to-ease-application-process-for-govt-exam-aspirants-details-inside",
