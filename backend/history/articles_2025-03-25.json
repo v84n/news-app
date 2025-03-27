@@ -1,6 +1,267 @@
 {
     "articles": [
         {
+            "article_id": "6058fc64a68a4ba2de95be5105fedb02",
+            "title": "Depardieu on trial, and so is France. A cultural reckoning in the #MeToo era",
+            "link": "https://www.newindianexpress.com/world/2025/Mar/25/depardieu-on-trial-and-so-is-france-a-cultural-reckoning-in-the-metoo-era",
+            "keywords": [
+                "world",
+                "english"
+            ],
+            "creator": [
+                "Associated Press"
+            ],
+            "video_url": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-25 17:09:07",
+            "pubDateTZ": "UTC",
+            "image_url": "https://media.assettype.com/newindianexpress/2025-03-25/68hbdoih/Actor-Gerard-Depardieu.jpg",
+            "source_id": "newindianexpress",
+            "source_priority": 15406,
+            "source_name": "The New Indian Express",
+            "source_url": "https://www.newindianexpress.com/nation",
+            "source_icon": "https://i.bytvi.com/domain_icons/newindianexpress.jpg",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "world"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": true
+        },
+        {
+            "article_id": "d0db141d07ef3f24675f088ca27d6f8d",
+            "title": "पुतिन के फेर में फंस गए ट्रंप? काला सागर में सीजफायर पर सहमति जताते ही सौंप दी डिमांड लिस्ट",
+            "link": "https://www.livehindustan.com/international/trump-got-trapped-in-putin-trap-amid-agreed-on-ceasefire-in-black-sea-handed-over-list-of-demands-lifting-sanctions-201742922078453.html",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-25 17:09:04",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.livehindustan.com/lh-img/smart/img/2025/03/25/1200x900/trump_1737974912248_1742922312789.jpg",
+            "source_id": "livehindustan",
+            "source_priority": 127332,
+            "source_name": "Hindustan",
+            "source_url": "https://www.livehindustan.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/livehindustan.jpg",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "world"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "39e48548a5190c156de495d4be6c3b59",
+            "title": "50% से 90% तक अनुदान.. झारखंड सरकार की इस स्कीम से होगी बंपर कमाई! जानें डिटेल",
+            "link": "https://hindi.news18.com/news/jharkhand/godda-cm-pashudhan-yojana-farmers-can-earn-good-monthly-annual-income-with-50-to-90-percent-subsidy-strengthen-rural-economy-local18-9127934.html",
+            "keywords": [
+                "झारखंड"
+            ],
+            "creator": [
+                "News18 Hindi"
+            ],
+            "video_url": null,
+            "description": "Jharkhand Government Scheme: मुख्यमंत्री पशुधन योजना के तहत झारखंड के किसान और पशुपालक 50% से 90% तक अनुदान प्राप्त कर सकते हैं. यह योजना पशुपालन को बढ़ावा देकर ग्रामीण अर्थव्यवस्था को मजबूत करती है. आवेदन पशुपालन विभाग कार्यालय में किया जा सकता है, जिससे पशुपालक अच्छी मासिक और वार्षिक आय अर्जित कर सकते हैं.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-25 17:08:57",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.news18.com/ibnkhabar/uploads/2025/03/HYP_5061303_cropped_25032025_190812_goat_farmingsixteen_nine_w_1-3x2.jpg",
+            "source_id": "hindinews18",
+            "source_priority": 4077,
+            "source_name": "News 18 Hindi",
+            "source_url": "https://hindi.news18.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/hindinews18.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "1690a9ca5fea91ac15176fb6054de015",
+            "title": "Canada alleges India's interference in the nation's general election",
+            "link": "https://www.deccanchronicle.com/nation/politics/canada-alleges-indias-interference-in-the-nations-general-election-1868988",
+            "keywords": [
+                "nation,politics,news,politics"
+            ],
+            "creator": [
+                "DC Correspondent"
+            ],
+            "video_url": null,
+            "description": "Canada has once again hurled an allegation of likely interference by India in the Canadian general election that is expected to take place next month.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-25 17:08:54",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.deccanchronicle.com/h-upload/2025/03/25/1901639-canadaelections.webp",
+            "source_id": "deccanchronicle",
+            "source_priority": 14130,
+            "source_name": "Deccan Chronicle",
+            "source_url": "https://www.deccanchronicle.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/deccanchronicle.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": true
+        },
+        {
+            "article_id": "1e0ca8fd58c15924986a2914f971fefe",
+            "title": "MLA Local Area Development Funds discretionary grants not stopped Himachal CM tells House",
+            "link": "https://www.theweek.in/wire-updates/national/2025/03/25/des102-hp-assembly-mla-ladf.html",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "Shimla, Mar 25 (PTI) The MLAs Local Area Development Funds and discretionary grants have not been stopped and no instructions",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-25 17:08:46",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.theweek.in/content/dam/week/wire-updates/pti-preview-theweek.jpg",
+            "source_id": "theweek_in",
+            "source_priority": 26911,
+            "source_name": "The Week",
+            "source_url": "https://www.theweek.in",
+            "source_icon": "https://i.bytvi.com/domain_icons/theweek_in.jpg",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "world"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "acd52a560ee74e9c85e6d653bc3681c7",
+            "title": "UP Four of family killed after speeding Uttarakhand roadways bus hits their motorcycle",
+            "link": "https://www.theweek.in/wire-updates/national/2025/03/25/nrg17-up-family-accident.html",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "Lakhimpur Kheri (UP), Mar 25 (PTI) Four members of a family were killed and a 4-year-old girl suffered injuries",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-25 17:08:46",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.theweek.in/content/dam/week/wire-updates/pti-preview-theweek.jpg",
+            "source_id": "theweek_in",
+            "source_priority": 26911,
+            "source_name": "The Week",
+            "source_url": "https://www.theweek.in",
+            "source_icon": "https://i.bytvi.com/domain_icons/theweek_in.jpg",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "world"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "d836c8c7f24ca2bd6e53e69ae3711fdc",
+            "title": "Traders body welcomes new industrial policy",
+            "link": "https://www.theweek.in/wire-updates/business/2025/03/25/dcm123-dl-budget-traders-reax.html",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "New Delhi, Mar 25 (PTI) A section of traders on Tuesday welcomed the Delhi government's new industrial policy, announced in",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-25 17:08:45",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.theweek.in/content/dam/week/wire-updates/pti-preview-theweek.jpg",
+            "source_id": "theweek_in",
+            "source_priority": 26911,
+            "source_name": "The Week",
+            "source_url": "https://www.theweek.in",
+            "source_icon": "https://i.bytvi.com/domain_icons/theweek_in.jpg",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "business"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "814ee86f27583ab214dd6a51dcdacb81",
+            "title": "Telecom dept rejects Trai views on infra sharing by service providers backed by public fund",
+            "link": "https://www.theweek.in/wire-updates/business/2025/03/25/dcm124-biz-trai-dot.html",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "New Delhi, Mar 25 (PTI) The Department of Telecom has rejected Trai views on passive infrastructure sharing by service providers",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-25 17:08:43",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.theweek.in/content/dam/week/wire-updates/pti-preview-theweek.jpg",
+            "source_id": "theweek_in",
+            "source_priority": 26911,
+            "source_name": "The Week",
+            "source_url": "https://www.theweek.in",
+            "source_icon": "https://i.bytvi.com/domain_icons/theweek_in.jpg",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "business"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
             "article_id": "cfbc7713d109922b40d5df9c4b2c4c67",
             "title": "New Income Tax Bill to be introduced in monsoon session, says FM Sitharaman",
             "link": "http://www.en.etemaaddaily.com/world/national/new-income-tax-bill-to-be-introduced-in-monsoon-session-says-fm-sitharaman:172633",
