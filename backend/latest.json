@@ -1,6 +1,664 @@
 {
     "articles": [
         {
+            "article_id": "72ba2565c4bc0c6fd6898b7d9ce798b8",
+            "title": "Trump says US will charge 25% tariff on all cars not made in the US",
+            "link": "https://www.deccanherald.com/world/trump-says-us-will-charge-25-tariff-on-all-cars-not-made-in-the-us-2-3464708",
+            "keywords": null,
+            "creator": [
+                "Reuters"
+            ],
+            "video_url": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-27 00:18:00",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.deccanherald.com/deccanherald%2F2025-03-27%2Fv1zhmnqj%2F2025newsmlRC2ALDA577B91056846204.jpeg?ar=40%3A21&auto=format%2Ccompress&mode=crop&ogImage=true&rect=0%2C0%2C3500%2C1838&w=1200",
+            "source_id": "deccanherald",
+            "source_priority": 10080,
+            "source_name": "Deccan Herald",
+            "source_url": "https://www.deccanherald.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/deccanherald.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": true
+        },
+        {
+            "article_id": "2099c7405e10365a60677b04073f3fdf",
+            "title": "Selena Gomez talks about body shaming and its impact on her",
+            "link": "https://www.tribuneindia.com/news/lifestyle/selena-gomez-opens-up-about-body-shaming-and-its-impact-on-her",
+            "keywords": null,
+            "creator": [
+                "ANI"
+            ],
+            "video_url": null,
+            "description": "Selena Gomez has spoken about the negative impact of body shaming, revealing that comments about her weight make her feel ‘a tad bitter’. In a recent appearance on the On Purpose with Jay Shetty Podcast, Gomez shared her frustrations about the constant scrutiny she faces regarding her appearance. “Everyone has something to say,” she said, [...]",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-27 00:17:53",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/webp/medium/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWVmZGE2ZDgwLTBhYTAtMTFmMC05YTQ0LTIxMTA4MTFlOTA5YS5qcGc%3D",
+            "source_id": "tribuneindia",
+            "source_priority": 15316,
+            "source_name": "The Tribune India",
+            "source_url": "https://www.tribuneindia.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/tribuneindia.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "entertainment"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "4a96ecde232e41147bb1e312a23c8eed",
+            "title": "कुंभ राशिफल 27 मार्च : कुंभ राशि वालों के लिए कैसा रहेगा 27 मार्च का दिन? पढ़ें विस्तृत राशिफल",
+            "link": "https://www.livehindustan.com/astrology/aquarius-horoscope-today-kumbh-rashifal-27-march-2025-daily-future-prediction-201743034169878.html",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-27 00:17:02",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.livehindustan.com/lh-img/smart/img/2025/03/27/1200x900/aaj_ka_kumbh_rashifal_1727049840038_1743034254504.jpeg",
+            "source_id": "livehindustan",
+            "source_priority": 127332,
+            "source_name": "Hindustan",
+            "source_url": "https://www.livehindustan.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/livehindustan.jpg",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "other"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "2ddf5fb8b20f6ca19424d0fd5610ed2f",
+            "title": "Mandi News: मानसी और अनिल ने जीती मैराथन दौड़",
+            "link": "https://www.amarujala.com/himachal-pradesh/mandi/mansi-and-anil-won-the-marathon-race-mandi-news-c-90-1-mnd1001-151600-2025-03-26",
+            "keywords": null,
+            "creator": [
+                "संवाद न्यूज एजेंसी, मंडी"
+            ],
+            "video_url": null,
+            "description": "राज्य स्तरीय नलवाड़ किसान मेले के तहत नशा मुक्त सुंदरनगर थीम पर विशेष मैराथन दौड़ आयोजित की गई।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-27 00:17:01",
+            "pubDateTZ": "UTC",
+            "image_url": "https://staticimg.amarujala.com/assets/images/4cplus/2025/03/26/rajaya-sataraya-nalvaugdha-kasana-mal-ka-tharana-marathana-thaugdha-ka-vajata-ka-samamanata-karata-makhaya-atatha-sava_c7d343ed6b573c9b9ab6061e71b2cc77.jpeg?dpr=1.0&q=80&w=414",
+            "source_id": "amarujala",
+            "source_priority": 55215,
+            "source_name": "Amar Ujala",
+            "source_url": "https://www.amarujala.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/amarujala.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "2354270942ef072e4a4237510654b419",
+            "title": "Rajasthan Weather Update: राजस्थान में 41 के पार पहुंचा, जैसेलेमर में होने लगा भीषण लू का एहसास, जानें अपने शहर के मौसम का हाल",
+            "link": "https://zeenews.india.com/hindi/india/rajasthan/jaipur/rajasthan-weather-update-27-march-heatwave-in-jaiselmer-new-western-disturbance-rain-alert-in-these-districts/2695676",
+            "keywords": null,
+            "creator": [
+                "Zee News Hindi"
+            ],
+            "video_url": null,
+            "description": "Rajasthan Weather Update: \"राजस्थान में भीषण गर्मी का सितम! बाड़मेर में तापमान 40.2°C तक पहुंच गया. लेकिन मौसम विभाग की मानें तो 27-28 मार्च को पश्चिमी विक्षोभ के सक्रिय होने से कुछ हिस्सों में हल्की बारिश और हवाएं चलने की संभावना है.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-27 00:16:56",
+            "pubDateTZ": "UTC",
+            "image_url": "https://hindi.cdn.zeenews.com/hindi/sites/default/files/2025/03/27/3786766-bullcart-2025-03-27t054609.162.png?im=FitAndFill%3D%281200%2C900%29",
+            "source_id": "zeenews",
+            "source_priority": 5319,
+            "source_name": "Zee News",
+            "source_url": "http://zeenews.india.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/zeenews.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "25de79cc2f9818f43630b0a3d32f12e9",
+            "title": "मुख्यमंत्री साय ने उद्योगपतियों से की वन-टू-वन बात:टेक्सटाइल हब बनेगा छत्तीसगढ़, गांव-गांव में जैविक उत्पाद और पराली से हरित ईंधन, ग्रीन एनर्जी में भी निवेश",
+            "link": "https://www.bhaskar.com/local/chhattisgarh/raipur/news/chief-minister-sai-had-one-to-one-talks-with-industrialists-134717297.html",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "बेंगलुरू में इन्वेस्टर्स कनेक्ट मीट में मुख्यमंत्री विष्णुदेव साय के साथ कई उद्योगपतियों ने वन-टू-वन बात की। साय के साथ इंडिया इलेक्ट्रॉनिक्स और सेमिकंडक्टर एसोसिएशन के अध्यक्ष अशोक चांडक व प्रतिनिधियों ने राउंड टेबल बैठक की। उन्होंने इलेक्ट्रॉनिक्स और सेमी-कंडक्टर सेक्टर में निवेश की संभावनाओं पर चर्चा हुई। आईईएसए अध्यक्ष ने छत्तीसगढ़ में सेमी-कंडक्टर और इलेक्ट्रॉनिक्स मैन्युफैक्चरिंग को लेकर रुचि जताई और इस क्षेत्र में संभावित निवेश की रूचि दिखाई। इंडस्ट्रियल क्लस्टर, स्किल डेवलपमेंट और लॉजिस्टिक्स जैसे अहम मुद्दों पर भी चर्चा हुई। छत्तीसगढ़ में हरित ईंधन के क्षेत्र में निवेश को लेकर उद्योग जगत की दिलचस्पी बढ़ रही है। मुख्यमंत्री को जीपीआरएस आर्या प्रा. लि. के दीपक बताया कि उनकी कंपनी राज्य में पराली से कंपोस्ड बायोगैस बनाने काम कर रही है। कई जिलों में इसके प्लांट लगाने की योजना है। इससे किसानों को फसल अवशेषों से अतिरिक्त आमदनी मिलेगी। प्रदूषण में भी कमी आएगी। कंपनी ने हाल ही में बेमेतरा जिले में इंडियन ऑयल के साथ मिलकर प्लांट लगाया है, जो अब पूरी तरह से कार्य करने की दिशा में है। बायोडिग्रेडेबल बनाने वाली कंपनी क्लेन पाक्स ने छत्तीसगढ़ में उद्योगों के विस्तार की योजना बनाई है। कंपनी के प्रमुख विमल सिपानी ने मुख्यमंत्री से मुलाकात कर टेक्सटाइल उद्योग लगाने और ग्रामीण क्षेत्रों में जैविक उत्पाद बनाने की इच्छा जताई। टेक्सटाइल में पुनीत क्रिएशन का बड़ा निवेश प्रदेश में टेक्सटाइल उद्योग को बढ़ावा देने के लिए पुनीत क्रिएशन के प्रमुख उद्योगपति मनोज अग्रवाल ने साय से मुलाकात कर छत्तीसगढ़ को टेक्सटाइल हब के रूप में विकसित करने की संभावनाओं पर चर्चा की। उन्होंने बड़े निवेश की इच्छा जताई है।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-27 00:16:42",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.bhaskarassets.com/thumb/1000x1000/web2images/521/2025/03/27/orig_98-1_1743034601.jpg",
+            "source_id": "bhaskar_hindi",
+            "source_priority": 34179,
+            "source_name": "Bhaskar",
+            "source_url": "https://www.bhaskar.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/bhaskar_hindi.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "domestic",
+                "other"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "b61e4cdc64cf8aca5c0bd7d8b20dccaf",
+            "title": "PF withdrawals of less than 1L via UPI soon",
+            "link": "https://timesofindia.indiatimes.com/india/pf-withdrawals-of-less-than-1l-via-upi-soon/articleshow/119564796.cms",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-27 00:16:39",
+            "pubDateTZ": "UTC",
+            "image_url": "https://static.toiimg.com/thumb/msid-119564758,imgsize-19832,width-400,resizemode-4/119564758.jpg",
+            "source_id": "toi",
+            "source_priority": 239,
+            "source_name": "The Times Of India",
+            "source_url": "https://timesofindia.indiatimes.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/toi.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "food"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "eab2369081c3b4e3d7352f98a94f1239",
+            "title": "दिल्ली में धूलभरी हवाओं का कहर, 8 राज्यों में बारिश, IMD का साइक्लोन अलर्ट",
+            "link": "https://hindi.news18.com/news/nation/cyclone-alert-heavy-rain-in-8-state-delhi-ncr-temperature-rises-imd-alert-weather-news-report-up-bihar-ka-mausam-9130859.html",
+            "keywords": [
+                "देश"
+            ],
+            "creator": [
+                "News18 Hindi"
+            ],
+            "video_url": null,
+            "description": "Cyclone Alert: वैसे मार्च में तो मौसम में तेवर दिखाने शुरू कर दिए, दिन तो छोड़िए रात का ऐसा हाल हो गया है कि पंखे के नीचे लोगों को चैन नहीं. रात का पारा 23-24 डिग्री सेल्सियस तक पहुंच गया है तो दिन भी 39 डिग्री सेल्सियस पर ताप रहा है. चलिए जानते हैं आज के मौसम का हाल.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-27 00:16:06",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.news18.com/ibnkhabar/uploads/2025/03/mausam-news-delhi-pti-2025-03-fd28905e63ac440b12307bab094bd433-3x2.jpg",
+            "source_id": "hindinews18",
+            "source_priority": 4077,
+            "source_name": "News 18 Hindi",
+            "source_url": "https://hindi.news18.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/hindinews18.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "ae0ef1a70cb841da84135e54b0fb6bc2",
+            "title": "फिर 97 रन... लगातार दूसरे दिन बल्लेबाज शतक के करीब पहुंच अटका",
+            "link": "https://hindi.news18.com/cricket/ipl-2025-quinton-de-kock-after-shreyas-iyer-misses-century-remains-unbeaten-on-97-runs-against-rajasthan-royals-9130750.html",
+            "keywords": [
+                "क्रिकेट"
+            ],
+            "creator": [
+                "News18 Hindi"
+            ],
+            "video_url": null,
+            "description": "इंडियन प्रीमियर लीग 2025 में लगातार दूसरे दिन ऐसा हुआ जब बल्लेबाज शतक के करीब पहुंचा लेकिन वो इसे पूरा नहीं कर पाया. पहले पंजाब किंग्स के बल्लेबाज श्रेयस अय्यर और अब क्विंटन डि कॉक के साथ ऐसा हुआ. कमाल की बात यह कि दोनों ही बल्लेबाज 97 रन पर ही नाबाद लौटे.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-27 00:16:04",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.news18.com/ibnkhabar/uploads/2025/03/Quinton-de-Kock-2025-03-8a01d2cac790844aa4f3d87886825b34-3x2.jpg",
+            "source_id": "hindinews18",
+            "source_priority": 4077,
+            "source_name": "News 18 Hindi",
+            "source_url": "https://hindi.news18.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/hindinews18.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "sports"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "ee402e13414faf84dd2fc59995be1c17",
+            "title": "औरैया की कातिल दुल्हन: पति दिलीप ने संजोए थे ख्वाब, खाटू श्याम के दर्शन के बाद हनीमून पर जाने की थी प्लानिंग",
+            "link": "https://www.amarujala.com/photo-gallery/uttar-pradesh/kanpur/auraiya-murder-case-after-visiting-khatu-shyam-there-were-plans-to-go-on-honeymoon-2025-03-26",
+            "keywords": null,
+            "creator": [
+                "amarujala.com"
+            ],
+            "video_url": null,
+            "description": "उत्तर प्रदेश के औरैया में हाइड्रा चालक कारोबारी दिलीप यादव की हत्या मामले में नई-नई बातें सामने आ रही हैं।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-27 00:16:02",
+            "pubDateTZ": "UTC",
+            "image_url": "https://staticimg.amarujala.com/assets/images/2025/03/26/auraiya-murder_9af9e490129bb5b880697d4d01cc1a1c.jpeg?dpr=1.0&w=750",
+            "source_id": "amarujala",
+            "source_priority": 55215,
+            "source_name": "Amar Ujala",
+            "source_url": "https://www.amarujala.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/amarujala.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "7f6d16693381ac623d377318acb24042",
+            "title": "Delhi tree census will take four years, Supreme Court informed",
+            "link": "https://www.hindustantimes.com/cities/delhi-news/delhi-tree-census-will-take-four-years-supreme-court-informed-101743013131753.html",
+            "keywords": [
+                "latest"
+            ],
+            "creator": null,
+            "video_url": null,
+            "description": "It will take four years to increase Delhi’s green cover to 33% of its total land area, Dehradun-based Forest Research Institute said",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-27 00:16:01",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.hindustantimes.com/ht-img/img/2025/03/26/1600x900/The-top-court-bench-headed-by-justice-Abhay-S-Oka-_1743013128259.jpg",
+            "source_id": "hindustantimes",
+            "source_priority": 933,
+            "source_name": "Hindustan Times",
+            "source_url": "http://www.hindustantimes.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/hindustantimes.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "4028016b4bf130a5a76b7385ffad6185",
+            "title": "Cut retail pie in large IPOs: Investment banks to Sebi",
+            "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/cut-retail-pie-in-large-ipos-investment-banks-to-sebi/articleshow/119564754.cms",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "Companies such as Tata Capital, LG Electronics India, HDB Financials, ICICI Prudential AMC, Lenskart, Manipal Hospital, PhonePe, among others, are planning IPOs of size of over $1 billion.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-27 00:15:46",
+            "pubDateTZ": "UTC",
+            "image_url": "https://img.etimg.com/thumb/msid-119564837,width-1200,height-630,imgsize-143470,overlay-etmarkets/articleshow.jpg",
+            "source_id": "economictimes_indiatimes",
+            "source_priority": 231,
+            "source_name": "The Economic Times",
+            "source_url": "https://economictimes.indiatimes.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/economictimes_indiatimes.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "business"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "836660ff4752cd770fddcc0b70c62712",
+            "title": "Ben Affleck opens up about divorce with Jennifer Lopez",
+            "link": "https://www.tribuneindia.com/news/lifestyle/ben-affleck-opens-up-about-divorce-with-jennifer-lopez",
+            "keywords": null,
+            "creator": [
+                "ANI"
+            ],
+            "video_url": null,
+            "description": "Ben Affleck has opened up about his divorce from Jennifer Lopez, praising his ex-wife for her ability to handle the spotlight with ease. In an interview, Affleck reflected on the differences in personality between him and Lopez, saying that she has ‘handled celebrity status more adeptly and more adroitly’ than he has. “My temperament is [...]",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-27 00:15:44",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/webp/medium/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWEzZjNlMmMwLTBhYTAtMTFmMC05YTQ0LTIxMTA4MTFlOTA5YS5qcGc%3D",
+            "source_id": "tribuneindia",
+            "source_priority": 15316,
+            "source_name": "The Tribune India",
+            "source_url": "https://www.tribuneindia.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/tribuneindia.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "entertainment"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "154ce94f7b0e889c7d0e3930a2b37938",
+            "title": "Opening act: On World Theatre Day, stars recollect their first play on stage",
+            "link": "https://www.tribuneindia.com/news/lifestyle/opening-act-on-world-theatre-day-stars-recollect-their-first-play-on-stage",
+            "keywords": null,
+            "creator": [
+                "Dharam Pal"
+            ],
+            "video_url": null,
+            "description": "For them, it all began with their first act on stage that laid the foundation. It is theatre that has paved the way for some of Bollywood’s finest actors, shaping their craft and bolstering their confidence to own the big screen. On World Theatre Day, stars recollect moments when they stepped on to the stage [...]",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-27 00:15:44",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/webp/medium/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWE3ZWE0YTQwLTBhYTAtMTFmMC05YTQ0LTIxMTA4MTFlOTA5YS5qcGc%3D",
+            "source_id": "tribuneindia",
+            "source_priority": 15316,
+            "source_name": "The Tribune India",
+            "source_url": "https://www.tribuneindia.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/tribuneindia.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "entertainment"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "b4b942d58543072e3f7921bb1b999c68",
+            "title": "27 March ka Kark Tarot Card: कर्क राशि वाले व्यक्तिगत संबंधों को निभाने में आगे रहेंगे, मिलेगी खुशी",
+            "link": "https://www.tv9hindi.com/religion/rashiphal/today-cancer-tarot-card-reading-27-march-2025-thursday-tarot-prediction-horoscope-in-hindi-3196269.html",
+            "keywords": null,
+            "creator": [
+                "Arunesh Kumar"
+            ],
+            "video_url": null,
+            "description": "Daily Tarot Card Prediction : कर्क राशि वालों की अनिश्चितता बनी रह सकती है. विविध प्रयासों में धैर्य बनाए रखें. संस्थागत गतिविधियों में प्रभावी रहेंगे. अपनी भूमिका बखूबी निभाएं.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-27 00:15:38",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.tv9hindi.com/wp-content/uploads/2025/01/tarot-card-9.jpeg",
+            "source_id": "tv9bharatvarsh",
+            "source_priority": 40538658,
+            "source_name": "Tv9 Bharatvarsh",
+            "source_url": "https://www.tv9hindi.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/tv9bharatvarsh.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "other"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "baa1625e7eff01f44af5ea01af66280e",
+            "title": "Mumbai Weather Forecast Today, March 27, 2025: Hot and Dry with High Humidity",
+            "link": "https://www.moneycontrol.com/travel/mumbai-weather-forecast-today-march-27-2025-hot-and-dry-with-high-humidity-article-12976781.html",
+            "keywords": [
+                "mumbai weather today, mumbai temperature update, mumbai weather forecast, mumbai climate report, mumbai weather conditions"
+            ],
+            "creator": [
+                "Moneycontrol"
+            ],
+            "video_url": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-27 00:15:10",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.moneycontrol.com/static-mcnews/2025/03/20250307183839_3.jpg",
+            "source_id": "moneycontrol",
+            "source_priority": 1064,
+            "source_name": "Moneycontrol",
+            "source_url": "https://www.moneycontrol.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/moneycontrol.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top",
+                "business",
+                "world",
+                "politics"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "9bc1524b19a8cd88f5012ab2c005f16d",
+            "title": "फाफ डू प्लेसी नामीबिया के नए कप्तान, 28 मार्च को नाइजीरिया से खेलेंगे पहला मैच",
+            "link": "https://hindi.news18.com/cricket/faf-du-plessis-becomes-namibia-cricket-captain-for-u19-world-cup-qualifier-9130432.html",
+            "keywords": [
+                "क्रिकेट"
+            ],
+            "creator": [
+                "News18 Hindi"
+            ],
+            "video_url": null,
+            "description": "दक्षिण अफ्रीकी स्टार फाफ डू प्लेसी आईपीएल में दिल्ली कैपिटल्स के उप कप्तान हैं. नामीबिया के 17 वर्षीय फाफ डू प्लेसी अंडर-19 टीम के कप्तान हैं.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-27 00:15:09",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.news18.com/ibnkhabar/uploads/2025/03/faf-du-plesis-11.jpg-C-2025-03-1d0b650d80f28a5ded34e696e06da3bf-3x2.jpg",
+            "source_id": "hindinews18",
+            "source_priority": 4077,
+            "source_name": "News 18 Hindi",
+            "source_url": "https://hindi.news18.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/hindinews18.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "sports"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "905cf6c055f40e50ca90f016baf9dc9a",
+            "title": "Stock to buy today: Market experts recommend these eight stocks for 27 March",
+            "link": "https://www.livemint.com/market/stock-market-news/top-stocks-to-buy-today-best-stocks-to-buy-today-stock-recommendations-27-march-sensex-nifty-nifty-bank-stocks-11742999048565.html",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "Stock picks: Discover the top stocks recommended by Raja Venkataraman, MarketSmith India, and Ankush Bajaj for 27 March.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-27 00:15:01",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.livemint.com/lm-img/img/2025/03/26/1600x900/stock_1718111340363_1742999268289.jpg",
+            "source_id": "livemint",
+            "source_priority": 7134,
+            "source_name": "Mint",
+            "source_url": "https://www.livemint.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/livemint.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "business"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "513723a8e715cb1483549ec397127f31",
+            "title": "Best stock recommendations for 27 March by MarketSmith India",
+            "link": "https://www.livemint.com/market/stock-market-news/best-stock-recommendations-for-today-marketsmith-india-stock-recommendations-27-march-stocks-to-buy-today-sensex-nifty-11742989333089.html",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "Stocks to trade: MarketSmith India recommends these stocks to buy today - 27 March",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-27 00:15:01",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.livemint.com/lm-img/img/2025/03/26/1600x900/MS_1742990430715_1742990442966.png",
+            "source_id": "livemint",
+            "source_priority": 7134,
+            "source_name": "Mint",
+            "source_url": "https://www.livemint.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/livemint.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "business"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "5f9e5e23a8141c41d040f3da346e0bde",
+            "title": "Aaj Ka Panchang, March 27, 2025: Masik Shivratri Chaturdashi Tithi, Today’s Festival, Tithi Today, Shubh Muhurat, Rahu Kaal Today",
+            "link": "https://timesofindia.indiatimes.com/astrology/others/aaj-ka-panchang-march-27-2025-masik-shivratri-chaturdashi-tithi-todays-festival-tithi-today-shubh-muhurat-rahu-kaal-today/articleshow/119536618.cms",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "Masik Shivaratri, occurring on March 27, 2025, encourages spiritual reflection and renewal through fasting, prayers, and chanting. Devotees engage in rituals like Shiva Linga Abhishekam and recite sacred mantras, aiming for spiritual purification and divine connection with Lord Shiva while abstaining from material distractions and maintaining purity.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-27 00:15:00",
+            "pubDateTZ": "UTC",
+            "image_url": "https://static.toiimg.com/thumb/msid-119536961,imgsize-105006,width-400,resizemode-4/119536961.jpg",
+            "source_id": "toi",
+            "source_priority": 239,
+            "source_name": "The Times Of India",
+            "source_url": "https://timesofindia.indiatimes.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/toi.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "technology"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
             "article_id": "2a7d948dea04d29ae5a2fec2dc5b846b",
             "title": "कागजी फायर ऑडिट...:पिछले साल 300 नोटिस, 50% के जवाब नहीं मिले, फिर ऑडिट की तैयारी",
             "link": "https://www.bhaskar.com/local/mp/bhopal/news/300-notices-last-year-50-of-them-were-not-answered-preparations-for-audit-again-134716847.html",
@@ -22814,73 +23472,6 @@
             ],
             "category": [
                 "business"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "a1b4c16994e4416c962d6838cc8e8fe8",
-            "title": "Budget Session 2025:J&K Assembly passes Appropriation Bills, GST Amendment Bill",
-            "link": "https://kashmirreader.com/2025/03/25/budget-session-2025jk-assembly-passes-appropriation-bills-gst-amendment-bill/",
-            "keywords": [
-                "latest"
-            ],
-            "creator": [
-                "Reader correspondent"
-            ],
-            "video_url": null,
-            "description": "Jammu: The Jammu & Kashmir Legislative Assembly today passed two Appropriation Bills, authorizing withdrawal of funds from the Union Territory’s Consolidated Fund for the financial years 2024-25 and 2025-26. The Appropriation Bill for the financial year 2024-25 (L.A. Bill No. 2 of 2025) and the Appropriation Bill for 2025-26 (L.A. Bill No. [...]",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-03-25 11:08:53",
-            "pubDateTZ": "UTC",
-            "image_url": null,
-            "source_id": "kashmirreader",
-            "source_priority": 1088812,
-            "source_name": "Kashmir Reader",
-            "source_url": "https://kashmirreader.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/kashmirreader.jpg",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "2636813d988e207f2914440acff4d04b",
-            "title": "राणा सांगा पर सपा सांसद की टिप्पणी, जालोर में प्रदर्शन:VHP ने कलेक्ट्रेट पर नारेबाजी की; राष्ट्रपति के नाम कलेक्टर को सौंपा ज्ञापन",
-            "link": "https://www.bhaskar.com/local/rajasthan/jalore/news/vishwa-hindu-parishad-protests-against-the-insult-of-rana-sanga-134706802.html",
-            "keywords": null,
-            "creator": null,
-            "video_url": null,
-            "description": "राणा सांगा पर सपा सांसद रामजीलाल सुमन की टिप्पणी का विरोध थमने का नाम नहीं ले रहा है। जालोर में विश्व हिंदू परिषद(VHP) के कार्यकर्ताओं ने विरोध प्रदर्शन किया और सपा सांसद का पुतला जलाया। इस दौरान राष्ट्रपति के नाम कलेक्टर को ज्ञापन भी सौंपा गया। परिषद के प्रमुख धर्म प्रसारक प्रवीण सिंह नाथावत ने बताया कि तीन दिन पहले संसद में सपा सांसद रामजीलाल सुमन के द्वारा वीर शिरोमणि राणा संग्राम सिंह के संबंध में आपत्तिजनक, असत्य और अपमानजनक बयान दिया गया। यह न केवल राजस्थान के गौरवशाली इतिहास का अपमान है, बल्कि इससे संपूर्ण हिन्दू समाज और देशभक्तों की भावनाओं को गहरी ठेस पहुंची है। इससे नाराज विश्व हिन्दू परिषद और बजरंग दल सहित विभिन्न हिन्दू संगठनों ने मंगलवार को जालोर जिला कलेक्ट्रेट के सामने रामजीलाल का पुतला जलाकर रामजीलाल के खिलाफ नारेबाजी की। इसके बाद राष्ट्रपति के नाम जालोर जिला कलेक्टर डॉ प्रदीप के गवांडे को ज्ञापन सौंपा गया। जिसमें सांसद रामजीलाल सुमन की लोकसभा सदस्यता तत्काल प्रभाव से समाप्त करने, उनके खिलाफ देश के वीर महापुरुषों का अपमान करने पर कार्यवाही करने, भविष्य में कोई भी जन प्रतिनिधि इस प्रकार की भ्रामक और अपमानजनक टिप्पणी न करें, इसके लिए कडे कानून बनाने की मांग की। प्रदर्शन के दौरान विश्व हिन्दू परिषद परिषद के जिला अध्यक्ष दिनेश जीनगर, जिला सह मंत्री रतनसिंह, धर्म प्रचार नगर अध्यक्ष ओटाराम, मुकेश, जालाराम राणा, गोविन्द कुमार, महेन्द्र कुमार, बंशीलाल व रघुनन्दन दवे सहित बड़ी संख्या में हिन्दू समाज के लोग मौजूद रहे।",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-03-25 11:08:52",
-            "pubDateTZ": "UTC",
-            "image_url": "https://images.bhaskarassets.com/thumb/1000x1000/web2images/521/2025/03/25/whatsapp-image-2025-03-25-at-161714666fbbfc_1742900104.jpg",
-            "source_id": "bhaskar_hindi",
-            "source_priority": 34179,
-            "source_name": "Bhaskar",
-            "source_url": "https://www.bhaskar.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/bhaskar_hindi.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "domestic",
-                "other"
             ],
             "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
             "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
