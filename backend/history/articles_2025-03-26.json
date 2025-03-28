@@ -1,6 +1,665 @@
 {
     "articles": [
         {
+            "article_id": "99f62af5fb3208ef161b62cd3363b403",
+            "title": "BREAKING: UPI Outage Hits India: PhonePe, Paytm Users Face Payment Disruptions",
+            "link": "https://zeenews.india.com/technology/breaking-upi-outage-hits-india-phonepe-paytm-users-face-payment-disruptions-2877780.html",
+            "keywords": null,
+            "creator": [
+                "Zee News"
+            ],
+            "video_url": null,
+            "description": "Popular platforms like PhonePe and Paytm stopped working, leaving many unable to complete payments.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-26 14:19:00",
+            "pubDateTZ": "UTC",
+            "image_url": "https://english.cdn.zeenews.com/sites/default/files/styles/zm_700x400/public/2025/03/26/1710052-jh234-2025-03-26t194732.305.png?im=Resize%3D%28400%29",
+            "source_id": "zeenews",
+            "source_priority": 5319,
+            "source_name": "Zee News",
+            "source_url": "http://zeenews.india.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/zeenews.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "technology"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "2cf4d9a0a7d66f130f539dfd562b2fab",
+            "title": "राहुल गांधी का आरोप - सदन में उन्हें बोलने नहीं दिया गया",
+            "link": "https://www.bhaskarhindi.com/city/new-delhi/new-delhi-news-rahul-gandhis-allegation-he-was-not-allowed-to-speak-in-the-house-1125380",
+            "keywords": [
+                "राजनीति,दिल्ली,नई दिल्ली,राज्य,अन्य राज्य,बड़ी खबरें"
+            ],
+            "creator": [
+                "Tejinder Singh"
+            ],
+            "video_url": null,
+            "description": "लोकसभा अध्यक्ष ने राहुल को पढ़ाया सदन के नियमों का पाठराहुल गांधी का आरोप- सदन में उन्हें बोलने नहीं दिया गया",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-26 14:18:59",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.bhaskarhindi.com/h-upload/2025/03/26/1413481-1.webp",
+            "source_id": "bhaskarhindi",
+            "source_priority": 596776,
+            "source_name": "Bhaskar Hindi",
+            "source_url": "https://www.bhaskarhindi.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/bhaskarhindi.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "politics"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "ea9882f2add76aed4422c9890b7e54e8",
+            "title": "Dharavi Redevelopment Project: 'Not an Inch Of Land Given To Adani,' Asserts Minister Ashish Shelar",
+            "link": "https://www.freepressjournal.in/mumbai/dharavi-redevelopment-project-not-an-inch-of-land-given-to-adani-asserts-minister-ashish-shelar",
+            "keywords": [
+                "mumbai news",
+                "topnews",
+                "fpj shorts"
+            ],
+            "creator": null,
+            "video_url": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-26 14:18:54",
+            "pubDateTZ": "UTC",
+            "image_url": "https://media.assettype.com/freepressjournal/2025-03-26/llbo4tc2/FotoJet-4.jpg",
+            "source_id": "freepressjournal",
+            "source_priority": 26427,
+            "source_name": "The Free Press Journal",
+            "source_url": "https://www.freepressjournal.in",
+            "source_icon": "https://i.bytvi.com/domain_icons/freepressjournal.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "04b1c8c837cc5788194588b558627c7b",
+            "title": "2025 guide: Logos, coaches, key players and more",
+            "link": "https://www.espn.com/united-football-league/story/_/id/44331839/ufl-2025-coaches-logos-key-players",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "Here are the teams, coaches and key players who will take the field as the UFL begins Season 2.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-26 14:18:53",
+            "pubDateTZ": "UTC",
+            "image_url": "https://a4.espncdn.com/combiner/i?format=jpg%2C&img=%2Fphoto%2F2024%2F0228%2Fr1297168_1296x729_16-9.jpg&w=570",
+            "source_id": "espn",
+            "source_priority": 341,
+            "source_name": "Espn",
+            "source_url": "https://www.espn.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/espn.png",
+            "language": "english",
+            "country": [
+                "india",
+                "united states of america",
+                "united kingdom",
+                "australia",
+                "singapore",
+                "canada"
+            ],
+            "category": [
+                "sports"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "5749606f43dabcca20be747ef818fd1f",
+            "title": "UFL threads: Breaking down the uniforms for each team",
+            "link": "https://www.espn.com/united-football-league/story/_/id/44392030/ufl-uniforms-helmets-pants-jerseys-home-away",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "The UFL returns on Saturday. Here's a look at the uniforms each team will feature.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-26 14:18:53",
+            "pubDateTZ": "UTC",
+            "image_url": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F0321%2Fr1308141_1296x729_16-9.jpg",
+            "source_id": "espn",
+            "source_priority": 341,
+            "source_name": "Espn",
+            "source_url": "https://www.espn.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/espn.png",
+            "language": "english",
+            "country": [
+                "india",
+                "united states of america",
+                "united kingdom",
+                "australia",
+                "singapore",
+                "canada"
+            ],
+            "category": [
+                "sports"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "f6cde6d2424d46a0a3347899dc88660a",
+            "title": "Delhi CM inspects projects in N W Delhi's Pitampura, affirms commitment to providing basic amenities to colonies",
+            "link": "https://www.thestatesman.com/cities/delhi-cm-inspects-projects-in-n-w-delhis-pitampura-affirms-commitment-to-providing-basic-amenities-to-colonies-1503412338.html",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "Delhi, Development, Inspection, Rekha Gupta",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-26 14:18:52",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.thestatesman.com/wp-content/uploads/2025/03/Rekha-Gupta-_20250326_194830_0000-jpg.webp",
+            "source_id": "thestatesman",
+            "source_priority": 42473,
+            "source_name": "The Statesman",
+            "source_url": "https://www.thestatesman.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/thestatesman.jpg",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "4c98abd4b000e59affb44aef23141ccf",
+            "title": "If Aaron Rodgers balks, what are the Pittsburgh Steelers prospects at quarterback?",
+            "link": "https://www.espn.com/nfl/story/_/id/44406360/pittsburgh-steelers-quarterback-options-aaron-rodgers-2025-nfl-draft",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "If the four-time MVP is out, the Steelers could sign a bridge QB, get someone in the draft or both.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-26 14:18:47",
+            "pubDateTZ": "UTC",
+            "image_url": "https://a2.espncdn.com/combiner/i?format=jpg%2C&img=%2Fphoto%2F2024%2F0107%2Fr1274331_1296x729_16-9.jpg&w=570",
+            "source_id": "espn",
+            "source_priority": 341,
+            "source_name": "Espn",
+            "source_url": "https://www.espn.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/espn.png",
+            "language": "english",
+            "country": [
+                "india",
+                "united states of america",
+                "united kingdom",
+                "australia",
+                "singapore",
+                "canada"
+            ],
+            "category": [
+                "sports"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "589899ac7844d099d54526cc79ba5de2",
+            "title": "शेखावाटी यूनिवर्सिटी में दीक्षांत समारोह 28 को:यूजी-पीजी के 69 स्टूडेंट्स को राज्यपाल देंगे गोल्ड मेडल और डिग्री",
+            "link": "https://www.bhaskar.com/local/rajasthan/sikar/news/convocation-ceremony-in-shekhawati-university-on-28th-134714164.html",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "पंडित दीनदयाल उपाध्याय शेखावाटी विश्वविद्यालय, सीकर में 5वां दीक्षांत समारोह 28 मार्च को आयोजित होगा। समारोह में 2023-24 बैच के स्नातक और स्नातकोत्तर के विभिन्न पाठ्यक्रमों के 69 स्टूडेंट्स को स्वर्ण पदक प्रदान किए जाएंगे। यूजी-पीजी के सफल 184255 विद्यार्थियों को उपाधियां दी जाएंगी। स्वर्ण पदक प्राप्त करने में बेटियों ने बाजी मारी है। 69 में से 56 स्वर्णपदक छात्राओं ने हासिल किए है, जबकि छात्रों को 14 गोल्ड मेडल मिलेंगे। शेखावाटी विश्वविद्यालय के कुलपति प्रो. डॉ. अनिल कुमार राय ने बताया- कार्यक्रम की अध्यक्षता राजस्थान के राज्यपाल हरिभाऊ बागडे करेंगे। मुख्य अतिथि निरंजनी अखाड़े के आचार्य महामंडलेश्वर स्वामी कैलाशानंद गिरी महाराज और सारस्वत अतिथि राजस्थान विश्वविद्यालय के पूर्व कुलपति जगदीश प्रसाद सिंघल होंगे। कुलपति प्रो. राय ने बताया कि राज्यपाल हरिभाऊ बागडे तीन दिवसीय वार्षिकोत्सव 'प्रत्युषा 2025' का शुभारंभ भी करेंगे। 28 मार्च को शाम 4 बजे राज्यपाल विभिन्न क्षेत्रों में उल्लेखनीय कार्य करने वाले तीन विभूतियों को शेखावाटी शिरोमणि और 10 विद्वतजनों को शेखावाटी भूषण से सम्मानित करेंगे।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-26 14:18:46",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.bhaskarassets.com/thumb/1000x1000/web2images/521/2025/03/26/1000109070_1742998691.jpg",
+            "source_id": "bhaskar_hindi",
+            "source_priority": 34179,
+            "source_name": "Bhaskar",
+            "source_url": "https://www.bhaskar.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/bhaskar_hindi.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "domestic",
+                "other"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "ee79faa6750ba993ecea0fc82841d403",
+            "title": "आईएमएफ ने पाकिस्तान को जलवायु परिवर्तन की चुनौतियों से निपटने के लिए कर्ज की मंजूरी दी",
+            "link": "https://hindi.theprint.in/india/economy/imf-approves-loan-to-pakistan-to-tackle-challenges-of-climate-change/800008/",
+            "keywords": [
+                "bhasha wire",
+                "अर्थजगत"
+            ],
+            "creator": [
+                "भाषा"
+            ],
+            "video_url": null,
+            "description": "इस्लामाबाद, 26 मार्च (भाषा) अंतरराष्ट्रीय मुद्रा कोष (आईएमएफ) ने जलवायु परिवर्तन से निपटने को लेकर पाकिस्तान के लिए 1.3 अरब डॉलर के कर्ज को मंजूरी दी है। साथ ही पहले से स्वीकृत सात अरब डॉलर के कर्ज की पहली समीक्षा पर एक समझौता भी किया है। जलवायु परिवर्तन की चुनौतियों से निपटने के उपायों से [...]",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-26 14:18:42",
+            "pubDateTZ": "UTC",
+            "image_url": "https://statichindi.theprint.in/wp-content/uploads/2023/06/RE6.jpg",
+            "source_id": "theprint_hi",
+            "source_priority": 14094,
+            "source_name": "Theprint Hindi",
+            "source_url": "https://hindi.theprint.in",
+            "source_icon": "https://i.bytvi.com/domain_icons/theprint_hi.jpg",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "business"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "d552fb5b40ef9895493fc8b54aa232a3",
+            "title": "Who is Anna Prokofieva? Russian journalist killed by 'enemy mine' in Ukraine",
+            "link": "https://timesofindia.indiatimes.com/world/europe/who-is-anna-prokofieva-russian-journalist-killed-by-enemy-mine-in-ukraine/articleshow/119541470.cms",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "Russian journalist Anna Prokofieva was killed after her crew hit a landmine near the Ukraine border amidst escalating conflict. Cameraman Dmitry Volkov was severely injured. This incident highlights the increasing dangers faced by media personnel in the region.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-26 14:18:38",
+            "pubDateTZ": "UTC",
+            "image_url": "https://static.toiimg.com/thumb/msid-119544488,imgsize-611047,width-400,resizemode-4/119544488.jpg",
+            "source_id": "toi",
+            "source_priority": 239,
+            "source_name": "The Times Of India",
+            "source_url": "https://timesofindia.indiatimes.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/toi.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "a1420ee8c6521f5febf5c13c3f820f98",
+            "title": "Counterfeiting, smuggling major challenge for law enforcement: Delhi Police",
+            "link": "https://www.deccanherald.com/india/delhi/counterfeiting-smuggling-major-challenge-for-law-enforcement-delhi-police-3463792",
+            "keywords": null,
+            "creator": [
+                "PTI"
+            ],
+            "video_url": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-26 14:18:33",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.deccanherald.com/deccanherald%2F2025-03-22%2F0lp60mnf%2FiStock-950568328.jpg?ar=40%3A21&auto=format%2Ccompress&mode=crop&ogImage=true&rect=0%2C79%2C2121%2C1114&w=1200",
+            "source_id": "deccanherald",
+            "source_priority": 10080,
+            "source_name": "Deccan Herald",
+            "source_url": "https://www.deccanherald.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/deccanherald.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "b2cd76d35e6b2cb7821d2bf2ba3b5ae6",
+            "title": "Aamir Khan turns YouTuber, launches his own channel Aamir Khan Talkies",
+            "link": "https://www.deccanherald.com/entertainment/aamir-khan-turns-youtuber-launches-his-own-channel-aamir-khan-talkies-3463815",
+            "keywords": null,
+            "creator": [
+                "DH Web Desk"
+            ],
+            "video_url": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-26 14:18:27",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.deccanherald.com/deccanherald%2F2025-03-26%2Frj9ma50d%2FAamir-Khan.png?ar=40%3A21&auto=format%2Ccompress&mode=crop&ogImage=true&rect=0%2C0%2C1893%2C994&w=1200",
+            "source_id": "deccanherald",
+            "source_priority": 10080,
+            "source_name": "Deccan Herald",
+            "source_url": "https://www.deccanherald.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/deccanherald.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "e1be9ee24ffe8f3724b1196ff3124782",
+            "title": "Podiatric care centre for diabetics opened in Madurai GRH",
+            "link": "https://www.thehindu.com/news/cities/Madurai/podiatric-care-centre-for-diabetics-opened-in-madurai-grh/article69377403.ece",
+            "keywords": [
+                "madurai"
+            ],
+            "creator": null,
+            "video_url": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-26 14:18:22",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+            "source_id": "thehindu",
+            "source_priority": 2972,
+            "source_name": "The Hindu",
+            "source_url": "https://www.thehindu.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/thehindu.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "4a9d9a0c3e9776ce027cd99c3e601b7b",
+            "title": "Bigg Boss Kannada stars Rajath Kishan and Vinay Gowda taken into three days police custody for controversial machete reel",
+            "link": "https://timesofindia.indiatimes.com/tv/news/kannada/bigg-boss-kannada-stars-rajath-kishan-and-vinay-gowda-taken-into-three-days-police-custody-for-controversial-machete-reel/articleshow/119544444.cms",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "Rajath Kishan and Vinay Gowda have been remanded to police custody after allegedly wielding a real machete on social media. The court ordered further investigation due to potential public endangerment and evidence tampering claims, emphasizing the importance of public safety in such cases.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-26 14:18:21",
+            "pubDateTZ": "UTC",
+            "image_url": "https://static.toiimg.com/thumb/msid-119544444,width-1070,height-580,imgsize-37724,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "source_id": "toi",
+            "source_priority": 239,
+            "source_name": "The Times Of India",
+            "source_url": "https://timesofindia.indiatimes.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/toi.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "bbd09628df47686659f3b4d3434af125",
+            "title": "Sports News | IPL 2025: KKR Wins Toss, Elects to Bowl First Against Rajasthan Royals in Guwahati",
+            "link": "https://www.latestly.com/agency-news/sports-news-ipl-2025-kkr-wins-toss-elects-to-bowl-first-against-rajasthan-royals-in-guwahati-6737492.html",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "Get latest articles and stories on Sports at LatestLY. Kolkata Knight Riders (KKR) skipper Ajinkya Rahane won the toss and elected to bowl first against Rajasthan Royals (RR) in the sixth match of the ongoing Indian Premier League (IPL) 2025 at the Barsapara Cricket Stadium in Guwahati on Wednesday.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-26 14:18:21",
+            "pubDateTZ": "UTC",
+            "image_url": "https://st1.latestly.com/wp-content/uploads/2025/03/ANI-20250326141047-380x214.jpg",
+            "source_id": "latestly",
+            "source_priority": 31923,
+            "source_name": "Latestly",
+            "source_url": "https://www.latestly.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/latestly.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "c80c83ec6e5251ac3be1fdb8440b936e",
+            "title": "Latest News | Uttarakhand: BJP Slams Ex-CM Harish Rawat for Opposing Action Against Illegal Madrassas",
+            "link": "https://www.latestly.com/agency-news/latest-news-uttarakhand-bjp-slams-ex-cm-harish-rawat-for-opposing-action-against-illegal-madrassas-6737491.html",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "Get latest articles and stories on Latest News at LatestLY. The BJP on Wednesday attacked former chief minister Harish Rawat for opposing the government action against illegal madrassas in Uttarakhand, saying the Congress leader can go to any extent to do politics of appeasement. The ruling party said investigation into the funding of illegal madrassas will expose many people. \"Why should he feel afraid if illegal madrassas are being closed. When the whole of Devbhoomi feels the Dhami government is doing a great job by shutting down illegal madrassas, why does Harish Rawat feel the pain.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-26 14:18:20",
+            "pubDateTZ": "UTC",
+            "image_url": "https://st1.latestly.com/wp-content/uploads/2018/03/default-img-02-380x214.jpg",
+            "source_id": "latestly",
+            "source_priority": 31923,
+            "source_name": "Latestly",
+            "source_url": "https://www.latestly.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/latestly.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "fd07138348de691ee2b9544d042bd8c0",
+            "title": "आफरी में कुछ समस्यागत प्रजातियों की नर्सरी प्रौद्योगिकी पर प्रशिक्षण संपन्न",
+            "link": "https://www.khaskhabar.com/local/rajasthan/jodhpur-news/news-training-on-nursery-technology-of-some-problematic-species-concluded-at-afri-news-hindi-1-711359-KKN.html",
+            "keywords": null,
+            "creator": [
+                "khas khabar"
+            ],
+            "video_url": null,
+            "description": "आफरी के निदेशक डॉ. तरुण कांत ने प्रतिभागियों का स्वागत किया और अपने संबोधन में कहा कि इस प्रशिक्षण में सिखाई गई तकनीक प्रतिभागियों के लिए क्षेत्र में उपयोगी साबित होगी।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-26 14:18:17",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.khaskhabar.com/s3-storage/khaskhabar/khaskhabarimages/img500/26-74-1742998697-711359-khaskhabar.jpg",
+            "source_id": "khaskhabar",
+            "source_priority": 5174519,
+            "source_name": "Khas Khabar",
+            "source_url": "https://www.khaskhabar.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/khaskhabar.jpg",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "73731a5631640a51828d20b90643966b",
+            "title": "India News | J-K Police Bust Terrorist Hideout in Baramulla, Explosives Recovered",
+            "link": "https://www.latestly.com/agency-news/india-news-j-k-police-bust-terrorist-hideout-in-baramulla-explosives-recovered-6737488.html",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "Get latest articles and stories on India at LatestLY. Security forces on Wednesday busted a terrorist hideout in forest area of Baramulla district of Jammu and Kashmir, officials said.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-26 14:18:16",
+            "pubDateTZ": "UTC",
+            "image_url": "https://st1.latestly.com/wp-content/uploads/2018/03/default-img-01-784x441.jpg",
+            "source_id": "latestly",
+            "source_priority": 31923,
+            "source_name": "Latestly",
+            "source_url": "https://www.latestly.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/latestly.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "2be45f7d28cefeef7b906bf8ee28bf78",
+            "title": "RBI imposes monetary penalty of ₹75 lakh on HDFC Bank for violating customer KYC norms",
+            "link": "https://www.livemint.com/industry/banking/rbi-imposes-monetary-penalty-of-rs-75-lakh-on-hdfc-bank-for-violating-customer-kyc-norms-11742998658603.html",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "RBI imposes monetary penalty of ₹75 lakh on HDFC Bank for violating customer KYC norms",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-26 14:18:15",
+            "pubDateTZ": "UTC",
+            "image_url": null,
+            "source_id": "livemint",
+            "source_priority": 7134,
+            "source_name": "Mint",
+            "source_url": "https://www.livemint.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/livemint.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "business"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "352cf59a0b8daeafda9706922eb71081",
+            "title": "RBI imposes monetary penalty of ₹75 lakh on HDFC Bank for violating customer KYC norms - Mint",
+            "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNaWc3T3dHZmVHMF9ucjdGUDA0MlkyUXpnQ3IwdUxIOGVUWXVselotQVFBM3hQSHBhWDRGdUU2WWw0OTF0RGVLb0tsMUx2ZmFPQ01yTk04UHR0V011bE1kZmE2SncwUmV6R1luWTlqUHpEdHVVWEtFcWNHSWVDUU9fWU56YldKZFI5aVhYeXVUN2h2Sjg5MzI0Q0hGVzZROHJlbTdvdUpWSjRTX3cxVnB6ZXBIaFdOU19zcVNpZ3RfZWtHX25BUV9EWTdMcTl3NzdZUndid1VyVHY4dlc0M1RJSlJLeEHSAeoBQVVfeXFMTWYtQlpseUdZNENJeTZxa1JiQnBKTFNka1ZrMmRDT3pfeGx6c2RFRWV4MUVTRTRCZHpkaVN1WHJoTjNxcDRjUkVEQWtOckFsYnF0ckJHMHNhbFJRN0hvbE03MFJTS3lUcllCNTdDMU93NUdOMW9Ga2x1OUpJNjAtb3BBZlZkZ2M4ZmQzck85Z1djNHROajBmTm1wY3Nac2hLTTVvS0Y2bmY2dElfeVRqd21Xd21lcU5KUjMzZU9mQm0zeVl4MGdRWE9wek5kd1dlY09XWndKY2k5QkRkd04zXzU0eVZsSGp0d3Bn?oc=5",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "RBI imposes monetary penalty of ₹75 lakh on HDFC Bank for violating customer KYC norms MintRBI slaps Rs 75 lakh fine on HDFC Bank for KYC norm violations The Financial ExpressRBI imposes Rs 75 lakh penalty on HDFC Bank for regulatory violations The Economic TimesBad news for HDFC Bank as RBI orders India's largest private bank to pay a huge amount of money due to..., th India.comRBI imposes ₹75 lakh penalty on HDFC Bank for KYC violations CNBCTV18",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-26 14:18:15",
+            "pubDateTZ": "UTC",
+            "image_url": null,
+            "source_id": "google",
+            "source_priority": 14,
+            "source_name": "Google News",
+            "source_url": "https://news.google.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/google.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "business"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
             "article_id": "0a188ceaa57e6416eae2c55b4964f4b1",
             "title": "भिंड में हाईवे की मांग को लेकर धर्म यात्रा कल:चंबल नदी पर करेंगे पूजन, ग्वालियर तक निकलेगी यात्रा; लक्ष्मीबाई समाधि पर देंगे पुष्पांजलि",
             "link": "https://www.bhaskar.com/local/mp/bhind/news/dharm-yatra-tomorrow-to-demand-highway-in-bhind-134713745.html",
