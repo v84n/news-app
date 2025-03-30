@@ -1,6 +1,670 @@
 {
     "articles": [
         {
+            "article_id": "5ed7ce1f3fe18e53a904fc7c517e2302",
+            "title": "HC Directs Cops to Allow Veer Hanuman Yatra",
+            "link": "https://www.deccanchronicle.com/southern-states/telangana/hc-directs-cops-to-allow-veer-hanuman-yatra-1869788",
+            "keywords": [
+                "southern states,telangana"
+            ],
+            "creator": [
+                "Vujjini Vamshidhar"
+            ],
+            "video_url": null,
+            "description": "The Telangana High Court has directed the Nirmal police to permit the Lord Sri Veera Hanuman Vijaya Yatra in Khanapur, Nirmal district, April 1.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-29 20:10:32",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.deccanchronicle.com/h-upload/2025/02/22/1898305-telanganahighcourt.jfif",
+            "source_id": "deccanchronicle",
+            "source_priority": 14130,
+            "source_name": "Deccan Chronicle",
+            "source_url": "https://www.deccanchronicle.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/deccanchronicle.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "db98563aaabcf1cb5af1b8500490897f",
+            "title": "View | India’s CBDC Journey: Lessons from global setbacks and why it still has the potential to succeed",
+            "link": "https://www.cnbctv18.com/business/finance/cbdc-india-global-setbacks-potential-to-succeed-polygon-labs-19581668.htm",
+            "keywords": [
+                "technology"
+            ],
+            "creator": null,
+            "video_url": null,
+            "description": "CBDC should work within UPI, not as a separate system. If Digital Rupee is just another option on the same app people already use, adoption will happen naturally, suggests Polygon Labs' Aishwary Gupta.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-29 20:09:53",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.cnbctv18.com/uploads/2025/03/aishwary-image-2025-03-87982180669c8be889e5d1afe38d07c7.jpg",
+            "source_id": "cnbctv18",
+            "source_priority": 17950,
+            "source_name": "Cnbctv18",
+            "source_url": "https://www.cnbctv18.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/cnbctv18.jpg",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "technology"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": true
+        },
+        {
+            "article_id": "0d282b42e6628c099107de6ebd74a51d",
+            "title": "Amroha News: भाकियू चौहान गुट ने बिजली विभाग के अधिशासी अभियंता कार्यालय पर दिया धरना",
+            "link": "https://www.amarujala.com/uttar-pradesh/amroha/bhakiyu-chauhan-group-staged-a-sit-in-protest-at-the-electricity-departments-executive-engineers-office-jpnagar-news-c-284-1-smbd1015-137009-2025-03-30",
+            "keywords": null,
+            "creator": [
+                "संवाद न्यूज एजेंसी, अमरोहा"
+            ],
+            "video_url": null,
+            "description": "भाकियू चौहान गुट ने बिजली विभाग के अधिशासी अभियंता कार्यालय पर दिया धरना",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-29 20:09:11",
+            "pubDateTZ": "UTC",
+            "image_url": "https://staticimg.amarujala.com/assets/images/2021/12/02/amroha_1638430374.jpeg?dpr=1.0&q=80&w=414",
+            "source_id": "amarujala",
+            "source_priority": 55215,
+            "source_name": "Amar Ujala",
+            "source_url": "https://www.amarujala.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/amarujala.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "b08a785cfaeb76f5434ddf47fd5576be",
+            "title": "Rohtak News: विद्यार्थियों ने सदाबहार गीतों पर समूह नृत्य कर दी प्रस्तुति",
+            "link": "https://www.amarujala.com/haryana/rohtak/students-performed-group-dance-on-evergreen-songs-rohtak-news-c-17-roh1019-625773-2025-03-30",
+            "keywords": null,
+            "creator": [
+                "संवाद न्यूज एजेंसी, रोहतक"
+            ],
+            "video_url": null,
+            "description": "महर्षि दयानंद विश्वविद्यालय (एमडीयू) में रंग महोत्सव मेगा इवेंट का समापन शनिवार को रंग तरंग सांस्कृतिक कार्यक्रम के साथ संपन्न हुआ।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-29 20:09:06",
+            "pubDateTZ": "UTC",
+            "image_url": "https://staticimg.amarujala.com/assets/images/4cplus/2025/03/30/29sataka44-emadaya-ma-raga-taraga-karayakarama-ma-salfa-lta-chhatarae-sarataemadaya_1415276654d811a18c30f45937705729.jpeg?dpr=1.0&q=80&w=414",
+            "source_id": "amarujala",
+            "source_priority": 55215,
+            "source_name": "Amar Ujala",
+            "source_url": "https://www.amarujala.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/amarujala.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "51780f295063c90f4cbcaf1bac420dab",
+            "title": "Kaithal News: नवरात्र आज से ः मंदिरों में सजावट, श्रद्धालु करेंगे दर्शन",
+            "link": "https://www.amarujala.com/haryana/kaithal/navratri-starts-today-decorations-in-temples-devotees-will-take-darshan-kaithal-news-c-18-1-knl1004-612988-2025-03-30",
+            "keywords": null,
+            "creator": [
+                "संवाद न्यूज एजेंसी, कैथल"
+            ],
+            "video_url": null,
+            "description": "नवरात्र आज से ः मंदिरों में सजावट, श्रद्धालु करेंगे दर्शन",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-29 20:09:01",
+            "pubDateTZ": "UTC",
+            "image_url": "https://staticimg.amarujala.com/assets/images/2021/11/03/kaithal_1635936309.jpeg?dpr=1.0&q=80&w=414",
+            "source_id": "amarujala",
+            "source_priority": 55215,
+            "source_name": "Amar Ujala",
+            "source_url": "https://www.amarujala.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/amarujala.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "6993d27cecff28783f96ae3b37fc3175",
+            "title": "Kushinagar News: बाल्टी में रखे गरम पानी से झुलसा मासूम, मौत",
+            "link": "https://www.amarujala.com/uttar-pradesh/kushinagar/an-innocent-child-got-scorched-by-the-hot-water-kept-in-the-bucket-and-died-kushinagar-news-c-205-1-ksh1008-134675-2025-03-30",
+            "keywords": null,
+            "creator": [
+                "संवाद न्यूज एजेंसी, कुशीनगर"
+            ],
+            "video_url": null,
+            "description": "बाल्टी में रखे गरम पानी से झुलसा मासूम, मौत",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-29 20:08:56",
+            "pubDateTZ": "UTC",
+            "image_url": "https://staticimg.amarujala.com/assets/images/2021/10/26/kushinagar_1635233684.jpeg?dpr=1.0&q=80&w=414",
+            "source_id": "amarujala",
+            "source_priority": 55215,
+            "source_name": "Amar Ujala",
+            "source_url": "https://www.amarujala.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/amarujala.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "2f70232750618c52f081b57e35c28a90",
+            "title": "Hosts UP pip Maha to storm into final",
+            "link": "https://timesofindia.indiatimes.com/city/lucknow/hosts-up-pip-maha-to-storm-into-final/articleshow/119725755.cms",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-29 20:08:54",
+            "pubDateTZ": "UTC",
+            "image_url": "https://static.toiimg.com/thumb/msid-119725752,width-1070,height-580,imgsize-55090,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "source_id": "toi",
+            "source_priority": 239,
+            "source_name": "The Times Of India",
+            "source_url": "https://timesofindia.indiatimes.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/toi.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "b58271c138b2a1012d2531ab25886b9b",
+            "title": "Hamas agrees to new Gaza ceasefire proposal: ‘Hope Israel won’t undermine it'",
+            "link": "https://www.hindustantimes.com/world-news/hamas-agrees-to-new-gaza-ceasefire-proposal-hope-israel-won-t-undermine-it-101743277779352.html",
+            "keywords": [
+                "world-news"
+            ],
+            "creator": null,
+            "video_url": null,
+            "description": "The new Gaza ceasefire proposal suggests Hamas release five of the Israeli hostages it is holding each week",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-29 20:08:52",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.hindustantimes.com/ht-img/img/2025/03/29/1600x900/GAZA-PALESTINIANS-8_1743278600401_1743278606380.jpg",
+            "source_id": "hindustantimes",
+            "source_priority": 933,
+            "source_name": "Hindustan Times",
+            "source_url": "http://www.hindustantimes.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/hindustantimes.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "world"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "f537cb3eefff09e213a60d27a7204037",
+            "title": "Chandauli News: प्रभारी चिकित्साधिकारी ने 25 कर्मियों का रोका वेतन",
+            "link": "https://www.amarujala.com/uttar-pradesh/chandauli/the-medical-officer-in-charge-stopped-the-salary-of-25-employees-chandauli-news-c-189-1-svns1013-129084-2025-03-30",
+            "keywords": null,
+            "creator": [
+                ""
+            ],
+            "video_url": null,
+            "description": "The medical officer in charge stopped the salary of 25 employees",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-29 20:08:52",
+            "pubDateTZ": "UTC",
+            "image_url": "https://staticimg.amarujala.com/assets/images/2021/12/01/chandauli_1638342446.jpeg?dpr=1.0&q=80&w=414",
+            "source_id": "amarujala",
+            "source_priority": 55215,
+            "source_name": "Amar Ujala",
+            "source_url": "https://www.amarujala.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/amarujala.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "f3037089e42e07f3e72725d558176f2f",
+            "title": "Immunisation: Four two-wheelers given to ANMs to reach high-risk and hard-to-access areas in Hyderabad",
+            "link": "https://www.deccanchronicle.com/southern-states/telangana/immunisation-four-two-wheelers-given-to-anms-to-reach-high-risk-and-hard-to-access-areas-in-hyderabad-1869787",
+            "keywords": [
+                "southern states,telangana"
+            ],
+            "creator": [
+                "DC Correspondent"
+            ],
+            "video_url": null,
+            "description": "As per the allocation, the vehicles will be used by ANMs at the urban primary healthcare centres at Khairatabad, Mettuguda, Sriramnagar and Sanathnagar to achieve 100% vaccination coverage for eligible children in their respective areas.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-29 20:08:49",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.deccanchronicle.com/h-upload/2025/03/29/1902746-img-20250329-wa0011.webp",
+            "source_id": "deccanchronicle",
+            "source_priority": 14130,
+            "source_name": "Deccan Chronicle",
+            "source_url": "https://www.deccanchronicle.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/deccanchronicle.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "1ed7d738e98b2317dce9bf669cb3ae6c",
+            "title": "Kurukshetra News: धर्मनगरी में पहली बार सामूहिक रूप से ब्रह्मसरोवर तट पर मनेगा नव संवत नव वर्ष उत्सव",
+            "link": "https://www.amarujala.com/haryana/kurukshetra/for-the-first-time-in-dharmnagari-nav-samvat-new-year-festival-will-be-celebrated-collectively-on-the-banks-of-brahma-sarovar-kurukshetra-news-c-45-1-sknl1005-133459-2025-03-30",
+            "keywords": null,
+            "creator": [
+                ""
+            ],
+            "video_url": null,
+            "description": "धर्मनगरी में पहली बार सामूहिक रूप से ब्रह्मसरोवर तट पर मनेगा नव संवत नव वर्ष उत्सव",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-29 20:08:47",
+            "pubDateTZ": "UTC",
+            "image_url": "https://staticimg.amarujala.com/assets/images/2021/11/03/kurukshetra_1635936396.jpeg?dpr=1.0&q=80&w=414",
+            "source_id": "amarujala",
+            "source_priority": 55215,
+            "source_name": "Amar Ujala",
+            "source_url": "https://www.amarujala.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/amarujala.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "0f2b145f227f0ce43485e7ccd3633ab1",
+            "title": "Mumbai Local Train Update: Special Midnight Block On Kalyan-Badlapur & Neral Block On March 30 Cancelled",
+            "link": "https://www.freepressjournal.in/mumbai/mumbai-local-train-update-special-midnight-block-on-kalyan-badlapur-neral-block-on-march-30-cancelled",
+            "keywords": [
+                "topnews",
+                "mumbai news",
+                "fpj shorts"
+            ],
+            "creator": null,
+            "video_url": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-29 20:08:45",
+            "pubDateTZ": "UTC",
+            "image_url": "https://media.assettype.com/freepressjournal/2025-01-23/5kgz9w04/FPJ-CUSTOM-PIC-2025-01-23T103144.460.jpg",
+            "source_id": "freepressjournal",
+            "source_priority": 26427,
+            "source_name": "The Free Press Journal",
+            "source_url": "https://www.freepressjournal.in",
+            "source_icon": "https://i.bytvi.com/domain_icons/freepressjournal.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "a7e1975b8a2a9b1d5443c50c7e244163",
+            "title": "Kaithal News: पेस्टिसाइड एसोसिएशन प्रधान बने अमरदीप",
+            "link": "https://www.amarujala.com/haryana/kaithal/amardeep-became-the-head-of-pesticide-association-kaithal-news-c-18-1-knl1004-612987-2025-03-30",
+            "keywords": null,
+            "creator": [
+                "संवाद न्यूज एजेंसी, कैथल"
+            ],
+            "video_url": null,
+            "description": "पेस्टिसाइड एसोसिएशन प्रधान बने अमरदीप",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-29 20:08:42",
+            "pubDateTZ": "UTC",
+            "image_url": "https://staticimg.amarujala.com/assets/images/2021/11/03/kaithal_1635936309.jpeg?dpr=1.0&q=80&w=414",
+            "source_id": "amarujala",
+            "source_priority": 55215,
+            "source_name": "Amar Ujala",
+            "source_url": "https://www.amarujala.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/amarujala.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "6a45e56ef105518f86333b7427ed94c7",
+            "title": "Amroha News: दहेज उत्पीड़न में पति समेत चार पर मुकदमा दर्ज",
+            "link": "https://www.amarujala.com/uttar-pradesh/amroha/case-filed-against-four-people-including-husband-for-dowry-harassment-jpnagar-news-c-284-1-smbd1013-136975-2025-03-30",
+            "keywords": null,
+            "creator": [
+                "संवाद न्यूज एजेंसी, अमरोहा"
+            ],
+            "video_url": null,
+            "description": "दहेज उत्पीड़न में पति समेत चार पर मुकदमा दर्ज",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-29 20:08:37",
+            "pubDateTZ": "UTC",
+            "image_url": "https://staticimg.amarujala.com/assets/images/2021/12/02/amroha_1638430374.jpeg?dpr=1.0&q=80&w=414",
+            "source_id": "amarujala",
+            "source_priority": 55215,
+            "source_name": "Amar Ujala",
+            "source_url": "https://www.amarujala.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/amarujala.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "d8e90a6439beb4e6564741892dc6857d",
+            "title": "HC notice to Centre, city govt. on blood banks’ limited working hours",
+            "link": "https://www.thehindu.com/news/cities/Delhi/hc-notice-to-centre-city-govt-on-blood-banks-limited-working-hours/article69391370.ece",
+            "keywords": [
+                "delhi"
+            ],
+            "creator": null,
+            "video_url": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-29 20:08:35",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+            "source_id": "thehindu",
+            "source_priority": 2972,
+            "source_name": "The Hindu",
+            "source_url": "https://www.thehindu.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/thehindu.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "184569187eb6edb4716b7c4d0e888943",
+            "title": "Gorakhpur News: 80 किलो गोमांस ले जाते दो गिरफ्तार",
+            "link": "https://www.amarujala.com/gorakhpur/santkabirnagar-news-two-arrested-for-carrying-80-kg-beef-gorakhpur-news-c-209-1-kld1004-130549-2025-03-30",
+            "keywords": null,
+            "creator": [
+                "संवाद न्यूज एजेंसी, गोरखपुर"
+            ],
+            "video_url": null,
+            "description": "कोतवाली खलीलाबाद की पुलिस ने 80 किलो गोमांस ले जाते समय दो अभियुक्तों को दबोचा है।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-29 20:08:33",
+            "pubDateTZ": "UTC",
+            "image_url": "https://staticimg.amarujala.com/assets/images/2021/12/02/gorakhpur_1638430283.jpeg?dpr=1.0&q=80&w=414",
+            "source_id": "amarujala",
+            "source_priority": 55215,
+            "source_name": "Amar Ujala",
+            "source_url": "https://www.amarujala.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/amarujala.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "e7a418c4b224e269b863095cc6141cbe",
+            "title": "Kaithal News: पंचायतों को पेयजल आपूर्ति का जिम्मा",
+            "link": "https://www.amarujala.com/haryana/kaithal/panchayats-are-responsible-for-supplying-drinking-water-kaithal-news-c-18-1-knl1004-612986-2025-03-30",
+            "keywords": null,
+            "creator": [
+                "संवाद न्यूज एजेंसी, कैथल"
+            ],
+            "video_url": null,
+            "description": "पंचायतों को पेयजल आपूर्ति का जिम्मा",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-29 20:08:28",
+            "pubDateTZ": "UTC",
+            "image_url": "https://staticimg.amarujala.com/assets/images/2021/11/03/kaithal_1635936309.jpeg?dpr=1.0&q=80&w=414",
+            "source_id": "amarujala",
+            "source_priority": 55215,
+            "source_name": "Amar Ujala",
+            "source_url": "https://www.amarujala.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/amarujala.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "dd814313c4a31e22c3983d262335e2f5",
+            "title": "Kushinagar News: फाॅर्मर रजिस्ट्री के लिए 60 लोगों ने जमा किए कागजात",
+            "link": "https://www.amarujala.com/uttar-pradesh/kushinagar/60-people-submitted-documents-for-farmer-registry-kushinagar-news-c-205-1-ksh1001-134674-2025-03-30",
+            "keywords": null,
+            "creator": [
+                "संवाद न्यूज एजेंसी, कुशीनगर"
+            ],
+            "video_url": null,
+            "description": "फाॅर्मर रजिस्ट्री के लिए 60 लोगों ने जमा किए कागजात",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-29 20:08:23",
+            "pubDateTZ": "UTC",
+            "image_url": "https://staticimg.amarujala.com/assets/images/2021/10/26/kushinagar_1635233684.jpeg?dpr=1.0&q=80&w=414",
+            "source_id": "amarujala",
+            "source_priority": 55215,
+            "source_name": "Amar Ujala",
+            "source_url": "https://www.amarujala.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/amarujala.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "e1cfd11b4aa1f35a42f99193a10d108b",
+            "title": "Kaithal News: बालियां छीनने में दो को 10-10 साल कैद",
+            "link": "https://www.amarujala.com/haryana/kaithal/two-people-sentenced-to-10-years-imprisonment-each-for-snatching-earrings-kaithal-news-c-18-1-knl1004-612985-2025-03-30",
+            "keywords": null,
+            "creator": [
+                "संवाद न्यूज एजेंसी, कैथल"
+            ],
+            "video_url": null,
+            "description": "बालियां छीनने में दो को 10-10 साल कैद",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-29 20:08:19",
+            "pubDateTZ": "UTC",
+            "image_url": "https://staticimg.amarujala.com/assets/images/2021/11/03/kaithal_1635936309.jpeg?dpr=1.0&q=80&w=414",
+            "source_id": "amarujala",
+            "source_priority": 55215,
+            "source_name": "Amar Ujala",
+            "source_url": "https://www.amarujala.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/amarujala.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "87d6df26bf8981c7f9caf6892019c23f",
+            "title": "Chandauli News: झाड़ू लेकर महिलाएं शराब की दुकान के विरोध में धरने पर बैठीं",
+            "link": "https://www.amarujala.com/uttar-pradesh/chandauli/women-carrying-brooms-staged-a-sit-in-protest-against-the-liquor-shop-chandauli-news-c-189-1-svns1013-129105-2025-03-30",
+            "keywords": null,
+            "creator": [
+                ""
+            ],
+            "video_url": null,
+            "description": "Women carrying brooms staged a sit-in protest against the liquor shop",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-03-29 20:08:14",
+            "pubDateTZ": "UTC",
+            "image_url": "https://staticimg.amarujala.com/assets/images/2021/12/01/chandauli_1638342446.jpeg?dpr=1.0&q=80&w=414",
+            "source_id": "amarujala",
+            "source_priority": 55215,
+            "source_name": "Amar Ujala",
+            "source_url": "https://www.amarujala.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/amarujala.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
             "article_id": "6d52d964575512e378fb80594a98ceeb",
             "title": "Chapman blasts ton as New Zealand win first Pakistan ODI by 73 runs",
             "link": "https://kashmirreader.com/2025/03/30/chapman-blasts-ton-as-new-zealand-win-first-pakistan-odi-by-73-runs/",
@@ -22097,742 +22761,6 @@
             ],
             "category": [
                 "entertainment"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "d0d767330beeffc1db2d9be097c7dc5c",
-            "title": "India offers US tariff cuts on farm imports, eyes trade success, government sources say",
-            "link": "https://www.moneycontrol.com/news/business/india-offers-us-tariff-cuts-on-farm-imports-eyes-trade-success-government-sources-say-12978645.html",
-            "keywords": [
-                "india-us trade deal, tariff cuts, us farm products, india tariff reduction, almonds import india, cranberries import india, bourbon whiskey tariff, india-us trade talks, piyush goyal trade negotiations, us reciprocal tariffs, agricultural trade india-us, india trade concessions, us export to india, india import duties, bilateral trade pact, us agricultural exports, india-us market access"
-            ],
-            "creator": [
-                "Moneycontrol"
-            ],
-            "video_url": null,
-            "description": null,
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-03-28 08:10:00",
-            "pubDateTZ": "UTC",
-            "image_url": "https://images.moneycontrol.com/static-mcnews/2025/03/20250326133217_India-US-report.jpg",
-            "source_id": "moneycontrol",
-            "source_priority": 1064,
-            "source_name": "Moneycontrol",
-            "source_url": "https://www.moneycontrol.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/moneycontrol.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top",
-                "business",
-                "world",
-                "politics"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": true
-        },
-        {
-            "article_id": "8d346b9dbad0f17d86862306b54589e4",
-            "title": "Solar Eclipse 2025: Check Date, Time, When And Where To Watch Surya Grahan In India",
-            "link": "https://zeenews.india.com/culture/solar-eclipse-2025-check-date-time-when-and-where-to-watch-surya-grahan-in-india-2878706.html",
-            "keywords": null,
-            "creator": [
-                "Zee News"
-            ],
-            "video_url": null,
-            "description": "If you are among those who can view the eclipse, never look directly at the Sun, as it can cause permanent eye damage. Always use solar eclipse glasses or handheld solar viewers to protect your vision.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-03-28 08:10:00",
-            "pubDateTZ": "UTC",
-            "image_url": "https://english.cdn.zeenews.com/sites/default/files/styles/zm_700x400/public/2025/03/28/1711977-image-1.jpg?im=Resize%3D%28400%29",
-            "source_id": "zeenews",
-            "source_priority": 5319,
-            "source_name": "Zee News",
-            "source_url": "http://zeenews.india.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/zeenews.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "entertainment"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "33683549dc1d29c5134561dabd7576cc",
-            "title": "DAHON Unveils its Latest 2025 lineup at Taipei Cycle Show, Pushing the Boundary of Cycling Innovation",
-            "link": "https://en.prnasia.com/story/483520-0.shtml",
-            "keywords": [
-                "tds",
-                "trn",
-                "cmp",
-                "lic",
-                "cpr",
-                "spt",
-                "rea",
-                "awd",
-                "pdt"
-            ],
-            "creator": null,
-            "video_url": null,
-            "description": "TAIPEI, March 28, 2025 /PRNewswire/ -- The highly anticipated Taipei Cycle Show (TCS) 2025 kicked off at Nangang Exhibition Center Halls 1 & 2. DAHON, global folding leader, unveiled its current lineup of bicycles designed with its latest D-VELO technology suite, patented components, and innovative accessories, drawing keen interests from industry leaders and cycling enthusiasts. Strategic Partnership formed with Shengyang Bicycles DAHON and Shengyang Bicycles (SYB) signed a strategic partnership on the show's first day. This collaboration aims to bring DAHON's high-quality bicycles to Taiwanese consumers, expanding DAHON's presence in the market. Dr. David Hon, DAHON's Founder, and Josh Chang, SYB's CEO, officiated the ceremony, joined by cycling industry guests. Dr. David Hon (left) and Josh chang (right) sign a strategic partnership agreement DAHON's Vélodon A4, the first aluminum road bike with D-VELO technology, won the TCS 2025 Innovation Design Award. Chosen from 150+ global entries, it features a unique triangular eagle-shaped frame with Soaring Seat Stay and Dual Curved Cone, offering 37.9% greater stiffness than standard aluminum road bikes. Its low-step top tube accommodates riders of various heights, enhancing accessibility. DAHON Vélodon A4 won the TCS 2025 Innovation Design Award D-VELO Technology Suite making Breakthrough DAHON showcased its groundbreaking D-VELO technology suite, enhancing frame design for superior speed across its folding and road bike lineup. Featured models include: Vélodon C8 Di2 – A high-performance carbon road bicycle, featuring an aero-position frame, Soaring Triangle Frame and wind-cutting tube design, delivering exceptional speed and stability. Télodon C8 AXS – A folding carbon road bicycle, integrating DAHON's DELTECH, Super Down Tube and Falcon Carbon Fiber Frame for superior rigidity and power transfer. K-Feather – An ultra-light e-bicycle weighing just 12kg, providing a seamless blend of portability and power with a 40km assisted range. Innovative Patented Components & Interactive Experiences DAHON also showcased its Sharing 360 Program, including patented techs such as Single-piece Handlepost, DELTECH, and Safety Disc Brake, drawing interest from global manufacturers. Visitors actively engaged in test ride sessions, and the Folding Bicycle Challenge, experiencing firsthand the performance benefits of DAHON's latest innovations. Join DAHON at Taipei Cycle 2025 With over four decades of dedication to cycling innovation, DAHON remains steadfast in its commitment to delivery outstanding quality and performance in its products. Experience the future of cycling at Booth M0511, 4F, Hall 1, and discover how DAHON's 'D-VELO' Technology is shaping the next generation of bicycles. For more information, please email marketing@dahon.com",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-03-28 08:10:00",
-            "pubDateTZ": "UTC",
-            "image_url": "https://mma.prnasia.com/media2/2652579/Dr_David_Hon__left__Chang_Po_Hsiung__right__sign_a_strategic.jpg?p=medium600",
-            "source_id": "en_prnasisa",
-            "source_priority": 1333464,
-            "source_name": "Pr Newswire Apac",
-            "source_url": "https://en.prnasia.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/en_prnasisa.png",
-            "language": "english",
-            "country": [
-                "yemen",
-                "afghanistan",
-                "india",
-                "singapore",
-                "saudi arabia",
-                "united arab emirates",
-                "china",
-                "taiwan",
-                "pakistan",
-                "brunei",
-                "syria",
-                "bhutan",
-                "turkey",
-                "armenia",
-                "qatar",
-                "philippines",
-                "hong kong",
-                "romania",
-                "laos",
-                "timor-leste",
-                "bangladesh",
-                "vietnam",
-                "azerbaijan",
-                "uzbekistan",
-                "turkmenistan",
-                "macau",
-                "bahrain",
-                "tajikistan"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": true
-        },
-        {
-            "article_id": "45f36057fc32c72e9710972b41d645f5",
-            "title": "Geely's Eric Li Wears AR Glasses to Speak at Global Investment Promotion Conference in Shanghai",
-            "link": "https://en.prnasia.com/story/483521-0.shtml",
-            "keywords": [
-                "tds",
-                "iot",
-                "teq",
-                "afi",
-                "cpr",
-                "tls",
-                "cse",
-                "fin",
-                "ite"
-            ],
-            "creator": null,
-            "video_url": null,
-            "description": "SHANGHAI, March 28, 2025 /PRNewswire/ -- \"For today's speech, I implanted the speech script into my glasses.\" Eric Li, chairman of Geely Holding Group and founder of DreamSmart, said with a smile at the 2025 Shanghai Global Investment Promotion Conference held on March 25th. As a leading figure in China's tech and automobile industry, Eric Li's appearance is particularly striking - he wore a pair of StarV Air2 smart glasses on stage, the whole \"off-script\" speech. The glasses not only project the speech in real time on the lenses, but also synchronize the content according to the speed of speech. The glasses come from none other than Geely eco-company Meizu. As a technology company, Meizu has redefined the future of interaction with AR+AI technology, and Geely has the next generation of human-machine interaction products. As a key platform to promote the construction of Shanghai's \"five centers\", this year's Shanghai Global Investment Promotion Conference attracted more than 500 domestic and foreign well-known enterprises, investment institutions and representatives of business associations gathered together. the first four sessions have contributed to the signing of more than 580 major projects, with a total investment of more than 1.1 trillion yuan. In this stage for global enterprises to share opportunities, Eric Li attracted the attention of global investors with a technological speech, showing Meizu's innovative strength and product charm. From the perspective of the conference as a whole, the \"newness\" of this scene is far more than just a display of technology, but also reflects the courage and confidence of entrepreneurs to physically promote the development of science and technology. Eric Li's AR glasses and Shanghai has an inextricable link. \"I'm wearing this pair of smart AR glasses today, the core technology research and development team and the core supply chain are in Shanghai, has been mass-produced for two generations and has been verified by tens of thousands of consumers.\" Meizu's deep cooperation with the industry's TOP-level supply chain partners has resulted in the debut and first use of many industry-leading products, leading the development trend of the smart glasses industry. StarV Air2 has been mass-produced and optimized through two generations of products, serving more than 50,000 users cumulatively, and is a phenomenal product in the AR field. In addition to supporting the teleprompter function that has recently flamed out of the circle.It also supports AI real-time translation, AR navigation, AI meeting assistant and other functions. StarVee Phantom researches its own Flyme AI big model, and in addition to accessing the head third party big model such as Tongyi Thousand Questions, Byte Beanbag, and Wenxin Yiyin, it is also the first to access the DeepSeek big model, and is actively building a comprehensive AI ecosystem. StarV Air2 adopts a highly difficult optical waveguide program, and after two generations of iteration, the product power is leading generation to generation. Not long ago, iResearch released the \"2024 Consumer AR Glasses Market Report\", which researched the five most powerful companies in the smart glasses industry and put forward the concept of \"Five AR Glasses Giants\", with Meizu at the top of this. The iResearch also pointed out that in the first quarter since the release of the StarV series of products in September last year, the market share quickly reached 41.5%, and the sales volume in the AR category was the first in the country, directly pulling the industry sales growth. Meizu is the only enterprise with a full ecological layout in the AR glasses industry. As an important part of Meizu's \"smart phone + XR + smart car\" business layout, AR smart glasses can be interconnected with smartphones, smart cars and other terminals through Flyme AIOS, and jointly build a multi-terminal, full-scene, immersive and integrated experience for consumers. Meizu's convergent AI ecology has been widely welcomed by users, and the results of the ecological layout have been initially seen: in 2025, Meizu has won \"three firsts in China\" - the first in the sales growth rate of AI cell phones, the first in the market share of smart glasses, and the first in the number of listed models and the first in the growth rate of users in a single month of the intelligent cockpit operating system, and has covered more than 600,000 car owner users. Flyme Auto is the first in the number of listed models and the first in the growth rate of users in a single month, and it has already covered more than 600,000 car owners and users, and is firmly in the first camp of the automobile system. It's worth to mention that Meizu is the smartphone brand of DreamSmart Group, which carries AI eco-products in three product areas, which are smartphones, XR and smart cars. With deep technological expertise in multiple industries, DreamSmart is recognized as a leader in smart ecosystems. Meizu took the lead in proposing the \"All in AI\" strategy at the beginning of 2024, and has made every effort to promote the application of AI at the product level, bringing users a brand-new integration experience. Looking ahead, Meizu's practicality, innovation and leadership in application scenarios will paint a new picture of the global smart mobility ecosystem.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-03-28 08:10:00",
-            "pubDateTZ": "UTC",
-            "image_url": "https://mma.prnasia.com/media2/2652532/image_5031974_25986447.jpg?p=medium600",
-            "source_id": "en_prnasisa",
-            "source_priority": 1333464,
-            "source_name": "Pr Newswire Apac",
-            "source_url": "https://en.prnasia.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/en_prnasisa.png",
-            "language": "english",
-            "country": [
-                "yemen",
-                "afghanistan",
-                "india",
-                "singapore",
-                "saudi arabia",
-                "united arab emirates",
-                "china",
-                "taiwan",
-                "pakistan",
-                "brunei",
-                "syria",
-                "bhutan",
-                "turkey",
-                "armenia",
-                "qatar",
-                "philippines",
-                "hong kong",
-                "romania",
-                "laos",
-                "timor-leste",
-                "bangladesh",
-                "vietnam",
-                "azerbaijan",
-                "uzbekistan",
-                "turkmenistan",
-                "macau",
-                "bahrain",
-                "tajikistan"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "880a75546a348a8e1f61b89c6e131913",
-            "title": "India targets 100 GW nuclear energy by 2047, opens sector to private players: Jitendra Singh",
-            "link": "https://www.thestatesman.com/business/india-targets-100-gw-nuclear-energy-by-2047-opens-sector-to-private-players-jitendra-singh-1503412841.html",
-            "keywords": null,
-            "creator": null,
-            "video_url": null,
-            "description": "GW, Jitendra Singh, nuclear mission",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-03-28 08:09:57",
-            "pubDateTZ": "UTC",
-            "image_url": "https://www.thestatesman.com/wp-content/uploads/2025/02/Untitled-design-2025-02-01T133637.573-jpg.webp",
-            "source_id": "thestatesman",
-            "source_priority": 42473,
-            "source_name": "The Statesman",
-            "source_url": "https://www.thestatesman.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/thestatesman.jpg",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": true
-        },
-        {
-            "article_id": "2097791d689e2333ee511d8e2245638f",
-            "title": "People Are Using AI To Churn Ghibli-Style Images & Miyazaki Fans Are Calling It Disrespectful",
-            "link": "https://storypick.com/people-are-using-ai-to-churn-studio-ghibli-style-images/",
-            "keywords": [
-                "chatgpt",
-                "studio ghibli",
-                "art",
-                "hayao miyazaki",
-                "artificial intelligence",
-                "ai ghibli images",
-                "entertainment"
-            ],
-            "creator": [
-                "Disha Banerjee"
-            ],
-            "video_url": null,
-            "description": "The internet has a new obsession: giving everything a Studio Ghibli twist using AI. It started just days...The post People Are Using AI To Churn Ghibli-Style Images & Miyazaki Fans Are Calling It Disrespectful appeared first on Storypick.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-03-28 08:09:55",
-            "pubDateTZ": "UTC",
-            "image_url": "https://s.w.org/images/core/emoji/15.0.3/72x72/2764.png",
-            "source_id": "storypick",
-            "source_priority": 647844,
-            "source_name": "Storypick",
-            "source_url": "https://www.storypick.com/feed",
-            "source_icon": "https://i.bytvi.com/domain_icons/storypick.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "entertainment"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "ff12e5c4700e71ff92d13dfa527a43aa",
-            "title": "During Amazon sale, get over 70% off on vehicle essentials like dash cams, GPS trackers, tyre inflators, and more",
-            "link": "https://www.hindustantimes.com/technology/during-amazon-sale-get-over-70-off-on-vehicle-essentials-like-dash-cams-gps-trackers-tyre-inflators-and-more-101743145147847.html",
-            "keywords": [
-                "latest"
-            ],
-            "creator": null,
-            "video_url": null,
-            "description": "Amazon's sale slashes prices by over 70% on crucial vehicle essentials. Secure reliable dash cams for road safety, GPS trackers and more.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-03-28 08:09:51",
-            "pubDateTZ": "UTC",
-            "image_url": "https://www.hindustantimes.com/ht-img/img/2025/03/28/1600x900/erik-mclean-ZRns2R5azu0-unsplash_1743145733164_1743145737090.jpg",
-            "source_id": "hindustantimes",
-            "source_priority": 933,
-            "source_name": "Hindustan Times",
-            "source_url": "http://www.hindustantimes.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/hindustantimes.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "96e2cdb6f2a72fd2665841bb7c5a2ba0",
-            "title": "बरनाला में पुलिस और बदमाशों के बीच मुठभेड़:एक के पैर में लगी गोली, दूसरा गिरफ्तार, गाड़ी पर भी फायरिंग",
-            "link": "https://www.bhaskar.com/local/punjab/barnala/news/barnala-police-encounter-criminals-near-trident-factory-update-134725394.html",
-            "keywords": null,
-            "creator": null,
-            "video_url": null,
-            "description": "पंजाब के बरनाला जिले में मानसा रोड स्थित ट्राइडेंट फैक्ट्री के पास सुबह 7 बजे पुलिस और बदमाशों के बीच मुठभेड़ हुई। मुठभेड़ में एक बदमाश वीरभद्र कालू के पैर में गोली लगी। उसे अस्पताल में भर्ती कराया गया है। पुलिस ने दूसरे बदमाश केवल को गिरफ्तार कर लिया है। दोनों बदमाश बरनाला के रहने वाले हैं। पुलिस ने मौके से एक गाड़ी और दो पिस्टल बरामद किए हैं। रूकने का इशारा करने पर भागने की कोशिश जिला पुलिस प्रमुख सरफराज आलम और सीआईए स्टाफ इंचार्ज इंस्पेक्टर बलजीत सिंह के अनुसार पुलिस टीम सुबह नाकाबंदी कर रही थी। इस दौरान मानसा की तरफ से एक काली होंडा कार आई। पुलिस ने रुकने का इशारा किया तो बदमाश गाड़ी लेकर भागने लगे। पुलिस की सतर्कता से बदमाश गाड़ी छोड़कर खेतों में भाग गए। आपराधिक रिकॉर्ड खंगाल रही पुलिस उन्होंने पुलिस पर फायरिंग की, जिसमें एक गोली पुलिस की गाड़ी को लगी। जवाबी कार्रवाई में पुलिस ने भी फायरिंग की। पुलिस दोनों बदमाशों का आपराधिक रिकॉर्ड खंगाल रही है। साथ ही यह भी जांच की जा रही है कि वे किसी वारदात को अंजाम देने जा रहे थे या नहीं।",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-03-28 08:09:51",
-            "pubDateTZ": "UTC",
-            "image_url": "https://images.bhaskarassets.com/thumb/1000x1000/web2images/521/2025/03/28/611d28b1-5180-4cce-a91a-0c583dedfeff_1743138387087.jpg",
-            "source_id": "bhaskar_hindi",
-            "source_priority": 34179,
-            "source_name": "Bhaskar",
-            "source_url": "https://www.bhaskar.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/bhaskar_hindi.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "domestic"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "36e1404c9fc4f78ebddbe7da6ccfe778",
-            "title": "भाई का निधन, हिंदू बहन हुई अनाथ, तो मुस्लिम युवक ने दी अंतिम संस्कार की अग्नि",
-            "link": "https://hindi.news18.com/news/ajab-gajab/viral-hindu-woman-brother-cremated-by-muslim-man-in-pune-breaking-religious-barriers-sa-local18-9134693.html",
-            "keywords": [
-                "देश"
-            ],
-            "creator": [
-                "News18 Hindi"
-            ],
-            "video_url": null,
-            "description": "Pune News: पुणे में एक हिंदू महिला के भाई के निधन के बाद एक मुस्लिम व्यक्ति ने मृतदेह को अग्नि दी. इस घटना का वीडियो अब सोशल मीडिया पर वायरल हो रहा है.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-03-28 08:09:49",
-            "pubDateTZ": "UTC",
-            "image_url": "https://images.news18.com/ibnkhabar/uploads/2025/03/images-2025-03-28T133348.584-2025-03-2ed7512020ba90c976bdb1b5f8c4cd14-3x2.jpg",
-            "source_id": "hindinews18",
-            "source_priority": 4077,
-            "source_name": "News 18 Hindi",
-            "source_url": "https://hindi.news18.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/hindinews18.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "2b25750cda9e308e0c90161d586cc35b",
-            "title": "Centre to borrow Rs 8 lakh crore via bonds in April-September",
-            "link": "https://www.thestatesman.com/business/centre-to-borrow-rs-8-lakh-crore-via-bonds-in-april-september-1503412842.html",
-            "keywords": null,
-            "creator": null,
-            "video_url": null,
-            "description": "Budget-2025, Finance Ministry",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-03-28 08:09:44",
-            "pubDateTZ": "UTC",
-            "image_url": "https://www.thestatesman.com/wp-content/uploads/2021/07/finance-ministry-ians.jpg",
-            "source_id": "thestatesman",
-            "source_priority": 42473,
-            "source_name": "The Statesman",
-            "source_url": "https://www.thestatesman.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/thestatesman.jpg",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": true
-        },
-        {
-            "article_id": "d248b2c529f281a6ebe8134b3e22533c",
-            "title": "Vicky Jain REACTS After Influencers Hilariously Mock His Fights With Wife Ankita Lokhande: 'On Point' (VIDEO)",
-            "link": "https://www.freepressjournal.in/entertainment/vicky-jain-reacts-after-influencers-hilariously-mock-his-fights-with-wife-ankita-lokhande-on-point-video",
-            "keywords": [
-                "entertainment",
-                "topnews",
-                "fpj shorts",
-                "television"
-            ],
-            "creator": null,
-            "video_url": null,
-            "description": null,
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-03-28 08:09:43",
-            "pubDateTZ": "UTC",
-            "image_url": "https://media.assettype.com/freepressjournal/2025-03-28/2r96d0bo/image.png",
-            "source_id": "freepressjournal",
-            "source_priority": 26427,
-            "source_name": "The Free Press Journal",
-            "source_url": "https://www.freepressjournal.in",
-            "source_icon": "https://i.bytvi.com/domain_icons/freepressjournal.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "9b0ea6820c3927246e6cb9d75959b79d",
-            "title": "Should the free movement regime between India and Myanmar remain? | The Hindu Parley podcast",
-            "link": "https://www.thehindu.com/podcast/should-the-free-movement-regime-between-india-and-myanmar-remain-the-hindu-parley-podcast/article69385134.ece",
-            "keywords": [
-                "podcast"
-            ],
-            "creator": null,
-            "video_url": null,
-            "description": "In this episode, Henry Zodinliana Pachuau and Likhase Sangtam discuss the pros and cons in a conversation moderated by Rahul Karmakar.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-03-28 08:09:41",
-            "pubDateTZ": "UTC",
-            "image_url": "https://th-i.thgim.com/public/todays-paper/tp-opinion/lrm83f/article69383733.ece/alternates/LANDSCAPE_1200/28th_parley_GEAG9TE62E6U.3.jpg.jpg",
-            "source_id": "thehindu",
-            "source_priority": 2972,
-            "source_name": "The Hindu",
-            "source_url": "https://www.thehindu.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/thehindu.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "3626e7e6d1cecdedfb4b4c9526b6a8d9",
-            "title": "Embracing Divine Feminine",
-            "link": "https://timesofindia.indiatimes.com/speaking-tree/daily-ecstasy/embracing-divine-feminine/articleshow/119642505.cms",
-            "keywords": null,
-            "creator": null,
-            "video_url": null,
-            "description": "While men may build monuments, climb mountains, or compose symphonies, none of these achievements can compare to creation of life itself—a unique gift that only a woman can bestow, writes Anandmurti Gurumaa",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-03-28 08:09:37",
-            "pubDateTZ": "UTC",
-            "image_url": "https://static.toiimg.com/thumb/msid-119642503,imgsize-30344,width-400,resizemode-4/119642503.jpg",
-            "source_id": "toi",
-            "source_priority": 239,
-            "source_name": "The Times Of India",
-            "source_url": "https://timesofindia.indiatimes.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/toi.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "9b8bd70a0af9adf8c8090ed349835fa3",
-            "title": "Kartik Aaryan, Sreeleela Enjoy Romantic Chai Date In Latest Still From Anurag Basu's Next - See POST",
-            "link": "https://www.timesnownews.com/entertainment-news/bollywood/kartik-aaryan-sreeleela-enjoy-romantic-chai-date-in-latest-still-from-anurag-basus-next-see-post-article-119641099",
-            "keywords": null,
-            "creator": [
-                "Times Now Digital"
-            ],
-            "video_url": null,
-            "description": "Kartik Aaryan recently shared a romantic ‘chai date’ picture with co-star Sreeleela. Captured against a lush green backdrop, the photo was taken on the set of Anurag Basu's upcoming film. Read on for more details!",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-03-28 08:09:35",
-            "pubDateTZ": "UTC",
-            "image_url": "https://static.tnn.in/thumb/msid-119642499,thumbsize-1949222,width-1280,height-720,resizemode-75/119642499.jpg",
-            "source_id": "timesnownews",
-            "source_priority": 2243,
-            "source_name": "Times Now News",
-            "source_url": "https://www.timesnownews.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/timesnownews.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "a77410ffb40bf4a81a809150c9cf008c",
-            "title": "Indian companies raise record funds through equity and debt in FY25: Report",
-            "link": "https://www.thestatesman.com/business/indian-companies-raise-record-funds-through-equity-and-debt-in-fy25-report-1503412845.html",
-            "keywords": null,
-            "creator": null,
-            "video_url": null,
-            "description": "Indian corporates, Market, Prime",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-03-28 08:09:35",
-            "pubDateTZ": "UTC",
-            "image_url": "https://www.thestatesman.com/wp-content/uploads/2025/03/IMG_0644-jpeg.webp",
-            "source_id": "thestatesman",
-            "source_priority": 42473,
-            "source_name": "The Statesman",
-            "source_url": "https://www.thestatesman.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/thestatesman.jpg",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": true
-        },
-        {
-            "article_id": "3f2bd9341813c3e4067c3b0742859436",
-            "title": "WITT 2025: टीवी9 नेटवर्क के महामंच ‘व्हाट इंडिया थिंक्स टुडे’ का कुछ देर में आगाज, पीएम मोदी होगा संबोधन",
-            "link": "https://www.tv9hindi.com/india/what-india-thinks-today-2025-summit-witt-pm-narendra-modi-address-live-updates-3200482.html",
-            "keywords": [
-                "देश"
-            ],
-            "creator": [
-                "Mukesh Jha"
-            ],
-            "video_url": null,
-            "description": "What India Thinks Today 2025 Summit: टीवी9 नेटवर्क के महामंच 'व्हाट इंडिया थिंक्स टुडे' के तीसरे संस्करण का आगाज अब से कुछ ही देर में होगा. विचारों और चिंतन के इस महामंच में राजनीति, खेल, सिनेमा और उद्योग जगत से जुड़ी कई हस्तियां शामिल होंगी और अपने विचार साझा करेंगी. दो दिवसीय कार्यक्रम के पहले दिन यानी आज पीएम मोदी का संबोधन होगा.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-03-28 08:09:31",
-            "pubDateTZ": "UTC",
-            "image_url": "https://images.tv9hindi.com/wp-content/uploads/2025/03/pm-narendra-modi-5.jpg",
-            "source_id": "tv9bharatvarsh",
-            "source_priority": 40538658,
-            "source_name": "Tv9 Bharatvarsh",
-            "source_url": "https://www.tv9hindi.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/tv9bharatvarsh.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "3add0b78e3ef5be6a44549b8cc4ef0ba",
-            "title": "Chris Hemsworth's Japan Photo Dump Upsets Fans And The Reason Will Shock You",
-            "link": "https://www.news18.com/movies/chris-hemsworths-japan-photo-dump-upsets-fans-and-the-reason-will-shock-you-aa-9278393.html",
-            "keywords": [
-                "movies"
-            ],
-            "creator": null,
-            "video_url": null,
-            "description": "On Monday, Chris Hemsworth posted a string of pictures on the photo-sharing application, calling it a “photo dump from Japan trip.”",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-03-28 08:09:26",
-            "pubDateTZ": "UTC",
-            "image_url": "https://images.news18.com/ibnlive/uploads/2025/03/Untitled-design-2025-03-28T133831.406-2025-03-c84567b66b74ba94b6285dde6cbe6222-3x2.jpg",
-            "source_id": "news18",
-            "source_priority": 1063,
-            "source_name": "News 18",
-            "source_url": "https://www.news18.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/news18.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "entertainment"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "0cf0de69f9e29fdec29b6f990656d29e",
-            "title": "Rohit Sharma, Virat Kohli, Ravindra Jadeja Set For Demotion In BCCI Contract List? Nitish Kumar Reddy, Harshit Rana, and Abhishek Sharma To Earn New Deals: Report",
-            "link": "https://www.latestly.com/sports/rohit-sharma-virat-kohli-ravindra-jadeja-set-for-demotion-in-bcci-contract-list-nitish-kumar-reddy-harshit-rana-and-abhishek-sharma-to-earn-new-deals-report-6741297.html",
-            "keywords": null,
-            "creator": null,
-            "video_url": null,
-            "description": "With the international cricketing season over, the Board of Control for Cricket in India (BCCI) is all set for its annual performance meeting, which will decide the way forward for its player contract list. Find out which cricketer might get demoted, and who will earn promotions below.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-03-28 08:09:26",
-            "pubDateTZ": "UTC",
-            "image_url": "https://st1.latestly.com/wp-content/uploads/2025/03/57-226-1-380x214.jpg",
-            "source_id": "latestly",
-            "source_priority": 31923,
-            "source_name": "Latestly",
-            "source_url": "https://www.latestly.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/latestly.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "81fbc01f036b46ca51cfad06ed2b5f8f",
-            "title": "UAE Gold Rate on March 28: 22k 8 gm gold rate RISES by AED 28",
-            "link": "https://newsable.asianetnews.com/webstories/business/uae-gold-rate-march-28-2025-22k-18k-24k-gold-rate-anr-sttqnm",
-            "keywords": null,
-            "creator": null,
-            "video_url": null,
-            "description": null,
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-03-28 08:09:22",
-            "pubDateTZ": "UTC",
-            "image_url": "https://static-gi.asianetnews.com/images/01h9xevbasx81t58mzcc4rter4/gold-thumb.jpg",
-            "source_id": "newsable_asianetnews",
-            "source_priority": 7749,
-            "source_name": "Asianet Newsable",
-            "source_url": "https://newsable.asianetnews.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/newsable_asianetnews.jpg",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "d7ad5051b8083af7daf7e53fbcf62621",
-            "title": "Ageing in India’s LGBTQIA+ community: a silent struggle",
-            "link": "https://www.thehindu.com/society/ageing-lgbtqia-older-queer-community-india-marriage-legal-inequality-parenting-challenges/article69367722.ece",
-            "keywords": [
-                "society"
-            ],
-            "creator": null,
-            "video_url": null,
-            "description": "Older gay couples talk about the challenges of routine decisions around parenting, financial security or healthcare access in the absence of an inclusive legal framework in the country. And the constant need for ‘jugaad’",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-03-28 08:09:21",
-            "pubDateTZ": "UTC",
-            "image_url": "https://th-i.thgim.com/public/incoming/eln04x/article69371952.ece/alternates/LANDSCAPE_1200/Old_Age1.jpg",
-            "source_id": "thehindu",
-            "source_priority": 2972,
-            "source_name": "The Hindu",
-            "source_url": "https://www.thehindu.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/thehindu.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
             ],
             "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
             "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
