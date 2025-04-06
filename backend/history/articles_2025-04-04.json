@@ -1,6 +1,103 @@
 {
     "articles": [
         {
+            "article_id": "df1c6a19965f2c327a701dd830a54d42",
+            "title": "Nintendo Switch 2 pre-order delayed following Donald Trump’s tariffs",
+            "link": "https://timesofindia.indiatimes.com/technology/gaming/nintendo-switch-2-pre-order-delayed-following-donald-trumps-tariffs/articleshow/119986814.cms",
+            "keywords": null,
+            "creator": null,
+            "video_url": null,
+            "description": "Nintendo has delayed pre-orders for the Switch 2 console in response to tariffs announced by President Trump. The launch date remains June 5, 2025, but pre-orders originally set for May 8 are postponed.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-04-04 16:10:51",
+            "pubDateTZ": "UTC",
+            "image_url": "https://static.toiimg.com/thumb/msid-119986822,imgsize-18870,width-400,resizemode-4/Nintendo-Switch-2-pre-order-delayed-following-Donald-Trumps-tariffs.jpg",
+            "source_id": "toi",
+            "source_priority": 239,
+            "source_name": "The Times Of India",
+            "source_url": "https://timesofindia.indiatimes.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/toi.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "cafb197cf847184d7e1245516365568a",
+            "title": "Spain shares lower at close of trade; IBEX 35 down 5.77%",
+            "link": "https://in.investing.com/news/stock-market-news/spain-shares-lower-at-close-of-trade-ibex-35-down-577-4759795",
+            "keywords": null,
+            "creator": [
+                "Investing.com"
+            ],
+            "video_url": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-04-04 16:10:44",
+            "pubDateTZ": "UTC",
+            "image_url": "https://i-invdn-com.investing.com/news/bme3_p1_M_1440050349.jpg",
+            "source_id": "investing_in",
+            "source_priority": 1205,
+            "source_name": "Investing India",
+            "source_url": "https://in.investing.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/investing_in.jpg",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "business"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "fd8d60ad10bac48a1067a1ed75eed293",
+            "title": "Chirag sets up a last-four meeting with Clarke",
+            "link": "https://www.thehindu.com/sport/tennis/chirag-sets-up-a-last-four-meeting-with-clarke/article69413661.ece",
+            "keywords": [
+                "tennis"
+            ],
+            "creator": null,
+            "video_url": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-04-04 16:10:34",
+            "pubDateTZ": "UTC",
+            "image_url": "https://th-i.thgim.com/public/sport/eyxjlt/article69413649.ece/alternates/LANDSCAPE_1200/Duhan%202.jpg",
+            "source_id": "thehindu",
+            "source_priority": 2972,
+            "source_name": "The Hindu",
+            "source_url": "https://www.thehindu.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/thehindu.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "sports"
+            ],
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
             "article_id": "f0f5076807058e768ad3565bbf60730d",
             "title": "Israel's Netanyahu has spoken to Trump about tariffs, officials say",
             "link": "https://www.deccanherald.com/world/israels-netanyahu-has-spoken-to-trump-about-tariffs-officials-say-3478870",
