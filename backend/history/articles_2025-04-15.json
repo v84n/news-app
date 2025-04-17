@@ -1,6 +1,674 @@
 {
     "articles": [
         {
+            "article_id": "79633438c739309f5e26161901b7e921",
+            "title": "Harassment allegations: Burail police post in-charge shifted",
+            "link": "https://www.hindustantimes.com/cities/chandigarh-news/harassment-allegations-burail-police-post-in-charge-shifted-101744661553135.html",
+            "keywords": [
+                "cities/chandigarh-news"
+            ],
+            "creator": null,
+            "description": "Sources said the woman constable had approached the senior superintendent of police (SSP) Kanwardeep Kaur a few days ago with a formal complaint, accusing Burail police post in-charge Naveen Antil of persistent harassment at the workplace",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-04-15 04:10:00",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.hindustantimes.com/ht-img/img/2025/04/14/1600x900/Acting-on-the-complaint--SSP-Kanwardeep-Kaur-immed_1744661550198.jpg",
+            "video_url": null,
+            "source_id": "hindustantimes",
+            "source_name": "Hindustan Times",
+            "source_priority": 933,
+            "source_url": "http://www.hindustantimes.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/hindustantimes.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "ac349672711f1a53e004eb9f6e14ba0a",
+            "title": "राज्यपाल को द्रविड़वाद का अपमान करने का कोई अधिकार नहीं: मंत्री कोवी चेलियन ने की निंदा",
+            "link": "https://jantaserishta.com/local/tamil-nadu/governor-has-no-right-to-insult-dravidianism-minister-kovi-cheliyan-condemns-3955130",
+            "keywords": [
+                "राज्य,तमिलनाडू"
+            ],
+            "creator": [
+                "Kavita2"
+            ],
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-04-15 04:09:55",
+            "pubDateTZ": "UTC",
+            "image_url": "https://jantaserishta.com/h-upload/2025/04/15/4525628-untitled-13-copy.webp",
+            "video_url": null,
+            "source_id": "jantaserishta",
+            "source_name": "Janta Se Rishta",
+            "source_priority": 81836,
+            "source_url": "https://jantaserishta.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/jantaserishta.jpg",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "f311dace9b61f71c141b800219d20f95",
+            "title": "ना प्रिंट निकलेगा ना रंग उड़ेगा, प्रिंटेड साड़ी खरीदने+मेंटेन की Tips",
+            "link": "https://hindi.asianetnews.com/lifestyle/life/printed-saree-never-fades-know-how-to-buy-and-take-care-tips/articleshow-91h6qd5",
+            "keywords": [
+                "other lifestyle"
+            ],
+            "creator": [
+                "Shivangi Chauhan"
+            ],
+            "description": "Tips To Help You Buy A Printed Saree: प्रिंटेड साड़ी का रंग उड़ने से बचाना है? खरीदारी करते समय कपड़े की क्वालिटी और प्रिंट का ध्यान रखें। सही देखभाल से साड़ी का रंग सालों तक रहेगा।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-04-15 04:09:45",
+            "pubDateTZ": "UTC",
+            "image_url": "https://static-gi.asianetnews.com/images/01jrvn076qm401df46c09xe59y/printed-saree-tips-1744684719317.jpg",
+            "video_url": null,
+            "source_id": "hindi_asianetnews",
+            "source_name": "Asianet News Hindi",
+            "source_priority": 7805,
+            "source_url": "https://hindi.asianetnews.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/hindi_asianetnews.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "db1754b377e64f5e9fd705f77bd8293f",
+            "title": "‘Gajab swad ba!’: Japanese envoy relishes Bihar’s litti chokha, photo goes viral - The Indian Express",
+            "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPNm9BcG9QajloVEoydVduOExiejNHVUwxUVg3YXgxZnlLQ1JnZjIxcVVsTlNKeHVTakd6RkliRXFlWlN2cm5YTm1ndWx1b2xvSFVTT3lRRllGR0IxU0V3a2xUaWZsdENETENtM1l2RU5wdWtNZ1hiSkZsR2ZlMzYzRTB6VjB4QnVUX09ZZFlKaHFwNWU0WTdHb1FvM0ZrQVVnOW1femRJdUl2d0MzNWItSkNlUG1xSFRidmRMM1hWaW42YmJ3RDJ0QdIBzwFBVV95cUxOMURxcWZVc1A3MUU1LWNGY3JFRVFEUGV0ZWtxd2NyOHhaVWIwX2hXUS1ueXR5MkgyUjZzSWpSX2hxQ0NsTkEzTXdWcFRIanhxQkxwc0pZdWYtTWphWllHNG9TNURmanhRbmIwWUZuNFVSd0lZbHhYY0pLeENQam5TOW82a3dJZklFMnE2UDhjdXoySUpnSGIycG9MbmdlRTlqc2dTdzRsQ0RSdDBILW5QOUhiRzlreGE4T1pTSEJPaWx1NHVmaERsR00xZFQ5SUU?oc=5",
+            "keywords": null,
+            "creator": null,
+            "description": "‘Gajab swad ba!’: Japanese envoy relishes Bihar’s litti chokha, photo goes viral The Indian Express‘Gajab swad ba’: Japan’s envoy tastes Litti Chokha, reviews highway infrastructure in Bihar Telegraph IndiaJapanese ambassador can't get enough of this iconic Bihari dish: Check viral video The Economic TimesJapan envoy tries litti chokha in Bihar and says Gazab swad ba India Today'Gajab swad ba': Japanese envoy tries Bihar’s 'world-famous' litti chokha, internet delighted Hindustan Times",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-04-15 04:09:42",
+            "pubDateTZ": "UTC",
+            "image_url": null,
+            "video_url": null,
+            "source_id": "google",
+            "source_name": "Google News",
+            "source_priority": 14,
+            "source_url": "https://news.google.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/google.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "7e156a9ea6062e843316869d6b75335a",
+            "title": "संजय दत्त की हॉरर-कॉमेडी The Bhootni की रलीज डेट टली, अब 1 मई को सिनेमाघरों में देगी दस्तक!",
+            "link": "https://hindi.latestly.com/entertainment/bollywood/sanjay-dutts-horror-comedy-the-bhootni-gets-new-release-date-now-hitting-cinemas-on-may-1-2577479.html",
+            "keywords": null,
+            "creator": null,
+            "description": "बॉलीवुड के मशहूर अभिनेता संजय दत्त की आगामी हॉरर-कॉमेडी फिल्म The Bhootni अब तय शेड्यूल से देरी से रिलीज होगी.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-04-15 04:09:42",
+            "pubDateTZ": "UTC",
+            "image_url": "https://hist1.latestly.com/wp-content/uploads/2025/04/25-222-380x214.jpg",
+            "video_url": null,
+            "source_id": "latestly",
+            "source_name": "Latestly",
+            "source_priority": 31923,
+            "source_url": "https://www.latestly.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/latestly.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "entertainment"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "5f499b452a55ed362de3c659b6ac6242",
+            "title": "Delhi-NCR में लू का कहर, 16-18 अप्रैल तक भीषण गर्मी का अनुमान",
+            "link": "https://jantaserishta.com/delhi-ncr/heat-wave-wreaks-havoc-in-delhi-ncr-severe-heat-expected-from-16-18-april-3955129",
+            "keywords": [
+                "दिल्ली-एनसीआर"
+            ],
+            "creator": [
+                "Kiran"
+            ],
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-04-15 04:09:40",
+            "pubDateTZ": "UTC",
+            "image_url": "https://jantaserishta.com/h-upload/2025/04/15/4525626-1.webp",
+            "video_url": null,
+            "source_id": "jantaserishta",
+            "source_name": "Janta Se Rishta",
+            "source_priority": 81836,
+            "source_url": "https://jantaserishta.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/jantaserishta.jpg",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "f3772e74949719ab22778128bf8ac21a",
+            "title": "UP Board Result 2025 for Class 10, 12 to Be Declared Soon: Minister Gulab Devi",
+            "link": "https://www.timesnownews.com/education/up-board-result-2025-class-12-10-release-download-upmsp-mark-sheet-pdf-at-upresults-nic-in-article-151424928",
+            "keywords": null,
+            "creator": [
+                "Deepali Samaniya"
+            ],
+            "description": "UP Board Result 2025 for class 10 and 12 will be declared soon. Once released, students can download mark sheets on the official website: upresults.nic.in or upmsp.edu.in. Know latest updates here.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-04-15 04:09:29",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.timesnownews.com/thumb/msid-151424939,thumbsize-76312,width-1280,height-720,resizemode-75/151424939.jpg",
+            "video_url": null,
+            "source_id": "timesnownews",
+            "source_name": "Times Now News",
+            "source_priority": 2243,
+            "source_url": "https://www.timesnownews.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/timesnownews.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "education"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "d7af9fed734ffd848b1bda19d2f5d838",
+            "title": "Japan tariffs envoy to visit Washington Wednesday",
+            "link": "https://timesofindia.indiatimes.com/world/japan-tariffs-envoy-to-visit-washington-wednesday/articleshow/120297952.cms",
+            "keywords": null,
+            "creator": null,
+            "description": "Japan's representative is set to visit Washington for crucial tariff discussions with top US officials. Ryosei Akazawa will meet with Scott Bessent and Jamieson Greer. This visit follows Trump's hints at softening auto tariffs. South Korea and Indonesia are also engaging in trade talks with the US. These negotiations are viewed as critical for shaping future trade relations.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-04-15 04:09:28",
+            "pubDateTZ": "UTC",
+            "image_url": "https://static.toiimg.com/thumb/msid-120298125,imgsize-895526,width-400,resizemode-4/Japan-tariffs-envoy-to-visit-Washington-Wednesday.jpg",
+            "video_url": null,
+            "source_id": "toi",
+            "source_name": "The Times Of India",
+            "source_priority": 239,
+            "source_url": "https://timesofindia.indiatimes.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/toi.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "301b68dd6c6bcfd64ca246a8f6def34c",
+            "title": "Stock markets open strong post-holiday; Sensex up 2%, Nifty hits fresh high",
+            "link": "https://english.mathrubhumi.com/news/money/sensex-soars-1500-points-nifty-hits-record-high-1.10510684",
+            "keywords": null,
+            "creator": null,
+            "description": "Mumbai: India's frontline equity indices on Tuesday surged in a massive bull rally in the early trade, as positive global cues improved investors' sentiment ...",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-04-15 04:09:27",
+            "pubDateTZ": "UTC",
+            "image_url": "https://english.mathrubhumi.com/image/contentid/policy:1.10397354:1741176912/stockmarket.jpg?%24p=737e35a&f=16x10&q=0.8&w=852",
+            "video_url": null,
+            "source_id": "mathrubhumi",
+            "source_name": "Mathrubhumi English",
+            "source_priority": 7490,
+            "source_url": "https://english.mathrubhumi.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/mathrubhumi.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "f4f30bbb9585aad0f7ce5c8f676be287",
+            "title": "IPL 2025: ‘ट्राई करना है तो हम ही कर लेंगे’, सूर्यकुमार यादव ने बताया मैच के आखिरी समय में धोनी ने शिवम दुबे से क्या कहा?",
+            "link": "https://www.jansatta.com/khel/ipl-2025-surya-kumar-yadav-teases-ms-dhoni-shivam-dube-for-innings-against-lucknow-lsg-vs-csk/3921470/",
+            "keywords": null,
+            "creator": [
+                "Jansatta"
+            ],
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-04-15 04:09:24",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.jansatta.com/wp-content/uploads/2025/04/csk-22.jpg",
+            "video_url": null,
+            "source_id": "jansatta",
+            "source_name": "Jansatta",
+            "source_priority": 385929,
+            "source_url": "https://www.jansatta.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/jansatta.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "e5cd264d77408eea6008ab5494ae3f51",
+            "title": "UP: घुटने, पैर और कूल्हे... तोड़ डाले फिर कार से घसीटा गया; योगेश संग बर्बरता की सभी हदें पार कर दी गईं",
+            "link": "https://www.amarujala.com/uttar-pradesh/amroha/up-murder-case-yogesh-was-dragged-after-being-hit-by-a-car-2025-04-15",
+            "keywords": null,
+            "creator": null,
+            "description": "हत्यारोपियों ने योगेश की हत्या करने में बर्बरता की सभी हदें पार कर दी थीं।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-04-15 04:09:24",
+            "pubDateTZ": "UTC",
+            "image_url": "https://staticimg.amarujala.com/assets/images/original/default_500.png?dpr=1.0&q=80&w=414",
+            "video_url": null,
+            "source_id": "amarujala",
+            "source_name": "Amar Ujala",
+            "source_priority": 55215,
+            "source_url": "https://www.amarujala.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/amarujala.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "312fe3b61779f72dd57f9140a903e211",
+            "title": "Bihar Police Constable Bharti 2025: बिहार पुलिस में कांस्टेबल के 19838 पदों के लिए जल्द करें आवेदन, लास्ट डेट नजदीक",
+            "link": "https://www.tv9hindi.com/education/bihar-police-constable-bharti-2025-apply-soon-for-19838-post-last-date-april-18-sarkari-naukri-3233830.html",
+            "keywords": null,
+            "creator": [
+                "TV9 Bharatvarsh"
+            ],
+            "description": "Bihar Police Constable Bharti 2025: बिहार पुलिस कांस्टेबल भर्ती 2025 के लिए आवेदन प्रक्रिया शुरू है और लास्ट डेट नजदीक है. कुल 19838 पदों पर भर्तियां होनी है. चयन लिखित परीक्षा आदि प्रक्रिया के जरिए किया जाएगा.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-04-15 04:09:24",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.tv9hindi.com/wp-content/uploads/2025/04/bihar-police-constable-bharti-2025-.jpg",
+            "video_url": null,
+            "source_id": "tv9bharatvarsh",
+            "source_name": "Tv9 Bharatvarsh",
+            "source_priority": 40538658,
+            "source_url": "https://www.tv9hindi.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/tv9bharatvarsh.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "81cd1c3d6c2a18b5bb8c344de65b55ab",
+            "title": "If Islam Makhachev Moves Up to Welterweight, UFC Legend Proposes Paddy Pimblett Fight for Lightweight Title",
+            "link": "https://thesportsrush.com/ufc-news-if-islam-makhachev-moves-up-to-welterweight-ufc-legend-proposes-paddy-pimblett-fight-for-lightweight-title/",
+            "keywords": [
+                "islam makhachev",
+                "ufc",
+                "paddy pimblett"
+            ],
+            "creator": [
+                "Allan Binoy"
+            ],
+            "description": "UFC 314 had everyone switch their perspective on Paddy Pimblett. The Michael Chandler’s gladiator-esque fighting style was supposed to be a foil for lightweight prospect. Instead, the fight ended with Pimblett with top control, landing fists as a bloody Chandler covered up in the third round. His performance was so good that it had both [...]The post If Islam Makhachev Moves Up to Welterweight, UFC Legend Proposes Paddy Pimblett Fight for Lightweight Title appeared first on The SportsRush.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-04-15 04:09:20",
+            "pubDateTZ": "UTC",
+            "image_url": "https://cdn-wp.thesportsrush.com/2025/04/47292349-untitled-design-2025-04-15t093732.981.jpg?format=auto&q=75&w=3840",
+            "video_url": null,
+            "source_id": "thesportsrush",
+            "source_name": "The Sportsrush",
+            "source_priority": 96305,
+            "source_url": "https://thesportsrush.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/thesportsrush.jpg",
+            "language": "english",
+            "country": [
+                "india",
+                "australia",
+                "united states of america",
+                "united kingdom"
+            ],
+            "category": [
+                "sports"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "4d1796c5f3f68518f67323e7aba22d31",
+            "title": "Core Democratic groups are preparing to be targeted by the Trump administration",
+            "link": "https://timesofindia.indiatimes.com/world/us/core-democratic-groups-are-preparing-to-be-targeted-by-the-trump-administration/articleshow/120298142.cms",
+            "keywords": null,
+            "creator": null,
+            "description": "Amid escalating political tensions, key Democratic institutions like ActBlue and Indivisible are bracing for potential criminal investigations under the Trump administration. Top Republicans are openly advocating for retribution, citing the prosecutions against Trump as justification. These Democratic groups are collaborating with attorneys and devising contingency plans, fearing politically motivated legal challenges and actions from non-state actors inspired by Trump's rhetoric.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-04-15 04:09:20",
+            "pubDateTZ": "UTC",
+            "image_url": "https://static.toiimg.com/thumb/msid-120298283,width-1070,height-580,imgsize-1305485,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "video_url": null,
+            "source_id": "toi",
+            "source_name": "The Times Of India",
+            "source_priority": 239,
+            "source_url": "https://timesofindia.indiatimes.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/toi.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": true
+        },
+        {
+            "article_id": "e1053d5d7d2965dfee297dffdd14f1c7",
+            "title": "नोएडा इंटरनेशनल एयरपोर्ट के पास बनेगा पशु पुनर्वास केंद्र:प्राधिकरण ने जारी किया टेंडर, 258 काले हिरण और 176 सारस का होगा संरक्षण",
+            "link": "https://www.bhaskar.com/local/uttar-pradesh/gautambudh-nagar/news/animal-rehabilitation-center-will-be-built-near-noida-international-airport-authority-issued-tender-258-black-deer-and-176-cranes-will-be-protected-134841745.html",
+            "keywords": null,
+            "creator": null,
+            "description": "नोएडा इंटरनेशनल एयरपोर्ट से विस्थापित पशुओं के लिए पुर्नवास केंद्र बनाने का रास्ता साफ हो गया है। इसे जू ऑथोरिटी ऑफ इंडिया की मंजूरी म ल गई है। निर्माण पर करीब 3.41 करोड़ रुपए खर्च किए जाएंगे। प्राधिकरण ने इसके लिए टेंडर जारी कर दिया है। इसका निर्माण उद्यान विभाग कराएगा। हॉर्टिकल्चर विभाग के निदेशक आनंद मोहन ने बताया कि टेंडर के तहत आवेदन की प्रक्रिया 15 से 21 अप्रैल तक चलेगी। 23 अप्रैल को सुबह 11 बजे टेक्निकल बिड खोली जाएगी। इस टेक्निकल बिड में जो फर्म प्री क्वालिफाई करेंगी, उन्हें ही फाइनेंशियल बिड के लिए आगे बढ़ाया जाएगा। बताया जा रहा है कि मई से इसका काम शुरू हो जाएगा। यहां पर पशुओं के इलाज के लिए मेडिकल सेंटर, कमरे, शेड व डॉक्टर की टीम तक तैनात की जाएगी। एयरपोर्ट के आसपास 10 किमी दायरे में पशु संरक्षणबता दें कि वन्य जीव संस्थान देहरादून से जेवर में एयरपोर्ट के आसपास क्षेत्र में अध्ययन करवाया गया था। अध्ययन के तहत एयरपोर्ट के 10 किलोमीटर क्षेत्र में आने वाले जीव-जंतुओं के संरक्षण पर रिपोर्ट मांगी गई थी। क्षेत्र के वन्य जीवों के संरक्षण की योजना और उनकी संख्या को भी जाना गया था। रिपोर्ट में बताया गया था कि जेवर में 258 काले हिरण और 176 सारस हैं। एयरपोर्ट के निर्माण के चलते इनका पारिस्थितिकी तंत्र बिगड़ेगा। इसके चलते इनके संरक्षण की जरूरत है। 30 साल की लीज पर जमीनसेक्टर-17ए में धनौरी वेटलैंड के पास वन्य जीव संरक्षण केंद्र बनाने की योजना बनी थी। पहले इसे पांच साल के लिए अस्थायी तौर पर विकसित किया जाना था। इसके बाद वन्य जीवों का दूसरी जगह पर विस्थापन किया जाता, लेकिन अगस्त में प्राधिकरण ने जमीन की लीज को 30 साल तक बढ़ाकर स्थायी पशु बचाव एवं पुनर्वास केंद्र बनाने पर सहमति बनी। अब प्राधिकरण की ओर से इसका निर्माण शुरू करने के लिए भी टेंडर जारी कर दिया है। हॉर्टिकल्चर विभाग को जिम्मेदारीपशु बचाव एवं पुनर्वास केंद्र को बनाने के लिए पहले वन विभाग को जिम्मेदारी मिली थी, लेकिन अब इसे हॉर्टिकल्चर विभाग से बनवाने का फैसला लिया गया है। बताया गया कि वन विभाग ने केंद्र को बनाने के लिए करीब आठ करोड़ का एस्टीमेट तैयार किया था, हालांकि अब हॉर्टिकल्चर इसे 3.41 करोड़ में तैयार करेगा।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-04-15 04:09:20",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.bhaskarassets.com/thumb/1000x1000/web2images/521/2025/04/15/new-project-2025-04-15t093146913_1744689717.jpg",
+            "video_url": null,
+            "source_id": "bhaskar_hindi",
+            "source_name": "Bhaskar",
+            "source_priority": 34179,
+            "source_url": "https://www.bhaskar.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/bhaskar_hindi.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top",
+                "domestic"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "7b357782def639be678c540347b88180",
+            "title": "पुश अप से लेकर प्लैंक तक, ये एक्सरसाइज 50% तक कम कर सकती हैं इस गंभीर बीमारी का खतरा",
+            "link": "https://www.abplive.com/lifestyle/health/push-up-to-plank-the-6-effective-exercise-can-reduce-50-percent-chances-of-type-2-diabetes-2925061",
+            "keywords": [
+                "हेल्थ"
+            ],
+            "creator": [
+                "कोमल पांडे"
+            ],
+            "description": "Exercise And Diabetes: टाइप-2 डायबिटीज एक ऐसी बीमारी है, जो न जाने कितने लोगों को अपनी चपेट में ले चुकी है. इससे न केवल शरीर का ब्लड शुगर लेवल डिसबैलेंस होता है, बल्कि यह हार्ट अटैक, स्ट्रोक और कई बीमारियों का खतरा भी पैदा कर सकती है. बीएमसी मेडिसिन में पब्लिश हुई रिपोर्ट के अनुसार एक्सरसाइज करने से 44% तक डायबिटीज के जोखिम को कम किया जा सकता है. आज हम आपको बताते हैं उन 6 एक्सरसाइज के बारे में जो टाइप टू डायबिटीज के खतरे को 50% तक कम कर सकती है, इसे आप अपने घर पर भी कर सकते हैं.यह भी पढ़ें : भारत की हर दूसरी महिला है एनीमिया की शिकार, क्या आप भी हैं खतरे में?कौन सी एक्सरसाइज करेंपुश अपपुश अप न केवल आपके चेस्ट और आर्म्स स्ट्रैंथ को बढ़ाती है, बल्कि नियमित रूप से पुश अप करने से मांसपेशियों को मजबूती मिलती है. इंसुलिन सेंसिटिविटी में सुधार होता है और ब्लड शुगर लेवल को कंट्रोल करने में भी मदद मिलती है.प्लैंकप्लैंक एक ईजी और इफेक्टिव एक्सरसाइज है, जिससे कंधों से लेकर पैरों की उंगलियां तक की मांसपेशियां एक्टिव होती है. यह स्ट्रेस रिलीज करने के साथ ही हार्मोन और मेटाबॉलिज्म को भी बढ़ाता है. इतना ही नहीं प्लैंक करने से वेट को कम करने में मदद मिलती है, इससे ब्लड शुगर लेवल भी कंट्रोल होता है.स्क्वाट्सजब आप थोड़े वेट के साथ स्क्वाट्स करते हैं, तो यह आपकी लोअर बॉडी के लिए इफेक्टिव होता है. इतना ही नहीं इससे पेट की चर्बी कम होती है और ब्लड शुगर लेवल को कंट्रोल करने में भी मदद मिलती है.सीढ़ी चढ़ना-उतरनाघर की सीढ़ियों पर ही 10 से 15 मिनट तक चढ़ने उतरने से ब्लड शुगर लेवल तेजी से कम हो सकता है. यह हार्ट और लंग्स के लिए भी फायदेमंद होता है.ब्रिस्क वॉकिंगब्रिस्क वॉकिंग सबसे आसान और असरदार तरीका है, रोजाना 30 से 45 मिनट तक ब्रिस्क वाकिंग करने से ब्लड शुगर लेवल कम होता है, इससे वजन भी कंट्रोल होता है और हार्ट हेल्थ भी बेहतर होती है.लंजेसलंजेस एक ऐसी एक्सरसाइज है, जिससे पैरों की मसल्स टोंड होती है. रेगुलर रूप से लंजेस करने से बॉडी पोस्चर बेहतर होता है, इतना ही नहीं मसल्स टोंड होती है और ब्लड शुगर लेवल भी कंट्रोल में रहता है.Disclaimer: खबर में दी गई कुछ जानकारी मीडिया रिपोर्ट्स पर आधारित है. आप किसी भी सुझाव को अमल में लाने से पहले संबंधित विशेषज्ञ से सलाह जरूर लें.यह भी पढ़ें :तेज खार के साथ लग रही है ठंड तो इस बीमारी के हैं लक्षण, तुरंत करें ये काम",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-04-15 04:09:19",
+            "pubDateTZ": "UTC",
+            "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2025/04/15/3ce3e79bd153132fb5ae1d977c08493c1744661126564506_original.jpg",
+            "video_url": null,
+            "source_id": "abplive",
+            "source_name": "Abp News",
+            "source_priority": 7754,
+            "source_url": "http://abplive.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/abplive.jpg",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "entertainment"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "e82bedfb74583ac5776ccb40395d9dad",
+            "title": "Donald Trump Hints At U-Turn On Auto Tariffs: \"Some Car Companies Need Time To...\"",
+            "link": "https://www.ndtv.com/world-news/donald-trump-hints-at-u-turn-on-auto-tariffs-some-car-companies-need-time-to-8166600",
+            "keywords": null,
+            "creator": null,
+            "description": "Asian stocks edged slightly higher on Tuesday as some stability returned to markets, as US President Donald Trump floated a potential pause in auto-related, giving a boost to the sector after last week's rollercoaster ride.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-04-15 04:09:18",
+            "pubDateTZ": "UTC",
+            "image_url": "https://c.ndtvimg.com/2025-04/a6q7q4hs_donald-trump-afp_625x300_12_April_25.jpeg?im=FeatureCrop%2Calgorithm%3Ddnn%2Cwidth%3D773%2Cheight%3D435",
+            "video_url": null,
+            "source_id": "ndtv",
+            "source_name": "Ndtv",
+            "source_priority": 1204,
+            "source_url": "http://www.ndtv.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/ndtv.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "world"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "1958c983411a77bd9ba5e04199498ed2",
+            "title": "भाजपा प्रत्याशी ने राज्यपाल से की शिकायत, सीबीआई जांच की मांग",
+            "link": "https://www.dainiktribuneonline.com/news/himachal/bjp-candidate-complained-to-the-governor-demanded-cbi-investigation/",
+            "keywords": [
+                "हिमाचल"
+            ],
+            "creator": [
+                "gusain"
+            ],
+            "description": "ज्ञान ठाकुर/हप्र शिमला, 14 अप्रैल दो बार निर्दलीय विधायक रहे और बीते चुनाव में भाजपा प्रत्याशी होशियार सिंह, जो 2024 में देहरा विधानसभा क्षेत्र से मुख्यमंत्री सुखविंदर सिंह सुक्खू की पत्नी कमलेश ठाकुर से विधानसभा उपचुनाव हार गए हैं, ने उपचुनाव के दौरान भ्रष्टाचार और आदर्श चुनाव आचार संहिता के घोर उल्लंघन का आरोप लगाया [...]The post भाजपा प्रत्याशी ने राज्यपाल से की शिकायत, सीबीआई जांच की मांग appeared first on dainiktribuneonline.com.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-04-15 04:09:15",
+            "pubDateTZ": "UTC",
+            "image_url": "https://dainiktribuneonline.imagibyte.sortdcdn.net/wp-content/uploads/2025/04/bjp-1-768x813.jpg",
+            "video_url": null,
+            "source_id": "dainiktribuneonline",
+            "source_name": "Breaking News In Hindi Online",
+            "source_priority": 2014324,
+            "source_url": "https://www.dainiktribuneonline.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/dainiktribuneonline.jpg",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "7c78a78fc4e98a6f585014ff9cd67b69",
+            "title": "अजीब चोर था... ट्रेन में सिर्फ मैडम के हैंड पर्स को करता टारगेट, वजह जान दंग",
+            "link": "https://hindi.news18.com/news/uttar-pradesh/pilibhit-indian-railway-grp-caught-thief-stole-only-womens-hand-bags-from-trains-and-stations-ws-e-9176681.html",
+            "keywords": [
+                "उत्तर प्रदेश"
+            ],
+            "creator": [
+                "News18 Hindi"
+            ],
+            "description": "Indian Railway -जीआरपी पीलीभीत ने स्‍टेशन के पास से एक ऐसे चोर को पकड़ा है, जो जेंट्स का सामान छूटा भी नहीं था, विश्‍वास जमाने के लिए तो कई बार ‘चौकीदारी’ भी करता था. उसकी नजर हमेशा मैडम के हैंस पर्स पर रहती थी. मौका मिलते वारदात को अंजाम देता था. इसके पीछे वजह ऐसी बताई कि सुनने वाले भी हैरान रहे गए. आप भी जानें वजह.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-04-15 04:09:13",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.news18.com/ibnkhabar/uploads/2025/04/image-2025-04-47292349735657e38298c937495e5692-3x2.jpg",
+            "video_url": null,
+            "source_id": "hindinews18",
+            "source_name": "News 18 Hindi",
+            "source_priority": 4077,
+            "source_url": "https://hindi.news18.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/hindinews18.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "6e2acf8f0378a927570d9af4cce34b33",
+            "title": "Share Market: शेयर बाजार में बंपर धमाका, सेंसेक्स 1600 और निफ्टी 500 के पार, वजह बना अमेरिका का नरम दिल",
+            "link": "https://www.prabhatkhabar.com/business/share-market-rally-sensex-up-1600-nifty-crosses-500-us-tariff-relief",
+            "keywords": [
+                "share market",
+                "business news",
+                "business"
+            ],
+            "creator": [
+                "Abhishek Pandey"
+            ],
+            "description": "Share Market: बाजार विश्लेषक अजय बग्गा ने कहा, \"भारतीय बाजार आज सकारात्मकता को पकड़कर चल रहे हैं. ट्रंप के टैरिफ निर्णयों का सबसे बुरा दौर शायद अब पीछे है, कम से कम अगले 90 दिनों के लिए.The post Share Market: शेयर बाजार में बंपर धमाका, सेंसेक्स 1600 और निफ्टी 500 के पार, वजह बना अमेरिका का नरम दिल appeared first on Prabhat Khabar.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-04-15 04:09:13",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.prabhatkhabar.com/wp-content/uploads/2025/01/Share-Market.jpg",
+            "video_url": null,
+            "source_id": "prabhatkhabar",
+            "source_name": "Prabhat Khabar",
+            "source_priority": 343253,
+            "source_url": "https://www.prabhatkhabar.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/prabhatkhabar.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "business"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
             "article_id": "eef3b683c322556a2c18b567f18ae443",
             "title": "VIDEO: मैदान पर भिड़े, मैच के बाद लगाया गले... जसप्रीत बुमराह और करुण नायर का याराना तो देखिए",
             "link": "https://www.indiatv.in/sports/cricket/watch-karun-nair-jasprit-bumrah-hug-it-out-after-heated-faceoff-during-dc-vs-mi-clash-in-ipl-2025-2025-04-15-1127744",
