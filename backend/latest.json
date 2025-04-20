@@ -1,6 +1,682 @@
 {
     "articles": [
         {
+            "article_id": "aeb98d4a023a71c9f08d48308a527c9e",
+            "title": "Thane police arrest 2 members of notorious ‘Irani’ gang in chain-Snatching cases",
+            "link": "https://timesofindia.indiatimes.com/city/thane/thane-police-arrest-2-members-of-notorious-irani-gang-in-chain-snatching-cases/articleshow/120450504.cms",
+            "keywords": null,
+            "creator": null,
+            "description": "Thane city police apprehended two individuals linked to the 'Irani' gang, Jaffar Yusuf Jaffri and Sandeep Girishchandra Prasad, for their involvement in multiple chain-snatching incidents across the Mumbai Metropolitan Region. The arrests followed an investigation into a March 12 case in Yashodhan Nagar.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-04-20 07:06:53",
+            "pubDateTZ": "UTC",
+            "image_url": "https://static.toiimg.com/thumb/msid-120450633,imgsize-36374,width-400,height-225,resizemode-72/Image-used-for-representational-purpose-only.jpg",
+            "video_url": null,
+            "source_id": "toi",
+            "source_name": "The Times Of India",
+            "source_priority": 239,
+            "source_url": "https://timesofindia.indiatimes.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/toi.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "ee65b96b9d6b4d5b4fa6ec4f329d9822",
+            "title": "उधमपुर में भारी बारिश, हाईवे बंद होने के साथ-साथ लोगों को झेलनी पड़ी ये परेशानी",
+            "link": "https://hindi.asianetnews.com/national-news/udhampur-heavy-rains-cause-national-highway-closure/articleshow-wqfgvsg",
+            "keywords": [
+                "national"
+            ],
+            "creator": [
+                "Deepakshi Sharma"
+            ],
+            "description": "जम्मू-कश्मीर के उधमपुर जिले में भारी बारिश के कारण राष्ट्रीय राजमार्ग 44 का रामबन इलाका बंद हो गया। तेज़ हवाओं और बारिश ने कुछ दिन पहले ही जम्मू और उधमपुर में भारी नुकसान किया था।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-04-20 07:06:47",
+            "pubDateTZ": "UTC",
+            "image_url": "https://static-gi.asianetnews.com/images/ani20250420053721/image-445c542d-ffa4-4c8d-bf4c-3eb9896e223b.jpg",
+            "video_url": null,
+            "source_id": "hindi_asianetnews",
+            "source_name": "Asianet News Hindi",
+            "source_priority": 7805,
+            "source_url": "https://hindi.asianetnews.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/hindi_asianetnews.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "ecbaab7a0e2a85b660e7592cda0ca2d0",
+            "title": "Nandamuri Balakrishna splurges on fancy car number plate at Hyderabad auction; spends ₹7.75 lakh for this unique number",
+            "link": "https://www.hindustantimes.com/entertainment/telugu-cinema/nandamuri-balakrishna-splurges-on-fancy-car-number-plate-at-hyderabad-auction-spends-7-75-lakh-for-this-unique-number-101745128853200.html",
+            "keywords": [
+                "entertainment"
+            ],
+            "creator": null,
+            "description": "Nandamuri Balakrishna acquired a special number for his car at the recently held RTA auction in Hyderabad. Read on to learn all about it.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-04-20 07:06:47",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.hindustantimes.com/ht-img/img/2025/04/20/1600x900/Balakrishna_fancy_number_1745129356731_1745129365554.jpg",
+            "video_url": null,
+            "source_id": "hindustantimes",
+            "source_name": "Hindustan Times",
+            "source_priority": 933,
+            "source_url": "http://www.hindustantimes.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/hindustantimes.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "entertainment"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "2fea4c55095236a3abb1e6f1b357e064",
+            "title": "Maharashtra Board SSC, HSC Result 2025: List of official websites to check when results are out",
+            "link": "https://www.hindustantimes.com/education/board-exams/maharashtra-board-ssc-hsc-result-2025-list-of-official-websites-to-check-when-results-are-out-101745129891405.html",
+            "keywords": [
+                "latest"
+            ],
+            "creator": null,
+            "description": "Maharashtra Board SSC, HSC Result 2025: Check the list of official websites where candidates will be able to download their results when released.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-04-20 07:06:34",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.hindustantimes.com/ht-img/img/2025/04/20/1600x900/Maharaashtra_SSC_HSC_result_1745132599549_1745132599765.jpg",
+            "video_url": null,
+            "source_id": "hindustantimes",
+            "source_name": "Hindustan Times",
+            "source_priority": 933,
+            "source_url": "http://www.hindustantimes.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/hindustantimes.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "20ac5a00f08ba314eac6e0fd3602814a",
+            "title": "India News | J-K: Security Forces Continue Joint Search Operation in Poonch for Sixth Consecutive Day to Trace Terrorists",
+            "link": "https://www.latestly.com/agency-news/india-news-j-k-security-forces-continue-joint-search-operation-in-poonch-for-sixth-consecutive-day-to-trace-terrorists-6795202.html",
+            "keywords": null,
+            "creator": null,
+            "description": "Get latest articles and stories on India at LatestLY. The Romeo Force of the Indian Army and the Special Operations Group (SOG) continued their joint operation on Sunday for the sixth consecutive day in the forest area of Lasana in Jammu and Kashmir's Poonch to trace terrorists believed to be hiding in the region.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-04-20 07:06:30",
+            "pubDateTZ": "UTC",
+            "image_url": "https://st1.latestly.com/wp-content/uploads/2025/04/ANI-20250420064820-380x214.jpg",
+            "video_url": null,
+            "source_id": "latestly",
+            "source_name": "Latestly",
+            "source_priority": 31923,
+            "source_url": "https://www.latestly.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/latestly.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "dab901f3ee4b9f8238e3aec47c439bed",
+            "title": "Nothing To See Here, Just Malavika Mohanan And Mohanlal Posing On Sets Of Hridayapoorvam",
+            "link": "https://www.ndtv.com/entertainment/hridayapoorvam-malavika-mohanan-posts-a-pic-with-mohanlal-from-the-film-s-set-8208753",
+            "keywords": null,
+            "creator": null,
+            "description": "Hridayapoorvam is directed by the legendary Sathyan Anthikkad",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-04-20 07:06:30",
+            "pubDateTZ": "UTC",
+            "image_url": "https://c.ndtvimg.com/2025-04/52inm638_mohanlal_625x300_20_April_25.jpg?im=FitAndFill%2Calgorithm%3Ddnn%2Cwidth%3D1200%2Cheight%3D738",
+            "video_url": null,
+            "source_id": "ndtv",
+            "source_name": "Ndtv",
+            "source_priority": 1204,
+            "source_url": "http://www.ndtv.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/ndtv.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "entertainment"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "6d3204fa28145729459c10edf1f270c2",
+            "title": "Haryana : हैफेड कर्मचारी निलंबित, दूसरे का तबादला",
+            "link": "https://jantaserishta.com/local/haryana/haryana-hafed-employee-suspended-another-transferred-3965240",
+            "keywords": [
+                "राज्य,हरियाणा"
+            ],
+            "creator": [
+                "SANTOSI TANDI"
+            ],
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-04-20 07:06:13",
+            "pubDateTZ": "UTC",
+            "image_url": "https://jantaserishta.com/h-upload/2025/04/20/4537530-9.webp",
+            "video_url": null,
+            "source_id": "jantaserishta",
+            "source_name": "Janta Se Rishta",
+            "source_priority": 81836,
+            "source_url": "https://jantaserishta.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/jantaserishta.jpg",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "db7f50c67549ef5dceeefe5bbd9883ad",
+            "title": "Station master on duty arrested in Nileshwar for being drunk",
+            "link": "https://keralakaumudi.com/en/news/kerala/crime/station-master-on-duty-arrested-in-nileshwar-for-being-drunk-1520063",
+            "keywords": null,
+            "creator": null,
+            "description": "KASARGOD: A complaint has been filed against a station master for being drunk while on duty. The complaint was filed against the station master of Nileshwar railway station in Kasaragod. Ghanshyam Mahava of Rajasthan was found drunk during his duty hours.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-04-20 07:06:12",
+            "pubDateTZ": "UTC",
+            "image_url": "https://keralakaumudi.com/web-news/en/2025/04/NMAN0581756/image/station.1.3236635.webp",
+            "video_url": null,
+            "source_id": "keralakaumudi",
+            "source_name": "Kerala Kaumudi Online",
+            "source_priority": 79921,
+            "source_url": "https://keralakaumudi.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/keralakaumudi.jpg",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "043c768f57fa54b96d76e20b5680fe32",
+            "title": "Live-in Partner से हुआ झगड़ा तो युवती ने खोया आपा, हरिद्वार-ऋषिकेश हाईवे पर नशे में धुत होकर पहुंची; कर दिया बवाल",
+            "link": "https://www.jagran.com/uttarakhand/haridwar-drunk-woman-creates-chaos-on-haridwar-highway-23922157.html",
+            "keywords": null,
+            "creator": null,
+            "description": "हरिद्वार में एक नशे में धुत युवती ने हाईवे पर जमकर हंगामा किया। उसने तेज रफ्तार वाहनों को रोका और एक ऑटो का शीशा तोड़ दिया। बाद में वह यातायात पुलिस के एक जवान की स्कूटी पर सवार होकर चली गई। पता चला है कि लिव-इन पार्टनर से विवाद के बाद वह ऋषिकेश से हरिद्वार आई थी। पुलिस मामले की जांच कर रही है।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-04-20 07:06:11",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.jagranimages.com/images/newimg/20042025/20_04_2025-haridwar-news_23922157_m.webp",
+            "video_url": null,
+            "source_id": "jagran",
+            "source_name": "ताजा हिंदी ख़बरें",
+            "source_priority": 6734,
+            "source_url": "https://www.jagran.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/jagran.jpg",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "domestic"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "9da73e4171cca61768495c912191183c",
+            "title": "PBKS vs RCB, IPL 2025: Punjab Kings vs Royal Challengers Bengaluru Head-To-Head Stats And Records, Mullanpur Stadium Pitch Report",
+            "link": "https://english.jagran.com/cricket/pbks-vs-rcb-ipl-2025-punjab-kings-vs-royal-challengers-bengaluru-head-to-head-stats-and-records-mullanpur-stadium-pitch-report-10231662",
+            "keywords": null,
+            "creator": null,
+            "description": "PBKS vs RCB,IPL 2025,Maharaja Yadavindra Singh International Cricket Stadium,Punjab Kings Squad,PBKS vs RCB Head-to-Head,IPL Live Streaming,PBKS vs RCB Pitch Report,Maharaja Yadavindra Singh Stadium Pitch Report,Mullanpur Stadium Pitch Report,Royal Challengers Bengaluru",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-04-20 07:06:06",
+            "pubDateTZ": "UTC",
+            "image_url": "https://imgeng.jagran.com/images/2025/04/20/article/image/dhoni-(91)-1745132136710.jpg",
+            "video_url": null,
+            "source_id": "english_jagran",
+            "source_name": "Jagran English",
+            "source_priority": 10561,
+            "source_url": "https://english.jagran.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/english_jagran.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "2b7291b89b483c4589b7e96170066f22",
+            "title": "Congress calls BJP’s move to distance itself from Nishikant Dubey’s remark 'damage control'",
+            "link": "https://timesofindia.indiatimes.com/india/congress-calls-bjps-move-to-distance-itself-from-nishikant-dubeys-remark-damage-control/articleshow/120450556.cms",
+            "keywords": null,
+            "creator": null,
+            "description": "Congress leader Jairam Ramesh has strongly criticized the BJP's attempt to distance itself from controversial remarks made by its MPs, Nishikant Dubey and Dinesh Sharma, regarding the Supreme Court and its Chief Justice. Ramesh dismissed BJP President JP Nadda's distancing as mere damage control, asserting it would deceive no one.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-04-20 07:06:02",
+            "pubDateTZ": "UTC",
+            "image_url": "https://static.toiimg.com/thumb/msid-120450636,width-1070,height-580,imgsize-987810,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "video_url": null,
+            "source_id": "toi",
+            "source_name": "The Times Of India",
+            "source_priority": 239,
+            "source_url": "https://timesofindia.indiatimes.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/toi.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "8d830119679894ea49bb370df98bc3be",
+            "title": "Sunday mega rally by Leftist farmers and workers' bodies at Brigade Parade ground in Kolkata",
+            "link": "https://www.deccanherald.com/india/west-bengal/sunday-mega-rally-by-leftist-farmers-and-workers-bodies-at-brigade-parade-ground-in-kolkata-3501577",
+            "keywords": null,
+            "creator": [
+                "PTI"
+            ],
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-04-20 07:05:52",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.deccanherald.com/deccanherald%2F2025-01-22%2Fdbmaqn2p%2Fprotest%20better%20istokc.jpg?ar=40%3A21&auto=format%2Ccompress&mode=crop&ogImage=true&rect=0%2C0%2C1280%2C672&w=1200",
+            "video_url": null,
+            "source_id": "deccanherald",
+            "source_name": "Deccan Herald",
+            "source_priority": 10080,
+            "source_url": "https://www.deccanherald.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/deccanherald.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": true
+        },
+        {
+            "article_id": "737e4c7135835ca0f90c3859b40437dc",
+            "title": "2 killed in road accident on Jammu-Pathankot Highway",
+            "link": "https://thenorthlines.com/2-killed-in-road-accident-on-jammu-pathankot-highway/",
+            "keywords": [
+                "jammu-pathankot highway",
+                "northlines",
+                "latest news",
+                "2 killed in road accident",
+                "jammu kashmir"
+            ],
+            "creator": [
+                "Northlines"
+            ],
+            "description": "Samba, Apr 20: Two young men lost their lives in a tragic road accident on the Jammu-Pathankot highway in Samba district late last night. The victims were returning from a marriage function when their car collided with an oil tanker. As per initial reports, the deceased have been identified as Bantu Dogra, a resident of Himachal [...]The post 2 killed in road accident on Jammu-Pathankot Highway appeared first on Northlines.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-04-20 07:05:49",
+            "pubDateTZ": "UTC",
+            "image_url": "https://thenorthlines.com/wp-content/uploads/2024/07/ACCIDENT-13.jpg",
+            "video_url": null,
+            "source_id": "thenorthlines",
+            "source_name": "The Northlines",
+            "source_priority": 2728360,
+            "source_url": "https://www.thenorthlines.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/thenorthlines.jpg",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "2eff537abbc587b0029df466ec6bf4d7",
+            "title": "'F**king Idiot...I've Made Life Harder For Everyone': Lando Norris Laments After His Q3 Crash In Jeddah",
+            "link": "https://www.news18.com/sports/fking-idiot-ive-made-life-harder-for-everyone-lando-norris-laments-after-his-q3-crash-in-jeddah-9306148.html",
+            "keywords": [
+                "sports"
+            ],
+            "creator": null,
+            "description": "While addressing the media, Norris, the current F1 leader, remained irked about his 'silly risk' as he lambasted himself for the error that ultimately landed him in P10.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-04-20 07:05:46",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.news18.com/ibnlive/uploads/2025/04/norris-crash-20-Apr-2025-12-32-PM-4867-fotor-20250420123319-2025-04-76eb020a0746f9850001b9fbe575e1c4-3x2.jpg",
+            "video_url": null,
+            "source_id": "news18",
+            "source_name": "News 18",
+            "source_priority": 1063,
+            "source_url": "https://www.news18.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/news18.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "sports"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "e45a10f3565ef4445a2371cb7128e1cc",
+            "title": "Bank Nifty in focus after robust Q4 results by leading private lenders",
+            "link": "https://telanganatoday.com/bank-nifty-in-focus-after-robust-q4-results-by-leading-private-lenders",
+            "keywords": [
+                "india news",
+                "business",
+                "news",
+                "india",
+                "bank nifty",
+                "business news",
+                "hdfc bank",
+                "icici bank",
+                "q4 fy25"
+            ],
+            "creator": [
+                "IANS"
+            ],
+            "description": "According to market watchers, technically, Bank Nifty has formed a strong bullish candle on the daily chart, making a high of 54,407.20 — just 60 points away from its all-time high",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-04-20 07:05:43",
+            "pubDateTZ": "UTC",
+            "image_url": "https://media.telanganatoday.com/wp-content/uploads/2025/04/Bank-Nifty-F-768x450.jpg",
+            "video_url": null,
+            "source_id": "telanganatoday",
+            "source_name": "Telangana Today",
+            "source_priority": 63887,
+            "source_url": "https://telanganatoday.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/telanganatoday.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": true
+        },
+        {
+            "article_id": "abf8dd118e045db0b1a355ea8a4f35a0",
+            "title": "Artificial sweeteners good or bad? - Ahmedabad Mirror",
+            "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPRmZzUlBoVlNYTXpyUzR6VkhYODJLWDQ0UXNVRTYxQVZqZkwxOGFNTEppQno0ajZ3dEpSZDFwSHhiVXkzdV9ITXNQTUM4aGJOQlZUcm9tSmhlb1JYcjlfenRQa2o0aDN6Y0N6UmVQcUVaM3E3b2ItOFItMXV5bDJGSTBSZjVuUQ?oc=5",
+            "keywords": null,
+            "creator": null,
+            "description": "Artificial sweeteners good or bad? Ahmedabad MirrorAre artificial sweeteners okay for our health? Here's what current evidence says ET HealthWorldAre sweeteners bad for you? The TelegraphReport on Non-Sugar Sweeteners Challenges WHO Guideline MedscapePeople who use sugar substitutes to lose weight could be making things worse South China Morning Post",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-04-20 07:05:33",
+            "pubDateTZ": "UTC",
+            "image_url": null,
+            "video_url": null,
+            "source_id": "google",
+            "source_name": "Google News",
+            "source_priority": 14,
+            "source_url": "https://news.google.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/google.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "health"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "b006faa28862ce7200e106a29e7cd3d4",
+            "title": "एलोवेरा और नींबू से बनाएं सीरम, सनस्क्रीन का करेगा काम, आएगी गुलाबी निखार",
+            "link": "https://hindi.news18.com/photogallery/lifestyle/fashion-make-serum-with-aloevera-and-lemon-face-will-get-a-rosy-glow-local18-9189210.html",
+            "keywords": [
+                "लाइफ़"
+            ],
+            "creator": [
+                "News18 Hindi"
+            ],
+            "description": "Serum made from aloe vera and lemon: गर्मियां इसका मतलब तेज धूप, पसीना, चिलचिलाती गर्मी और त्वचा की रंगत का चला जाना होता है. महिलाएं चाहे लाख कोशिश कर लें, धूप में निकलने के बाद उनके चेहरे का रंग फीका पड़ जाता है और उसे ठीक करने के लिए उन्हें महंगे-महंगे प्रोडक्ट्स इस्तेमाल में लाने पड़ते हैं. लेकिन अगर धूप में निकलने से पहले महिलाएं अपने चेहरे पर एक खास लिक्विड का इस्तेमाल करें तो यह न सिर्फ उनके त्वचा की रंगत को बनाए रख सकता है बल्कि उनके खूबसूरती में और चार चांद लगा देगा.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-04-20 07:05:30",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.news18.com/ibnkhabar/uploads/2025/04/New-Project-16-31-2025-04-c3e073e675aec551343ece9ef425fb0c-3x2.jpg",
+            "video_url": null,
+            "source_id": "hindinews18",
+            "source_name": "News 18 Hindi",
+            "source_priority": 4077,
+            "source_url": "https://hindi.news18.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/hindinews18.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "lifestyle"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "12b8c83cf2acd658053cdb4e5d9acb9f",
+            "title": "ऐतिहासिक किवदंतियों से मशहूर है ये झरना, नहीं सुलझ सका है इसके स्रोत का रहस्य",
+            "link": "https://hindi.news18.com/news/ajab-gajab/off-beat-fosse-dionne-waterfall-is-historic-with-legends-but-source-is-mysteriously-unknown-ws-kl-9189132.html",
+            "keywords": [
+                "अजब-गजब"
+            ],
+            "creator": [
+                "News18 Hindi"
+            ],
+            "description": "एक ऐतिहासिक झरने के साथ कई कहानियां किवदंतियां जुड़ी हैं. इसे कुदरत का करिश्मा भी कहा जाता है. लेकिन सदियों से इसके स्रोत की खोज के प्रयास हुए, लेकिन कोई भी सफल नहीं हुआ. बल्कि अधिकांश तो वापस लौट ही नहीं सके और यह पहेली आज भी कायम है.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-04-20 07:05:26",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.news18.com/ibnkhabar/uploads/2025/04/Fosse-Dionne-Waterfall-france-401-WC-2025-04-503a36417154aa2d89244125907b98ae-3x2.jpg",
+            "video_url": null,
+            "source_id": "hindinews18",
+            "source_name": "News 18 Hindi",
+            "source_priority": 4077,
+            "source_url": "https://hindi.news18.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/hindinews18.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "other"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "907360c2a23dfb8040d819900cf8ab72",
+            "title": "'Shame!’ chants echo across the US as thousands protest Trump’s policies in over 700 nationwide rallies",
+            "link": "https://www.moneycontrol.com/world/shame-chants-echo-across-the-us-as-thousands-protest-trump-s-policies-in-over-700-nationwide-rallies-article-12998774.html",
+            "keywords": [
+                "donald trump, elun musk, shame, us protest, us, trump policies, white house"
+            ],
+            "creator": [
+                "Moneycontrol"
+            ],
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-04-20 07:05:26",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.moneycontrol.com/static-mcnews/2025/04/20250420070442_Screenshot-2025-04-20-123410.png",
+            "video_url": null,
+            "source_id": "moneycontrol",
+            "source_name": "Moneycontrol",
+            "source_priority": 1064,
+            "source_url": "https://www.moneycontrol.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/moneycontrol.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top",
+                "business",
+                "world",
+                "politics"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "783ac6cbf894376b42cec44677bd184b",
+            "title": "Savor the Summer: Refreshing Recipes to Beat the Heat!",
+            "link": "https://bilkulonline.com/2025/04/20/savor-the-summer-refreshing-recipes-to-beat-the-heat/",
+            "keywords": [
+                "lifestyle",
+                "food"
+            ],
+            "creator": [
+                "BILKUL ONLINE"
+            ],
+            "description": "BILKULONLINE SUNDAY Special Aam Panna Chaat (Raw Mango Chaat Salad) Why it’s great for summer: Hydrating, tangy, and loaded with",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-04-20 07:05:18",
+            "pubDateTZ": "UTC",
+            "image_url": "https://bilkulonline.com/wp-content/uploads/2025/02/Recipe-notes-e1739104283769-626x445.jpg",
+            "video_url": null,
+            "source_id": "bilkulonline",
+            "source_name": "Bilkul Online",
+            "source_priority": 13829371,
+            "source_url": "http://www.bilkulonline.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/bilkulonline.jpg",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
             "article_id": "0afc13183f49715b257a2907ec8b184b",
             "title": "3 things we need to do TODAY to reduce the risk of cancer - Times of India",
             "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPd3N6RkZZWHpxLTI4ODJpaGphaXN3S2w1ZktNNFFEc0ZlQjllQVIxSEo4OGVlYVFfOTVtNjN2ak5JSUhUN2JrV3hQcGRRNHU0QVJYVWtfb25EMFVIWFhub3hpU0haeXpxcF93Z0ZvRGRPZXpEUXFHZVdHNEQ0akZPeXdLVzhsOENPN0UtMk9QWVhHVDA0RHFZSEd6UkJpZ3M0RXVaWUtPM012WHFMbXVtS3NjVEVoaWNtWWNqcldkc2VPdlRXMlNIWUpDWHBaTmxCeDEyQWJsbkNhNlQzRFVMVGVGSVM1RDg5Vzc1VUFR?oc=5",
@@ -23285,485 +23961,6 @@
             ],
             "category": [
                 "business"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "011d967cae790960cfce5129c6818366",
-            "title": "CM to release 2 Kuno cheetahs in Gandhi Sagar Sanctuary tomorrow",
-            "link": "https://timesofindia.indiatimes.com/city/indore/cm-to-release-2-kuno-cheetahs-in-gandhi-sagar-sanctuary-tomorrow/articleshow/120415263.cms",
-            "keywords": null,
-            "creator": [
-                "TOI"
-            ],
-            "description": null,
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-04-18 19:07:42",
-            "pubDateTZ": "UTC",
-            "image_url": "https://static.toiimg.com/thumb/msid-120415261,width-1070,height-580,imgsize-72874,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-            "video_url": null,
-            "source_id": "toi",
-            "source_name": "The Times Of India",
-            "source_priority": 239,
-            "source_url": "https://timesofindia.indiatimes.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/toi.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "e1d1ec53c71086fe79f6be46085bf6b1",
-            "title": "Eyeing a UG seat at LU? Register on Samarth portal",
-            "link": "https://timesofindia.indiatimes.com/city/lucknow/eyeing-a-ug-seat-at-lu-register-on-samarth-portal/articleshow/120415262.cms",
-            "keywords": null,
-            "creator": null,
-            "description": null,
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-04-18 19:07:42",
-            "pubDateTZ": "UTC",
-            "image_url": "https://static.toiimg.com/thumb/msid-120415259,width-1070,height-580,imgsize-25208,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-            "video_url": null,
-            "source_id": "toi",
-            "source_name": "The Times Of India",
-            "source_priority": 239,
-            "source_url": "https://timesofindia.indiatimes.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/toi.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "ada19889b0177129564261ff3694d4eb",
-            "title": "Police solve snatching case in Handwara, accused arrested",
-            "link": "https://kashmirreader.com/2025/04/19/police-solve-snatching-case-in-handwara-accused-arrested/",
-            "keywords": [
-                "region"
-            ],
-            "creator": [
-                "KR Desk"
-            ],
-            "description": "Stolen gold recovered SRINAGAR: In a significant breakthrough, police in Handwara successfully solved a handbag snatching case by arresting an accused person and recovered stolen gold from his possession. “On April 15, 2025, Police Station Handwara received a written complaint from one lady (name withheld) resident of Waghat Palpora, Magam. The complainant reported that while [...]",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-04-18 19:07:39",
-            "pubDateTZ": "UTC",
-            "image_url": null,
-            "video_url": null,
-            "source_id": "kashmirreader",
-            "source_name": "Kashmir Reader",
-            "source_priority": 1088812,
-            "source_url": "https://kashmirreader.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/kashmirreader.jpg",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "888e9f6110d34543006d98c71689c45f",
-            "title": "WB Governor, NHRC, NCW Visit the Homeless in Malda",
-            "link": "https://www.deccanchronicle.com/nation/wb-governor-nhrc-ncw-visit-the-homeless-in-malda-1873744",
-            "keywords": [
-                "nation"
-            ],
-            "creator": [
-                "Rajib Chowdhuri and Pranmoy Brahmachari"
-            ],
-            "description": "The governor added, \"This type of violence and turmoil is never tolerated. Restoring peace is underway at the ground level.\"",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-04-18 19:07:36",
-            "pubDateTZ": "UTC",
-            "image_url": "https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-l7ltimkqg97u3eg6rr8cjpnju3-20221122100856.Medi.jpeg",
-            "video_url": null,
-            "source_id": "deccanchronicle",
-            "source_name": "Deccan Chronicle",
-            "source_priority": 14130,
-            "source_url": "https://www.deccanchronicle.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/deccanchronicle.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "a2a120f972006c7a9b03f1741af40a16",
-            "title": "Doctor honey trapped, made to pay lakhs to woman",
-            "link": "https://timesofindia.indiatimes.com/city/lucknow/doctor-honey-trapped-made-to-pay-lakhs-to-woman/articleshow/120415256.cms",
-            "keywords": null,
-            "creator": null,
-            "description": null,
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-04-18 19:07:36",
-            "pubDateTZ": "UTC",
-            "image_url": "https://static.toiimg.com/thumb/msid-117515976,imgsize-100366,width-400,height-225,resizemode-72/Representative-Image.jpg",
-            "video_url": null,
-            "source_id": "toi",
-            "source_name": "The Times Of India",
-            "source_priority": 239,
-            "source_url": "https://timesofindia.indiatimes.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/toi.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "924df6ef73431a0d9fa4d4224811c0af",
-            "title": "Former BSP MP Girish Chandra Jatav rejoins party",
-            "link": "https://timesofindia.indiatimes.com/city/lucknow/former-bsp-mp-girish-chandra-jatav-rejoins-party/articleshow/120415257.cms",
-            "keywords": null,
-            "creator": null,
-            "description": null,
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-04-18 19:07:36",
-            "pubDateTZ": "UTC",
-            "image_url": "https://static.toiimg.com/thumb/msid-120415253,width-1070,height-580,imgsize-5702,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-            "video_url": null,
-            "source_id": "toi",
-            "source_name": "The Times Of India",
-            "source_priority": 239,
-            "source_url": "https://timesofindia.indiatimes.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/toi.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "8f89a440af5ae60b2747b5cbaf639ce1",
-            "title": "Ghaziabad News: तीसरा व चौथा ट्रैक बिछाने की डीपीआर तैयार, भेजी गई मुख्यालय",
-            "link": "https://www.amarujala.com/delhi-ncr/ghaziabad/dpr-for-laying-third-and-fourth-track-is-ready-sent-to-headquarters-ghaziabad-news-c-30-gbd1013-615350-2025-04-19",
-            "keywords": null,
-            "creator": null,
-            "description": "गाजियाबाद। मिशन रफ्तार के तहत मुरादाबाद-गाजियाबाद के बीच तीसरा व चौथा ट्रैक बिछाने की डिटेल प्रोजेक्ट रिपोर्ट (डीपीआर) तैयार करके उसको मुख्यालय भेज दिया गया है।",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-04-18 19:07:34",
-            "pubDateTZ": "UTC",
-            "image_url": "https://staticimg.amarujala.com/assets/images/2021/10/25/ghaziabad_1635142488.jpeg?dpr=1.0&q=80&w=414",
-            "video_url": null,
-            "source_id": "amarujala",
-            "source_name": "Amar Ujala",
-            "source_priority": 55215,
-            "source_url": "https://www.amarujala.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/amarujala.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "2e8bccbc1adf7f09d25ffbcb4b37463f",
-            "title": "Murals depicting Ramayan to adorn Ayodhya Dham Jn",
-            "link": "https://timesofindia.indiatimes.com/city/lucknow/murals-depicting-ramayan-to-adorn-ayodhya-dham-jn/articleshow/120415252.cms",
-            "keywords": null,
-            "creator": [
-                "Arvind Chauhan"
-            ],
-            "description": null,
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-04-18 19:07:34",
-            "pubDateTZ": "UTC",
-            "image_url": "https://static.toiimg.com/thumb/msid-120415251,imgsize-57822,width-400,height-225,resizemode-72/Murals-depicting-Ramayan-to-adorn-Ayodhya-Dham-Jn.jpg",
-            "video_url": null,
-            "source_id": "toi",
-            "source_name": "The Times Of India",
-            "source_priority": 239,
-            "source_url": "https://timesofindia.indiatimes.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/toi.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "420f8576d2515dd1a274a1931582bbec",
-            "title": "Ghaziabad News: बहादुर शाह जफर के चित्र को औरंगजेब का बताया, कालिख पोती",
-            "link": "https://www.amarujala.com/delhi-ncr/ghaziabad/bahadur-shah-zafars-picture-was-said-to-be-that-of-aurangzeb-and-blackened-ghaziabad-news-c-30-gbd1013-615276-2025-04-19",
-            "keywords": null,
-            "creator": null,
-            "description": "गाजियाबाद। रेलवे स्टेशन के प्लेटफार्म नंबर चार की दीवार पर बने बहादुर शाह जफर के चित्र को हिंदू रक्षा दल के कार्यकर्ताओं ने औरंगजेब का बताकर शुक्रवार को हंगामा किया।",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-04-18 19:07:33",
-            "pubDateTZ": "UTC",
-            "image_url": "https://staticimg.amarujala.com/assets/images/2021/10/25/ghaziabad_1635142488.jpeg?dpr=1.0&q=80&w=414",
-            "video_url": null,
-            "source_id": "amarujala",
-            "source_name": "Amar Ujala",
-            "source_priority": 55215,
-            "source_url": "https://www.amarujala.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/amarujala.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "12ab771c337746a46f061061975295db",
-            "title": "Ghaziabad News: कारोबारी से 81.78 लाख रुपये की धोखाधड़ी",
-            "link": "https://www.amarujala.com/delhi-ncr/ghaziabad/businessman-cheated-of-rs-8178-lakh-ghaziabad-news-c-30-gbd1013-615436-2025-04-19",
-            "keywords": null,
-            "creator": null,
-            "description": "गाजियाबाद। शास्त्रीनगर में रहने वाले मां भगवती ऑयल ट्रेडर्स के मालिक अमित सिंघल ने उनके साथ कारोबार करने वाले राजेश कुमार पर 81 लाख 78 हजार 748 रुपये की धोखाधड़ी करने का आरोप लगाया है।",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-04-18 19:07:33",
-            "pubDateTZ": "UTC",
-            "image_url": "https://staticimg.amarujala.com/assets/images/2021/10/25/ghaziabad_1635142488.jpeg?dpr=1.0&q=80&w=414",
-            "video_url": null,
-            "source_id": "amarujala",
-            "source_name": "Amar Ujala",
-            "source_priority": 55215,
-            "source_url": "https://www.amarujala.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/amarujala.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "b1eb475247ca7a3ec743723b2f1a3559",
-            "title": "IPL 2025: विराट कोहली को घर में ही लगी ‘नजर’, बार-बार मिल रही नाकामी",
-            "link": "https://www.tv9hindi.com/sports/cricket-news/virat-kohli-and-rcb-batter-failure-3rd-time-at-home-chinnaswamy-stadium-ipl-2025-3241384.html",
-            "keywords": null,
-            "creator": [
-                "Mukesh Singh"
-            ],
-            "description": "आईपीएल 2025 में अपने घरेलू दर्शकों के सामने आरसीबी के स्टार बल्लेबाज लगातार फेल हो रहे हैं. पिछली तीन पारियों में केवल एक बार वह दहाई का आंकड़ा पार कर पाए हैं. इससे बेंगलुरु के फैंस काफी निराश हैं.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-04-18 19:07:30",
-            "pubDateTZ": "UTC",
-            "image_url": "https://images.tv9hindi.com/wp-content/uploads/2025/04/untitled-design-95.jpg",
-            "video_url": null,
-            "source_id": "tv9bharatvarsh",
-            "source_name": "Tv9 Bharatvarsh",
-            "source_priority": 40538658,
-            "source_url": "https://www.tv9hindi.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/tv9bharatvarsh.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "8c2073168e3d270dcab8b3e40e64ae39",
-            "title": "2 arrested for vandalising 12 vehicles in Pune",
-            "link": "https://timesofindia.indiatimes.com/city/pune/2-arrested-for-vandalising-12-vehicles-in-pune/articleshow/120415022.cms",
-            "keywords": null,
-            "creator": null,
-            "description": null,
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-04-18 19:07:27",
-            "pubDateTZ": "UTC",
-            "image_url": "https://static.toiimg.com/thumb/msid-117593601,width-1070,height-580,imgsize-97687,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-            "video_url": null,
-            "source_id": "toi",
-            "source_name": "The Times Of India",
-            "source_priority": 239,
-            "source_url": "https://timesofindia.indiatimes.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/toi.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "health"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "dbed3aea10e80515c05bdd887ea29d42",
-            "title": "Woman dies in car crash in Banthra, hubby alleges murder",
-            "link": "https://timesofindia.indiatimes.com/city/lucknow/woman-dies-in-car-crash-in-banthra-hubby-alleges-murder/articleshow/120415249.cms",
-            "keywords": null,
-            "creator": null,
-            "description": null,
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-04-18 19:07:24",
-            "pubDateTZ": "UTC",
-            "image_url": "https://static.toiimg.com/thumb/msid-117515981,width-1070,height-580,imgsize-382019,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-            "video_url": null,
-            "source_id": "toi",
-            "source_name": "The Times Of India",
-            "source_priority": 239,
-            "source_url": "https://timesofindia.indiatimes.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/toi.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "f915ecce3c6253fb87d6048ad7e8546b",
-            "title": "Murder accused arrested at Mumbai airport after 22 months on the run",
-            "link": "https://timesofindia.indiatimes.com/city/chandigarh/murder-accused-arrested-at-mumbai-airport-after-22-months-on-the-run/articleshow/120415248.cms",
-            "keywords": null,
-            "creator": null,
-            "description": null,
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-04-18 19:07:23",
-            "pubDateTZ": "UTC",
-            "image_url": "https://static.toiimg.com/thumb/msid-120415247,imgsize-26908,width-400,height-225,resizemode-72/Murder-accused-arrested-at-Mumbai-airport-after-22-months-on-the-run.jpg",
-            "video_url": null,
-            "source_id": "toi",
-            "source_name": "The Times Of India",
-            "source_priority": 239,
-            "source_url": "https://timesofindia.indiatimes.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/toi.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "world"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "404bf7bb33b5d98200d54f3617ae5c85",
-            "title": "Two gangsters arrested after encounter in Tarn Taran",
-            "link": "https://timesofindia.indiatimes.com/city/chandigarh/two-gangsters-arrested-after-encounter-in-tarn-taran/articleshow/120415236.cms",
-            "keywords": null,
-            "creator": null,
-            "description": null,
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-04-18 19:07:16",
-            "pubDateTZ": "UTC",
-            "image_url": "https://static.toiimg.com/thumb/msid-120415235,imgsize-26908,width-400,height-225,resizemode-72/Two-gangsters-arrested-after-encounter-in-Tarn-Taran.jpg",
-            "video_url": null,
-            "source_id": "toi",
-            "source_name": "The Times Of India",
-            "source_priority": 239,
-            "source_url": "https://timesofindia.indiatimes.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/toi.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "world"
             ],
             "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
             "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
