@@ -1,6 +1,634 @@
 {
     "articles": [
         {
+            "article_id": "12c38d922d629b8e8f14598931c3dea9",
+            "title": "Kyle Busch’s wife Samantha reacts amid his unfortunate Talladega wreck with Brad Keselowski",
+            "link": "https://www.sportskeeda.com/nascar/news-kyle-busch-s-wife-samantha-reacts-amid-unfortunate-talladega-wreck-brad-keselowski",
+            "keywords": [
+                "nascar"
+            ],
+            "creator": [
+                "Mayank Shukla"
+            ],
+            "description": "Kyle Busch’s wife, Samantha Busch, reacted to her husband’s wreck at the Talladega Superspeedway on April 27th.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-04-27 20:32:00",
+            "pubDateTZ": "UTC",
+            "image_url": "https://static.sportskeeda.com/editor/2025/04/16324962-1745786304.jpeg",
+            "video_url": null,
+            "source_id": "sportskeeda",
+            "source_name": "Sportskeeda",
+            "source_priority": 172,
+            "source_url": "http://sportskeeda.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/sportskeeda.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "sports"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "7fa60464fb04614ea46ea356cc219ed6",
+            "title": "Lucknow News: एनसीएलएटी के आदेश के बाद अब एलडीए एनसीएलटी में रखेगा अपना पक्ष",
+            "link": "https://www.amarujala.com/lucknow/after-the-order-of-nclat-now-lda-will-present-its-side-in-nclt-lucknow-news-c-13-knp1050-1176247-2025-04-28",
+            "keywords": null,
+            "creator": null,
+            "description": "एनसीएलएटी के आदेश के बाद अब एलडीए एनसीएलटी में रखेगा अपना पक्ष",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-04-27 20:31:58",
+            "pubDateTZ": "UTC",
+            "image_url": "https://staticimg.amarujala.com/assets/images/2021/10/21/lucknow_1634823856.jpeg?dpr=1.0&q=80&w=414",
+            "video_url": null,
+            "source_id": "amarujala",
+            "source_name": "Amar Ujala",
+            "source_priority": 55215,
+            "source_url": "https://www.amarujala.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/amarujala.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "32abf1cf311020edadc2f38167b69022",
+            "title": "Bareilly News: समीक्षा बैठक से गायब होने पर दो अधिकारियों को नोटिस",
+            "link": "https://www.amarujala.com/uttar-pradesh/bareilly/notice-to-two-officers-for-missing-review-meeting-bareilly-news-c-4-lko1064-628103-2025-04-28",
+            "keywords": null,
+            "creator": null,
+            "description": "बरेली। गृहकर समीक्षा बैठक से गायब होने पर तीन अधिकारियों को नोटिस दिया गया है। इसमें आरआई और टीसी शामिल हैं। वहीं लक्ष्य की पूर्ति न हाेने पर बैठक में मौजूद सभी अधिकारियों और कर्मचारियों को कार्रवाई की चेतावनी दी गई।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-04-27 20:31:54",
+            "pubDateTZ": "UTC",
+            "image_url": "https://staticimg.amarujala.com/assets/images/2021/12/01/bareilly_1638345241.jpeg?dpr=1.0&q=80&w=414",
+            "video_url": null,
+            "source_id": "amarujala",
+            "source_name": "Amar Ujala",
+            "source_priority": 55215,
+            "source_url": "https://www.amarujala.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/amarujala.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "7c2bfb6d2a237750ccb1309afa7710fe",
+            "title": "Lucknow News: रोडवेज बसों से डीजल चोरी रोकने की बनेगी रणनीति",
+            "link": "https://www.amarujala.com/lucknow/a-strategy-will-be-made-to-stop-diesel-theft-from-roadways-buses-lucknow-news-c-13-knp1050-1176732-2025-04-28",
+            "keywords": null,
+            "creator": null,
+            "description": "रोडवेज बसों से डीजल चोरी रोकने की बनेगी रणनीति",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-04-27 20:31:49",
+            "pubDateTZ": "UTC",
+            "image_url": "https://staticimg.amarujala.com/assets/images/2021/10/21/lucknow_1634823856.jpeg?dpr=1.0&q=80&w=414",
+            "video_url": null,
+            "source_id": "amarujala",
+            "source_name": "Amar Ujala",
+            "source_priority": 55215,
+            "source_url": "https://www.amarujala.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/amarujala.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "48552fe4b1d0608627c9735b649b5514",
+            "title": "Grab Holdings Limited (GRAB): Among the Best Food Delivery Stocks to Buy",
+            "link": "https://finance.yahoo.com/news/grab-holdings-limited-grab-among-203148515.html",
+            "keywords": null,
+            "creator": [
+                "Insider Monkey"
+            ],
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-04-27 20:31:48",
+            "pubDateTZ": "UTC",
+            "image_url": null,
+            "video_url": null,
+            "source_id": "yahoo",
+            "source_name": "Yahoo! News",
+            "source_priority": 17,
+            "source_url": "https://news.yahoo.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/yahoo.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "business"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "cd930f12ef342ff45f545a7798873d49",
+            "title": "Lucknow News: फीस बढ़ाने और मनमानी करने वाले निजी स्कूलों की करें शिकायत",
+            "link": "https://www.amarujala.com/lucknow/complain-about-private-schools-which-increase-fees-and-act-arbitrarily-lucknow-news-c-13-1-lko1103-1177531-2025-04-28",
+            "keywords": null,
+            "creator": null,
+            "description": "सीबीएसई, सीआईएससीई और यूपी बोर्ड से मान्यता प्राप्त निजी स्कूलों की मनमानी पर रोक लगाने के लिए जिला विद्यालय निरीक्षक कार्यालय कार्रवाई की तैयारी में है।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-04-27 20:31:44",
+            "pubDateTZ": "UTC",
+            "image_url": "https://staticimg.amarujala.com/assets/images/2021/10/21/lucknow_1634823856.jpeg?dpr=1.0&q=80&w=414",
+            "video_url": null,
+            "source_id": "amarujala",
+            "source_name": "Amar Ujala",
+            "source_priority": 55215,
+            "source_url": "https://www.amarujala.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/amarujala.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "c3451512bb44344c79f4934fe9b8f439",
+            "title": "Bareilly News: महिला चिकित्सालय में गर्भवती की मौत, होगा डेथ ऑडिट",
+            "link": "https://www.amarujala.com/uttar-pradesh/bareilly/pregnant-woman-dies-in-womens-hospital-death-audit-will-be-done-bareilly-news-c-4-lko1064-628140-2025-04-28",
+            "keywords": null,
+            "creator": null,
+            "description": "महिला चिकित्सालय में गर्भवती की मौत, होगा डेथ ऑडिट",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-04-27 20:31:40",
+            "pubDateTZ": "UTC",
+            "image_url": "https://staticimg.amarujala.com/assets/images/2021/12/01/bareilly_1638345241.jpeg?dpr=1.0&q=80&w=414",
+            "video_url": null,
+            "source_id": "amarujala",
+            "source_name": "Amar Ujala",
+            "source_priority": 55215,
+            "source_url": "https://www.amarujala.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/amarujala.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "56961e6448217a4b8437377db3779a18",
+            "title": "DGP sets May 31 deadline to eliminate drug trafficking",
+            "link": "https://www.tribuneindia.com/news/punjab/dgp-sets-may-31-deadline-to-eliminate-drug-trafficking",
+            "keywords": null,
+            "creator": [
+                "Tribune News Service"
+            ],
+            "description": "Punjab Director General of Police (DGP) Gaurav Yadav on Sunday set the May 31 deadline to arrest all drug traffickers in the state. He asked all district police chiefs to prepare a concrete action plan, which the DGP said would have to be shared with the police headquarters. If any discrepancy was found in the [...]",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-04-27 20:31:37",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/webp/medium/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWEyMGIyY2IwLTIzYTYtMTFmMC04NDBiLTBkMWUyZGMyZWRkYi5qcGc%3D",
+            "video_url": null,
+            "source_id": "tribuneindia",
+            "source_name": "The Tribune India",
+            "source_priority": 15316,
+            "source_url": "https://www.tribuneindia.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/tribuneindia.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "776c8f84c6231aa5246c1d378c121f9f",
+            "title": "Lucknow News: जलकल विभाग के टैंकर खरीद टेंडर में धांधली का आरोप",
+            "link": "https://www.amarujala.com/lucknow/allegation-of-rigging-in-the-water-departments-tanker-purchase-tender-lucknow-news-c-13-knp1050-1176823-2025-04-28",
+            "keywords": null,
+            "creator": null,
+            "description": "जलकल विभाग के टैंकर खरीद टेंडर में धांधली का आरोप",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-04-27 20:31:35",
+            "pubDateTZ": "UTC",
+            "image_url": "https://staticimg.amarujala.com/assets/images/2021/10/21/lucknow_1634823856.jpeg?dpr=1.0&q=80&w=414",
+            "video_url": null,
+            "source_id": "amarujala",
+            "source_name": "Amar Ujala",
+            "source_priority": 55215,
+            "source_url": "https://www.amarujala.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/amarujala.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "f8a7a03218b8166b6bd9f7c6fcbeeeac",
+            "title": "निहत्थे पर्यटकों की हत्या करने के विरोध में बाजार बंद रहा",
+            "link": "https://www.amarujala.com/uttar-pradesh/meerut/the-market-remained-closed-in-protest-against-the-killing-of-unarmed-tourists-mawana-news-c-40-1-smrt1041-108584-2025-04-28",
+            "keywords": null,
+            "creator": null,
+            "description": "निहत्थे पर्यटकों की हत्या करने के विरोध में बाजार बंद रहा",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-04-27 20:31:30",
+            "pubDateTZ": "UTC",
+            "image_url": "https://staticimg.amarujala.com/assets/images/2025/04/09/meerut-city_f582174ec3981372adcb50459e7c42ab.jpeg?dpr=1.0&q=80&w=414",
+            "video_url": null,
+            "source_id": "amarujala",
+            "source_name": "Amar Ujala",
+            "source_priority": 55215,
+            "source_url": "https://www.amarujala.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/amarujala.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "d4a239eea807be7550d50d59a3b2e418",
+            "title": "Lucknow News: अंसल कंपनी पर एक और एफआईआर दर्ज",
+            "link": "https://www.amarujala.com/lucknow/another-fir-lodged-against-ansal-company-lucknow-news-c-13-knp1050-1176616-2025-04-28",
+            "keywords": null,
+            "creator": null,
+            "description": "अंसल कंपनी पर एक और एफआईआर दर्ज",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-04-27 20:31:26",
+            "pubDateTZ": "UTC",
+            "image_url": "https://staticimg.amarujala.com/assets/images/2021/10/21/lucknow_1634823856.jpeg?dpr=1.0&q=80&w=414",
+            "video_url": null,
+            "source_id": "amarujala",
+            "source_name": "Amar Ujala",
+            "source_priority": 55215,
+            "source_url": "https://www.amarujala.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/amarujala.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "e125886a2e593bc3958fd2a631d80215",
+            "title": "Bareilly News: एसएस बिल्डर पर जीएसटी छापा, जमा कराए 1.20 करोड़, दस्तावेज जब्त",
+            "link": "https://www.amarujala.com/uttar-pradesh/bareilly/gst-raid-on-ss-builder-rs-120-crore-deposited-documents-seized-bareilly-news-c-4-lko1064-628378-2025-04-28",
+            "keywords": null,
+            "creator": null,
+            "description": "एसएस बिल्डर पर जीएसटी छापा, जमा कराए 1.20 करोड़, दस्तावेज जब्त",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-04-27 20:31:21",
+            "pubDateTZ": "UTC",
+            "image_url": "https://staticimg.amarujala.com/assets/images/2021/12/01/bareilly_1638345241.jpeg?dpr=1.0&q=80&w=414",
+            "video_url": null,
+            "source_id": "amarujala",
+            "source_name": "Amar Ujala",
+            "source_priority": 55215,
+            "source_url": "https://www.amarujala.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/amarujala.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "b7cead64a1177e9ab19e1a1186f47061",
+            "title": "Lucknow bags 36 golds to emerge overall winner",
+            "link": "https://timesofindia.indiatimes.com/city/lucknow/lucknow-bags-36-golds-to-emerge-overall-winner/articleshow/120676670.cms",
+            "keywords": null,
+            "creator": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-04-27 20:31:18",
+            "pubDateTZ": "UTC",
+            "image_url": "https://static.toiimg.com/thumb/msid-120676668,width-1070,height-580,imgsize-50060,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "video_url": null,
+            "source_id": "toi",
+            "source_name": "The Times Of India",
+            "source_priority": 239,
+            "source_url": "https://timesofindia.indiatimes.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/toi.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "0d182ee3eca21233dc72434bb3d9b0de",
+            "title": "Stool chart key to detection of liver diseases in newborns",
+            "link": "https://timesofindia.indiatimes.com/city/lucknow/stool-chart-key-to-detection-of-liver-diseases-in-newborns/articleshow/120676614.cms",
+            "keywords": null,
+            "creator": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-04-27 20:31:17",
+            "pubDateTZ": "UTC",
+            "image_url": "https://static.toiimg.com/thumb/msid-120676664,width-1070,height-580,imgsize-60166,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "video_url": null,
+            "source_id": "toi",
+            "source_name": "The Times Of India",
+            "source_priority": 239,
+            "source_url": "https://timesofindia.indiatimes.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/toi.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "72a42296b831f4e970b51001c82cdc38",
+            "title": "Nainital News: एशियन जुजित्सु चैंपियनशिप के लिए भारतीय टीम का चयन",
+            "link": "https://www.amarujala.com/uttarakhand/nainital/indian-team-selected-for-asian-jujitsu-championship-haldwani-news-c-337-1-hld1039-121384-2025-04-28",
+            "keywords": null,
+            "creator": null,
+            "description": "एशियन जुजित्सु चैंपियनशिप के लिए भारतीय टीम का चयन",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-04-27 20:31:16",
+            "pubDateTZ": "UTC",
+            "image_url": "https://staticimg.amarujala.com/assets/images/4cplus/2025/04/28/jajatasa-capayana-shapa-ka-le-cayanata-bharataya-tama_3fced4ed399a7088706eee0f83dc4e10.jpeg?dpr=1.0&q=80&w=414",
+            "video_url": null,
+            "source_id": "amarujala",
+            "source_name": "Amar Ujala",
+            "source_priority": 55215,
+            "source_url": "https://www.amarujala.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/amarujala.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "af10e36e16a26b984edf5cd9851851a1",
+            "title": "Lucknow News: सफाई कर्मचारियों को कम वेतन कम दे रही निजी कंपनी लॉयन",
+            "link": "https://www.amarujala.com/lucknow/private-company-lion-is-paying-less-salary-to-cleaning-workers-lucknow-news-c-13-knp1050-1176522-2025-04-28",
+            "keywords": null,
+            "creator": null,
+            "description": "सफाई कर्मचारियों को कम वेतन कम दे रही निजी कंपनी लॉयन",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-04-27 20:31:11",
+            "pubDateTZ": "UTC",
+            "image_url": "https://staticimg.amarujala.com/assets/images/2021/10/21/lucknow_1634823856.jpeg?dpr=1.0&q=80&w=414",
+            "video_url": null,
+            "source_id": "amarujala",
+            "source_name": "Amar Ujala",
+            "source_priority": 55215,
+            "source_url": "https://www.amarujala.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/amarujala.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "b69e03793be62cd9f783a197689a664c",
+            "title": "Lucknow News: राजनीतिक क्षेत्र में नहीं मिल रही हिस्सेदारी",
+            "link": "https://www.amarujala.com/lucknow/no-participation-in-political-field-lucknow-news-c-13-1-lko1103-1177530-2025-04-28",
+            "keywords": null,
+            "creator": null,
+            "description": "हजरतगंज स्थित प्रेस क्लब में रविवार को अखिल भारतीय बढ़ई महासभा का शपथ ग्रहण समारोह हुआ।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-04-27 20:31:07",
+            "pubDateTZ": "UTC",
+            "image_url": "https://staticimg.amarujala.com/assets/images/2021/10/21/lucknow_1634823856.jpeg?dpr=1.0&q=80&w=414",
+            "video_url": null,
+            "source_id": "amarujala",
+            "source_name": "Amar Ujala",
+            "source_priority": 55215,
+            "source_url": "https://www.amarujala.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/amarujala.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "c0de0c1c3862600716677cc2a848efe2",
+            "title": "अज्ञात वाहन की टक्कर से बाइक सवार किसान की मौत",
+            "link": "https://www.amarujala.com/uttar-pradesh/meerut/bike-rider-farmer-dies-after-being-hit-by-an-unknown-vehicle-sardana-news-c-44-1-smrt1055-107971-2025-04-28",
+            "keywords": null,
+            "creator": null,
+            "description": "मेरठ-करनाल हाईवे पर गांव डाहर के पास शनिवार देर रात एक अज्ञात वाहन की टक्कर से बाइक सवार किसान की मौत हो गई। वहीं हादसे के बाद चालक वाहन लेकर मौके से भाग गया।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-04-27 20:31:02",
+            "pubDateTZ": "UTC",
+            "image_url": "https://staticimg.amarujala.com/assets/images/4cplus/2025/04/28/sarathhana-mataka-thashapal-ka-fail-fata-parajana_0d40c53757b5035dc02fc7385e329f97.jpeg?dpr=1.0&q=80&w=414",
+            "video_url": null,
+            "source_id": "amarujala",
+            "source_name": "Amar Ujala",
+            "source_priority": 55215,
+            "source_url": "https://www.amarujala.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/amarujala.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "0bdace7f541b84c6f7a58c1c5f5bb3e1",
+            "title": "सभी मनोकामनाओं को पूर्ण करते हैं आदिनाथ भगवान",
+            "link": "https://www.amarujala.com/uttar-pradesh/meerut/lord-adinatha-fulfills-all-the-wishes-meerut-news-c-14-1-mrt1002-844647-2025-04-28",
+            "keywords": null,
+            "creator": null,
+            "description": "आदिनाथ दिगंबर जैन पंचायती मंदिर फूलबाग कॉलोनी में 48 दीपकों से भक्तामर महाअर्चना की गई।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-04-27 20:30:57",
+            "pubDateTZ": "UTC",
+            "image_url": "https://staticimg.amarujala.com/assets/images/4cplus/2025/04/28/fal-bga-kalna-jana-mathara-ma-karayakarama_6b3d849996a35b1bb69b768a7147e8f7.jpeg?dpr=1.0&q=80&w=414",
+            "video_url": null,
+            "source_id": "amarujala",
+            "source_name": "Amar Ujala",
+            "source_priority": 55215,
+            "source_url": "https://www.amarujala.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/amarujala.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "7b2603fcb6ef9826bfb17ae2617e7e8b",
+            "title": "High-Stakes Politics Amid Tragedy: Canada at the Polls",
+            "link": "https://www.devdiscourse.com/article/politics/3361454-high-stakes-politics-amid-tragedy-canada-at-the-polls",
+            "keywords": null,
+            "creator": null,
+            "description": "High-Stakes Politics Amid Tragedy: Canada at the Polls In Canada, the election campaigns of Prime Minister Mark Carney and Conservative leader Pierre Poilievre have wrapped up under the grim shadow of a tragic incident at a Filipino community festival in Vancouver, resulting in 11 deaths. Both leaders have expressed condolences, yet it's uncertain what impact this will have on the looming elections.The main focus of the campaigns has been on President Donald Trump's tariffs and potential annexation threats, with Carney making a last-minute push in British Columbia alongside local leaders. Meanwhile, Poilievre continues to assert his promises of policy changes, resonating with voters fed up with nearly a decade of Liberal rule. Supporters rallied behind calls for change following Carney's cancellation of election day events due to the Vancouver tragedy.Polls indicate a close race, with Carney's Liberal Party holding a narrow lead over Poilievre's Conservatives. The electoral battleground remains fiercely contested, especially in British Columbia, as Canadians decide who can best navigate international tensions exacerbated by Trump's aggressive trade policies.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-04-27 20:30:37",
+            "pubDateTZ": "UTC",
+            "image_url": "https://devdiscourse.blob.core.windows.net/devnews/20_04_2025_14_25_35_4836581.jpg",
+            "video_url": null,
+            "source_id": "devdiscourse",
+            "source_name": "Devdiscourse",
+            "source_priority": 566021,
+            "source_url": "https://www.devdiscourse.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/devdiscourse.jpg",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
             "article_id": "2c960ca83d4400d6745606ee2995cc0a",
             "title": "GPU Crash Dump triggered Oblivion Remastered potential fix (Fatal Error crash fix) - Sportskeeda",
             "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZGpNWmdvU291TmZVSFNhVkNhdVZqMXIzT2YxQUdnenVucFBYQy1aOXhyVnFMUHlQaDlPWnZPS3NsZ1FST3ZSMnpBa2hqc0dHR01MMzdSNFdCT002dXVZRWpmU1haM0R2c3dBMGVlQ20xX0pEU0xQblZGQ1VfYmJxT0VZOEZad05SVjc4cG5qWjNpUkNZQnpsc2FmZHM1cDhpVW1uU0FXUnhNZjhwa3Z6Qk5JXzhtQVNOVTF6Rg?oc=5",
@@ -22145,696 +22773,6 @@
             ],
             "category": [
                 "politics"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "33a33c79883ad09b7b1b58bd9f12eb09",
-            "title": "Gujarat में अवैध प्रवासियों पर शिकंजा, पुलिस ने पकड़े 450 संदिग्ध",
-            "link": "https://jantaserishta.com/local/gujarat/crackdown-on-illegal-immigrants-in-gujarat-police-arrested-450-suspects-gujarat-450--3977512",
-            "keywords": [
-                "गुजरात,राज्य"
-            ],
-            "creator": [
-                "Admindelhi1"
-            ],
-            "description": "अहमदाबाद और सूरत में पकड़े गए 450 से अधिक संदिग्ध",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-04-26 08:09:00",
-            "pubDateTZ": "UTC",
-            "image_url": "https://jantaserishta.com/h-upload/2025/04/26/4552036-gujaratpolice-1.webp",
-            "video_url": null,
-            "source_id": "jantaserishta",
-            "source_name": "Janta Se Rishta",
-            "source_priority": 81836,
-            "source_url": "https://jantaserishta.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/jantaserishta.jpg",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "eb6e19e99c2c929eb62f42898ed91027",
-            "title": "डासना देवी मंदिर के महंत यति नरसिंहानंद गिरि ने पहलगाम में हुए नरसंहार के विरोध ...",
-            "link": "https://www.currentcrime.com/%E0%A4%A1%E0%A4%BE%E0%A4%B8%E0%A4%A8%E0%A4%BE-%E0%A4%A6%E0%A5%87%E0%A4%B5%E0%A5%80-%E0%A4%AE%E0%A4%82%E0%A4%A6%E0%A4%BF%E0%A4%B0-%E0%A4%95%E0%A5%87-%E0%A4%AE%E0%A4%B9%E0%A4%82%E0%A4%A4-%E0%A4%AF/",
-            "keywords": [
-                "ग़ाजियाबाद",
-                "उत्तर प्रदेश",
-                "दिल्ली एन.सी.आर"
-            ],
-            "creator": [
-                "Current Crime Editorial"
-            ],
-            "description": "\\u0921\\u093e\\u0938\\u0928\\u093e \\u0926\\u0947\\u0935\\u0940 \\u092e\\u0902\\u0926\\u093f\\u0930 \\u0915\\u0947 \\u092e\\u0939\\u0902\\u0924 \\u092f\\u0924\\u093f \\u0928\\u0930\\u0938\\u093f\\u0902\\u0939\\u093e\\u0928\\u0902\\u0926 \\u0917\\u093f\\u0930\\u093f \\u0928\\u0947 \\u092a\\u0939\\u0932\\u0917\\u093e\\u092e \\u092e\\u0947\\u0902 \\u0939\\u0941\\u090f \\u0928\\u0930\\u0938\\u0902\\u0939\\u093e\\u0930 \\u0915\\u0947 \\u0935\\u093f\\u0930\\u094b\\u0927 \\u092e\\u0947\\u0902 \\u092a\\u094d\\u0930\\u0927\\u093e\\u0928\\u092e\\u0902\\u0924\\u094d\\u0930\\u0940 \\u0906\\u0935\\u093e\\u0938 \\u0924\\u0915 \\u092a\\u0948\\u0926\\u0932 \\u092e\\u093e\\u0930\\u094d\\u091a \\u0936\\u0941\\u0930\\u0942 \\u0915\\u093f\\u092f\\u093e”,”delight_ranges”:[],”image_ranges”:[],”inline_style_ranges”:[],”aggregated_ranges”:[],”color_ranges”:[]},”id”:”UzpfSTEwMDAwMjMwMTA2ODEyODpWSzo2NTE5NDIxNjc4MjQ4NDQ= डासना देवी मंदिर के महंत यति नरसिंहानंद गिरि ने पहलगाम में हुए नरसंहार के विरोध में प्रधानमंत्री आवास तक पैदल मार्च शुरू किया",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-04-26 08:08:56",
-            "pubDateTZ": "UTC",
-            "image_url": "https://www.currentcrime.com/wp-content/uploads/2025/04/492861932_672132268763448_2905913649371293558_n.jpg",
-            "video_url": null,
-            "source_id": "currentcrime",
-            "source_name": "Current Crime",
-            "source_priority": 15753694,
-            "source_url": "http://www.currentcrime.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/currentcrime.jpg",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "044826aa3e464e99882e4c56c53e8a97",
-            "title": "Puri Srimandir Ratna Bhandar repair work to be completed after Rath Yatra",
-            "link": "https://odishatv.in/news/odisha/puri-srimandir-ratna-bhandar-repair-work-to-be-completed-after-rath-yatra-261318",
-            "keywords": [
-                "odisha"
-            ],
-            "creator": [
-                "vikash@odishatv.com(Vikash Sharma)"
-            ],
-            "description": "From June 28 to July 6, substantial progress is expected to be made, especially as the deities will not be present inside the temple during Rath Yatra period, allowing the conservation teams, mostly the ASI officials, to work with fewer restrictions.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-04-26 08:08:55",
-            "pubDateTZ": "UTC",
-            "image_url": "https://images.odishatv.in/uploadimage/library/16_9/16_9_0/recent_photo_1744427767.jpg",
-            "video_url": null,
-            "source_id": "odishatv",
-            "source_name": "Odisha Tv",
-            "source_priority": 62016,
-            "source_url": "https://odishatv.in",
-            "source_icon": "https://i.bytvi.com/domain_icons/odishatv.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "b219d82806ab7af1a0e01a0c25fe1f4f",
-            "title": "Maxwell to return among two changes? Predicting Punjab Kings' likely playing XI against KKR",
-            "link": "https://www.indiatvnews.com/sports/cricket/maxwell-to-return-among-two-changes-predicting-punjab-kings-likely-playing-xi-against-kkr-ipl-2025-04-26-987425",
-            "keywords": null,
-            "creator": null,
-            "description": "Punjab Kings have been there and thereabouts in the 2025 edition of the IPL, but they haven't gotten on a home stretch where they would feel comfortable with the playoffs approaching. The Kings still have a lot of time and games remaining in the tournament but with the Mumbai Indians making a move, they can't sleep peacefully.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-04-26 08:08:55",
-            "pubDateTZ": "UTC",
-            "image_url": "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2025/04/maxwell-6-1745654104.jpg",
-            "video_url": null,
-            "source_id": "indiatvnews",
-            "source_name": "India Tv",
-            "source_priority": 10055,
-            "source_url": "https://www.indiatvnews.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/indiatvnews.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "sports"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "da194481d6a156276971d63ed51ba36d",
-            "title": "Taniya Chatterjee ने कैमरे के सामने उतारी जैकेट, बोल्ड अंदाज देख यूजर्स के उड़े होश (Watch Video)",
-            "link": "https://hindi.latestly.com/entertainment/bollywood/taniya-chatterjee-removes-jacket-in-front-of-camera-bold-avatar-stuns-users-watch-video-2592624.html",
-            "keywords": null,
-            "creator": null,
-            "description": "बॉलीवुड एक्ट्रेस और मॉडल तानिया चटर्जी का नया वीडियो सोशल मीडिया पर तहलका मचा रहा है. बीती रात तानिया को बांद्रा में स्पॉट किया गया, जहां उन्होंने कैमरों के सामने बेहद बोल्ड अंदाज में पोज दिए.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-04-26 08:08:52",
-            "pubDateTZ": "UTC",
-            "image_url": "https://hist1.latestly.com/wp-content/uploads/2025/04/20-993089678-380x214.jpg",
-            "video_url": null,
-            "source_id": "latestly",
-            "source_name": "Latestly",
-            "source_priority": 31923,
-            "source_url": "https://www.latestly.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/latestly.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "entertainment"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "696d5ae6b5f705171fde194574cd8237",
-            "title": "Success Story: मुजफ्फरनगर की बेटी ने रेलवे की नौकरी करते हुए UPSC परीक्षा में 22वीं रैंक हासिल कर लहराया परचम",
-            "link": "https://www.prabhatkhabar.com/education/upsc-success-story-riya-saini-clears-ias-exam-third-attempt-22nd-rank-muzaffarnagar-2024",
-            "keywords": [
-                "education news in hindi",
-                "upsc result",
-                "success story",
-                "education news",
-                "education"
-            ],
-            "creator": [
-                "Govind Jee"
-            ],
-            "description": "UPSC Success Story: रिया सैनी ने यूपीएससी परीक्षा में 22वीं रैंक हासिल कर मुजफ्फरनगर का नाम रोशन किया. तीसरे प्रयास में उन्होंने आईएएस का सपना साकार किया. रिया की सफलता उनके परिवार और कड़ी मेहनत का रिजल्ट है. वे अब उत्तर प्रदेश या महाराष्ट्र कैडर में सेवा देने की उम्मीद रखती हैं.The post Success Story: मुजफ्फरनगर की बेटी ने रेलवे की नौकरी करते हुए UPSC परीक्षा में 22वीं रैंक हासिल कर लहराया परचम appeared first on Prabhat Khabar.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-04-26 08:08:51",
-            "pubDateTZ": "UTC",
-            "image_url": "https://www.prabhatkhabar.com/wp-content/uploads/2025/04/UPSC-Success-Story-2.jpg",
-            "video_url": null,
-            "source_id": "prabhatkhabar",
-            "source_name": "Prabhat Khabar",
-            "source_priority": 343253,
-            "source_url": "https://www.prabhatkhabar.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/prabhatkhabar.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "education"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "de9ab3543825e1c5033e15af9b55c73b",
-            "title": "गाँजा पिलाकर, पोर्न दिखाकर, गले पर छुरी रख हिंदू लड़कियों का बलात्कार: वीडियो भी सर्कुलेट करता था भोपाल का ‘मुस्लिम गैंग’",
-            "link": "https://hindi.opindia.com/national/bhopal-muslim-gang-raped-hindu-girls-drug-porn-blackmailing-religious-conversion/",
-            "keywords": [
-                "मुस्लिम",
-                "मध्य प्रदेश",
-                "रेप",
-                "बड़ी ख़बर",
-                "संपादक की पसंद",
-                "लव जिहाद",
-                "भोपाल",
-                "lead story",
-                "रिपोर्ट",
-                "देश-समाज"
-            ],
-            "creator": [
-                "ऑपइंडिया स्टाफ़"
-            ],
-            "description": "पीड़िता के अनुसार, उसे जबरन पोर्न दिखवाया जाता था। बात न मानने पर कार में पीटा जाता था। गले पर छुरी रखकर धमकी दी जाती थी। धर्म बदलकर शादी करने के लिए दबाव डाला जाता था।",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-04-26 08:08:47",
-            "pubDateTZ": "UTC",
-            "image_url": "https://i0.wp.com/hindi.opindia.com/wp-content/uploads/sites/6/2025/04/victim-girls-1.jpg?fit=696%2C392&ssl=1",
-            "video_url": null,
-            "source_id": "opindia",
-            "source_name": "Op India",
-            "source_priority": 37271,
-            "source_url": "https://www.opindia.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/opindia.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "579b7a7f3b4ab19103aba842e153f93c",
-            "title": "Union Minister Hardeep Singh Puri attends Rozgar Mela in Mohali, distributes appointment letters to 25 youth",
-            "link": "https://thenewsmill.com/2025/04/union-minister-hardeep-singh-puri-attends-rozgar-mela-in-mohali-distributes-appointment-letters-to-25-youth/",
-            "keywords": [
-                "manipur",
-                "northeast india",
-                "ani"
-            ],
-            "creator": [
-                "ANI"
-            ],
-            "description": "The News Mill",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-04-26 08:08:47",
-            "pubDateTZ": "UTC",
-            "image_url": "https://thenewsmill.com/wp-content/uploads/2025/04/ANI-20250426080654.jpg",
-            "video_url": null,
-            "source_id": "thenewsmill",
-            "source_name": "The News Mill",
-            "source_priority": 3781717,
-            "source_url": "https://thenewsmill.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/thenewsmill.jpg",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "8e60d4f8db2d11563a812cc8e343849c",
-            "title": "Indian Airlines Carried 1.45 Crore Passengers In March: DGCA",
-            "link": "https://www.ndtvprofit.com/business/indian-airlines-carried-145-crore-passengers-in-march-dgca",
-            "keywords": [
-                "business",
-                "pti"
-            ],
-            "creator": [
-                "PTI"
-            ],
-            "description": "IndiGo transported a total of 93.1 lakh passengers with a market share of 64%",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-04-26 08:08:41",
-            "pubDateTZ": "UTC",
-            "image_url": "https://media.assettype.com/bloombergquint%2F2018-10%2F85f5359a-7e8d-42d1-b4ad-deee71b988db%2Findigo_HERO.jpg?auto=format%2Ccompress&ogImage=true&rect=0%2C72%2C2000%2C1050&w=1200",
-            "video_url": null,
-            "source_id": "bloombergquint",
-            "source_name": "Bq Prime",
-            "source_priority": 9222807,
-            "source_url": "https://www.bloombergquint.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/bloombergquint.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "business"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "b35f330cbc3c090b32bf15297c8852ad",
-            "title": "Assam: Popular writer Sabharam Bharali passes away in Dibrugarh",
-            "link": "https://www.sentinelassam.com/north-east-india-news/assam-news/assam-popular-writer-sabharam-bharali-passes-away-in-dibrugarh",
-            "keywords": null,
-            "creator": [
-                "Sentinel Digital Desk"
-            ],
-            "description": null,
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-04-26 08:08:40",
-            "pubDateTZ": "UTC",
-            "image_url": "https://media.assettype.com/sentinelassam-english%2F2025-04-26%2Futhw4ryf%2FPopular-writer-Sabharam-Bharali-passes-away.jpg?ar=40%3A21&auto=format%2Ccompress&enlarge=true&mode=crop&ogImage=true&overlay=false&overlay_position=bottom&overlay_width=100&w=1200",
-            "video_url": null,
-            "source_id": "sentinel",
-            "source_name": "The Sentinel",
-            "source_priority": 177615,
-            "source_url": "https://www.sentinelassam.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/sentinel.jpg",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "c815fa2486b06bf80a2729c3d54a5039",
-            "title": "Vaishakh Amavasya : वैशाख अमावस्या, मुहूर्त, पूजा विधि और उपाय",
-            "link": "https://navbharattimes.indiatimes.com/astro/religion-rituals/festivals-and-fasts/vaishakh-amavasya-2025-date-muhurt-puja-vidhi-upay/articleshow/120640914.cms",
-            "keywords": null,
-            "creator": null,
-            "description": "Vaishakh Amavasya Date and Time : वैशाख अमावस्या 27 अप्रैल 2025 को है। इस अमावस्या पर पितरों की आत्मा की शांति के लिए पिंडदान, तर्पण आदि किया जाता है। इसके अलावा वैशाख अमावस्या पर स्नान, ध्यान और दान का भी विशेष महत्व है। ऐसे में जानिए वैशाख अमावस्या का मुहूर्त, पूजा विधि और उपाय।",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-04-26 08:08:38",
-            "pubDateTZ": "UTC",
-            "image_url": "https://navbharattimes.indiatimes.com/thumb/120641010/vaishakh-amavasya-2025-120641010.jpg?height=900&imgsize-3051983=&resizemode=75&width=1600",
-            "video_url": null,
-            "source_id": "navbharattimes",
-            "source_name": "Nbt Navbharattimes",
-            "source_priority": 244,
-            "source_url": "https://navbharattimes.indiatimes.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/navbharattimes.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "other"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "0f9d1b1e93ee6ead036fae1bc36601ba",
-            "title": "Bijapur: Two jawans injured in separate IED blasts",
-            "link": "https://thenewsmill.com/2025/04/bijapur-two-jawans-injured-in-separate-ied-blasts/",
-            "keywords": [
-                "manipur",
-                "northeast india",
-                "ani"
-            ],
-            "creator": [
-                "ANI"
-            ],
-            "description": "The News Mill",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-04-26 08:08:31",
-            "pubDateTZ": "UTC",
-            "image_url": "https://thenewsmill.com/wp-content/uploads/2025/04/ANI-20250426075102.jpg",
-            "video_url": null,
-            "source_id": "thenewsmill",
-            "source_name": "The News Mill",
-            "source_priority": 3781717,
-            "source_url": "https://thenewsmill.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/thenewsmill.jpg",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "30d4bfff29b75a3e3c71bc56bc969a71",
-            "title": "Business News | Maharashtra Medical Council Launches MahaCPD: Bridging Gaps in Medical Learning Through Technology with Accessible, Online CPD Access",
-            "link": "https://www.latestly.com/agency-news/business-news-maharashtra-medical-council-launches-mahacpd-bridging-gaps-in-medical-learning-through-technology-with-accessible-online-cpd-access-6810233.html",
-            "keywords": null,
-            "creator": null,
-            "description": "Get latest articles and stories on Business at LatestLY. Mumbai (Maharashtra) [India], April 26: In a significant move aimed at strengthening the professional capabilities of doctors across Maharashtra, the Maharashtra Medical Council (MMC) has launched MahaCPD -- an official digital platform designed to deliver high-quality, standardized Continuous Professional Development for Registered Doctors of Maharashtra.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-04-26 08:08:29",
-            "pubDateTZ": "UTC",
-            "image_url": "https://st1.latestly.com/wp-content/uploads/2025/04/ANI-20250426075453-380x214.jpg",
-            "video_url": null,
-            "source_id": "latestly",
-            "source_name": "Latestly",
-            "source_priority": 31923,
-            "source_url": "https://www.latestly.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/latestly.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "4e3a4d1f1554bd28859e8dfdab6faadc",
-            "title": "RJD Criticizes PM Modi's Bihar Rally Amid National Mourning",
-            "link": "https://www.devdiscourse.com/article/politics/3360106-rjd-criticizes-pm-modis-bihar-rally-amid-national-mourning",
-            "keywords": null,
-            "creator": null,
-            "description": "RJD Criticizes PM Modi's Bihar Rally Amid National Mourning The political climate in Bihar was charged on Saturday as the Rashtriya Janata Dal (RJD) publicly criticized Prime Minister Narendra Modi for holding an election rally amidst a period of national mourning following the deadly Pahalgam attack. Posters prominently displayed in Patna lamented the perceived insensitivity, contrasting mourning with political campaigning.The RJD's posters, initiated by party member Sanju Kohli, sarcastically suggested that PM Modi should focus on taking decisive action against terrorism, bolstered by national support. These materials contrasted images of Modi with Bihar Chief Minister Nitish Kumar against the backdrop of a solemn candlelight vigil honoring the victims.In response to the catastrophic attack on tourists in Pahalgam, which claimed 26 lives, India announced several diplomatic measures targeting Pakistan. Among these, the suspension of the Indus Water Treaty and a reduction in diplomatic staff at the Pakistan High Commission have been key steps. PM Modi has vowed retribution against those responsible, reinforcing national resolve against terrorism.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-04-26 08:08:29",
-            "pubDateTZ": "UTC",
-            "image_url": "https://devdiscourse.blob.core.windows.net/devnews/26_04_2025_13_38_24_3068989.jpg",
-            "video_url": null,
-            "source_id": "devdiscourse",
-            "source_name": "Devdiscourse",
-            "source_priority": 566021,
-            "source_url": "https://www.devdiscourse.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/devdiscourse.jpg",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "19b8462afb7f293b85b8e3f78e828aa0",
-            "title": "7 dead, 4 critical as speeding van mows down group on Delhi-Mumbai Expressway",
-            "link": "https://timesofindia.indiatimes.com/city/chandigarh/7-dead-4-critical-as-speeding-van-mows-down-group-on-delhi-mumbai-expressway/articleshow/120641240.cms",
-            "keywords": null,
-            "creator": null,
-            "description": "An accident on the Delhi-Mumbai Expressway in Nuh district claimed the lives of seven sanitation workers, including six women, after a speeding van ran them over. Four others sustained critical injuries and were rushed to a Delhi hospital. The victims were cleaning the road near Ibrahimvas village when the incident occurred, leading to a major traffic disruption and a police investigation.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-04-26 08:08:29",
-            "pubDateTZ": "UTC",
-            "image_url": "https://static.toiimg.com/thumb/msid-120641170,imgsize-31038,width-400,height-225,resizemode-72/Representative-Image.jpg",
-            "video_url": null,
-            "source_id": "toi",
-            "source_name": "The Times Of India",
-            "source_priority": 239,
-            "source_url": "https://timesofindia.indiatimes.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/toi.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "5aa9a37a9285964dfe0a93857c9cc814",
-            "title": "CM Stalin ने सलेम में पटाखा विस्फोट के पीड़ितों के परिवारों के लिए 3 लाख रुपये की राहत की घोषणा की",
-            "link": "https://jantaserishta.com/local/tamil-nadu/cm-stalin-announces-rs-3-lakh-relief-for-families-of-victims-of-firecracker-explosion-in-salem-3977511",
-            "keywords": [
-                "राज्य,तमिलनाडू"
-            ],
-            "creator": [
-                "Payal"
-            ],
-            "description": null,
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-04-26 08:08:28",
-            "pubDateTZ": "UTC",
-            "image_url": "https://jantaserishta.com/h-upload/2025/04/26/4552033-21.webp",
-            "video_url": null,
-            "source_id": "jantaserishta",
-            "source_name": "Janta Se Rishta",
-            "source_priority": 81836,
-            "source_url": "https://jantaserishta.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/jantaserishta.jpg",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "2da506570e89e234f38a50973f8f28f4",
-            "title": "Haryana : जींद में महिला से सामूहिक बलात्कार, 5 साल की बेटी की हत्या",
-            "link": "https://jantaserishta.com/local/haryana/haryana-woman-gang-raped-in-jind-5-year-old-daughter-murdered-3977510",
-            "keywords": [
-                "राज्य,हरियाणा"
-            ],
-            "creator": [
-                "SANTOSI TANDI"
-            ],
-            "description": null,
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-04-26 08:08:25",
-            "pubDateTZ": "UTC",
-            "image_url": "https://jantaserishta.com/h-upload/2025/04/26/4552031-18.webp",
-            "video_url": null,
-            "source_id": "jantaserishta",
-            "source_name": "Janta Se Rishta",
-            "source_priority": 81836,
-            "source_url": "https://jantaserishta.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/jantaserishta.jpg",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "ff16297f2353e9bcc27e54b704f15558",
-            "title": "Kashmir's \"Peace\": Pahalgam Attack Raises Serious Questions on Official Claims",
-            "link": "https://www.thequint.com/hindi/videos/pahalgam-terror-attack-unanswered-questions",
-            "keywords": [
-                "janab aise kaise",
-                "videos",
-                "news videos"
-            ],
-            "creator": [
-                "Shadab Moizee"
-            ],
-            "description": "Tourist hotspot Pahalgam sees deadly attack, challenging Kashmir's security claims.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-04-26 08:08:23",
-            "pubDateTZ": "UTC",
-            "image_url": "https://media.assettype.com/thequint%2F2025-04-26%2Fypr4m5i9%2FHero-Image.jpg?auto=format%2Ccompress&fmt=webp&w=1200&width=720",
-            "video_url": null,
-            "source_id": "thequint",
-            "source_name": "The Quint",
-            "source_priority": 9980,
-            "source_url": "https://www.thequint.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/thequint.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "0a26c4bd364789467d1d9dbcf9dc488e",
-            "title": "Mutual Fund स्कीम का चुनाव में इन 4 बातों का ध्यान, हमेशा मिलेगा तगड़ा रिटर्न",
-            "link": "https://www.indiatv.in/paisa/my-profit/keep-these-4-things-in-mind-while-choosing-a-mutual-fund-scheme-you-will-always-get-strong-returns-2025-04-26-1130519",
-            "keywords": null,
-            "creator": null,
-            "description": "म्यूचुअल फंड निवेश पर तगड़ा रिटर्न के लिए सही फंड का चुनाव बहुत जरूरी है। हालांकि, बहुत सारे निवेशक इसी में चूक जाते हैं।",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-04-26 08:08:22",
-            "pubDateTZ": "UTC",
-            "image_url": "https://resize.indiatv.in/resize/1200_-/2025/04/mutual-1745654882.jpg",
-            "video_url": null,
-            "source_id": "indiatv",
-            "source_name": "India Tv",
-            "source_priority": 8882,
-            "source_url": "https://www.indiatv.in",
-            "source_icon": "https://i.bytvi.com/domain_icons/indiatv.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "business"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "4d5df62531e1c36cb0541b5003c4f7ae",
-            "title": "Best street foods to try in these states: Take a culinary tour of India",
-            "link": "https://www.cnbctv18.com/photos/travel/food-and-drinks/best-street-foods-to-try-in-these-states-take-a-culinary-tour-of-india-19583948.htm",
-            "keywords": [
-                "photogallery"
-            ],
-            "creator": null,
-            "description": null,
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-04-26 08:08:19",
-            "pubDateTZ": "UTC",
-            "image_url": "https://images.cnbctv18.com/uploads/2025/04/kari-dosa-2025-04-c7503e4fcdea7df3ec85bf6cea775ce6.jpg",
-            "video_url": null,
-            "source_id": "cnbctv18",
-            "source_name": "Cnbctv18",
-            "source_priority": 17950,
-            "source_url": "https://www.cnbctv18.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/cnbctv18.jpg",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "other"
             ],
             "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
             "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
