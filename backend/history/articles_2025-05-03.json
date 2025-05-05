@@ -1,6 +1,820 @@
 {
     "articles": [
         {
+            "article_id": "9e53b2e6df07da211805b05735f7b65b",
+            "title": "Pen or keyboard?",
+            "link": "https://www.thehindu.com/opinion/open-page/pen-or-keyboard/article69495547.ece",
+            "keywords": [
+                "open page"
+            ],
+            "creator": null,
+            "description": "Writing by hand, at the cognitive level, is a more complex exercise than merely hitting the keyboard",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-03 22:09:00",
+            "pubDateTZ": "UTC",
+            "image_url": "https://th-i.thgim.com/public/news/national/7fbc9i/article69521460.ece/alternates/LANDSCAPE_1200/iStock-1224064817.jpg",
+            "video_url": null,
+            "source_id": "thehindu",
+            "source_name": "The Hindu",
+            "source_priority": 2972,
+            "source_url": "https://www.thehindu.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/thehindu.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "f72fe9fed9f146a916128ace5437ad10",
+            "title": "Are vaccine-preventable diseases rising? | Explained",
+            "link": "https://www.thehindu.com/sci-tech/health/are-vaccine-preventable-diseases-rising-explained/article69535515.ece",
+            "keywords": [
+                "health"
+            ],
+            "creator": null,
+            "description": "What has WHO, UNICEF and Gavi warned? Why are vaccination schedules being missed? Why is there a threat to immunisation efforts? What are world leaders being advised to do? What happened during the pandemic? What is the status in India?",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-03 22:08:18",
+            "pubDateTZ": "UTC",
+            "image_url": "https://th-i.thgim.com/public/incoming/t6666b/article69535964.ece/alternates/LANDSCAPE_1200/6678_3_3_2024_19_8_52_2_POLIO_2.JPG",
+            "video_url": null,
+            "source_id": "thehindu",
+            "source_name": "The Hindu",
+            "source_priority": 2972,
+            "source_url": "https://www.thehindu.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/thehindu.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "01a5a00796425d1645bad2f37635db46",
+            "title": "Himachal Dy CM’s Facebook post leads to speculation of rejig in Cong",
+            "link": "https://www.tribuneindia.com/news/agnihotriconspiracy/dy-cms-facebook-post-leads-to-speculation-of-rejig-in-cong",
+            "keywords": [
+                "agnihotriconspiracy",
+                "himachalcongress",
+                "congressrejig",
+                "politicalspeculation",
+                "himachalpolitics",
+                "pratibhasingh",
+                "sukhvindersinghsukhu",
+                "congressreshuffle",
+                "hpccpresident",
+                "himachal pradesh"
+            ],
+            "creator": [
+                "Pratibha Chauhan"
+            ],
+            "description": "A social media post by Deputy Chief Minister Mukesh Agnihotri about the possibility of a ‘conspiracy’ has caused ripples in the political circles of the state and people are expecting a ‘rejig’ in the Congress. Agnihotri’s Facebook post this afternoon stating that “in this time of conspiracies, the truth will eventually prevail” (Sazeeshon ka daur [...]",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-03 22:08:13",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/webp/medium/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTIwZWQ5YzIwLTI4NmItMTFmMC04NDBiLTBkMWUyZGMyZWRkYi5qcGc%3D",
+            "video_url": null,
+            "source_id": "tribuneindia",
+            "source_name": "The Tribune India",
+            "source_priority": 15316,
+            "source_url": "https://www.tribuneindia.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/tribuneindia.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "c27068cc9e4bf414567917235e7c9142",
+            "title": "Are vaccine-preventable diseases rising? | Explained - The Hindu",
+            "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOYXIzME9rR3BTZHA3MVNlQVh1VXUwYmh3WG43LXhBMkMxVlM5VEhiM3k0bTJma0tlLVBBcmxTZ19oZ21vSkRNcDM0aEExVkh2OWk5VUZ4RHpvSnhDWFZuT0RfQVlPa2R6RjgwWUV4YU16Q0VCV25wUThUZVlfSkZBMFA0cmpDTkthWnRwTGtVeUFzTkVnZDhhM0tiT1R4NkJuanF1QUlDeDkzUXN3bE9V0gG2AUFVX3lxTFBSWERpM2JpUzJtblNGbU9WU010X3pIUDNWTjBjWk90QWhKUGRnTm9DUGdVVFJPZkxaZEJEVm9tX2NjXzc0TmFYdFgxdUJ4MWVGeTh2NFFLdFM4T0N3Yll0YW5ySTI1SVlwSVRZaGhtVXV5eEF1SHY2ekMwZlBVTzl3dGo4aFJQcl9UREZhVmVER1llLWEwbkhsTFBuMFBpZms1bEpaNExBZE1sTWpxSy1pcUdZdEtn?oc=5",
+            "keywords": null,
+            "creator": null,
+            "description": "Are vaccine-preventable diseases rising? | Explained The HinduVaccination backslide The Express TribuneGlobal campaign on prevention of encephalitis launched ET HealthWorldLower immunization rates driving measles outbreaks The Kingston Whig StandardEncephalitis Prevention is Just A Vaccination Away Vax-Before-Travel",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-03 22:08:00",
+            "pubDateTZ": "UTC",
+            "image_url": null,
+            "video_url": null,
+            "source_id": "google",
+            "source_name": "Google News",
+            "source_priority": 14,
+            "source_url": "https://news.google.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/google.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "health"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "91562781568fb95dd63f3ba7d661a75a",
+            "title": "Not in race for HPCC prez’s post: Rathore",
+            "link": "https://www.tribuneindia.com/news/indianpolitics/not-in-race-for-hpcc-prezs-post-rathore",
+            "keywords": [
+                "himachalcongress",
+                "tourismdevelopment",
+                "#indianpolitics",
+                "kuldeepsinghrathore",
+                "shimlaheadoffice",
+                "dharamsalashift",
+                "statepolitics",
+                "hpccpresident",
+                "congressspokesperson",
+                "hptdc"
+            ],
+            "creator": [
+                "PTI"
+            ],
+            "description": "Kuldeep Singh Rathore, All Indian Congress Committee spokesperson, today put speculation to rest and said that he was not in the race for the state party president’s post. “Party men often ask me whether I am in the race for the HPCC president. I say that I have no intention of becoming the state party [...]",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-03 22:07:33",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/webp/medium/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTBhNDE1MWIwLTI4NmItMTFmMC04NDBiLTBkMWUyZGMyZWRkYi5qcGc%3D",
+            "video_url": null,
+            "source_id": "tribuneindia",
+            "source_name": "The Tribune India",
+            "source_priority": 15316,
+            "source_url": "https://www.tribuneindia.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/tribuneindia.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "af908e2d4caaeea2d130e7c86320123d",
+            "title": "A wasteland full of life",
+            "link": "https://www.deccanherald.com/environment/a-wasteland-full-of-life-3521759",
+            "keywords": null,
+            "creator": [
+                "Subhashini Chandramani"
+            ],
+            "description": "A wasteland full of life",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-03 22:07:31",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.deccanherald.com/deccanherald%2F2025-05-03%2Fzawucmkt%2Ffile80efpnba8cw1d22533tu.jpg?ar=40%3A21&auto=format%2Ccompress&mode=crop&ogImage=true&rect=0%2C146%2C3879%2C2036&w=1200",
+            "video_url": null,
+            "source_id": "deccanherald",
+            "source_name": "Deccan Herald",
+            "source_priority": 10080,
+            "source_url": "https://www.deccanherald.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/deccanherald.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "6f0bdeddebb03d70a777a322e9a44ee9",
+            "title": "BlueStacks Air smoothly brings hundreds of popular mobile games to your Mac",
+            "link": "https://startupnews.fyi/2025/05/04/bluestacks-air-smoothly-brings-hundreds-of-popular-mobile-games-to-your-mac/",
+            "keywords": [
+                "world news",
+                "tech"
+            ],
+            "creator": [
+                "9to5mac"
+            ],
+            "description": "BlueStacks Air makes the best mobile games playable on your Mac. Now out of beta, the new platform brings hundreds of popular mobile games across varying genres directly to your Mac, vastly expanding the number of playable games on macOS. It’s built natively for Apple Silicon and supports Vulkan, making your gameplay stunning and highly [...]",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-03 22:06:06",
+            "pubDateTZ": "UTC",
+            "image_url": "https://startupnews.fyi/wp-content/uploads/2025/05/BlueStacks-Air-for-Mac_KeyArt.jpg",
+            "video_url": null,
+            "source_id": "startupnews",
+            "source_name": "Startupnews",
+            "source_priority": 449974,
+            "source_url": "https://startupnews.fyi",
+            "source_icon": "https://i.bytvi.com/domain_icons/startupnews.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": true
+        },
+        {
+            "article_id": "07e43ce5da402a1c2ca4b36c0f743326",
+            "title": "NGT notice to Centre, firm for starting work on bulk drug park without environment clearance",
+            "link": "https://www.tribuneindia.com/news/bulkdrugpark/ngt-notice-to-centre-firm-for-starting-work-on-bulk-drug-park-without-environment-clearance",
+            "keywords": [
+                "himachalpradesh",
+                "ngt",
+                "environmentalimpactassessment",
+                "modifoundationstone",
+                "unadistrict",
+                "environmentclearance",
+                "bulkdrugpark",
+                "eianotification2006",
+                "constructioncontroversy",
+                "drugpark"
+            ],
+            "creator": [
+                "Lalit Mohan"
+            ],
+            "description": "The National Green Tribunal (NGT) has issued a notice to the Union Ministry of Environment, Forests and Climate Change and Himachal Pradesh Bulk Drug Park Infrastructure Ltd, directing them to file their replies to the allegation that the construction of the drug park in Una district has been started before securing the environment clearance for [...]",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-03 22:05:37",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/webp/medium/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWM0ODQ4OTMwLTI4NmEtMTFmMC04NDBiLTBkMWUyZGMyZWRkYi5qcGc%3D",
+            "video_url": null,
+            "source_id": "tribuneindia",
+            "source_name": "The Tribune India",
+            "source_priority": 15316,
+            "source_url": "https://www.tribuneindia.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/tribuneindia.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "60629e620cbbca9e6f79c14e58e42aff",
+            "title": "Lecce 0-1 Napoli, Serie A 2024-25: Giacomo Raspadori Stunner Gives Partenopei Vital Three Points",
+            "link": "https://www.outlookindia.com/sports/football/lecce-vs-napoli-match-report-serie-a-2024-25-giacomo-raspadori-stunner-gives-partenopei-vital-three-points-lec-v-nap-updates",
+            "keywords": [
+                "football,napoli,lecce,giacomo raspadori ,giacomo raspadori goals,giacomo raspadori stats,lecce vs napoli,lecce vs napoli highlights,lecce vs napoli timeline,lecce vs napoli match report"
+            ],
+            "creator": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-03 22:05:14",
+            "pubDateTZ": "UTC",
+            "image_url": "https://media.assettype.com/outlookindia/2025-05-03/xqhk076g/napoli_1qmd3uojxhdxn1c5uqljbne6j5.jpg?ar=40%3A21&auto=format%2Ccompress&enlarge=true&mode=crop&ogImage=true&overlay=false&overlay_position=bottom&overlay_width=100&w=1200",
+            "video_url": null,
+            "source_id": "outlookindia",
+            "source_name": "Outlook",
+            "source_priority": 3475,
+            "source_url": "https://www.outlookindia.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/outlookindia.jpg",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "b196592a3a2b14e1a64ff30ec8c77da4",
+            "title": "NMC orders suspension of 26 MBBS students for NEET-2024 malpractices",
+            "link": "https://timesofindia.indiatimes.com/india/nmc-orders-suspension-of-26-mbbs-students-for-neet-2024-malpractices/articleshow/120860238.cms",
+            "keywords": null,
+            "creator": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-03 22:04:30",
+            "pubDateTZ": "UTC",
+            "image_url": "https://static.toiimg.com/thumb/msid-120860353,imgsize-15326,width-400,resizemode-4/-.jpg",
+            "video_url": null,
+            "source_id": "toi",
+            "source_name": "The Times Of India",
+            "source_priority": 239,
+            "source_url": "https://timesofindia.indiatimes.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/toi.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "food"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "62b113c8a220f81d773146c8ee9e449b",
+            "title": "तेज रफ्तार बस ने रॉन्ग साइड जाकर बुलेट को मारी टक्कर, हादसे में महिला टीचर की मौके पर हुई मौत, युवक की हालत नाजुक",
+            "link": "http://www.tajakhabars.in/A-high-speed-bus-went-on-the-wrong-side-and-hit-a-Bullet-a-female-teacher-died-on-the-spot-in-the-accident-the-young-man-is-in-critical-condition",
+            "keywords": null,
+            "creator": [
+                "Admin"
+            ],
+            "description": "A high speed bus went on the wrong side and hit a Bullet, a female teacher died on the spot in the accident, the young man is in critical condition",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-03 22:03:52",
+            "pubDateTZ": "UTC",
+            "image_url": "http://www.tajakhabars.in/uploads/images/2025/05/image_750x500_681692bdbb592.jpg",
+            "video_url": null,
+            "source_id": "tajakhabars",
+            "source_name": "Tajakhabars",
+            "source_priority": 40538628,
+            "source_url": "http://www.tajakhabars.in",
+            "source_icon": null,
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "3f3ab89c3a78fe3a66def35d7d9d98ec",
+            "title": "New father Max Verstappen wins pole in Miami, his third through six F1 races this season",
+            "link": "https://www.livemint.com/sports/news/new-father-max-verstappen-wins-pole-in-miami-his-third-through-six-f1-races-this-season-11746309786235.html",
+            "keywords": null,
+            "creator": null,
+            "description": "New father Max Verstappen wins pole in Miami, his third through six F1 races this season",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-03 22:03:05",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/sports1_1733466411301_1733466424470.png",
+            "video_url": null,
+            "source_id": "livemint",
+            "source_name": "Mint",
+            "source_priority": 7134,
+            "source_url": "https://www.livemint.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/livemint.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "sports"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": true
+        },
+        {
+            "article_id": "b1d24648c7157130b9fd8a8004f8adaf",
+            "title": "Nothing hare-brained about Indian hares!",
+            "link": "https://www.deccanherald.com/environment/nothing-hare-brained-about-indian-hares-3521755",
+            "keywords": null,
+            "creator": [
+                "Ramya Coushik"
+            ],
+            "description": "Nothing hare-brained about Indian hares!",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-03 22:02:54",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.deccanherald.com/deccanherald%2F2025-05-03%2F19rcrp3a%2Ffile80efuqf2qyfoty8znc.jpg?ar=40%3A21&auto=format%2Ccompress&mode=crop&ogImage=true&rect=0%2C115%2C3072%2C1613&w=1200",
+            "video_url": null,
+            "source_id": "deccanherald",
+            "source_name": "Deccan Herald",
+            "source_priority": 10080,
+            "source_url": "https://www.deccanherald.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/deccanherald.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "437f2d9e0ab576f9cbe920e686faf8ac",
+            "title": "Yankees Jazz Chisholm Jr. surprised MRI of oblique showed he will be out for 4 to 6 weeks",
+            "link": "https://www.livemint.com/sports/news/yankees-jazz-chisholm-jr-surprised-mri-of-oblique-showed-he-will-be-out-for-4-to-6-weeks-11746309726947.html",
+            "keywords": null,
+            "creator": null,
+            "description": "Yankees' Jazz Chisholm Jr. surprised MRI of oblique showed he will be out for 4 to 6 weeks",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-03 22:02:06",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/sports1_1733466411301_1733466424470.png",
+            "video_url": null,
+            "source_id": "livemint",
+            "source_name": "Mint",
+            "source_priority": 7134,
+            "source_url": "https://www.livemint.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/livemint.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "sports"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "1a41781b3e7a5b3839c42c78e396340e",
+            "title": "कन्या राशि वालों के करियर में आ सकता है बदलाव, आज बढ़ेगी जिम्मेदारी",
+            "link": "https://hindi.news18.com/news/dharm/virgo-horoscope-today-may-4-2025-stomach-and-screen-related-problems-can-cause-stress-kanya-rashifal-local18-ws-kl-9217436.html",
+            "keywords": [
+                "झारखंड"
+            ],
+            "creator": [
+                "News18 Hindi"
+            ],
+            "description": "Kanya Rashifal Today: आज कन्या राशि वालों के लिए करियर में अतिरिक्त जिम्मेदारियाँ बढ़ सकती हैं, जिससे भागदौड़ संभव है. आर्थिक स्थिति सामान्य रहेगी और सोच-समझकर किया गया निवेश लाभ देगा.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-03 22:01:04",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.news18.com/ibnkhabar/uploads/2025/05/HYP_5148826_cropped_03052025_135506_20240902_163517_watermark__2-3x2.jpg",
+            "video_url": null,
+            "source_id": "hindinews18",
+            "source_name": "News 18 Hindi",
+            "source_priority": 4077,
+            "source_url": "https://hindi.news18.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/hindinews18.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "0d8631bee111bd27b89e81ecc35cebfb",
+            "title": "DAVV Indore Non CUET Admission Program Session 2025-26 - देवी अहिल्या यूनिवर्सिटी",
+            "link": "https://www.bhopalsamachar.com/2025/05/davv-indore-non-cuet-admission-program.html",
+            "keywords": [
+                "madhyapradesh",
+                "career"
+            ],
+            "creator": [
+                "noreply@blogger.com (Bhopal Samachar)"
+            ],
+            "description": "देवी अहिल्या विश्वविद्यालय में सेशन 2025 26 के लिए अपने विश्वविद्यालय में विभिन केंद्रों में संचालित प्रमाण पत्र, डिप्लोमा, स्नातक (यू.जी.), स्नातकोत्तर (पी.जी.) और पी.जी. डिप्लोमा कोर्सेज में प्रवेश के लिए प्रोग्राम्स घोषित किए है। इच्छुक कैंडिडेट्स एमपी ऑनलाइन लिमिटेड द्वारा देवी अहिल्या यूनिवर्सिटी के लिए संचालित ऑफिशल पोर्टल पे जाके ऑनलाइन आवेदन कर सकते हैं। आवेदन की अंतिम तिथि 30 मई 2025 है। और काउन्सलिंग 10 जून से शुरू होंगी।उपलब्ध कोर्स की सूची 10+2 के बाद के सर्टिफिकेट कोर्स- 3 महीने - फ्रेंच ,जर्मन, स्पेनिश - 6 महीने- एग्रीकल्चर कम्युनिकेशन डिजिटल मीडिया, स्पोर्ट्स जर्नलिज्म, सिंधी लैंगुएज ,IOT, फिल्म एप्रिसिएशन।डिप्लोमा कार्यक्रम (एक वर्ष):डिजिटल मार्केटिंग, इंपोर्ट एक्सपोर्ट मैनेजमेंट, लॉजिस्टिक्स और सप्लाई , इंटीरियर डिज़ाइनिंग, फोटोग्राफी, स्क्रिप्ट राइटिंग, सिंधी भाषा, तथा ऑनलाइन मोड में फिटनेसयू.जी. कार्यक्रम:बी.ए. इन योग विज्ञान/पत्रकारिता एवं जनसंचार, बी.फार्मा (लेट्रल एंट्री), बी.पी.ई.एस., बी.एससी. (इलेक्ट्रॉनिक्स, कंप्यूटर साइंस, गणित/योग विज्ञान), बी.एससी. (ऑनर्स) एग्रीकल्चर/अप्लाइड स्टैटिस्टिक्स/मैथ्स/फिजिक्स, बी.वोक. (लैंडस्केप डिज़ाइन/सॉफ्टवेयर डेवलपमेंट/न्यूट्रिशन एवं डाइटेटिक्स/फैशन टेक्नोलॉजी/इंटीरियर डिज़ाइन)डिप्लोमा (दो वर्ष):डिप्लोमा इन फार्मेसीयू.जी. के बाद पाठ्यक्रम:छह माह के प्रमाण पत्र: पर्यावरणीय नैतिकता, नॉलेज पार्टिसिपेशन एंड डेवलपमेंटएक वर्ष के कार्यक्रम: पी.जी. डिप्लोमा इन क्लाइमेट एक्शन एंड सस्टेनेबिलिटी, फंक्शनल हिंदी ट्रांसलेशन, पीजीडीसीए, योग थेरेपी, बैचलर ऑफ जर्नलिज्म, लाइब्रेरी एंड इंफॉर्मेशन साइंस (BLIS)दो वर्षीय कार्यक्रम: बी.एड., एम.ए. (अर्थशास्त्र, अंग्रेज़ी साहित्य, फिल्म अध्ययन, पत्रकारिता, स्वास्थ्य संचार, संस्कृत ज्योतिष, सिंधी, खेल मनोविज्ञान, जनजातीय अध्ययन, योग), एम.कॉम., एम.एड., एम.पी.एड., एमबीए (एग्जीक्यूटिव), एम.लिब.आई.एससी., एम.वोक., एम.एससी. (बायोटेक्नोलॉजी, डाटा साइंस, गणित,एमबीए/एमसीएनॉन-तकनीकी कार्यक्रम: ₹750/- (एससी/एसटी अभ्यर्थियों हेतु ₹400/-; केवल म.प्र. निवासी)तकनीकी कार्यक्रम: ₹1000/- (एससी/एसटी अभ्यर्थियों हेतु ₹600/-; केवल म.प्र. निवासी)अंतिम वर्ष या सेमेस्टर के परिणाम की प्रतीक्षा कर रहे छात्र भी पिछले वर्ष के अंकों के आधार पर आवेदन कर सकते हैं। - कनिका सिंह।विनम्र अनुरोध🙏कृपया हमें गूगल न्यूज़ पर फॉलो करें। सबसे तेज अपडेट प्राप्त करने के लिए टेलीग्राम चैनल सब्सक्राइब करें। कृपया गूगल न्यूज़ पर फॉलो करें यहां क्लिक करें टेलीग्राम चैनल सब्सक्राइब करने के लिए यहां क्लिक करें व्हाट्सएप ग्रुप ज्वाइन करने के लिए यहां क्लिक करें X-ट्विटर पर फॉलो करने के लिए यहां क्लिक करें शिक्षा, प्रतियोगी परीक्षा और नौकरियों से संबंधित से संबंधित अन्य समाचार पढ़ने के लिए कृपया स्क्रॉल करते हुए सबसे अंत में जाएं और POPULAR Category में career पर क्लिक करें। समाचार, विज्ञापन एवं प्रतिनिधित्व पूछताछ के लिए व्हाट्सएप, टेलीग्राम ईमेल के माध्यम से संपर्क करें।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-03 22:01:00",
+            "pubDateTZ": "UTC",
+            "image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRlupPkH5sIpln90xz5zFmwcVku6F5eiK09Cctf5ui8J28-6Fz_QhME7qdDLlfQmIe7nBX-aKXFDVRbRiDaLjN84Xr5yX2I_MfdkUBF7iHnJ2vC3novmSTNThTAOhhpxky0a2OV2Gd9D8LSTmGHEt0ENi-o3PLvnyJtJTIkU36uT9PQetslogj8Gtb7fI/s72-c/1%20(1).webp",
+            "video_url": null,
+            "source_id": "bhopalsamachar",
+            "source_name": "Bhopal Samachar",
+            "source_priority": 2476680,
+            "source_url": "http://www.bhopalsamachar.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/bhopalsamachar.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "040df03d9308d8818a0caa6c91b98938",
+            "title": "Who is Ricky Castillo? All about the young golfer making waves at The CJ Cup Byron Nelson 2025",
+            "link": "https://www.sportskeeda.com/golf/news-who-ricky-castillo-all-young-golfer-making-waves-the-cj-cup-byron-nelson-2025",
+            "keywords": [
+                "golf"
+            ],
+            "creator": [
+                "Sarah Rishama Madaki"
+            ],
+            "description": "The 2025 CJ Cup Byron Nelson is underway at TPC Craig Ranch, and young Ricky Castillo is in the field. He finished his second round with an 11-under and is one of the contenders for the title.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-03 22:00:46",
+            "pubDateTZ": "UTC",
+            "image_url": "https://static.sportskeeda.com/editor/2025/05/26082962-1746309781.jpeg",
+            "video_url": null,
+            "source_id": "sportskeeda",
+            "source_name": "Sportskeeda",
+            "source_priority": 172,
+            "source_url": "http://sportskeeda.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/sportskeeda.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "sports"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "5db97d7f890fe0064f2fc5840fa1cd05",
+            "title": "Chamba’s sacred ‘langur’ faces extinction threat",
+            "link": "https://www.tribuneindia.com/news/biodiversity/chambas-sacred-langur-faces-extinction-threat",
+            "keywords": [
+                "biodiversity",
+                "primateconservation",
+                "endangeredspecies",
+                "habitatloss",
+                "forestconservation",
+                "iucnredlist",
+                "himalayangreylangur",
+                "wildlifeconservation",
+                "chambalangur",
+                "chambavalley"
+            ],
+            "creator": [
+                "Lalit Mohan"
+            ],
+            "description": "The Himalayan grey ‘langur’, also known as Chamba’s sacred ‘langur’, is losing its habitat and is at present classified as a critically endangered species, as per the International Union for Conservation of Nature (IUCN) list. The Himalayan grey ‘langur’ is endemic to the Chamba valley where its population is now estimated at around 250, raising [...]",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-03 22:00:46",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/webp/medium/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTIzZWUyNzYwLTI4NmEtMTFmMC04NDBiLTBkMWUyZGMyZWRkYi5qcGc%3D",
+            "video_url": null,
+            "source_id": "tribuneindia",
+            "source_name": "The Tribune India",
+            "source_priority": 15316,
+            "source_url": "https://www.tribuneindia.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/tribuneindia.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "08552905b87144804a3afcbd91013732",
+            "title": "Sirsa welcomes new judge as case backlog tops 47K",
+            "link": "https://www.tribuneindia.com/news/accesstojustice/sirsa-welcomes-new-judge-as-case-backlog-tops-47k",
+            "keywords": [
+                "courtefficiency",
+                "judgepuneeshjindia",
+                "sirsabarassociation",
+                "haryanalaw",
+                "accesstojustice",
+                "judicialbacklog",
+                "justicedelivery",
+                "sirsanews",
+                "sirsadistrictcourt",
+                "sirsalegalsystem"
+            ],
+            "creator": [
+                "Our Correspondent"
+            ],
+            "description": "Sirsa’s newly appointed District and Sessions Judge, Puneesh Jindia, was formally welcomed at a ceremony hosted by the District Bar Association. The event, held at the Bar Association office, drew enthusiastic participation from legal professionals and judicial officers. Bar Association spokesperson Advocate Mohan Lal said the association’s secretary, Hardeep Singh Sidhu, extended warm greetings to [...]",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-03 22:00:21",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/webp/medium/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTEwOTgzM2UwLTI4NmEtMTFmMC04NDBiLTBkMWUyZGMyZWRkYi5qcGc%3D",
+            "video_url": null,
+            "source_id": "tribuneindia",
+            "source_name": "The Tribune India",
+            "source_priority": 15316,
+            "source_url": "https://www.tribuneindia.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/tribuneindia.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "315164b81851935e94cca419cc759130",
+            "title": "Intel flagged tourist threat days before Pahalgam attack",
+            "link": "https://www.tribuneindia.com/news/j-k/intel-flagged-tourist-threat-days-before-pahalgam-attack",
+            "keywords": null,
+            "creator": [
+                "PTI"
+            ],
+            "description": "Days before the deadly terror attack in Pahalgam, intelligence agencies had flagged the potential targeting of tourists especially those staying in hotels on the outskirts of Srinagar in the foothills of the Zabarwan range, officials said on Saturday. This prompted a heightened security presence in these areas with top police brass camping in Srinagar to [...]",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-03 22:00:08",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/webp/medium/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWZmOWNmOTQwLTI4NjktMTFmMC04NDBiLTBkMWUyZGMyZWRkYi5qcGc%3D",
+            "video_url": null,
+            "source_id": "tribuneindia",
+            "source_name": "The Tribune India",
+            "source_priority": 15316,
+            "source_url": "https://www.tribuneindia.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/tribuneindia.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "9868e7bdfea04392fbfbb38c2801d8d7",
+            "title": "Jammu News: मेधावी बेटियों का सम्मान, मिला शिक्षा किट का तोहफा",
+            "link": "https://www.amarujala.com/jammu/jammu-mission-shakti-jammu-news-c-10-lko1027-604493-2025-05-04",
+            "keywords": null,
+            "creator": null,
+            "description": "मेधावी बेटियों का सम्मान, मिला शिक्षा किट का तोहफा",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-03 21:10:00",
+            "pubDateTZ": "UTC",
+            "image_url": "https://staticimg.amarujala.com/assets/images/2021/11/03/jammu_1635936228.jpeg?dpr=1.0&q=80&w=414",
+            "video_url": null,
+            "source_id": "amarujala",
+            "source_name": "Amar Ujala",
+            "source_priority": 55215,
+            "source_url": "https://www.amarujala.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/amarujala.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "f0b4764c176db44b52f7238e92f25da4",
+            "title": "Kokrajhar cultural centre delegation meets Governor Lakshman Prasad Acharya",
+            "link": "https://thehillstimes.in/assam/kokrajhar-cultural-centre-delegation-meets-governor-lakshman-prasad-acharya",
+            "keywords": [
+                "assam"
+            ],
+            "creator": [
+                "The Hills Times"
+            ],
+            "description": "HT Correspondent KOKRAJHAR, May 3: A seven-member delegation from the Bathou Traditional & Cultural Centre, Kokrajhar, met Assam Governor, Lakshman Prasad Acharya on Saturday at Raj Bhavan, Guwahati, and discussed the significance and recognition of Bathouism—the indigenous faith of the Bodo people. During the meeting, the delegation held an in-depth discussion with Governor Acharya, highlighting [...]",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-03 21:10:00",
+            "pubDateTZ": "UTC",
+            "image_url": null,
+            "video_url": null,
+            "source_id": "thehillstimes",
+            "source_name": "The Hills Times",
+            "source_priority": 514422,
+            "source_url": "https://thehillstimes.in",
+            "source_icon": "https://i.bytvi.com/domain_icons/thehillstimes.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "aa763048e62360194be941f8dc2a35a0",
+            "title": "Bareilly News: जिला सहकारी समिति के पूर्व चेयरमैन पर गैर जमानती वारंट जारी",
+            "link": "https://www.amarujala.com/uttar-pradesh/bareilly/non-bailable-warrant-issued-against-former-chairman-of-district-cooperative-society-bareilly-news-c-182-1-sbly1021-104486-2025-05-04",
+            "keywords": null,
+            "creator": null,
+            "description": "ब्लाॅक प्रमुख के 44 लाख रुपये नहीं देना पड़ गया महंगा, छह जून को कोर्ट में होगी सुनवाई",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-03 21:09:56",
+            "pubDateTZ": "UTC",
+            "image_url": "https://staticimg.amarujala.com/assets/images/2021/12/01/bareilly_1638345241.jpeg?dpr=1.0&q=80&w=414",
+            "video_url": null,
+            "source_id": "amarujala",
+            "source_name": "Amar Ujala",
+            "source_priority": 55215,
+            "source_url": "https://www.amarujala.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/amarujala.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
             "article_id": "828594aeac07545e6f0301f7d3147b05",
             "title": "Jammu News: बिजली आज से रहेगी प्रभावित",
             "link": "https://www.amarujala.com/jammu/jammu-city-shatdown-jammu-news-c-10-lko1027-604454-2025-05-04",
