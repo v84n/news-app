@@ -1,6 +1,728 @@
 {
     "articles": [
         {
+            "article_id": "8c3f7c0b8b9e8d5781a63daa1d3dfd85",
+            "title": "CATL Files Initial Prospectus for Hong Kong Listing",
+            "link": "https://www.wsj.com/business/catl-files-initial-prospectus-for-hong-kong-listing-ff9c8509?siteid=yhoof2&yptr=yahoo",
+            "keywords": null,
+            "creator": [
+                "The Wall Street Journal"
+            ],
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-06 07:07:00",
+            "pubDateTZ": "UTC",
+            "image_url": null,
+            "video_url": null,
+            "source_id": "yahoo",
+            "source_name": "Yahoo! News",
+            "source_priority": 17,
+            "source_url": "https://news.yahoo.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/yahoo.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "business"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "d654b7c5902cab6d63a299007eafbbab",
+            "title": "China’s diplomatic charm offensive",
+            "link": "https://www.moneycontrol.com/news/opinion/china-s-diplomatic-charm-offensive-13014093.html",
+            "keywords": [
+                "economy, china, markets, financial times, opinion, mcpro"
+            ],
+            "creator": [
+                "Moneycontrol"
+            ],
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-06 07:06:56",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.moneycontrol.com/static-mcnews/2024/04/China-378x213.jpg",
+            "video_url": null,
+            "source_id": "moneycontrol",
+            "source_name": "Moneycontrol",
+            "source_priority": 1064,
+            "source_url": "https://www.moneycontrol.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/moneycontrol.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top",
+                "business",
+                "world",
+                "politics"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": true
+        },
+        {
+            "article_id": "7d2b8d18f111a04d5a9a67e40628e31b",
+            "title": "Jalandhar: ट्रांसफॉर्मर विवाद के कारण ‘स्कूल ऑफ हैप्पीनेस’ परियोजना रुकी",
+            "link": "https://jantaserishta.com/local/punjab/jalandhar-school-of-happiness-project-halted-due-to-transformer-dispute-3997072",
+            "keywords": [
+                "राज्य,पंजाब"
+            ],
+            "creator": [
+                "Triveni"
+            ],
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-06 07:06:56",
+            "pubDateTZ": "UTC",
+            "image_url": "https://jantaserishta.com/h-upload/2025/05/06/4575079-45.webp",
+            "video_url": null,
+            "source_id": "jantaserishta",
+            "source_name": "Janta Se Rishta",
+            "source_priority": 81836,
+            "source_url": "https://jantaserishta.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/jantaserishta.jpg",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "3d247f27f3355a2948a71985e148068b",
+            "title": "ये मनमानी नहीं तो क्या... सतलुज-यमुना लिंक नहर विवाद मामले में SC की पंजाब सरकार को फटकार",
+            "link": "https://ndtv.in/india/supreme-court-reprimanded-punjab-government-on-sutlej-yamuna-link-canal-row-said-disobedience-of-orders-8342109",
+            "keywords": null,
+            "creator": null,
+            "description": "हरियाणा सरकार के वकील श्याम दीवान ने कहा कि बातचीत से कोई समाधान नहीं हो पा रहा है. जहां तक ​​बात नहर के निर्माण की है हरियाणा ने अपने इलाके का काम पूरा कर लिया है. पानी नहीं छोड़ा जाना एक अहम मुद्दा है.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-06 07:06:49",
+            "pubDateTZ": "UTC",
+            "image_url": "https://c.ndtvimg.com/2025-04/k5v8s3uo_supreme-court-_625x300_28_April_25.jpg?im=FeatureCrop%2Calgorithm%3Ddnn%2Cwidth%3D1200%2Cheight%3D738",
+            "video_url": null,
+            "source_id": "ndtv",
+            "source_name": "Ndtv",
+            "source_priority": 1204,
+            "source_url": "http://www.ndtv.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/ndtv.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "6a7da09ebecd93a84d055836b904352e",
+            "title": "Number of digitised archival pages available on NAI portal crosses 10-cr mark",
+            "link": "https://www.deccanherald.com/india/number-of-digitised-archival-pages-available-on-nai-portal-crosses-10-cr-mark-3526440",
+            "keywords": null,
+            "creator": [
+                "PTI"
+            ],
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-06 07:06:47",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.deccanherald.com/deccanherald%2F2025-04-23%2Fuplrc3tp%2Ffile7wd6ixipxx216pyvw7cm.jpg?ar=40%3A21&auto=format%2Ccompress&mode=crop&ogImage=true&rect=0%2C6%2C1200%2C630&w=1200",
+            "video_url": null,
+            "source_id": "deccanherald",
+            "source_name": "Deccan Herald",
+            "source_priority": 10080,
+            "source_url": "https://www.deccanherald.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/deccanherald.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": true
+        },
+        {
+            "article_id": "97e5b9f5debcfe60ffb3b5dc97af1447",
+            "title": "12 महीने बाद ग्रहों के राजा सूर्य करेंगे अपनी स्वराशि सिंह में प्रवेश, इन राशियों का शुरू होगा गोल्डन टाइम, पद- प्रतिष्ठा मिलने के योग",
+            "link": "https://www.jansatta.com/religion/sun-transit-in-leo-these-zodiac-sign-luck-can-be-more-shine-astrology/3951403/",
+            "keywords": null,
+            "creator": [
+                "Jansatta"
+            ],
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-06 07:06:40",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.jansatta.com/wp-content/uploads/2025/05/surya-planet-gochar-in-leo-zodiac.jpg",
+            "video_url": null,
+            "source_id": "jansatta",
+            "source_name": "Jansatta",
+            "source_priority": 385929,
+            "source_url": "https://www.jansatta.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/jansatta.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "277b618f731e76dc5158b9850dd97580",
+            "title": "MP Board 10th 12th Results 2025 Declared: Check your Marks Now",
+            "link": "https://newsblare.com/education/mp-board-10th-12th-results-2025-declared-check-your-marks-now/",
+            "keywords": [
+                "education",
+                "latest news today",
+                "breaking news",
+                "trending news"
+            ],
+            "creator": [
+                "Shruti Mishra"
+            ],
+            "description": "The Board of Secondary Education, Madhya Pradesh, has declared the MP Board Result 2025. The MP Board 10th 12th Results 2025 will checked by applicants at the official website of MPBSE. Candidates can check it by the direct link given on official portal, by use their roll number and date of birth. How to check [...]The post MP Board 10th 12th Results 2025 Declared: Check your Marks Now appeared first on Newsblare.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-06 07:06:38",
+            "pubDateTZ": "UTC",
+            "image_url": "https://newsblare.com/wp-content/uploads/2025/05/j-39-1280x700.jpg.webp",
+            "video_url": null,
+            "source_id": "newsblare",
+            "source_name": "News Blare",
+            "source_priority": 1091865,
+            "source_url": "https://newsblare.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/newsblare.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "8a6393b5ceec05d55886d779f581adb0",
+            "title": "Sudarsan Pattnaik Seeks PM Modi’s Intervention Over ‘Jagannath Dham’ Controversy",
+            "link": "https://pragativadi.com/sudarsan-pattnaik-seeks-pm-modis-intervention-over-jagannath-dham-controversy/",
+            "keywords": [
+                "jagannath dham",
+                "religious controversy",
+                "pm narendra modi",
+                "digha temple",
+                "odisha",
+                "west bengal government",
+                "trending now",
+                "sudarsan pattnaik",
+                "puri jagannath temple",
+                "temple naming issue"
+            ],
+            "creator": [
+                "Itishree Sethy"
+            ],
+            "description": "Renowned sand artist and former member of the Shree Jagannath Temple Managing Committee, Sudarsan Pattnaik, has voiced concerns over the West Bengal government’s portrayal of the newly inaugurated Jagannath temple in Digha as ‘Jagannath Dham.’ In a letter to Prime Minister Narendra Modi, Pattnaik requested immediate intervention, emphasising the significance of religious traditions. According to [...]The post Sudarsan Pattnaik Seeks PM Modi’s Intervention Over ‘Jagannath Dham’ Controversy appeared first on Pragativadi I Latest Odisha News in English I Breaking News .",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-06 07:06:34",
+            "pubDateTZ": "UTC",
+            "image_url": "https://pragativadi.com/wp-content/uploads/2025/05/Sudarsan-Pattnaik-640x375.png",
+            "video_url": null,
+            "source_id": "pragativadi",
+            "source_name": "Pragativadi",
+            "source_priority": 440576,
+            "source_url": "https://pragativadi.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/pragativadi.jpg",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "b04f47bcf4ae49ec7b8246c784f01d2a",
+            "title": "खतरों से खेलने के बराबर है यह वीडियो, रातों-रात आ गए मिलियन में व्यूज, Viral",
+            "link": "https://hindi.news18.com/news/ajab-gajab/viral-viral-video-bihar-some-youth-playing-with-snake-made-dance-after-getting-intoxicated-local18-ws-kl-9223250.html",
+            "keywords": [
+                "अजब-गजब"
+            ],
+            "creator": [
+                "News18 Hindi"
+            ],
+            "description": "छपरा में कुछ युवकों ने सांप के साथ वीडियो बनाकर इंस्टाग्राम पर डाला, जो 4 मिलियन से अधिक बार देखा गया है. वीडियो में सांप को नशा कराकर नचाया गया और ये वीडियो तेजी से वायरल हो रहा है.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-06 07:06:28",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.news18.com/ibnkhabar/uploads/2025/05/HYP_5153854_cropped_05052025_203259_img_20250505_202310_waterm_2-3x2.jpg",
+            "video_url": null,
+            "source_id": "hindinews18",
+            "source_name": "News 18 Hindi",
+            "source_priority": 4077,
+            "source_url": "https://hindi.news18.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/hindinews18.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "other"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "cd1c0dc6d252c64cbce3434a1faaff70",
+            "title": "Gooty Fort: The 1000-Year-Old Wonder with 15 Forts and 108 Ponds Hidden in Andhra’s Hills",
+            "link": "https://www.moneycontrol.com/travel/gooty-fort-the-1000-year-old-wonder-with-15-forts-and-108-ponds-hidden-in-andhra-s-hills-article-13014217.html",
+            "keywords": [
+                "gooty fort, 1000-year-old fort, 15 forts in gooty, gooty andhra pradesh, historical fort in india, 108 ponds gooty, ancient fortifications, gooty travel guide, fort architecture, anantapur tourist destinations, hidden gems of india, historical marvels in andhra pradesh, offbeat travel in india, sustainable architecture in ancient forts, gooty fort hiking"
+            ],
+            "creator": [
+                "Moneycontrol"
+            ],
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-06 07:06:25",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.moneycontrol.com/static-mcnews/2025/05/20250506070328_2.jpg",
+            "video_url": null,
+            "source_id": "moneycontrol",
+            "source_name": "Moneycontrol",
+            "source_priority": 1064,
+            "source_url": "https://www.moneycontrol.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/moneycontrol.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top",
+                "business",
+                "world",
+                "politics"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "80d296c006359892165046cdf32d87a3",
+            "title": "दिल्ली के तैमूर नगर में बुलडोजर एक्शन, 100 से अधिक घर हुए ध्वस्त",
+            "link": "https://www.prabhatkhabar.com/state/delhi/delhi-news-bulldozer-action-on-taimoor-nagar-demolish-100-illegal-house",
+            "keywords": [
+                "national news",
+                "state news",
+                "national",
+                "दिल्ली",
+                "delhi news"
+            ],
+            "creator": [
+                "Neha Kumari"
+            ],
+            "description": "Delhi News: दिल्ली के तैमूर नगर में प्रशासन द्वारा बुलडोजर एक्शन करके 100 से अधिक जमीन अतिक्रमित कर बनाए गए घरों को ध्वस्त किया गया. कार्रवाई से नाराज स्थानीय निवासियों ने हाईकोर्ट में मामला ले जाने की बात कही है.The post दिल्ली के तैमूर नगर में बुलडोजर एक्शन, 100 से अधिक घर हुए ध्वस्त appeared first on Prabhat Khabar.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-06 07:06:21",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.prabhatkhabar.com/wp-content/uploads/2025/05/Untitled-design-73.jpg",
+            "video_url": null,
+            "source_id": "prabhatkhabar",
+            "source_name": "Prabhat Khabar",
+            "source_priority": 343253,
+            "source_url": "https://www.prabhatkhabar.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/prabhatkhabar.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "2468e237938c496441a9ca16d62a6698",
+            "title": "Prime suspect in Agra jeweller's murder killed in police encounter",
+            "link": "https://www.deccanherald.com/india/uttar-pradesh/prime-suspect-in-agra-jewellers-murder-killed-in-police-encounter-3526417",
+            "keywords": null,
+            "creator": [
+                "PTI"
+            ],
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-06 07:06:12",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.deccanherald.com/deccanherald%2F2025-05-05%2Fqwq9kkjl%2Fpolice_3_istock.jpg?ar=40%3A21&auto=format%2Ccompress&mode=crop&ogImage=true&rect=0%2C0%2C700%2C368&w=1200",
+            "video_url": null,
+            "source_id": "deccanherald",
+            "source_name": "Deccan Herald",
+            "source_priority": 10080,
+            "source_url": "https://www.deccanherald.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/deccanherald.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": true
+        },
+        {
+            "article_id": "1dee42cbcc12731263c5d692d9fb4152",
+            "title": "Jamshedpur: हाता में पेट्रोल पंप पर बंदूक की नोक पर लूट, 25 हजार रुपये ले उड़े बदमाश",
+            "link": "https://jantaserishta.com/local/jharkhand/jamshedpur-robbery-at-petrol-pump-in-hata-at-gunpoint-miscreants-flee-with-rs-25000-jamshedpur-25--3997071",
+            "keywords": [
+                "राज्य,झारखंड"
+            ],
+            "creator": [
+                "Admindelhi1"
+            ],
+            "description": "\"बंदूक की नोक पर 25 हजार रुपये छीने\"",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-06 07:06:11",
+            "pubDateTZ": "UTC",
+            "image_url": "https://jantaserishta.com/h-upload/2025/05/06/4575075-loot-2.webp",
+            "video_url": null,
+            "source_id": "jantaserishta",
+            "source_name": "Janta Se Rishta",
+            "source_priority": 81836,
+            "source_url": "https://jantaserishta.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/jantaserishta.jpg",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "c2b5a096ff6e66bf121be60c1819de03",
+            "title": "Revenge of the Savage Planet: Release date, platforms, and system requirements",
+            "link": "https://www.sportskeeda.com/esports/revenge-savage-planet-release-date-platforms-system-requirements",
+            "keywords": [
+                "esports & gaming"
+            ],
+            "creator": [
+                "Sarthak Khanna"
+            ],
+            "description": "Revenge of the Savage Planet is an upcoming sci-fi adventure title that is set to release globally on May 8, 2025.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-06 07:06:07",
+            "pubDateTZ": "UTC",
+            "image_url": "https://staticc.sportskeeda.com/editor/2025/05/af854-17465167305701-1920.jpg",
+            "video_url": null,
+            "source_id": "sportskeeda",
+            "source_name": "Sportskeeda",
+            "source_priority": 172,
+            "source_url": "http://sportskeeda.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/sportskeeda.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "sports"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "06c22ab5e1a3b48bc5cb8098813aaf9e",
+            "title": "Diljit Dosanjh Dines With Shakira, Nicole Scherzinger After Met Gala Debut",
+            "link": "https://www.ndtv.com/entertainment/after-making-met-gala-debut-diljit-dosanjh-dines-with-shakira-and-nicole-scherzinger-8341090",
+            "keywords": [
+                "hollywood"
+            ],
+            "creator": null,
+            "description": "Diljit Dosanjh walked the Met Gala blue carpet in a royal Punjabi outfit.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-06 07:06:06",
+            "pubDateTZ": "UTC",
+            "image_url": "https://c.ndtvimg.com/2025-05/cl7p8fuc_gg_625x300_06_May_25.jpeg?im=FitAndFill%2Calgorithm%3Ddnn%2Cwidth%3D773%2Cheight%3D435",
+            "video_url": null,
+            "source_id": "ndtv",
+            "source_name": "Ndtv",
+            "source_priority": 1204,
+            "source_url": "http://www.ndtv.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/ndtv.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "a9770a13ee3d232242d1bc67697dbc93",
+            "title": "सुप्रीम कोर्ट ने Manipur टेप मामले में नए सिरे से जांच के आदेश दिए",
+            "link": "https://jantaserishta.com/local/manipur/supreme-court-orders-fresh-probe-into-manipur-tapes-case-3997070",
+            "keywords": [
+                "राज्य,मणिपुर"
+            ],
+            "creator": [
+                "SANTOSI TANDI"
+            ],
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-06 07:06:06",
+            "pubDateTZ": "UTC",
+            "image_url": "https://jantaserishta.com/h-upload/2025/05/06/4575074-11.avif",
+            "video_url": null,
+            "source_id": "jantaserishta",
+            "source_name": "Janta Se Rishta",
+            "source_priority": 81836,
+            "source_url": "https://jantaserishta.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/jantaserishta.jpg",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "c246d2940c95461550b24616c50b2877",
+            "title": "'मैं घमंडी औरत...', राज कपूर संग डेब्यू, सुपरस्टार की बीवी, फिर भी नहीं दिमाग!",
+            "link": "https://hindi.news18.com/news/entertainment/bollywood-i-m-not-arrogant-woman-when-dimple-kapadia-admits-she-is-not-smart-after-all-debuted-with-raj-kapoor-married-a-rajesh-khanna-ws-kl-9223269.html",
+            "keywords": [
+                "बॉलीवुड"
+            ],
+            "creator": [
+                "News18 Hindi"
+            ],
+            "description": "डिंपल कपाड़िया ने बॉबी से डेब्यू किया और राजेश खन्ना से शादी की. उन्होंने हॉलीवुड डायरेक्टर क्रिस्टोफर नोलन संग भी काम किया. सोशल मीडिया से दूर रहना पसंद करती हैं और खुद को स्टार नहीं मानतीं.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-06 07:06:06",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.news18.com/ibnkhabar/uploads/2025/05/Dimple-Kapadia-Rishi-Kapoor-2025-05-11dbd44a4b2fa56d7735af699b43dab4-3x2.jpg",
+            "video_url": null,
+            "source_id": "hindinews18",
+            "source_name": "News 18 Hindi",
+            "source_priority": 4077,
+            "source_url": "https://hindi.news18.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/hindinews18.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "entertainment"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "f3a7b99965d8b63cbad2f4057654cea6",
+            "title": "Toma Terra: Hyderabad's Tomato Festival Inspired by ZNMD’s Iconic Scene",
+            "link": "https://www.thehansindia.com/life-style/toma-terra-hyderabads-tomato-festival-inspired-by-znmds-iconic-scene-968705",
+            "keywords": [
+                "life style"
+            ],
+            "creator": [
+                "Askari Jaffer"
+            ],
+            "description": "Hyderabad brings Spain’s La Tomatina spirit home with Toma Terra—fun, music, and eco-friendly tomato madness on May 11!",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-06 07:06:06",
+            "pubDateTZ": "UTC",
+            "image_url": "https://assets.thehansindia.com/h-upload/2025/05/06/1548482-tomaterra.webp",
+            "video_url": null,
+            "source_id": "thehansindia",
+            "source_name": "The Hans India",
+            "source_priority": 41360,
+            "source_url": "http://www.thehansindia.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/thehansindia.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "entertainment"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "64d48762741d73877d5d09324fb78c33",
+            "title": "After Making Met Gala Debut, Diljit Dosanjh Dines With Shakira And Nicole Scherzinger - NDTV",
+            "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQeThaQmFsaFNaY21xZkNjS2x0N1I2dFlNRGo4bnU1Ni1vRVNSSENGVVdkdUtIbklDRWhaSmR5X3FXS2Z5WTNLM1pzR2Y3MksySjlPNk5zMWhBLV92YklvTVVlUTJ3a0dMSWRyQ0otTnFYV2ZTRnVKN2t1dHNNUmUzZFFQMlYzb3dQY3FRSlFsOWZNOE05TkxZZlJNajBDM1oxenlUZ2p5ekFrT3BEM1p0cTZqNlV0a1pSbnQyMk5La0V0b19TTXc?oc=5",
+            "keywords": null,
+            "creator": null,
+            "description": "After Making Met Gala Debut, Diljit Dosanjh Dines With Shakira And Nicole Scherzinger NDTVDiljit Dosanjh turns heads at Met Gala 2025, shares viral moment with Shakira CNBC TV18Diljit Dosanjh wanted to wear Maharaj of Patiala's $2.5 billion necklace for Met Gala debut, but was denied; here's why Hindustan TimesShehnaaz Gill praises Diljit Dosanjh's regal Met Gala 2025 appearance; says, 'Feeling proud' Times of IndiaMET Gala 2025:Diljit Dosanjh Pays Tribute To Maharaja Bhupinder Singh, Puts Punjab's Map On His Cape | Filmfare.com Filmfare",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-06 07:06:06",
+            "pubDateTZ": "UTC",
+            "image_url": null,
+            "video_url": null,
+            "source_id": "google",
+            "source_name": "Google News",
+            "source_priority": 14,
+            "source_url": "https://news.google.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/google.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "entertainment"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "a547448b62a2f103c6749757824c6516",
+            "title": "Tencent Cloud Teams Up with C.live to Deliver Seamless, Scalable, and High-Quality Streaming Experiences",
+            "link": "https://www.prnewswire.com/apac/news-releases/tencent-cloud-teams-up-with-clive-to-deliver-seamless-scalable-and-high-quality-streaming-experiences-302446943.html",
+            "keywords": null,
+            "creator": null,
+            "description": "The collaboration leverages Tencent Cloud's advanced streaming and media processing solutions to enhance C.live's reliability, scalability, and audience engagement HONG KONG, May 6, 2025 /PRNewswire/ -- Tencent Cloud, the cloud business of global leading technology company Tencent, today...",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-06 07:06:00",
+            "pubDateTZ": "UTC",
+            "image_url": "https://mma.prnewswire.com/media/2680252/KV.jpg?p=original",
+            "video_url": null,
+            "source_id": "prnewswire_apac",
+            "source_name": "Pr Newswire Apac",
+            "source_priority": 1822,
+            "source_url": "https://www.prnewswire.com/apac",
+            "source_icon": "https://i.bytvi.com/domain_icons/prnewswire_apac.png",
+            "language": "english",
+            "country": [
+                "afghanistan",
+                "india",
+                "australia",
+                "singapore",
+                "fiji",
+                "maldives",
+                "japan",
+                "malaysia",
+                "china",
+                "south korea",
+                "thailand",
+                "pakistan",
+                "mongolia",
+                "brunei",
+                "new zealand",
+                "indonesia",
+                "bhutan",
+                "philippines",
+                "hong kong",
+                "bangladesh",
+                "nepal",
+                "sri lanka",
+                "cambodia"
+            ],
+            "category": [
+                "business"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": true
+        },
+        {
             "article_id": "51b5a1e00ef5d6a3c0b022487024d237",
             "title": "Australian mushroom murder suspect rejected help preparing meal: Witness",
             "link": "https://www.channelnewsasia.com/world/australia-mushroom-murder-trial-erin-patterson-ian-wilkinson-5111281",
@@ -23036,252 +23758,6 @@
             "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
             "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
             "duplicate": false
-        },
-        {
-            "article_id": "dd616751318a44867cedd52b42b97176",
-            "title": "Haryana Shocker: Woman’s Body Found In Suitcase On Gurugram-Faridabad Road",
-            "link": "https://zeenews.india.com/india/haryana-shocker-woman-s-body-found-in-suitcase-on-gurugram-faridabad-road-2895705.html",
-            "keywords": null,
-            "creator": [
-                "Zee News"
-            ],
-            "description": "The body of a woman was found stuffed inside a suitcase on the Gurugram-Faridabad Road, an official said on Sunday. The Spokesperson of the Gurugram Police said that efforts are underway to identify the deceased, adding that it seems that the body has been brought from some other place and dumped here. He added that the body was stuffed in a black suitcase and dumped on the roadside on the Gurugram-Faridabad Road under the Sushant Lok Police Station area.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-04 18:15:00",
-            "pubDateTZ": "UTC",
-            "image_url": "https://english.cdn.zeenews.com/sites/default/files/styles/zm_700x400/public/2025/05/04/1741193-mixcollage-04-may-2025-11-43-pm-2473.jpg?im=Resize%3D%28400%29",
-            "video_url": null,
-            "source_id": "zeenews",
-            "source_name": "Zee News",
-            "source_priority": 5319,
-            "source_url": "http://zeenews.india.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/zeenews.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "124e810b5c2edfa49377e9adac3789cf",
-            "title": "On SC’s Waqf hearing eve, DMK says 95% stakeholders before JPC was against amendments - The Hindu",
-            "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPd0VWejdFMHRmLUFPdVVqUmRneUpWdklZdEloTHZkTDJDQ2ludDE4VWMyN2JJRFJTdTZaZlVpOXRoclhMVnRqaWE2WWt6ZWVGb2UtVDJjaDZsVC1QVXlldDJoMEF5RWx4UGZvVmNrTjF1UHM5UE5abnVKZmdHZ20zemVjS2lsRlBUQWVPVTBwSFBrOUhXS29hWXk5X3F6dWtJQVhDT3NXalhuYm1uVXRMS2M2TUpyMllGMDQtWm94Y01ya19PeGw4OWVsVEQ0aEE2RGt4eWxuSS3SAd8BQVVfeXFMTmZfNWE1YlJvMEhmLW9hanJoX1VNUHJZUWhVOEFObFBhdWVRSy1kZWlYem5mVGN5d3hjZWdESGowOVR5b2tSN3owTTZ3czhqYXVJODZ2RTlLVHBqVW9GUDBYbjZnbG9IU1FPdFFxa3doU2dpeHNYUEkxaFFMTmVFdkhfaHJfVnJ0VkZVc1ZQa1lkcktmYWI2amsxR3NYeWI1RE5qRHZBSm5fNU4wMlh0dUNJdlVNbF9lVUlpNUw5cFdBaFNCZjhKalpyS2t3SzhNT1BXVnBBaTV0SHpYZHI2cw?oc=5",
-            "keywords": null,
-            "creator": null,
-            "description": "On SC’s Waqf hearing eve, DMK says 95% stakeholders before JPC was against amendments The HinduSupreme Court to decide today if interim order needed on waqf pleas Times of IndiaSC to hear pleas challenging Waqf Act today. Will the top court issue an interim order? MintDMK objects to bid to distinguish Waqf, Hindu endowments Hindustan TimesWaqf Registration Requirement Not Harmless As Claimed By Centre; Effectively Derecognises Waqfs-by-User,... Live Law",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-04 18:15:00",
-            "pubDateTZ": "UTC",
-            "image_url": null,
-            "video_url": null,
-            "source_id": "google",
-            "source_name": "Google News",
-            "source_priority": 14,
-            "source_url": "https://news.google.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/google.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "2de42b4e6c3e53640b40c0fdecd4c8d9",
-            "title": "Odisha: 78,00,000 रुपये की ऑनलाइन ट्रेडिंग धोखाधड़ी के आरोप में छह गिरफ्तार",
-            "link": "https://jantaserishta.com/local/odisha/odisha-six-arrested-for-online-trading-fraud-of-rs-7800000-3994337",
-            "keywords": [
-                "भारत,राज्य,ओडिशा"
-            ],
-            "creator": [
-                "Gulabi Jagat"
-            ],
-            "description": null,
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-04 18:14:52",
-            "pubDateTZ": "UTC",
-            "image_url": "https://jantaserishta.com/h-upload/2025/05/04/4571734-online-trading-fraud.webp",
-            "video_url": null,
-            "source_id": "jantaserishta",
-            "source_name": "Janta Se Rishta",
-            "source_priority": 81836,
-            "source_url": "https://jantaserishta.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/jantaserishta.jpg",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "a78aeb204b68537caf63594af14b0530",
-            "title": "HMS-backed Rajah Caruth shares his review on Marvel’s latest movie",
-            "link": "https://www.sportskeeda.com/nascar/news-hms-backed-rajah-caruth-shares-review-marvel-s-latest-movie",
-            "keywords": [
-                "nascar"
-            ],
-            "creator": [
-                "Mayank Shukla"
-            ],
-            "description": "Rajah Caruth, the Hendrick Motorsports driver in the Xfinity Series, shared his review of the new Marvel film, Thunderbolts*.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-04 18:14:44",
-            "pubDateTZ": "UTC",
-            "image_url": "https://static.sportskeeda.com/editor/2025/05/25417894-1746383330.jpeg",
-            "video_url": null,
-            "source_id": "sportskeeda",
-            "source_name": "Sportskeeda",
-            "source_priority": 172,
-            "source_url": "http://sportskeeda.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/sportskeeda.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "sports"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "8d5c085f932d1ab72d47542f9ea5525b",
-            "title": "'बिहार में अब वक्त बदलाव का है', जहानाबाद में प्रशांत किशोर ने रखा जन सुराज का पूरा 'प्लान'!",
-            "link": "https://navbharattimes.indiatimes.com/state/bihar/jahanabad/prashant-kishors-jan-suraaj-party-focuses-on-education-and-employment-issues-in-bihar-chunav/articleshow/120878404.cms",
-            "keywords": null,
-            "creator": null,
-            "description": "जहानाबाद में जन सुराज के सूत्रधार प्रशांत किशोर ने बिहार की वर्तमान स्थिति पर चिंता व्यक्त की। उन्होंने सभी राजनीतिक दलों को राज्य की दुर्दशा के लिए दोषी ठहराया। किशोर ने नया बिहार बनाने के लिए जन सुराज लाने का आह्वान किया। उन्होंने शिक्षा, रोजगार और सुरक्षा जैसे मुद्दों पर सरकार की नीतियों की आलोचना की।",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-04 18:14:35",
-            "pubDateTZ": "UTC",
-            "image_url": "https://navbharattimes.indiatimes.com/thumb/120878763/prashant-kishor-jan-suraaj-120878763.jpg?height=900&imgsize-41378=&resizemode=75&width=1600",
-            "video_url": null,
-            "source_id": "navbharattimes",
-            "source_name": "Nbt Navbharattimes",
-            "source_priority": 244,
-            "source_url": "https://navbharattimes.indiatimes.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/navbharattimes.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "ca16694731e8c1cb42579bf5741a83be",
-            "title": "Brazil police foil Lady Gaga gig bomb plot",
-            "link": "https://www.channelnewsasia.com/world/brazil-police-foil-lady-gaga-gig-bomb-plot-5108221",
-            "keywords": [
-                "world"
-            ],
-            "creator": null,
-            "description": null,
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-04 18:14:34",
-            "pubDateTZ": "UTC",
-            "image_url": "https://dam.mediacorp.sg/image/upload/s--SgXM9c_S--/fl_relative,g_south_east,l_one-cms:core:watermark:ap_data-1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/brazil_lady_gaga_08508.jpg?itok=AcYQp6a-",
-            "video_url": null,
-            "source_id": "channelnewsasia",
-            "source_name": "Channel Newsasia",
-            "source_priority": 4142,
-            "source_url": "https://www.channelnewsasia.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/channelnewsasia.jpg",
-            "language": "english",
-            "country": [
-                "georgia",
-                "yemen",
-                "afghanistan",
-                "cyprus",
-                "india",
-                "singapore",
-                "saudi arabia",
-                "maldives",
-                "japan",
-                "united arab emirates",
-                "malaysia",
-                "china",
-                "south korea",
-                "north korea",
-                "taiwan",
-                "thailand",
-                "pakistan",
-                "mongolia",
-                "brunei",
-                "lebanon",
-                "indonesia",
-                "kyrgyzstan",
-                "syria",
-                "israel",
-                "bhutan",
-                "iran",
-                "turkey",
-                "armenia",
-                "qatar",
-                "philippines",
-                "hong kong",
-                "kazakhstan",
-                "iraq",
-                "bangladesh",
-                "laos",
-                "vietnam",
-                "timor-leste",
-                "kuwait",
-                "myanmar",
-                "azerbaijan",
-                "jordan",
-                "nepal",
-                "sri lanka",
-                "uzbekistan",
-                "turkmenistan",
-                "macau",
-                "bahrain",
-                "cambodia",
-                "tajikistan"
-            ],
-            "category": [
-                "world"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": true
         }
     ]
 }
