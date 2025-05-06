@@ -1,6 +1,638 @@
 {
     "articles": [
         {
+            "article_id": "599b962e23ae2cca8dea0d6fcf9c35eb",
+            "title": "Dehradun News: छह मेडिकल स्टोर में मिली अनियमितता, बंद कराया",
+            "link": "https://www.amarujala.com/dehradun/irregularities-found-in-six-medical-stores-closed-vikas-nagar-news-c-5-1-drn1013-682539-2025-05-06",
+            "keywords": null,
+            "creator": null,
+            "description": "औषधि नियंत्रण विभाग ने सेलाकुई और सहसपुर में निजी मेडिकल स्टोर में छापामारी की। इस दौरान अनियमितता मिलने पर छह मेडिकल स्टोर को बंद करवा दिया गया।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-05 20:13:55",
+            "pubDateTZ": "UTC",
+            "image_url": "https://staticimg.amarujala.com/assets/images/2021/10/13/dehradun_1634126026.jpeg?dpr=1.0&q=80&w=414",
+            "video_url": null,
+            "source_id": "amarujala",
+            "source_name": "Amar Ujala",
+            "source_priority": 55215,
+            "source_url": "https://www.amarujala.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/amarujala.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "13d7a8e30a4dc93da7b231b808723ba2",
+            "title": "India carries out test of advanced underwater naval mine",
+            "link": "https://www.thehindu.com/news/national/india-carries-out-test-of-advanced-underwater-naval-mine/article69542612.ece",
+            "keywords": [
+                "india"
+            ],
+            "creator": null,
+            "description": "The MIGM is designed to enhance the Indian Navy's capabilities against modern stealth ships and submarines",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-05 20:13:52",
+            "pubDateTZ": "UTC",
+            "image_url": "https://th-i.thgim.com/public/news/national/90ovjr/article69542624.ece/alternates/LANDSCAPE_1200/DRDO.jpg",
+            "video_url": null,
+            "source_id": "thehindu",
+            "source_name": "The Hindu",
+            "source_priority": 2972,
+            "source_url": "https://www.thehindu.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/thehindu.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": true
+        },
+        {
+            "article_id": "70abaf262809f2487b1e6c41a8360aa4",
+            "title": "Sambhal News: विधायक के बेटे को एसआईटी ने नोटिस तामील कराया, पूछताछ आज",
+            "link": "https://www.amarujala.com/uttar-pradesh/sambhal/sit-served-notice-to-mlas-son-interrogation-today-sambhal-news-c-275-1-smbd1030-122223-2025-05-06",
+            "keywords": null,
+            "creator": null,
+            "description": "24 नवंबर को हुए बवाल में भीड़ को उकसाने के मामले में आरोपी बनाए गए विधायक इकबाल महमूद के बेटे सुहेल इकबाल को एसआईटी ने सोमवार को धारा 35 के तहत नोटिस तामील कराया है।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-05 20:13:50",
+            "pubDateTZ": "UTC",
+            "image_url": "https://staticimg.amarujala.com/assets/images/2021/12/02/sambhal_1638431705.jpeg?dpr=1.0&q=80&w=414",
+            "video_url": null,
+            "source_id": "amarujala",
+            "source_name": "Amar Ujala",
+            "source_priority": 55215,
+            "source_url": "https://www.amarujala.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/amarujala.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "29979115bd058589bf269cc307ac9e8a",
+            "title": "Sambhal News: अब भी गुमनामी में गुम चार महिलाएं, अलग-अलग क्षेत्रों में मिले थे शव",
+            "link": "https://www.amarujala.com/uttar-pradesh/sambhal/four-women-are-still-missing-their-bodies-were-found-in-different-areas-sambhal-news-c-275-1-smbd1030-122198-2025-05-06",
+            "keywords": null,
+            "creator": null,
+            "description": "जिले में चार महिलाओं की मौत राज बन गई। न पुलिस इन महिलाओं के शव की पहचान कर सकी और न कोई इन महिलाओं को खोजता हुआ पहुंचा।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-05 20:13:37",
+            "pubDateTZ": "UTC",
+            "image_url": "https://staticimg.amarujala.com/assets/images/2021/12/02/sambhal_1638431705.jpeg?dpr=1.0&q=80&w=414",
+            "video_url": null,
+            "source_id": "amarujala",
+            "source_name": "Amar Ujala",
+            "source_priority": 55215,
+            "source_url": "https://www.amarujala.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/amarujala.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "a3bc1c5ac2368197e333e7e3243ef08a",
+            "title": "Dehradun News: किसानों को फसल बीमा योजनाओं के बारे में दी जानकारी",
+            "link": "https://www.amarujala.com/dehradun/farmers-were-given-information-about-crop-insurance-schemes-vikas-nagar-news-c-5-1-drn1013-682538-2025-05-06",
+            "keywords": null,
+            "creator": null,
+            "description": "उद्यान विभाग कार्यालय साहिया में सोमवार को एक दिवसीय खरीफ बीमा पाठशाला आयोजित की गई। इसमें किसानों को नकदी फसलों की बुआई, फसलों में लगने वाली बीमारियां और फसल बीमा योजनाओं के बारे में जानकारी दी गई।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-05 20:13:32",
+            "pubDateTZ": "UTC",
+            "image_url": "https://staticimg.amarujala.com/assets/images/2021/10/13/dehradun_1634126026.jpeg?dpr=1.0&q=80&w=414",
+            "video_url": null,
+            "source_id": "amarujala",
+            "source_name": "Amar Ujala",
+            "source_priority": 55215,
+            "source_url": "https://www.amarujala.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/amarujala.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "bba4a4f8966d01348f9560e1fe8a242f",
+            "title": "Chandigarh News: नैनेश जोशी बने रामलीला कमेटी के निर्देशक",
+            "link": "https://www.amarujala.com/chandigarh/nainesh-joshi-became-the-director-of-ramlila-committee-chandigarh-news-c-16-pkl1091-701669-2025-05-06",
+            "keywords": null,
+            "creator": null,
+            "description": "नैनेश जोशी बने रामलीला कमेटी के निर्देशक",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-05 20:13:27",
+            "pubDateTZ": "UTC",
+            "image_url": "https://staticimg.amarujala.com/assets/images/2021/11/01/chandigarh_1635757748.jpeg?dpr=1.0&q=80&w=414",
+            "video_url": null,
+            "source_id": "amarujala",
+            "source_name": "Amar Ujala",
+            "source_priority": 55215,
+            "source_url": "https://www.amarujala.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/amarujala.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "11eb595e804e4ae923900bd818795803",
+            "title": "Sambhal News: छह माह में 99 कनेक्शन दिए पर टोंटी लगाना भूले",
+            "link": "https://www.amarujala.com/uttar-pradesh/sambhal/99-connections-were-given-in-six-months-but-they-forgot-to-install-the-tap-sambhal-news-c-275-1-smbd1033-122195-2025-05-06",
+            "keywords": null,
+            "creator": null,
+            "description": "आज बचाओगे जल, काम आएगा कल जैसे नारे जल संरक्षण का दावा तो करते हैं, लेकिन जिम्मेदार ही इसे लेकर गंभीर नहीं हैं।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-05 20:13:18",
+            "pubDateTZ": "UTC",
+            "image_url": "https://staticimg.amarujala.com/assets/images/2021/12/02/sambhal_1638431705.jpeg?dpr=1.0&q=80&w=414",
+            "video_url": null,
+            "source_id": "amarujala",
+            "source_name": "Amar Ujala",
+            "source_priority": 55215,
+            "source_url": "https://www.amarujala.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/amarujala.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "83d22d17141d65f9338f2cdb2fb332f6",
+            "title": "Elderly couple falls on cratered road, injured",
+            "link": "https://timesofindia.indiatimes.com/city/nagpur/elderly-couple-falls-on-cratered-road-injured/articleshow/120910115.cms",
+            "keywords": null,
+            "creator": [
+                "Proshun Chakraborty"
+            ],
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-05 20:13:15",
+            "pubDateTZ": "UTC",
+            "image_url": "https://static.toiimg.com/thumb/msid-117593249,imgsize-101333,width-400,height-225,resizemode-72/Representative-Image.jpg",
+            "video_url": null,
+            "source_id": "toi",
+            "source_name": "The Times Of India",
+            "source_priority": 239,
+            "source_url": "https://timesofindia.indiatimes.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/toi.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "0d105fb2a6527ab114d6894f3303b683",
+            "title": "Maha HSC results dip 1.5%, Nagpur division at 8th spot",
+            "link": "https://timesofindia.indiatimes.com/city/nagpur/maha-hsc-results-dip-1-5-nagpur-division-at-8th-spot/articleshow/120910114.cms",
+            "keywords": null,
+            "creator": [
+                "Vaibhav Ganjapure"
+            ],
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-05 20:13:15",
+            "pubDateTZ": "UTC",
+            "image_url": "https://static.toiimg.com/thumb/msid-117593257,imgsize-100867,width-400,height-225,resizemode-72/Representative-Image.jpg",
+            "video_url": null,
+            "source_id": "toi",
+            "source_name": "The Times Of India",
+            "source_priority": 239,
+            "source_url": "https://timesofindia.indiatimes.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/toi.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "f2ffcbe9a41228f03565ed8a248bbfe2",
+            "title": "Breathing in Nagpur Nearly Equivalent to Smoking Two Cigarettes a Day, Research Shows",
+            "link": "https://timesofindia.indiatimes.com/city/nagpur/breathing-in-nagpur-nearly-equivalent-to-smoking-two-cigarettes-a-day-research-shows/articleshow/120910113.cms",
+            "keywords": null,
+            "creator": [
+                "Chaitanya Deshpande"
+            ],
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-05 20:13:15",
+            "pubDateTZ": "UTC",
+            "image_url": "https://static.toiimg.com/thumb/msid-117593249,imgsize-101333,width-400,height-225,resizemode-72/Representative-Image.jpg",
+            "video_url": null,
+            "source_id": "toi",
+            "source_name": "The Times Of India",
+            "source_priority": 239,
+            "source_url": "https://timesofindia.indiatimes.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/toi.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "c23596dcd6a41b331213b6d5e83eae82",
+            "title": "Breaking barriers: The story of a dancer and a sanitary staff",
+            "link": "https://timesofindia.indiatimes.com/city/nagpur/breaking-barriers-the-story-of-a-dancer-and-a-sanitary-staff/articleshow/120910103.cms",
+            "keywords": null,
+            "creator": [
+                "Sarfaraz Ahmed"
+            ],
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-05 20:13:14",
+            "pubDateTZ": "UTC",
+            "image_url": "https://static.toiimg.com/thumb/msid-117593249,width-1070,height-580,imgsize-101333,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "video_url": null,
+            "source_id": "toi",
+            "source_name": "The Times Of India",
+            "source_priority": 239,
+            "source_url": "https://timesofindia.indiatimes.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/toi.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "6fdc4bcf56c9f71603411da1ba2ef94b",
+            "title": "Kathua News: पंचायत कंधारनू में नहीं है पशु चिकित्सालय",
+            "link": "https://www.amarujala.com/jammu-and-kashmir/kathua/there-is-no-veterinary-hospital-in-panchayat-kandharanu-kathua-news-c-201-1-knt1008-119883-2025-05-06",
+            "keywords": null,
+            "creator": null,
+            "description": "पंचायत कंधारनू में नहीं है पशु चिकित्सालय",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-05 20:13:13",
+            "pubDateTZ": "UTC",
+            "image_url": "https://staticimg.amarujala.com/assets/images/2021/12/03/kathua_1638531748.jpeg?dpr=1.0&q=80&w=414",
+            "video_url": null,
+            "source_id": "amarujala",
+            "source_name": "Amar Ujala",
+            "source_priority": 55215,
+            "source_url": "https://www.amarujala.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/amarujala.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "24cb78fb96b5403fbdf15591fcf7b211",
+            "title": "Army pausing helicopter flights near Washington airport after close calls",
+            "link": "https://www.washingtontimes.com/news/2025/may/5/helicopter-flights-near-washington-airport-paused-army-close-calls/",
+            "keywords": null,
+            "creator": [
+                "Tara Copp"
+            ],
+            "description": "The Army is pausing helicopter flights near a Washington airport after two commercial planes had to abort landings last week because of an Army Black Hawk helicopter that was flying to the Pentagon.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-05 20:13:11",
+            "pubDateTZ": "UTC",
+            "image_url": "https://twt-thumbs.washtimes.com/media/image/2025/05/05/Army_Helicopter_Aborted_Landing_67472_c0-251-6000-3749_s885x516.jpg?bfee798b140155ee7106e1a89845758c6071a6da=",
+            "video_url": null,
+            "source_id": "washingtontimes",
+            "source_name": "The Washington Times",
+            "source_priority": 9784,
+            "source_url": "https://www.washingtontimes.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/washingtontimes.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": true
+        },
+        {
+            "article_id": "60a65b873958d8e65ea981ebbc0518dd",
+            "title": "Trump Halts Federal Funding for Gain-of-Function Research",
+            "link": "https://www.devdiscourse.com/article/law-order/3371253-trump-halts-federal-funding-for-gain-of-function-research",
+            "keywords": null,
+            "creator": null,
+            "description": "Trump Halts Federal Funding for Gain-of-Function Research In a significant policy shift, President Donald Trump has issued an executive order aimed at banning federal funding for gain-of-function research. According to a White House statement, the ban specifically targets research conducted in nations like China and Iran, aiming to bolster the safety and security of biological research.Citing the White House, Fox News reported that the executive order will severely limit the chances of laboratory incidents linked to gain-of-function research. This type of research includes work on bat coronaviruses, previously carried out in China by institutions like the EcoHealth Alliance and Wuhan Institute of Virology.The administration's move is seen as a decisive action to minimize potential risks associated with biological research, indicating a strategic shift in managing U.S. involvement in such scientific studies abroad.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-05 20:13:08",
+            "pubDateTZ": "UTC",
+            "image_url": "https://devdiscourse.blob.core.windows.net/aiimagegallery/03_04_2025_04_54_36_0123269.png",
+            "video_url": null,
+            "source_id": "devdiscourse",
+            "source_name": "Devdiscourse",
+            "source_priority": 566021,
+            "source_url": "https://www.devdiscourse.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/devdiscourse.jpg",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "47e30116995b5ade9fc46651246b6a79",
+            "title": "Trump Administration offers $1,000 to illegal migrants who voluntarily self-deport",
+            "link": "https://www.livemint.com/news/us-news/trump-administration-offers-1-000-to-illegal-migrants-who-voluntarily-selfdeport-11746474934901.html",
+            "keywords": null,
+            "creator": null,
+            "description": "Trump administration has launched a new program offering a $1,000 stipend and travel aid to undocumented migrants who voluntarily leave the US, aiming to cut deportation costs and speed up removals. While promoted as a humane alternative, the move comes amid tougher immigration enforcement measures.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-05 20:13:03",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.livemint.com/lm-img/img/2025/05/05/1600x900/USA-TRUMP--4_1746475430529_1746475438137.JPG",
+            "video_url": null,
+            "source_id": "livemint",
+            "source_name": "Mint",
+            "source_priority": 7134,
+            "source_url": "https://www.livemint.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/livemint.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "f291f609f0f0168488e1f17bcbc45810",
+            "title": "Dehradun News: पछवादून में तेज बारिश से सड़कों पर जलभराव, दुकानों में घुसा पानी",
+            "link": "https://www.amarujala.com/dehradun/waterlogging-on-roads-due-to-heavy-rain-in-pachhadun-vikas-nagar-news-c-5-1-drn1013-682537-2025-05-06",
+            "keywords": null,
+            "creator": null,
+            "description": "पछवादून में दो घंटे तक हुई तेज बारिश से सड़कों पर जलभराव हो गया। लोगों को आवाजाही में परेशानी का सामना करना पड़ा।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-05 20:13:03",
+            "pubDateTZ": "UTC",
+            "image_url": "https://staticimg.amarujala.com/assets/images/2021/10/13/dehradun_1634126026.jpeg?dpr=1.0&q=80&w=414",
+            "video_url": null,
+            "source_id": "amarujala",
+            "source_name": "Amar Ujala",
+            "source_priority": 55215,
+            "source_url": "https://www.amarujala.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/amarujala.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "d540960b4a3c6f032c48fd2e44e0adfe",
+            "title": "UNSC holds closed-door consultations amid escalating India-Pakistan tensions after Pahalgam terror attack - Times of India",
+            "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOQXd3MUVER01GSGdkTTBNM2xuVFlwejB0SFNMUmlqemJRY0M2cVdFbXV4NjhYMHpjV2g3cE53VWVEN0NwVlhwU1pqTl8wTVZDU0Y3N2NaTUFQT044ZnduNGY3RTVIWk15aGJaMUs3VDJiUExMeTFUaTZjZHhNZHZNLWNsbEtqYlcwWG5ZdUpDZkZ2em1pamlKYlh4ZWJVdlBxR1ZiOV9VTWZwcHpoZ0FRc3BDX01kbm13VUg3ZnYyeG41YUZEZTlOQTU1WTVHaWdkOXVfbGktcm5JZ25L0gHiAUFVX3lxTE9mVDQ4WG9ySmZjcTFZaldYMWhSUFZTVXpGdGwxZVN5bjlfblExMWs4RUZWVEVBWE9raHRyUldLZldNT0Flcms4VDhqeTNhX3d2SnpFWHZwdGhqQkdJOEhlV0dvTWdpNEhocEoxVUhjNTBkTFhwVFBwZU5KY3pzaDNHUUg5el9XZ3R2UDJtMk1NQUd6T3ZLZF9sNDl3UFNsbnhQUnBvTGoxUFo0T0VwVXNqOHZ1VlZCaUlYNmo2a09kOTZBSTRaU0FPcnFZa1dXTENieVhnVDBQa1hLVUdaajZUZ0E?oc=5",
+            "keywords": null,
+            "creator": null,
+            "description": "UNSC holds closed-door consultations amid escalating India-Pakistan tensions after Pahalgam terror attack Times of IndiaPak’s anti-India rant at UN Security Council fizzles out, meet yields no outcome India TodayUNSC India-Pakistan Talks: Security Council Urges Restraint Amid Rising Tensions Deccan Herald'Military solution is no solution': UN chief Antonio Guterres condemns Pahalgam attack, offers help to ea Times of IndiaUNSC Conducts Closed-Door Consultations Amid Escalating Tensions Between India, Pakistan- News18 News18",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-05 20:13:00",
+            "pubDateTZ": "UTC",
+            "image_url": null,
+            "video_url": null,
+            "source_id": "google",
+            "source_name": "Google News",
+            "source_priority": 14,
+            "source_url": "https://news.google.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/google.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "c2e41f5866e4e9eb46ef6f777d63d9a5",
+            "title": "Sambhal News: गंगा में नहाते समय चार युवक बहे, तीन को बचाया",
+            "link": "https://www.amarujala.com/uttar-pradesh/sambhal/four-youths-drowned-while-bathing-in-ganga-three-were-rescued-sambhal-news-c-275-1-smbd1033-122221-2025-05-06",
+            "keywords": null,
+            "creator": null,
+            "description": "रजपुरा थाना क्षेत्र के गांव रसूलपर में अपने दोस्त की शादी में शामिल होने आए चार युवक गंगा में नहाते समय पानी के तेज बहाव में बह गए।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-05 20:12:57",
+            "pubDateTZ": "UTC",
+            "image_url": "https://staticimg.amarujala.com/assets/images/2021/12/02/sambhal_1638431705.jpeg?dpr=1.0&q=80&w=414",
+            "video_url": null,
+            "source_id": "amarujala",
+            "source_name": "Amar Ujala",
+            "source_priority": 55215,
+            "source_url": "https://www.amarujala.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/amarujala.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "731d14da4972ca5fad2231d6e36d66d0",
+            "title": "Zhao Xintong's Historic World Snooker Triumph",
+            "link": "https://www.devdiscourse.com/article/sports-games/3371252-zhao-xintongs-historic-world-snooker-triumph",
+            "keywords": null,
+            "creator": null,
+            "description": "Zhao Xintong's Historic World Snooker Triumph Zhao Xintong etched his name into sporting history by becoming the first Chinese player to win the World Snooker Championship, overcoming seasoned Welsh competitor Mark Williams at the Crucible Theatre.Despite a challenging pathway marked by a 20-month ban from the sport, Zhao showcased resilience as an amateur, advancing through four qualifying rounds to secure his place at the prestigious event.With his victory, Zhao not only claimed a £500,000 prize but also set the stage for a new era in snooker, heralding the rise of a fresh global talent.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-05 20:12:51",
+            "pubDateTZ": "UTC",
+            "image_url": "https://devdiscourse.blob.core.windows.net/imagegallery/16_01_2019_13_01_16_4088895.jpg",
+            "video_url": null,
+            "source_id": "devdiscourse",
+            "source_name": "Devdiscourse",
+            "source_priority": 566021,
+            "source_url": "https://www.devdiscourse.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/devdiscourse.jpg",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "9d0d2860d9c7e0fa4ec48a319835b5dd",
+            "title": "\"Leave the white b**ches alone!\": Shannon Sharpe gets brutally mocked by Mo'Nique as he deals with a $50 million sexual assault allegation",
+            "link": "https://timesofindia.indiatimes.com/sports/nfl/news/leave-the-white-bches-alone-shannon-sharpe-gets-brutally-mocked-by-monique-as-he-deals-with-a-50-million-sexual-assault-allegation/articleshow/120909604.cms",
+            "keywords": null,
+            "creator": null,
+            "description": "Shannon Sharpe, facing sexual assault allegations, is being trolled by Mo'Nique, who referenced her past advice about dating younger women during a comedy show. Mo'Nique's remarks, stemming from a February podcast appearance, have sparked fan outrage, while Sharpe denies the allegations and focuses on his podcasts after stepping back from ESPN's First Take.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-05 20:12:46",
+            "pubDateTZ": "UTC",
+            "image_url": "https://static.toiimg.com/thumb/msid-120909627,imgsize-19452,width-400,resizemode-4/Shannon-Sharpe.jpg",
+            "video_url": null,
+            "source_id": "toi",
+            "source_name": "The Times Of India",
+            "source_priority": 239,
+            "source_url": "https://timesofindia.indiatimes.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/toi.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
             "article_id": "6707108f8b83f9698987ad67e8c9b357",
             "title": "Priyanka Chopra Teases Her Stunning Met Gala 2025 Look in a Balmain Masterpiece - Newsx",
             "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPclFTb28wUVI0SVhIRVFsQlRrcDY3T010aXhZNlN4c0FQY2RaOWd3VW5LSW1PUjdmSkE2REFCZ2RjRkFSVzJlaDktMV9uX2haeEUtYk1iWFZUcFF5clVFR2Npdl9MU3BSS0FBSm1BOU5kTzNOb3lhTmRfMUlnUHNJRHRHSFdhMkpwY01QVUdvNU5kOEFQMWNIQl8zZzdFSmFDYjI5UXFUTERKTzFoRlVOd0UtQ0xiejQ?oc=5",
@@ -21605,691 +22237,6 @@
             "source_url": "https://hindi.news18.com",
             "source_icon": "https://i.bytvi.com/domain_icons/hindinews18.png",
             "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "068fbfc1b3c678aea903c374ee501a81",
-            "title": "Shah Rukh Khan Greets Fans With Smile At New York Airport Ahead Of Met Gala 2025 Debut: 'Dream Come True' (VIDEO)",
-            "link": "https://www.freepressjournal.in/entertainment/shah-rukh-khan-greets-fans-with-smile-at-new-york-airport-ahead-of-met-gala-2025-debut-dream-come-true-video",
-            "keywords": [
-                "bollywood",
-                "fpj shorts",
-                "entertainment",
-                "topnews"
-            ],
-            "creator": null,
-            "description": null,
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-04 08:10:00",
-            "pubDateTZ": "UTC",
-            "image_url": "https://media.assettype.com/freepressjournal/2025-05-04/q5vypmjb/image-1.png",
-            "video_url": null,
-            "source_id": "freepressjournal",
-            "source_name": "The Free Press Journal",
-            "source_priority": 26427,
-            "source_url": "https://www.freepressjournal.in",
-            "source_icon": "https://i.bytvi.com/domain_icons/freepressjournal.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "1751bcb0af796f95b7862c6fe042ddc6",
-            "title": "Z+ Security | सीएम, राज्यपाल और मनोहर लाल को Z+ सुरक्षा | Nayab Saini | Manohar Lal Khattar | News18",
-            "link": "https://punjab.news18.com/videos/videos/z-security-z-security-to-cm-governor-and-manohar-lal-nayab-signature-manohar-red-danger-news18-776718.html",
-            "keywords": [
-                "videos"
-            ],
-            "creator": null,
-            "description": null,
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-04 08:10:00",
-            "pubDateTZ": "UTC",
-            "image_url": "https://images.news18.com/punjabi/uploads/2025/05/1746346623_d620b065-5eed-4da2-8a3b-b0c009336102-3x2.jpeg",
-            "video_url": null,
-            "source_id": "punjab_news18",
-            "source_name": "News18 Punjabi News",
-            "source_priority": 3892,
-            "source_url": "https://punjab.news18.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/punjab_news18.jpg",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "031dc88825413962915ff469c4b4fe09",
-            "title": "LK Sudhish ने कहा कि प्रेमलता 2026 में गठबंधन जारी रखने पर फैसला करेंगी",
-            "link": "https://jantaserishta.com/local/tamil-nadu/lk-sudhish-said-premalatha-will-decide-on-continuing-the-alliance-in-2026-3993237",
-            "keywords": [
-                "राज्य,तमिलनाडू"
-            ],
-            "creator": [
-                "Payal"
-            ],
-            "description": null,
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-04 08:10:00",
-            "pubDateTZ": "UTC",
-            "image_url": "https://jantaserishta.com/h-upload/2025/05/04/4570417-22.webp",
-            "video_url": null,
-            "source_id": "jantaserishta",
-            "source_name": "Janta Se Rishta",
-            "source_priority": 81836,
-            "source_url": "https://jantaserishta.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/jantaserishta.jpg",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "641067818f5f968be9127e0bc2baf259",
-            "title": "Maharashtra HSC 12th Result 2025: Date and time announced - The Indian Express",
-            "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQdzdxSXNseTNwTGNXcjFPLTZGSXY4bHV5ZUdxQ1N1QW1yMURzb2tObkZHdk5iRTMyd2cxa3liRnRUWURTQy1ZbVpyd1BpNVpSWlEzZHBJX2tpLURDNnZnR1NJOUZ5elVDWjZVTjFXcUNRbWpCdk1LbzNVcGlPWXRwdGE1MEJ2M08xS2Q0NldxaWtGY0NtbFJHejMyM0stc3MwbXNtNDJuNkJaN0lYcExBQ25mUjlHMEJlVU9xak5MNmFHd0RTTW83cXRzOEJId1NqeFJCeDJYQUFOOTBET1UxdtIB5wFBVV95cUxOMEk1Y2loX1VpREh6ZXEyZGt5MnhTazlMQmpKSkhfVHIxYmhWMFNtU3pfMUFpRFdOUUlpV0VqUldUUGVGYXkwTnRva0lUcXY2YXRuMkVISVVkd2lTYTJDdWswQmhLX0ZLUFEzQWwzbU91TWZhb1pfQVU0ai05N1JCaUstRjhyU1F3SDVTb2pzU0YzRWtDWS1CSVY0Vk41aGJRdmw3b1duVEhObDJrRWdIYjFGNVVuQzFTM2RrX2Vmd0NMOWxpUlRqR2VhajlEQlJ2NVZXLWdtNERKblVOU3BaS1F1ZHZ6QU0?oc=5",
-            "keywords": null,
-            "creator": null,
-            "description": "Maharashtra HSC 12th Result 2025: Date and time announced The Indian ExpressMaharashtra State Board to announce HSC results on this date: Check details here Times of IndiaMaharashtra SSC, HSC Result 2025 Date and Time: MSBSHSE to Release 10th, 12th Results by May 15th, Steps to Check Result Here Jagran JoshMaharashtra Class 10, 12 Results 2025 Likely On May 5: Know How And Where To Check NDTVMaharashtra HSC 12th Result 2025 date, time OUT! How to check on mahahsscboard.in, hscresult.mkcl.org Mint",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-04 08:10:00",
-            "pubDateTZ": "UTC",
-            "image_url": null,
-            "video_url": null,
-            "source_id": "google",
-            "source_name": "Google News",
-            "source_priority": 14,
-            "source_url": "https://news.google.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/google.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "ca7e6e0d353b124e981195df66c3ca4f",
-            "title": "जम्मू कश्मीर: रामबन में सेना के वाहन का एक्सीडेंट, गहरी खाई में गिरा, बचाव दल मौके पर पहुंचा",
-            "link": "https://www.indiatv.in/jammu-and-kashmir/jammu-and-kashmir-army-vehicle-met-with-an-accident-in-ramban-fell-into-a-deep-gorge-2025-05-04-1132382",
-            "keywords": null,
-            "creator": null,
-            "description": "जम्मू कश्मीर के रामबन जिले के बैटरी चश्मा में सेना का एक वाहन दुर्घटनाग्रस्त हो गया है। बचाव दल तुरंत मौके पर पहुंचा और बचाव कार्य शुरू कर दिया गया है।",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-04 08:10:00",
-            "pubDateTZ": "UTC",
-            "image_url": "https://resize.indiatv.in/resize/1200_-/2022/11/breaking-news-template-1-1667263372.jpg",
-            "video_url": null,
-            "source_id": "indiatv",
-            "source_name": "India Tv",
-            "source_priority": 8882,
-            "source_url": "https://www.indiatv.in",
-            "source_icon": "https://i.bytvi.com/domain_icons/indiatv.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "3ab3cf1b073f7e185e12677c0571af42",
-            "title": "जम्मू कश्मीर में बड़ा हादसा.. रामबन की गहरी खाई में गिरी सेना की गाड़ी, 3 जवान शहीद",
-            "link": "https://zeenews.india.com/hindi/india/army-vehicle-accident-3-soldiers-martyred-rescue-ongoing-in-ramban/2742077",
-            "keywords": null,
-            "creator": [
-                "Zee News हिन्दी"
-            ],
-            "description": "Ramban News: सेना का एक वाहन अनियंत्रित होकर करीब 600 मीटर गहरी खाई में जा गिरा. इस दर्दनाक हादसे में तीन जवान शहीद हो गए हैं. मौके पर सेना और स्थानीय प्रशासन की टीमें पहुंचकर रेस्क्यू ऑपरेशन चला रही हैं.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-04 08:09:58",
-            "pubDateTZ": "UTC",
-            "image_url": "https://hindi.cdn.zeenews.com/hindi/sites/default/files/2025/05/04/3885942-ramban-hadsa222.jpg?im=FitAndFill%3D%281200%2C900%29",
-            "video_url": null,
-            "source_id": "zeenews",
-            "source_name": "Zee News",
-            "source_priority": 5319,
-            "source_url": "http://zeenews.india.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/zeenews.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "6172d0f055f8087e652a99bf221dd659",
-            "title": "Assam Panchayat polls first phase: Re-polling underway at 43 stations across 5 districts",
-            "link": "https://www.indiatodayne.in/assam/video/assam-panchayat-polls-first-phase-re-polling-underway-at-43-stations-across-5-districts-1208557-2025-05-04",
-            "keywords": null,
-            "creator": null,
-            "description": "Re-polling is underway at 43 polling stations in Assam due to irregularities in the first phase of elections. The process is smooth and secure, with the second phase scheduled for May 7.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-04 08:09:56",
-            "pubDateTZ": "UTC",
-            "image_url": "https://cf-img-a-in.tosshub.com/lingo/itne/images/video/202505/68171e808a42f-assam-panchayat-polls-first-phase-re-polling-underway-at-43-stations-across-5-districts-045955298-16x9.jpeg",
-            "video_url": null,
-            "source_id": "indiatodayne",
-            "source_name": "Indiatoday Ne",
-            "source_priority": 319419,
-            "source_url": "https://www.indiatodayne.in",
-            "source_icon": "https://i.bytvi.com/domain_icons/indiatodayne.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "d7e5f140ed2872c81f72925e20f9cd25",
-            "title": "Northeast has tremendous capabilities, launch pad for global South: Scindia",
-            "link": "https://www.business-standard.com/india-news/northeast-has-tremendous-capabilities-launch-pad-for-global-south-scindia-125050400235_1.html",
-            "keywords": null,
-            "creator": null,
-            "description": "India's northeastern states -- growing at between 11-12 per cent -- present \"tremendous opportunity\" as launch pad for all of global South, Union Minister Jyotiraditya Scindia has said underlining its historic and \"fundamental\" significance in the economies and trade networks of the entire South-East Asian region.Scindia, who is Minister for Development of the North Eastern Region (MDoNER) and of Communications, has been actively driving initiatives to enhance connectivity, infrastructure and ecosystems across the northeast, positioning the region as India's next economic powerhouse, integrating all the eight states into a unified growth vision.Earlier this week, the minister met top honchos of India Inc., including Reliance Industries Chairman Mukesh Ambani, Aditya Birla Group Chairman Kumar Mangalam Birla as well as Tata Sons' Chairman N Chandrasekaran in Mumbai, ahead of the Rising Northeast Investment Summit 2025 scheduled to be held in New Delhi this month.Discussions focuse",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-04 08:09:55",
-            "pubDateTZ": "UTC",
-            "image_url": "https://bsmedia.business-standard.com/_media/bs/img/article/2024-12/17/thumb/featurecrop/1200X630/1734410619-5663.jpg",
-            "video_url": null,
-            "source_id": "business-standard",
-            "source_name": "Business Standard",
-            "source_priority": 9158,
-            "source_url": "https://www.business-standard.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/business-standard.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "98641d6c41740e9eb554861d2bf546ba",
-            "title": "India Set to Lead Global Land Reform Talks at World Bank Conference 2025",
-            "link": "https://pragativadi.com/india-set-to-lead-global-land-reform-talks-at-world-bank-conference-2025/",
-            "keywords": [
-                "world",
-                "svamitvascheme",
-                "climateaction",
-                "worldbankconference2025",
-                "ruralempowerment",
-                "trending now",
-                "grammanchitra",
-                "dronetechnology",
-                "globaldevelopment",
-                "landgovernance",
-                "digitalmapping",
-                "indialandreforms"
-            ],
-            "creator": [
-                "Itishree Sethy"
-            ],
-            "description": "India is taking centre stage in global land governance discussions at the World Bank Land Conference 2025, where the country’s revolutionary SVAMITVA Scheme and Gram Manchitra platform are being highlighted as models for sustainable, technology-driven land administration. A high-level delegation led by Shri Vivek Bharadwaj, Secretary, Ministry of Panchayati Raj (MoPR), is presenting India’s pioneering [...]The post India Set to Lead Global Land Reform Talks at World Bank Conference 2025 appeared first on Pragativadi I Latest Odisha News in English I Breaking News .",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-04 08:09:48",
-            "pubDateTZ": "UTC",
-            "image_url": "https://pragativadi.com/wp-content/uploads/2025/05/World-Bank-Conference-2025-640x375.jpg",
-            "video_url": null,
-            "source_id": "pragativadi",
-            "source_name": "Pragativadi",
-            "source_priority": 440576,
-            "source_url": "https://pragativadi.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/pragativadi.jpg",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "9c834e03f4a782cf3d85f3392e552ca5",
-            "title": "India Set to Lead Global Land Reform Talks at World Bank Land Conference 2025",
-            "link": "https://pragativadi.com/india-set-to-lead-global-land-reform-talks-at-world-bank-land-conference-2025/",
-            "keywords": [
-                "digitalmapping",
-                "ruralempowerment",
-                "trending now",
-                "dronetechnology",
-                "svamitvascheme",
-                "globaldevelopment",
-                "climateaction",
-                "indialandreforms",
-                "worldbankconference2025",
-                "world",
-                "grammanchitra",
-                "landgovernance"
-            ],
-            "creator": [
-                "Itishree Sethy"
-            ],
-            "description": "India is taking centre stage in global land governance discussions at the World Bank Land Conference 2025, where the country’s revolutionary SVAMITVA Scheme and Gram Manchitra platform are being highlighted as models for sustainable, technology-driven land administration. A high-level delegation led by Shri Vivek Bharadwaj, Secretary, Ministry of Panchayati Raj (MoPR), is presenting India’s pioneering [...]The post India Set to Lead Global Land Reform Talks at World Bank Land Conference 2025 appeared first on Pragativadi I Latest Odisha News in English I Breaking News .",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-04 08:09:48",
-            "pubDateTZ": "UTC",
-            "image_url": "https://pragativadi.com/wp-content/uploads/2025/05/World-Bank-Conference-2025-640x375.jpg",
-            "video_url": null,
-            "source_id": "pragativadi",
-            "source_name": "Pragativadi",
-            "source_priority": 440576,
-            "source_url": "https://pragativadi.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/pragativadi.jpg",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "5a2b76c152f34e071527538efb3f1ec2",
-            "title": "तीन महीने थिएटर्स में लगी रही थी विनोद खन्ना और फिरोज खान की ये फिल्म, बजट से की थी पांच गुना कमाई",
-            "link": "https://www.abplive.com/photo-gallery/entertainment/bollywood-vinod-khanna-feroz-khan-film-qurbani-was-first-highest-grossing-film-of-1980-2937439",
-            "keywords": [
-                "बॉलीवुड"
-            ],
-            "creator": [
-                "सखी चौधरी"
-            ],
-            "description": "तीन महीने थिएटर्स में लगी रही थी विनोद खन्ना और फिरोज खान की ये फिल्म, बजट से की थी पांच गुना कमाई",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-04 08:09:47",
-            "pubDateTZ": "UTC",
-            "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2025/05/04/5fc664637cf39b47711fbf4d7defdfff1746343696100276_original.jpg",
-            "video_url": null,
-            "source_id": "abplive",
-            "source_name": "Abp News",
-            "source_priority": 7754,
-            "source_url": "http://abplive.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/abplive.jpg",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "entertainment"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "ce620617a17f94cc12435c2d34228273",
-            "title": "मेड. कॉलेज में विस्फोट; निजी अस्पतालों में चिकित्सा व्यय को कवर करने में अस्पष्टता",
-            "link": "https://jantaserishta.com/local/kerala/blast-in-med-college-ambiguity-in-covering-medical-expenses-in-private-hospitals-3993236",
-            "keywords": [
-                "राज्य,केरल"
-            ],
-            "creator": [
-                "Kavita2"
-            ],
-            "description": null,
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-04 08:09:39",
-            "pubDateTZ": "UTC",
-            "image_url": "https://jantaserishta.com/h-upload/2025/05/04/4570416-untitled-87-copy.webp",
-            "video_url": null,
-            "source_id": "jantaserishta",
-            "source_name": "Janta Se Rishta",
-            "source_priority": 81836,
-            "source_url": "https://jantaserishta.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/jantaserishta.jpg",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "7252396d87ead2381fef17a247128990",
-            "title": "3 Jawans Killed As Army Truck Plunges Into 600-Ft Deep Gorge In Jammu And Kashmir",
-            "link": "https://www.timesnownews.com/india/3-jawans-killed-as-army-truck-plunges-into-600-ft-deep-gorge-in-jammu-and-kashmir-ramban-article-151559802",
-            "keywords": null,
-            "creator": [
-                "Times Now Digital"
-            ],
-            "description": "An Army truck carrying soldiers rolled down into a 600-ft deep gorge in Jammu and Kashmir's Battery Chashma Ramban area.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-04 08:09:32",
-            "pubDateTZ": "UTC",
-            "image_url": "https://images.timesnownews.com/thumb/msid-151559867,thumbsize-50864,width-1280,height-720,resizemode-75/151559867.jpg",
-            "video_url": null,
-            "source_id": "timesnownews",
-            "source_name": "Times Now News",
-            "source_priority": 2243,
-            "source_url": "https://www.timesnownews.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/timesnownews.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "83a090ac13fc73dd1aae14c6bcbb12cc",
-            "title": "RCB mentor Karthik provides update on Hazlewood and Salt's return after duo miss victory over CSK at Chinnaswamy",
-            "link": "https://www.firstpost.com/firstcricket/rcb-josh-hazlewood-phil-salt-dinesh-karthik-return-timeline-ipl-2025-13885329.html",
-            "keywords": [
-                "first cricket"
-            ],
-            "creator": [
-                "Firstpost"
-            ],
-            "description": "Royal Challengers Bengaluru pacer Josh Hazlewood and opener Phil Salt missed Saturday's high-scoring thriller against Chennai Super Kings at the M Chinnaswamy Stadium, with the latter sitting out for a second consecutive match. Mentor Dinesh Karthik, however, expects the two to return to action soon.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-04 08:09:31",
-            "pubDateTZ": "UTC",
-            "image_url": "https://images.firstpost.com/uploads/2025/05/Josh-Hazlewood-Phil-Salt-RCB-IPL-2025-AP-1200-2025-05-4e8a5dd5f8b344969dfb4780ac466baa.jpg",
-            "video_url": null,
-            "source_id": "firstpost",
-            "source_name": "Firstpost",
-            "source_priority": 5906,
-            "source_url": "https://www.firstpost.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/firstpost.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "sports"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "d2097f4b6bbdd35b96592baee09fe050",
-            "title": "Editor: शैंपेन का एक-दो गिलास पीने से अचानक हृदयाघात से बचा जा सकता है",
-            "link": "https://jantaserishta.com/editorial/editor-drinking-a-glass-or-two-of-champagne-can-prevent-sudden-cardiac-arrest-3993235",
-            "keywords": [
-                "सम्पादकीय,लेख,अन्य खबरें"
-            ],
-            "creator": [
-                "Triveni"
-            ],
-            "description": null,
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-04 08:09:30",
-            "pubDateTZ": "UTC",
-            "image_url": "https://jantaserishta.com/h-upload/2025/05/04/4570418-65.webp",
-            "video_url": null,
-            "source_id": "jantaserishta",
-            "source_name": "Janta Se Rishta",
-            "source_priority": 81836,
-            "source_url": "https://jantaserishta.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/jantaserishta.jpg",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "a11a8dddd693316f97e4b77b6fd5aa85",
-            "title": "Bengaluru police arrest 4 for selling IPL tickets at 8 times the original price",
-            "link": "https://www.livemint.com/news/bengaluru-police-arrest-4-for-selling-ipl-tickets-at-8-times-the-original-price-11746344887611.html",
-            "keywords": null,
-            "creator": null,
-            "description": "Bengaluru Police uncovered a black market for IPL tickets, arresting four individuals before the CSK vs RCB match.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-04 08:09:28",
-            "pubDateTZ": "UTC",
-            "image_url": "https://www.livemint.com/lm-img/img/2025/05/04/1600x900/ANI-20250503004-0_1746345694265_1746345732661.jpg",
-            "video_url": null,
-            "source_id": "livemint",
-            "source_name": "Mint",
-            "source_priority": 7134,
-            "source_url": "https://www.livemint.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/livemint.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "4674cfd8ccb7284d439a089959e69636",
-            "title": "India withholds ‘X’ accounts of Pakistan's Bilawal Bhutto, Imran Khan",
-            "link": "https://www.livemint.com/news/india/india-withholds-x-accounts-of-pakistans-bilawal-bhutto-imran-khan-pahagam-terror-attack-11746346106857.html",
-            "keywords": null,
-            "creator": null,
-            "description": "India withholds ‘X’ accounts of Pakistan's Bilawal Bhutto, Imran Khan",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-04 08:09:28",
-            "pubDateTZ": "UTC",
-            "image_url": "https://www.livemint.com/lm-img/static/1yr/newmintdefault-120.png",
-            "video_url": null,
-            "source_id": "livemint",
-            "source_name": "Mint",
-            "source_priority": 7134,
-            "source_url": "https://www.livemint.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/livemint.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "f07bfd2d046c62f412165fcb40222665",
-            "title": "Netanyahu Gets Scared By Erdogan's Threat, Cancels Flight To...: Report| Israel| Gaza| Turkey| Iran",
-            "link": "https://www.hindustantimes.com/videos/world-news/netanyahu-gets-scared-by-erdogans-threat-cancels-flight-to-report-israel-gaza-turkey-iran-101746346087390.html",
-            "keywords": [
-                "latest"
-            ],
-            "creator": null,
-            "description": "Turkey reportedly denied Israeli Prime Minister Benjamin Netanyahu use of its airspace for his visit to Azerbaijan. According to Walla news, Netanyahu cancelled his visit to Baku due to Ankara's move. Watch this video to find out the Turkish foreign ministry's reaction.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-04 08:09:27",
-            "pubDateTZ": "UTC",
-            "image_url": "https://www.hindustantimes.com/ht-img/img/2025/05/04/1600x900/hqdefault_1746346083669_1746346130162.jpg",
-            "video_url": null,
-            "source_id": "hindustantimes",
-            "source_name": "Hindustan Times",
-            "source_priority": 933,
-            "source_url": "http://www.hindustantimes.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/hindustantimes.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "755c1b2e9c81260000c209a475cb2922",
-            "title": "1500% Surge in 5 Years! THIS Defence Stock To Remain In Focus Tomorrow: The Reason is...",
-            "link": "https://www.timesnownews.com/business-economy/companies/defence-company-hyderabad-based-apollo-micro-systems-to-acquire-idl-explosives-for-rs-107-crore-eyes-defence-sector-expansion-article-151559893",
-            "keywords": null,
-            "creator": [
-                "Samannay Biswas"
-            ],
-            "description": "Hyderabad-based defence firm Apollo Micro Systems announced on Friday that its subsidiary will acquire 100 per cent of IDL Explosives Limited for ₹107 crore, aiming to bolster its manufacturing capacity in defence explosives amid growing domestic demand in high-impact sectors such as artillery and missiles.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-04 08:09:23",
-            "pubDateTZ": "UTC",
-            "image_url": "https://images.timesnownews.com/thumb/msid-151559900,thumbsize-42542,width-1280,height-720,resizemode-75/151559900.jpg",
-            "video_url": null,
-            "source_id": "timesnownews",
-            "source_name": "Times Now News",
-            "source_priority": 2243,
-            "source_url": "https://www.timesnownews.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/timesnownews.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "efbce1b5d0f2bc8c25d758c9c22075dc",
-            "title": "Three soldiers killed as Army vehicle skids off road, plunges into gorge in J-K's Ramban",
-            "link": "https://www.indiatvnews.com/news/india/three-soldiers-killed-as-army-vehicle-skids-off-road-plunges-into-gorge-in-j-k-s-ramban-2025-05-04-988577",
-            "keywords": null,
-            "creator": null,
-            "description": "Three soldiers killed as Army vehicle skids off road, plunges into gorge in J-K's Ramban",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-04 08:09:07",
-            "pubDateTZ": "UTC",
-            "image_url": "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2022/11/breaking-news-template-1-1667263372.jpg",
-            "video_url": null,
-            "source_id": "indiatvnews",
-            "source_name": "India Tv",
-            "source_priority": 10055,
-            "source_url": "https://www.indiatvnews.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/indiatvnews.png",
-            "language": "english",
             "country": [
                 "india"
             ],
