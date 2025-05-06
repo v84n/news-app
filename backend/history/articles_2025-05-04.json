@@ -1,6 +1,674 @@
 {
     "articles": [
         {
+            "article_id": "b7e411e5d5afbba883c9990fc51069bf",
+            "title": "AI Governance Crucial For Accountability And Risk Mitigation, Says CII",
+            "link": "https://zeenews.india.com/technology/ai-governance-crucial-for-accountability-and-risk-mitigation-says-cii-2895366.html",
+            "keywords": null,
+            "creator": [
+                "Zee News"
+            ],
+            "description": "CII further added that companies must implement processes to identify and mitigate biases and risks associated with the use of AI across business functions.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-04 07:08:00",
+            "pubDateTZ": "UTC",
+            "image_url": "https://english.cdn.zeenews.com/sites/default/files/styles/zm_700x400/public/2025/05/04/1740785-ai.jpg?im=Resize%3D%28400%29",
+            "video_url": null,
+            "source_id": "zeenews",
+            "source_name": "Zee News",
+            "source_priority": 5319,
+            "source_url": "http://zeenews.india.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/zeenews.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "technology"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": true
+        },
+        {
+            "article_id": "87719e6dded2129bb2e2fd9a92826529",
+            "title": "बचपन में चल बसे मां-बाप, अनाथ आश्रम में कटी जिंदगी...पाई-पाई जोड़कर बनी हीरोइन",
+            "link": "https://hindi.news18.com/photogallery/entertainment/bollywood-famous-gujrati-actress-khushi-shah-painful-story-orphanage-to-movies-once-director-ask-dirty-demand-ws-kl-9218930.html",
+            "keywords": [
+                "बॉलीवुड"
+            ],
+            "creator": [
+                "News18 Hindi"
+            ],
+            "description": "खुशी शाह, गुजराती सिनेमा की जानी-मानी एक्ट्रेस, ने मां को बचपन में खो दिया और पिता की मौत के बाद अनाथ आश्रम में रहीं. संघर्षों के बावजूद उन्होंने मॉडलिंग और एक्टिंग में करियर बनाया.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-04 07:07:58",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.news18.com/ibnkhabar/uploads/2025/05/khushi-shah-2025-05-a503df3c9410f860f79265614e381828-3x2.jpg",
+            "video_url": null,
+            "source_id": "hindinews18",
+            "source_name": "News 18 Hindi",
+            "source_priority": 4077,
+            "source_url": "https://hindi.news18.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/hindinews18.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "entertainment"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "c4e35fe385dfd6272b1b004116f62a4e",
+            "title": "Income Tax Return: सैलरी पाने वाले लोगों के लिए कौन सा टैक्स रिजीम बेहतर? नया या पुराना; समझकर लें फैसला",
+            "link": "https://www.haribhoomi.com/business/news/which-income-tax-regime-will-be-better-for-salaried-class-pepole-old-or-new-need-to-know-some-facts-82310",
+            "keywords": [
+                "business"
+            ],
+            "creator": null,
+            "description": "Income Tax Return: नए और पुराने इनकम टैक्स रिजीम को लेकर कन्फ्यूजन है। कोई बात नहीं कुछ जरूरी बातों को ध्यान में रखकर आप अपने लिए सही चुनाव कर सकते हैं।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-04 07:07:57",
+            "pubDateTZ": "UTC",
+            "image_url": "https://img.haribhoomi.com/uploadimage/library/16_9/16_9_5/ITR_Filing__1746342446.jpg",
+            "video_url": null,
+            "source_id": "haribhoomi",
+            "source_name": "Haribhoomi",
+            "source_priority": 4262064,
+            "source_url": "https://www.haribhoomi.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/haribhoomi.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "36d8b9d225e30b1b3e5c8bbcb3ce396c",
+            "title": "Maharashtra: Palghar Man Beaten Up By Locals, Arrested For Making Objectionable Remarks About Shivaji Maharaj",
+            "link": "https://www.freepressjournal.in/mumbai/maharashtra-palghar-man-beaten-up-by-locals-arrested-for-making-objectionable-remarks-about-shivaji-maharaj",
+            "keywords": [
+                "topnews",
+                "fpj shorts",
+                "mumbai news"
+            ],
+            "creator": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-04 07:07:53",
+            "pubDateTZ": "UTC",
+            "image_url": "https://media.assettype.com/freepressjournal/2025-05-04/zi0ipxos/Untitled-design-2025-05-04T123305.567.jpg",
+            "video_url": null,
+            "source_id": "freepressjournal",
+            "source_name": "The Free Press Journal",
+            "source_priority": 26427,
+            "source_url": "https://www.freepressjournal.in",
+            "source_icon": "https://i.bytvi.com/domain_icons/freepressjournal.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "9cd16ed8d83656ba50d75e87ffc90a51",
+            "title": "Deadly Nor’wester Hits Odisha: Woman Killed in Cuttack",
+            "link": "https://pragativadi.com/deadly-norwester-hits-odisha-woman-killed-in-cuttack/",
+            "keywords": [
+                "cuttack tragedy",
+                "severe thunderstorm",
+                "odisha storm",
+                "trending now",
+                "imd warning",
+                "nor’wester odisha",
+                "odisha weather alert",
+                "odisha",
+                "disaster management",
+                "power outages",
+                "summer storms",
+                "emergency response"
+            ],
+            "creator": [
+                "Itishree Sethy"
+            ],
+            "description": "A powerful Nor’wester storm hit several districts of Odisha, causing severe destruction and claiming lives. In a tragic incident, a woman in Cuttack district lost her life after a coconut tree collapsed on her while she was rushing to protect her cow. Reports indicate that the storm impacted Phulbani, Kandhamal, and Boudh districts, uprooting trees, [...]The post Deadly Nor’wester Hits Odisha: Woman Killed in Cuttack appeared first on Pragativadi I Latest Odisha News in English I Breaking News .",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-04 07:07:52",
+            "pubDateTZ": "UTC",
+            "image_url": "https://pragativadi.com/wp-content/uploads/2025/05/norwester-640x375.jpg",
+            "video_url": null,
+            "source_id": "pragativadi",
+            "source_name": "Pragativadi",
+            "source_priority": 440576,
+            "source_url": "https://pragativadi.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/pragativadi.jpg",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "7938e89331f32c44f6a630a4404d8eb3",
+            "title": "PBKS vs LSG, Dharamsala Weather Forecast: पंजाब किंग्स बनाम लखनऊ सुपर जायंट्स TATA IPL 2025 मुकाबले में बारिश मचाएंगी तांडव? जानिए कैसा रहेगा धर्मशाला के मौसम का हाल",
+            "link": "https://hindi.latestly.com/sports/cricket/will-rain-create-havoc-in-punjab-kings-vs-lucknow-super-giants-tata-ipl-2025-match-know-what-will-be-the-weather-condition-of-dharamshala-2602283.html",
+            "keywords": null,
+            "creator": null,
+            "description": "मौसम विभाग के अनुसार, सुबह से दोपहर तक हल्की बारिश की संभावना है, लेकिन मैच के समय मौसम साफ रहने की उम्मीद है, जिससे 20 ओवर का पूरा मुकाबला देखने को मिल सकता है. तापमान लगभग 18 डिग्री सेल्सियस के आसपास रहेगा",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-04 07:07:50",
+            "pubDateTZ": "UTC",
+            "image_url": "https://hist1.latestly.com/wp-content/uploads/2025/05/HPCA-Stadium-380x214.jpg",
+            "video_url": null,
+            "source_id": "latestly",
+            "source_name": "Latestly",
+            "source_priority": 31923,
+            "source_url": "https://www.latestly.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/latestly.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "sports"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "81bfb5e2030e1779122f6a11bac63ff0",
+            "title": "Third-year student found hanging in IIT Kharagpur hostel room",
+            "link": "https://www.theweek.in/wire-updates/national/2025/05/04/cal6-wb-iitkgp-student-death.html",
+            "keywords": null,
+            "creator": null,
+            "description": "Kolkata, May 4 (PTI) A third-year BTech student of IIT Kharagpur was found hanging in his hostel room on Sunday,",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-04 07:07:50",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.theweek.in/content/dam/week/wire-updates/pti-preview-theweek.jpg",
+            "video_url": null,
+            "source_id": "theweek_in",
+            "source_name": "The Week",
+            "source_priority": 26911,
+            "source_url": "https://www.theweek.in",
+            "source_icon": "https://i.bytvi.com/domain_icons/theweek_in.jpg",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "world"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "872c4af8398170bbeec83035ae5f9c45",
+            "title": "Arizona communities bank on Trump's push for coal to ensure they're not forgotten",
+            "link": "https://www.theweek.in/wire-updates/international/2025/05/04/fes6-us-trump-western-coal-plants.html",
+            "keywords": null,
+            "creator": null,
+            "description": "Joseph City (US), May 4 (AP) Brantley Baird never misses a chance to talk history, from how his great-grandmother helped",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-04 07:07:49",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.theweek.in/content/dam/week/wire-updates/pti-preview-theweek.jpg",
+            "video_url": null,
+            "source_id": "theweek_in",
+            "source_name": "The Week",
+            "source_priority": 26911,
+            "source_url": "https://www.theweek.in",
+            "source_icon": "https://i.bytvi.com/domain_icons/theweek_in.jpg",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "world"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": true
+        },
+        {
+            "article_id": "3345352a30f7395cc5ff38dde859ff8f",
+            "title": "India has cut water flow through Baglihar dam after Indus Treaty suspension Source",
+            "link": "https://www.theweek.in/wire-updates/national/2025/05/04/del8--indus-baglihar-dam.html",
+            "keywords": null,
+            "creator": null,
+            "description": "New Delhi, May 4 (PTI) India has stanched the flow of water through the Baglihar Dam on the Chenab River",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-04 07:07:49",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.theweek.in/content/dam/week/wire-updates/pti-preview-theweek.jpg",
+            "video_url": null,
+            "source_id": "theweek_in",
+            "source_name": "The Week",
+            "source_priority": 26911,
+            "source_url": "https://www.theweek.in",
+            "source_icon": "https://i.bytvi.com/domain_icons/theweek_in.jpg",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "world"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "4af1a1ad63318ad663472c372551801c",
+            "title": "Goa stampede Minor incident happened at same site during last year's fest says official",
+            "link": "https://www.theweek.in/wire-updates/national/2025/05/04/bom2-ga-stampede-fact-finding.html",
+            "keywords": null,
+            "creator": null,
+            "description": "Panaji, May 4 (PTI) A committee probing the stampede at a temple festival in North Goa has found that a",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-04 07:07:48",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.theweek.in/content/dam/week/wire-updates/pti-preview-theweek.jpg",
+            "video_url": null,
+            "source_id": "theweek_in",
+            "source_name": "The Week",
+            "source_priority": 26911,
+            "source_url": "https://www.theweek.in",
+            "source_icon": "https://i.bytvi.com/domain_icons/theweek_in.jpg",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "world"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": true
+        },
+        {
+            "article_id": "c5fc543cbbd186ddacb4dddc82fd6c8f",
+            "title": "Cholla Power Plant: A Community's Battle with Change",
+            "link": "https://www.devdiscourse.com/article/headlines/3369391-cholla-power-plant-a-communitys-battle-with-change",
+            "keywords": null,
+            "creator": null,
+            "description": "Cholla Power Plant: A Community's Battle with Change The closure of the Cholla Power Plant in Joseph City, Arizona, marks another blow to coal-reliant communities in the West. Once an economic pillar, the plant provided essential jobs and revenue for local schools and businesses.Despite President Trump's efforts to revive the coal industry, environmental regulations and economic realities have shifted the focus toward renewable energy sources. Arizona utilities are hesitant to reverse plant closures, citing cost and policy uncertainties.The debate over the future of energy in the region continues as Joseph City prepares for the economic challenges ahead, with new developments in solar and battery storage potentially shaping the next chapter for this small community.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-04 07:07:47",
+            "pubDateTZ": "UTC",
+            "image_url": "https://devdiscourse.blob.core.windows.net/aiimagegallery/04_05_2025_07_07_47_0399582.png",
+            "video_url": null,
+            "source_id": "devdiscourse",
+            "source_name": "Devdiscourse",
+            "source_priority": 566021,
+            "source_url": "https://www.devdiscourse.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/devdiscourse.jpg",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "588657d803a471823f0f5649ba428486",
+            "title": "Adani Ports focussing on scaling up marine logistics and agri-logistics businesses Karan Adani",
+            "link": "https://www.theweek.in/wire-updates/business/2025/05/04/dcm14-biz-adani-ports-interview.html",
+            "keywords": null,
+            "creator": null,
+            "description": "New Delhi, May 4 (PTI) Adani Ports and Special Economic Zone (APSEZ) managing director Karan Adani has said that India's",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-04 07:07:47",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.theweek.in/content/dam/week/wire-updates/pti-preview-theweek.jpg",
+            "video_url": null,
+            "source_id": "theweek_in",
+            "source_name": "The Week",
+            "source_priority": 26911,
+            "source_url": "https://www.theweek.in",
+            "source_icon": "https://i.bytvi.com/domain_icons/theweek_in.jpg",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "business"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": true
+        },
+        {
+            "article_id": "020cb474001efa013614ec1bf005ce09",
+            "title": "PM Modi made 'desperate U-turn' on caste census Cong",
+            "link": "https://www.theweek.in/wire-updates/national/2025/05/04/del7-caste-cong-pm.html",
+            "keywords": null,
+            "creator": null,
+            "description": "New Delhi, May 4 (PTI) Claiming that Prime Minister Narendra Modi made a \"desperate U-turn\" on the caste census, the",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-04 07:07:46",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.theweek.in/content/dam/week/wire-updates/pti-preview-theweek.jpg",
+            "video_url": null,
+            "source_id": "theweek_in",
+            "source_name": "The Week",
+            "source_priority": 26911,
+            "source_url": "https://www.theweek.in",
+            "source_icon": "https://i.bytvi.com/domain_icons/theweek_in.jpg",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "world"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "9737b20eec8718cc5459d4e78ac7f39b",
+            "title": "First Haj pilgrims' batch from J-K departed for Saudi Arabia",
+            "link": "https://www.theweek.in/wire-updates/national/2025/05/04/des13--jk-haj-departure.html",
+            "keywords": null,
+            "creator": null,
+            "description": "Srinagar, May 4 (PTI) The first batch of Haj pilgrims from Jammu and Kashmir departed for Saudi Arabia on Sunday.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-04 07:07:45",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.theweek.in/content/dam/week/wire-updates/pti-preview-theweek.jpg",
+            "video_url": null,
+            "source_id": "theweek_in",
+            "source_name": "The Week",
+            "source_priority": 26911,
+            "source_url": "https://www.theweek.in",
+            "source_icon": "https://i.bytvi.com/domain_icons/theweek_in.jpg",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "world"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "b5ca8803e270e6265695c15ee8474193",
+            "title": "Kedarnath Dham: The Supreme Shiv Shakti Peeth And Its Significance In Pind Daan",
+            "link": "https://news.abplive.com/religion/kedarnath-dham-the-supreme-shiv-shakti-peeth-and-its-significance-in-pind-daan-char-dham-yatra-2025-1769858",
+            "keywords": [
+                "religion"
+            ],
+            "creator": [
+                "Danish Khan"
+            ],
+            "description": "Kedarnath Dham holds a very important place in India’s religious traditions. It is located at an altitude of 11,750 feet in the mountains of Uttarakhand. This temple is not only one of the twelve Jyotirlingas of Lord Shiva but is also considered the highest among the five major Shakti Peeths. It is called the ‘Himavat Vairagya Peeth,’ where special rituals like Pind Daan and Tarpan are performed.ALSO READ: Portals Of Badrinath Dham Open To Devotees, Temple Decorated With 40 Quintals Of FlowersKedarnath's Spiritual ImportanceAt Kedarnath, the main object of worship is the backside of Lord Shiva’s Svayambhu. According to the mythology, after the great war of Mahabharata, the Pandavas wanted to rid themselves of the sins they had committed. They sought Lord Shiva’s help for this. Lord Shiva, upset with them, took the form of Nandi, a bull to hide underground in Kedarnath. Bhima, one of the Pandavas, held on to the the bull's tail. As the bull went underground, only its rear part stayed above the surface. That part is now worshipped as the Kedarnath Jyotirlinga.The Significance Of Pind Daan And TarpanKedarnath is considered a very important place for performing Pind Daan and Tarpan, rituals that bring peace and moksha to the souls of ancestors. Devotees who come here perform these rituals by offering water, milk, ghee, and sandalwood to Lord Shiva’s Lingam. It is believed that the worship is incomplete unless the devotee applies ghee, sandalwood, and butter to the Lingam, as part of the ritual.Why Kedarnath Is So SpecialSenior priest of Kedarnath, Srinivas Posti, says that here, devotees experience a direct connection with Lord Shiva. Just a single darshan of Baba Kedarnath is believed to wash away all sins and bring deep inner peace. This is why lakhs of devotees from across India and the world visit Kedarnath every year. Kedarnath is a very sacred place for Hindus, not just because of the temple but also because of its historical and spiritual significance. According to religious beliefs, the Kedarnath region lies between the Meru and Sumeru mountains, where holy rivers like Mandakini, Saraswati, and Madhu Ganga flow. The temple is surrounded by sacred ponds like Udak Kund, Retas Kund, and Amrit Kund, which are places of great spiritual importance.In the 9th century, Adi Guru Shankaracharya restored the Kedarnath temple and made it a center for promoting Vedic culture. His is also located in the temple complex, and it remains a major point of devotion for pilgrims.Kedarnath is considered the highest among the five major Shakti Peeths in India. The other four are Shri Sailya in Andhra Pradesh, Jnana Peeth in Varanasi, Veer Peeth in Karnataka, and Sadharma Peeth in Ujjain. Kedarnath is special because it symbolises devotion, penance, and renunciation.A Spiritual Journey To KedarnathNestled in the lap of the Himalayas, this sacred place is not just a pilgrimage site, but a gateway to inner peace and spiritual awakening. It is believed that seeing Lord Shiva here gives true meaning to life. The age-old traditions of pind daan, tarpan, and darshan make Kedarnath not only spiritually powerful, but also a proud symbol of India’s rich religious heritage.[Disclaimer: The content of this article is based solely on beliefs, and should be taken as general guidance. Individual experiences may vary. ABPLive.com does not assert the accuracy or validity of any claims or information presented. It is strongly recommended to consult a qualified expert before considering or implementing any information or belief discussed herein.]",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-04 07:07:45",
+            "pubDateTZ": "UTC",
+            "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2025/05/04/28ea4e7c0bb9ec4f9fb50ed9fdb1aea817463422295061090_original.png",
+            "video_url": null,
+            "source_id": "abplive",
+            "source_name": "Abp News",
+            "source_priority": 7754,
+            "source_url": "http://abplive.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/abplive.jpg",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "entertainment"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "ab9256e6c2a2288abe29c7dd72953215",
+            "title": "Haryana : हिसार में पुलिस मुठभेड़ में अपराधी घायल",
+            "link": "https://jantaserishta.com/local/haryana/haryana-criminal-injured-in-police-encounter-in-hisar-3993082",
+            "keywords": [
+                "राज्य,हरियाणा"
+            ],
+            "creator": [
+                "SANTOSI TANDI"
+            ],
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-04 07:07:43",
+            "pubDateTZ": "UTC",
+            "image_url": "https://jantaserishta.com/h-upload/2025/05/04/4570248-39.webp",
+            "video_url": null,
+            "source_id": "jantaserishta",
+            "source_name": "Janta Se Rishta",
+            "source_priority": 81836,
+            "source_url": "https://jantaserishta.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/jantaserishta.jpg",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "5984f7ee5b8edb8557e71513c00cd450",
+            "title": "चित्रकूट में मस्जिद के पास हनुमान चालीसा पाठ:विहिप-बजरंग दल के कार्यकर्ताओं का प्रदर्शन, पुलिस तैनात",
+            "link": "https://www.bhaskar.com/local/uttar-pradesh/chitrakoot/news/hanuman-chalisa-recitation-near-the-mosque-in-chitrakoot-134962400.html",
+            "keywords": null,
+            "creator": null,
+            "description": "चित्रकूट के निबुहापूरवा गांव में विश्व हिंदू परिषद और बजरंग दल के कार्यकर्ताओं ने मस्जिद के पास हनुमान चालीसा का पाठ किया। बजरंग दल के संयोजक शिवेंद्र के नेतृत्व में सैकड़ों कार्यकर्ता एकत्र हुए। शिवेंद्र ने कहा कि यह शांतिपूर्ण प्रदर्शन था। उन्होंने बताया कि कुछ लोगों द्वारा हिंदुस्तान विरोधी भाषा के इस्तेमाल के जवाब में यह आयोजन किया गया। कार्यकर्ताओं ने पाकिस्तान विरोधी नारे लगाए। भाजपा युवा मोर्चा के हीरो मिश्रा समेत कई नेता मौजूद रहे। सदर कोतवाल उपेंद्र सिंह ने कार्यकर्ताओं से हनुमान चालीसा पाठ रोकने का अनुरोध किया। लेकिन कार्यकर्ताओं ने अनुरोध नहीं माना। प्रशासन ने मौके पर भारी पुलिस बल, पीएसी और खुफिया एजेंसियों को तैनात किया है। गांव में हर जगह पुलिस की निगरानी जारी है। प्रशासन स्थिति पर लगातार नजर बनाए हुए है।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-04 07:07:32",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.bhaskarassets.com/thumb/1000x1000/web2images/521/2025/05/04/d623147e-fb28-49eb-b9c3-16e742249d6e_1746341555077.jpg",
+            "video_url": null,
+            "source_id": "bhaskar_hindi",
+            "source_name": "Bhaskar",
+            "source_priority": 34179,
+            "source_url": "https://www.bhaskar.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/bhaskar_hindi.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top",
+                "domestic"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "5973afb3c809534047d3820e2d3753e9",
+            "title": "CBSE 10वीं-12वीं के रिजल्ट से जुड़ा बड़ा अपडेट आ गया सामने, जानें कब तक होगा नतीजों का ऐलान?",
+            "link": "https://www.abplive.com/photo-gallery/education/when-will-cbse-2025-exam-results-be-released-know-the-new-update-here-2937431",
+            "keywords": [
+                "शिक्षा"
+            ],
+            "creator": [
+                "एबीपी लाइव"
+            ],
+            "description": "CBSE 10वीं-12वीं के रिजल्ट से जुड़ा बड़ा अपडेट आ गया सामने, जानें कब तक होगा नतीजों का ऐलान?",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-04 07:07:30",
+            "pubDateTZ": "UTC",
+            "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2025/05/04/de2a161bd2c4fd89520a8411ca887c2d1746342041171855_original.jpg",
+            "video_url": null,
+            "source_id": "abplive",
+            "source_name": "Abp News",
+            "source_priority": 7754,
+            "source_url": "http://abplive.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/abplive.jpg",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "education"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "d10b33017d790bca9b4e1820cf7a4345",
+            "title": "Ayodhya Parikrama: अयोध्या की 84 कोसी परिक्रमा में उमड़ी श्रद्धालुओं की भीड़",
+            "link": "https://hindi.news18.com/news/uttar-pradesh/ayodhya-84-koshi-parikrama-completed-in-ayodhya-devotees-circumambulated-ram-temple-local18-ws-dkl-9218850.html",
+            "keywords": [
+                "उत्तर प्रदेश"
+            ],
+            "creator": [
+                "News18 Hindi"
+            ],
+            "description": "Ayodhya Parikrama:अयोध्या में 84 कोसी की परिक्रमा 23वें दिन पूरी हुई, जिसमें हजारों साधु-संतों ने रामकोट की परिक्रमा की. यात्रा 12 अप्रैल को शुरू हुई थी और 265 किमी की दूरी तय की.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-04 07:07:28",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.news18.com/ibnkhabar/uploads/2025/05/HYP_5150443_cropped_04052025_100607_img20250504wa0002_watermar_2-3x2.jpg",
+            "video_url": null,
+            "source_id": "hindinews18",
+            "source_name": "News 18 Hindi",
+            "source_priority": 4077,
+            "source_url": "https://hindi.news18.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/hindinews18.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "46f29be321d41a3db86e26ce42ccd10a",
+            "title": "अब चुटकियों में करें मीठे खरबूज की पहचान...यह है खासियत",
+            "link": "https://hindi.news18.com/news/lifestyle/tips-and-tricks-up-mirzapur-trick-tips-to-identify-tips-to-buy-sweet-watermelon-local18-ws-kl-9218897.html",
+            "keywords": [
+                "लाइफ़"
+            ],
+            "creator": [
+                "News18 Hindi"
+            ],
+            "description": "Tricks And Tips: मिर्जापुर के किसान कमलाकांत बिंद ने मीठे खरबूज की पहचान के लिए टिप्स दिए हैं. हल्के हरे रंग और धारी वाले खरबूज मीठे होते हैं. देशी खरबूज हाइब्रिड से ज्यादा मीठे होते हैं.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-04 07:07:25",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.news18.com/ibnkhabar/uploads/2025/05/HYP_5150123_cropped_04052025_003227_20250429_090458_watermark__2-3x2.jpg",
+            "video_url": null,
+            "source_id": "hindinews18",
+            "source_name": "News 18 Hindi",
+            "source_priority": 4077,
+            "source_url": "https://hindi.news18.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/hindinews18.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "lifestyle"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
             "article_id": "7d1349e49f7929175eed90a3e820af9f",
             "title": "Vivo Y19 vs Infinix Note 50x: कोई फोटोग्राफी तो कोई बैटरी चार्जिंग में मार रहा बाज़ी, आपको कौन सा खरीदना चाहिए? जानिए",
             "link": "https://www.digit.in/hi/features/mobile-phones/vivo-y19-vs-infinix-note-50x-which-one-should-you-buy-know-in-detail.html",
