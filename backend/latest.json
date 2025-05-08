@@ -1,6 +1,682 @@
 {
     "articles": [
         {
+            "article_id": "6fc5132cd1aa411f60686ebcb28ffd84",
+            "title": "Godrej Consumer Products reports 65% rise in net profit to Rs 432 crore in Q4 FY25",
+            "link": "https://www.thestatesman.com/business/godrej-consumer-products-reports-65-rise-in-net-profit-to-rs-432-crore-in-q4-fy25-1503429740.html",
+            "keywords": null,
+            "creator": null,
+            "description": "Business, Consumer products, Godrej, Net profit",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-07 16:13:55",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.thestatesman.com/wp-content/uploads/2025/05/Untitled-design-2025-05-07T214319.456-jpg.webp",
+            "video_url": null,
+            "source_id": "thestatesman",
+            "source_name": "The Statesman",
+            "source_priority": 42473,
+            "source_url": "https://www.thestatesman.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/thestatesman.jpg",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "4e92ccf64ff5a9a094f51abb70621a7c",
+            "title": "Two-thirds of adults feel priced out of housing market: Gallup poll",
+            "link": "https://www.washingtontimes.com/news/2025/may/7/two-thirds-adults-feel-priced-housing-market-gallup-poll/",
+            "keywords": null,
+            "creator": [
+                "Sean Salai"
+            ],
+            "description": "A new Gallup poll finds that two-thirds of adults feel priced out of the U.S. housing market, with a record low of 30% saying they will buy a home in the next five years.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-07 16:13:33",
+            "pubDateTZ": "UTC",
+            "image_url": "https://twt-thumbs.washtimes.com/media/image/2025/04/24/Home_Sales_35199_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c=",
+            "video_url": null,
+            "source_id": "washingtontimes",
+            "source_name": "The Washington Times",
+            "source_priority": 9784,
+            "source_url": "https://www.washingtontimes.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/washingtontimes.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "2a1c350a1e2bb0e01cc6ac70ff9928e4",
+            "title": "C-DOT, CSIR-NPL partner to boost quantum, classical communication tech",
+            "link": "https://www.business-standard.com/industry/news/c-dot-csir-npl-partner-to-boost-quantum-classical-communication-tech-125050701723_1.html",
+            "keywords": null,
+            "creator": null,
+            "description": "C-DOT and CSIR-NPL sign MoU to boost indigenous R&D in quantum and classical communication, aiming to enhance India's self-reliance in next-gen secure telecom technologies",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-07 16:13:27",
+            "pubDateTZ": "UTC",
+            "image_url": "https://bsmedia.business-standard.com/_media/bs/img/article/2025-03/02/thumb/fitandfill/1200X630/1740933143-9605.jpg",
+            "video_url": null,
+            "source_id": "business-standard",
+            "source_name": "Business Standard",
+            "source_priority": 9158,
+            "source_url": "https://www.business-standard.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/business-standard.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "business"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "d8891186b9d551a425177d2e94dd425f",
+            "title": "बीकानेर में पंद्रह मिनट का रहा ब्लैक आउट, आमजन ने बंद की लाइटें, देखें वीडियो",
+            "link": "https://khulasaonline.com/there-was-a-blackout-of-fifteen-minutes-in-bikaner-the-public-switched-off-the-lights/",
+            "keywords": [
+                "राजस्थान",
+                "खुलासा",
+                "बीकानेर"
+            ],
+            "creator": [
+                "Khulasa Online"
+            ],
+            "description": "बीकानेर। बीकानेर में बुधवार सायं 8.15 से साढ़े आठ बजे तक ब्लैकआउट रहा। इस दौरान आमजन ने घरों, व्यापारिक प्रतिष्ठान और वाहनों की लाइटें बंद रखकर अपनी भागीदारी निभाई। ब्लैक आउट का साइरन बजने के साथ ही आमजन ने लाइटें बंद कर ली। मुख्य सड़कों पर चलने वाले वाहनों की लाइटें भी बंद रहीं। शहरी [...]",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-07 16:13:27",
+            "pubDateTZ": "UTC",
+            "image_url": "https://khulasaonline.com/wp-content/uploads/2025/05/022-13-81.jpg",
+            "video_url": null,
+            "source_id": "khulasaa_hindi",
+            "source_name": "Khulasaa",
+            "source_priority": 9661192,
+            "source_url": "https://khulasaonline.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/khulasaa_hindi.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "2bc48ea82ebbd9f33766ce8472803e54",
+            "title": "Union Home Minister Amit Shah chairs security review meeting following Operation Sindoor",
+            "link": "https://thenewsmill.com/2025/05/union-home-minister-amit-shah-chairs-security-review-meeting-following-operation-sindoor/",
+            "keywords": [
+                "manipur",
+                "ani",
+                "northeast india"
+            ],
+            "creator": [
+                "ANI"
+            ],
+            "description": "The News Mill",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-07 16:13:23",
+            "pubDateTZ": "UTC",
+            "image_url": "https://thenewsmill.com/wp-content/uploads/2025/05/ANI-20250507161004.jpg",
+            "video_url": null,
+            "source_id": "thenewsmill",
+            "source_name": "The News Mill",
+            "source_priority": 3781717,
+            "source_url": "https://thenewsmill.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/thenewsmill.jpg",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "a2ed337b5f8708aa0266983eae222b6c",
+            "title": "बोर्ड परीक्षा में किसान और क्लर्क के बेटों का कमाल:टॉप टेन में धमतरी के दो होनहार, भविष्य में बनना चाहते हैं IAS और इंजीनियर",
+            "link": "https://www.bhaskar.com/local/chhattisgarh/dhamtari/news/two-students-of-the-district-performed-brilliantly-in-chhattisgarh-board-134983070.html",
+            "keywords": null,
+            "creator": null,
+            "description": "छत्तीसगढ़ माध्यमिक शिक्षा मंडल द्वारा 7 मई को 10वीं और 12वीं बोर्ड परीक्षा के परिणाम घोषित किए गए। राज्य के मुख्यमंत्री विष्णु देव साय ने बटन दबाकर इन नतीजों की घोषणा की। इस वर्ष के टॉप 10 में जिले के दो प्रतिभाशाली छात्रों ने अपनी जगह बनाई है। मगरलोड ब्लॉक के सौरभ जोशी और कुरूद ब्लॉक के समीर साहू ने अपनी मेहनत और लगन से जिले का नाम रोशन किया। इन दोनों छात्रों में से एक किसान का बेटा है। दूसरा छात्र सहकारी समिति में लिपिक के पद पर कार्यरत कर्मचारी का पुत्र है। परिणाम घोषित होते ही दोनों छात्रों के घरों पर बधाई देने वालों की लंबी कतार लग गई। छठवें स्थान पर रहे सौरभ जोशी गगांव के पास स्थित बुडेनी गांव के शासकीय उच्चतर माध्यमिक विद्यालय के छात्र सौरभ जोशी ने 10वीं बोर्ड परीक्षा में 98.33 प्रतिशत अंक (कुल 590 अंक) प्राप्त कर प्रदेश में छठवां स्थान हासिल किया है। उनके पिता डुमन जोशी शासकीय समिति में लिपिक के पद पर कार्यरत हैं। सौरभ का कहना है कि उन्होंने प्रतिदिन 6–7 घंटे पढ़ाई की और मोबाइल का यूज केवल व्हाट्सएप और यूट्यूब से पढ़ने के लिए किया। उनका सपना है गणित विषय लेकर आगे पढ़ाई कर इंजीनियर बनना। समीर साहू को मिला नवां स्थान चरमूड़िया गांव के समीर साहू ने इस वर्ष 10वीं बोर्ड में 97.83% अंक (कुल 587 अंक) प्राप्त किए और प्रदेश में नवां स्थान हासिल किया। समीर का कहना है कि उन्होंने इस वर्ष पढ़ाई को दोगुना कर दिया और प्रतिदिन 8–9 घंटे अध्ययन किया। उनके पिता भूषण साहू खेती करते हैं। समीर के परिवार में दादा-दादी, माता-पिता और भाई-बहन रहते हैं। वे भविष्य में आईएएस अधिकारी बनना चाहते हैं और इसके लिए अभी से तैयारी शुरू कर चुके हैं।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-07 16:13:20",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.bhaskarassets.com/thumb/1000x1000/web2images/521/2025/05/07/7e7a6ff7-c92c-4ebd-a480-604ea97dbbe9_1746632270395.jpg",
+            "video_url": null,
+            "source_id": "bhaskar_hindi",
+            "source_name": "Bhaskar",
+            "source_priority": 34179,
+            "source_url": "https://www.bhaskar.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/bhaskar_hindi.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "domestic",
+                "other"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "485191a5409a3c5f96390bfeba8aab46",
+            "title": "Leopards: Ghosts of the jungle",
+            "link": "https://www.siasat.com/leopards-ghosts-of-the-jungle-3217797/",
+            "keywords": [
+                "leopards",
+                "jungle",
+                "featured news",
+                "wildlife",
+                "india"
+            ],
+            "creator": null,
+            "description": "In the shadows of skyscrapers and the tantrums of traffic, a supple spotted ghost moves with silent purpose. This is no myth — it’s the Indian Leopard, one of the most adaptable and misunderstood big cats on earth. And nowhere is its paradox more vivid than in Mumbai’s Sanjay Gandhi National Park. Hemmed in by ...Get the latest updates in Hyderabad City News, Technology, Entertainment, Sports, Politics and Top Stories on WhatsApp & Telegram by subscribing to our channels. You can also download our app for Android and iOS.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-07 16:13:19",
+            "pubDateTZ": "UTC",
+            "image_url": "https://cdn.siasat.com/wp-content/uploads/2025/05/leopard-shivakumar.jpg",
+            "video_url": null,
+            "source_id": "siasat",
+            "source_name": "Siasat.com",
+            "source_priority": 30879,
+            "source_url": "https://www.siasat.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/siasat.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "a7be026cf27abeba7027f4c5b7d53a3a",
+            "title": "Modi's Op Sindoor Gets Thumbs up from Israel but 'Sultan' & Arabs on Edge",
+            "link": "https://www.thequint.com/opinion/pakistan-strike-israel-supports-operation-sindoor-arab-world-turkey-neutral",
+            "keywords": [
+                "world",
+                "opinion"
+            ],
+            "creator": [
+                "Aditi Bhaduri"
+            ],
+            "description": "The Netanyahu-led Israeli govt has supported India's 'right for self-defence'. Turkey's Erdogan has rallied for Pak.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-07 16:13:19",
+            "pubDateTZ": "UTC",
+            "image_url": "https://media.assettype.com/thequint%2F2025-05-07%2Fzzr1mjy2%2Fcountries-hero.jpg?auto=format%2Ccompress&fmt=webp&w=1200&width=720",
+            "video_url": null,
+            "source_id": "thequint",
+            "source_name": "The Quint",
+            "source_priority": 9980,
+            "source_url": "https://www.thequint.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/thequint.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "a6a5d41a5d6bd0a6743475cab5187b7a",
+            "title": "आरएएस भर्ती-2023:- 19 से 28 मई तक आयोजित होगा साक्षात्कार का तृतीय चरण",
+            "link": "https://ajmernama.com/ajmer/431107/",
+            "keywords": [
+                "अजमेर"
+            ],
+            "creator": [
+                "associate"
+            ],
+            "description": "अजमेर, 7 मई। राजस्थान लोक सेवा आयोग द्वारा बुधवार को राजस्थान राज्य एवं अधीनस्थ सेवाएं भर्ती-2023 के अन्तर्गत साक्षात्कार के तृतीय चरण का कार्यक्रम जारी किया गया है। अभ्यर्थियों के साक्षात्कार पत्र आयोग की वेबसाइट पर यथा समय अपलोड कर दिए जाएंगे। विस्तृत सूचना आयोग की वेबसाइट पर उपलब्ध है। आयोग सचिव ने बताया कि ... Read more",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-07 16:13:18",
+            "pubDateTZ": "UTC",
+            "image_url": "https://ajmernama.com/wp-content/uploads/2015/08/RPSC-450-300x213.jpg",
+            "video_url": null,
+            "source_id": "ajmernama",
+            "source_name": "Ajmernama",
+            "source_priority": 38918446,
+            "source_url": "http://www.ajmernama.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/ajmernama.jpg",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "84c9edc4e8e2a9f7f33800f67981bbe2",
+            "title": "Air France adds Kannada announcements on Paris-Bengaluru flights",
+            "link": "https://timesofindia.indiatimes.com/city/bengaluru/air-france-adds-kannada-announcements-on-paris-bengaluru-flights/articleshow/120970556.cms",
+            "keywords": null,
+            "creator": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-07 16:13:16",
+            "pubDateTZ": "UTC",
+            "image_url": "https://static.toiimg.com/thumb/msid-120970555,imgsize-23554,width-400,height-225,resizemode-72/Air-France-adds-Kannada-announcements-on-Paris-Bengaluru-flights.jpg",
+            "video_url": null,
+            "source_id": "toi",
+            "source_name": "The Times Of India",
+            "source_priority": 239,
+            "source_url": "https://timesofindia.indiatimes.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/toi.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "business"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "92faa637abdad9e763df441f3c9ce778",
+            "title": "Terrorism must be met ‘lethally’, say security experts amid India-Pakistan tensions",
+            "link": "https://www.cnbctv18.com/india/operation-sindoor-india-retaliatory-strikes-pakistan-terror-camps-19600875.htm",
+            "keywords": [
+                "video"
+            ],
+            "creator": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-07 16:13:15",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.cnbctv18.com/uploads/2023/08/india-pakistan1.jpg",
+            "video_url": null,
+            "source_id": "cnbctv18",
+            "source_name": "Cnbctv18",
+            "source_priority": 17950,
+            "source_url": "https://www.cnbctv18.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/cnbctv18.jpg",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "other"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "95a42e7f73d499bb503877e5d0a207c9",
+            "title": "Congress District Heads To Be Appointed In Two Weeks, State In-Charge Held Meetings Of Several Committees",
+            "link": "https://www.freepressjournal.in/bhopal/congress-district-heads-to-be-appointed-in-two-weeks-state-in-charge-held-meetings-of-several-committees",
+            "keywords": [
+                "topnews",
+                "bhopal news"
+            ],
+            "creator": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-07 16:13:13",
+            "pubDateTZ": "UTC",
+            "image_url": "https://media.assettype.com/freepressjournal/2023-01/0d590099-ae82-4fbf-85c2-5dafe6408a5b/congress_flag.jpg",
+            "video_url": null,
+            "source_id": "freepressjournal",
+            "source_name": "The Free Press Journal",
+            "source_priority": 26427,
+            "source_url": "https://www.freepressjournal.in",
+            "source_icon": "https://i.bytvi.com/domain_icons/freepressjournal.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "b4829214755a8fbf114d033fc489318a",
+            "title": "Bihar News: बिहार के लापरवाह अफसरों को मिली कार्रवाई की चेतावनी, सचिव ने किया जवाब तलब",
+            "link": "https://www.jagran.com/bihar/patna-city-answers-sought-from-careless-officers-of-bihar-secretary-warns-of-action-23933103.html",
+            "keywords": null,
+            "creator": null,
+            "description": "पंचायत सरकार भवन निर्माण कार्य की समीक्षा के दौरान कहा गया कि जिन ग्राम पंचायतों में पंचायत सरकार भवन के निर्माण हेतु जमीन उपलब्ध नहीं हैं वहां दान में जमीन प्राप्त करने की विशेष पहल की जाए। साथ ही उत्तर बिहार में पंचायतीराज विभाग पांच जिलों की प्रगति जहां निरंतर कम है वहां के अफसरों से स्पष्टीकरण मांगने के निर्देश दिए।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-07 16:13:07",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.jagranimages.com/images/newimg/07052025/07_05_2025-leader_23933103_m.webp",
+            "video_url": null,
+            "source_id": "jagran",
+            "source_name": "ताजा हिंदी ख़बरें",
+            "source_priority": 6734,
+            "source_url": "https://www.jagran.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/jagran.jpg",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "domestic"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "05f47ed4c95c4a5bc78d7fe2d71bb8c3",
+            "title": "Odisha: Mock drill conducted in Bhubaneswar to test emergency preparedness",
+            "link": "https://thenewsmill.com/2025/05/odisha-mock-drill-conducted-in-bhubaneswar-to-test-emergency-preparedness/",
+            "keywords": [
+                "manipur",
+                "ani",
+                "northeast india"
+            ],
+            "creator": [
+                "ANI"
+            ],
+            "description": "The News Mill",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-07 16:13:06",
+            "pubDateTZ": "UTC",
+            "image_url": "https://thenewsmill.com/wp-content/uploads/2025/05/ANI-20250507160853.jpg",
+            "video_url": null,
+            "source_id": "thenewsmill",
+            "source_name": "The News Mill",
+            "source_priority": 3781717,
+            "source_url": "https://thenewsmill.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/thenewsmill.jpg",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "76a0f21becf1ad0814fdbecb25786294",
+            "title": "कैडेंस मिनरल्स ने लियोनोरा प्रोजेक्ट अधिग्रहण विवरण का हिस्सा वापस लिया",
+            "link": "https://hi.investing.com/news/company-news/article-93CH-466209",
+            "keywords": null,
+            "creator": [
+                "Investing.com"
+            ],
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-07 16:13:06",
+            "pubDateTZ": "UTC",
+            "image_url": "https://i-invdn-com.investing.com/news/news_headline_rolled_108x81.jpg",
+            "video_url": null,
+            "source_id": "investing_hi",
+            "source_name": "Investing भारत",
+            "source_priority": 1143,
+            "source_url": "https://hi.investing.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/investing_hi.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "b4a3968bcd6dd98199b644e240765de0",
+            "title": "रीट 2024 का रिजल्ट कल इस समय होगी जारी, 14 लाख से ज्यादा छात्रों को नतीजों का बेसब्री से इंतजार",
+            "link": "https://www.abplive.com/education/results/reet-2024-result-released-tomorrow-at-this-time-more-than-14-lakh-students-rajeduboard-rajasthan-gov-in-reet2024-co-in-2939535",
+            "keywords": [
+                "results"
+            ],
+            "creator": [
+                "एबीपी लाइव"
+            ],
+            "description": "राजस्थान में शिक्षक बनने का सपना देखने वाले लाखों युवाओं का इंतजार अब खत्म होने वाला है. राजस्थान माध्यमिक शिक्षा बोर्ड (RBSE) की ओर से आयोजित रीट (राजस्थान अध्यापक पात्रता परीक्षा) 2024 का परिणाम गुरुवार को दोपहर 3:15 बजे जारी किया जाएगा. इस बात की जानकारी खुद बोर्ड सचिव कैलाश चंद्र शर्मा ने दी है. उन्होंने बताया कि परीक्षा परिणाम की घोषणा बोर्ड प्रशासक महेश चंद्र शर्मा द्वारा की जाएगी.कितने छात्रों ने दी थी परीक्षा?रीट परीक्षा का आयोजन इस बार 27 और 28 फरवरी 2024 को तीन पारियों में किया गया था. परीक्षा में इस बार अभ्यर्थियों की संख्या ने सारे रिकॉर्ड तोड़ दिए. कुल 14,29,822 परीक्षार्थियों ने पंजीकरण कराया था. यह परीक्षा राज्य के सरकारी स्कूलों में प्राथमिक (कक्षा 1 से 5) और उच्च प्राथमिक (कक्षा 6 से 8) स्तर के शिक्षकों की भर्ती के लिए जरूरी होती है.लेवल-1 के लिए: 3,46,625 अभ्यर्थीलेवल-2 के लिए: 9,68,501 अभ्यर्थीदोनों लेवल के लिए: 1,14,696 अभ्यर्थी शामिल थेयह भी पढ़ें- CISF के DG की सैलरी कितनी होती है? 8वें वेतन आयोग के बाद कितनी बढ़ेगी, जानिए पूरी डिटेलकहां और कैसे देखें रिजल्ट?बोर्ड द्वारा परीक्षा की कॉपियों की जांच समय पर पूरी कर ली गई है. अब परीक्षार्थी अपने परिणाम का इंतजार कर रहे हैं. रिजल्ट जारी होने के बाद सभी अभ्यर्थी RBSE की आधिकारिक वेबसाइट rajeduboard.rajasthan.gov.in और reet2024.co.in पर जाकर अपना स्कोर कार्ड डाउनलोड कर सकते हैं. इसके लिए रोल नंबर और अन्य जरूरी जानकारी दर्ज करनी होगी.अफवाहों से रहें सावधानबोर्ड ने सभी परीक्षार्थियों से अपील की है कि वे रिजल्ट से जुड़ी किसी भी तरह की अफवाहों या फर्जी खबरों पर ध्यान न दें. सिर्फ बोर्ड की वेबसाइट और आधिकारिक सूचना पर ही भरोसा करें. रीट रिजल्ट 2024 के जारी होने के साथ ही सफल अभ्यर्थियों के लिए शिक्षक भर्ती प्रक्रिया का रास्ता साफ हो जाएगा.यह भी पढ़ें- Operation Sindoor: ‘ऑपरेशन सिंदूर’ के बाद बढ़ी फाइटर पायलट बनने की चाहत, जानें कैसे बनें भारतीय वायुसेना के योद्धा",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-07 16:13:05",
+            "pubDateTZ": "UTC",
+            "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2025/05/07/e9d9921dd56c5a7561b73021e4b718f41746634353101349_original.jpeg",
+            "video_url": null,
+            "source_id": "abplive",
+            "source_name": "Abp News",
+            "source_priority": 7754,
+            "source_url": "http://abplive.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/abplive.jpg",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "education"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "ebeb6ca52bc8fcc00d1f31514ad223e6",
+            "title": "Lucky Rashi Today: 8 मई 2025 को किसे मिलेगा प्रमोशन-किसकी जेब में आएगा पैसा?",
+            "link": "https://hindi.asianetnews.com/astrology/rashifal/aaj-ka-rashifal-lucky-zodiac-signs-today-8-may-2025-know-which-lucky-rashi-in-hindi/articleshow-kaxxh9u",
+            "keywords": [
+                "horoscope"
+            ],
+            "creator": [
+                "Manish Meharele"
+            ],
+            "description": "Lucky Rashi Today: 8 मई को मेष, मिथुन, सिंह, कन्या, मीन राशि वालों के लिए शुभ दिन है। नौकरी में तरक्की, सम्मान, खुशहाली, शुभ समाचार और धन लाभ की संभावना है। सेहत में सुधार, सरकारी योजनाओं का लाभ और संतान की सफलता से खुशियाँ बढ़ेंगी।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-07 16:12:58",
+            "pubDateTZ": "UTC",
+            "image_url": "https://static-gi.asianetnews.com/images/01jtnr01tym5056s3r23dd4tme/lucky-rashifal-8-may-2025-1746634016606.jpg",
+            "video_url": null,
+            "source_id": "hindi_asianetnews",
+            "source_name": "Asianet News Hindi",
+            "source_priority": 7805,
+            "source_url": "https://hindi.asianetnews.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/hindi_asianetnews.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "664111f86ea956a651d96850e7d69332",
+            "title": "पाकिस्तान पर एयर स्ट्राइक का जश्न:हवामहल पर पर्यटकों और रनर्स क्लब के सदस्यों ने लगाए भारत माता की जय के नारे",
+            "link": "https://www.bhaskar.com/local/rajasthan/jaipur/news/celebration-of-air-strike-on-pakistan-134983068.html",
+            "keywords": null,
+            "creator": null,
+            "description": "जयपुर के प्रसिद्ध पर्यटन स्थल हवामहल पर आज पर्यटकों और जयपुर रनर्स क्लब के सदस्यों ने एकत्रित होकर भारतीय वायुसेना की एयर स्ट्राइक की सफलता का जश्न मनाया। यहां मौजूद लोगों ने देशभक्ति की भावना से ओतप्रोत होकर भारत माता की जय के नारे लगाए। स्थानीय लोगों और पर्यटकों ने एकजुटता दिखाते हुए राष्ट्रीय सुरक्षा के प्रति अपना समर्थन व्यक्त किया। जयपुर रनर्स क्लब के सदस्यों ने इस अवसर पर तिरंगा लहराया और राष्ट्रगान का गायन किया। हवामहल की ऐतिहासिक पृष्ठभूमि में यह समारोह देशभक्ति की भावना का प्रतीक बन गया। यह जश्न भारतीय वायुसेना द्वारा की गई सटीक कार्रवाई का प्रतीक है, जिसने देश की सुरक्षा को सुनिश्चित किया। कार्यक्रम में शामिल लोगों ने सशस्त्र बलों के प्रति आभार व्यक्त किया और उनके साहस की सराहना की।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-07 16:12:56",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.bhaskarassets.com/thumb/1000x1000/web2images/521/2025/05/07/8d0ea2e7-3901-4b3b-a013-91bbf72ddc69_1746633831383.jpg",
+            "video_url": null,
+            "source_id": "bhaskar_hindi",
+            "source_name": "Bhaskar",
+            "source_priority": 34179,
+            "source_url": "https://www.bhaskar.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/bhaskar_hindi.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "domestic",
+                "other"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "04d26261cae223c7cd59ba6926f7b012",
+            "title": "Meta removes over 23,000 Facebook Pages, accounts linked to investment scams",
+            "link": "https://www.dtnext.in/technology/meta-removes-over-23000-facebook-pages-accounts-linked-to-investment-scams-832839",
+            "keywords": [
+                "technology"
+            ],
+            "creator": [
+                "PTI"
+            ],
+            "description": "The scammers redirected people to messaging apps for 'investment advice' and, in some cases, to a fake website that mimicked the Google Play store to download scam gambling apps",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-07 16:12:54",
+            "pubDateTZ": "UTC",
+            "image_url": "https://media.dtnext.in/h-upload/2023/11/03/750x450_776733-fbmeta.webp",
+            "video_url": null,
+            "source_id": "dtnext",
+            "source_name": "Dt Next",
+            "source_priority": 113678,
+            "source_url": "https://www.dtnext.in",
+            "source_icon": "https://i.bytvi.com/domain_icons/dtnext.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": true
+        },
+        {
+            "article_id": "6661bfbd6741a8b26ee1b6dcc7a486b3",
+            "title": "Cardinals locked inside Sistine Chapel as conclave begins",
+            "link": "https://timesofindia.indiatimes.com/world/europe/cardinals-locked-inside-sistine-chapel-as-conclave-begins/articleshow/120970553.cms",
+            "keywords": null,
+            "creator": null,
+            "description": "Cardinals have commenced the conclave in Vatican City to choose the next Pope after the death of Francis. The 133 cardinals are locked in the Sistine Chapel. They will vote in secrecy. The world awaits white smoke signaling the election of a new leader for 1.4 billion Catholics. Challenges include internal divisions and global issues.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-07 16:12:52",
+            "pubDateTZ": "UTC",
+            "image_url": "https://static.toiimg.com/thumb/msid-120970612,width-1070,height-580,imgsize-75324,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "video_url": null,
+            "source_id": "toi",
+            "source_name": "The Times Of India",
+            "source_priority": 239,
+            "source_url": "https://timesofindia.indiatimes.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/toi.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
             "article_id": "730a52a3ff9421f9836b2c0a27ec21c1",
             "title": "मिर्जापुर के विंध्याचल धाम में मोबाइल स्नैचर गिरफ्तार:आरोपी से अवैध तमंचा, कारतूस और चोरी का मोबाइल बरामद",
             "link": "https://www.bhaskar.com/local/uttar-pradesh/mirzapur/news/mobile-snatcher-arrested-in-vindhyachal-134982969.html",
@@ -22780,677 +23456,6 @@
             "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
             "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
             "duplicate": true
-        },
-        {
-            "article_id": "8a6cecac1f86eb3c536be790a37045f6",
-            "title": "India-Pakistan Tensions | केंद्रीय गृह सचिव सिविल डिफेंस पर करेंगे बैठक, 244 जिलों में मॉक ड्रिल होगी",
-            "link": "https://www.prabhasakshi.com/national/union-home-secretary-hold-meeting-on-civil-defence-mock-drills-will-conducted-in-244-districts",
-            "keywords": null,
-            "creator": [
-                "प्रभासाक्षी न्यूज नेटवर्क"
-            ],
-            "description": "पहलगाम में हुए आतंकी हले के बाद से ही भारत और पाकिस्तान के बीच हालात काफी तनाव भरे हो गये हैं। पाकिस्तान तो अपनी तोपे भी तैयार करके बैठा है और रोजाना हमला करने की धमकी देता रहा है। अब भारत और पाकिस्तान के बीच बढ़ते तनाव के बीच भारत के गृह सचिव गोविंद मोहन ने सिविल डिफेंस को लेकर मंगलवार को सुबह 10:45 बजे बैठक बुलाई है। केंद्रीय गृह मंत्रालय ने राज्यों से नागरिक सुरक्षा तैयारियों का मूल्यांकन करने के लिए कल मॉक ड्रिल आयोजित करने को कहा है। इसने देश के 244 वर्गीकृत नागरिक सुरक्षा जिलों में नागरिक सुरक्षा अभ्यास और रिहर्सल आयोजित करने का निर्णय लिया है। अभ्यास का आयोजन गांव स्तर तक करने की योजना बनाई गई है।वीडियो कॉन्फ्रेंसिंग के जरिए राज्यों के मुख्य सचिवों से होगी चर्चाकेंद्रीय गृह सचिव गोविंद मोहन भी आज वीडियो कॉन्फ्रेंसिंग के जरिए राज्यों के मुख्य सचिवों के साथ नागरिक सुरक्षा मॉक ड्रिल पर बैठक करने वाले हैं। हमारे संवाददाता ने बताया कि नागरिक सुरक्षा अभ्यास का उद्देश्य विभिन्न नागरिक सुरक्षा उपायों की परिचालन प्रभावकारिता और समन्वय का आकलन करना है। इससे पहले गृह मंत्रालय (एमएचए) ने पहलगाम आतंकी हमले के बाद पाकिस्तान के साथ बढ़ते तनाव के बीच उभरे \"नए और जटिल खतरों\" के मद्देनजर सभी राज्यों से बुधवार को मॉक ड्रिल करने को कहा था।सिविल डिफेंस मॉक ड्रिल के दौरान किए जाने वाले उपायएमएचए के मुताबिक, मॉक ड्रिल के दौरान किए जाने वाले उपायों में हवाई हमले की चेतावनी देने वाले सायरन का संचालन, \"शत्रुतापूर्ण हमले\" की स्थिति में खुद को बचाने के लिए सिविल डिफेंस पहलुओं पर नागरिकों को प्रशिक्षण देना और बंकरों और खाइयों की सफाई करना शामिल है।अग्निशमन सेवा, नागरिक सुरक्षा और होमगार्ड महानिदेशालय के पत्र में कहा गया है, \"वर्तमान भू-राजनीतिक परिदृश्य में, नए और जटिल खतरे/चुनौतियाँ उभरी हैं; इसलिए, यह समझदारी होगी कि राज्यों/केंद्र शासित प्रदेशों में हर समय इष्टतम नागरिक सुरक्षा तैयारियाँ बनाए रखी जाएँ।\" इसे भी पढ़ें: Khelo India Games में Esports को मिला बड़ा मंच, BGMI-शतरंज सहित कई खेल होंगे शामिल मॉक ड्रिल में भारतीय वायु सेना (IAF) के साथ हॉटलाइन और रेडियो-संचार लिंक का संचालन, नियंत्रण कक्षों और छाया नियंत्रण कक्षों की कार्यक्षमता का परीक्षण भी शामिल होगा। पत्र में आगे कहा गया है, \"अभ्यास के संचालन की योजना गाँव स्तर तक बनाई गई है। नागरिक सुरक्षा तंत्र की तत्परता का आकलन होगा मॉक ड्रिल मकदसइस अभ्यास का उद्देश्य सभी राज्यों और केंद्र शासित प्रदेशों में नागरिक सुरक्षा तंत्र की तत्परता का आकलन करना और उसे बढ़ाना है।\" अधिकारियों से लेकर छात्रों तक: ड्रिल में मुख्य प्रतिभागी इसमें कहा गया है कि अभ्यास में जिला नियंत्रकों, विभिन्न जिला अधिकारियों, नागरिक सुरक्षा वार्डन, स्वयंसेवकों, होमगार्ड (सक्रिय और आरक्षित स्वयंसेवक), राष्ट्रीय कैडेट कोर (एनसीसी), राष्ट्रीय सेवा योजना (एनएसएस), नेहरू युवा केंद्र संगठन (एनवाईकेएस) और कॉलेज और स्कूली छात्रों की भागीदारी की परिकल्पना की गई है। यह घोषणा सोमवार को गृह सचिव गोविंद मोहन द्वारा राष्ट्रीय राजधानी में प्रधानमंत्री नरेंद्र मोदी से मुलाकात के बाद की गई। इसे भी पढ़ें: पाकिस्तान को बड़ा झटका! UNSC वाली चाल भी निकली फुस्सस... जनरल मुनीर के सैनिक क्या प्यासे करेंगे भारत से जंग? प्रधानमंत्री उच्चस्तरीय बैठकें कर रहे हैंप्रधानमंत्री मोदी शीर्ष रक्षा अधिकारियों के साथ कई उच्चस्तरीय बैठकें कर रहे हैं, क्योंकि भारत 22 अप्रैल को दक्षिण कश्मीर के पहलगाम में हुए आतंकवादी हमले के खिलाफ जवाबी कार्रवाई पर विचार कर रहा है, जिसमें 26 निर्दोष लोगों की जान चली गई थी।",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-06 04:12:00",
-            "pubDateTZ": "UTC",
-            "image_url": "https://images.prabhasakshi.com/2025/5/6/india-pakistan-tensions_large_0943_21.webp",
-            "video_url": null,
-            "source_id": "prabhasakshi",
-            "source_name": "Prabhasakshi",
-            "source_priority": 336467,
-            "source_url": "https://www.prabhasakshi.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/prabhasakshi.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "6db707ba26df5901691ddb8e486182a9",
-            "title": "Tiger Shroff Embraces Environmental Cause In New Project 'Jahaan – The Last Gift",
-            "link": "https://zeenews.india.com/people/tiger-shroff-embraces-environmental-cause-in-new-project-jahaan-the-last-gift-2896413.html",
-            "keywords": null,
-            "creator": [
-                "Zee News"
-            ],
-            "description": "Following its official screening at the WAVES Summit 2025, the teaser of the thought-provoking short film \"Jahaan- The Last Gift\" was unveiled on Monday by actor Tiger Shroff across his social media platforms.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-06 04:12:00",
-            "pubDateTZ": "UTC",
-            "image_url": "https://english.cdn.zeenews.com/sites/default/files/styles/zm_700x400/public/2025/05/06/1742360-tiger.jpg?im=Resize%3D%28400%29",
-            "video_url": null,
-            "source_id": "zeenews",
-            "source_name": "Zee News",
-            "source_priority": 5319,
-            "source_url": "http://zeenews.india.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/zeenews.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "entertainment"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "eebd49c1ed764c34b379cbc747092641",
-            "title": "पति की मौत, पत्नी ने बच्चों संग खाया जहर:महोबा में महिला और दो बच्चे अस्पताल में भर्ती, सुसाइड नोट मिला",
-            "link": "https://www.bhaskar.com/local/uttar-pradesh/mahoba/news/husband-died-wife-consumed-poison-along-with-children-134974191.html",
-            "keywords": null,
-            "creator": null,
-            "description": "सुभाष नगर लौड़ी तिराहा इलाके में एक महिला ने अपने दो मासूम बच्चों के साथ ज़हर खा लिया। बताया जा रहा है कि महिला पति की मौत से बेहद आहत थी और लंबे समय से मानसिक तनाव में जी रही थी। गनीमत रही कि पड़ोसियों की सतर्कता से पुलिस समय पर मौके पर पहुंच गई और तीनों की जान बच गई। 32 वर्षीय वंदना प्रजापति अपनी 12 साल की बेटी अंशिका और 8 साल के बेटे अंश के साथ किराए के मकान में रह रही थीं। कुछ समय से वह मायके में थीं और हाल ही में पति के मृत्यु प्रमाण पत्र से जुड़े काम के लिए महोबा आई थीं। उन्होंने एक रात किराए के मकान में रुकने की बात कही थी। किसी को अंदाजा नहीं था कि वह ऐसा कदम उठा लेंगी। पांच मार्च को सड़क हादसे में हुई थी पति की मौत वंदना के पति मनोज प्रजापति की मौत 5 मार्च को चरखारी क्षेत्र के महाराजपुर कुम्हारन डेरा में सड़क हादसे में हो गई थी। इस हादसे के बाद से वंदना बुरी तरह टूट गई थीं। ऊपर से ससुराल पक्ष का साथ छोड़ देना उनकी मानसिक स्थिति को और खराब कर गया। वे बच्चों के साथ अकेली जिंदगी जीने को मजबूर थीं। सुसाइड नोट में लिखा- अकेलापन और चिंता से थी परेशान घटना के बाद पुलिस को एक सुसाइड नोट मिला है, जिसमें वंदना ने लिखा कि पति की मौत के बाद वह अंदर से टूट गई हैं। बच्चे भी पिता को बहुत याद करते हैं। अकेलापन, उपेक्षा और भविष्य की चिंता ने उन्हें इस आत्मघाती कदम के लिए मजबूर कर दिया। पुलिस जांच में जुटी, तीनों की हालत स्थिर सूचना मिलते ही एएसपी वंदना सिंह मौके पर पहुंचीं और जांच शुरू की। उन्होंने बताया कि महिला अवसाद की शिकार थी। फिलहाल तीनों का इलाज जिला अस्पताल में चल रहा है और हालत स्थिर बताई जा रही है। पुलिस पूरे मामले की गंभीरता से जांच कर रही है।",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-06 04:11:59",
-            "pubDateTZ": "UTC",
-            "image_url": "https://images.bhaskarassets.com/thumb/1000x1000/web2images/521/2025/05/06/c60c0ac3-286a-4d9f-b9d0-b62801108aeb_1746504058420.jpg",
-            "video_url": null,
-            "source_id": "bhaskar_hindi",
-            "source_name": "Bhaskar",
-            "source_priority": 34179,
-            "source_url": "https://www.bhaskar.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/bhaskar_hindi.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top",
-                "domestic"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "c9ab2bb9819590b01140172f1c153758",
-            "title": "दवा खाकर लिखी थी 10वीं की परीक्षा... फिर हो गई मौत, 17 दिन बाद आया बेटी का रिजल्ट; जिसने भी देखा रो पड़ा",
-            "link": "https://www.tv9hindi.com/state/west-bengal/10th-class-student-died-due-to-illness-17-days-before-result-she-topped-her-school-3272904.html",
-            "keywords": null,
-            "creator": [
-                "TV9 Bharatvarsh"
-            ],
-            "description": "पश्चिम बंगाल बोर्ड परीक्षा की 10वीं कक्षा का रिजल्ट जारी कर दिया गया है. आसनसोल के उमारानी गोराई महिला कल्याण स्कूल में थैबी नाम की लड़की ने टॉप किया, लेकिन जैसे ही उसका रिजल्ट आया. उसके परिवार वाले फूट-फूटकर रोने लगे. क्योंकि बच्ची की रिजल्ट आने से 17 दिन पहले बीमारी के चलते मौत हो गई.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-06 04:11:58",
-            "pubDateTZ": "UTC",
-            "image_url": "https://images.tv9hindi.com/wp-content/uploads/2025/05/w-b.jpg",
-            "video_url": null,
-            "source_id": "tv9bharatvarsh",
-            "source_name": "Tv9 Bharatvarsh",
-            "source_priority": 40538658,
-            "source_url": "https://www.tv9hindi.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/tv9bharatvarsh.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "domestic"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "5a377d510cb5ed2427b071cd012a9481",
-            "title": "Tripura CM Manik Saha attends blood donation camp in Agartala",
-            "link": "https://www.sentinelassam.com/north-east-india-news/tripura-news/tripura-cm-manik-saha-attends-blood-donation-camp-in-agartala",
-            "keywords": null,
-            "creator": [
-                "Sentinel Digital Desk"
-            ],
-            "description": null,
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-06 04:11:56",
-            "pubDateTZ": "UTC",
-            "image_url": "https://media.assettype.com/sentinelassam-english%2F2025-05-05%2Fa8zggfj9%2FTripura-chief-minister-Dr-Manik-Saha-said-that-eve1746076108410.jpg?auto=format%2Ccompress&fit=max&w=480",
-            "video_url": null,
-            "source_id": "sentinel",
-            "source_name": "The Sentinel",
-            "source_priority": 177615,
-            "source_url": "https://www.sentinelassam.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/sentinel.jpg",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": true
-        },
-        {
-            "article_id": "872c14e2b1587767b87df981e2f11cc1",
-            "title": "TGPCB to host competitions ahead of World Environment Day",
-            "link": "https://www.thehansindia.com/telangana/tgpcb-to-host-competitions-ahead-of-world-environment-day-968625",
-            "keywords": [
-                "telangana,news,state"
-            ],
-            "creator": [
-                "The Hans India"
-            ],
-            "description": null,
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-06 04:11:56",
-            "pubDateTZ": "UTC",
-            "image_url": "https://assets.thehansindia.com/h-upload/2025/05/06/1548424-tgpcb.webp",
-            "video_url": null,
-            "source_id": "thehansindia",
-            "source_name": "The Hans India",
-            "source_priority": 41360,
-            "source_url": "http://www.thehansindia.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/thehansindia.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "fea86115003c93cad5a66b2f571d67be",
-            "title": "शादी समारोह में पानी की मोटर के पास निकले दो कोबरा,रेस्क्यू कर जंगल में छोड़ा",
-            "link": "https://hindi.news18.com/news/rajasthan/jodhpur-two-cobras-were-found-near-a-water-motor-causing-panic-in-jodhpur-rescue-operation-lasted-for-half-an-hour-local18-ws-l-9222693.html",
-            "keywords": [
-                "राजस्थान"
-            ],
-            "creator": [
-                "News18 Hindi"
-            ],
-            "description": "Jodhpur News: इस्माइल खान ने बताया कि गर्मी के मौसम में सांप ठंडी और नम जगहों की तलाश में बाहर निकलते हैं.विवाह स्थल पर पानी की मोटर और पाइपलाइन की नमी उन्हें आकर्षित कर सकती है. उन्होंने आम जनता से अपील की कि यदि कहीं सांप दिखाई दे तो घबराएं नहीं और विशेषज्ञों को तुरंत सूचना दें.रेस्क्यू के बाद दोनों कोबरा सांपों को सुरक्षित रूप से पास के जंगल में छोड़ दिया गया.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-06 04:11:54",
-            "pubDateTZ": "UTC",
-            "image_url": "https://images.news18.com/ibnkhabar/uploads/2025/05/HYP_5154279_cropped_06052025_073802_20250506_071619_0000_water_2-3x2.jpg",
-            "video_url": null,
-            "source_id": "hindinews18",
-            "source_name": "News 18 Hindi",
-            "source_priority": 4077,
-            "source_url": "https://hindi.news18.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/hindinews18.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "6d1f1297557d4d54e113f8b7244b3851",
-            "title": "Coforge shares may rise another 30%, say analysts covering the stock after Q4 results",
-            "link": "https://www.cnbctv18.com/market/coforge-share-price-q4-results-reaction-brokerage-target-upside-potential-buy-or-sell-19599506.htm",
-            "keywords": [
-                "market"
-            ],
-            "creator": null,
-            "description": null,
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-06 04:11:54",
-            "pubDateTZ": "UTC",
-            "image_url": "https://images.cnbctv18.com/uploads/2024/09/stock-market-sep13-2024-09-b8259fbf13ccbb31ca658c1bd580bb93.jpg",
-            "video_url": null,
-            "source_id": "cnbctv18",
-            "source_name": "Cnbctv18",
-            "source_priority": 17950,
-            "source_url": "https://www.cnbctv18.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/cnbctv18.jpg",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "business"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "3232f29fad2cfeef8bab3bddc8038f74",
-            "title": "Donnarumma Standing Tall For Champions League Final-Bound PSG",
-            "link": "https://sports.ndtv.com/football/gianluigi-donnarumma-standing-tall-for-champions-league-final-bound-psg-8340057",
-            "keywords": [
-                "football"
-            ],
-            "creator": null,
-            "description": "The form of goalkeeper Gianluigi Donnarumma has been just as important in taking the French giants to the brink of the final.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-06 04:11:52",
-            "pubDateTZ": "UTC",
-            "image_url": "https://c.ndtvimg.com/2025-05/h12qhkf_gianluigi-donnarumma_625x300_06_May_25.jpg?im=FeatureCrop%2Calgorithm%3Ddnn%2Cwidth%3D806%2Cheight%3D605",
-            "video_url": null,
-            "source_id": "ndtv",
-            "source_name": "Ndtv",
-            "source_priority": 1204,
-            "source_url": "http://www.ndtv.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/ndtv.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "657b6a38740a5edb9f82e0d85e334b85",
-            "title": "Six Sixes! Riyan Parag hits an IPL first",
-            "link": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/six-sixes-riyan-parag-hits-an-ipl-first/articleshow/120919217.cms",
-            "keywords": null,
-            "creator": null,
-            "description": "Riyan Parag's explosive batting display, featuring a record-breaking six consecutive sixes, wasn't enough to secure a win for Rajasthan Royals against Kolkata Knight Riders. Parag's remarkable innings fulfilled a two-year-old prophecy he made on social media. Despite his valiant effort of 95 runs off 45 balls, Royals fell short by one run while chasing a target of 207.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-06 04:11:51",
-            "pubDateTZ": "UTC",
-            "image_url": "https://static.toiimg.com/thumb/msid-120919202,width-1070,height-580,imgsize-66330,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-            "video_url": null,
-            "source_id": "toi",
-            "source_name": "The Times Of India",
-            "source_priority": 239,
-            "source_url": "https://timesofindia.indiatimes.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/toi.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "3c10bebed54dbdd371585c9777304b22",
-            "title": "Sidharth Malhotra carries mom-to-be Kiara Advani’s bag in New York",
-            "link": "https://www.siasat.com/sidharth-malhotra-carries-mom-to-be-kiara-advanis-bag-in-new-york-3216928/",
-            "keywords": [
-                "new york",
-                "entertainment",
-                "met gala",
-                "bollywood",
-                "kiara advani",
-                "sidharth malhotra"
-            ],
-            "creator": null,
-            "description": "Mumbai: Preggers Kiara Advani is in New York to make her MET Gala debut. Standing by her side, Sidharth Malhotra also accompanied his better half. A photo of the lovebirds from the Big Apple is going viral on social media. The image shared by a netizen on Reddit featured the mom-to-be walking towards their hotel, ...Get the latest updates in Hyderabad City News, Technology, Entertainment, Sports, Politics and Top Stories on WhatsApp & Telegram by subscribing to our channels. You can also download our app for Android and iOS.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-06 04:11:47",
-            "pubDateTZ": "UTC",
-            "image_url": "https://cdn.siasat.com/wp-content/uploads/2025/05/Sidharth-Malhotra-holding-Kiaras-bag-.jpg",
-            "video_url": null,
-            "source_id": "siasat",
-            "source_name": "Siasat.com",
-            "source_priority": 30879,
-            "source_url": "https://www.siasat.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/siasat.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": true
-        },
-        {
-            "article_id": "a0e08ed15e240b7d6f6cdf05030d3d92",
-            "title": "Kedarnath Yatra 2025: केदारनाथ यात्री ध्यान दें, अगले 24 घंटे नहीं मिलेंगे घोड़े-खच्चर, जान लीजिए वजह",
-            "link": "https://zeenews.india.com/hindi/india/up-uttarakhand/kedarnath/kedarnath-yatra-2025-24-hour-ban-on-horses-and-mules-pilgrims-difficulties-may-increase-know-reason/2744578",
-            "keywords": null,
-            "creator": [
-                "Zee News Hindi"
-            ],
-            "description": "Kedarnath Yatra 2025 News: केदारनाथ यात्रियों के लिए जरूरी खबर है. अगले 24 घंटे के लिए घोड़े और खच्चरों के संचालन पर रोक लगाई गई है. पशु संचालकों को चेतावनी दी गई है कि इसका उल्लंघन न करें.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-06 04:11:46",
-            "pubDateTZ": "UTC",
-            "image_url": "https://hindi.cdn.zeenews.com/hindi/sites/default/files/2025/05/06/3890257-kedarnath-1.png?im=FitAndFill%3D%281200%2C900%29",
-            "video_url": null,
-            "source_id": "zeenews",
-            "source_name": "Zee News",
-            "source_priority": 5319,
-            "source_url": "http://zeenews.india.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/zeenews.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "6a9f467bad7770d96bce508d28f7a0f9",
-            "title": "CBSE Board 10th, 12th Result 2025 Updates: सीबीएसई 10वीं, 12वीं रिजल्ट पर बड़ा अपडेट, इस दिन जारी होगा परिणाम; देखें पिछले 5 सालों का ट्रेंड",
-            "link": "https://hindi.latestly.com/india/education/big-update-on-cbse-10th-12th-result-result-will-be-released-on-this-day-see-the-trend-of-last-5-years-2604989.html",
-            "keywords": null,
-            "creator": null,
-            "description": "देशभर के 44 लाख से ज्यादा छात्रों की निगाहें इस वक्त CBSE Class 10th और 12th रिजल्ट 2025 पर टिकी हुई हैं. सेंट्रल बोर्ड ऑफ सेकेंडरी एजुकेशन (CBSE) इस हफ्ते रिजल्ट की तारीख और समय को लेकर कोई बड़ा अपडेट दे सकता है.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-06 04:11:43",
-            "pubDateTZ": "UTC",
-            "image_url": "https://hist1.latestly.com/wp-content/uploads/2025/04/ar-cbse-380x214.jpg",
-            "video_url": null,
-            "source_id": "latestly",
-            "source_name": "Latestly",
-            "source_priority": 31923,
-            "source_url": "https://www.latestly.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/latestly.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "a095704e4b03bd33fb3017b83f945c86",
-            "title": "What's in Trump's big bill? Money for migrant clampdown but tax breaks and program cuts hit 'bumps'",
-            "link": "https://economictimes.indiatimes.com/news/international/global-trends/whats-in-trumps-big-bill-money-for-migrant-clampdown-but-tax-breaks-and-program-cuts-hit-bumps/articleshow/120919221.cms",
-            "keywords": null,
-            "creator": null,
-            "description": "The US Congress is working on Donald Trump's bill. It includes tax cuts and spending changes. Funding will increase for border security and defense. Republicans aim to pass it by Memorial Day. The bill faces hurdles in committees. It will then go to the Senate. Democrats oppose the 'extreme Republican agenda'. The bill covers immigration, defense, student loans, and energy.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-06 04:11:41",
-            "pubDateTZ": "UTC",
-            "image_url": "https://img.etimg.com/thumb/msid-120919232,width-300,height-225,imgsize-31258,resizemode-75/donald-trump.jpg",
-            "video_url": null,
-            "source_id": "economictimes_indiatimes",
-            "source_name": "The Economic Times",
-            "source_priority": 231,
-            "source_url": "https://economictimes.indiatimes.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/economictimes_indiatimes.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": true
-        },
-        {
-            "article_id": "44671943a0f78075704ff1385e4a89df",
-            "title": "GR Infraprojects shares gain on order win from BSNL, check details",
-            "link": "https://www.businesstoday.in/markets/stocks/story/gr-infraprojects-shares-gain-on-order-win-from-bsnl-check-details-474808-2025-05-06",
-            "keywords": null,
-            "creator": null,
-            "description": "GR Infraprojects shares: The project will be built in Design Build Operate and Transfer (DBOT) Mode.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-06 04:11:34",
-            "pubDateTZ": "UTC",
-            "image_url": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202505/68198bb8de374-g-r-infraprojects-stock-rose-352-to-rs-1110-on-tuesday-on-bse-market-cap-of-the-firm-stood-at-rs-061026646-16x9.jpg",
-            "video_url": null,
-            "source_id": "businesstoday",
-            "source_name": "Business News India",
-            "source_priority": 5073,
-            "source_url": "https://www.businesstoday.in",
-            "source_icon": "https://i.bytvi.com/domain_icons/businesstoday.jpg",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "94e654b6fda95c568e795162965af5ab",
-            "title": "OpenAI agrees to buy Windsurf for about $3 billion: Report",
-            "link": "https://www.thehindu.com/sci-tech/technology/openai-agrees-to-buy-windsurf-for-about-3-billion-report/article69543644.ece",
-            "keywords": [
-                "technology"
-            ],
-            "creator": null,
-            "description": "Windsurf, formerly known as Codeium, had recently been in talks with investors including General Catalyst and Kleiner Perkins to raise funding at a $3 billion valuation",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-06 04:11:32",
-            "pubDateTZ": "UTC",
-            "image_url": "https://th-i.thgim.com/public/incoming/nhbo5y/article69543655.ece/alternates/LANDSCAPE_1200/2025-05-06T002252Z_1791162790_RC2LU7AE5HRW_RTRMADP_3_OPENAI-WINDSURF.JPG",
-            "video_url": null,
-            "source_id": "thehindu",
-            "source_name": "The Hindu",
-            "source_priority": 2972,
-            "source_url": "https://www.thehindu.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/thehindu.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "technology",
-                "science"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "36e3ff2de575e1d0cb6736b1d371d0aa",
-            "title": "कोन्नेमारा के प्रवेश द्वार पर कार्ल मार्क्स की प्रतिमा स्थापित की जाएगी: CM",
-            "link": "https://jantaserishta.com/local/tamil-nadu/karl-marxs-statue-will-be-installed-at-the-entrance-of-connemara-cm-3996575",
-            "keywords": [
-                "राज्य,तमिलनाडू"
-            ],
-            "creator": [
-                "Kavita2"
-            ],
-            "description": null,
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-06 04:11:26",
-            "pubDateTZ": "UTC",
-            "image_url": "https://jantaserishta.com/h-upload/2025/05/06/4574408-untitled-18-copy.webp",
-            "video_url": null,
-            "source_id": "jantaserishta",
-            "source_name": "Janta Se Rishta",
-            "source_priority": 81836,
-            "source_url": "https://jantaserishta.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/jantaserishta.jpg",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "557c4b46e0374395302924ad187430b6",
-            "title": "NSE issues compliance norms for safer participation of retail investors in algo trading",
-            "link": "https://www.moneycontrol.com/news/business/markets/nse-issues-compliance-norms-for-safer-participation-of-retail-investors-in-algo-trading-13013973.html",
-            "keywords": [
-                "national stock exchange, nse, algo trading, traders, brokers, stocks, markets"
-            ],
-            "creator": [
-                "Moneycontrol"
-            ],
-            "description": null,
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-06 04:11:26",
-            "pubDateTZ": "UTC",
-            "image_url": "https://images.moneycontrol.com/static-mcnews/2025/01/20250123025853_424376299.jpg",
-            "video_url": null,
-            "source_id": "moneycontrol",
-            "source_name": "Moneycontrol",
-            "source_priority": 1064,
-            "source_url": "https://www.moneycontrol.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/moneycontrol.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top",
-                "business",
-                "world",
-                "politics"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "0a7d03e995d1f9808ec605c792fb6e10",
-            "title": "IPL 2025 Orange And Purple Cap: विराट कोहली-साई सुदर्शन में कांटे की टक्कर, प्रसिद्ध कृष्णा के नाम पर्पल कैप",
-            "link": "https://hindi.oneindia.com/news/sports/cricket/ipl-2025-orange-cap-virat-kohli-sai-sudharsan-purple-cap-prasidh-krishna-josh-hazlewood-1287409.html",
-            "keywords": [
-                "news/sports/cricket"
-            ],
-            "creator": null,
-            "description": "ऑरेंज कैप की रेस काफी दिलचस्प हो चुकी है। इसमें विराट कोहली और साई सुदर्शन के बीच बस 1 रन का फासला है। वहीं गेंदबाज़ों में प्रसिद्ध कृष्णा ने अपने सटीक लाइन-लेंथ से पर्पल कैप पर कब्ज़ा जमाया हुआ है।",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-06 04:11:25",
-            "pubDateTZ": "UTC",
-            "image_url": "https://imagesvs.oneindia.com/hi/img/2025/05/viratkohliipl2024-1746504163.jpg",
-            "video_url": null,
-            "source_id": "oneindia",
-            "source_name": "One India",
-            "source_priority": 12404,
-            "source_url": "https://www.oneindia.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/oneindia.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "2b945924450e1f2f42c6debebd49cf71",
-            "title": "First Look: Kiara Advani’s custom Gaurav Gupta look featured an antique gold breastplate with ghungroos at the Met Gala",
-            "link": "https://www.vogue.in/content/met-gala-2025-kiara-advani-gaurav-gupta-look-details-debut",
-            "keywords": [
-                "fashion",
-                "fashion / trends"
-            ],
-            "creator": [
-                "Vogue Staff"
-            ],
-            "description": "“A tribute to defiance, legacy, and new beginnings,” says the designer about his inspiration",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-06 04:11:15",
-            "pubDateTZ": "UTC",
-            "image_url": "https://assets.vogue.in/photos/681989450b626e14ebdd87e3/16:9/w_1280,c_limit/GettyImages-2213075465.jpg",
-            "video_url": null,
-            "source_id": "vogue",
-            "source_name": "Vogue",
-            "source_priority": 2928,
-            "source_url": "https://www.vogue.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/vogue.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "entertainment"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
         }
     ]
 }
