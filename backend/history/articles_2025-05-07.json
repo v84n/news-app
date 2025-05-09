@@ -1,6 +1,682 @@
 {
     "articles": [
         {
+            "article_id": "6fc5132cd1aa411f60686ebcb28ffd84",
+            "title": "Godrej Consumer Products reports 65% rise in net profit to Rs 432 crore in Q4 FY25",
+            "link": "https://www.thestatesman.com/business/godrej-consumer-products-reports-65-rise-in-net-profit-to-rs-432-crore-in-q4-fy25-1503429740.html",
+            "keywords": null,
+            "creator": null,
+            "description": "Business, Consumer products, Godrej, Net profit",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-07 16:13:55",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.thestatesman.com/wp-content/uploads/2025/05/Untitled-design-2025-05-07T214319.456-jpg.webp",
+            "video_url": null,
+            "source_id": "thestatesman",
+            "source_name": "The Statesman",
+            "source_priority": 42473,
+            "source_url": "https://www.thestatesman.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/thestatesman.jpg",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "4e92ccf64ff5a9a094f51abb70621a7c",
+            "title": "Two-thirds of adults feel priced out of housing market: Gallup poll",
+            "link": "https://www.washingtontimes.com/news/2025/may/7/two-thirds-adults-feel-priced-housing-market-gallup-poll/",
+            "keywords": null,
+            "creator": [
+                "Sean Salai"
+            ],
+            "description": "A new Gallup poll finds that two-thirds of adults feel priced out of the U.S. housing market, with a record low of 30% saying they will buy a home in the next five years.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-07 16:13:33",
+            "pubDateTZ": "UTC",
+            "image_url": "https://twt-thumbs.washtimes.com/media/image/2025/04/24/Home_Sales_35199_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c=",
+            "video_url": null,
+            "source_id": "washingtontimes",
+            "source_name": "The Washington Times",
+            "source_priority": 9784,
+            "source_url": "https://www.washingtontimes.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/washingtontimes.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "2a1c350a1e2bb0e01cc6ac70ff9928e4",
+            "title": "C-DOT, CSIR-NPL partner to boost quantum, classical communication tech",
+            "link": "https://www.business-standard.com/industry/news/c-dot-csir-npl-partner-to-boost-quantum-classical-communication-tech-125050701723_1.html",
+            "keywords": null,
+            "creator": null,
+            "description": "C-DOT and CSIR-NPL sign MoU to boost indigenous R&D in quantum and classical communication, aiming to enhance India's self-reliance in next-gen secure telecom technologies",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-07 16:13:27",
+            "pubDateTZ": "UTC",
+            "image_url": "https://bsmedia.business-standard.com/_media/bs/img/article/2025-03/02/thumb/fitandfill/1200X630/1740933143-9605.jpg",
+            "video_url": null,
+            "source_id": "business-standard",
+            "source_name": "Business Standard",
+            "source_priority": 9158,
+            "source_url": "https://www.business-standard.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/business-standard.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "business"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "d8891186b9d551a425177d2e94dd425f",
+            "title": "बीकानेर में पंद्रह मिनट का रहा ब्लैक आउट, आमजन ने बंद की लाइटें, देखें वीडियो",
+            "link": "https://khulasaonline.com/there-was-a-blackout-of-fifteen-minutes-in-bikaner-the-public-switched-off-the-lights/",
+            "keywords": [
+                "राजस्थान",
+                "खुलासा",
+                "बीकानेर"
+            ],
+            "creator": [
+                "Khulasa Online"
+            ],
+            "description": "बीकानेर। बीकानेर में बुधवार सायं 8.15 से साढ़े आठ बजे तक ब्लैकआउट रहा। इस दौरान आमजन ने घरों, व्यापारिक प्रतिष्ठान और वाहनों की लाइटें बंद रखकर अपनी भागीदारी निभाई। ब्लैक आउट का साइरन बजने के साथ ही आमजन ने लाइटें बंद कर ली। मुख्य सड़कों पर चलने वाले वाहनों की लाइटें भी बंद रहीं। शहरी [...]",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-07 16:13:27",
+            "pubDateTZ": "UTC",
+            "image_url": "https://khulasaonline.com/wp-content/uploads/2025/05/022-13-81.jpg",
+            "video_url": null,
+            "source_id": "khulasaa_hindi",
+            "source_name": "Khulasaa",
+            "source_priority": 9661192,
+            "source_url": "https://khulasaonline.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/khulasaa_hindi.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "2bc48ea82ebbd9f33766ce8472803e54",
+            "title": "Union Home Minister Amit Shah chairs security review meeting following Operation Sindoor",
+            "link": "https://thenewsmill.com/2025/05/union-home-minister-amit-shah-chairs-security-review-meeting-following-operation-sindoor/",
+            "keywords": [
+                "manipur",
+                "ani",
+                "northeast india"
+            ],
+            "creator": [
+                "ANI"
+            ],
+            "description": "The News Mill",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-07 16:13:23",
+            "pubDateTZ": "UTC",
+            "image_url": "https://thenewsmill.com/wp-content/uploads/2025/05/ANI-20250507161004.jpg",
+            "video_url": null,
+            "source_id": "thenewsmill",
+            "source_name": "The News Mill",
+            "source_priority": 3781717,
+            "source_url": "https://thenewsmill.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/thenewsmill.jpg",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "a2ed337b5f8708aa0266983eae222b6c",
+            "title": "बोर्ड परीक्षा में किसान और क्लर्क के बेटों का कमाल:टॉप टेन में धमतरी के दो होनहार, भविष्य में बनना चाहते हैं IAS और इंजीनियर",
+            "link": "https://www.bhaskar.com/local/chhattisgarh/dhamtari/news/two-students-of-the-district-performed-brilliantly-in-chhattisgarh-board-134983070.html",
+            "keywords": null,
+            "creator": null,
+            "description": "छत्तीसगढ़ माध्यमिक शिक्षा मंडल द्वारा 7 मई को 10वीं और 12वीं बोर्ड परीक्षा के परिणाम घोषित किए गए। राज्य के मुख्यमंत्री विष्णु देव साय ने बटन दबाकर इन नतीजों की घोषणा की। इस वर्ष के टॉप 10 में जिले के दो प्रतिभाशाली छात्रों ने अपनी जगह बनाई है। मगरलोड ब्लॉक के सौरभ जोशी और कुरूद ब्लॉक के समीर साहू ने अपनी मेहनत और लगन से जिले का नाम रोशन किया। इन दोनों छात्रों में से एक किसान का बेटा है। दूसरा छात्र सहकारी समिति में लिपिक के पद पर कार्यरत कर्मचारी का पुत्र है। परिणाम घोषित होते ही दोनों छात्रों के घरों पर बधाई देने वालों की लंबी कतार लग गई। छठवें स्थान पर रहे सौरभ जोशी गगांव के पास स्थित बुडेनी गांव के शासकीय उच्चतर माध्यमिक विद्यालय के छात्र सौरभ जोशी ने 10वीं बोर्ड परीक्षा में 98.33 प्रतिशत अंक (कुल 590 अंक) प्राप्त कर प्रदेश में छठवां स्थान हासिल किया है। उनके पिता डुमन जोशी शासकीय समिति में लिपिक के पद पर कार्यरत हैं। सौरभ का कहना है कि उन्होंने प्रतिदिन 6–7 घंटे पढ़ाई की और मोबाइल का यूज केवल व्हाट्सएप और यूट्यूब से पढ़ने के लिए किया। उनका सपना है गणित विषय लेकर आगे पढ़ाई कर इंजीनियर बनना। समीर साहू को मिला नवां स्थान चरमूड़िया गांव के समीर साहू ने इस वर्ष 10वीं बोर्ड में 97.83% अंक (कुल 587 अंक) प्राप्त किए और प्रदेश में नवां स्थान हासिल किया। समीर का कहना है कि उन्होंने इस वर्ष पढ़ाई को दोगुना कर दिया और प्रतिदिन 8–9 घंटे अध्ययन किया। उनके पिता भूषण साहू खेती करते हैं। समीर के परिवार में दादा-दादी, माता-पिता और भाई-बहन रहते हैं। वे भविष्य में आईएएस अधिकारी बनना चाहते हैं और इसके लिए अभी से तैयारी शुरू कर चुके हैं।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-07 16:13:20",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.bhaskarassets.com/thumb/1000x1000/web2images/521/2025/05/07/7e7a6ff7-c92c-4ebd-a480-604ea97dbbe9_1746632270395.jpg",
+            "video_url": null,
+            "source_id": "bhaskar_hindi",
+            "source_name": "Bhaskar",
+            "source_priority": 34179,
+            "source_url": "https://www.bhaskar.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/bhaskar_hindi.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "domestic",
+                "other"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "485191a5409a3c5f96390bfeba8aab46",
+            "title": "Leopards: Ghosts of the jungle",
+            "link": "https://www.siasat.com/leopards-ghosts-of-the-jungle-3217797/",
+            "keywords": [
+                "leopards",
+                "jungle",
+                "featured news",
+                "wildlife",
+                "india"
+            ],
+            "creator": null,
+            "description": "In the shadows of skyscrapers and the tantrums of traffic, a supple spotted ghost moves with silent purpose. This is no myth — it’s the Indian Leopard, one of the most adaptable and misunderstood big cats on earth. And nowhere is its paradox more vivid than in Mumbai’s Sanjay Gandhi National Park. Hemmed in by ...Get the latest updates in Hyderabad City News, Technology, Entertainment, Sports, Politics and Top Stories on WhatsApp & Telegram by subscribing to our channels. You can also download our app for Android and iOS.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-07 16:13:19",
+            "pubDateTZ": "UTC",
+            "image_url": "https://cdn.siasat.com/wp-content/uploads/2025/05/leopard-shivakumar.jpg",
+            "video_url": null,
+            "source_id": "siasat",
+            "source_name": "Siasat.com",
+            "source_priority": 30879,
+            "source_url": "https://www.siasat.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/siasat.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "a7be026cf27abeba7027f4c5b7d53a3a",
+            "title": "Modi's Op Sindoor Gets Thumbs up from Israel but 'Sultan' & Arabs on Edge",
+            "link": "https://www.thequint.com/opinion/pakistan-strike-israel-supports-operation-sindoor-arab-world-turkey-neutral",
+            "keywords": [
+                "world",
+                "opinion"
+            ],
+            "creator": [
+                "Aditi Bhaduri"
+            ],
+            "description": "The Netanyahu-led Israeli govt has supported India's 'right for self-defence'. Turkey's Erdogan has rallied for Pak.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-07 16:13:19",
+            "pubDateTZ": "UTC",
+            "image_url": "https://media.assettype.com/thequint%2F2025-05-07%2Fzzr1mjy2%2Fcountries-hero.jpg?auto=format%2Ccompress&fmt=webp&w=1200&width=720",
+            "video_url": null,
+            "source_id": "thequint",
+            "source_name": "The Quint",
+            "source_priority": 9980,
+            "source_url": "https://www.thequint.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/thequint.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "a6a5d41a5d6bd0a6743475cab5187b7a",
+            "title": "आरएएस भर्ती-2023:- 19 से 28 मई तक आयोजित होगा साक्षात्कार का तृतीय चरण",
+            "link": "https://ajmernama.com/ajmer/431107/",
+            "keywords": [
+                "अजमेर"
+            ],
+            "creator": [
+                "associate"
+            ],
+            "description": "अजमेर, 7 मई। राजस्थान लोक सेवा आयोग द्वारा बुधवार को राजस्थान राज्य एवं अधीनस्थ सेवाएं भर्ती-2023 के अन्तर्गत साक्षात्कार के तृतीय चरण का कार्यक्रम जारी किया गया है। अभ्यर्थियों के साक्षात्कार पत्र आयोग की वेबसाइट पर यथा समय अपलोड कर दिए जाएंगे। विस्तृत सूचना आयोग की वेबसाइट पर उपलब्ध है। आयोग सचिव ने बताया कि ... Read more",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-07 16:13:18",
+            "pubDateTZ": "UTC",
+            "image_url": "https://ajmernama.com/wp-content/uploads/2015/08/RPSC-450-300x213.jpg",
+            "video_url": null,
+            "source_id": "ajmernama",
+            "source_name": "Ajmernama",
+            "source_priority": 38918446,
+            "source_url": "http://www.ajmernama.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/ajmernama.jpg",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "84c9edc4e8e2a9f7f33800f67981bbe2",
+            "title": "Air France adds Kannada announcements on Paris-Bengaluru flights",
+            "link": "https://timesofindia.indiatimes.com/city/bengaluru/air-france-adds-kannada-announcements-on-paris-bengaluru-flights/articleshow/120970556.cms",
+            "keywords": null,
+            "creator": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-07 16:13:16",
+            "pubDateTZ": "UTC",
+            "image_url": "https://static.toiimg.com/thumb/msid-120970555,imgsize-23554,width-400,height-225,resizemode-72/Air-France-adds-Kannada-announcements-on-Paris-Bengaluru-flights.jpg",
+            "video_url": null,
+            "source_id": "toi",
+            "source_name": "The Times Of India",
+            "source_priority": 239,
+            "source_url": "https://timesofindia.indiatimes.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/toi.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "business"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "92faa637abdad9e763df441f3c9ce778",
+            "title": "Terrorism must be met ‘lethally’, say security experts amid India-Pakistan tensions",
+            "link": "https://www.cnbctv18.com/india/operation-sindoor-india-retaliatory-strikes-pakistan-terror-camps-19600875.htm",
+            "keywords": [
+                "video"
+            ],
+            "creator": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-07 16:13:15",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.cnbctv18.com/uploads/2023/08/india-pakistan1.jpg",
+            "video_url": null,
+            "source_id": "cnbctv18",
+            "source_name": "Cnbctv18",
+            "source_priority": 17950,
+            "source_url": "https://www.cnbctv18.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/cnbctv18.jpg",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "other"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "95a42e7f73d499bb503877e5d0a207c9",
+            "title": "Congress District Heads To Be Appointed In Two Weeks, State In-Charge Held Meetings Of Several Committees",
+            "link": "https://www.freepressjournal.in/bhopal/congress-district-heads-to-be-appointed-in-two-weeks-state-in-charge-held-meetings-of-several-committees",
+            "keywords": [
+                "topnews",
+                "bhopal news"
+            ],
+            "creator": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-07 16:13:13",
+            "pubDateTZ": "UTC",
+            "image_url": "https://media.assettype.com/freepressjournal/2023-01/0d590099-ae82-4fbf-85c2-5dafe6408a5b/congress_flag.jpg",
+            "video_url": null,
+            "source_id": "freepressjournal",
+            "source_name": "The Free Press Journal",
+            "source_priority": 26427,
+            "source_url": "https://www.freepressjournal.in",
+            "source_icon": "https://i.bytvi.com/domain_icons/freepressjournal.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "b4829214755a8fbf114d033fc489318a",
+            "title": "Bihar News: बिहार के लापरवाह अफसरों को मिली कार्रवाई की चेतावनी, सचिव ने किया जवाब तलब",
+            "link": "https://www.jagran.com/bihar/patna-city-answers-sought-from-careless-officers-of-bihar-secretary-warns-of-action-23933103.html",
+            "keywords": null,
+            "creator": null,
+            "description": "पंचायत सरकार भवन निर्माण कार्य की समीक्षा के दौरान कहा गया कि जिन ग्राम पंचायतों में पंचायत सरकार भवन के निर्माण हेतु जमीन उपलब्ध नहीं हैं वहां दान में जमीन प्राप्त करने की विशेष पहल की जाए। साथ ही उत्तर बिहार में पंचायतीराज विभाग पांच जिलों की प्रगति जहां निरंतर कम है वहां के अफसरों से स्पष्टीकरण मांगने के निर्देश दिए।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-07 16:13:07",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.jagranimages.com/images/newimg/07052025/07_05_2025-leader_23933103_m.webp",
+            "video_url": null,
+            "source_id": "jagran",
+            "source_name": "ताजा हिंदी ख़बरें",
+            "source_priority": 6734,
+            "source_url": "https://www.jagran.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/jagran.jpg",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "domestic"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "05f47ed4c95c4a5bc78d7fe2d71bb8c3",
+            "title": "Odisha: Mock drill conducted in Bhubaneswar to test emergency preparedness",
+            "link": "https://thenewsmill.com/2025/05/odisha-mock-drill-conducted-in-bhubaneswar-to-test-emergency-preparedness/",
+            "keywords": [
+                "manipur",
+                "ani",
+                "northeast india"
+            ],
+            "creator": [
+                "ANI"
+            ],
+            "description": "The News Mill",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-07 16:13:06",
+            "pubDateTZ": "UTC",
+            "image_url": "https://thenewsmill.com/wp-content/uploads/2025/05/ANI-20250507160853.jpg",
+            "video_url": null,
+            "source_id": "thenewsmill",
+            "source_name": "The News Mill",
+            "source_priority": 3781717,
+            "source_url": "https://thenewsmill.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/thenewsmill.jpg",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "76a0f21becf1ad0814fdbecb25786294",
+            "title": "कैडेंस मिनरल्स ने लियोनोरा प्रोजेक्ट अधिग्रहण विवरण का हिस्सा वापस लिया",
+            "link": "https://hi.investing.com/news/company-news/article-93CH-466209",
+            "keywords": null,
+            "creator": [
+                "Investing.com"
+            ],
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-07 16:13:06",
+            "pubDateTZ": "UTC",
+            "image_url": "https://i-invdn-com.investing.com/news/news_headline_rolled_108x81.jpg",
+            "video_url": null,
+            "source_id": "investing_hi",
+            "source_name": "Investing भारत",
+            "source_priority": 1143,
+            "source_url": "https://hi.investing.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/investing_hi.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "b4a3968bcd6dd98199b644e240765de0",
+            "title": "रीट 2024 का रिजल्ट कल इस समय होगी जारी, 14 लाख से ज्यादा छात्रों को नतीजों का बेसब्री से इंतजार",
+            "link": "https://www.abplive.com/education/results/reet-2024-result-released-tomorrow-at-this-time-more-than-14-lakh-students-rajeduboard-rajasthan-gov-in-reet2024-co-in-2939535",
+            "keywords": [
+                "results"
+            ],
+            "creator": [
+                "एबीपी लाइव"
+            ],
+            "description": "राजस्थान में शिक्षक बनने का सपना देखने वाले लाखों युवाओं का इंतजार अब खत्म होने वाला है. राजस्थान माध्यमिक शिक्षा बोर्ड (RBSE) की ओर से आयोजित रीट (राजस्थान अध्यापक पात्रता परीक्षा) 2024 का परिणाम गुरुवार को दोपहर 3:15 बजे जारी किया जाएगा. इस बात की जानकारी खुद बोर्ड सचिव कैलाश चंद्र शर्मा ने दी है. उन्होंने बताया कि परीक्षा परिणाम की घोषणा बोर्ड प्रशासक महेश चंद्र शर्मा द्वारा की जाएगी.कितने छात्रों ने दी थी परीक्षा?रीट परीक्षा का आयोजन इस बार 27 और 28 फरवरी 2024 को तीन पारियों में किया गया था. परीक्षा में इस बार अभ्यर्थियों की संख्या ने सारे रिकॉर्ड तोड़ दिए. कुल 14,29,822 परीक्षार्थियों ने पंजीकरण कराया था. यह परीक्षा राज्य के सरकारी स्कूलों में प्राथमिक (कक्षा 1 से 5) और उच्च प्राथमिक (कक्षा 6 से 8) स्तर के शिक्षकों की भर्ती के लिए जरूरी होती है.लेवल-1 के लिए: 3,46,625 अभ्यर्थीलेवल-2 के लिए: 9,68,501 अभ्यर्थीदोनों लेवल के लिए: 1,14,696 अभ्यर्थी शामिल थेयह भी पढ़ें- CISF के DG की सैलरी कितनी होती है? 8वें वेतन आयोग के बाद कितनी बढ़ेगी, जानिए पूरी डिटेलकहां और कैसे देखें रिजल्ट?बोर्ड द्वारा परीक्षा की कॉपियों की जांच समय पर पूरी कर ली गई है. अब परीक्षार्थी अपने परिणाम का इंतजार कर रहे हैं. रिजल्ट जारी होने के बाद सभी अभ्यर्थी RBSE की आधिकारिक वेबसाइट rajeduboard.rajasthan.gov.in और reet2024.co.in पर जाकर अपना स्कोर कार्ड डाउनलोड कर सकते हैं. इसके लिए रोल नंबर और अन्य जरूरी जानकारी दर्ज करनी होगी.अफवाहों से रहें सावधानबोर्ड ने सभी परीक्षार्थियों से अपील की है कि वे रिजल्ट से जुड़ी किसी भी तरह की अफवाहों या फर्जी खबरों पर ध्यान न दें. सिर्फ बोर्ड की वेबसाइट और आधिकारिक सूचना पर ही भरोसा करें. रीट रिजल्ट 2024 के जारी होने के साथ ही सफल अभ्यर्थियों के लिए शिक्षक भर्ती प्रक्रिया का रास्ता साफ हो जाएगा.यह भी पढ़ें- Operation Sindoor: ‘ऑपरेशन सिंदूर’ के बाद बढ़ी फाइटर पायलट बनने की चाहत, जानें कैसे बनें भारतीय वायुसेना के योद्धा",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-07 16:13:05",
+            "pubDateTZ": "UTC",
+            "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2025/05/07/e9d9921dd56c5a7561b73021e4b718f41746634353101349_original.jpeg",
+            "video_url": null,
+            "source_id": "abplive",
+            "source_name": "Abp News",
+            "source_priority": 7754,
+            "source_url": "http://abplive.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/abplive.jpg",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "education"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "ebeb6ca52bc8fcc00d1f31514ad223e6",
+            "title": "Lucky Rashi Today: 8 मई 2025 को किसे मिलेगा प्रमोशन-किसकी जेब में आएगा पैसा?",
+            "link": "https://hindi.asianetnews.com/astrology/rashifal/aaj-ka-rashifal-lucky-zodiac-signs-today-8-may-2025-know-which-lucky-rashi-in-hindi/articleshow-kaxxh9u",
+            "keywords": [
+                "horoscope"
+            ],
+            "creator": [
+                "Manish Meharele"
+            ],
+            "description": "Lucky Rashi Today: 8 मई को मेष, मिथुन, सिंह, कन्या, मीन राशि वालों के लिए शुभ दिन है। नौकरी में तरक्की, सम्मान, खुशहाली, शुभ समाचार और धन लाभ की संभावना है। सेहत में सुधार, सरकारी योजनाओं का लाभ और संतान की सफलता से खुशियाँ बढ़ेंगी।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-07 16:12:58",
+            "pubDateTZ": "UTC",
+            "image_url": "https://static-gi.asianetnews.com/images/01jtnr01tym5056s3r23dd4tme/lucky-rashifal-8-may-2025-1746634016606.jpg",
+            "video_url": null,
+            "source_id": "hindi_asianetnews",
+            "source_name": "Asianet News Hindi",
+            "source_priority": 7805,
+            "source_url": "https://hindi.asianetnews.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/hindi_asianetnews.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "664111f86ea956a651d96850e7d69332",
+            "title": "पाकिस्तान पर एयर स्ट्राइक का जश्न:हवामहल पर पर्यटकों और रनर्स क्लब के सदस्यों ने लगाए भारत माता की जय के नारे",
+            "link": "https://www.bhaskar.com/local/rajasthan/jaipur/news/celebration-of-air-strike-on-pakistan-134983068.html",
+            "keywords": null,
+            "creator": null,
+            "description": "जयपुर के प्रसिद्ध पर्यटन स्थल हवामहल पर आज पर्यटकों और जयपुर रनर्स क्लब के सदस्यों ने एकत्रित होकर भारतीय वायुसेना की एयर स्ट्राइक की सफलता का जश्न मनाया। यहां मौजूद लोगों ने देशभक्ति की भावना से ओतप्रोत होकर भारत माता की जय के नारे लगाए। स्थानीय लोगों और पर्यटकों ने एकजुटता दिखाते हुए राष्ट्रीय सुरक्षा के प्रति अपना समर्थन व्यक्त किया। जयपुर रनर्स क्लब के सदस्यों ने इस अवसर पर तिरंगा लहराया और राष्ट्रगान का गायन किया। हवामहल की ऐतिहासिक पृष्ठभूमि में यह समारोह देशभक्ति की भावना का प्रतीक बन गया। यह जश्न भारतीय वायुसेना द्वारा की गई सटीक कार्रवाई का प्रतीक है, जिसने देश की सुरक्षा को सुनिश्चित किया। कार्यक्रम में शामिल लोगों ने सशस्त्र बलों के प्रति आभार व्यक्त किया और उनके साहस की सराहना की।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-07 16:12:56",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.bhaskarassets.com/thumb/1000x1000/web2images/521/2025/05/07/8d0ea2e7-3901-4b3b-a013-91bbf72ddc69_1746633831383.jpg",
+            "video_url": null,
+            "source_id": "bhaskar_hindi",
+            "source_name": "Bhaskar",
+            "source_priority": 34179,
+            "source_url": "https://www.bhaskar.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/bhaskar_hindi.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "domestic",
+                "other"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "04d26261cae223c7cd59ba6926f7b012",
+            "title": "Meta removes over 23,000 Facebook Pages, accounts linked to investment scams",
+            "link": "https://www.dtnext.in/technology/meta-removes-over-23000-facebook-pages-accounts-linked-to-investment-scams-832839",
+            "keywords": [
+                "technology"
+            ],
+            "creator": [
+                "PTI"
+            ],
+            "description": "The scammers redirected people to messaging apps for 'investment advice' and, in some cases, to a fake website that mimicked the Google Play store to download scam gambling apps",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-07 16:12:54",
+            "pubDateTZ": "UTC",
+            "image_url": "https://media.dtnext.in/h-upload/2023/11/03/750x450_776733-fbmeta.webp",
+            "video_url": null,
+            "source_id": "dtnext",
+            "source_name": "Dt Next",
+            "source_priority": 113678,
+            "source_url": "https://www.dtnext.in",
+            "source_icon": "https://i.bytvi.com/domain_icons/dtnext.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": true
+        },
+        {
+            "article_id": "6661bfbd6741a8b26ee1b6dcc7a486b3",
+            "title": "Cardinals locked inside Sistine Chapel as conclave begins",
+            "link": "https://timesofindia.indiatimes.com/world/europe/cardinals-locked-inside-sistine-chapel-as-conclave-begins/articleshow/120970553.cms",
+            "keywords": null,
+            "creator": null,
+            "description": "Cardinals have commenced the conclave in Vatican City to choose the next Pope after the death of Francis. The 133 cardinals are locked in the Sistine Chapel. They will vote in secrecy. The world awaits white smoke signaling the election of a new leader for 1.4 billion Catholics. Challenges include internal divisions and global issues.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-07 16:12:52",
+            "pubDateTZ": "UTC",
+            "image_url": "https://static.toiimg.com/thumb/msid-120970612,width-1070,height-580,imgsize-75324,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "video_url": null,
+            "source_id": "toi",
+            "source_name": "The Times Of India",
+            "source_priority": 239,
+            "source_url": "https://timesofindia.indiatimes.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/toi.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
             "article_id": "730a52a3ff9421f9836b2c0a27ec21c1",
             "title": "मिर्जापुर के विंध्याचल धाम में मोबाइल स्नैचर गिरफ्तार:आरोपी से अवैध तमंचा, कारतूस और चोरी का मोबाइल बरामद",
             "link": "https://www.bhaskar.com/local/uttar-pradesh/mirzapur/news/mobile-snatcher-arrested-in-vindhyachal-134982969.html",
