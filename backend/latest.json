@@ -1,6 +1,706 @@
 {
     "articles": [
         {
+            "article_id": "94691a43c485fd62fbaf63cd43085f24",
+            "title": "India asks X to ban over 8000 accounts subject to penalties",
+            "link": "https://www.dnaindia.com/india/report-india-asks-x-to-ban-over-8000-accounts-subject-to-penalties-3150588",
+            "keywords": [
+                "india"
+            ],
+            "creator": [
+                "Sonali Sharma"
+            ],
+            "description": "The orders include demands to block access in India to accounts belonging to international news organisations and prominent X users.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-09 02:10:00",
+            "pubDateTZ": "UTC",
+            "image_url": "https://cdn.dnaindia.com/sites/default/files/styles/third/public/2025/05/09/2693177-image-2025-05-09t074315.076.jpg",
+            "video_url": null,
+            "source_id": "dnaindia",
+            "source_name": "Dna",
+            "source_priority": 18388,
+            "source_url": "https://www.dnaindia.com",
+            "source_icon": null,
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "other"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "895f12983b16f35e63834c10dfd10e68",
+            "title": "White Smoke on the Vatican Chimney, a new Pope is elected",
+            "link": "https://kalingatv.com/world/white-smoke-on-the-vatican-chimney-a-new-pope-is-elected/",
+            "keywords": [
+                "world",
+                "pope francis"
+            ],
+            "creator": [
+                "Swati"
+            ],
+            "description": "Vatican City: White smoke is billowing from the top of the Sistine Chapel at the Vatican on Thursday indicating the cardinals have selected the next Pope, local media reported. The voice of the six bells of St Peter’s Basilca announced that the Church has its new Pope. “It’s a moment of joy,the wait is over,” [...]The post White Smoke on the Vatican Chimney, a new Pope is elected appeared first on KalingaTV.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-09 02:09:58",
+            "pubDateTZ": "UTC",
+            "image_url": null,
+            "video_url": null,
+            "source_id": "kalingatv",
+            "source_name": "Kalinga Tv",
+            "source_priority": 474757,
+            "source_url": "https://kalingatv.com",
+            "source_icon": null,
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": true
+        },
+        {
+            "article_id": "cae21d0efcdd563bcffe005d3b886396",
+            "title": "नेहा सिंह राठौर को मिली बड़ी राहत, पहलगाम हमले के बाद देशद्रोह के केस पर कोर्ट ने सुनाया ये फैसला",
+            "link": "https://www.jansatta.com/entertainment/neha-singh-rathore-gets-major-relief-court-dismisses-sedition-case-after-pahalgam-attack/3956369/",
+            "keywords": null,
+            "creator": [
+                "Jansatta"
+            ],
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-09 02:09:54",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.jansatta.com/wp-content/uploads/2025/05/neha-singh-rathore-2.jpg",
+            "video_url": null,
+            "source_id": "jansatta",
+            "source_name": "Jansatta",
+            "source_priority": 385929,
+            "source_url": "https://www.jansatta.com",
+            "source_icon": null,
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "6da5f8fd29643c6959c5f79763e3232d",
+            "title": "शहीद सूरज सिंह का शव रात भर एंबुलेंस में रहा:इटावा में पोस्टमार्टम हाउस का फ्रीजर खराब, परिजनों ने किया हंगामा; प्रशासन के खिलाफ हुई नारेबाजी",
+            "link": "https://www.bhaskar.com/local/uttar-pradesh/etawah/news/the-body-of-martyr-suraj-singh-remained-in-the-ambulance-overnight-134992671.html",
+            "keywords": null,
+            "creator": null,
+            "description": "इटावा के सूरज सिंह यादव का पार्थिव शरीर जब उनके पैतृक जनपद इटावा लाया गया, तो जिले की अव्यवस्थाएं और प्रशासनिक लापरवाही खुलकर सामने आ गईं। शहीद का शव चार घंटे तक रखने के लिए जिला अस्पताल और पोस्टमॉर्टम हाउस में उचित व्यवस्था न होने के कारण परिजनों को भारी असुविधा का सामना करना पड़ा। इससे आक्रोशित परिजनों ने जिला प्रशासन के खिलाफ नाराजगी जताते हुए पोस्टमॉर्टम हाउस पर जमकर हंगामा किया। परिजनों ने प्रशासन के खिलाफ नारेबाजी की। हादसे में हुई थी मौतशहीद सूरज सिंह यादव जो कि चकरनगर तहसील के प्रेमका पुरा गांव निवासी थे, बीते मंगलवार को सेना के काफिले के साथ जाते समय वाहन दुर्घटना में शहीद हो गए। गुरुवार को जब उनका शव देर रात इटावा लाया गया, तो उसे सबसे पहले डॉक्टर भीमराव अंबेडकर संयुक्त जिला अस्पताल की मोर्चरी में रखा जाना था, लेकिन वहां फ्रीजर खराब था और साफ-सफाई की स्थिति बेहद खराब थी। लेकिन जब शव को पोस्टमॉर्टम के फ्रीजर में रखने के लिए ले जाया गया, तो वहां की व्यवस्था देख परिजनों का गुस्सा जिला प्रशासन पर फूट पड़ा। पोस्टमॉर्टम हाउस फ्रीजर खराब मिलाअव्यवस्था को देख परिजन भड़क उठे और शव को पोस्टमॉर्टम हाउस ले जाया गया, लेकिन वहां भी फ्रीजर खराब मिला। इस परिजनों ने मौके पर पहुंचे अधिकारियों को अवगत कराया। देर रात एडीएम अभिनव रंजन श्रीवास्तव मौके पर पहुंचे, लेकिन मीडिया द्वारा सवाल पूछे जाने पर उन्होंने कैमरे जबरन बंद करवाने के निर्देश दिए, जिससे माहौल और तनावपूर्ण हो गया। समाजवादी पार्टी के प्रदेश सचिव गोपाल यादव भी मौके पर पहुंचेघटना की सूचना मिलने पर समाजवादी पार्टी के प्रदेश सचिव गोपाल यादव और भारतीय जनता पार्टी के जिलाध्यक्ष अरुण गुप्ता मौके पर पहुंचे। दोनों नेताओं ने लापरवाही पर नाराजगी जाहिर करते हुए कहा कि शहीद के साथ ऐसा व्यवहार बेहद निंदनीय है। भाजपा जिलाध्यक्ष ने इस बाबत मुख्यमंत्री योगी आदित्यनाथ को भी जानकारी दी और स्वास्थ्य विभाग की व्यवस्थाओं पर सवाल उठाए है। परिजनों का आरोप है कि जिला प्रशासन ने शहीद का सम्मानजनक व्यवस्था नहीं की गई। उनके पार्थिव शरीर के लिए समय से कोई पुख्ता व्यवस्था नहीं दिखी। शहीद को मिलने वाला गरिमामय सम्मान प्रशासनिक अनदेखी की भेंट चढ़ गया।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-09 02:09:54",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.bhaskarassets.com/thumb/1000x1000/web2images/521/2025/05/09/0f1bbd90-2915-43d8-ba66-90ef1b7bfe4a1746737410916_1746756616.jpg",
+            "video_url": null,
+            "source_id": "bhaskar_hindi",
+            "source_name": "Bhaskar",
+            "source_priority": 34179,
+            "source_url": "https://www.bhaskar.com",
+            "source_icon": null,
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top",
+                "domestic"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "4f38896925ee7d189c4b60b46b7714da",
+            "title": "BJP MP Nishikant Dubey says decisive action will be taken by Centre today amid military standoff with Pakistan",
+            "link": "https://telanganatoday.com/bjp-mp-nishikant-dubey-says-decisive-action-will-be-taken-by-centre-today-amid-military-standoff-with-pakistan",
+            "keywords": [
+                "external affairs minister",
+                "kupwara",
+                "pathankot",
+                "udhampur",
+                "nishikant dubey",
+                "rajnath singh",
+                "akhnoor",
+                "pahalgam terror attack",
+                "baramulla",
+                "pakistan",
+                "jammu",
+                "news",
+                "samba",
+                "jaishankar",
+                "india"
+            ],
+            "creator": [
+                "IANS"
+            ],
+            "description": "Dubey's post came just hours after India thwarted Pakistan military's attempt to hit military stations in Jammu, Pathankot, Udhampur and some other locations with missiles and drones.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-09 02:09:44",
+            "pubDateTZ": "UTC",
+            "image_url": "https://media.telanganatoday.com/wp-content/uploads/2025/05/n-1-768x450.jpg",
+            "video_url": null,
+            "source_id": "telanganatoday",
+            "source_name": "Telangana Today",
+            "source_priority": 63887,
+            "source_url": "https://telanganatoday.com",
+            "source_icon": null,
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": true
+        },
+        {
+            "article_id": "2b964b519d5e30f23a298949804c9561",
+            "title": "Ahmedabad Receives 10 Inches of Unseasonal Rainfall in 3 Days, IMD Issues Alert",
+            "link": "https://www.timesnownews.com/city/ahmedabad/ahmedabad-receives-10-inches-of-unseasonal-rainfall-in-3-days-imd-issues-alert-article-151595179",
+            "keywords": null,
+            "creator": [
+                "Shivya Kanojia"
+            ],
+            "description": "​Ahmedabad Rains: Ahmedabad is set to experience a mix of stormy and warm weather over the coming days. From 9 to 12 May, residents can expect thunderstorms accompanied by rain.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-09 02:09:41",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.timesnownews.com/thumb/msid-151595244,thumbsize-87810,width-1280,height-720,resizemode-75/151595244.jpg",
+            "video_url": null,
+            "source_id": "timesnownews",
+            "source_name": "Times Now News",
+            "source_priority": 2243,
+            "source_url": "https://www.timesnownews.com",
+            "source_icon": null,
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "21acb9198b1401afc44f78e472addbbc",
+            "title": "Rajahmundry all set for transformation",
+            "link": "https://www.thehansindia.com/andhra-pradesh/rajahmundry-all-set-for-transformation-969486",
+            "keywords": [
+                "andhra pradesh,news,state"
+            ],
+            "creator": [
+                "Deekshitula Subrahmanyam"
+            ],
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-09 02:09:40",
+            "pubDateTZ": "UTC",
+            "image_url": "https://assets.thehansindia.com/h-upload/2025/05/09/1549282-rja.webp",
+            "video_url": null,
+            "source_id": "thehansindia",
+            "source_name": "The Hans India",
+            "source_priority": 41360,
+            "source_url": "http://www.thehansindia.com",
+            "source_icon": null,
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "644f536a821a38442ad530eecbb95e33",
+            "title": "Assam: Silchar gears up for trial run of Zone-11 under AMRUT water supply project",
+            "link": "https://www.sentinelassam.com/north-east-india-news/assam-news/assam-silchar-gears-up-for-trial-run-of-zone-11-under-amrut-water-supply-project",
+            "keywords": null,
+            "creator": [
+                "Sentinel Digital Desk"
+            ],
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-09 02:09:38",
+            "pubDateTZ": "UTC",
+            "image_url": "https://media.assettype.com/sentinelassam-english%2F2025-05-09%2Fjux4pf1t%2Fmaxresdefault.jpg?ar=40%3A21&auto=format%2Ccompress&enlarge=true&mode=crop&ogImage=true&overlay=false&overlay_position=bottom&overlay_width=100&w=1200",
+            "video_url": null,
+            "source_id": "sentinel",
+            "source_name": "The Sentinel",
+            "source_priority": 177615,
+            "source_url": "https://www.sentinelassam.com",
+            "source_icon": null,
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "b1090d11afe0c2c854120ab4bbef2af8",
+            "title": "\"Beyond proud of you\": Hoops fans react as Jerzy Robinson gives back to her hometown in Arizona",
+            "link": "https://www.sportskeeda.com/us/high-school-sports/news-beyond-proud-you-hoops-fans-react-jerzy-robinson-gives-back-hometown-arizona",
+            "keywords": [
+                "high school sports"
+            ],
+            "creator": [
+                "Inioluwa"
+            ],
+            "description": "No. 5 ranked junior Jerzy Robinson recently embarked on a heartfelt community initiative to give back to her hometown of Phoenix, Arizona.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-09 02:09:37",
+            "pubDateTZ": "UTC",
+            "image_url": "https://staticc.sportskeeda.com/editor/2025/05/debed-17467566290975-1920.jpg",
+            "video_url": null,
+            "source_id": "sportskeeda",
+            "source_name": "Sportskeeda",
+            "source_priority": 172,
+            "source_url": "http://sportskeeda.com",
+            "source_icon": null,
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "sports"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "db07f70d1f2b24e8a48ec0eac4768315",
+            "title": "हरियाली की रक्षा के लिए मंडी के जंगलों को बचाने के लिए 58 वन मित्र तैयार",
+            "link": "https://jantaserishta.com/local/himachal-pradesh/protecting-the-greens-58-van-mitras-equipped-to-save-mandi-forests-4001237",
+            "keywords": [
+                "राज्य,हिमाचल प्रदेश"
+            ],
+            "creator": [
+                "Subhi"
+            ],
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-09 02:09:35",
+            "pubDateTZ": "UTC",
+            "image_url": "https://jantaserishta.com/h-upload/2025/05/09/4580180-6.webp",
+            "video_url": null,
+            "source_id": "jantaserishta",
+            "source_name": "Janta Se Rishta",
+            "source_priority": 81836,
+            "source_url": "https://jantaserishta.com",
+            "source_icon": null,
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "df5e8a40d9d4118b8d903c6e7dbdfc37",
+            "title": "Odisha government orders strict compliance with summer vacation mandate for private schools",
+            "link": "https://www.newindianexpress.com/states/odisha/2025/May/09/odisha-government-orders-strict-compliance-with-summer-vacation-mandate-for-private-schools",
+            "keywords": [
+                "odisha"
+            ],
+            "creator": [
+                "Express News Service"
+            ],
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-09 02:09:22",
+            "pubDateTZ": "UTC",
+            "image_url": "https://media.assettype.com/newindianexpress/2024-04/ce866c65-200a-4e93-9350-7317a2dd5e2d/4school1_0404chn_17.jpg",
+            "video_url": null,
+            "source_id": "newindianexpress",
+            "source_name": "The New Indian Express",
+            "source_priority": 15406,
+            "source_url": "https://www.newindianexpress.com/nation",
+            "source_icon": null,
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "dfbfc0f54310891d700fa645903c6524",
+            "title": "Punjab Orders Closure Of All Educational Institutes, Cancels Exams Amid Escalating Border Tension",
+            "link": "https://www.freepressjournal.in/india/punjab-orders-closure-of-all-educational-institutes-cancels-exams-amid-escalating-border-tension",
+            "keywords": [
+                "india",
+                "fpj shorts",
+                "education",
+                "topnews"
+            ],
+            "creator": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-09 02:09:06",
+            "pubDateTZ": "UTC",
+            "image_url": "https://media.assettype.com/freepressjournal/2025-05-09/n32y7l6r/Untitled-design-2025-05-09T073632.448.jpg",
+            "video_url": null,
+            "source_id": "freepressjournal",
+            "source_name": "The Free Press Journal",
+            "source_priority": 26427,
+            "source_url": "https://www.freepressjournal.in",
+            "source_icon": null,
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "8481d3bbf1175c0ee600d6133f5814e0",
+            "title": "BCCI arranges Vande Bharat train for PBKS and DC teams after match called off amid India-Pakistan tensions",
+            "link": "https://newsable.asianetnews.com/sports/bcci-arranges-vande-bharat-train-for-pbks-and-dc-teams-after-match-called-off-amid-india-pakistan-tensions-hrd/articleshow-m639vlg",
+            "keywords": [
+                "sports"
+            ],
+            "creator": [
+                "Team Asianet Newsable"
+            ],
+            "description": "An IPL match between Delhi Capitals and Punjab Kings was called off amid heightened India-Pakistan tensions, prompting the BCCI to arrange a special Vande Bharat train to transport players and crew to Delhi.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-09 02:09:02",
+            "pubDateTZ": "UTC",
+            "image_url": "https://static-gi.asianetnews.com/images/ani20250508174447/image-d8e40ecb-2210-4257-9793-1839da68ce0d.jpg",
+            "video_url": null,
+            "source_id": "newsable_asianetnews",
+            "source_name": "Asianet Newsable",
+            "source_priority": 7749,
+            "source_url": "https://newsable.asianetnews.com",
+            "source_icon": null,
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "9aaa905159a4141153e39dd3c4d2a326",
+            "title": "Operation Sindoor 2.0: India Retaliates, Razes Karachi Port",
+            "link": "https://www.sentinelassam.com/topheadlines/operation-sindoor-20-india-retaliates-razes-karachi-port",
+            "keywords": null,
+            "creator": [
+                "Sentinel Digital Desk"
+            ],
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-09 02:08:55",
+            "pubDateTZ": "UTC",
+            "image_url": "https://media.assettype.com/sentinelassam-english%2F2025-05-09%2Fmid61lmt%2FINS-vikrant.jpg?auto=format%2Ccompress&fit=max&w=480",
+            "video_url": null,
+            "source_id": "sentinel",
+            "source_name": "The Sentinel",
+            "source_priority": 177615,
+            "source_url": "https://www.sentinelassam.com",
+            "source_icon": null,
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "4f8c789f9001701e3be96db7dc2e0521",
+            "title": "धर्म: सुबह सूर्य देव को अर्घ्य दें, सकारात्मक बदलाव",
+            "link": "https://jantaserishta.com/religion/religion-offer-arghya-to-sun-god-in-the-morning-positive-change-4001236",
+            "keywords": [
+                "धर्म-अध्यात्म,अन्य खबरें"
+            ],
+            "creator": [
+                "Renuka Sahu"
+            ],
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-09 02:08:54",
+            "pubDateTZ": "UTC",
+            "image_url": "https://jantaserishta.com/h-upload/2025/05/09/4580179-r.webp",
+            "video_url": null,
+            "source_id": "jantaserishta",
+            "source_name": "Janta Se Rishta",
+            "source_priority": 81836,
+            "source_url": "https://jantaserishta.com",
+            "source_icon": null,
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "865688553907ae16277a35ed101aab32",
+            "title": "Akhilesh Yadav statement: लाहौर से PoK तक भारत का गदर, अखिलेश यादव ने देशवासियों से की ये खास अपील",
+            "link": "https://hindi.oneindia.com/news/uttar-pradesh/akhilesh-yadav-appeal-for-peace-indian-army-action-on-pakistan-pok-attack-blackout-operation-up-news-1289833.html",
+            "keywords": [
+                "news/uttar-pradesh"
+            ],
+            "creator": null,
+            "description": "Akhilesh Yadav statement: बृहस्पतिवार रात से देश में एक बार फिर सीमाओं पर हलचल तेज हो गई है। पाकिस्तान की ओर से की गई हरकतों का भारतीय सेना ने मुंहतोड़ जवाब दिया है। PoK के आतंकी ठिकानों पर जबरदस्त कार्रवाई हुई है और कराची बंदरगाह पर भी धमाकों की खबरें सामने आई हैं। माहौल तनावपूर्ण है, लेकिन देशवासियों को सेना की ताकत पर पूरा भरोसा है।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-09 02:08:51",
+            "pubDateTZ": "UTC",
+            "image_url": "https://imagesvs.oneindia.com/hi/img/2025/05/oneindia-hindi-news-up-2025-05-09t073428-182-1746756334.jpg",
+            "video_url": null,
+            "source_id": "oneindia",
+            "source_name": "One India",
+            "source_priority": 12404,
+            "source_url": "https://www.oneindia.com",
+            "source_icon": null,
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "b5b198e0f3cf8368ed0a5bd34704ec3d",
+            "title": "Things Nishikant Dubey says: Now TMC’s Mahua Moitra moves Delhi High Court",
+            "link": "https://www.nationalheraldindia.com/national/things-nishikant-dubey-says-now-tmcs-mahua-moitra-moves-delhi-high-court",
+            "keywords": [
+                "politics",
+                "nation"
+            ],
+            "creator": null,
+            "description": "Lok Sabha MP Mahua Moitra on Thursday, 8 May, moved the Delhi High Court against alleged defamatory social media posts by BJP MP Nishikant Dubey and advocate Jai Anant Dehadrai targeting her.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-09 02:08:43",
+            "pubDateTZ": "UTC",
+            "image_url": "https://media.assettype.com/nationalherald/2025-05-09/hzgqesp6/catale7a.png",
+            "video_url": null,
+            "source_id": "nationalheraldindia",
+            "source_name": "National Herald",
+            "source_priority": 206739,
+            "source_url": "https://www.nationalheraldindia.com",
+            "source_icon": null,
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "01d76cc8625a9ca1b1eedaa4652da018",
+            "title": "LSG vs RCB Match: आईपीएल में आज बल्लेबाज या गेंदबाज कौन पड़ेगा भारी? जानें इकाना स्टेडियम की पिच रिपोर्ट",
+            "link": "https://hindi.oneindia.com/news/sports/cricket/lucknow-super-giants-vs-royal-challengers-bengaluru-9-may-ekana-cricket-stadium-pitch-weather-report-1289831.html",
+            "keywords": [
+                "news/sports/cricket"
+            ],
+            "creator": null,
+            "description": "आईपीएल 2025 में आज टूर्नामेंट का 59th मैच लखनऊ सुपर जायंट्स (LSG) और रॉयल चैलेंजर्स बैंगलोर (RCB) के बीच खेला जाएगा। मैच निर्धारित समयानुसार शाम 7:30 बजे से शुरू होगा।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-09 02:08:34",
+            "pubDateTZ": "UTC",
+            "image_url": null,
+            "video_url": null,
+            "source_id": "oneindia",
+            "source_name": "One India",
+            "source_priority": 12404,
+            "source_url": "https://www.oneindia.com",
+            "source_icon": null,
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "sports"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "e3205b9894bcb1a3ffa95228078dbef3",
+            "title": "Over 50 Pakistani drones shot down by Indian air defence array across LoC, IB: Sources",
+            "link": "https://thenewsmill.com/2025/05/over-50-pakistani-drones-shot-down-by-indian-air-defence-array-across-loc-ib-sources/",
+            "keywords": [
+                "ani",
+                "northeast india",
+                "manipur"
+            ],
+            "creator": [
+                "ANI"
+            ],
+            "description": "The News Mill",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-09 02:08:33",
+            "pubDateTZ": "UTC",
+            "image_url": "https://thenewsmill.com/wp-content/uploads/2025/05/ANI-20250509020705.jpeg",
+            "video_url": null,
+            "source_id": "thenewsmill",
+            "source_name": "The News Mill",
+            "source_priority": 3781717,
+            "source_url": "https://thenewsmill.com",
+            "source_icon": null,
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "261d7e859a4db881d5389c7c4f879572",
+            "title": "\"Playbook Of Failed State\": Ex-US Official Slams Pakistan Amid Op Sindoor",
+            "link": "https://www.ndtv.com/world-news/playbook-of-failed-state-ex-us-official-michael-rubins-dig-at-pakistan-amid-indias-operation-sindoor-8368048",
+            "keywords": [
+                "world"
+            ],
+            "creator": null,
+            "description": "India on Tuesday night carried out 24 missile strikes in 25 minutes across nine locations in Pakistan and Pakistan-Occupied Kashmir.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-09 02:08:30",
+            "pubDateTZ": "UTC",
+            "image_url": null,
+            "video_url": null,
+            "source_id": "ndtv",
+            "source_name": "Ndtv",
+            "source_priority": 1204,
+            "source_url": "http://www.ndtv.com",
+            "source_icon": null,
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
             "article_id": "6c1cafc5d5e9e55f30cc14499d725eb0",
             "title": "Bill Gates warns AI will wipe out these 7 everyday jobs by 2028—how safe is yours? - KillerStartups",
             "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQlZPN19KS1dFRGF1OEc0THo0T2NCSFlqVmhDbS0xLWhjdlE2a253WXlaeEJZZVBlb0NRRkplakpSTlc4V3pzZWl1QVVZR0lqeVBMTEtxZ1pYZnQ3c0RxRVdCWmFwRmgwaEdDSndGRk1CU3M2MjNhWGZTeXpmWjY5MkhXbVc3VE90bVBBa2VicnNtR09OQjNiLWpMMEtjTHlHZ0xpYUJtLVlTWThCeEE?oc=5",
