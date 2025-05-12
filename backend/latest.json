@@ -1,6 +1,675 @@
 {
     "articles": [
         {
+            "article_id": "2f2b333a61655b8a5c8c9d3c12430f3c",
+            "title": "Mid-Range Smartphone Showdown: iQOO Neo 10 vs OnePlus Nord 4 vs POCO X7 Pro vs Motorola Edge 60 Pro - Republic World",
+            "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNMnFWZFJxQmpMbVBqdmp3X2IyaWFuWDZrMl9XVDNzOTZlS3NhanB0MmFHVXV3UUtsRUJDLWVObGY0YXhoM082Q2xKQjU4Qk42YWpPZGRBWkRqbFoycEhJWGdDYjVaNzdDZkNPVTRuVnRuMUFUaTlURGNrdURLdGtFX01fVFMwaHRzRXRuZlZUTXMtaXdhVFB2VlNhTk04X3pFNEZxTndQcjRERHFNaHM1OElTTFVsWUdMcWFGNTQzTFFteTV3ZVRJWFdyUWRld9IB0wFBVV95cUxOOFpFejB0eUJPQUJGNGFXU3NfV1lfVzlaZk56ZUZ5cVJZU3FDQTZXazFReUFBVHJoUTdJd2w0YzUwdkRGRWZNZ3JOVFB6SkZTNmVxZTNjVWlHVXBlVlVzRjNObkt2bklKOWxsbE45S0dXZzdpalRtQ3lzZlp5SDh5SmttWUdyMXZfRTRBQjJ3dG1hMUVETFRDUUZxVWc5azZWMFZ3VXdYWWdQTUpBQ1c3eldRLUV2NE1LRUFyTTJqU09yOXNfNHNrNzF0UXdqTFQzZ2Vv?oc=5",
+            "keywords": null,
+            "creator": null,
+            "description": "Mid-Range Smartphone Showdown: iQOO Neo 10 vs OnePlus Nord 4 vs POCO X7 Pro vs Motorola Edge 60 Pro Republic WorldiQOO Neo 10 launching in India on 26 May: Snapdragon 8s Gen 4 SoC, 7,000mAh battery and everything expected MintiQOO Neo 10 with 7000 mAh battery to be launched on May 26: What to expect Business StandardiQOO Neo 10 Pro+ Confirmed to Debut This Month, Pre-Reservations Begin Gadgets 360iQOO Neo 10 is launching in India on May 26 and here is everything we know about it India Today",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-12 11:09:00",
+            "pubDateTZ": "UTC",
+            "image_url": null,
+            "video_url": null,
+            "source_id": "google",
+            "source_name": "Google News",
+            "source_priority": 14,
+            "source_url": "https://news.google.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/google.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "technology"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "72cb5c17484fadea7ea59438612c912e",
+            "title": "संभल: अनाथ युवाओं का कराते थे बीमा, फिर हत्या को एक्सिडेंट दिखाकर हड़प लेते थे पैसे, क्रूर गिरोह का खुलासा",
+            "link": "https://www.indiatv.in/crime/sambhal-police-caught-insurance-gang-killed-people-for-money-and-showed-it-as-accident-2025-05-12-1134826",
+            "keywords": null,
+            "creator": null,
+            "description": "पुलिस ने बताया कि गिरोह के सदस्य हत्या को एक्सिडेंट दिखाकर बीमा के पैसे हड़प लेते थे। इस तरह दो लोगों की हत्या कर चुके थे और तीसरे की हत्या की प्लानिंग कर रहे थे।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-12 11:09:00",
+            "pubDateTZ": "UTC",
+            "image_url": "https://resize.indiatv.in/resize/1200_-/2025/05/police-accused-1747047885.jpg",
+            "video_url": null,
+            "source_id": "indiatv",
+            "source_name": "India Tv",
+            "source_priority": 8882,
+            "source_url": "https://www.indiatv.in",
+            "source_icon": "https://i.bytvi.com/domain_icons/indiatv.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "564f508454ddcabfaa19f0c60852fe64",
+            "title": "Apple reportedly plans to hike prices of upcoming iPhones - TechCrunch",
+            "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQYjBkMkQ4dnNZVHZRRlNaTGFLOE1qamp4VWpxWmdKR3FsbVBPREs4RUdoblFlSHlsRnhPX2x5d01tcVBWVUtlblBhMjh6X2hITDBDVXB2SHU1OWxjZlRzeDdzcEhzNVhNX1o4WEFIaFVjUkUzdFAxaFdFc0lMMWhOLTljV0w3Z2dVTGd2M0J5TlEtV1ZJQkNF?oc=5",
+            "keywords": null,
+            "creator": null,
+            "description": "Apple reportedly plans to hike prices of upcoming iPhones TechCrunchApple May Hike iPhone Prices Amid Fall Lineup Revamp Deccan HeraldApple considering price hike for its upcoming fall iPhone lineup, WSJ reports The Economic TimesApple considers raising iPhone prices, without blaming tariffs MintIndia not ready to take on China's share of iPhone manufacturing: Report CNBC TV18",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-12 11:08:58",
+            "pubDateTZ": "UTC",
+            "image_url": null,
+            "video_url": null,
+            "source_id": "google",
+            "source_name": "Google News",
+            "source_priority": 14,
+            "source_url": "https://news.google.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/google.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "business"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "44621c4dc4811c9d8c0c2f6c79eb9d10",
+            "title": "End of an Era: Virat Kohli Bids Adieu to Test Cricket",
+            "link": "https://www.devdiscourse.com/article/sports-games/3378525-end-of-an-era-virat-kohli-bids-adieu-to-test-cricket",
+            "keywords": null,
+            "creator": null,
+            "description": "End of an Era: Virat Kohli Bids Adieu to Test Cricket In a landmark announcement, Indian cricket superstar Virat Kohli has retired from Test cricket, marking the end of a storied chapter in Indian sports history.Reacting to the news, Andhra Pradesh Chief Minister N Chandrababu Naidu praised Kohli's passion, discipline, and leadership, acknowledging the immense pride he brought to the nation.State IT Minister Nara Lokesh also commended Kohli, calling him a legend who redefined India's Test cricket legacy and inspired millions globally.Kohli's illustrious career in Test cricket saw him leading India to historic victories, including a series win in Australia, highlighting his enduring legacy as one of the game's greats.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-12 11:08:51",
+            "pubDateTZ": "UTC",
+            "image_url": "https://devdiscourse.blob.core.windows.net/devnews/06_05_2025_20_42_03_0857588.jpg",
+            "video_url": null,
+            "source_id": "devdiscourse",
+            "source_name": "Devdiscourse",
+            "source_priority": 566021,
+            "source_url": "https://www.devdiscourse.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/devdiscourse.jpg",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "a03e752d379335a2b259bbde4dc06db1",
+            "title": "Forest Department clears garbage to discourage human-elephant interactions in Nilakottai in the Nilgiris",
+            "link": "https://www.thehindu.com/news/cities/Coimbatore/forest-department-clears-garbage-to-discourage-human-elephant-interactions-in-nilakottai-in-the-nilgiris/article69566868.ece",
+            "keywords": [
+                "coimbatore"
+            ],
+            "creator": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-12 11:08:49",
+            "pubDateTZ": "UTC",
+            "image_url": "https://th-i.thgim.com/public/news/national/tamil-nadu/4irgdy/article69567193.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202025-05-12%20at%2016.29.25.jpeg",
+            "video_url": null,
+            "source_id": "thehindu",
+            "source_name": "The Hindu",
+            "source_priority": 2972,
+            "source_url": "https://www.thehindu.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/thehindu.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "2883663b94215897d5a80e6ceced9180",
+            "title": "Virat Kohli Retires In Tests: Shreyas Iyer To Ajnikya Rahane, Top Players Who Can Fill Number Four Spot For India In England Tour",
+            "link": "https://english.jagran.com/cricket/virat-kohli-retires-in-tests-shreyas-iyer-to-ajnikya-rahane-top-players-who-can-fill-number-four-spot-for-india-in-england-tour-10236859",
+            "keywords": null,
+            "creator": null,
+            "description": "Virat Kohli Retirement,Indian Cricket Team,Test Cricket,Virat Kohli Replacement,India vs England Test Series,Number Four Batsman,Indian Test Batting Lineup,World Test Championship",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-12 11:08:40",
+            "pubDateTZ": "UTC",
+            "image_url": "https://imgeng.jagran.com/images/2025/05/12/article/image/FotoJet---2025-05-12T163802.536-1747048086311.jpg",
+            "video_url": null,
+            "source_id": "english_jagran",
+            "source_name": "Jagran English",
+            "source_priority": 10561,
+            "source_url": "https://english.jagran.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/english_jagran.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "1e5115b3f1c071e8c3b633b675197eda",
+            "title": "Juwai Teer Result today May 12, 2025 First and Second round number",
+            "link": "https://assamtribune.com/juwai-teer/juwai-teer-result-today-may-12-2025-first-and-second-round-number-1577203",
+            "keywords": [
+                "juwai teer"
+            ],
+            "creator": [
+                "Dipti Sinha"
+            ],
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-12 11:08:38",
+            "pubDateTZ": "UTC",
+            "image_url": "https://assamtribune.com/h-upload/2025/05/12/1711562-gj2cqftamaat9t1.jpg",
+            "video_url": null,
+            "source_id": "assamtribune",
+            "source_name": "The Assam Tribune",
+            "source_priority": 736287,
+            "source_url": "https://assamtribune.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/assamtribune.jpg",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "6892722ae0ee750ac05a97248124cae5",
+            "title": "जम्मू-कश्मीर के CM उमर अब्दुल्ला ने पुंछ का दौरा किया, गोलाबारी पीड़ितों के प्रति संवेदना व्यक्त की",
+            "link": "https://jantaserishta.com/local/jammu-and-kashmir/jk-cm-omar-abdullah-visits-poonch-offers-condolences-to-shelling-victims-4007597",
+            "keywords": [
+                "राज्य,जम्मू और कश्मीर"
+            ],
+            "creator": [
+                "Gulabi Jagat"
+            ],
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-12 11:08:36",
+            "pubDateTZ": "UTC",
+            "image_url": "https://jantaserishta.com/h-upload/2025/05/12/4587727-70510916605.webp",
+            "video_url": null,
+            "source_id": "jantaserishta",
+            "source_name": "Janta Se Rishta",
+            "source_priority": 81836,
+            "source_url": "https://jantaserishta.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/jantaserishta.jpg",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "0b0e65c7d7a5b6b274442fb70cbc1c74",
+            "title": "बीकेटी में 23 साल की विवाहिता ने खाया जहर:दवा समझकर खाया, बलरामपुर अस्पताल में भर्ती; हालत स्थिर",
+            "link": "https://www.bhaskar.com/local/uttar-pradesh/lucknow/news/23-year-old-married-woman-consumed-poison-in-bkt-135012783.html",
+            "keywords": null,
+            "creator": null,
+            "description": "लखनऊ के बीकेटी थाना क्षेत्र के हरधौरपुर गांव में विवाहिता अंजूही ने दवा समझकर जहरीला पदार्थ खा लिया। सोमवार दोपहर की घटना है। वह अनूप कुमार की पत्नी है। पति अनूप कुमार ने बताया कि वह घर से बाहर गए थे। वापस आने पर पत्नी को उल्टियां आ रही थीं। पूछने पर पता चला कि पेट दर्द की वजह से उन्होंने एक पुड़िया में रखा पदार्थ दवा समझकर खा लिया था। दोपहर साढ़े बारह बजे महिला को बीकेटी क्षेत्र के रामसागर मिश्र शौ शैय्या संयुक्त चिकित्सालय ले जाया गया। प्राथमिक उपचार के बाद डॉक्टरों ने तीन बजे उन्हें बलरामपुर अस्पताल रेफर कर दिया। वर्तमान में उनकी स्थिति स्थिर है। अनूप ने बताया कि करीब ढाई साल पहले बाराबंकी जिले के टिकैत नगर की रहने वाली अंजूही से उनकी शादी हुई थी। उनका एक छह महीने का बेटा भी है।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-12 11:08:32",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.bhaskarassets.com/thumb/1000x1000/web2images/521/2025/05/12/d3a52d3d-8e67-41ab-ae7f-3d4a16d4e915_1747047179529.jpg",
+            "video_url": null,
+            "source_id": "bhaskar_hindi",
+            "source_name": "Bhaskar",
+            "source_priority": 34179,
+            "source_url": "https://www.bhaskar.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/bhaskar_hindi.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top",
+                "domestic"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "b664ddc01f1fddc8a1f87014a2ecd57d",
+            "title": "\"Where is Dillon Gabriel?\" - NFL fans question Shedeur Sanders after Browns star posts team photo without rookie QB",
+            "link": "https://www.sportskeeda.com/nfl/news-where-dillon-gabriel-nfl-fans-question-shedeur-sanders-browns-star-posts-team-photo-without-rookie-qb",
+            "keywords": [
+                "nfl"
+            ],
+            "creator": [
+                "Arnold"
+            ],
+            "description": "The Cleveland Browns took two quarterbacks in this year's NFL draft: Dillon Gabriel in the third round and Shedeur Sanders in the fifth round.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-12 11:08:28",
+            "pubDateTZ": "UTC",
+            "image_url": "https://staticc.sportskeeda.com/editor/2025/05/e771d-17470502659574-1920.jpg",
+            "video_url": null,
+            "source_id": "sportskeeda",
+            "source_name": "Sportskeeda",
+            "source_priority": 172,
+            "source_url": "http://sportskeeda.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/sportskeeda.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "sports"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "e3c58b35c8fef1ec5bea55ca976e65a6",
+            "title": "Trump’s drug price plan sends ripples through Indian Pharma sector",
+            "link": "https://www.thehindubusinessline.com/markets/trumps-drug-price-plan-sends-ripples-through-indian-pharma-sector/article69567134.ece",
+            "keywords": [
+                "markets"
+            ],
+            "creator": null,
+            "description": "Trump’s anticipated announcement threatens to implement a “most favoured nation” policy that could potentially reduce US drug prices by 30-80%",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-12 11:08:27",
+            "pubDateTZ": "UTC",
+            "image_url": "https://bl-i.thgim.com/public/incoming/on7j19/article69484069.ece/alternates/LANDSCAPE_1200/2025-02-27T114322Z_1663938495_RC2Y2DA11LXO_RTRMADP_3_INDIA-HEALTH-CLINICAL-TRIALS.JPG",
+            "video_url": null,
+            "source_id": "thehindubusinessline",
+            "source_name": "The Hindu - Business Line",
+            "source_priority": 33540,
+            "source_url": "https://www.thehindubusinessline.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/thehindubusinessline.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "business"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "50e3d1f83ac243b13c04be85e4b514ec",
+            "title": "“Were Pahalgam attack terrorists caught?”: Congress’ Bhupesh Baghel questions success of Operation Sindoor",
+            "link": "https://thenewsmill.com/2025/05/were-pahalgam-attack-terrorists-caught-congress-bhupesh-baghel-questions-success-of-operation-sindoor/",
+            "keywords": [
+                "manipur",
+                "northeast india",
+                "ani"
+            ],
+            "creator": [
+                "ANI"
+            ],
+            "description": "The News Mill",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-12 11:08:24",
+            "pubDateTZ": "UTC",
+            "image_url": "https://thenewsmill.com/wp-content/uploads/2025/05/ANI-20250512110610.jpg",
+            "video_url": null,
+            "source_id": "thenewsmill",
+            "source_name": "The News Mill",
+            "source_priority": 3781717,
+            "source_url": "https://thenewsmill.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/thenewsmill.jpg",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "8fb83670d27fa37379633ad897e8f5cb",
+            "title": "Watch: True federalism is about mutual respect, not just division of power: Palanivel Thiaga Rajan",
+            "link": "https://www.thehindu.com/shorts/watch-true-federalism-is-about-mutual-respect-not-just-division-of-power-palanivel-thiaga-rajan/article69567203.ece",
+            "keywords": [
+                "shorts"
+            ],
+            "creator": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-12 11:08:21",
+            "pubDateTZ": "UTC",
+            "image_url": "https://th-i.thgim.com/public/incoming/4ysy4s/article69567191.ece/alternates/FREE_1200/_DSC0709.JPG",
+            "video_url": null,
+            "source_id": "thehindu",
+            "source_name": "The Hindu",
+            "source_priority": 2972,
+            "source_url": "https://www.thehindu.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/thehindu.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "a636d9823f9434c23df064464cb59e11",
+            "title": "‘ऑपरेशन सिंदूर’ : शब्दयुद्ध में जरा संभलकर!",
+            "link": "https://panchjanya.com/2025/05/12/406728/bharat/be-careful-in-the-war-of-words/",
+            "keywords": [
+                "featured",
+                "राष्ट्रीय सुरक्षा का मुद्दा",
+                "विश्लेषण",
+                "main",
+                "ऑपरेशन सिंदूर",
+                "आतंकवाद आर-पार की लड़ाई",
+                "पाञ्चजनय विशेष",
+                "भारत",
+                "जम्‍मू एवं कश्‍मीर",
+                "पाकिस्तान अधिक्रांत कश्मीर",
+                "राष्ट्र विरोधी शब्द"
+            ],
+            "creator": [
+                "पाञ्चजन्य ब्यूरो"
+            ],
+            "description": "भारत ने 6–7 मई, 2025 की आधी रात को पाकिस्तान अधिक्रांत कश्मीर (पीओजेके) और पंजाब में सैन्य प्रहार ‘ऑपरेशन सिंदूर’ से दुनिया को स्पष्ट संदेश दिया, ‘‘भारत अब केवल जवाबी कार्रवाई नहीं, निर्णायक कार्रवाई करेगा।’’ यह सैन्य अभियान विशुद्ध नैतिक और रणनीतिक प्रतिशोध था, उन 26 निर्दोष नागरिकों की हत्या के विरुद्ध, जो 22 अप्रैल [...]",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-12 11:08:20",
+            "pubDateTZ": "UTC",
+            "image_url": "https://panchjanya.com/wp-content/uploads/2025/05/p22-1.webp",
+            "video_url": null,
+            "source_id": "panchjanya",
+            "source_name": "Panchjanya",
+            "source_priority": 256218,
+            "source_url": "https://panchjanya.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/panchjanya.jpg",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "f7ec5f25a502e58c6c2a4ac604c879f5",
+            "title": "Edan Alexander: 5 facts about US hostage in Hamas custody for 589 days",
+            "link": "https://www.hindustantimes.com/india-news/edan-alexander-5-facts-about-us-hostage-in-hamas-custody-for-589-days-101747035128510.html",
+            "keywords": [
+                "latest"
+            ],
+            "creator": null,
+            "description": "Edan Alexander, 20, is an American-Israeli soldier in the IDF who was taken hostage by Hamas during the October 7, 2023, attack on Israel.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-12 11:08:20",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.hindustantimes.com/ht-img/img/2025/05/12/1600x900/ISRAEL-PALESTINIANS-HAMAS-HOSTAGE-0_1747035101164_1747035115614.JPG",
+            "video_url": null,
+            "source_id": "hindustantimes",
+            "source_name": "Hindustan Times",
+            "source_priority": 933,
+            "source_url": "http://www.hindustantimes.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/hindustantimes.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "97a3778cefba8c9898828c0e89abf135",
+            "title": "Kajheri village में निवासी पर हमला",
+            "link": "https://jantaserishta.com/local/haryana/attack-on-resident-in-kajheri-village-4007596",
+            "keywords": [
+                "राज्य,हरियाणा"
+            ],
+            "creator": [
+                "Payal"
+            ],
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-12 11:08:20",
+            "pubDateTZ": "UTC",
+            "image_url": "https://jantaserishta.com/h-upload/2025/05/12/4587722-65.webp",
+            "video_url": null,
+            "source_id": "jantaserishta",
+            "source_name": "Janta Se Rishta",
+            "source_priority": 81836,
+            "source_url": "https://jantaserishta.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/jantaserishta.jpg",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "5c844ac6a7667d14aedf8334ec3e0431",
+            "title": "Virat Kohli Test Retirement: A Look at Top Five Memorable Knocks by Former India Captain in Whites",
+            "link": "https://www.latestly.com/sports/cricket/virat-kohli-test-retirement-a-look-at-top-five-memorable-knocks-by-former-india-captain-in-whites-6848827.html",
+            "keywords": null,
+            "creator": null,
+            "description": "At Centurion in 2018, Kohli scored a gritty 153 on a challenging pitch against a fiery South African pace attack. With no other Indian crossing 50, his knock stood out for its composure, class, and lone resistance in tough overseas conditions.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-12 11:08:18",
+            "pubDateTZ": "UTC",
+            "image_url": "https://st1.latestly.com/wp-content/uploads/2025/05/Virat-Kohli-2-1-380x214.jpg",
+            "video_url": null,
+            "source_id": "latestly",
+            "source_name": "Latestly",
+            "source_priority": 31923,
+            "source_url": "https://www.latestly.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/latestly.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "sports"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "8ea773e1ad5fdc9d23ab8661c94473b7",
+            "title": "SGRE Fund Injects Rs 125 Crore into Delhi-NCR Real Estate Revitalization",
+            "link": "https://www.devdiscourse.com/article/headlines/3378524-sgre-fund-injects-rs-125-crore-into-delhi-ncr-real-estate-revitalization",
+            "keywords": null,
+            "creator": null,
+            "description": "SGRE Fund Injects Rs 125 Crore into Delhi-NCR Real Estate Revitalization The SGRE Fund, an alternative investment vehicle focusing on real estate, has injected Rs 125 crore into two distressed housing projects in the Delhi-NCR region. This strategic move is part of their broader plan to finance troubled real estate ventures, enabling their successful completion.Operating under Category II of the Securities and Exchange Board of India (Sebi), the SGRE Fund offers a lifeline to real estate companies facing challenges in securing funding. By thoroughly vetting potential projects for economic viability and legal compliance, they ensure only sound investments are pursued.Promoted by Suresh Garg of Nirala World and Sanjay Gupta of Sea Fund, the SGRE Fund is on the cusp of applying for a second scheme worth up to Rs 500 crore, highlighting their commitment to the sector's revitalization and growth.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-12 11:08:14",
+            "pubDateTZ": "UTC",
+            "image_url": "https://devdiscourse.blob.core.windows.net/aiimagegallery/12_05_2025_11_08_14_5571957.png",
+            "video_url": null,
+            "source_id": "devdiscourse",
+            "source_name": "Devdiscourse",
+            "source_priority": 566021,
+            "source_url": "https://www.devdiscourse.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/devdiscourse.jpg",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "04b7d28e04cde64af089a93eeece8108",
+            "title": "Breakup: होटल के वाईफाई ने GF-BF में करवा दिया ब्रेकअप, पढ़ें क्या हुआ रूम के अंदर?",
+            "link": "https://hindi.asianetnews.com/lifestyle/relationships/hotel-wifi-auto-connect-leads-to-relationship-breakup/articleshow-nvzlv91",
+            "keywords": [
+                "relationships"
+            ],
+            "creator": [
+                "Rohan Salodkar"
+            ],
+            "description": "चीन में एक लड़के ने अपनी गर्लफ्रेंड से सिर्फ इसलिए ब्रेकअप कर लिया क्योंकि उसका फोन होटल के वाईफाई से ऑटोमैटिक कनेक्ट हो गया। बाद में पता चला कि तकनीकी खराबी की वजह से ऐसा हुआ था।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-12 11:08:14",
+            "pubDateTZ": "UTC",
+            "image_url": "https://static-gi.asianetnews.com/images/01dbqw686p7bcnr7r606kzr659/love-breakup-general.jpg",
+            "video_url": null,
+            "source_id": "hindi_asianetnews",
+            "source_name": "Asianet News Hindi",
+            "source_priority": 7805,
+            "source_url": "https://hindi.asianetnews.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/hindi_asianetnews.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "ef66b5d0a07ec406f52581cbf1e9a013",
+            "title": "मंडी में सैनिकों के शौर्य के लिए यज्ञ:पहलगाम में मारे गए लोगों को श्रद्धांजलि दी, सिद्धि काली मंदिर में हुआ चंडी यज्ञ",
+            "link": "https://www.bhaskar.com/local/himachal/mandi/news/mandi-yagna-bravery-soldiers-pahalgam-terrorist-attack-condolence-update-135012781.html",
+            "keywords": null,
+            "creator": null,
+            "description": "हिमाचल प्रदेश के मंडी में भारतीय सैनिकों के शौर्य और देश की विजय के लिए सहस्त्र चंडी यज्ञ का आयोजन किया गया। धर्मसंघ भूतनाथ मंदिर की ओर से सोमवार को माता सिद्धि काली मंदिर परिसर में यह विशेष यज्ञ संपन्न हुआ। यज्ञ में राजपूत सभा, ब्राह्मण सभा और वीरमंडल सहित विभिन्न सामाजिक संस्थाओं के प्रतिनिधि और पूर्व सैनिक शामिल हुए। धर्मसंघ भूतनाथ के सलाहकार डॉ. ओमराज शर्मा ने बताया कि यज्ञ का मुख्य उद्देश्य देश की रक्षा में तैनात जवानों को बल प्रदान करना है। साथ ही देश के लिए शहीद हुए जवानों की आत्मा की शांति के लिए भी प्रार्थना की गई। यज्ञ में एक हजार मंत्रों का उच्चारण किया गया। इस दौरान पहलगाम में मारे गए पर्यटकों की आत्मा की शांति के लिए भी प्रार्थना की गई। नगर निगम मंडी के महापौर वीरेंद्र भट्ट शर्मा ने प्राचीन सिद्ध काली मंदिर में पूजा-पाठ कर यज्ञ का शुभारंभ किया। महापौर ने आयोजकों को बधाई देते हुए कहा कि इस यज्ञ से देश की रक्षा में तैनात जवानों को बल मिलेगा। उन्होंने कहा कि यह यज्ञ शहीद जवानों की आत्मा को शांति प्रदान करेगा।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-12 11:08:13",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.bhaskarassets.com/thumb/1000x1000/web2images/521/2025/05/12/b63837dd-d77b-4312-b819-79d18e82086d_1747041058385.jpg",
+            "video_url": null,
+            "source_id": "bhaskar_hindi",
+            "source_name": "Bhaskar",
+            "source_priority": 34179,
+            "source_url": "https://www.bhaskar.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/bhaskar_hindi.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "lifestyle"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
             "article_id": "9f65bcf3b90e119a7d8b71580619bc0a",
             "title": "सिर्फ एक फोटो से हैक हो सकता है बैंक अकाउंट, जानिए क्या है ये नया व्हाट्सएप इमेज स्कैम",
             "link": "https://hindi.webdunia.com/mobile-news/whatsapp-image-scam-alert-in-hindi-125051200055_1.html",
@@ -23254,723 +23923,6 @@
             ],
             "category": [
                 "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "13058bb69c77d56b66e44ab9d12b0f23",
-            "title": "आज 11 मई 2025 का ये है पंचांग, जानें शुभ मुहूर्त और अशुभ समय",
-            "link": "https://www.prabhatkhabar.com/religion/aaj-ka-panchang-11-may-2025-sunday-abhijeet-muhurt-rahu-kaal-samay",
-            "keywords": [
-                "aaj ka panchang",
-                "religion news",
-                "religion"
-            ],
-            "creator": [
-                "Shaurya Punj"
-            ],
-            "description": "Aaj Ka Panchang 11 May 2025: आज का पंचांग हमारे हिन्दू धर्म में किसी भी महत्वपूर्ण कार्य को करने से पूर्व शुभ मुहूर्त का निर्धारण किया जाता है, चाहे वह नया व्यवसाय आरंभ करना हो, विवाह जैसे शुभ कार्य हों, या विशेष त्योहार, व्रत, उत्सव और समारोह. आइए, आज ज्योतिषाचार्य से 11 मई 2025 के पंचांग की तिथि के सभी शुभ मुहूर्त और अशुभ समय के बारे में जानते हैं.The post आज 11 मई 2025 का ये है पंचांग, जानें शुभ मुहूर्त और अशुभ समय appeared first on Prabhat Khabar.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-10 23:07:00",
-            "pubDateTZ": "UTC",
-            "image_url": "https://www.prabhatkhabar.com/wp-content/uploads/2025/05/Aaj-Ka-Panchang-11-May-2025.jpg",
-            "video_url": null,
-            "source_id": "prabhatkhabar",
-            "source_name": "Prabhat Khabar",
-            "source_priority": 343253,
-            "source_url": "https://www.prabhatkhabar.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/prabhatkhabar.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "other"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "e928970f8207256d09c509f9ffe9530b",
-            "title": "What returning home to care for my mum after my father's death taught me about love and loss",
-            "link": "https://www.channelnewsasia.com/women/lessons-daughter-grief-loss-5113736",
-            "keywords": [
-                "women ,cna lifestyle ,singapore"
-            ],
-            "creator": null,
-            "description": "After her father died, writer Genevieve Jiang returned home to support her mother through grief. But in doing so, she found herself learning how to live alongside her – not just as a daughter, but as a caregiver and companion through life’s quiet transitions.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-10 23:06:52",
-            "pubDateTZ": "UTC",
-            "image_url": "https://dam.mediacorp.sg/image/upload/s--X2JhB92J--/c_crop,h_714,w_1269,x_1,y_0/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/mediacorp/cna/image/2025/05/07/genevieve_jiang_with_mother.jpg?itok=AqzpsQuW",
-            "video_url": null,
-            "source_id": "channelnewsasia",
-            "source_name": "Channel Newsasia",
-            "source_priority": 4142,
-            "source_url": "https://www.channelnewsasia.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/channelnewsasia.jpg",
-            "language": "english",
-            "country": [
-                "georgia",
-                "yemen",
-                "afghanistan",
-                "cyprus",
-                "india",
-                "singapore",
-                "saudi arabia",
-                "maldives",
-                "japan",
-                "united arab emirates",
-                "malaysia",
-                "china",
-                "south korea",
-                "north korea",
-                "taiwan",
-                "thailand",
-                "pakistan",
-                "mongolia",
-                "brunei",
-                "lebanon",
-                "indonesia",
-                "kyrgyzstan",
-                "syria",
-                "israel",
-                "bhutan",
-                "iran",
-                "turkey",
-                "armenia",
-                "qatar",
-                "philippines",
-                "hong kong",
-                "kazakhstan",
-                "iraq",
-                "bangladesh",
-                "laos",
-                "vietnam",
-                "timor-leste",
-                "kuwait",
-                "myanmar",
-                "azerbaijan",
-                "jordan",
-                "nepal",
-                "sri lanka",
-                "uzbekistan",
-                "turkmenistan",
-                "macau",
-                "bahrain",
-                "cambodia",
-                "tajikistan",
-                "romania"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "96a596abcc5966b732a383a039b6686f",
-            "title": "Tremulous journey",
-            "link": "https://www.deccanherald.com/features/spirituality-and-wellness/tremulous-journey-3533051",
-            "keywords": null,
-            "creator": [
-                "Dr Praveen Kumar Kaudlay"
-            ],
-            "description": "Tremulous journey",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-10 23:06:40",
-            "pubDateTZ": "UTC",
-            "image_url": "https://images.deccanherald.com/deccanherald%2F2025-05-10%2Ffv2b26b6%2Ffile71d2wr2pp5vs7f8mc56.jpg?ar=40%3A21&auto=format%2Ccompress&mode=crop&ogImage=true&rect=0%2C100%2C3865%2C2029&w=1200",
-            "video_url": null,
-            "source_id": "deccanherald",
-            "source_name": "Deccan Herald",
-            "source_priority": 10080,
-            "source_url": "https://www.deccanherald.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/deccanherald.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "ad21e8f7d11269e6a46fb6f33646389d",
-            "title": "सांसद पांडे ने जयंती पर मां भानेश्वरी मंदिर में किए दर्शन",
-            "link": "https://www.bhaskar.com/local/chhattisgarh/rajnandgaon/news/mp-pandey-visited-maa-bhaneshwari-temple-on-her-birth-anniversary-135004475.html",
-            "keywords": null,
-            "creator": null,
-            "description": "राजनांदगांव| ग्राम सिंघोला में आयोजित प्रदेश स्तरीय मां भानेश्वरी देवी जयंती महोत्सव में सांसद संतोष पांडे पहुंचे। उन्होंने मां भानेश्वरी के दर्शन किए। आशीर्वाद लिया। प्रदेश और जिलेवासियों की सुख-समृद्धि की कामना की। सांसद पांडेय ने कहा कि मां भानेश्वरी के चमत्कार, त्याग और तपस्या की कहानियां क्षेत्र में प्रसिद्ध हैं। उन्होंने अपना जीवन समाज सेवा में समर्पित किया। महोत्सव में युवा मोर्चा अध्यक्ष जितेंद्र साहू, वक्रतुंड साहू, डोमेश्वर साहू, पाशपाल साहू, जितेंद्र कुमार, अभिजीत साहू सहित युवा मोर्चा के कई कार्यकर्ता मौजूद रहे।",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-10 23:06:40",
-            "pubDateTZ": "UTC",
-            "image_url": "https://images.bhaskarassets.com/thumb/1000x1000/web2images/521/2025/05/11/206_1746872543681f28df78310_04.jpg",
-            "video_url": null,
-            "source_id": "bhaskar_hindi",
-            "source_name": "Bhaskar",
-            "source_priority": 34179,
-            "source_url": "https://www.bhaskar.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/bhaskar_hindi.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "domestic",
-                "other"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "07372214541dc7e40c84c777ca0dc233",
-            "title": "Congress MP Aujla, party workers hold protest against Pakistan govt for targeting civilians",
-            "link": "https://www.tribuneindia.com/news/amritsarprotest/cong-mp-aujla-party-workers-hold-protest-against-pakistan-govt-for-targeting-civilians",
-            "keywords": [
-                "drugtrafficking",
-                "isi",
-                "punjabsecurity",
-                "religiousshrines",
-                "amritsarprotest",
-                "gurjeetsinghaujla",
-                "pakistanterrorism",
-                "indiapakistanborder",
-                "nihangsikhs",
-                "sikhcommunity"
-            ],
-            "creator": [
-                "Tribune News Service"
-            ],
-            "description": "Amritsar’s Member Parliament Gurjeet Singh Aujla on Saturday held a protest against the Pakistan government for targeting civilian areas and religious shrines. He was accompanied by Nihang Sikhs and Sikh organisations. He warned Pakistan against spreading false propaganda in their attempt to dividing the Sikh community. They burned an effigy of Pakistan army chief Asim [...]",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-10 23:06:39",
-            "pubDateTZ": "UTC",
-            "image_url": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/webp/medium/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTE4ZTM1YTAwLTJlMTEtMTFmMC04NDBiLTBkMWUyZGMyZWRkYi5qcGc%3D",
-            "video_url": null,
-            "source_id": "tribuneindia",
-            "source_name": "The Tribune India",
-            "source_priority": 15316,
-            "source_url": "https://www.tribuneindia.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/tribuneindia.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "e4b4de23963b8dea64b9827646a290ff",
-            "title": "टीआई&नायब तहसीलदार विवाद, डीजीपी से शिकायत कर टीआई को बचाने का आरोप, पुलिस बोली& तीन एडिशनल एसपी की जांच में मिला निर्दोष",
-            "link": "http://www.tajakhabars.in/TI-Naib-Tehsildar-dispute-allegation-of-saving-TI-by-complaining-to-DGP-police-said-found-innocent-in-the-investigation-of-three-Additional-SPs",
-            "keywords": null,
-            "creator": [
-                "Admin"
-            ],
-            "description": "TI-Naib Tehsildar dispute, allegation of saving TI by complaining to DGP, police said- found innocent in the investigation of three Additional SPs",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-10 23:06:33",
-            "pubDateTZ": "UTC",
-            "image_url": "http://www.tajakhabars.in/uploads/images/2025/05/image_750x500_681fdbeec255a.jpg",
-            "video_url": null,
-            "source_id": "tajakhabars",
-            "source_name": "Tajakhabars",
-            "source_priority": 40538628,
-            "source_url": "http://www.tajakhabars.in",
-            "source_icon": null,
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "dd799c850f17f25c1d0b52b736d7a3b4",
-            "title": "96.8% अंक लाकर हर्षिता स्कूल में टॉपर",
-            "link": "https://www.bhaskar.com/local/chhattisgarh/balod/news/topper-of-harshita-school-with-968-marks-135004473.html",
-            "keywords": null,
-            "creator": null,
-            "description": "भास्कर न्यूज | बालोद स्वामी आत्मानंद उत्कृष्ट अंग्रेजी माध्यम विद्यालय आमापारा की छात्रा हर्षिता राणा ने हाई स्कूल परीक्षा में 96.8 प्रतिशत अंक हासिल किए। वह स्कूल में प्रथम स्थान पर रही। पढ़ाई के साथ खेल में भी हर्षिता ने नाम कमाया है। उन्होंने जुजुत्सु खेल में बालोद जिले से राष्ट्रीय स्तर पर प्रतिनिधित्व किया है। हर्षिता के बड़े भाई झलक राणा ने कक्षा 12वीं की परीक्षा 72.4 प्रतिशत अंकों से पास की है। उन्होंने इस वर्ष मणिपुर में हुई राष्ट्रीय फुटबॉल प्रतियोगिता में छत्तीसगढ़ की ओर से भाग लिया।",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-10 23:06:29",
-            "pubDateTZ": "UTC",
-            "image_url": "https://images.bhaskarassets.com/thumb/1000x1000/web2images/521/2025/05/11/app_1746883184681f527032377_img-20250510-wa0049.jpg",
-            "video_url": null,
-            "source_id": "bhaskar_hindi",
-            "source_name": "Bhaskar",
-            "source_priority": 34179,
-            "source_url": "https://www.bhaskar.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/bhaskar_hindi.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "domestic",
-                "other"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "4f0464acb3e60bc3ae784bab7aab1f29",
-            "title": "PAK पीएम बोले- जीत की खुशी में यौम-ए-तशक्कुर मनाएंगे:अल्लाह और सेना का शुक्रिया अदा करेंगे; चीन बोला- हम पाकिस्तान के साथ",
-            "link": "https://www.bhaskar.com/international/news/india-air-strike-operation-sindoor-pakistan-pm-shehbaz-sharif-statement-ceasefire-pakistan-live-135004472.html",
-            "keywords": null,
-            "creator": null,
-            "description": "प्रधानमंत्री शहबाज शरीफ ने शनिवार को ऐलान किया है कि देश में 'यौम-ए-तशक्कुर' मनाया जाएगा। उन्होंने कहा कि भारत की आक्रामकता के जवाब में पाकिस्तान की कार्रवाई और ऑपरेशन बुनीयान-उल-मरसूस की सफलता के बाद ये दिन मनाया जाएगा। एसोसिएटेड प्रेस ऑफ पाकिस्तान की तरफ से दी गई जानकारी के मुताबिक, PMO से जारी बयान में कहा गया है कि यह दिन अल्लाह का शुक्रिया अदा करने, सेनाओं को सलाम करने और देश की एकता की सराहना के तौर पर मनाया जाएगा। इससे पहले शनिवार शाम 5 बजे भारत और पाकिस्तान के बीच सीजफायर हुआ था। इसके तीन घंटे बाद पाकिस्तान ने दावा किया कि भारत ने सीजफायर का उल्लंघन किया है। पाकिस्तान ने कहा है कि पेशावर एयरपोर्ट के पास एयर डिफेंस सिस्टम ने भारतीय ड्रोन को मार गिराया है। वहीं, चीन के विदेश मंत्री वांग यी ने कहा कि उनका देश पाकिस्तान की संप्रभुता, क्षेत्रीय अखंडता और आजादी की रक्षा में उसके साथ खड़ा रहेगा। पाकिस्तान के विदेश मंत्रालय के मुताबिक चीन के विदेश मंत्री ने यह बयान पाकिस्तानी उप-प्रधानमंत्री और विदेश मंत्री इशाक डार के साथ फोन पर बातचीत के दौरान दिया। दोनों देशों में सीजफायर और इससे पहले जारी टकराव के बारे में विस्तार से जानने के लिए नीचे दिए ब्लॉग से गुजर जाइए...",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-10 23:06:23",
-            "pubDateTZ": "UTC",
-            "image_url": "https://images.bhaskarassets.com/thumb/1000x1000/web2images/521/2025/05/11/comp-4-2_1746918255.gif",
-            "video_url": null,
-            "source_id": "bhaskar_hindi",
-            "source_name": "Bhaskar",
-            "source_priority": 34179,
-            "source_url": "https://www.bhaskar.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/bhaskar_hindi.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "lifestyle"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "8c4105235e398595bc4d26ae21e74062",
-            "title": "सीजफायर के बाद पाकिस्तान को अचानक 'पावर' कहां से मिली, एक फोन पर भारत ने हवा निकाली",
-            "link": "https://zeenews.india.com/hindi/world/pakistan-china/ind-pak-ceasefire-suddenly-why-pakistan-drone-attack-nsa-doval-china-call/2752552",
-            "keywords": null,
-            "creator": [
-                "Zee News हिन्दी"
-            ],
-            "description": "जिस पाकिस्तान के चार एयरबेस भारत ने तबाह कर दिए वह इतने पर भी विक्ट्री के दावे कर रहा है. सीजफायर की अपील करने के बाद अचानक भारतीय सीमा का उल्लंघन करते हुए ड्रोन भेजने शुरू कर दिए. उसे यह पावर उसके एक हमदर्द से मिली थी लेकिन भारत से गए एक फोन कॉल ने सारी साजिश फेल कर दी.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-10 23:06:23",
-            "pubDateTZ": "UTC",
-            "image_url": "https://hindi.cdn.zeenews.com/hindi/sites/default/files/2025/05/11/3902089-india-pakistan-china.jpg?im=FitAndFill%3D%281200%2C900%29",
-            "video_url": null,
-            "source_id": "zeenews",
-            "source_name": "Zee News",
-            "source_priority": 5319,
-            "source_url": "http://zeenews.india.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/zeenews.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "8cc93f0b58257e5b5dc6acf2ca75ef72",
-            "title": "95% अंक के साथ यंजना स्कूल में प्रथम",
-            "link": "https://www.bhaskar.com/local/chhattisgarh/balod/news/yanjana-stood-first-in-the-school-with-95-marks-135004471.html",
-            "keywords": null,
-            "creator": null,
-            "description": "बालोद| सरस्वती शिशु मंदिर उच्चतर माध्यमिक विद्यालय की छात्रा यंजना साहू ने 10वीं बोर्ड परीक्षा में 95% अंक हासिल कर विद्यालय में प्रथम स्थान पर रही। यंजना ग्राम जुंगेरा की रहने वाली है। उसकी इस उपलब्धि पर साहू समाज के प्रमुख सुरेश साहू, देवानंद साहू, चंद्रहास साहू, हर्षित साहू, रोनित, चंचल, वाणी और रुद्र साहू ने खुशी जताई है।",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-10 23:06:21",
-            "pubDateTZ": "UTC",
-            "image_url": "https://images.bhaskarassets.com/thumb/1000x1000/web2images/521/2025/05/11/app_1746882963681f5193309ec_img-20250510-wa0048.jpg",
-            "video_url": null,
-            "source_id": "bhaskar_hindi",
-            "source_name": "Bhaskar",
-            "source_priority": 34179,
-            "source_url": "https://www.bhaskar.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/bhaskar_hindi.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "domestic",
-                "other"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "e69c9df10fb7ed55420280280429ba6f",
-            "title": "Minnesota United roll past Inter Miami",
-            "link": "https://www.livemint.com/sports/news/minnesota-united-roll-past-inter-miami-11746918376005.html",
-            "keywords": null,
-            "creator": null,
-            "description": "SOCCER-USA-MIN-MIA/RECAP",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-10 23:06:15",
-            "pubDateTZ": "UTC",
-            "image_url": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/sports1_1733466411301_1733466424470.png",
-            "video_url": null,
-            "source_id": "livemint",
-            "source_name": "Mint",
-            "source_priority": 7134,
-            "source_url": "https://www.livemint.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/livemint.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "sports"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": true
-        },
-        {
-            "article_id": "f463bde185ae185eef9bab7e91b37220",
-            "title": "सेजस कन्नेवाड़ा में 94% अंक लाकर जयश्री टॉपर",
-            "link": "https://www.bhaskar.com/local/chhattisgarh/balod/news/jayshree-tops-cejs-kannewada-with-94-marks-135004469.html",
-            "keywords": null,
-            "creator": null,
-            "description": "बालोद| पीएम श्री सेजस कन्नेवाड़ा स्कूल का परीक्षा परिणाम शानदार रहा। कक्षा 10वीं हिंदी माध्यम में 123 छात्रों ने परीक्षा दी थी। जयश्री देवांगन ने 94% अंक लाकर स्कूल में पहला स्थान पाया। रोशनी साहू ने 93.5% अंक के साथ दूसरा स्थान हासिल किया। कक्षा 12वीं विज्ञान संकाय में गुलशन कुमार ने 82.52% अंक के साथ पहला स्थान पाया। उमा देवी ने 81% अंक लेकर दूसरा स्थान हासिल किया। कला संकाय में कमल नारायण ने 86.8% अंक के साथ पहला और पद्मिनी ने 84.4% अंक लेकर दूसरा स्थान पाया। कृषि संकाय में ओमद्वीप ने 81.8% अंक के साथ पहला और राकेश कुमार ने 79.2% अंक लेकर दूसरा स्थान प्राप्त किया। वाणिज्य संकाय में डीगेश कुमार ने 82% अंक के साथ पहला स्थान पाया। रोशनी साहू ने 70.4% अंक लेकर दूसरा स्थान हासिल किया। अंग्रेजी माध्यम की कक्षा 10वीं में सुजय डडसेना ने 88% अंक के साथ पहला और कुश कुमार निषाद ने 86.3% अंक लेकर दूसरा स्थान प्राप्त किया। कक्षा 12वीं अंग्रेजी माध्यम में मयंक ठाकुर ने विज्ञान गणित संकाय में 63.6% अंक के साथ पहला स्थान पाया। अभिषेक साहू ने जीवविज्ञान में 56.8% अंक के साथ पहला स्थान प्राप्त किया। चंचल कश्यप ने वाणिज्य संकाय में 53% अंक के साथ पहला स्थान पाया।",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-10 23:06:07",
-            "pubDateTZ": "UTC",
-            "image_url": null,
-            "video_url": null,
-            "source_id": "bhaskar_hindi",
-            "source_name": "Bhaskar",
-            "source_priority": 34179,
-            "source_url": "https://www.bhaskar.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/bhaskar_hindi.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "domestic",
-                "other"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "a1f86ceb1cc42cbd4cc100055ae3ef4f",
-            "title": "India's aerial assault leaves Pakistan's six airbases in ruins",
-            "link": "https://keralakaumudi.com/en/news/world/others/indias-aerial-assault-leaves-pakistans-six-airbases-in-ruins-1532117",
-            "keywords": null,
-            "creator": null,
-            "description": "NEW DELHI: It was Pakistan that requested an emergency ceasefire after realising, by yesterday morning, that it was losing control following India’s counteroffensive.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-10 23:05:18",
-            "pubDateTZ": "UTC",
-            "image_url": "https://keralakaumudi.com/web-news/en/2025/05/NMAN0586482/image/airstrike.1746907919.webp",
-            "video_url": null,
-            "source_id": "keralakaumudi",
-            "source_name": "Kerala Kaumudi Online",
-            "source_priority": 79921,
-            "source_url": "https://keralakaumudi.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/keralakaumudi.jpg",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "world"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "d6f8e2a984e30faa1e045eca1224cfc2",
-            "title": "Removed from post of Vigilance Chief while hunting down corrupt individuals; Yogesh Gupta set to leave Kerala",
-            "link": "https://keralakaumudi.com/en/news/kerala/general/removed-from-post-of-vigilance-chief-while-hunting-down-corrupt-individuals-yogesh-gupta-set-to-leave-kerala-1532131",
-            "keywords": null,
-            "creator": null,
-            "description": "A chartered accountant by profession, Yogesh has previously served five years in the CBI and seven years in the ED, investigating numerous high-profile cases.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-10 23:05:18",
-            "pubDateTZ": "UTC",
-            "image_url": "https://keralakaumudi.com/web-news/en/2025/05/NMAN0586483/image/yogesh-gupta.1746910028.webp",
-            "video_url": null,
-            "source_id": "keralakaumudi",
-            "source_name": "Kerala Kaumudi Online",
-            "source_priority": 79921,
-            "source_url": "https://keralakaumudi.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/keralakaumudi.jpg",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "e4d2aac268b2d955fd0a116bb95f4d28",
-            "title": "Fire breaks out at house in Adimali; four members of family charred to death",
-            "link": "https://keralakaumudi.com/en/news/kerala/general/fire-breaks-out-at-house-in-adimali-four-members-of-family-charred-to-death-1532133",
-            "keywords": null,
-            "creator": null,
-            "description": "ADIMALI: Four members of a family were found dead after a house caught fire near Marakkanam, Konnathady in Adimali.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-10 23:05:17",
-            "pubDateTZ": "UTC",
-            "image_url": "https://keralakaumudi.com/web-news/en/2025/05/NMAN0586485/image/thumb/fire.1.3266978.webp",
-            "video_url": null,
-            "source_id": "keralakaumudi",
-            "source_name": "Kerala Kaumudi Online",
-            "source_priority": 79921,
-            "source_url": "https://keralakaumudi.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/keralakaumudi.jpg",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "32e7bee3fda0b4f75741f230707ef0c4",
-            "title": "11 May Leo Rashifal: सिंह राशि वालों को नौकरी में मिल सकता है प्रमोशन, करें ये उपाय",
-            "link": "https://www.tv9hindi.com/religion/aaj-ka-singh-rashifal-11-may-2025-sunday-leo-horoscope-today-prediction-3281223.html",
-            "keywords": [
-                "धर्म",
-                "राशिफल"
-            ],
-            "creator": [
-                "Anshu Pareek"
-            ],
-            "description": "Daily Horoscope: सिंह राशि वालों को नौकरी में पदोन्नति के योग बनेंगे. सरकार में बैठे लोगों से घनिष्ठता बढ़ेगी. विद्यार्थियों को उच्च शिक्षा पाने के लिए घर से दूर जाने का अवसर प्राप्त होगा.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-10 23:05:09",
-            "pubDateTZ": "UTC",
-            "image_url": "https://images.tv9hindi.com/wp-content/uploads/2025/04/leo-2.jpg",
-            "video_url": null,
-            "source_id": "tv9bharatvarsh",
-            "source_name": "Tv9 Bharatvarsh",
-            "source_priority": 40538658,
-            "source_url": "https://www.tv9hindi.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/tv9bharatvarsh.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "47b7d533da9274ba95c96b6cc6cd4602",
-            "title": "भारत-पाक के बीच तनाव कम करने, सैन्य संघर्ष को समाप्त करने के प्रयास कर रहे : सऊदी अरब",
-            "link": "https://www.dainiktribuneonline.com/news/world/efforts-being-made-to-reduce-tensions-between-india-and-pakistan-end-military-conflict-saudi-arabia/",
-            "keywords": [
-                "latest news",
-                "dainik tribune news",
-                "विदेश",
-                "dainik tribune hindi news",
-                "hindi news"
-            ],
-            "creator": [
-                "Satish Kumar"
-            ],
-            "description": "दुबई, 10 मई (एजेंसी)भारत और पाकिस्तान में बढ़े तनाव के बीच सऊदी अरब ने शनिवार को कहा कि वह भारत और पाकिस्तान के बीच तनाव कम करने, मौजूदा सैन्य संघर्ष को समाप्त करने और सभी विवादों का बातचीत और कूटनीतिक माध्यम से समाधान किए जाने का प्रयास कर रहा है। सऊदी अरब के विदेश मंत्रालय [...]The post भारत-पाक के बीच तनाव कम करने, सैन्य संघर्ष को समाप्त करने के प्रयास कर रहे : सऊदी अरब appeared first on dainiktribuneonline.com.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-10 23:05:05",
-            "pubDateTZ": "UTC",
-            "image_url": "https://dainiktribuneonline.imagibyte.sortdcdn.net/wp-content/uploads/2023/07/DT-Default-logo.jpg",
-            "video_url": null,
-            "source_id": "dainiktribuneonline",
-            "source_name": "Breaking News In Hindi Online",
-            "source_priority": 2014324,
-            "source_url": "https://www.dainiktribuneonline.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/dainiktribuneonline.jpg",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "e5032dd660a0347b61113dc84bcac812",
-            "title": "Beer pairing",
-            "link": "https://www.deccanherald.com/lifestyle/food-and-drink/beer-pairing-3533036",
-            "keywords": null,
-            "creator": [
-                "Anuja Pandey"
-            ],
-            "description": "Beer pairing",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-10 23:05:02",
-            "pubDateTZ": "UTC",
-            "image_url": "https://images.deccanherald.com/deccanherald%2F2025-05-10%2Fmfatdc6q%2Ffile7d2mvymafxcot6451h8.jpg?ar=40%3A21&auto=format%2Ccompress&mode=crop&ogImage=true&w=1200",
-            "video_url": null,
-            "source_id": "deccanherald",
-            "source_name": "Deccan Herald",
-            "source_priority": 10080,
-            "source_url": "https://www.deccanherald.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/deccanherald.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "c27447718d2d10152e186bd101b85e1d",
-            "title": "A grief that refuses to fade",
-            "link": "https://www.thehindu.com/opinion/open-page/a-grief-that-refuses-to-fade/article69534262.ece",
-            "keywords": [
-                "open page"
-            ],
-            "creator": null,
-            "description": "Yet, amid all the Pahalgam carnage, there flickers a defiant, aching hope: a refusal to let the dead be erased",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-10 23:05:00",
-            "pubDateTZ": "UTC",
-            "image_url": "https://th-i.thgim.com/public/incoming/aco1up/article69540670.ece/alternates/LANDSCAPE_1200/India_Kashmir_Attack_Security_45988.jpg",
-            "video_url": null,
-            "source_id": "thehindu",
-            "source_name": "The Hindu",
-            "source_priority": 2972,
-            "source_url": "https://www.thehindu.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/thehindu.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "e731f0eaf8ac3991d78a7c51148fa7b0",
-            "title": "आज का राशिफल 11 मई 2025 : मेष, मिथुन और मीन राशि के जातक आज शुभ योग से पाएंगे शुभ लाभ, जानें अपना आज का भविष्यफल",
-            "link": "https://navbharattimes.indiatimes.com/astro/rashifal/bolen-sitare/aaj-ka-rashifal-11-may-2025-horoscope-today-on-sunday-shubh-yog-is-tremendously-beneficial-and-lucky-for-mesh-mithun-and-makar-rashi/articleshow/121062439.cms",
-            "keywords": null,
-            "creator": null,
-            "description": "Aaj Ka Rashifal 11 May 2025 : 11 मई का राशिफल बता रहा है कि ग्रह गोचर का संयोग ऐसा बना है कि आज मेष, मिथुन और मीन राशि के जातकों को भाग्य लाभ का मौका प्रदान कर रहा है। चंद्रमा का गोचर आज दिन तुला राशि में हो रहा है जहां चंद्रमा पर मंगल और सूर्य एवं बुध की दृष्टि बनी हुई है। ऐसे में आज धन योग, मालव्य योग सहित कई शुभ योग बने हुए हैं जिससे आज का दिन मेष से मीन तक सभी राशियों के लिए कैसा रहेगा, जानें आज का राशिफल।",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-10 23:05:00",
-            "pubDateTZ": "UTC",
-            "image_url": "https://navbharattimes.indiatimes.com/thumb/121062439/navbharat-times-121062439.jpg?height=900&imgsize-195708=&resizemode=75&width=1600",
-            "video_url": null,
-            "source_id": "navbharattimes",
-            "source_name": "Nbt Navbharattimes",
-            "source_priority": 244,
-            "source_url": "https://navbharattimes.indiatimes.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/navbharattimes.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "other"
             ],
             "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
             "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
