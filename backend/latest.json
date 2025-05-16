@@ -1,6 +1,743 @@
 {
     "articles": [
         {
+            "article_id": "ab69c7bb40fbf3e17c74382c6a0dbf9e",
+            "title": "Panchkula News: मरीजों को जानकारी दिए बिना पीडियाट्रिक वार्ड और दवाखाना भी किया शिफ्ट",
+            "link": "https://www.amarujala.com/haryana/panchkula/pediatric-ward-and-dispensary-were-also-shifted-without-informing-the-patients-panchkula-news-c-290-1-pkl1068-17293-2025-05-16",
+            "keywords": null,
+            "creator": null,
+            "description": "शहर के सेक्टर-6 सिविल अस्पताल का पीडियाट्रिक वार्ड और दवाखाना मरीजों को जानकारी दिए बिना ही वीरवार को मदर एंड चाइल्ड केयर अस्पताल में शिफ्ट कर दिया गया।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-15 20:13:59",
+            "pubDateTZ": "UTC",
+            "image_url": "https://staticimg.amarujala.com/assets/images/4cplus/2025/05/16/asapatal-ka-parana-imarata-ma-btha-kaya-gaya-thavakhana-savatha_f65c58ae90fb0d1f7fbd762ab01735b2.jpeg?dpr=1.0&q=80&w=414",
+            "video_url": null,
+            "source_id": "amarujala",
+            "source_name": "Amar Ujala",
+            "source_priority": 55215,
+            "source_url": "https://www.amarujala.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/amarujala.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "e5c01de46df77690aeacc0379b1fa83b",
+            "title": "Hisar News: राजेश सेठ से रंगदारी मांगने के आरोपी को प्रोडक्शन वारंट पर लाएगी पुलिस",
+            "link": "https://www.amarujala.com/haryana/hisar/police-will-bring-the-accused-of-demanding-extortion-from-rajesh-seth-on-production-warrant-hisar-news-c-21-hsr1020-627253-2025-05-16",
+            "keywords": null,
+            "creator": null,
+            "description": "हिसार में गांव डोभी निवासी राजेश सेठ से 50 लाख की रंगदारी मांगने के मामले में आरोपी लुका को हिसार पुलिस शुक्रवार को भरतपुर जेल से प्रोडक्शन वारंट पर लेकर आएगी।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-15 20:13:52",
+            "pubDateTZ": "UTC",
+            "image_url": "https://staticimg.amarujala.com/assets/images/2021/10/18/hisar_1634538300.jpeg?dpr=1.0&q=80&w=414",
+            "video_url": null,
+            "source_id": "amarujala",
+            "source_name": "Amar Ujala",
+            "source_priority": 55215,
+            "source_url": "https://www.amarujala.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/amarujala.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "90dbc29e258ee72e4337669febbb4d13",
+            "title": "Take-Two Interactive forecasts annual bookings below revised estimates",
+            "link": "https://www.channelnewsasia.com/business/take-two-interactive-forecasts-annual-bookings-below-revised-estimates-5133386",
+            "keywords": [
+                "business"
+            ],
+            "creator": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-15 20:13:47",
+            "pubDateTZ": "UTC",
+            "image_url": null,
+            "video_url": null,
+            "source_id": "channelnewsasia",
+            "source_name": "Channel Newsasia",
+            "source_priority": 4142,
+            "source_url": "https://www.channelnewsasia.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/channelnewsasia.jpg",
+            "language": "english",
+            "country": [
+                "singapore",
+                "georgia",
+                "yemen",
+                "afghanistan",
+                "cyprus",
+                "india",
+                "saudi arabia",
+                "maldives",
+                "japan",
+                "united arab emirates",
+                "malaysia",
+                "china",
+                "south korea",
+                "north korea",
+                "taiwan",
+                "thailand",
+                "pakistan",
+                "mongolia",
+                "brunei",
+                "lebanon",
+                "indonesia",
+                "kyrgyzstan",
+                "syria",
+                "israel",
+                "bhutan",
+                "iran",
+                "turkey",
+                "armenia",
+                "qatar",
+                "philippines",
+                "hong kong",
+                "kazakhstan",
+                "iraq",
+                "bangladesh",
+                "laos",
+                "vietnam",
+                "timor-leste",
+                "kuwait",
+                "myanmar",
+                "azerbaijan",
+                "jordan",
+                "nepal",
+                "oman",
+                "sri lanka",
+                "uzbekistan",
+                "turkmenistan",
+                "macau",
+                "bahrain",
+                "cambodia",
+                "tajikistan"
+            ],
+            "category": [
+                "business"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": true
+        },
+        {
+            "article_id": "07ae1921238eef85e217eae1dd25d89f",
+            "title": "Take-Two sees annual bookings below revised estimates as \"GTA VI\" delay weighs",
+            "link": "https://www.channelnewsasia.com/business/take-two-sees-annual-bookings-below-revised-estimates-gta-vi-delay-weighs-5133386",
+            "keywords": [
+                "business"
+            ],
+            "creator": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-15 20:13:47",
+            "pubDateTZ": "UTC",
+            "image_url": null,
+            "video_url": null,
+            "source_id": "channelnewsasia",
+            "source_name": "Channel Newsasia",
+            "source_priority": 4142,
+            "source_url": "https://www.channelnewsasia.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/channelnewsasia.jpg",
+            "language": "english",
+            "country": [
+                "singapore",
+                "georgia",
+                "yemen",
+                "afghanistan",
+                "cyprus",
+                "india",
+                "saudi arabia",
+                "maldives",
+                "japan",
+                "united arab emirates",
+                "malaysia",
+                "china",
+                "south korea",
+                "north korea",
+                "taiwan",
+                "thailand",
+                "pakistan",
+                "mongolia",
+                "brunei",
+                "lebanon",
+                "indonesia",
+                "kyrgyzstan",
+                "syria",
+                "israel",
+                "bhutan",
+                "iran",
+                "turkey",
+                "armenia",
+                "qatar",
+                "philippines",
+                "hong kong",
+                "kazakhstan",
+                "iraq",
+                "bangladesh",
+                "laos",
+                "vietnam",
+                "timor-leste",
+                "kuwait",
+                "myanmar",
+                "azerbaijan",
+                "jordan",
+                "nepal",
+                "oman",
+                "sri lanka",
+                "uzbekistan",
+                "turkmenistan",
+                "macau",
+                "bahrain",
+                "cambodia",
+                "tajikistan"
+            ],
+            "category": [
+                "business"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "50095b6789763acee6692f7fe0481879",
+            "title": "Udhampur News: तवी नदी का मटमैला पानी घरों में हो रहा सप्लाई, लोग पड़ रहे बीमार",
+            "link": "https://www.amarujala.com/jammu-and-kashmir/udhampur/peoples-meet-with-sdm-udhampur-news-c-202-1-sjam1013-123214-2025-05-16",
+            "keywords": null,
+            "creator": null,
+            "description": "तवी नदी का मटमैला पानी घरों में हो रहा सप्लाई, लोग पड़ रहे बीमार",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-15 20:13:46",
+            "pubDateTZ": "UTC",
+            "image_url": "https://staticimg.amarujala.com/assets/images/4cplus/2025/05/16/canana-tava-natha-ma-matamal-pana-ka-samasaya-ka-lkara-esadama-sa-malta-paratana-thhamadal_7b4fe9042b0e942d456e9d48009b3810.jpeg?dpr=1.0&q=80&w=414",
+            "video_url": null,
+            "source_id": "amarujala",
+            "source_name": "Amar Ujala",
+            "source_priority": 55215,
+            "source_url": "https://www.amarujala.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/amarujala.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "99871146570727d95920948240a27d3c",
+            "title": "Karrion Kross makes major announcement ahead of WWE SmackDown",
+            "link": "https://www.sportskeeda.com/wwe/news-karrion-kross-makes-major-announcement-ahead-wwe-smackdown",
+            "keywords": [
+                "wwe"
+            ],
+            "creator": [
+                "Robert Lentini"
+            ],
+            "description": "WWE Superstar Karrion Kross made a major announcement today on social media. The veteran had recently gone viral for his rant following AJ Styles' loss to Logan Paul at WrestleMania 41.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-15 20:13:38",
+            "pubDateTZ": "UTC",
+            "image_url": "https://staticc.sportskeeda.com/editor/2025/05/2ca2e-17473412006666-1920.jpg",
+            "video_url": null,
+            "source_id": "sportskeeda",
+            "source_name": "Sportskeeda",
+            "source_priority": 172,
+            "source_url": "http://sportskeeda.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/sportskeeda.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "sports"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "d94731623fec155e5d06419601b47a24",
+            "title": "Kanpur News: योजना नदियों के नाम पर फ्लैटों में पानी नहीं",
+            "link": "https://www.amarujala.com/uttar-pradesh/kanpur/there-is-no-water-in-the-flats-in-the-name-of-river-scheme-kanpur-news-c-12-1-knp1063-1113047-2025-05-16",
+            "keywords": null,
+            "creator": null,
+            "description": "योजना नदियों के नाम पर फ्लैटों में पानी नहीं",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-15 20:13:34",
+            "pubDateTZ": "UTC",
+            "image_url": "https://staticimg.amarujala.com/assets/images/4cplus/2025/05/16/kalkatarata-ma-paratharashana_006ea76d7b30047e71bbe15f0eb7eaf0.jpeg?dpr=1.0&q=80&w=414",
+            "video_url": null,
+            "source_id": "amarujala",
+            "source_name": "Amar Ujala",
+            "source_priority": 55215,
+            "source_url": "https://www.amarujala.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/amarujala.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "909457a9dcb04127897d375cda3ba3d1",
+            "title": "Bahraich News: सपा महिला सभा ने निकाला जुलूस",
+            "link": "https://www.amarujala.com/uttar-pradesh/bahraich/sp-mahila-sabha-took-out-a-procession-bahraich-news-c-98-1-slko1007-130675-2025-05-16",
+            "keywords": null,
+            "creator": null,
+            "description": "सपा महिला सभा ने निकाला जुलूस",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-15 20:13:28",
+            "pubDateTZ": "UTC",
+            "image_url": "https://staticimg.amarujala.com/assets/images/4cplus/2025/05/16/bharaica-shahara-ma-jalsa-nakalkara-paratharashana-karata-sapa-karayakarata_9c99379e3e2b4712bcc2eecba8ff1384.jpeg?dpr=1.0&q=80&w=414",
+            "video_url": null,
+            "source_id": "amarujala",
+            "source_name": "Amar Ujala",
+            "source_priority": 55215,
+            "source_url": "https://www.amarujala.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/amarujala.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "9c8562e2b516fd3bdbf18f26b20e96c8",
+            "title": "Sambhal News: संभल में लगेगी पृथ्वीराज चौहान की प्रतिमा",
+            "link": "https://www.amarujala.com/uttar-pradesh/sambhal/statue-of-prithviraj-chauhan-will-be-installed-in-sambhal-sambhal-news-c-275-1-smbd1031-122546-2025-05-16",
+            "keywords": null,
+            "creator": null,
+            "description": "चौधरी सराय और चंदौसी चौराहे का जल्द ही चौड़ीकरण और सौंदर्यीकरण शुरू होगा। साथ ही गोल चक्कर बनाकर पृथ्वीराज सिंह चौहान की प्रतिमा लगाई जाएगी।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-15 20:13:21",
+            "pubDateTZ": "UTC",
+            "image_url": "https://staticimg.amarujala.com/assets/images/2021/12/02/sambhal_1638431705.jpeg?dpr=1.0&q=80&w=414",
+            "video_url": null,
+            "source_id": "amarujala",
+            "source_name": "Amar Ujala",
+            "source_priority": 55215,
+            "source_url": "https://www.amarujala.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/amarujala.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "0005ec670bae54870fdb0f0107e9f2d9",
+            "title": "Bhiwani News: फंदे पर लटका मिला श्रमिक का शव",
+            "link": "https://www.amarujala.com/haryana/bhiwani/the-body-of-a-worker-was-found-hanging-from-a-noose-bhiwani-news-c-21-hld1018-626722-2025-05-16",
+            "keywords": null,
+            "creator": null,
+            "description": "भिवानी में गांव मानहेरू के पास एक ईंट भट्ठे पर काम करने वाले मजदूर का शव रेलवे स्टेशन के पास पेड़ पर लगे फंदे से लटका मिला।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-15 20:13:10",
+            "pubDateTZ": "UTC",
+            "image_url": "https://staticimg.amarujala.com/assets/images/2021/11/09/bhiwani_1636439529.jpeg?dpr=1.0&q=80&w=414",
+            "video_url": null,
+            "source_id": "amarujala",
+            "source_name": "Amar Ujala",
+            "source_priority": 55215,
+            "source_url": "https://www.amarujala.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/amarujala.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "80aa82e5631d4e02959d72fb087dcf84",
+            "title": "Agra News: परिक्रमा मार्ग का होगा सौंदर्यीकरण",
+            "link": "https://www.amarujala.com/uttar-pradesh/agra/the-parikrama-route-will-be-beautified-kasganj-news-c-175-1-kas1001-131933-2025-05-16",
+            "keywords": null,
+            "creator": null,
+            "description": "परिक्रमा मार्ग का होगा सौंदर्यीकरण",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-15 20:13:04",
+            "pubDateTZ": "UTC",
+            "image_url": "https://staticimg.amarujala.com/assets/images/4cplus/2025/05/16/saraja-ma-parayatana-thharamaratha-karaya-vabhaga-ka-athhakara-ka-satha-hara-ka-paugdha-ka-narakashhanae-karata-palka_450fbc5f47b47c7e7cd152697f5ea135.jpeg?dpr=1.0&q=80&w=414",
+            "video_url": null,
+            "source_id": "amarujala",
+            "source_name": "Amar Ujala",
+            "source_priority": 55215,
+            "source_url": "https://www.amarujala.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/amarujala.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "0d478222284b745694bb27e3311d929e",
+            "title": "Trump touts $200 billion in UAE deals in wrapping Mideast trip",
+            "link": "https://www.moneycontrol.com/world/trump-touts-200-billion-in-uae-deals-in-wrapping-mideast-trip-article-13028197.html",
+            "keywords": [
+                "trump uae deals, trump middle east visit, us uae $200 billion agreements, ai deals uae, qualcomm abu dhabi center, nvidia chip exports uae, uae ai campus g42, emirates global aluminum project, boeing etihad deal, exxonmobil adnoc partnership, amazon web services uae, trump saudi qatar investments, us critical minerals uae, trump ai strategy middle east, uae tech investments"
+            ],
+            "creator": [
+                "Moneycontrol"
+            ],
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-15 20:12:58",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.moneycontrol.com/static-mcnews/2025/05/20250515082505_Trump-2.jpg",
+            "video_url": null,
+            "source_id": "moneycontrol",
+            "source_name": "Moneycontrol",
+            "source_priority": 1064,
+            "source_url": "https://www.moneycontrol.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/moneycontrol.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top",
+                "business",
+                "world",
+                "politics"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": true
+        },
+        {
+            "article_id": "d8c4d5ae3ae7c7e2b3fd97dd4e23a07e",
+            "title": "दरभंगा में राहुल गांधी पर दर्ज हुई एफआईआर, बिना अनुमति छात्रावास में किया कार्यक्रम",
+            "link": "https://www.bhaskarhindi.com/politics/bihar-assembly-elections-rahul-bihar-tour-rahul-darbhanga-hostel-program-fir-against-rahul-gandhi-darbhanga-sdm-vikas-kumar-bihar-politics-bihar-news-1142226",
+            "keywords": [
+                "राजनीति,बड़ी खबरें"
+            ],
+            "creator": [
+                "Anchal Shridhar"
+            ],
+            "description": "बिहार के एक दिवसीय दौरे पर पहुंचे राहुल गांधीदरभंगा के छात्रावास में छात्रों के साथ किया संवाद बिना अनुमति कार्यक्रम करने पर जिला प्रशासन ने लिया एक्शन",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-15 20:12:56",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.bhaskarhindi.com/h-upload/2025/05/15/1427693-capture.webp",
+            "video_url": null,
+            "source_id": "bhaskarhindi",
+            "source_name": "Bhaskar Hindi",
+            "source_priority": 596776,
+            "source_url": "https://www.bhaskarhindi.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/bhaskarhindi.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "politics"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "341d111ea3021a5feb6662acd69a6623",
+            "title": "संभल हिंसा : शारिक साटा गैंग के मुल्ला अफरोज की जमानत अर्जी पर सुनवाई अब 20 को होगी",
+            "link": "https://www.amarujala.com/uttar-pradesh/sambhal/now-the-hearing-on-mullah-afrozs-bail-plea-will-be-held-on-20th-chandausi-news-c-204-1-chn1003-120082-2025-05-16",
+            "keywords": null,
+            "creator": null,
+            "description": "संभल हिंसा के दौरान फायरिंग कर दो लोगों की हत्या करने के आरोपी शारिक साटा गिरोह के सक्रिय सदस्य मुल्ला अफरोज की तीसरी जमानत अर्जी दाखिल की गई है।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-15 20:12:51",
+            "pubDateTZ": "UTC",
+            "image_url": "https://staticimg.amarujala.com/assets/images/2021/12/02/sambhal_1638431705.jpeg?dpr=1.0&q=80&w=414",
+            "video_url": null,
+            "source_id": "amarujala",
+            "source_name": "Amar Ujala",
+            "source_priority": 55215,
+            "source_url": "https://www.amarujala.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/amarujala.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "a8a316a1ef76ae2280952d54c3dab6d4",
+            "title": "Bahraich News: बहेगी विकास की बयार, 4.86 करोड़ से होगा नाला-नाली व अंत्येष्टि स्थल का निर्माण",
+            "link": "https://www.amarujala.com/uttar-pradesh/bahraich/wind-of-development-will-blow-drain-and-cremation-ground-will-be-constructed-with-rs-486-crores-bahraich-news-c-98-1-slko1011-130679-2025-05-16",
+            "keywords": null,
+            "creator": null,
+            "description": "बहेगी विकास की बयार, 4.86 करोड़ से होगा नाला-नाली व अंत्येष्टि स्थल का निर्माण",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-15 20:12:45",
+            "pubDateTZ": "UTC",
+            "image_url": "https://staticimg.amarujala.com/assets/images/2021/12/02/bahraich_1638428670.jpeg?dpr=1.0&q=80&w=414",
+            "video_url": null,
+            "source_id": "amarujala",
+            "source_name": "Amar Ujala",
+            "source_priority": 55215,
+            "source_url": "https://www.amarujala.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/amarujala.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "7bf2afa6fe7791dd2e6c005ffcb08192",
+            "title": "Kanpur News: युवक को चाकू मारकर लूटपाट करने के आरोपी को पकड़ा",
+            "link": "https://www.amarujala.com/uttar-pradesh/kanpur/police-arrested-the-accused-of-robbing-a-youth-by-stabbing-him-kanpur-news-c-362-1-ka11002-123787-2025-05-16",
+            "keywords": null,
+            "creator": null,
+            "description": "कानपुर। दो मई की रात युवक को चाकू मारकर लूटपाट करने के एक और आरोपी कच्ची मड़ैया एम ब्लॉक जेपीनगर रावतपुर निवासी कल्लू उर्फ अश्वनी को बिठूर पुलिस ने गिरफ्तार कर जेल भेज दिया है।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-15 20:12:39",
+            "pubDateTZ": "UTC",
+            "image_url": "https://staticimg.amarujala.com/assets/images/2021/10/25/kanpur_1635142999.jpeg?dpr=1.0&q=80&w=414",
+            "video_url": null,
+            "source_id": "amarujala",
+            "source_name": "Amar Ujala",
+            "source_priority": 55215,
+            "source_url": "https://www.amarujala.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/amarujala.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "2f3bdfa75ee2f511a41a13a54b000883",
+            "title": "Hisar News: दिन का पारा पहुंचा 44 डिग्री, लू भी चली, येलो अलर्ट जारी",
+            "link": "https://www.amarujala.com/haryana/hisar/the-days-temperature-reached-44-degrees-heatwave-also-occurred-yellow-alert-issued-hisar-news-c-21-hsr1027-626773-2025-05-16",
+            "keywords": null,
+            "creator": null,
+            "description": "इस माह हिसार में गर्मी ने अपने तेवर दिखाने शुरू कर दिए हैं। वीरवार को दिन का पारा 44 डिग्री पर पहुंच गया।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-15 20:12:34",
+            "pubDateTZ": "UTC",
+            "image_url": "https://staticimg.amarujala.com/assets/images/2021/10/18/hisar_1634538300.jpeg?dpr=1.0&q=80&w=414",
+            "video_url": null,
+            "source_id": "amarujala",
+            "source_name": "Amar Ujala",
+            "source_priority": 55215,
+            "source_url": "https://www.amarujala.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/amarujala.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "58aff067338516fe4000f189776db13d",
+            "title": "Bahraich News: दो स्टाफ नर्स निलंबित, चिकित्सक एमएम खान के खिलाफ जांच शुरू",
+            "link": "https://www.amarujala.com/uttar-pradesh/bahraich/two-staff-nurses-suspended-investigation-started-against-doctor-mm-khan-bahraich-news-c-98-1-slko1011-130701-2025-05-16",
+            "keywords": null,
+            "creator": null,
+            "description": "दो स्टाफ नर्स निलंबित, चिकित्सक एमएम खान के खिलाफ जांच शुरू",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-15 20:12:28",
+            "pubDateTZ": "UTC",
+            "image_url": "https://staticimg.amarujala.com/assets/images/2021/12/02/bahraich_1638428670.jpeg?dpr=1.0&q=80&w=414",
+            "video_url": null,
+            "source_id": "amarujala",
+            "source_name": "Amar Ujala",
+            "source_priority": 55215,
+            "source_url": "https://www.amarujala.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/amarujala.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "6c30a63865f4d07d02afaed2a00e4504",
+            "title": "Barcelona to request three straight away games ahead of Camp Nou return",
+            "link": "https://timesofindia.indiatimes.com/sports/football/news/barcelona-to-request-three-straight-away-games-ahead-of-camp-nou-return/articleshow/121196360.cms",
+            "keywords": null,
+            "creator": null,
+            "description": "FC Barcelona has requested La Liga to schedule their first three matches of the 2025-26 season as away games. This strategic move aims to provide additional time for the completion of the Camp Nou stadium's renovation, with a partial reopening planned for September 2025. The revamped stadium will initially operate with a limited capacity of 60,000 seats.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-15 20:12:17",
+            "pubDateTZ": "UTC",
+            "image_url": "https://static.toiimg.com/thumb/msid-121196359,imgsize-1296856,width-400,resizemode-4/FC-Barcelona.jpg",
+            "video_url": null,
+            "source_id": "toi",
+            "source_name": "The Times Of India",
+            "source_priority": 239,
+            "source_url": "https://timesofindia.indiatimes.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/toi.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "096f698580e7c166ce65f48e5e070735",
+            "title": "Aligarh News: टेंपो को टक्कर मारकर कार रजबहा में गिरी",
+            "link": "https://www.amarujala.com/uttar-pradesh/aligarh/the-car-fell-into-rajbaha-after-hitting-the-tempo-aligarh-news-c-114-1-sali1013-101924-2025-05-16",
+            "keywords": null,
+            "creator": null,
+            "description": "कस्बे के माछुआ रजबहा की पटरी पर बृहस्पतिवार सुबह सवा ग्यारह बजे करीब जलाली से पिलखना जा रही तेज रफ्तार स्कॉर्पियो अनियंत्रित होकर सामने से आ रहे सवारी टेंपो में टक्कर मारकर रजबहा में जा गिरी।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-15 20:12:16",
+            "pubDateTZ": "UTC",
+            "image_url": "https://staticimg.amarujala.com/assets/images/4cplus/2025/05/16/machhaaa-rajabha-ma-gara-sakarapaya-ka-nakalvana-pahaca-yavaka-sharatasavatha_2cd87c57a37e5f09c5df8bc7440ade96.jpeg?dpr=1.0&q=80&w=414",
+            "video_url": null,
+            "source_id": "amarujala",
+            "source_name": "Amar Ujala",
+            "source_priority": 55215,
+            "source_url": "https://www.amarujala.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/amarujala.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
             "article_id": "fdadee2226ecf0d7ab4f8691edfda0c5",
             "title": "Trade Spotlight: How should you trade Ashok Leyland, HDFC AMC, Grasim, UltraTech Cement, ONGC, Macrotech... - Moneycontrol",
             "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQTmlsZlJHdmVUNnlpdnZfRnBTT21aT2R3azJxVTlIQmFpNGJCTS1BNUVlYnQ1d3J4WWZZZWZZT2tlbzM5Mlh2em14OWd0a3I3Vkk2TlQzUmxGYWs3RDhMd2dyb2ZDNVZQbmxzV1B3U3ZfVEpNOTE1WDhqb1k5bm1xZ29VaUFtS01hWHQ5aFlmSVJndlRndWdST0dKWVZ6b09pUXR3b1JxQnZncG9vLVhGWl9CdmpOWURBSFgtMGlCcnp1eWtSdUdhUGd4VFZCZkJDU1gyNEJOS0VGMUJranlqb194YnFJang1bVNDUnRLX2U3RjRHV2JLUXZ1MDI4Wmt2azQ4VWZaMmJsZzQ1VjBjclBkRXdsWlJwVEZXRUwwZDHSAaYCQVVfeXFMUFdhY3hmZndqX2U3ZXRsNTNUQTRrNHg3dF9yMkJGYVI3Wm0tOXNlcUJVT1RwSS1fYnFvU3VId0pfS3Q3aVgzMnNZek5fTXhSSUVPdGdVNkFrWnNuMFVncVV0SURsYzdKV1hUbnJHTHAwQlJxTy1ESnFGOFNhZEdfcU1HUzNjVnJYcUFyLUdSMzhXS0ZLRENUVVRjWDFieWFDdnZfSElCa0pROTlnWjN0NE0zajdIVkhnaE9ma21JTEphQ0JCX2g5aFlRUFNUdVVYMDJQLXF6bm0yWW5FRy15X2ZBSC1QRjlRUnQtWm9kNEJXZ0ZIcWRWWVl4RWxIcHFGN2dpN0JSVUZNOXIzREdMV2dybi1vY1h4OHBvZ1Y4MUJLWXFKUl9n?oc=5",
@@ -23042,726 +23779,6 @@
             ],
             "category": [
                 "business"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "531f2239ce593b68f3a382f5d0ffe15c",
-            "title": "'He brought back my suhag': Wife of BSF jawan held by Pakistan praises PM Narendra Modi - Times of India",
-            "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQV2RMYWFPY0J6N0l6MXFhZU90UVp1OE5heHZIUERWNWhtTjJZSXk0YkMzV05taU1zR2taZEJZaUZZaEJmQzFjWmlHbUNydFdTVW56a3lzU21Qc09McGFHdnlkWEpOVmMzcWxWbWdWZlRIc2MycXdMMVR6Q200dUlhbmU5dkw5UjhoaXI2aWIzUElfcVprMmpWcDd0bktCU1YyMWRBa2tfdVIyMTRuQjhfby1BMmNXVnhfLXQ0bGVOV3JOLWhYbUpPSGlrUnpXNUlzM2tfM0FtcnBqY2RPaW15ZVRMcnV0Yk1JcWZxenNqSnE?oc=5",
-            "keywords": null,
-            "creator": null,
-            "description": "'He brought back my suhag': Wife of BSF jawan held by Pakistan praises PM Narendra Modi Times of IndiaBSF Jawan Purnam Kumar Shaw’s family: Great relief for us, thank Centre for securing his release from Pakistani custody The HinduIndia Pakistan conflict - BSF jawan who was in Pakistan’s custody handed over to India Business TodayBSF jawans release: Debriefing, counselling and more — lowdown on standard protocol to be followed back home Tribune India'Heartfelt gratitude to all': BSF Jawan Purnam Shaw’s wife thanks PM Modi for his safe release from Pakistan India TV News",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-14 08:10:00",
-            "pubDateTZ": "UTC",
-            "image_url": null,
-            "video_url": null,
-            "source_id": "google",
-            "source_name": "Google News",
-            "source_priority": 14,
-            "source_url": "https://news.google.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/google.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "3e2d91925b3caca9869feff5fc1e94e0",
-            "title": "Zoos in Uttar Pradesh closed as tigress dies due to bird flu, see details",
-            "link": "https://kalingatv.com/nation/zoos-in-uttar-pradesh-closed-as-tigress-dies-due-to-bird-flu-see-details/",
-            "keywords": [
-                "zoo",
-                "bird flu",
-                "nation",
-                "uttar pradesh"
-            ],
-            "creator": [
-                "Sudeshna Panda"
-            ],
-            "description": "Etawah: In a major development, the zoos in Uttar Pradesh have been temporarily shut down by the authorities as a tigress allegedly died due to Bird flu or avian influenza. According to reports, Uttar Pradesh’s Kanpur Zoo has been temporarily closed as a precautionary measure after tigress ‘Shakti’ died of bird flu at Gorakhpur’s Shaheed [...]The post Zoos in Uttar Pradesh closed as tigress dies due to bird flu, see details appeared first on KalingaTV.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-14 08:09:58",
-            "pubDateTZ": "UTC",
-            "image_url": null,
-            "video_url": null,
-            "source_id": "kalingatv",
-            "source_name": "Kalinga Tv",
-            "source_priority": 474757,
-            "source_url": "https://kalingatv.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/kalingatv.jpg",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "3061998b5a7b51dbafbec3e5a32761fc",
-            "title": "लखनऊ साउथ सिटी में पहले बड़े मंगल पर भंडारा:हजारों श्रद्धालुओं ने ग्रहण किया प्रसाद, श्रीवास्तव परिवार ने किया आयोजन",
-            "link": "https://www.bhaskar.com/local/uttar-pradesh/lucknow/news/bhandara-on-the-first-bada-mangal-in-lucknow-south-city-135024997.html",
-            "keywords": null,
-            "creator": null,
-            "description": "लखनऊ के साउथ सिटी में पहले बड़े मंगल के अवसर पर भंडारे का आयोजन किया गया। जी ब्लॉक स्थित इस भंडारे का आयोजन अजय श्रीवास्तव और उनके परिवार ने किया। सुबह से ही भंडारे में श्रद्धालुओं की लंबी कतारें लगी रहीं। हजारों लोगों ने पूड़ी-सब्जी का प्रसाद ग्रहण किया। भंडारे के आयोजन में अजय श्रीवास्तव के साथ आनंद, सुनीत, अर्पित और हर्षित श्रीवास्तव ने सहयोग किया। धार्मिक भावना के साथ समाज में एकता का संदेश अजय श्रीवास्तव ने बताया कि बड़ा मंगल हनुमान जी की कृपा और जनसेवा का पर्व है। वे हर साल यह आयोजन करते हैं। उन्होंने कहा कि यह आयोजन धार्मिक भावना के साथ समाज में एकता का संदेश भी देता है।भंडारे में साफ-सफाई और व्यवस्था का विशेष ध्यान रखा गया। भजनों की प्रस्तुति ने माहौल को भक्तिमय बना दिया। स्थानीय लोगों ने इस आयोजन को अनुकरणीय बताया।",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-14 08:09:55",
-            "pubDateTZ": "UTC",
-            "image_url": "https://images.bhaskarassets.com/thumb/1000x1000/web2images/521/2025/05/14/19f6dbaf-577d-4b13-8195-58916f14e922_1747142667169.jpg",
-            "video_url": null,
-            "source_id": "bhaskar_hindi",
-            "source_name": "Bhaskar",
-            "source_priority": 34179,
-            "source_url": "https://www.bhaskar.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/bhaskar_hindi.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top",
-                "domestic"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "8693945d8d9ea7f5385336ae91dc0398",
-            "title": "प्रेमानंद महाराज ने Virat Kohli को बताया कब और कैसे होती है प्रभु की कृपा, आप भी लीजिए जान",
-            "link": "https://ndtv.in/faith/premananda-maharaj-explained-to-virat-kohli-when-and-how-gods-grace-is-bestowed-you-should-also-know-8410699",
-            "keywords": null,
-            "creator": null,
-            "description": "आजकल जितने भी महापुरुष हुए हैं, जीवन की प्रतिकूलता देखने के बाद बदले हैं. इसलिए जब कभी प्रतिकूलता आए तो समझिए आप पर भगवान की कृपा हो रही है. इसलिए भगवान का नाम जपो बिल्कुल चिंता मत करो.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-14 08:09:55",
-            "pubDateTZ": "UTC",
-            "image_url": "https://c.ndtvimg.com/2025-05/mb5csk0o_premanand-maharaj-_625x300_13_May_25.jpg?im=FitAndFill%2Calgorithm%3Ddnn%2Cwidth%3D1200%2Cheight%3D738",
-            "video_url": null,
-            "source_id": "ndtv_in",
-            "source_name": "Ndtv",
-            "source_priority": 129751,
-            "source_url": "https://www.ndtv.in",
-            "source_icon": "https://i.bytvi.com/domain_icons/ndtv_in.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "5a133c3405196989444a78cf367859e0",
-            "title": "America First agenda features big in Trump’s Middle East trip, say observers",
-            "link": "https://www.channelnewsasia.com/world/usa-donald-trump-gulf-saudi-arabia-analysts-5128991",
-            "keywords": [
-                "world"
-            ],
-            "creator": null,
-            "description": "US President Donald Trump is accompanied by leaders of tech giants on his four-day trip to Saudi Arabia, Qatar and the United Arab Emirates.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-14 08:09:54",
-            "pubDateTZ": "UTC",
-            "image_url": "https://dam.mediacorp.sg/image/upload/s--0vsoJ8I0--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2025-05-13t210330z_1_lynxmpel4c144_rtroptp_3_usa-trump-gulf-saudi.jpg?itok=qfx1SERn",
-            "video_url": null,
-            "source_id": "channelnewsasia",
-            "source_name": "Channel Newsasia",
-            "source_priority": 4142,
-            "source_url": "https://www.channelnewsasia.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/channelnewsasia.jpg",
-            "language": "english",
-            "country": [
-                "georgia",
-                "yemen",
-                "afghanistan",
-                "cyprus",
-                "india",
-                "singapore",
-                "saudi arabia",
-                "maldives",
-                "japan",
-                "united arab emirates",
-                "malaysia",
-                "china",
-                "south korea",
-                "north korea",
-                "taiwan",
-                "thailand",
-                "pakistan",
-                "mongolia",
-                "brunei",
-                "lebanon",
-                "indonesia",
-                "kyrgyzstan",
-                "syria",
-                "israel",
-                "bhutan",
-                "iran",
-                "turkey",
-                "armenia",
-                "qatar",
-                "philippines",
-                "hong kong",
-                "kazakhstan",
-                "iraq",
-                "bangladesh",
-                "laos",
-                "vietnam",
-                "timor-leste",
-                "kuwait",
-                "myanmar",
-                "azerbaijan",
-                "jordan",
-                "nepal",
-                "sri lanka",
-                "uzbekistan",
-                "turkmenistan",
-                "macau",
-                "bahrain",
-                "cambodia",
-                "tajikistan"
-            ],
-            "category": [
-                "world"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "602dcbb0a1c4a66e71d53ddd3b533c56",
-            "title": "Kingdom Release: Vijay Deverakonda’s Telugu Movie Gets Postponed, Now To Arrive On This Date",
-            "link": "https://english.jagran.com/entertainment/news/kingdom-release-vijay-deverakonda-telugu-movie-gets-postponed-now-to-arrive-on-this-date-10237349",
-            "keywords": null,
-            "creator": null,
-            "description": "Kingdom Release Date,Kingdom movie,Kingdom movie Vijay Deverakonda,Vijay Deverakonda,Vijay Deverakonda Kingdom movie,Bhagyashri Borse,Satyadev,Kingdom July 4 2025,Gowtam Tinnanuri,Sai Soujanya,Anirudh Ravichander,Rukmini Vasanth,Manikanta Varanasi,Kingdom posters",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-14 08:09:50",
-            "pubDateTZ": "UTC",
-            "image_url": "https://imgeng.jagran.com/images/2025/05/14/article/image/Kingdom-1747209755831.jpg",
-            "video_url": null,
-            "source_id": "english_jagran",
-            "source_name": "Jagran English",
-            "source_priority": 10561,
-            "source_url": "https://english.jagran.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/english_jagran.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "02fa6946153de9805abde6b61d6248e5",
-            "title": "Video From Yemen Falsely Shared as Clip of BrahMos Missile Hitting Pakistan",
-            "link": "https://www.thequint.com/news/webqoof/video-from-yemen-viral-as-brahmos-missile-hitting-pakistan-nuclear-command-fact-check",
-            "keywords": [
-                "webqoof"
-            ],
-            "creator": [
-                "Aishwarya Varma"
-            ],
-            "description": "The video shows the aftermath of recent Israeli airstrikes on Yemen's capital Sana'a.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-14 08:09:47",
-            "pubDateTZ": "UTC",
-            "image_url": "https://media.assettype.com/thequint%2F2025-05-14%2Fmdweoud7%2FAishwarya-WQ-75.jpg?auto=format%2Ccompress&fmt=webp&rect=0%2C0%2C1920%2C1080&w=1200&width=720",
-            "video_url": null,
-            "source_id": "thequint",
-            "source_name": "The Quint",
-            "source_priority": 28883,
-            "source_url": "https://www.thequint.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/thequint.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "0f64f99ca32fdce6a0d611b9a8c5b29e",
-            "title": "Credit Card Charges change: This bank has changed the credit card charges! Will be implemented from June 1",
-            "link": "https://www.informalnewz.com/credit-card-charges-change-this-bank-has-changed-the-credit-card-charges-will-be-implemented-from-june-1/",
-            "keywords": [
-                "kotak mahindra bank",
-                "personal finance",
-                "featured",
-                "credit card charges change"
-            ],
-            "creator": [
-                "Shyamu Maurya"
-            ],
-            "description": "Kotak Mahindra Bank has announced major changes in the charge structure for its credit card holders. These new rules will come into effect from June 1, 2025 and include charges for auto-debit failure, dynamic currency conversion (DCC), utility bill payment, education payment, etc. Kotak Mahindra Bank has announced major changes in the charge structure for [...]The post Credit Card Charges change: This bank has changed the credit card charges! Will be implemented from June 1 first appeared on informalnewz.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-14 08:09:47",
-            "pubDateTZ": "UTC",
-            "image_url": "https://www.informalnewz.com/wp-content/webp-express/webp-images/uploads/2023/09/Credit-Card-2-696x522.jpg.webp",
-            "video_url": null,
-            "source_id": "informalnewz",
-            "source_name": "Informal News",
-            "source_priority": 763433,
-            "source_url": "https://www.informalnewz.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/informalnewz.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "7d6bcdd1ebb5e39cca962806093cb377",
-            "title": "Chandigarh: सुखना चो पर नई कनेक्टिविटी की योजना",
-            "link": "https://jantaserishta.com/local/haryana/chandigarh-new-connectivity-planned-at-sukhna-choe-4011377",
-            "keywords": [
-                "भारत,राज्य,हरियाणा"
-            ],
-            "creator": [
-                "Alisha"
-            ],
-            "description": null,
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-14 08:09:42",
-            "pubDateTZ": "UTC",
-            "image_url": "https://jantaserishta.com/h-upload/2025/05/14/4592122-21.webp",
-            "video_url": null,
-            "source_id": "jantaserishta",
-            "source_name": "Janta Se Rishta",
-            "source_priority": 81836,
-            "source_url": "https://jantaserishta.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/jantaserishta.jpg",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "4527e8c87baa8414638616b3f2d4e2a7",
-            "title": "CHENNAI: कक्षा 10, 11 के परीक्षा परिणाम निर्धारित समय से पहले घोषित किए जाएंगे",
-            "link": "https://jantaserishta.com/local/tamil-nadu/chennai-class-10-11-exam-results-to-be-declared-before-schedule-4011376",
-            "keywords": [
-                "राज्य,तमिलनाडू"
-            ],
-            "creator": [
-                "Payal"
-            ],
-            "description": null,
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-14 08:09:37",
-            "pubDateTZ": "UTC",
-            "image_url": "https://jantaserishta.com/h-upload/2025/05/14/4592137-23.webp",
-            "video_url": null,
-            "source_id": "jantaserishta",
-            "source_name": "Janta Se Rishta",
-            "source_priority": 81836,
-            "source_url": "https://jantaserishta.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/jantaserishta.jpg",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "474ea78716a214724e608a89e204a9ce",
-            "title": "Sawai Mansingh Stadium in Jaipur Receives Fourth Bomb Threat Ahead of IPL Matches",
-            "link": "https://news.abplive.com/short-videos/news/india-sawai-mansingh-stadium-in-jaipur-receives-fourth-bomb-threat-ahead-of-ipl-matches-1772220",
-            "keywords": [
-                "india"
-            ],
-            "creator": [
-                "ABP Live"
-            ],
-            "description": "Sawai Mansingh Stadium in Jaipur Receives Fourth Bomb Threat Ahead of IPL Matches",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-14 08:09:36",
-            "pubDateTZ": "UTC",
-            "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2025/05/14/98b36e0a32a4f5167d58af46979d68251747210083893963_original.png",
-            "video_url": null,
-            "source_id": "abplive",
-            "source_name": "Abp News",
-            "source_priority": 7754,
-            "source_url": "http://abplive.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/abplive.jpg",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "320a88e5329058effed783c6d9024293",
-            "title": "एक झटके में 66% 'टूट गए' रेमंड के शेयर, 1561 रुपये से 530 रुपये पर शेयर का आया दाम",
-            "link": "https://www.livehindustan.com/business/raymond-share-tumbled-around-66-percent-stocks-turned-ex-date-for-demerger-of-its-real-estate-business-201747209669000.html",
-            "keywords": [
-                "business"
-            ],
-            "creator": null,
-            "description": "रेमंड के शेयर एक झटके में 66% टूट गए। कंपनी के शेयर बुधवार को अपने रियल्टी बिजनेस रेमंड रियल्टी के डीमर्जर की एक्स-डेट पर ट्रेड कर रहे हैं। कंपनी के शेयरों में दिख रही यह तेज गिरावट कोई बिकवाली नहीं है, बल्कि नोशनल प्राइस एडजस्टमेंट है।",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-14 08:09:35",
-            "pubDateTZ": "UTC",
-            "image_url": "https://www.livehindustan.com/lh-img/smart/img/2025/05/14/1200x900/Raymond_1747210061849_1747210062109.jpg",
-            "video_url": null,
-            "source_id": "livehindustan",
-            "source_name": "Hindustan",
-            "source_priority": 127332,
-            "source_url": "https://www.livehindustan.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/livehindustan.jpg",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "business"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "ebae8821d1237d146f19a7fb8b766177",
-            "title": "‘The Royals showcases Indian nobles as nincompoops’",
-            "link": "https://www.thehindu.com/entertainment/the-royals-on-netflix-showcases-indian-nobles-as-nincompoops/article69574219.ece",
-            "keywords": [
-                "entertainment"
-            ],
-            "creator": null,
-            "description": "Indian royalty is more than decadent people playing polo shirtless, says Anshu Khanna of The Royal Fables",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-14 08:09:34",
-            "pubDateTZ": "UTC",
-            "image_url": "https://th-i.thgim.com/public/life-and-style/fashion/mdn80h/article69574527.ece/alternates/LANDSCAPE_1200/TheRoyalsS1_Netflix_DSC06330_14080.jpg",
-            "video_url": null,
-            "source_id": "thehindu",
-            "source_name": "The Hindu",
-            "source_priority": 2972,
-            "source_url": "https://www.thehindu.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/thehindu.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "entertainment"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "b2142ed0932f228181e7380915070301",
-            "title": "Akhilesh Yadav Calls for New Military Schools in Uttar Pradesh",
-            "link": "https://www.devdiscourse.com/article/education/3381160-akhilesh-yadav-calls-for-new-military-schools-in-uttar-pradesh",
-            "keywords": null,
-            "creator": null,
-            "description": "Akhilesh Yadav Calls for New Military Schools in Uttar Pradesh Akhilesh Yadav, the president of the Samajwadi Party, has called for the creation of six new military schools across Uttar Pradesh. He claims the state has a rich tradition of patriotism and sacrifice, which these schools would further reinforce. Yadav himself is an alumnus of the Rashtriya Military School in Dholpur.He emphasizes how his alma mater instilled discipline and nation-first thinking, highlighting the school's motto 'Sheelam Param Bhushanam'—Character is the highest virtue. Yadav suggests that similar institutions in Lucknow, Saharanpur, Kannauj, Etawah, Varanasi, and Sant Kabir Nagar would train new generations to counter threats to national integrity.This proposal arises amidst ongoing political discussions on national service and the armed forces’ role in nation-building, especially in the wake of recent conflicts with Pakistan. Indian forces recently conducted precision strikes in response to a terrorist attack in Pahalgam.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-14 08:09:33",
-            "pubDateTZ": "UTC",
-            "image_url": "https://devdiscourse.blob.core.windows.net/devnews/09_05_2025_14_46_22_896165.jpg",
-            "video_url": null,
-            "source_id": "devdiscourse",
-            "source_name": "Devdiscourse",
-            "source_priority": 566021,
-            "source_url": "https://www.devdiscourse.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/devdiscourse.jpg",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "5db44dadd0d084fecbbda7163f7e06a8",
-            "title": "Airtel financials jump on tariff boost",
-            "link": "https://www.mobileworldlive.com/airtel/airtel-financials-jump-on-tariff-boost/",
-            "keywords": [
-                "operators",
-                "asia pacific",
-                "airtel"
-            ],
-            "creator": [
-                "Joseph Waring"
-            ],
-            "description": "Bharti Airtel registered robust growth in its mobile business in India in its fiscal Q4, led by rising tariffs, strong smartphone customer additions and a campaign to shift customers to premium packages.The post Airtel financials jump on tariff boost appeared first on Mobile World Live.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-14 08:09:30",
-            "pubDateTZ": "UTC",
-            "image_url": "https://assets.mobileworldlive.com/wp-content/uploads/2025/04/28121324/Airtel-5G-1.jpg",
-            "video_url": null,
-            "source_id": "mobileworldlive",
-            "source_name": "Mobileworldlive",
-            "source_priority": 60793,
-            "source_url": "https://www.mobileworldlive.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/mobileworldlive.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "technology"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "67798c867484eaeb6b9bc754dc7371a4",
-            "title": "Kannada Web Series Ayyana Mane to Release in Telugu on Zee5",
-            "link": "https://www.deccanchronicle.com/entertainment/ott/kannada-web-series-ayyana-mane-to-release-in-telugu-on-zee5-1878780",
-            "keywords": [
-                "entertainment,ott"
-            ],
-            "creator": [
-                "Sharada"
-            ],
-            "description": "Ayyana Mane is a six-episode crime thriller that has garnered unanimous praise from both critics and audiences",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-14 08:09:29",
-            "pubDateTZ": "UTC",
-            "image_url": "https://www.deccanchronicle.com/h-upload/2025/05/14/1917629-whatsappimage2025-05-14at80725pm.jpg",
-            "video_url": null,
-            "source_id": "andhrabhoomi",
-            "source_name": "Andhrabhoomi",
-            "source_priority": 4054772,
-            "source_url": "http://www.andhrabhoomi.net",
-            "source_icon": null,
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "19bfc584062cb14de20c62f8014e649d",
-            "title": "बैज को चिट्ठी भेज राहुल ने भरोसा जताया:नेतृत्व परिवर्तन के अटलकों और कांग्रेस की गुटबाजी के बीच PCC अध्यक्ष को नई मजबूती",
-            "link": "https://www.bhaskar.com/local/chhattisgarh/raipur/news/rahul-expressed-confidence-by-sending-a-letter-to-baij-135024995.html",
-            "keywords": null,
-            "creator": null,
-            "description": "छत्तीसगढ़ में कांग्रेस के भीतर नेतृत्व परिवर्तन की चर्चाओं के बीच राहुल गांधी ने प्रदेश अध्यक्ष दीपक बैज को चिट्ठी भेजकर न सिर्फ महिलाओं के खिलाफ अपराधों पर निकाली गई पदयात्रा की सराहना की, बल्कि संगठन में उनके सक्रिय रोल को भी स्वीकारा है। राहुल की ये चिट्ठी ऐसे वक्त पर आई है जब बैज को हटाने की अटकलें तेज थीं और पार्टी में अंदरूनी गुटबाजी खुलकर सामने आ रही थी। हाईकमान के इस संदेश को बैज के पक्ष में समर्थन के तौर पर देखा जा रहा है। छत्तीसगढ़ में कांग्रेस की हार के बाद प्रदेश अध्यक्ष दीपक बैज को हटाए जाने की अटकलें लंबे समय से चर्चा में रहीं। विधानसभा चुनाव से लेकर नगर निकाय और लोकसभा तक लगातार हार मिलने के बाद पार्टी में बड़े बदलाव की संभावना जताई जाती रही है। इनमें पूर्व उपमुख्यमंत्री टीएस सिंहदेव के अलावा अमरजीत भगत और इंद्रशाह मण्डावी जैसे कई वरिष्ठ नेताओं के नाम शामिल हैं। जबकि कुछ नेताओं ने तो दिल्ली तक संगठन की कमान संभालने की दावेदारी की हैं। लेकिन इन तमाम राजनीतिक सरगर्मियों के बीच राहुल गांधी का ये पत्र, जिसने कांग्रेस के अंदर चल रही संभावित उठापटक को एक नया मोड़ दे दिया है। राहुल गांधी ने पत्र में लिखा, प्रिय दीपक बैज, आशा करता हूँ कि आप कुशल होंगे।मैं छत्तीसगढ़ कांग्रेस द्वारा महिलाओं के खिलाफ हो रहे भयावह अपराधों और राज्य में बिगड़ती कानून-व्यवस्था के खिलाफ पदयात्रा निकालने के लिए आपकी सराहना करता हूँ। हमें न्याय की लड़ाई जारी रखनी होगी और लोगों तक आशा का संदेश पहुँचाना होगा। राहुल का यह पत्र सिर्फ एक साधारण सराहना नहीं बल्कि ये माना जा रहा है कि छत्तीसगढ़ में संगठन के प्रति भरोसा बढ़ा है। ऐसे समय में जब बैज को हटाए जाने की अटकलें तेज थीं, यह पत्र राजनीतिक गलियारों में बड़ा संदेश देता दिख रहा है। बैज की सक्रियता बनी ‘ढाल’ दीपक बैज भले ही नेतृत्व को लेकर सार्वजनिक बयानबाजी से दूर रहे, लेकिन संगठनात्मक मोर्चे पर उन्होंने लगातार एक्टिव भूमिका निभाई। चाहे बलौदाबाजार की हिंसा हो, इंद्रावती नदी के संरक्षण का मुद्दा, प्रदेश में बढ़ते अपराध या जवानों का हौसला बढ़ाने की जरूरत हर मौके पर उन्होंने यात्राएं निकालकर जनता से संवाद कायम किया। इन यात्राओं ने प्रदेश के भीतर ही नहीं, बल्कि दिल्ली में भी कांग्रेस हाईकमान का ध्यान खींचा। यही वजह है कि राहुल गांधी का यह पत्र अब सिर्फ प्रशंसा नहीं, बल्कि मौजूदा नेतृत्व के प्रति समर्थन के संकेत के रूप में देखा जा रहा है। बैज के कार्यक्रमों में नहीं दिखे बड़े नेता महिलाओं के खिलाफ बढ़ते अपराध और राज्य में बिगड़ती कानून-व्यवस्था के मुद्दे को लेकर छत्तीसगढ़ कांग्रेस की ओर से दुर्ग से एक पदयात्रा निकालने की तैयारी थी। यह यात्रा प्रदेश कांग्रेस अध्यक्ष दीपक बैज के नेतृत्व में होनी थी, लेकिन दुर्ग में हुए एक रेप केस में आरोपी की गिरफ्तारी और DNA जांच में पुष्टि के बाद यह पदयात्रा स्थगित कर दी गई। इसके बाद कांग्रेस ने मुख्यमंत्री निवास घेराव का कार्यक्रम आयोजित किया, जिसमें महिलाओं के खिलाफ हो रहे अपराधों और कानून व्यवस्था पर सरकार को घेरने की कोशिश की गई। इस प्रदर्शन में पीसीसी अध्यक्ष दीपक बैज खुद मौजूद रहे, लेकिन हैरानी की बात यह रही कि इस महत्वपूर्ण अभियान में कांग्रेस के कई वरिष्ठ नेता नजर नहीं आए। पूरे कार्यक्रम में नेता प्रतिपक्ष चरणदास महंत और ताम्रध्वज साहू ही थे जो बैज के साथ खड़े दिखे, जबकि पूर्व मुख्यमंत्री भूपेश बघेल और पूर्व उपमुख्यमंत्री टीएस सिंहदेव जैसे बड़े नाम पूरी तरह से नदारद रहे। इससे पार्टी के भीतर एकजुटता और नेतृत्व के प्रति समर्थन को लेकर कई सवाल उठे हैं। इसके अलावा बस्तर में हुई इंद्रावती बचाओ पदायात्रा में भी प्रदेश स्तर के कोई नेता नहीं पहुंचे। इतना नहीं जवानों के सम्मान में निकाली गई तिरंगा यात्रा में भी चरणदास महंत और अमरजीत भगत के अलावा दूसरे नेता दिखाई नहीं दिए। सियासी हलचल तेज, संदेश साफ? कांग्रेस के भीतर चल रही खामोश खींचतान के बीच राहुल गांधी का पत्र उस वक्त आया है जब प्रदेश नेतृत्व को लेकर चर्चाएं फिर तेज थीं। पत्र ने बैज समर्थकों को मजबूती दी है, जबकि विरोधी गुट अब असमंजस की स्थिति में हैं। पत्र के बाद कयास यही लगाए जा रहे हैं कि हाईकमान अब प्रदेश में नेतृत्व परिवर्तन को लेकर जल्दबाजी में नहीं है, बल्कि मैदान में सक्रिय चेहरों को प्राथमिकता देने के मूड में है। राहुल गांधी के पत्र से यही संकेत भी मिलते हैं।",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-14 08:09:23",
-            "pubDateTZ": "UTC",
-            "image_url": "https://images.bhaskarassets.com/thumb/1000x1000/web2images/521/2025/05/14/whatsapp-image-2025-05-14-at-132245_1747210097.jpeg",
-            "video_url": null,
-            "source_id": "bhaskar_hindi",
-            "source_name": "Bhaskar",
-            "source_priority": 34179,
-            "source_url": "https://www.bhaskar.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/bhaskar_hindi.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "domestic",
-                "other"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "be360c3a1c5aed02dc8f49eb382daedf",
-            "title": "Goyal Stresses MSME Empowerment And Manufacturing Growth In Invest India Review",
-            "link": "https://knnindia.co.in/news/newsdetails/msme/goyal-stresses-msme-empowerment-and-manufacturing-growth-in-invest-india-review",
-            "keywords": null,
-            "creator": null,
-            "description": "Goyal Stresses MSME Empowerment And Manufacturing Growth In Invest India Review New Delhi, May 14 (KNN) Union Commerce and Industry Minister Piyush Goyal recently conducted a comprehensive review meeting to assess the performance of Invest India, the country's national investment promotion agency.In a statement shared on social media platform X, Minister Goyal emphasised that the focus of the meeting was on enhancing the organisation's effectiveness and efficiency to attract greater investments into the country.Key discussions during the review included strategies for strengthening investor engagement, empowering Micro, Small and Medium Enterprises (MSMEs), and accelerating growth in the manufacturing sector.These areas align with the government's broader economic objectives of positioning India as a manufacturing hub and fostering domestic industrial growth.Invest India, established in 2009 as a not-for-profit company under the Department for Promotion of Industry and Internal Trade (DPIIT), operates through a unique partnership between central and state governments and industry associations.The agency serves as the primary point of contact for both global and domestic investors interested in the Indian market.The organisation provides comprehensive support throughout the investment lifecycle, from pre-investment advisory and facilitation to aftercare and expansion assistance, with particular emphasis on enabling manufacturing through the Make in India initiative.Invest India concentrates on promoting investments in high-impact sectors including Electronics & Semiconductors, Renewable Energy, Electric Vehicles, Capital Goods, Textiles, Food & Agriculture, Pharmaceuticals, Chemicals & Critical Minerals, and Infrastructure.The Union Government has been actively focusing on innovation in the manufacturing sector to transform India into a global manufacturing hub.In recent policy developments, the government revised the Credit Guarantee Scheme for Start-ups (CGSS), doubling the maximum guarantee cover from Rs 10 crore to Rs 20 crore and increasing guarantee coverage to up to 85 percent for loans up to Rs 10 crore. Additionally, the Annual Guarantee Fee has been halved to 1 percent for the 27 champion sectors, effectively reducing borrowing costs.The government is also intensifying its focus on the MSME sector, which has emerged as a highly vibrant and dynamic component of the Indian economy.According to official data, the MSME sector encompasses more than 6.30 crore enterprises and provides employment to over 24.14 crore people.The Central Government, in its Union Budget 2025, announced an increase in investment and turnover limits for the classification of MSMEs and introduced customised credit cards with a limit of Rs 5 lakh to further support the sector's growth.(KNN Bureau)",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-14 08:09:21",
-            "pubDateTZ": "UTC",
-            "image_url": "https://knnindia.co.in/uploads/newsfiles/PIYUSH-G-14-2025.jpg",
-            "video_url": null,
-            "source_id": "knnindia",
-            "source_name": "Knn India",
-            "source_priority": 6653678,
-            "source_url": "https://knnindia.co.in/home",
-            "source_icon": null,
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "aa62235efc391bd637641f1eff89eb5f",
-            "title": "इधर ट्रंप मिडिल ईस्ट के दौरे पर, उधर यमन के हूतियों ने इजरायल पर दागीं मिसाइलें",
-            "link": "https://www.aajtak.in/world/story/yemen-houthis-fire-missiles-at-israel-during-trump-middle-east-visit-ntc-rpti-2240151-2025-05-14",
-            "keywords": null,
-            "creator": null,
-            "description": "इजरायल मीडिया की रिपोर्ट के अनुसार, यमन से इजरायल की ओर बैलिस्टिक मिसाइल दागी गई. इसके बाद येरुशलम के आसपास, पश्चिमी तट के पास कई जगह और डेड सी के इलाके में सायरन बजने लगे. हालांकि, इस मिसाइल को हवा में ही मार गिरा दिया गया है.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-14 08:09:20",
-            "pubDateTZ": "UTC",
-            "image_url": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202505/68244eb2a3486-20250514-140459630-16x9.jpeg",
-            "video_url": null,
-            "source_id": "aajtak",
-            "source_name": "Aaj Tak",
-            "source_priority": 20158,
-            "source_url": "http://aajtak.in",
-            "source_icon": "https://i.bytvi.com/domain_icons/aajtak.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "world"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "5202440d7684952b67c61d7968bc5764",
-            "title": "Himachal में रिकॉर्डतोड़ बारिश ने बदला मई का मिजाज, जल्द मिलेगा राहत",
-            "link": "https://jantaserishta.com/local/himachal-pradesh/record-breaking-rain-in-himachal-changed-the-mood-of-may-relief-will-come-soon-4011375",
-            "keywords": [
-                "राज्य,हिमाचल प्रदेश"
-            ],
-            "creator": [
-                "Tara Tandi"
-            ],
-            "description": null,
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-14 08:09:18",
-            "pubDateTZ": "UTC",
-            "image_url": "https://jantaserishta.com/h-upload/2025/05/14/4592131-5.webp",
-            "video_url": null,
-            "source_id": "jantaserishta",
-            "source_name": "Janta Se Rishta",
-            "source_priority": 81836,
-            "source_url": "https://jantaserishta.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/jantaserishta.jpg",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
             ],
             "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
             "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
