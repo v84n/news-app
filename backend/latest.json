@@ -1,6 +1,669 @@
 {
     "articles": [
         {
+            "article_id": "2909c560b19cd2f1919586a080294b1b",
+            "title": "Ivan Demidov shortlisted for KHL Rookie of the Year following strong season with SKA St. Petersburg",
+            "link": "https://timesofindia.indiatimes.com/sports/nhl/news/ivan-demidov-shortlisted-for-khl-rookie-of-the-year-following-strong-season-with-ska-st-petersburg/articleshow/121215767.cms",
+            "keywords": null,
+            "creator": null,
+            "description": "Ivan Demidov, the Montreal Canadiens' fifth-overall pick, was nominated for the KHL Rookie of the Year after a stellar season with SKA St. Petersburg, showcasing his offensive prowess with 49 points in 65 games. He also debuted with the Canadiens, contributing in both regular-season and playoff games. Semyon Vyazovoi and Yegor Surin are also finalists for the award.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-16 14:24:53",
+            "pubDateTZ": "UTC",
+            "image_url": "https://static.toiimg.com/thumb/msid-121215781,imgsize-32634,width-400,resizemode-4/Montreal-Canadiens-forward-Ivan-Demidov.jpg",
+            "video_url": null,
+            "source_id": "toi",
+            "source_name": "The Times Of India",
+            "source_priority": 239,
+            "source_url": "https://timesofindia.indiatimes.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/toi.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "26109c25bfbc2c196a3cc4bc9d809f57",
+            "title": "सीतामढ़ी सदर अस्पताल में GNM कर्मी ने की आत्महत्या, कर्मचारियों ने अधीक्षक पर लगाया प्रताड़ित करने का आरोप, किया हंगामा",
+            "link": "https://zeenews.india.com/hindi/india/bihar-jharkhand/sitamarhi/gnm-worker-committed-suicide-in-sitamarhi-sadar-hospital-employees-accused-superintendent-created-a-ruckus/2761022",
+            "keywords": null,
+            "creator": [
+                "Zee News Hindi"
+            ],
+            "description": "सीतामढ़ी सदर अस्पताल में कार्यरत GNM आशीष शर्मा ने अस्पताल अधीक्षक की प्रताड़ना से तंग आकर आत्महत्या कर ली. कर्मचारियों ने पहले ही सिविल सर्जन से अधीक्षक की शिकायत की थी, लेकिन कोई कार्रवाई नहीं हुई.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-16 14:24:53",
+            "pubDateTZ": "UTC",
+            "image_url": "https://hindi.cdn.zeenews.com/hindi/sites/default/files/2025/05/16/3916297-sitamarhinews.png?im=FitAndFill%3D%281200%2C900%29",
+            "video_url": null,
+            "source_id": "zeenews",
+            "source_name": "Zee News",
+            "source_priority": 5319,
+            "source_url": "http://zeenews.india.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/zeenews.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "7b297ba1729f97b4a10a6af44afebb76",
+            "title": "Warren Buffett's Berkshire Hathaway doubles stake in alcohol stock Constellation, sells Citigroup & other financial stocks",
+            "link": "https://economictimes.indiatimes.com/markets/stocks/news/berkshire-doubles-constellation-stake-sells-citigroup-and-other-financial-stocks/articleshow/121215851.cms",
+            "keywords": null,
+            "creator": null,
+            "description": "Warren Buffett's Berkshire Hathaway said on Thursday it more than doubled its stake in alcoholic beverages producer Constellation Brands, while shedding investments in Citigroup and other financial services companies.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-16 14:24:52",
+            "pubDateTZ": "UTC",
+            "image_url": "https://img.etimg.com/thumb/msid-121215871,width-1200,height-630,imgsize-76326,overlay-etmarkets/articleshow.jpg",
+            "video_url": null,
+            "source_id": "economictimes_indiatimes",
+            "source_name": "The Economic Times",
+            "source_priority": 231,
+            "source_url": "https://economictimes.indiatimes.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/economictimes_indiatimes.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "business"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "1308878b727f7394e5a325890080ed74",
+            "title": "Berkshire doubles Constellation stake, sells Citigroup and other financial stocks",
+            "link": "http://economictimes.indiatimes.com/markets/stocks/news/berkshire-doubles-constellation-stake-sells-citigroup-and-other-financial-stocks/articleshow/121215851.cms",
+            "keywords": null,
+            "creator": null,
+            "description": "Warren Buffett's Berkshire Hathaway said on Thursday it more than doubled its stake in alcoholic beverages producer Constellation Brands, while shedding investments in Citigroup and other financial services companies.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-16 14:24:52",
+            "pubDateTZ": "UTC",
+            "image_url": "https://img.etimg.com/thumb/msid-121215871,width-1200,height-630,imgsize-76326,overlay-etmarkets/articleshow.jpg",
+            "video_url": null,
+            "source_id": "economictimes_indiatimes",
+            "source_name": "The Economic Times",
+            "source_priority": 231,
+            "source_url": "https://economictimes.indiatimes.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/economictimes_indiatimes.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "business"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": true
+        },
+        {
+            "article_id": "149e5075d9ec900afd639248404f7d81",
+            "title": "Heart Beat Season 2 OTT release date: Here’s where and when to watch the latest Deepa Balu’s Tamil medical series online",
+            "link": "https://newsroompost.com/entertainment/heart-beat-season-2-ott-release-date-heres-where-and-when-to-watch-the-latest-deepa-balus-tamil-medical-series-online/5343819.html",
+            "keywords": [
+                "heart beat season 2 ott release",
+                "entertainment",
+                "heart beat season 2 ott release date"
+            ],
+            "creator": [
+                "Hardik Azad"
+            ],
+            "description": "Heart Beat Season 2 OTT release date: Anumol, Charukesh, Yogalakshmi, Sarvhaa, Padine Kumar, and RG Ram have also played pivotal roles in the web drama. The post Heart Beat Season 2 OTT release date: Here’s where and when to watch the latest Deepa Balu’s Tamil medical series online appeared first on NewsroomPost.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-16 14:24:51",
+            "pubDateTZ": "UTC",
+            "image_url": "https://newsroompost.com/wp-content/uploads/2025/05/Pope-2025-05-16T195356.480.jpg",
+            "video_url": null,
+            "source_id": "newsroompost",
+            "source_name": "Newsroompost",
+            "source_priority": 57039,
+            "source_url": "https://newsroompost.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/newsroompost.jpg",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "entertainment"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "7bc83a383e0153fb88f8a16e37a34bf3",
+            "title": "Nvidia To Take 55 Bn Hit After Us Curbs H20 Ai Chip Exports To China",
+            "link": "https://www.businessworld.in/article/nvidia-to-take-55-bn-hit-after-us-curbs-h20-ai-chip-exports-to-china-553818",
+            "keywords": null,
+            "creator": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-16 14:24:47",
+            "pubDateTZ": "UTC",
+            "image_url": null,
+            "video_url": null,
+            "source_id": "businessworld",
+            "source_name": "Bw Businessworld",
+            "source_priority": 31375,
+            "source_url": "https://www.businessworld.in",
+            "source_icon": null,
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "629e9519bab06a19b6157660fa5d5573",
+            "title": "CEC रिपोर्ट में कहा गया है कि कांचा गाचीबोवली \"मानित वन\" के रूप में योग्य है",
+            "link": "https://jantaserishta.com/local/telangana/cec-report-says-kancha-gachibowli-qualifies-as-deemed-forest-4017067",
+            "keywords": [
+                "राज्य,तेलंगाना"
+            ],
+            "creator": [
+                "Tulsi Rao"
+            ],
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-16 14:24:43",
+            "pubDateTZ": "UTC",
+            "image_url": "https://jantaserishta.com/h-upload/2025/05/16/4598742-36.webp",
+            "video_url": null,
+            "source_id": "jantaserishta",
+            "source_name": "Janta Se Rishta",
+            "source_priority": 81836,
+            "source_url": "https://jantaserishta.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/jantaserishta.jpg",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "27357746cfdc58a9aba7664b099ba52e",
+            "title": "PPS Transfer : यूपी में 48 पीपीएस अधिकारियों का तबादला, बदले गए सीनियर 18 अधिकारी भी",
+            "link": "https://www.jagran.com/uttar-pradesh/lucknow-city-pps-officers-transferred-in-up-23939396.html",
+            "keywords": null,
+            "creator": null,
+            "description": "PPS Officers Transferred in UP लखनऊ पुलिस कमिश्नरेट से तैनात सुबोध कुमार श्रीवास्तव को 35वीं वाहिनी पीएसी लखनऊ वाराणसी कमिश्नरेट से ममता रानी चौधरी को लखनऊ कमिश्नरेट फिरोजाबाद में एएसपी ग्रामीण अखिलेश भदौरिया को अमरोहा भेजा गया है। अमरोहा से राजीव कुमार सिंह द्वितीय को मथुरा का एएसपी सिटी बनाया गया है।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-16 14:24:40",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.jagranimages.com/images/newimg/16052025/16_05_2025-pps_officers_transferred_dainik_jagran_23939396_m.webp",
+            "video_url": null,
+            "source_id": "jagran",
+            "source_name": "Jagran",
+            "source_priority": 6734,
+            "source_url": "https://www.jagran.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/jagran.jpg",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "domestic"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "92dd4789ac8e4eee334c52e14f6a37f3",
+            "title": "India reviews US push to lift ethanol curbs amid trade deal talks",
+            "link": "https://www.business-standard.com/industry/agriculture/india-reviews-us-request-on-ethanol-imports-amid-trade-talks-125051601447_1.html",
+            "keywords": [
+                ""
+            ],
+            "creator": null,
+            "description": "India is examining a US request to open ethanol imports for fuel use as part of broader trade negotiations, sparking concerns from domestic producers over policy reversal",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-16 14:24:37",
+            "pubDateTZ": "UTC",
+            "image_url": null,
+            "video_url": null,
+            "source_id": "business-standard",
+            "source_name": "Business Standard",
+            "source_priority": 9158,
+            "source_url": "https://www.business-standard.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/business-standard.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "9a1a2ae1eaefad829393cd7b4b70ca84",
+            "title": "India Afghanistan Shahtoot Dam: अफगानिस्तान से पानी रोकेगा भारत? पाकिस्तान की नस काटने की तैयारी",
+            "link": "https://www.prabhatkhabar.com/world/india-afghanistan-shahtoot-dam-pakistan-water-crisis-strategy",
+            "keywords": [
+                "world news",
+                "pakistan news",
+                "afghanistan",
+                "world"
+            ],
+            "creator": [
+                "Aman Kumar Pandey"
+            ],
+            "description": "India Afghanistan Shahtoot Dam: भारत और अफगानिस्तान के बीच शहतूत बांध परियोजना पर बनी सहमति ने पाकिस्तान की चिंताएं बढ़ा दी हैं. काबुल और कुनार नदियों पर बांध निर्माण से पाकिस्तान की जल सुरक्षा प्रभावित हो सकती है, जबकि भारत की रणनीति उसे कूटनीतिक बढ़त देती है.The post India Afghanistan Shahtoot Dam: अफगानिस्तान से पानी रोकेगा भारत? पाकिस्तान की नस काटने की तैयारी appeared first on Prabhat Khabar.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-16 14:24:36",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.prabhatkhabar.com/wp-content/uploads/2025/05/India-Afghanistan-Shahtoot-Dam.jpg",
+            "video_url": null,
+            "source_id": "prabhatkhabar",
+            "source_name": "Prabhat Khabar",
+            "source_priority": 343253,
+            "source_url": "https://www.prabhatkhabar.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/prabhatkhabar.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "9e284e3be011f7a01b793ad0e4d92118",
+            "title": "पर्यावरण मंत्रालय की पहल, संरक्षण में आगे आईं केमिकल इंडस्ट्री",
+            "link": "https://hindi.news18.com/news/delhi/south-delhi-lankes-gets-top-a-grade-in-environmental-protection-praised-by-ministry-ws-bel-9245107.html",
+            "keywords": [
+                "देश"
+            ],
+            "creator": [
+                "Sharad Pandey"
+            ],
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-16 14:24:34",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.news18.com/ibnkhabar/uploads/2025/05/image-2025-05-3fa37b5a5ae3771ce50380102ca8c592-3x2.jpg",
+            "video_url": null,
+            "source_id": "hindinews18",
+            "source_name": "News 18 Hindi",
+            "source_priority": 4077,
+            "source_url": "https://hindi.news18.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/hindinews18.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "9b4873f4fcfff946b47198e5a407c356",
+            "title": "Srisailam Left Bank Canal tunnel collapse: Expert committee urged to hasten report",
+            "link": "https://telanganatoday.com/srisailam-left-bank-canal-tunnel-collapse-expert-committee-urged-to-hasten-report",
+            "keywords": [
+                "srisailam",
+                "hyderabad",
+                "tunnel collapse",
+                "srisailam left bank canal",
+                "news",
+                "krishna river water",
+                "nagarkurnool",
+                "telangana",
+                "slbc tunnel"
+            ],
+            "creator": [
+                "Telangana Today"
+            ],
+            "description": "The meeting resolved to hold detailed discussions with the committee members within a week to work out a strategy for resuming the pending works",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-16 14:24:27",
+            "pubDateTZ": "UTC",
+            "image_url": "https://media.telanganatoday.com/wp-content/uploads/2025/05/SLBC-1-768x450.jpg",
+            "video_url": null,
+            "source_id": "telanganatoday",
+            "source_name": "Telangana Today",
+            "source_priority": 63887,
+            "source_url": "https://telanganatoday.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/telanganatoday.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "39bf08819b84da1a894fa04dd4f3c5c5",
+            "title": "Pankaj Singh ने कहा, \"दिल्ली मेडिकल काउंसिल को भंग करने का प्रस्ताव एलजी की मंजूरी का इंतजार कर रहा\"",
+            "link": "https://jantaserishta.com/delhi-ncr/pankaj-singh-said-proposal-to-dissolve-delhi-medical-council-awaits-lgs-approval-4017066",
+            "keywords": [
+                "दिल्ली-एनसीआर"
+            ],
+            "creator": [
+                "Gulabi Jagat"
+            ],
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-16 14:24:27",
+            "pubDateTZ": "UTC",
+            "image_url": "https://jantaserishta.com/h-upload/2025/05/16/4598743-ani-20250516113429.webp",
+            "video_url": null,
+            "source_id": "jantaserishta",
+            "source_name": "Janta Se Rishta",
+            "source_priority": 81836,
+            "source_url": "https://jantaserishta.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/jantaserishta.jpg",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "97819ab815114bef395a47af39ee8083",
+            "title": "Entertainment News | Justin Bieber Not Among 'Diddy' Victims, There Are Individuals Who Were Genuinely Harmed, Says Singer's Spokesperson",
+            "link": "https://www.latestly.com/agency-news/entertainment-news-justin-bieber-not-among-diddy-victims-there-are-individuals-who-were-genuinely-harmed-says-singers-spokesperson-6859839.html",
+            "keywords": null,
+            "creator": null,
+            "description": "Get latest articles and stories on Entertainment at LatestLY. The statement comes as Combs faces serious federal charges",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-16 14:24:25",
+            "pubDateTZ": "UTC",
+            "image_url": "https://st1.latestly.com/wp-content/uploads/2025/05/ANI-20250516135700-380x214.jpg",
+            "video_url": null,
+            "source_id": "latestly",
+            "source_name": "Latestly",
+            "source_priority": 31923,
+            "source_url": "https://www.latestly.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/latestly.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "57a1be5b06c37b986b330d40fdfe35b9",
+            "title": "Latest News | RBI Imposes Penalty on Deutsche Bank AG, Yes Bank",
+            "link": "https://www.latestly.com/agency-news/latest-news-rbi-imposes-penalty-on-deutsche-bank-ag-yes-bank-6859837.html",
+            "keywords": null,
+            "creator": null,
+            "description": "Get latest articles and stories on Latest News at LatestLY. The Reserve Bank on Friday said it has imposed penalties on Deutsche Bank AG, India and Yes Bank for non-compliance with certain regulatory norms.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-16 14:24:21",
+            "pubDateTZ": "UTC",
+            "image_url": "https://st1.latestly.com/wp-content/uploads/2018/03/default-img-01-380x214.jpg",
+            "video_url": null,
+            "source_id": "latestly",
+            "source_name": "Latestly",
+            "source_priority": 31923,
+            "source_url": "https://www.latestly.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/latestly.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "e8d0388733e340511a0e0a83330bccab",
+            "title": "1 लीटर अवैध शराब के मामले में प्रशासन ने सील कर दिया अनपढ़ महिला का घर, अब कोर्ट ने दिया ये आदेश",
+            "link": "https://www.jagran.com/bihar/patna-city-patna-hc-orders-release-of-house-seized-over-1-liter-illicit-liquor-23939395.html",
+            "keywords": null,
+            "creator": null,
+            "description": "पटना उच्च न्यायालय ने एक लीटर अवैध शराब मिलने पर जब्त किए गए मकान को मुक्त करने का आदेश दिया। अदालत ने कहा कि इतनी कम मात्रा में शराब मिलने पर घर को सील करना कानून के अनुसार सही नहीं है। न्यायालय ने याचिकाकर्ता को दस हजार रुपये का जुर्माना भरने का भी निर्देश दिया।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-16 14:24:19",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.jagranimages.com/images/newimg/16052025/16_05_2025-patna_hc_liquor_23939395_m.webp",
+            "video_url": null,
+            "source_id": "jagran",
+            "source_name": "Jagran",
+            "source_priority": 6734,
+            "source_url": "https://www.jagran.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/jagran.jpg",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "domestic"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "de5272be76e5ed609bcafc56623c2a73",
+            "title": "पाकिस्तानी जासूस जांलधर में गिरफ्तार, भार्गव कैम्प इलाके में दबिश देकर पकड़ा, 4 मोबाइल फोन, सिम कार्ड जब्त",
+            "link": "https://palpalindia.com/2025/05/16/Gujarat-Police-arrested-Pakistani-spy-in-Jalandhar-caught-after-raiding-Bhargava-Camp-area.html",
+            "keywords": null,
+            "creator": null,
+            "description": "जालंधर. गुजरात पुलिस ने पाकिस्तान की खुफिया एजेंसी ISI के लिए काम करने वाले एक संदिग्ध जासूस को जालंधर से गिरफ्तार किया है. आरोपी की पहचान मोहम्मद मुर्तजा अली के रूप में हुई है. अधिकारियों के अनुसार उसे जालंधर के भार्गव कैंप इलाके में छापेमारी के दौरान पकड़ा गया. खुफिया जानकारी के आधार पर गुजरात पुलिस व जालंधर पुलिस की संयुक्त टीम ने अवतार नगर में एक लक्षित अभियान चलाया, जहां अली को हिरासत में लिया गया. अधिकारियों ने उसके कब्जे से चार मोबाइल फोन और तीन सिम कार्ड भी जब्त किए. अधिकारियों के अनुसार अली जालंधर के गांधी नगर में किराए के मकान में रह रहा था और गुप्त रूप से जासूसी गतिविधियों को अंजाम दे रहा था.खबर है कि भारत-पाकिस्तान के बीच बढ़ते तनाव के हाल के दौर में जब पाकिस्तान में भारतीय समाचार वेबसाइटों व टेलीविजन चैनलों तक पहुंच प्रतिबंधित थी. अली ने भारतीय समाचार चैनल देखना जारी रखा और कथित तौर पर ISI को संवेदनशील जानकारी दी. उल्लेखनीय रूप से उसने ऐसा एक मोबाइल एप्लिकेशन का उपयोग करके किया जिसे उसने खुद विकसित किया था. ऐप का उपयोग भारतीय समाचार प्रसारणों से अपडेट अपलोड करने के लिए किया जाता था, जिसे अली पाकिस्तान के खुफिया अधिकारियों के साथ साझा करता था. जांचकर्ताओं ने खुलासा किया कि उसने ऐप व उसमें मौजूद डेटा तक पहुंच के बदले में ISI एजेंटों से भारी वित्तीय मुआवजे की मांग भी की थी.शुरुआती निष्कर्षों से पता चलता है कि अली पिछले कुछ हफ्तों से लगातार भारत में समाचार कवरेज और अन्य आंतरिक घटनाक्रमों से संबंधित महत्वपूर्ण जानकारी ISI को दे रहा था. अब उसे आगे की पूछताछ के लिए पुलिस द्वारा गुजरात ले जाया गया है. इस बीचए हरियाणा पुलिस ने एक संदिग्ध जासूस को भी गिरफ्तार किया है. जो कथित तौर पर पाकिस्तान में कुछ व्यक्तियों को संवेदनशील जानकारी मुहैया करा रहा था. वह पाकिस्तान स्थित ISI हैंडलर के संपर्क में भी था. संदिग्ध उत्तर प्रदेश के कैराना का नौमान इलाही 24 वर्ष एक फैक्ट्री सुरक्षा गार्ड के रूप में काम करता था. उस पर पाकिस्तान को संवेदनशील जानकारी मुहैया कराने का आरोप है. पिछले महीने पहलगाम आतंकी हमले के बाद पाकिस्तान के साथ हाल ही में हुए सैन्य टकराव के मद्देनजर हरियाणा में बढ़े हुए अलर्ट के बीच इलाही की गिरफ्तारी हुई.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-16 14:24:10",
+            "pubDateTZ": "UTC",
+            "image_url": "https://palpalindia.com/2025/05/16/Gujarat-Police-arrested-Pakistani-spy-in-Jalandhar-caught-after-raiding-Bhargava-Camp-area.jpg",
+            "video_url": null,
+            "source_id": "palpalindia",
+            "source_name": "Palpal India",
+            "source_priority": 1739972,
+            "source_url": "https://www.palpalindia.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/palpalindia.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "fdf29dccb0b332e4492d3eeaccd53829",
+            "title": "विदेश की खबरें | गाजा में इजराइली हमलों में कम से कम 93 लोग मारे गए",
+            "link": "https://hindi.latestly.com/agency-news/at-least-93-people-killed-in-israeli-attacks-in-gaza-2618975.html",
+            "keywords": null,
+            "creator": null,
+            "description": "Get Latest हिन्दी समाचार, Breaking News on world at LatestLY हिन्दी. दीर अल-बला के बाहरी इलाकों और खान यूनिस शहर में बृहस्पतिवार रात से लेकर शुक्रवार सुबह तक हमले किये गये।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-16 14:24:09",
+            "pubDateTZ": "UTC",
+            "image_url": "https://hist1.latestly.com/wp-content/uploads/2020/04/world_default_img-380x214.jpg",
+            "video_url": null,
+            "source_id": "latestly",
+            "source_name": "Latestly",
+            "source_priority": 31923,
+            "source_url": "https://www.latestly.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/latestly.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "84a48a2f1c987c0195ea7b280101e813",
+            "title": "BlackRock ने म्यूरल ऑन्कोलॉजी में हिस्सेदारी का खुलासा किया",
+            "link": "https://hi.investing.com/news/company-news/article-93CH-473021",
+            "keywords": null,
+            "creator": [
+                "Investing.com"
+            ],
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-16 14:24:08",
+            "pubDateTZ": "UTC",
+            "image_url": "https://i-invdn-com.investing.com/news/World_News_9_M_1440052127.jpg",
+            "video_url": null,
+            "source_id": "investing_hi",
+            "source_name": "Investing भारत",
+            "source_priority": 1143,
+            "source_url": "https://hi.investing.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/investing_hi.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "a290cd4aaf0a429565786a9f95075835",
+            "title": "BEL bags fresh ₹572-crore orders for cutting-edge defence systems - CNBC TV18",
+            "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNS0ZITjMtWWVkcU1qVUpaWjFkZ1ZuN2QtcHg4ZEpxdEFLZmRyOUhXVVJ1a0ZQcm9xNjREZXQyYlhDYmw3MDNBNXFmVm9CVF9WSVZ5S1g4LUZPOFFTeXlCWTZlbkJSM3ZJaEF0WW53X1lXWGFhcVRSaTJ3eHVTaTRFYzhvLVN6bF9kM0M2clN4WmZyRXJfUFJsajdmYk9qRnp6SnYzdzRLVVhsZDV4N0NwUEl6S0pGS09WQ2pCSHRLVFdvcDlKWkpaTm55TWJnUdIB0wFBVV95cUxOOE9ob052OEVzWlRmWGR0ZjB4b0kzZmF5ZHBDYmFHbDNyeFZKeHd1WDVXa0kwN3NuV2NnUGFqVzY4Y0tqdjFGWlVfOFVGNDVmdFJhT2VGaGkzUkw4Rk1JV05vUm1oWjZOX3JLaXA5TXlqcnl0ZkhhRl84U0VsZkxRbTFjSEhFNmhYS1VRUUVvTTdzcjRoV1ZlTVFpVXZsRmZfQ09IMHRZdEc2UVd2N0RTVUtBVjZuYy1lT1BRa20yQWUyUlhkSmhnY1JPcHlfRENoQW1B?oc=5",
+            "keywords": null,
+            "creator": null,
+            "description": "BEL bags fresh ₹572-crore orders for cutting-edge defence systems CNBC TV18BEL signs contract with Army for Indigenous Counter-Drone System, secures orders worth Rs 572 crore The Economic TimesBEL signs contract with Indian Army Air Defence to manufacture IDDIS Counter Drone System BusinessLineBharat Electronics Secures Orders Worth Rs 572 Crore NDTV ProfitBEL secures fresh defence orders worth Rs 572 crore PSU Watch",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-16 14:24:07",
+            "pubDateTZ": "UTC",
+            "image_url": null,
+            "video_url": null,
+            "source_id": "google",
+            "source_name": "Google News",
+            "source_priority": 14,
+            "source_url": "https://news.google.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/google.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "business"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
             "article_id": "976885d3e994f4f144962bf946f35341",
             "title": "Nothing Phone 3 appears on BIS, may launch soon in India: Here’s everything we know",
             "link": "https://www.digit.in/news/mobile-phones/nothing-phone-3-appears-on-bis-may-launch-soon-in-india-everything-we-know.html",
@@ -22923,1424 +23586,6 @@
             ],
             "category": [
                 "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "57233b70ff820d1bdbeec8e7952be57e",
-            "title": "कांग्रेस प्रदेशाध्यक्ष डोटासरा से मिले कुम्पावत:पंचायत चुनाव में युवाओं को मौका देने की कही बात",
-            "link": "https://www.bhaskar.com/local/rajasthan/pali/news/kumpawat-met-congress-state-president-dotasara-135030147.html",
-            "keywords": null,
-            "creator": null,
-            "description": "कांग्रेस प्रदेशाध्यक्ष गोविंदसिंह डोटासरा से कांग्रेस नेता और पाली बांगड़ कॉलेज छात्रसंघ के पूर्व अध्यक्ष यशपाल सिंह कुम्पावत ने जयपुर में मुलाकात की। इस दौरान उन्होंने आगामी पंचायतराज चुनावों व नगरीय निकाय चुनावों में अधिक से अधिक युवाओं को प्रतिनिधित्व देने की मांग की। कांग्रेस नेता कुम्पावत ने प्रदेशाध्यक्ष डोटासरा को बताया कि युवाओं का रूझान कांग्रेस पार्टी के प्रति बढ़ रहा है अगर आगामी चुनावों में कांग्रेस पार्टी युवाओं को उचित प्रतिनिधित्व देगी, तो इससे युवाओं को राजनीति की मुख्यधारा में आगे आने का अवसर मिलेगा।कांग्रेस प्रदेशाध्यक्ष गोविंद सिंह डोटासरा ने कहा की कांग्रेस पार्टी युवाओं को राजनीति की मुख्यधारा में आगे लाने के लिए प्रयासरत है व युवाओं को आगामी चुनावों में उचित प्रतिनिधित्व दिया जाएगा।इस अवसर पर कुम्पावत ने प्रदेशाध्यक्ष डोटासरा को पाली जिले में कांग्रेस संगठन की संगठनात्मक गतिविधियों से भी अवगत करवाया।",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-15 02:10:53",
-            "pubDateTZ": "UTC",
-            "image_url": "https://images.bhaskarassets.com/thumb/1000x1000/web2images/521/2025/05/15/pali14_1747274563.jpg",
-            "video_url": null,
-            "source_id": "bhaskar_hindi",
-            "source_name": "Bhaskar",
-            "source_priority": 34179,
-            "source_url": "https://www.bhaskar.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/bhaskar_hindi.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "domestic",
-                "other"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "90d3c0edcb6a439c8b1f8d641133e581",
-            "title": "ग्राम योजना क्षेत्र की सीमाओं में विस्तार को लेकर बैठक",
-            "link": "https://www.dainiktribuneonline.com/news/himachal/meeting-regarding-expansion-of-boundaries-of-gram-yojna-area/",
-            "keywords": [
-                "हिमाचल"
-            ],
-            "creator": [
-                "gusain"
-            ],
-            "description": "रामपुर बुशहर, 14 मई (हप्र) रामपुर बुशहर में आज अध्यक्ष, हिमाचल प्रदेश राज्य वित्तायोग एवं विधायक नन्द लाल की अध्यक्षता में रामपुर योजना क्षेत्र की पुनः सीमाओं को निर्धारित करने के लिए दरशाई, कलना,दत्त नगर, कुमसु, भद्राश व निरथ पंचायतों के जनप्रतिनिधों के साथ बैठक आयोजित की गई। बैठक में अध्यक्ष ने जानकारी दी कि [...]The post ग्राम योजना क्षेत्र की सीमाओं में विस्तार को लेकर बैठक appeared first on dainiktribuneonline.com.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-15 02:10:50",
-            "pubDateTZ": "UTC",
-            "image_url": "https://dainiktribuneonline.imagibyte.sortdcdn.net/wp-content/uploads/2025/05/11405714CD-_SCREENSHOT_2025_05_14_15_24_43_65_6012FA4D4DDEC268FC5C7112CBB265E7-768x572.jpg",
-            "video_url": null,
-            "source_id": "dainiktribuneonline",
-            "source_name": "Breaking News In Hindi Online",
-            "source_priority": 2014324,
-            "source_url": "https://www.dainiktribuneonline.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/dainiktribuneonline.jpg",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "f597fc23aba4c1febf45706c744f3557",
-            "title": "Ronald Acuna Jr. apologizes to Braves manager Brian Snitker and teammates for controversy over a social media post",
-            "link": "https://timesofindia.indiatimes.com/sports/mlb/news/ronald-acuna-jr-apologizes-to-braves-manager-brian-snitker-and-teammates-for-controversy-over-a-social-media-post/articleshow/121174689.cms",
-            "keywords": null,
-            "creator": null,
-            "description": "Ronald Acuna Jr. apologized to his manager, Brian Snitker, and teammates for a social media post accusing Snitker of favoritism after an incident involving Jarred Kelenic. Acuna, recovering from knee surgery, is progressing through rehab in the minor leagues.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-15 02:10:47",
-            "pubDateTZ": "UTC",
-            "image_url": "https://static.toiimg.com/thumb/msid-121174676,imgsize-755464,width-400,resizemode-4/Ronald-Acuna-Jr-.jpg",
-            "video_url": null,
-            "source_id": "toi",
-            "source_name": "The Times Of India",
-            "source_priority": 239,
-            "source_url": "https://timesofindia.indiatimes.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/toi.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "e99d56d3cc865ec76dbf658f9a154ce7",
-            "title": "Piloted by India's Shubhanshu Shukla, Ax-4 to lift off on June 8 for space station",
-            "link": "https://www.firstpost.com/world/piloted-by-indias-shubhanshu-shukla-ax-4-to-lift-off-on-june-8-for-space-station-13888586.html",
-            "keywords": [
-                "world"
-            ],
-            "creator": [
-                "Firstpost"
-            ],
-            "description": "A SpaceX Falcon 9 rocket will lift off from Launch Complex 39a at NASA's Kennedy Space Centre in Florida and carry the Ax-4 crew aboard a Dragon spacecraft to the ISS. The launch will take place at 6:40 pm IST",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-15 02:10:41",
-            "pubDateTZ": "UTC",
-            "image_url": "https://images.firstpost.com/uploads/2025/04/Untitled-design-53-2025-04-d8d28352f229f56c50020a8c29bff8cf.jpg",
-            "video_url": null,
-            "source_id": "firstpost",
-            "source_name": "Firstpost",
-            "source_priority": 5906,
-            "source_url": "https://www.firstpost.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/firstpost.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "world"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "05e137c1639bd837d0be5be31b5a2ed9",
-            "title": "पाक के खिलाफ एक और एक्शन, अमेजन समेत कई कंपनियों को सख्त आदेश",
-            "link": "https://hindi.news18.com/news/business/latest-ccpa-orders-e-commerce-companies-to-remove-products-with-pakistani-flag-ws-kl-9241059.html",
-            "keywords": [
-                "मनी"
-            ],
-            "creator": [
-                "Chandrashekhar Gupta"
-            ],
-            "description": null,
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-15 02:10:37",
-            "pubDateTZ": "UTC",
-            "image_url": "https://images.news18.com/ibnkhabar/uploads/2025/04/image-2025-04-1ba63adc108b03bab49c395a0d6e8af0-3x2.jpg",
-            "video_url": null,
-            "source_id": "hindinews18",
-            "source_name": "News 18 Hindi",
-            "source_priority": 4077,
-            "source_url": "https://hindi.news18.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/hindinews18.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "business"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "f18f39adf907ccedfa89a29ef5af6e13",
-            "title": "Trump appeals for Qatar's help in persuading Iran to give up its nuclear programme",
-            "link": "https://www.thehindu.com/news/international/trump-appeals-for-qatars-help-in-persuading-iran-to-give-up-its-nuclear-programme/article69577707.ece",
-            "keywords": [
-                "world"
-            ],
-            "creator": null,
-            "description": "Qatar, over the years, has played the role of intermediary between the U.S. and Iran and its proxies, including during talks with Tehran-backed Hamas as its 19-month war with Israel grinds on",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-15 02:10:37",
-            "pubDateTZ": "UTC",
-            "image_url": "https://th-i.thgim.com/public/incoming/cb3goc/article69577722.ece/alternates/LANDSCAPE_1200/2215095846.jpg",
-            "video_url": null,
-            "source_id": "thehindu",
-            "source_name": "The Hindu",
-            "source_priority": 2972,
-            "source_url": "https://www.thehindu.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/thehindu.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": true
-        },
-        {
-            "article_id": "09085d10b993cfdb6e2e0a33d528176e",
-            "title": "Patna: चाय-सिगरेट का पैसा मांगना बना जान का सौदा!बाढ़ में दुकानदार को मारी गोली",
-            "link": "https://www.prabhatkhabar.com/state/bihar/patna/shopkeeper-shot-over-tea-cigarette-payment-crowd-thrashes-attacker-in-barh-patna",
-            "keywords": [
-                "crime news",
-                "बिहार",
-                "bihar news",
-                "state news",
-                "पटना",
-                "bihar crime news",
-                "patna news"
-            ],
-            "creator": [
-                "Anshuman Parashar"
-            ],
-            "description": "Patna: बिहार के बाढ़ में चाय-सिगरेट का पैसा मांगना एक दुकानदार को महंगा पड़ गया. आरोपी ने कट्टा निकालकर गोली चला दी, जिससे दुकानदार घायल हो गया. मौके पर मौजूद लोगों ने हमलावर को दबोच लिया और ईंट-पत्थर से पीट-पीटकर अधमरा कर दिया.The post Patna: चाय-सिगरेट का पैसा मांगना बना जान का सौदा!बाढ़ में दुकानदार को मारी गोली appeared first on Prabhat Khabar.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-15 02:10:30",
-            "pubDateTZ": "UTC",
-            "image_url": "https://www.prabhatkhabar.com/wp-content/uploads/2025/05/Patna-10.jpg",
-            "video_url": null,
-            "source_id": "prabhatkhabar",
-            "source_name": "Prabhat Khabar",
-            "source_priority": 343253,
-            "source_url": "https://www.prabhatkhabar.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/prabhatkhabar.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "cea885c65ebc45c9efe74b9a1d50504c",
-            "title": "Stocks To Watch: Patanjali Foods, ITC Hotels, Tata Power, SBI, HUL, IREDA, And Others",
-            "link": "https://www.news18.com/business/markets/stocks-to-watch-patanjali-foods-itc-hotels-tata-power-sbi-hul-ireda-and-others-9337045.html",
-            "keywords": [
-                "business"
-            ],
-            "creator": null,
-            "description": null,
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-15 02:10:19",
-            "pubDateTZ": "UTC",
-            "image_url": "https://images.news18.com/ibnlive/uploads/2025/04/stocks-to-watch-2025-04-7e46707eed76f133d21319e67fe8ccfa-3x2.png",
-            "video_url": null,
-            "source_id": "news18",
-            "source_name": "News 18",
-            "source_priority": 1063,
-            "source_url": "https://www.news18.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/news18.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "business"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "e0996903ad135ab4be1029edbb136749",
-            "title": "Airtel seeks level playing field in dues conversions: Gopal Vittal",
-            "link": "https://telecom.economictimes.indiatimes.com/news/industry/airtel-seeks-level-playing-field-in-dues-conversions-gopal-vittal/121174688",
-            "keywords": null,
-            "creator": null,
-            "description": "Airtel said on Wednesday its board would take the final call on converting the company’s sizeable AGR dues into equity once the government clears the air on whether the company has the option to do so.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-15 02:10:17",
-            "pubDateTZ": "UTC",
-            "image_url": "https://etimg.etb2bimg.com/photo/121174703.cms",
-            "video_url": null,
-            "source_id": "telecom_economictimes",
-            "source_name": "Et Telecom",
-            "source_priority": 483,
-            "source_url": "https://telecom.economictimes.indiatimes.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/telecom_economictimes.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "technology"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "56265cd129a5ed70cf512083eeed0d1a",
-            "title": "Plea in Madras HC against laws stripping governor of power to appoint V-Cs",
-            "link": "https://www.newindianexpress.com/states/tamil-nadu/2025/May/15/plea-in-madras-hc-against-laws-stripping-governor-of-power-to-appoint-v-cs",
-            "keywords": [
-                "tamil nadu"
-            ],
-            "creator": [
-                "R Sivakumar"
-            ],
-            "description": null,
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-15 02:10:14",
-            "pubDateTZ": "UTC",
-            "image_url": "https://media.assettype.com/newindianexpress/2024-07/19b01e63-da9d-44db-845f-03a478c3440c/C_1_1_CH1441_101541950.jpg",
-            "video_url": null,
-            "source_id": "newindianexpress",
-            "source_name": "The New Indian Express",
-            "source_priority": 15406,
-            "source_url": "https://www.newindianexpress.com/nation",
-            "source_icon": "https://i.bytvi.com/domain_icons/newindianexpress.jpg",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "fde144fd73277dfe0fd59bc4624f1858",
-            "title": "पितृ कार्येषु अमावस्या: हरिद्वार के इन स्थलों पर करें पिंडदान, मिलेगा मोक्ष",
-            "link": "https://hindi.news18.com/news/dharm/pitru-karyeshu-amavasya-should-do-pitra-work-at-these-places-of-haridwar-pitras-will-get-salvation-in-religious-texts-description-of-these-places-local18-ws-kl-9240946.html",
-            "keywords": [
-                "उत्तराखंड"
-            ],
-            "creator": [
-                "Manish Kumar"
-            ],
-            "description": null,
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-15 02:10:08",
-            "pubDateTZ": "UTC",
-            "image_url": "https://images.news18.com/ibnkhabar/uploads/2025/05/HYP_5171093_cropped_14052025_153512_20250514_144807_0000_copy__2-3x2.jpg",
-            "video_url": null,
-            "source_id": "hindinews18",
-            "source_name": "News 18 Hindi",
-            "source_priority": 4077,
-            "source_url": "https://hindi.news18.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/hindinews18.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "fa387c3e336d66c69e390030856c6d7a",
-            "title": "Stardust Power Q2 2025 slides: Lithium refinery plans advance amid widening losses",
-            "link": "https://in.investing.com/news/company-news/stardust-power-q2-2025-slides-lithium-refinery-plans-advance-amid-widening-losses-93CH-4831397",
-            "keywords": null,
-            "creator": [
-                "Investing.com"
-            ],
-            "description": null,
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-15 02:10:06",
-            "pubDateTZ": "UTC",
-            "image_url": "https://csv-storage.forexpros.com/slides/9fd1a257baccaf5491389691d896fb7cb7b69912d18f74d90802552fb36c42c5.png",
-            "video_url": null,
-            "source_id": "investing_in",
-            "source_name": "Investing India",
-            "source_priority": 1205,
-            "source_url": "https://in.investing.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/investing_in.jpg",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": true
-        },
-        {
-            "article_id": "827817c4beb7d2d6dd56776de1f8393f",
-            "title": "Loar Announces Pricing of Secondary Public Offering",
-            "link": "https://in.investing.com/news/press-releases/loar-announces-pricing-of-secondary-public-offering-93CH-4831396",
-            "keywords": null,
-            "creator": [
-                "Investing.com"
-            ],
-            "description": null,
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-15 02:10:05",
-            "pubDateTZ": "UTC",
-            "image_url": "https://i-invdn-com.investing.com/news/news_headline_rolled_108x81.jpg",
-            "video_url": null,
-            "source_id": "investing_in",
-            "source_name": "Investing India",
-            "source_priority": 1205,
-            "source_url": "https://in.investing.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/investing_in.jpg",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": true
-        },
-        {
-            "article_id": "acacdc145c7999174e7a3f177afb9515",
-            "title": "Dalhousie, Chamba and Mani Mahesh set for transformation as major heritage and pilgrimage destinations",
-            "link": "https://timesofindia.indiatimes.com/city/chandigarh/dalhousie-chamba-and-mani-mahesh-set-for-transformation-as-major-heritage-and-pilgrimage-destinations/articleshow/121174600.cms",
-            "keywords": null,
-            "creator": null,
-            "description": "Dalhousie and Chamba are poised for a major transformation into prominent heritage and pilgrimage destinations. The district administration is developing a comprehensive plan under the PRASHAD project to boost tourism and generate employment.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-15 02:10:02",
-            "pubDateTZ": "UTC",
-            "image_url": "https://static.toiimg.com/thumb/msid-121174708,imgsize-1960608,width-400,height-225,resizemode-72/121174708.jpg",
-            "video_url": null,
-            "source_id": "toi",
-            "source_name": "The Times Of India",
-            "source_priority": 239,
-            "source_url": "https://timesofindia.indiatimes.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/toi.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "0dae0195b439c81287bbad40431723c5",
-            "title": "Srimanta Sankaradev University Holds Yoga Workshops Across Assam for Wellness",
-            "link": "https://www.sentinelassam.com/north-east-india-news/assam-news/srimanta-sankaradev-university-holds-yoga-workshops-across-assam-for-wellness",
-            "keywords": null,
-            "creator": [
-                "Sentinel Digital Desk"
-            ],
-            "description": null,
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-15 02:09:53",
-            "pubDateTZ": "UTC",
-            "image_url": "https://media.assettype.com/sentinelassam-english%2F2025-05-15%2F1ajxakn8%2FWhatsApp-Image-2025-05-12-at-23.27.54eaa3fc8c.webp?auto=format%2Ccompress&fit=max&w=480",
-            "video_url": null,
-            "source_id": "sentinel",
-            "source_name": "The Sentinel",
-            "source_priority": 177615,
-            "source_url": "https://www.sentinelassam.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/sentinel.jpg",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "0b559f0277cd8da0c00cce06be5a4a05",
-            "title": "बरनाला की हरसीरत कौर ने 100 प्रतिशत अंक लेकर लहराया परचम",
-            "link": "https://www.dainiktribuneonline.com/news/punjab/harsirat-kaur-of-barnala-raised-the-flag-by-scoring-100-percent-marks/",
-            "keywords": [
-                "पंजाब"
-            ],
-            "creator": [
-                "gusain"
-            ],
-            "description": "मोहाली, 14 मई (निस) बरनाला की हरसीरत कौर ने पंजाब स्कूल शिक्षा बोर्ड की बारहवीं की परीक्षा के नतीजों में पहला स्थान हासिल किया है। सर्वहितकारी सीनियर सेकेंडरी स्कूल विद्या मंदिर बरनाला की इस छात्रा ने 500 में से 500 (100 प्रतिशत) अंक प्राप्त कर अपने जिले का नाम रोशन किया। आज पंजाब स्कूल शिक्षा [...]The post बरनाला की हरसीरत कौर ने 100 प्रतिशत अंक लेकर लहराया परचम appeared first on dainiktribuneonline.com.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-15 02:09:49",
-            "pubDateTZ": "UTC",
-            "image_url": "https://dainiktribuneonline.imagibyte.sortdcdn.net/wp-content/uploads/2025/05/mohali-768x351.jpg",
-            "video_url": null,
-            "source_id": "dainiktribuneonline",
-            "source_name": "Breaking News In Hindi Online",
-            "source_priority": 2014324,
-            "source_url": "https://www.dainiktribuneonline.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/dainiktribuneonline.jpg",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "0e678e377e84736b0c844aa3bf66ddc3",
-            "title": "Kanpur: मलबे में मिला कंकाल, 60 व्यापारियों को नुकसान",
-            "link": "https://jantaserishta.com/local/uttar-pradesh/kanpur-skeleton-found-in-debris-60-traders-suffer-losses-4012829",
-            "keywords": [
-                "भारत,उत्तर प्रदेश,राज्य"
-            ],
-            "creator": [
-                "Renuka Sahu"
-            ],
-            "description": null,
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-15 02:09:48",
-            "pubDateTZ": "UTC",
-            "image_url": "https://jantaserishta.com/h-upload/2025/05/15/4593747-r.webp",
-            "video_url": null,
-            "source_id": "jantaserishta",
-            "source_name": "Janta Se Rishta",
-            "source_priority": 81836,
-            "source_url": "https://jantaserishta.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/jantaserishta.jpg",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "68b2c7b8a33d18da438a88df79691479",
-            "title": "India, Pakistan and slumbering toward total world war",
-            "link": "https://asiatimes.com/2025/05/india-pakistan-and-slumbering-toward-total-world-war/",
-            "keywords": [
-                "appia institute",
-                "maga",
-                "india-pakistan war",
-                "block 2",
-                "ukraine war",
-                "brics",
-                "belt and road initiative",
-                "china communist party",
-                "world",
-                "eu",
-                "china",
-                "nato",
-                "us reindustrialization"
-            ],
-            "creator": null,
-            "description": "The recent brief but violent clash between India and Pakistan came from nowhere and proves the extreme volatility of the historical moment. It started in the middle of some deep, long-term trends taking shape – the beginning of an alternative world order driven by the parallel wax of China’s Belt and Road Initiative (BRI) and [...]The post India, Pakistan and slumbering toward total world war appeared first on Asia Times.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-15 02:09:38",
-            "pubDateTZ": "UTC",
-            "image_url": "https://i0.wp.com/asiatimes.com/wp-content/uploads/2025/05/India-Pakistan-Missile-Strikes.jpg?fit=780%2C520&quality=89&ssl=1",
-            "video_url": null,
-            "source_id": "asiatimes",
-            "source_name": "Asia Times",
-            "source_priority": 67073,
-            "source_url": "https://asiatimes.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/asiatimes.png",
-            "language": "english",
-            "country": [
-                "georgia",
-                "yemen",
-                "afghanistan",
-                "cyprus",
-                "india",
-                "singapore",
-                "saudi arabia",
-                "maldives",
-                "japan",
-                "united arab emirates",
-                "malaysia",
-                "china",
-                "south korea",
-                "north korea",
-                "taiwan",
-                "thailand",
-                "pakistan",
-                "mongolia",
-                "brunei",
-                "lebanon",
-                "indonesia",
-                "kyrgyzstan",
-                "syria",
-                "israel",
-                "bhutan",
-                "iran",
-                "turkey",
-                "armenia",
-                "qatar",
-                "philippines",
-                "hong kong",
-                "kazakhstan",
-                "iraq",
-                "bangladesh",
-                "laos",
-                "vietnam",
-                "timor-leste",
-                "kuwait",
-                "myanmar",
-                "azerbaijan",
-                "jordan",
-                "nepal",
-                "oman",
-                "sri lanka",
-                "uzbekistan",
-                "turkmenistan",
-                "macau",
-                "bahrain",
-                "cambodia",
-                "tajikistan"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "17635733f3ece9b8efeaace83ff52b96",
-            "title": "बारात से लौट रही अर्टिगा को ट्रक ने मारी टक्कर:कार सवार एक ही परिवार के 5 की मौत, 8 घायल; चालक फरार",
-            "link": "https://www.bhaskar.com/local/uttar-pradesh/balrampur/news/the-ertiga-returning-from-the-wedding-procession-was-hit-by-a-truck-135030141.html",
-            "keywords": null,
-            "creator": null,
-            "description": "उत्तर प्रदेश के बलरामपुर जिले में बुधवार देर रात दर्दनाक सड़क हादसा हुआ। एनएच-730 पर कोतवाली देहात थाना क्षेत्र के चकवा चौकी के पास एक तेज रफ्तार ट्रक ने पीछे से एक अर्टिगा कार को टक्कर मार दी। हादसे में कार सवार 13 में से 5 लोगों की मौके पर ही मौत हो गई, जबकि 8 लोग गंभीर रूप से घायल हो गए। शादी समारोह से लौट रहे थे सभी लोग जानकारी के मुताबिक, हादसे में घायल और मृतक सभी गोंडा जिले के इटियाथोक थाना क्षेत्र के रहने वाले हैं। ये लोग श्रावस्ती जिले के इकौना क्षेत्र में एक शादी समारोह में शामिल होकर घर लौट रहे थे। देर रात करीब 1 बजे जब इनकी कार बलरामपुर हाईवे पर पहुंची, तभी पीछे से आ रहे तेज रफ्तार ट्रक ने उनकी कार को भीषण टक्कर मार दी। टक्कर इतनी जोरदार थी कि कार के परखच्चे उड़ गए हादसा इतना भीषण था कि अर्टिगा कार पूरी तरह क्षतिग्रस्त हो गई। कार में बैठे कई लोग सीटों के बीच फंस गए। स्थानीय लोगों ने तत्काल पुलिस और एंबुलेंस को सूचना दी। पुलिस और स्वास्थ्य विभाग की टीम मौके पर पहुंची और फंसे हुए लोगों को बाहर निकाला। घायलों की हालत नाजुक, लखनऊ किया जा सकता है रेफर सभी घायलों को बलरामपुर जिला अस्पताल में भर्ती कराया गया है। अस्पताल सूत्रों के मुताबिक, कुछ घायलों की हालत गंभीर बनी हुई है, जिन्हें अयोध्या या लखनऊ रेफर किया जा सकता है। ट्रक जब्त, चालक फरार पुलिस ने ट्रक को मौके से जब्त कर लिया है। ट्रक चालक मौके से फरार हो गया। हादसे के बाद हाईवे पर कुछ देर के लिए जाम लग गया। फिलहाल पुलिस ने मामला दर्ज कर लिया है और सीसीटीवी फुटेज खंगाले जा रहे हैं ताकि ट्रक चालक की पहचान की जा सके। एसपी ने दिए जांच के निर्देश बलरामपुर के पुलिस अधीक्षक ने घटना को गंभीरता से लेते हुए जांच के आदेश दिए हैं। मृतकों के शवों को पोस्टमार्टम के लिए भेज दिया गया है और परिजनों को हादसे की सूचना दे दी गई है।",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-15 02:09:37",
-            "pubDateTZ": "UTC",
-            "image_url": "https://images.bhaskarassets.com/thumb/1000x1000/web2images/521/2025/05/15/e8c0b6b4-a13a-496f-9e06-c5c14b5be338_1747272641821.jpg",
-            "video_url": null,
-            "source_id": "bhaskar_hindi",
-            "source_name": "Bhaskar",
-            "source_priority": 34179,
-            "source_url": "https://www.bhaskar.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/bhaskar_hindi.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top",
-                "domestic"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "e9cdaec6bf8e926a9573712600653b12",
-            "title": "डॉक्टर ने बताया कान का मैल निकालने के गजब जुगाड़, तेल या हाइड्रोजन पेरोक्साइड भूलकर भी ना करें इस्तेमाल",
-            "link": "https://ndtv.in/health/how-to-remove-ear-wax-doctors-tells-right-way-to-clean-ear-wax-kaan-ki-mail-kaise-nikale-8417304",
-            "keywords": null,
-            "creator": null,
-            "description": "How to Remove Ear Wax: डॉक्टर विनोद शर्मा ने अपने इंस्टाग्राम पर काम साफ करने का सही तरीका बताया है. इसके साथ ही उन्होंने बताया कि कान में मैल जमने से क्या नुकसान होते हैं और इसे कब और कैसे साफ करना चाहिए.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-15 02:09:34",
-            "pubDateTZ": "UTC",
-            "image_url": "https://c.ndtvimg.com/2025-01/a11tclrg_ear-wax_625x300_27_January_25.jpeg?im=FitAndFill%2Calgorithm%3Ddnn%2Cwidth%3D1200%2Cheight%3D738",
-            "video_url": null,
-            "source_id": "ndtv_in",
-            "source_name": "Ndtv",
-            "source_priority": 129751,
-            "source_url": "https://www.ndtv.in",
-            "source_icon": "https://i.bytvi.com/domain_icons/ndtv_in.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "5778360ebeab0258c8e023b05c4174de",
-            "title": "Laid-off Microsoft AI director shares ‘optimistic’ post: ‘To those affected - you’re not alone’",
-            "link": "https://www.livemint.com/news/trends/laidoff-microsoft-ai-director-shares-optimistic-post-to-those-affected-you-re-not-alone-11747270647698.html",
-            "keywords": null,
-            "creator": null,
-            "description": "Gabriela de Queiroz, Microsoft’s AI director, was among 6,000 employees laid off. She shared a heartfelt post on X, expressing optimism and support: “To those affected - you’re not alone.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-15 01:21:39",
-            "pubDateTZ": "UTC",
-            "image_url": "https://www.livemint.com/lm-img/img/2025/05/15/1600x900/micro_1747271278634_1747271283839.png",
-            "video_url": null,
-            "source_id": "livemint",
-            "source_name": "Mint",
-            "source_priority": 7134,
-            "source_url": "https://www.livemint.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/livemint.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "3d6f0b189a80cdc5ac9cbef1641e1a70",
-            "title": "Another silicosis death in West Burdwan",
-            "link": "https://www.thestatesman.com/bengal/another-silicosis-death-in-west-burdwan-1503432722.html",
-            "keywords": null,
-            "creator": null,
-            "description": "Agnimitra Paul, Hospital, West Burdwan",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-15 01:21:26",
-            "pubDateTZ": "UTC",
-            "image_url": "https://www.thestatesman.com/wp-content/uploads/2025/04/IMG_1781-jpeg.webp",
-            "video_url": null,
-            "source_id": "thestatesman",
-            "source_name": "The Statesman",
-            "source_priority": 42473,
-            "source_url": "https://www.thestatesman.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/thestatesman.jpg",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "df23183ef84a48f15c7f105b2bb33d8a",
-            "title": "Mandi News: निगम ने समझी जिम्मेदारी सुबह ही उठा दिया सारा कूड़ा",
-            "link": "https://www.amarujala.com/himachal-pradesh/mandi/the-corporation-understood-its-responsibility-and-removed-all-the-garbage-in-the-morning-itself-mandi-news-c-90-1-mrt1064-155953-2025-05-14",
-            "keywords": null,
-            "creator": null,
-            "description": "शहर में फुटपाथ पर अब दोपहर के समय कूड़ा नजर नहीं आएगा। नगर निगम मंडी ने सभी गाड़ी चालकों को निर्देश जारी कर दिए हैं कि सुबह नौ बजे से पहले शहर में कूड़ा उठाना सुनिश्चित करें ताकि लोगों को परेशानी न हो।",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-15 01:21:02",
-            "pubDateTZ": "UTC",
-            "image_url": "https://staticimg.amarujala.com/assets/images/4cplus/2025/05/15/asara-amara-ujal-ma-khabra-chhapana-ka-btha-mada-ka-nalkada-mahathava-mathara-ka-pasa-bthhavara-ka-samaya-kaugdha-uthaya_07aa074fb08cf00b964335de46b5de6a.jpeg?dpr=1.0&q=80&w=414",
-            "video_url": null,
-            "source_id": "amarujala",
-            "source_name": "Amar Ujala",
-            "source_priority": 55215,
-            "source_url": "https://www.amarujala.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/amarujala.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "bfdbea6ae885c1596fcea8e7b9e7d49a",
-            "title": "Chennai Citizen Connect: Commuters flag adverse conditions of bus stop on Wallajah Road",
-            "link": "https://www.dtnext.in/news/chennai/chennai-citizen-connect-commuters-flag-adverse-conditions-of-bus-stop-on-wallajah-road-833683",
-            "keywords": [
-                "chennai,news,headlines"
-            ],
-            "creator": [
-                "DTNEXT Bureau"
-            ],
-            "description": "Though GCC registered a complaint with an expiry date to resolve the issue before April 11, so far the concern has not been addressed.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-15 01:20:57",
-            "pubDateTZ": "UTC",
-            "image_url": "https://dtnext-prod-new.s3.ap-south-1.amazonaws.com/h-upload/2025/05/14/750x450_864311-jpg-15.jpg",
-            "video_url": null,
-            "source_id": "dtnext",
-            "source_name": "Dt Next",
-            "source_priority": 113678,
-            "source_url": "https://www.dtnext.in",
-            "source_icon": "https://i.bytvi.com/domain_icons/dtnext.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "1e995f923510cd4359637bf70934b645",
-            "title": "दुनिया में सबसे तेज गेंद फेंकने वाले 5 खूंखार गेंदबाज, रॉकेट जैसी तेजी से मचाई तबाही",
-            "link": "https://zeenews.india.com/hindi/sports/cricket/fastest-ball-record-in-cricket-history-international-match-shoaib-akhtar-deadly-speed-shaun-tait/2758418",
-            "keywords": null,
-            "creator": [
-                "Zee News Hindi",
-                "Zee News हिन्दी"
-            ],
-            "description": "क्रिकेट में एक से बढ़कर एक गेंदबाज ऐसे आए, जिनकी गेंदें रॉकेट जैसी तेज थी और बल्लेबाजों के लिए ऐसे बॉलरों का सामना करना किसी बुरे सपने से कम नहीं था. क्रिकेट इतिहास के इन तेज गेंदबाजो का खौफ उस समय के बल्लेबाजों में मौजूद था, जिसके कारण वो सफल गेंदबाज बने.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-15 01:20:55",
-            "pubDateTZ": "UTC",
-            "image_url": "https://hindi.cdn.zeenews.com/hindi/sites/default/files/2025/05/15/3911817-1.png?im=FitAndFill%3D%281200%2C900%29",
-            "video_url": null,
-            "source_id": "zeenews",
-            "source_name": "Zee News",
-            "source_priority": 5319,
-            "source_url": "http://zeenews.india.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/zeenews.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "sports"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "b759857f1f9f705736c82a21ab73d9f3",
-            "title": "Read, reflect, repeat: The quiet rise of Chennai’s silent reading clubs",
-            "link": "https://www.dtnext.in/news/chennai/read-reflect-repeat-the-quiet-rise-of-chennais-silent-reading-clubs-833657",
-            "keywords": [
-                "chennai,news,headlines"
-            ],
-            "creator": [
-                "Merin James"
-            ],
-            "description": "A wave of silent reading clubs is quietly transforming how people connect with books and with each other. From lakeside amphitheatres to cosy cafés and parks, these clubs are not just about reading, they are about creating meaningful connections in a noisy world",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-15 01:20:51",
-            "pubDateTZ": "UTC",
-            "image_url": "https://dtnext-prod-new.s3.ap-south-1.amazonaws.com/h-upload/2025/05/14/750x450_864294-jpg-7-1.jpg",
-            "video_url": null,
-            "source_id": "dtnext",
-            "source_name": "Dt Next",
-            "source_priority": 113678,
-            "source_url": "https://www.dtnext.in",
-            "source_icon": "https://i.bytvi.com/domain_icons/dtnext.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "5ab467b83f748ececf0282713aaa5a23",
-            "title": "TN amends notification, replaces Guv with State",
-            "link": "https://www.dtnext.in/news/tamilnadu/tn-amends-notification-replaces-guv-with-state-833670",
-            "keywords": [
-                "tamil nadu,news,headlines"
-            ],
-            "creator": [
-                "K Karthikeyan"
-            ],
-            "description": "Fortnight after forming search panels, state sets Aug 13 deadline to recommend vice-chancellors for 4 varsities",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-15 01:20:47",
-            "pubDateTZ": "UTC",
-            "image_url": "https://dtnext-prod-new.s3.ap-south-1.amazonaws.com/h-upload/2025/05/14/750x450_864313-jpg-16-1.jpg",
-            "video_url": null,
-            "source_id": "dtnext",
-            "source_name": "Dt Next",
-            "source_priority": 113678,
-            "source_url": "https://www.dtnext.in",
-            "source_icon": "https://i.bytvi.com/domain_icons/dtnext.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "31ad3dc3406923e392b741677c89ba11",
-            "title": "उफ! अधूरे अभियान की महानता का बखान",
-            "link": "https://www.nayaindia.com/opinion/ajeet-dwivedi/current-affairs/operation-sindoor-india-pakistan-ceasefire-2/497083.html",
-            "keywords": [
-                "नब्ज पर हाथ",
-                "operation sindoor",
-                "india",
-                "ceasefire",
-                "pakistan"
-            ],
-            "creator": [
-                "अजीत द्विवेदी"
-            ],
-            "description": "राज सत्ता की स्थापना में गाथाओं या आख्यानों का बड़ा महत्व है। प्राचीन काल में राजा अपनी महानता स्थापित करने के लिए अनेक प्रकार के यज्ञ कराते थे।",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-15 01:20:43",
-            "pubDateTZ": "UTC",
-            "image_url": "https://www.nayaindia.com/wp-content/uploads/2025/05/modi-airforce.jpg",
-            "video_url": null,
-            "source_id": "nayaindia",
-            "source_name": "Naya India",
-            "source_priority": 996886,
-            "source_url": "https://www.nayaindia.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/nayaindia.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "80958319add41e919284e859f40514f9",
-            "title": "Best stocks to buy today: Expert Raja Venkatraman's recommendations for 15 May",
-            "link": "https://www.livemint.com/market/stock-market-news/best-stocks-to-buy-today-expert-raja-venkatramans-recommendations-for-15-may-11747270646224.html",
-            "keywords": null,
-            "creator": null,
-            "description": "Best stocks to buy today: Discover Raja Venkatraman's top stock picks for Thursday, 15 May. Get insights into top performing stocks and informed investment decisions.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-15 01:20:42",
-            "pubDateTZ": "UTC",
-            "image_url": "https://www.livemint.com/lm-img/img/2025/05/15/1600x900/RAJA_IMG1_1733230290180_1747271632440.jpg",
-            "video_url": null,
-            "source_id": "livemint",
-            "source_name": "Mint",
-            "source_priority": 7134,
-            "source_url": "https://www.livemint.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/livemint.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "business"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "847a1c8ea334803bb97269a4fb0f3a5d",
-            "title": "10 militants killed in gunfight with Assam Rifles in Manipur's Chandel",
-            "link": "https://timesofindia.indiatimes.com/city/imphal/10-militants-killed-in-gunfight-with-assam-rifles-in-manipurs-chandel-district/articleshow/121174336.cms",
-            "keywords": null,
-            "creator": [
-                "TOI CITY DESK"
-            ],
-            "description": "The Army's Eastern Command said in a post on X, \"Acting on specific intelligence on movement of armed cadres nearby New Samtal village, Khengjoy Tehsil, Chandel District near the Indo-Myanmar Border, Assam Rifles unit under Spear Corps launched an operation on 14 May 2025.\"",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-15 01:20:30",
-            "pubDateTZ": "UTC",
-            "image_url": "https://static.toiimg.com/thumb/msid-121174445,width-1070,height-580,imgsize-58376,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-            "video_url": null,
-            "source_id": "toi",
-            "source_name": "The Times Of India",
-            "source_priority": 239,
-            "source_url": "https://timesofindia.indiatimes.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/toi.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "7ec29c92b320752f2ceb8f7c232430a7",
-            "title": "CM moots single window permit system for constructions in Core Urban Region",
-            "link": "https://www.thehansindia.com/telangana/cm-moots-single-window-permit-system-for-constructions-in-core-urban-region-971250",
-            "keywords": [
-                "telangana,news,state"
-            ],
-            "creator": [
-                "The Hans India"
-            ],
-            "description": "Calls for uniformity across departments to ensure speedier services",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-15 01:20:29",
-            "pubDateTZ": "UTC",
-            "image_url": "https://assets.thehansindia.com/h-upload/2025/05/15/1551070-revanth.webp",
-            "video_url": null,
-            "source_id": "thehansindia",
-            "source_name": "The Hans India",
-            "source_priority": 41360,
-            "source_url": "http://www.thehansindia.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/thehansindia.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "c48b46dc8269cedd2b989bb6c9875dc9",
-            "title": "सहारनपुर में फैक्ट्री से निकालने पर आत्मदाह की चेतावनी:पीड़िता बोली-25 साल की सेवा का कोई मूल्य नहीं समझा और बेसहारा छोड़ दिया",
-            "link": "https://www.bhaskar.com/local/uttar-pradesh/saharanpur/news/threat-of-self-immolation-if-fired-from-factory-in-saharanpur-135030077.html",
-            "keywords": null,
-            "creator": null,
-            "description": "सहारनपुर की शक्ति पेट्रोल पम्प फैक्ट्री में एक विधवा महिला न्याय के लिए संघर्ष कर रही है। अनीता, जो अपने पति हरपाल सिंह के साथ 25 साल से फैक्ट्री में कार्यरत थीं। पति की मौत के बाद नौकरी से निकाल दिया गया। पीड़िता ने बताया कि 19 फरवरी 2025 को पति हरपाल सिंह की अचानक मौत के बाद फैक्ट्री प्रबंधन ने अनीता को न केवल नौकरी से निकाल दिया। उन्हें किसी प्रकार की आर्थिक सहायता भी नहीं दी गई। अनीता का कहना है कि जब वह न्याय मांगने फैक्ट्री मालिक के पास गईं, तो उन्हें बार-बार टाला गया। फैक्ट्री स्टाफ ने उन्हें धमकियां भी दीं। उन्होंने एसएसपी को एक प्रार्थना पत्र सौंपा है। अनीता ने चेतावनी दी है कि अगर उन्हें न्याय नहीं मिला, तो वह कलेक्ट्रेट परिसर में आत्मदाह कर लेंगी। उनका कहना है कि उनके पति की 25 साल की सेवा का कोई मूल्य नहीं समझा गया और उन्हें बेसहारा छोड़ दिया गया है।",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-15 01:20:18",
-            "pubDateTZ": "UTC",
-            "image_url": "https://images.bhaskarassets.com/thumb/1000x1000/web2images/521/2025/05/15/d07aac74-39e4-4863-a41b-a331ba78fe20_1747215821939.jpg",
-            "video_url": null,
-            "source_id": "bhaskar_hindi",
-            "source_name": "Bhaskar",
-            "source_priority": 34179,
-            "source_url": "https://www.bhaskar.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/bhaskar_hindi.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top",
-                "domestic"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "a74520194c975b9ecce7a2d530050657",
-            "title": "Over 20 people dead in Mexico highway accident",
-            "link": "https://www.deccanherald.com/world/over-20-people-dead-in-mexico-highway-accident-3541411",
-            "keywords": null,
-            "creator": [
-                "Reuters"
-            ],
-            "description": null,
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-15 01:20:07",
-            "pubDateTZ": "UTC",
-            "image_url": "https://images.deccanherald.com/deccanherald%2F2025-05-06%2Fuci198rv%2Fdeccanherald2025-04-16kci1x7x0deccanherald2023-0807173776-c12d-4cea-b861-7ffcea4cc2cfaccidentjustroatistock12331811688283468.avif?ar=40%3A21&auto=format%2Ccompress&mode=crop&ogImage=true&rect=0%2C20%2C700%2C368&w=1200",
-            "video_url": null,
-            "source_id": "deccanherald",
-            "source_name": "Deccan Herald",
-            "source_priority": 10080,
-            "source_url": "https://www.deccanherald.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/deccanherald.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": true
-        },
-        {
-            "article_id": "be557bfdcf12d4604696cf79201f9e08",
-            "title": "मिथुन राश‍िफल 15 मई: धन लाभ के रास्ते बनेंगे, जानें कैसा रहेगा दिन",
-            "link": "https://www.aajtak.in/religion/rashiphal/video/gemini-horoscope-today-aaj-15-may-2025-ka-mithun-rashifal-in-hindi-thursday-2240258-2025-05-15",
-            "keywords": null,
-            "creator": null,
-            "description": "मिथुन राशि (Gemini Horoscope): धन लाभ के रास्ते बनेंगे, मित्रों से मदद मिलेगी, जीवनसाथी से सहयोग मिलेगा, कोर्ट केस में सफलता मिलेगी. अन्य राशियों का हाल जानने के लिए नीचे क्लिक करें 'राशिफल'.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-15 01:20:02",
-            "pubDateTZ": "UTC",
-            "image_url": "https://akm-img-a-in.tosshub.com/aajtak/images/video/202505/68246b36ee0c9-gemini-horoscope-140641329-16x9.png",
-            "video_url": null,
-            "source_id": "aajtak",
-            "source_name": "Aaj Tak",
-            "source_priority": 20158,
-            "source_url": "http://aajtak.in",
-            "source_icon": "https://i.bytvi.com/domain_icons/aajtak.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "other"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "0bbe528e6101f32f0d4d6303450b2f48",
-            "title": "20 suction sweepers to soon clean Chennai roads",
-            "link": "https://www.dtnext.in/news/chennai/20-suction-sweepers-to-soon-clean-chennai-roads-833676",
-            "keywords": [
-                "chennai,news,headlines"
-            ],
-            "creator": [
-                "Prithiv Raj Anbu"
-            ],
-            "description": "Earlier, 4-6 members will be deployed to clean a 500-metre stretch. Two workers can handle the machine, thus reducing the manpower demand.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-15 01:20:02",
-            "pubDateTZ": "UTC",
-            "image_url": "https://dtnext-prod-new.s3.ap-south-1.amazonaws.com/h-upload/2025/05/14/750x450_864307-jpg-14.jpg",
-            "video_url": null,
-            "source_id": "dtnext",
-            "source_name": "Dt Next",
-            "source_priority": 113678,
-            "source_url": "https://www.dtnext.in",
-            "source_icon": "https://i.bytvi.com/domain_icons/dtnext.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "4c4040d4b9fcc39db4c57aaf23b4be8b",
-            "title": "10 militants killed in gunfight with Assam Rifles in Manipur's Chandel district - Times of India",
-            "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxONWRaVXJwQVo2UXk5SGJXdHNyb0dLZU1aM3ZYaHZxVXZpejQzX25iRU9lY1B3eVByUzdqTlhiT295eE1SbGx0Y21jWUk4RWh5cFFsbXo4XzREbkJfYVJ1M29BUExvdnB1enVvcTdLN2dvUm5rWHFzY3B3SFFQaVlQdWRHUlpCUlM0NGQ4SjhUY2k4X2JWel9ZRVlCVGtMRUFVN1lLeTNneHNwQTZmN2FfWDVPVkllUlg1T0hSMHZuOUkwNW5tbTN6ZS1YWDBRYTU2SE1seTNkc3g0a3JSaVdaYURsZnBrUUk?oc=5",
-            "keywords": null,
-            "creator": null,
-            "description": "10 militants killed in gunfight with Assam Rifles in Manipur's Chandel district Times of IndiaManipur: 10 militants killed in encounter with security forces, operation underway Hindustan TimesTen militants killed in Assam Rifles operation near Indo-Myanmar border in Manipur Mathrubhumi EnglishAround 10 militants were killed in Chandel district of Manipur The Economic TimesManipur: 10 militants killed in gunfight by Assam Rifles in Chandel district India TV News",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-15 01:20:00",
-            "pubDateTZ": "UTC",
-            "image_url": null,
-            "video_url": null,
-            "source_id": "google",
-            "source_name": "Google News",
-            "source_priority": 14,
-            "source_url": "https://news.google.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/google.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "79acc9e1ffef50251495fd0496d23702",
-            "title": "Manipur: Matric & Higher Secondary achievers honoured",
-            "link": "https://thehillstimes.in/northeast/manipur-matric-higher-secondary-achievers-honoured",
-            "keywords": [
-                "northeast"
-            ],
-            "creator": [
-                "The Hills Times"
-            ],
-            "description": "HT Bureau GUWAHATI, May 14: In a touching show of gratitude and celebration, Sorshia Christian College and Needy Home Academy co-organised a Felicitation cum Thanksgiving Programme to felicitate the meritorious students of Matric and Higher Secondary Examinations 2025. The ceremony, organized at Needy Home campus, witnessed the participation of teachers, pastors, parents, and esteemed invitees. [...]",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-15 01:20:00",
-            "pubDateTZ": "UTC",
-            "image_url": null,
-            "video_url": null,
-            "source_id": "thehillstimes",
-            "source_name": "The Hills Times",
-            "source_priority": 514422,
-            "source_url": "https://thehillstimes.in",
-            "source_icon": "https://i.bytvi.com/domain_icons/thehillstimes.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "ee9db8dc246de41341252d970e69b70c",
-            "title": "Operation Sindoor: IAF jammed Pakistan's Chinese-supplied air defence, completed mission in 23 minutes",
-            "link": "https://www.dnaindia.com/india/report-operation-sindoor-iaf-jammed-pakistan-s-chinese-supplied-air-defence-completed-mission-in-23-minutes-3151894",
-            "keywords": [
-                "india"
-            ],
-            "creator": [
-                "Sonali Sharma"
-            ],
-            "description": "The use of modern indigenous technology, from long-range drones to guided munitions, made these strikes highly effective and politically calibrated.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-15 01:20:00",
-            "pubDateTZ": "UTC",
-            "image_url": "https://cdn.dnaindia.com/sites/default/files/styles/third/public/2025/05/15/2694495-image-2025-05-15t065357.770.jpg",
-            "video_url": null,
-            "source_id": "dnaindia",
-            "source_name": "Dna",
-            "source_priority": 18388,
-            "source_url": "https://www.dnaindia.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/dnaindia.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": true
-        },
-        {
-            "article_id": "0b8ca1c292cad989876747a04373904e",
-            "title": "Himalayan apple growers seek ban on the fruit’s imports from Turkey",
-            "link": "https://yespunjab.com/himalayan-apple-growers-seek-ban-on-the-fruits-imports-from-turkey/",
-            "keywords": [
-                "apple farmers protest",
-                "turkish apple imports",
-                "apple import statistics india",
-                "apple farmer livelihood india",
-                "himachal apple crisis",
-                "india",
-                "agriculture policy india 2025",
-                "india turkey apple trade",
-                "j&k apple growers",
-                "ban on apple imports india",
-                "himalayan apple growers society",
-                "uttarakhand apple farmers",
-                "vocal for local apple farmers",
-                "rajesh dhanta apple import ban"
-            ],
-            "creator": [
-                "Team YP"
-            ],
-            "description": "New Delhi, May 14, 2025 The Himalyan Apple Growers Society has demanded an immediate ban on the import of apples from Turkey. The general secretary of the body, Rajesh Dhanta, has called for India to immediately withdraw its engagement in import in the economic interests of the Himalayan states. The apple orchards of Himachal Pradesh, [...]The post Himalayan apple growers seek ban on the fruit’s imports from Turkey appeared first on Yes Punjab News.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-15 01:19:53",
-            "pubDateTZ": "UTC",
-            "image_url": "https://yespunjab.com/wp-content/uploads/2025/05/Himalayan-apple-696x497.jpg",
-            "video_url": null,
-            "source_id": "yespunjab",
-            "source_name": "Yes Punjab News",
-            "source_priority": 422545,
-            "source_url": "https://yespunjab.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/yespunjab.jpg",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": true
-        },
-        {
-            "article_id": "db7a52310df87bb3cbb89b06b6d03baa",
-            "title": "पाकिस्तान के बाद अब इस देश के खिलाफ फूटा भारतीयों का जरबदस्त गुस्सा, करोड़ों का करा दिया नुकसान",
-            "link": "https://www.abplive.com/business/aafter-sindoor-operation-against-pakistan-now-boycott-turkey-appeal-in-india-2943939",
-            "keywords": [
-                "बिजनेस"
-            ],
-            "creator": [
-                "एबीपी बिजनेस डेस्क"
-            ],
-            "description": "ऑपरेशन सिंदूर के बाद पाकिस्तान का साथ देना उसके दोस्त तुर्किए को अब काफी महंगा पड़ रहा है. तुर्किए ने जिस तरह से पाकिस्तान को खुला समर्थन दिया है, उसके बाद से भारतीयों का गुस्सा अब जबरदस्त तरीके से फूट रहा है. भारत के लोग अब न सिर्फ तुर्किए के सामानों का बायकॉट कर रहे हैं बल्कि वहां जाने से परहेज भी कर रहे हैं. वहां के पर्यटन से भी किनारा करने का आह्वान कर रहे हैं.तुर्किए बॉयकाट की अपील लोग ऐसे वक्त पर कर रहे हैं जब रिकॉर्ड संख्या में भारतीय पर्यटक वहां पर जा रहे थे. अगर आंकड़ों पर गौर करें तो साल 2009 में तुर्किए जाने वाले भारतीय पर्यटकों की संख्या 55,000 थी, जो 10 साल बाद 2019 में 2,30,131 हो गई. इसके बाद पिछले साल 2024 में ये सख्या और बढ़कर 3,30,985 हो गई थी.पिछले साल यानी 2024 के आंकड़ों पर अगर गौर करें तो तुर्किए में करीब 62.2 मिलियन विदेशी पर्यटक गए थे. इनमें से 3 लाख से ज्यादा भारतीय पर्यटक थे. इनका पर्यटन से कमाई में 61.1 बिलियन डॉलर का योगदान है. सिर्फ भारत के टूरिस्ट ही 291.6 मिलियन डॉलर खर्च करते हैं. ऐसे में भारतीय पर्यटकों के बहिष्कार करने से तुर्की को बड़ा आर्थिक तौर पर नुकसान हो सकता है.पाक का साथ पड़ा महंगाभारत में तुर्किए विरोध की अपील को देखते हुए बुकिंग फर्मों ने बुकिंग पर अस्थाई रुप से रोक लगा दी है. तुर्किए के बायकॉट का विरोध किस कदर बढ़ चुका है इसका एक संकेत मेक माय ट्रिप की प्रवक्ता तनुप्रिया चौधरी की उन बातों से भी समझा जा सकता है, जिसमें उन्होंने कहा कि पिछले एक हफ्ते के दौरान अजरबैजान और तुर्किए के लिए पैसेंजर्स की बुकिंग में 60 प्रतिशत की कमी आयी है, जबकि टिकट कैंसिल कराने वालों में 250 प्रतिशत का भारी इजाफा हुआ है. तुर्किए को भारी नुकसानव्यापारियों के संगठन कन्फेडरेशन ऑफ ऑल इंडिया ट्रेडर्स (कैट) के महासचिव और चांदनी चौक लोकसभा सीट से सांसद प्रवीण खंडेलवाल का कहना है कि यात्रा बहिष्कार का तुर्की और अजरबैजान की इकोनॉमी पर बहुत ही बुरा असर पड़ सकता है. खासकर वहां के टूरिज्म सेक्टर को नुकसान पहुंचेगा. खंडेलवाल ने अजरबैजान में भारतीय टूरिस्ट का उल्लेख करते हुए बताया कि साल 2024 में करीब 2.6 मिलियन टूरिस्ट गए थे, जिनमें से ढाई लाख भारत के थे. ये टूरिस्ट पर्यटकों के तौर पर 308.6 मिलियन डॉलर खर्च कर वहां की इकोनॉमी में योगदान देते हैं. ऐसे में भारतीय टूरिस्ट के बहिष्कार से बड़ा नुकसान हो सकता है.ये भी पढ़ें: रुपये की दहाड़ के आगे सहम गया ट्रंप का डॉलर, चीन से डील के बाद भी नहीं जा रहा डर",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-15 01:19:51",
-            "pubDateTZ": "UTC",
-            "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2025/05/15/4ad7179647e2c80ec1e1af868bd163201747271886441120_original.jpg",
-            "video_url": null,
-            "source_id": "abplive",
-            "source_name": "Abp News",
-            "source_priority": 7754,
-            "source_url": "http://abplive.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/abplive.jpg",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "business"
             ],
             "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
             "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
