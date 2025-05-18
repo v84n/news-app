@@ -1,6 +1,669 @@
 {
     "articles": [
         {
+            "article_id": "2909c560b19cd2f1919586a080294b1b",
+            "title": "Ivan Demidov shortlisted for KHL Rookie of the Year following strong season with SKA St. Petersburg",
+            "link": "https://timesofindia.indiatimes.com/sports/nhl/news/ivan-demidov-shortlisted-for-khl-rookie-of-the-year-following-strong-season-with-ska-st-petersburg/articleshow/121215767.cms",
+            "keywords": null,
+            "creator": null,
+            "description": "Ivan Demidov, the Montreal Canadiens' fifth-overall pick, was nominated for the KHL Rookie of the Year after a stellar season with SKA St. Petersburg, showcasing his offensive prowess with 49 points in 65 games. He also debuted with the Canadiens, contributing in both regular-season and playoff games. Semyon Vyazovoi and Yegor Surin are also finalists for the award.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-16 14:24:53",
+            "pubDateTZ": "UTC",
+            "image_url": "https://static.toiimg.com/thumb/msid-121215781,imgsize-32634,width-400,resizemode-4/Montreal-Canadiens-forward-Ivan-Demidov.jpg",
+            "video_url": null,
+            "source_id": "toi",
+            "source_name": "The Times Of India",
+            "source_priority": 239,
+            "source_url": "https://timesofindia.indiatimes.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/toi.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "26109c25bfbc2c196a3cc4bc9d809f57",
+            "title": "सीतामढ़ी सदर अस्पताल में GNM कर्मी ने की आत्महत्या, कर्मचारियों ने अधीक्षक पर लगाया प्रताड़ित करने का आरोप, किया हंगामा",
+            "link": "https://zeenews.india.com/hindi/india/bihar-jharkhand/sitamarhi/gnm-worker-committed-suicide-in-sitamarhi-sadar-hospital-employees-accused-superintendent-created-a-ruckus/2761022",
+            "keywords": null,
+            "creator": [
+                "Zee News Hindi"
+            ],
+            "description": "सीतामढ़ी सदर अस्पताल में कार्यरत GNM आशीष शर्मा ने अस्पताल अधीक्षक की प्रताड़ना से तंग आकर आत्महत्या कर ली. कर्मचारियों ने पहले ही सिविल सर्जन से अधीक्षक की शिकायत की थी, लेकिन कोई कार्रवाई नहीं हुई.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-16 14:24:53",
+            "pubDateTZ": "UTC",
+            "image_url": "https://hindi.cdn.zeenews.com/hindi/sites/default/files/2025/05/16/3916297-sitamarhinews.png?im=FitAndFill%3D%281200%2C900%29",
+            "video_url": null,
+            "source_id": "zeenews",
+            "source_name": "Zee News",
+            "source_priority": 5319,
+            "source_url": "http://zeenews.india.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/zeenews.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "7b297ba1729f97b4a10a6af44afebb76",
+            "title": "Warren Buffett's Berkshire Hathaway doubles stake in alcohol stock Constellation, sells Citigroup & other financial stocks",
+            "link": "https://economictimes.indiatimes.com/markets/stocks/news/berkshire-doubles-constellation-stake-sells-citigroup-and-other-financial-stocks/articleshow/121215851.cms",
+            "keywords": null,
+            "creator": null,
+            "description": "Warren Buffett's Berkshire Hathaway said on Thursday it more than doubled its stake in alcoholic beverages producer Constellation Brands, while shedding investments in Citigroup and other financial services companies.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-16 14:24:52",
+            "pubDateTZ": "UTC",
+            "image_url": "https://img.etimg.com/thumb/msid-121215871,width-1200,height-630,imgsize-76326,overlay-etmarkets/articleshow.jpg",
+            "video_url": null,
+            "source_id": "economictimes_indiatimes",
+            "source_name": "The Economic Times",
+            "source_priority": 231,
+            "source_url": "https://economictimes.indiatimes.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/economictimes_indiatimes.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "business"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "1308878b727f7394e5a325890080ed74",
+            "title": "Berkshire doubles Constellation stake, sells Citigroup and other financial stocks",
+            "link": "http://economictimes.indiatimes.com/markets/stocks/news/berkshire-doubles-constellation-stake-sells-citigroup-and-other-financial-stocks/articleshow/121215851.cms",
+            "keywords": null,
+            "creator": null,
+            "description": "Warren Buffett's Berkshire Hathaway said on Thursday it more than doubled its stake in alcoholic beverages producer Constellation Brands, while shedding investments in Citigroup and other financial services companies.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-16 14:24:52",
+            "pubDateTZ": "UTC",
+            "image_url": "https://img.etimg.com/thumb/msid-121215871,width-1200,height-630,imgsize-76326,overlay-etmarkets/articleshow.jpg",
+            "video_url": null,
+            "source_id": "economictimes_indiatimes",
+            "source_name": "The Economic Times",
+            "source_priority": 231,
+            "source_url": "https://economictimes.indiatimes.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/economictimes_indiatimes.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "business"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": true
+        },
+        {
+            "article_id": "149e5075d9ec900afd639248404f7d81",
+            "title": "Heart Beat Season 2 OTT release date: Here’s where and when to watch the latest Deepa Balu’s Tamil medical series online",
+            "link": "https://newsroompost.com/entertainment/heart-beat-season-2-ott-release-date-heres-where-and-when-to-watch-the-latest-deepa-balus-tamil-medical-series-online/5343819.html",
+            "keywords": [
+                "heart beat season 2 ott release",
+                "entertainment",
+                "heart beat season 2 ott release date"
+            ],
+            "creator": [
+                "Hardik Azad"
+            ],
+            "description": "Heart Beat Season 2 OTT release date: Anumol, Charukesh, Yogalakshmi, Sarvhaa, Padine Kumar, and RG Ram have also played pivotal roles in the web drama. The post Heart Beat Season 2 OTT release date: Here’s where and when to watch the latest Deepa Balu’s Tamil medical series online appeared first on NewsroomPost.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-16 14:24:51",
+            "pubDateTZ": "UTC",
+            "image_url": "https://newsroompost.com/wp-content/uploads/2025/05/Pope-2025-05-16T195356.480.jpg",
+            "video_url": null,
+            "source_id": "newsroompost",
+            "source_name": "Newsroompost",
+            "source_priority": 57039,
+            "source_url": "https://newsroompost.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/newsroompost.jpg",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "entertainment"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "7bc83a383e0153fb88f8a16e37a34bf3",
+            "title": "Nvidia To Take 55 Bn Hit After Us Curbs H20 Ai Chip Exports To China",
+            "link": "https://www.businessworld.in/article/nvidia-to-take-55-bn-hit-after-us-curbs-h20-ai-chip-exports-to-china-553818",
+            "keywords": null,
+            "creator": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-16 14:24:47",
+            "pubDateTZ": "UTC",
+            "image_url": null,
+            "video_url": null,
+            "source_id": "businessworld",
+            "source_name": "Bw Businessworld",
+            "source_priority": 31375,
+            "source_url": "https://www.businessworld.in",
+            "source_icon": null,
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "629e9519bab06a19b6157660fa5d5573",
+            "title": "CEC रिपोर्ट में कहा गया है कि कांचा गाचीबोवली \"मानित वन\" के रूप में योग्य है",
+            "link": "https://jantaserishta.com/local/telangana/cec-report-says-kancha-gachibowli-qualifies-as-deemed-forest-4017067",
+            "keywords": [
+                "राज्य,तेलंगाना"
+            ],
+            "creator": [
+                "Tulsi Rao"
+            ],
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-16 14:24:43",
+            "pubDateTZ": "UTC",
+            "image_url": "https://jantaserishta.com/h-upload/2025/05/16/4598742-36.webp",
+            "video_url": null,
+            "source_id": "jantaserishta",
+            "source_name": "Janta Se Rishta",
+            "source_priority": 81836,
+            "source_url": "https://jantaserishta.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/jantaserishta.jpg",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "27357746cfdc58a9aba7664b099ba52e",
+            "title": "PPS Transfer : यूपी में 48 पीपीएस अधिकारियों का तबादला, बदले गए सीनियर 18 अधिकारी भी",
+            "link": "https://www.jagran.com/uttar-pradesh/lucknow-city-pps-officers-transferred-in-up-23939396.html",
+            "keywords": null,
+            "creator": null,
+            "description": "PPS Officers Transferred in UP लखनऊ पुलिस कमिश्नरेट से तैनात सुबोध कुमार श्रीवास्तव को 35वीं वाहिनी पीएसी लखनऊ वाराणसी कमिश्नरेट से ममता रानी चौधरी को लखनऊ कमिश्नरेट फिरोजाबाद में एएसपी ग्रामीण अखिलेश भदौरिया को अमरोहा भेजा गया है। अमरोहा से राजीव कुमार सिंह द्वितीय को मथुरा का एएसपी सिटी बनाया गया है।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-16 14:24:40",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.jagranimages.com/images/newimg/16052025/16_05_2025-pps_officers_transferred_dainik_jagran_23939396_m.webp",
+            "video_url": null,
+            "source_id": "jagran",
+            "source_name": "Jagran",
+            "source_priority": 6734,
+            "source_url": "https://www.jagran.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/jagran.jpg",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "domestic"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "92dd4789ac8e4eee334c52e14f6a37f3",
+            "title": "India reviews US push to lift ethanol curbs amid trade deal talks",
+            "link": "https://www.business-standard.com/industry/agriculture/india-reviews-us-request-on-ethanol-imports-amid-trade-talks-125051601447_1.html",
+            "keywords": [
+                ""
+            ],
+            "creator": null,
+            "description": "India is examining a US request to open ethanol imports for fuel use as part of broader trade negotiations, sparking concerns from domestic producers over policy reversal",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-16 14:24:37",
+            "pubDateTZ": "UTC",
+            "image_url": null,
+            "video_url": null,
+            "source_id": "business-standard",
+            "source_name": "Business Standard",
+            "source_priority": 9158,
+            "source_url": "https://www.business-standard.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/business-standard.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "9a1a2ae1eaefad829393cd7b4b70ca84",
+            "title": "India Afghanistan Shahtoot Dam: अफगानिस्तान से पानी रोकेगा भारत? पाकिस्तान की नस काटने की तैयारी",
+            "link": "https://www.prabhatkhabar.com/world/india-afghanistan-shahtoot-dam-pakistan-water-crisis-strategy",
+            "keywords": [
+                "world news",
+                "pakistan news",
+                "afghanistan",
+                "world"
+            ],
+            "creator": [
+                "Aman Kumar Pandey"
+            ],
+            "description": "India Afghanistan Shahtoot Dam: भारत और अफगानिस्तान के बीच शहतूत बांध परियोजना पर बनी सहमति ने पाकिस्तान की चिंताएं बढ़ा दी हैं. काबुल और कुनार नदियों पर बांध निर्माण से पाकिस्तान की जल सुरक्षा प्रभावित हो सकती है, जबकि भारत की रणनीति उसे कूटनीतिक बढ़त देती है.The post India Afghanistan Shahtoot Dam: अफगानिस्तान से पानी रोकेगा भारत? पाकिस्तान की नस काटने की तैयारी appeared first on Prabhat Khabar.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-16 14:24:36",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.prabhatkhabar.com/wp-content/uploads/2025/05/India-Afghanistan-Shahtoot-Dam.jpg",
+            "video_url": null,
+            "source_id": "prabhatkhabar",
+            "source_name": "Prabhat Khabar",
+            "source_priority": 343253,
+            "source_url": "https://www.prabhatkhabar.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/prabhatkhabar.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "9e284e3be011f7a01b793ad0e4d92118",
+            "title": "पर्यावरण मंत्रालय की पहल, संरक्षण में आगे आईं केमिकल इंडस्ट्री",
+            "link": "https://hindi.news18.com/news/delhi/south-delhi-lankes-gets-top-a-grade-in-environmental-protection-praised-by-ministry-ws-bel-9245107.html",
+            "keywords": [
+                "देश"
+            ],
+            "creator": [
+                "Sharad Pandey"
+            ],
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-16 14:24:34",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.news18.com/ibnkhabar/uploads/2025/05/image-2025-05-3fa37b5a5ae3771ce50380102ca8c592-3x2.jpg",
+            "video_url": null,
+            "source_id": "hindinews18",
+            "source_name": "News 18 Hindi",
+            "source_priority": 4077,
+            "source_url": "https://hindi.news18.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/hindinews18.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "9b4873f4fcfff946b47198e5a407c356",
+            "title": "Srisailam Left Bank Canal tunnel collapse: Expert committee urged to hasten report",
+            "link": "https://telanganatoday.com/srisailam-left-bank-canal-tunnel-collapse-expert-committee-urged-to-hasten-report",
+            "keywords": [
+                "srisailam",
+                "hyderabad",
+                "tunnel collapse",
+                "srisailam left bank canal",
+                "news",
+                "krishna river water",
+                "nagarkurnool",
+                "telangana",
+                "slbc tunnel"
+            ],
+            "creator": [
+                "Telangana Today"
+            ],
+            "description": "The meeting resolved to hold detailed discussions with the committee members within a week to work out a strategy for resuming the pending works",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-16 14:24:27",
+            "pubDateTZ": "UTC",
+            "image_url": "https://media.telanganatoday.com/wp-content/uploads/2025/05/SLBC-1-768x450.jpg",
+            "video_url": null,
+            "source_id": "telanganatoday",
+            "source_name": "Telangana Today",
+            "source_priority": 63887,
+            "source_url": "https://telanganatoday.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/telanganatoday.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "39bf08819b84da1a894fa04dd4f3c5c5",
+            "title": "Pankaj Singh ने कहा, \"दिल्ली मेडिकल काउंसिल को भंग करने का प्रस्ताव एलजी की मंजूरी का इंतजार कर रहा\"",
+            "link": "https://jantaserishta.com/delhi-ncr/pankaj-singh-said-proposal-to-dissolve-delhi-medical-council-awaits-lgs-approval-4017066",
+            "keywords": [
+                "दिल्ली-एनसीआर"
+            ],
+            "creator": [
+                "Gulabi Jagat"
+            ],
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-16 14:24:27",
+            "pubDateTZ": "UTC",
+            "image_url": "https://jantaserishta.com/h-upload/2025/05/16/4598743-ani-20250516113429.webp",
+            "video_url": null,
+            "source_id": "jantaserishta",
+            "source_name": "Janta Se Rishta",
+            "source_priority": 81836,
+            "source_url": "https://jantaserishta.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/jantaserishta.jpg",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "97819ab815114bef395a47af39ee8083",
+            "title": "Entertainment News | Justin Bieber Not Among 'Diddy' Victims, There Are Individuals Who Were Genuinely Harmed, Says Singer's Spokesperson",
+            "link": "https://www.latestly.com/agency-news/entertainment-news-justin-bieber-not-among-diddy-victims-there-are-individuals-who-were-genuinely-harmed-says-singers-spokesperson-6859839.html",
+            "keywords": null,
+            "creator": null,
+            "description": "Get latest articles and stories on Entertainment at LatestLY. The statement comes as Combs faces serious federal charges",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-16 14:24:25",
+            "pubDateTZ": "UTC",
+            "image_url": "https://st1.latestly.com/wp-content/uploads/2025/05/ANI-20250516135700-380x214.jpg",
+            "video_url": null,
+            "source_id": "latestly",
+            "source_name": "Latestly",
+            "source_priority": 31923,
+            "source_url": "https://www.latestly.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/latestly.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "57a1be5b06c37b986b330d40fdfe35b9",
+            "title": "Latest News | RBI Imposes Penalty on Deutsche Bank AG, Yes Bank",
+            "link": "https://www.latestly.com/agency-news/latest-news-rbi-imposes-penalty-on-deutsche-bank-ag-yes-bank-6859837.html",
+            "keywords": null,
+            "creator": null,
+            "description": "Get latest articles and stories on Latest News at LatestLY. The Reserve Bank on Friday said it has imposed penalties on Deutsche Bank AG, India and Yes Bank for non-compliance with certain regulatory norms.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-16 14:24:21",
+            "pubDateTZ": "UTC",
+            "image_url": "https://st1.latestly.com/wp-content/uploads/2018/03/default-img-01-380x214.jpg",
+            "video_url": null,
+            "source_id": "latestly",
+            "source_name": "Latestly",
+            "source_priority": 31923,
+            "source_url": "https://www.latestly.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/latestly.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "e8d0388733e340511a0e0a83330bccab",
+            "title": "1 लीटर अवैध शराब के मामले में प्रशासन ने सील कर दिया अनपढ़ महिला का घर, अब कोर्ट ने दिया ये आदेश",
+            "link": "https://www.jagran.com/bihar/patna-city-patna-hc-orders-release-of-house-seized-over-1-liter-illicit-liquor-23939395.html",
+            "keywords": null,
+            "creator": null,
+            "description": "पटना उच्च न्यायालय ने एक लीटर अवैध शराब मिलने पर जब्त किए गए मकान को मुक्त करने का आदेश दिया। अदालत ने कहा कि इतनी कम मात्रा में शराब मिलने पर घर को सील करना कानून के अनुसार सही नहीं है। न्यायालय ने याचिकाकर्ता को दस हजार रुपये का जुर्माना भरने का भी निर्देश दिया।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-16 14:24:19",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.jagranimages.com/images/newimg/16052025/16_05_2025-patna_hc_liquor_23939395_m.webp",
+            "video_url": null,
+            "source_id": "jagran",
+            "source_name": "Jagran",
+            "source_priority": 6734,
+            "source_url": "https://www.jagran.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/jagran.jpg",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "domestic"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "de5272be76e5ed609bcafc56623c2a73",
+            "title": "पाकिस्तानी जासूस जांलधर में गिरफ्तार, भार्गव कैम्प इलाके में दबिश देकर पकड़ा, 4 मोबाइल फोन, सिम कार्ड जब्त",
+            "link": "https://palpalindia.com/2025/05/16/Gujarat-Police-arrested-Pakistani-spy-in-Jalandhar-caught-after-raiding-Bhargava-Camp-area.html",
+            "keywords": null,
+            "creator": null,
+            "description": "जालंधर. गुजरात पुलिस ने पाकिस्तान की खुफिया एजेंसी ISI के लिए काम करने वाले एक संदिग्ध जासूस को जालंधर से गिरफ्तार किया है. आरोपी की पहचान मोहम्मद मुर्तजा अली के रूप में हुई है. अधिकारियों के अनुसार उसे जालंधर के भार्गव कैंप इलाके में छापेमारी के दौरान पकड़ा गया. खुफिया जानकारी के आधार पर गुजरात पुलिस व जालंधर पुलिस की संयुक्त टीम ने अवतार नगर में एक लक्षित अभियान चलाया, जहां अली को हिरासत में लिया गया. अधिकारियों ने उसके कब्जे से चार मोबाइल फोन और तीन सिम कार्ड भी जब्त किए. अधिकारियों के अनुसार अली जालंधर के गांधी नगर में किराए के मकान में रह रहा था और गुप्त रूप से जासूसी गतिविधियों को अंजाम दे रहा था.खबर है कि भारत-पाकिस्तान के बीच बढ़ते तनाव के हाल के दौर में जब पाकिस्तान में भारतीय समाचार वेबसाइटों व टेलीविजन चैनलों तक पहुंच प्रतिबंधित थी. अली ने भारतीय समाचार चैनल देखना जारी रखा और कथित तौर पर ISI को संवेदनशील जानकारी दी. उल्लेखनीय रूप से उसने ऐसा एक मोबाइल एप्लिकेशन का उपयोग करके किया जिसे उसने खुद विकसित किया था. ऐप का उपयोग भारतीय समाचार प्रसारणों से अपडेट अपलोड करने के लिए किया जाता था, जिसे अली पाकिस्तान के खुफिया अधिकारियों के साथ साझा करता था. जांचकर्ताओं ने खुलासा किया कि उसने ऐप व उसमें मौजूद डेटा तक पहुंच के बदले में ISI एजेंटों से भारी वित्तीय मुआवजे की मांग भी की थी.शुरुआती निष्कर्षों से पता चलता है कि अली पिछले कुछ हफ्तों से लगातार भारत में समाचार कवरेज और अन्य आंतरिक घटनाक्रमों से संबंधित महत्वपूर्ण जानकारी ISI को दे रहा था. अब उसे आगे की पूछताछ के लिए पुलिस द्वारा गुजरात ले जाया गया है. इस बीचए हरियाणा पुलिस ने एक संदिग्ध जासूस को भी गिरफ्तार किया है. जो कथित तौर पर पाकिस्तान में कुछ व्यक्तियों को संवेदनशील जानकारी मुहैया करा रहा था. वह पाकिस्तान स्थित ISI हैंडलर के संपर्क में भी था. संदिग्ध उत्तर प्रदेश के कैराना का नौमान इलाही 24 वर्ष एक फैक्ट्री सुरक्षा गार्ड के रूप में काम करता था. उस पर पाकिस्तान को संवेदनशील जानकारी मुहैया कराने का आरोप है. पिछले महीने पहलगाम आतंकी हमले के बाद पाकिस्तान के साथ हाल ही में हुए सैन्य टकराव के मद्देनजर हरियाणा में बढ़े हुए अलर्ट के बीच इलाही की गिरफ्तारी हुई.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-16 14:24:10",
+            "pubDateTZ": "UTC",
+            "image_url": "https://palpalindia.com/2025/05/16/Gujarat-Police-arrested-Pakistani-spy-in-Jalandhar-caught-after-raiding-Bhargava-Camp-area.jpg",
+            "video_url": null,
+            "source_id": "palpalindia",
+            "source_name": "Palpal India",
+            "source_priority": 1739972,
+            "source_url": "https://www.palpalindia.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/palpalindia.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "fdf29dccb0b332e4492d3eeaccd53829",
+            "title": "विदेश की खबरें | गाजा में इजराइली हमलों में कम से कम 93 लोग मारे गए",
+            "link": "https://hindi.latestly.com/agency-news/at-least-93-people-killed-in-israeli-attacks-in-gaza-2618975.html",
+            "keywords": null,
+            "creator": null,
+            "description": "Get Latest हिन्दी समाचार, Breaking News on world at LatestLY हिन्दी. दीर अल-बला के बाहरी इलाकों और खान यूनिस शहर में बृहस्पतिवार रात से लेकर शुक्रवार सुबह तक हमले किये गये।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-16 14:24:09",
+            "pubDateTZ": "UTC",
+            "image_url": "https://hist1.latestly.com/wp-content/uploads/2020/04/world_default_img-380x214.jpg",
+            "video_url": null,
+            "source_id": "latestly",
+            "source_name": "Latestly",
+            "source_priority": 31923,
+            "source_url": "https://www.latestly.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/latestly.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "84a48a2f1c987c0195ea7b280101e813",
+            "title": "BlackRock ने म्यूरल ऑन्कोलॉजी में हिस्सेदारी का खुलासा किया",
+            "link": "https://hi.investing.com/news/company-news/article-93CH-473021",
+            "keywords": null,
+            "creator": [
+                "Investing.com"
+            ],
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-16 14:24:08",
+            "pubDateTZ": "UTC",
+            "image_url": "https://i-invdn-com.investing.com/news/World_News_9_M_1440052127.jpg",
+            "video_url": null,
+            "source_id": "investing_hi",
+            "source_name": "Investing भारत",
+            "source_priority": 1143,
+            "source_url": "https://hi.investing.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/investing_hi.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "a290cd4aaf0a429565786a9f95075835",
+            "title": "BEL bags fresh ₹572-crore orders for cutting-edge defence systems - CNBC TV18",
+            "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNS0ZITjMtWWVkcU1qVUpaWjFkZ1ZuN2QtcHg4ZEpxdEFLZmRyOUhXVVJ1a0ZQcm9xNjREZXQyYlhDYmw3MDNBNXFmVm9CVF9WSVZ5S1g4LUZPOFFTeXlCWTZlbkJSM3ZJaEF0WW53X1lXWGFhcVRSaTJ3eHVTaTRFYzhvLVN6bF9kM0M2clN4WmZyRXJfUFJsajdmYk9qRnp6SnYzdzRLVVhsZDV4N0NwUEl6S0pGS09WQ2pCSHRLVFdvcDlKWkpaTm55TWJnUdIB0wFBVV95cUxOOE9ob052OEVzWlRmWGR0ZjB4b0kzZmF5ZHBDYmFHbDNyeFZKeHd1WDVXa0kwN3NuV2NnUGFqVzY4Y0tqdjFGWlVfOFVGNDVmdFJhT2VGaGkzUkw4Rk1JV05vUm1oWjZOX3JLaXA5TXlqcnl0ZkhhRl84U0VsZkxRbTFjSEhFNmhYS1VRUUVvTTdzcjRoV1ZlTVFpVXZsRmZfQ09IMHRZdEc2UVd2N0RTVUtBVjZuYy1lT1BRa20yQWUyUlhkSmhnY1JPcHlfRENoQW1B?oc=5",
+            "keywords": null,
+            "creator": null,
+            "description": "BEL bags fresh ₹572-crore orders for cutting-edge defence systems CNBC TV18BEL signs contract with Army for Indigenous Counter-Drone System, secures orders worth Rs 572 crore The Economic TimesBEL signs contract with Indian Army Air Defence to manufacture IDDIS Counter Drone System BusinessLineBharat Electronics Secures Orders Worth Rs 572 Crore NDTV ProfitBEL secures fresh defence orders worth Rs 572 crore PSU Watch",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-16 14:24:07",
+            "pubDateTZ": "UTC",
+            "image_url": null,
+            "video_url": null,
+            "source_id": "google",
+            "source_name": "Google News",
+            "source_priority": 14,
+            "source_url": "https://news.google.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/google.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "business"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
             "article_id": "976885d3e994f4f144962bf946f35341",
             "title": "Nothing Phone 3 appears on BIS, may launch soon in India: Here’s everything we know",
             "link": "https://www.digit.in/news/mobile-phones/nothing-phone-3-appears-on-bis-may-launch-soon-in-india-everything-we-know.html",
