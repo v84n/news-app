@@ -1,6 +1,691 @@
 {
     "articles": [
         {
+            "article_id": "1e5121fa55d56c2268199e54ae6e691d",
+            "title": "Shehbaz Sharif Claims India Sought Ceasefire, But This Pakistani Creator Calls His Bluff",
+            "link": "https://www.news18.com/world/shehbaz-sharif-claims-india-sought-ceasefire-but-this-pakistani-creator-call-his-bluff-9340920.html",
+            "keywords": [
+                "world"
+            ],
+            "creator": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-17 06:12:00",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.news18.com/ibnlive/uploads/2025/05/NW181600-x-900-px-2025-05-17T113844.704-2025-05-71dd8ef177c76546ea95ce17f6febc95-3x2.png",
+            "video_url": null,
+            "source_id": "news18",
+            "source_name": "News 18",
+            "source_priority": 1063,
+            "source_url": "https://www.news18.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/news18.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "world"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "ae83f70df763312f7fda0158ef945424",
+            "title": "Operation Sindoor: Modi’s paradigm shift in India’s national security strategy",
+            "link": "https://www.firstpost.com/opinion/operation-sindoor-modis-paradigm-shift-in-indias-national-security-strategy-13889232.html",
+            "keywords": [
+                "opinion"
+            ],
+            "creator": [
+                "Firstpost"
+            ],
+            "description": "With Operation Sindoor, India’s global image of a soft state has finally shattered, and a new, assertive India acting without qualms, scepticism, and hesitations in using force against its adversaries has solidified",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-17 06:12:00",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.firstpost.com/uploads/2025/05/Modi-2025-05-62fc0dcbd51d94e8fed673ae87881e89-1200x675.jpeg",
+            "video_url": null,
+            "source_id": "firstpost",
+            "source_name": "Firstpost",
+            "source_priority": 5906,
+            "source_url": "https://www.firstpost.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/firstpost.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "politics"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "df607fd2e20b823c42ff24a071c83b95",
+            "title": "Electric bus : 10 हजार इलेक्ट्रिक बसों का वितरण; केंद्र को प्रस्ताव",
+            "link": "https://jantaserishta.com/local/karnataka/electric-bus-distribution-of-10-thousand-electric-buses-proposal-to-the-center-4017815",
+            "keywords": [
+                "राज्य,कर्नाटक"
+            ],
+            "creator": [
+                "Kavita2"
+            ],
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-17 06:11:59",
+            "pubDateTZ": "UTC",
+            "image_url": "https://jantaserishta.com/h-upload/2025/05/17/4599696-untitled-2-copy.webp",
+            "video_url": null,
+            "source_id": "jantaserishta",
+            "source_name": "Janta Se Rishta",
+            "source_priority": 81836,
+            "source_url": "https://jantaserishta.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/jantaserishta.jpg",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "720082111ebb03b7e3490149e2a3b2b5",
+            "title": "रात में अस्पतालों का औचक निरीक्षण:अमेठी सीडीओ ने जिला अस्पताल में पाई कई खामियां, दिए सुधार के निर्देश",
+            "link": "https://www.bhaskar.com/local/uttar-pradesh/amethi/news/surprise-inspection-of-hospitals-at-night-135043880.html",
+            "keywords": null,
+            "creator": null,
+            "description": "अमेठी में स्वास्थ्य सेवाओं की गुणवत्ता जांचने के लिए मुख्य विकास अधिकारी (सीडीओ) सूरज पटेल ने देर रात अस्पतालों का औचक निरीक्षण किया। उन्होंने सबसे पहले जिला चिकित्सालय गौरीगंज का दौरा किया। निरीक्षण के दौरान मुख्य चिकित्सा अधिकारी डॉ. अंशुमान सिंह, उप जिलाधिकारी गौरीगंज प्रीति तिवारी और अन्य स्टाफ मौजूद थे। चिकित्सालय के सीएमएस भोजन के लिए बाहर गए मिले। जांच में कई कमियां सामने आईं। चिकित्सकों की पालीवार ड्यूटी निर्धारित नहीं की गई थी। आपातकालीन कक्ष में भर्ती मरीजों की औषधीय पर्चियां और रोग विवरण पंजी नहीं बनाई जा रही थी। अस्पताल की सफाई व्यवस्था भी संतोषजनक नहीं थी। हालांकि, वार्ड में भर्ती मरीजों ने समय पर भोजन मिलने की पुष्टि की। सीडीओ ने सीएमएस को निर्देश दिए कि सभी चिकित्सकों की पालीवार ड्यूटी तय कर रोज इसकी जानकारी साझा करें। साथ ही सफाई व्यवस्था में सुधार करें और हर मरीज की रोग विवरण पर्ची अनिवार्य रूप से बनाएं। इसके बाद सीडीओ सामुदायिक स्वास्थ्य केंद्र अमेठी पहुंचे। वहां उप जिलाधिकारी अमेठी, मुख्य चिकित्सा अधिकारी, डॉ. उमेश कुमार और अन्य स्टाफ मौजूद थे। रात करीब 11:25 बजे उन्होंने सामुदायिक स्वास्थ्य केंद्र संग्रामपुर का भी निरीक्षण किया, जहां सभी स्वास्थ्य कर्मी उपस्थित मिले।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-17 06:11:58",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.bhaskarassets.com/thumb/1000x1000/web2images/521/2025/05/17/3b9c535c-b05d-4bff-9a94-a38fe2e89822_1747461787691.jpg",
+            "video_url": null,
+            "source_id": "bhaskar_hindi",
+            "source_name": "Bhaskar",
+            "source_priority": 34179,
+            "source_url": "https://www.bhaskar.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/bhaskar_hindi.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top",
+                "domestic"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "b5d87568659cd19f6d401a13af6c52b8",
+            "title": "Supporters of Bolivia’s former leader Evo Morales clash with police in push to secure his candidacy",
+            "link": "https://www.thehindu.com/news/international/supporters-of-bolivias-former-leader-evo-morales-clash-with-police-in-push-to-secure-his-candidacy/article69586478.ece",
+            "keywords": [
+                "world"
+            ],
+            "creator": null,
+            "description": "The confrontations come in response to a ruling by Bolivia’s Constitutional Court that blocks Evo Morales from running again in August 17 elections",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-17 06:11:57",
+            "pubDateTZ": "UTC",
+            "image_url": "https://th-i.thgim.com/public/incoming/h4gprp/article69586526.ece/alternates/LANDSCAPE_1200/2025-05-16T233958Z_890247191_RC21JEALVORJ_RTRMADP_3_BOLIVIA-POLITICS-MORALES.JPG",
+            "video_url": null,
+            "source_id": "thehindu",
+            "source_name": "The Hindu",
+            "source_priority": 2972,
+            "source_url": "https://www.thehindu.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/thehindu.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "1d0d811c6bc5c6bbff72b86ec8267e7e",
+            "title": "BJP planning mass closure of Mohalla clinics, claims AAP",
+            "link": "https://www.thehansindia.com/news/national/bjp-planning-mass-closure-of-mohalla-clinics-claims-aap-971871",
+            "keywords": [
+                "national,news"
+            ],
+            "creator": [
+                "Purna Singh"
+            ],
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-17 06:11:54",
+            "pubDateTZ": "UTC",
+            "image_url": "https://assets.thehansindia.com/h-upload/2025/05/17/1551673-aap.webp",
+            "video_url": null,
+            "source_id": "thehansindia",
+            "source_name": "The Hans India",
+            "source_priority": 41360,
+            "source_url": "http://www.thehansindia.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/thehansindia.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "e92f5c4adfca050cb917c77661d3bf16",
+            "title": "Japan Committed To Moon Missions As Trump Cuts NASA Budget: JAXA Chief",
+            "link": "https://www.ndtv.com/world-news/japan-committed-to-moon-missions-as-trump-cuts-nasa-budget-jaxa-chief-8436206",
+            "keywords": null,
+            "creator": null,
+            "description": "Japan is ready to support the United States' lower-cost lunar missions, its space agency chief said, after the US administration proposed a $6 billion cut to NASA's budget.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-17 06:11:53",
+            "pubDateTZ": "UTC",
+            "image_url": "https://c.ndtvimg.com/2025-03/bgos3388_sunset-on-moon_625x300_19_March_25.jpeg?im=FeatureCrop%2Calgorithm%3Ddnn%2Cwidth%3D773%2Cheight%3D435",
+            "video_url": null,
+            "source_id": "ndtv",
+            "source_name": "Ndtv",
+            "source_priority": 1204,
+            "source_url": "http://www.ndtv.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/ndtv.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "world"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "ab98aa02239e3b32576a14ea816cdc4d",
+            "title": "Lychee Sharbat: लीची के स्वाद को दें नया ट्विस्ट, बनाएं ताजगी से भरपूर ठंडा शरबत",
+            "link": "https://www.prabhatkhabar.com/life-and-style/lychee-sharbat-refreshing-and-sweet-recipe-in-hindi",
+            "keywords": [
+                "lifestyle news",
+                "life and style",
+                "recipes",
+                "life and style news"
+            ],
+            "creator": [
+                "Sweta Vaidya"
+            ],
+            "description": "Lychee Sharbat: गर्मी की तेज धूप से राहत पाने के लिए फलों का सेवन किया जाता है. इस सीजन में फलों का नाम आते ही आम का ख्याल सबसे पहले आता है. मगर आम के अलावा लीची भी इस मौसम में मिलती है. लीची के मीठे और रसीले स्वाद को और भी बेहतरीन बनाएं इस रेसिपी के साथ. The post Lychee Sharbat: लीची के स्वाद को दें नया ट्विस्ट, बनाएं ताजगी से भरपूर ठंडा शरबत appeared first on Prabhat Khabar.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-17 06:11:51",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.prabhatkhabar.com/wp-content/uploads/2025/05/Lychee-Sharbat.jpg",
+            "video_url": null,
+            "source_id": "prabhatkhabar",
+            "source_name": "Prabhat Khabar",
+            "source_priority": 343253,
+            "source_url": "https://www.prabhatkhabar.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/prabhatkhabar.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "lifestyle"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "86741e62bd0062e76f47821e8c9b4115",
+            "title": "Rajasthan Board Results: Here’s The Expected Date, Official Website, And Easy Steps To Check Your Result",
+            "link": "https://news24online.com/education/rajasthan-board-results-heres-the-expected-date-official-website-and-easy-steps-to-check-your-result/564079/",
+            "keywords": [
+                "education",
+                "rajasthan board"
+            ],
+            "creator": [
+                "Akshat Mittal"
+            ],
+            "description": "In 2024, the overall passing percentage for RBSE Class 10 was recorded at 93.03%. Around 92.64% of the boys qualified the exam, while 93.46% of girls passed the exam, girls outperforming boys.The post Rajasthan Board Results: Here’s The Expected Date, Official Website, And Easy Steps To Check Your Result appeared first on News24.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-17 06:11:49",
+            "pubDateTZ": "UTC",
+            "image_url": "https://news24online.com/wp-content/uploads/2025/05/VS_d4c0cb.jpg",
+            "video_url": null,
+            "source_id": "news24online",
+            "source_name": "News 24",
+            "source_priority": 549589,
+            "source_url": "https://news24online.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/news24online.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "053dd9ecfc5326270b43702d71fdb2c5",
+            "title": "पहाड़ों पर अब होगी जबरदस्त खेती, इस मिनी ट्रैक्टर से लहलहाएंगी फसलें",
+            "link": "https://hindi.news18.com/news/agriculture/bageshwar-mini-tractors-revolutionize-farming-attract-youth-local18-ws-kl-9245844.html",
+            "keywords": [
+                "उत्तराखंड"
+            ],
+            "creator": [
+                "Brijendra Pratap"
+            ],
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-17 06:11:48",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.news18.com/ibnkhabar/uploads/2025/05/HYP_5177484_cropped_17052025_110441_cropped_16052025_012401_ma_1-3x2.jpg",
+            "video_url": null,
+            "source_id": "hindinews18",
+            "source_name": "News 18 Hindi",
+            "source_priority": 4077,
+            "source_url": "https://hindi.news18.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/hindinews18.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "8d6e85b4e222369ab1b94d47e0984298",
+            "title": "OPSC Opens Recruitment for 314 Assistant Professors – Apply Now!",
+            "link": "https://pragativadi.com/opsc-opens-recruitment-for-314-assistant-professors-apply-now/",
+            "keywords": [
+                "teaching jobs",
+                "odisha medical colleges",
+                "opsc recruitment",
+                "latest job notifications",
+                "public service commission",
+                "odisha",
+                "government jobs",
+                "medical jobs",
+                "education",
+                "trending now",
+                "odisha jobs",
+                "assistant professor vacancy",
+                "health sector hiring"
+            ],
+            "creator": [
+                "Itishree Sethy"
+            ],
+            "description": "The Odisha Public Service Commission (OPSC) has released a recruitment notification for 314 Assistant Professor positions in various government-run medical colleges across the state. Eligible candidates can apply online from May 26 to June 26, 2025, through the official portal (opsc.gov.in). The recruitment aims to address faculty shortages in medical institutions by onboarding qualified professionals [...]The post OPSC Opens Recruitment for 314 Assistant Professors – Apply Now! appeared first on Pragativadi I Latest Odisha News in English I Breaking News .",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-17 06:11:47",
+            "pubDateTZ": "UTC",
+            "image_url": "https://pragativadi.com/wp-content/uploads/2025/05/OPSC-640x375.png",
+            "video_url": null,
+            "source_id": "pragativadi",
+            "source_name": "Pragativadi",
+            "source_priority": 440576,
+            "source_url": "https://pragativadi.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/pragativadi.jpg",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "49d4b57f9a176642a1770c9212c10dab",
+            "title": "Gayatri Mantra का शुभ समय और सही विधि, जाप से मिलते हैं अद्भुत परिणाम",
+            "link": "https://jantaserishta.com/religion/auspicious-time-and-correct-method-of-chanting-gayatri-mantra-amazing-results-are-obtained-by-chanting-it-4017814",
+            "keywords": [
+                "धर्म-अध्यात्म,अन्य खबरें"
+            ],
+            "creator": [
+                "Tara Tandi"
+            ],
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-17 06:11:47",
+            "pubDateTZ": "UTC",
+            "image_url": "https://jantaserishta.com/h-upload/2025/05/17/4599674-3.webp",
+            "video_url": null,
+            "source_id": "jantaserishta",
+            "source_name": "Janta Se Rishta",
+            "source_priority": 81836,
+            "source_url": "https://jantaserishta.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/jantaserishta.jpg",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "6a6c9897e6c39d01203919b2dd9b72a2",
+            "title": "India-Pakistan: पाकिस्तान के प्रधानमंत्री चरमपंथी हिंसा को दे रहे बढ़ावा; पूर्व राज्य सचिव पवन शर्मा",
+            "link": "https://www.amarujala.com/jammu/pakistan-s-prime-minister-is-encouraging-extremist-violence-2025-05-17",
+            "keywords": null,
+            "creator": null,
+            "description": "भाजपा नेता पवन शर्मा ने पाकिस्तान के प्रधानमंत्री शहबाज शरीफ पर क्षेत्रीय शांति के लिए खतरा पैदा करने और चरमपंथी हिंसा को बढ़ावा देने का आरोप लगाया।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-17 06:11:45",
+            "pubDateTZ": "UTC",
+            "image_url": "https://staticimg.amarujala.com/assets/images/2025/03/13/pakistan-prime-minister-shehbaz-sharif_510c72e6ae8c46e0a2ade183cab0c48f.jpeg?dpr=1.0&w=750",
+            "video_url": null,
+            "source_id": "amarujala",
+            "source_name": "Amar Ujala",
+            "source_priority": 55215,
+            "source_url": "https://www.amarujala.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/amarujala.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "6b86a751806aab0604177077da66def9",
+            "title": "महाराष्ट्र के नांदेड़ में 2 दिनों में 2 छात्रों ने की आत्महत्या, कहानियां अलग लेकिन परेशान थी एक",
+            "link": "https://ndtv.in/india/2-students-committed-suicide-in-2-days-in-nanded-stories-were-different-but-one-was-troubled-8436205",
+            "keywords": null,
+            "creator": null,
+            "description": "नांदेड़ के अंबानगर इलाके में 14 मई को 15 वर्षीय छात्रा रोशनी पगारे ने अपने घर में फांसी लगाकर आत्महत्या कर ली. वह 10वीं कक्षा की छात्रा थी और हाल ही में आए बोर्ड परीक्षा के परिणामों में उसे 73.80% अंक मिले थे. परिजनों का कहना है कि रोशनी को 85% से ज्यादा अंक की उम्मीद थी.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-17 06:11:41",
+            "pubDateTZ": "UTC",
+            "image_url": "https://c.ndtvimg.com/2025-05/6t6nes1s_police-generic_625x300_06_May_25.jpg?im=FitAndFill%2Calgorithm%3Ddnn%2Cwidth%3D773%2Cheight%3D435",
+            "video_url": null,
+            "source_id": "ndtv",
+            "source_name": "Ndtv",
+            "source_priority": 1204,
+            "source_url": "http://www.ndtv.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/ndtv.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "4157250622dd88020b03527a5b8634eb",
+            "title": "'हमलावरों की पीढ़ियां याद रखेंगी जवाब', तिरंगा यात्रा के बाद बोले सुकांतो मजूमदार",
+            "link": "https://www.aajtak.in/india/news/video/sukanto-majumdars-operation-sindoor-warning-generations-of-attackers-will-remember-the-response-ytvd-2242405-2025-05-17",
+            "keywords": null,
+            "creator": null,
+            "description": "सुकांतो मजूमदार ने 'ऑपरेशन सिंदूर' को, उनके अनुसार २२ तारीख को महिलाओं के सिंदूर मिटाने की कोशिश का जवाब बताया और कहा, 'आप अगर हमारे महिलाओं को सिंदूर मिटाने का कोशिश करेंगे तो ऑपरेशन सिंदूर जैसा हम ऐसी व्यवस्था करेंगे की आपकी तारीफ आने वाली पुस्तें भी याद रखेगी.'",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-17 06:11:37",
+            "pubDateTZ": "UTC",
+            "image_url": "https://akm-img-a-in.tosshub.com/aajtak/images/video/202505/thedawnofoperationsindoorinbengal-s0-original-sixteen-to-nine.jpg",
+            "video_url": null,
+            "source_id": "aajtak",
+            "source_name": "Aaj Tak",
+            "source_priority": 20158,
+            "source_url": "http://aajtak.in",
+            "source_icon": "https://i.bytvi.com/domain_icons/aajtak.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "0d46f8cb742db1c3dbf1916bd19f87c4",
+            "title": "40 सांसद 7 डेलीगेशन... पाकिस्तान की अब खैर नहीं, मोदी सरकार करेगी डिप्लोमेटिक स्ट्राइक!",
+            "link": "https://www.prabhatkhabar.com/national/india-expose-pakistan-40-mps-7-delegations-sent-aboard-on-issue-of-terrorism",
+            "keywords": [
+                "india pakistan tension",
+                "national news",
+                "national"
+            ],
+            "creator": [
+                "Ayush Raj Dwivedi"
+            ],
+            "description": "India Expose Pakistan: ऑपरेशन सिंदूर की सफलता के बाद भारत ने अब पाकिस्तान को अंतरराष्ट्रीय मंचों पर घेरने की रणनीति बनाई है. 23 मई से 40 सांसदों का ऑल पार्टी डेलीगेशन विभिन्न देशों की यात्रा करेगा. ये सांसद कश्मीर, आतंकवाद और पाकिस्तान की साजिशों को वैश्विक स्तर पर उजागर करेंगे.The post 40 सांसद 7 डेलीगेशन... पाकिस्तान की अब खैर नहीं, मोदी सरकार करेगी डिप्लोमेटिक स्ट्राइक! appeared first on Prabhat Khabar.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-17 06:11:33",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.prabhatkhabar.com/wp-content/uploads/2025/05/PM-Modi-attack-on-pakistan.jpg",
+            "video_url": null,
+            "source_id": "prabhatkhabar",
+            "source_name": "Prabhat Khabar",
+            "source_priority": 343253,
+            "source_url": "https://www.prabhatkhabar.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/prabhatkhabar.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "603faaacd600eb335205060a7c6cddf9",
+            "title": "Palash Sen recalls working in films with 'talented' Sushmita Sen, 'dazzling' Rituparna Sengupta: 'Fabulous leading ladies who made me look good'",
+            "link": "https://timesofindia.indiatimes.com/entertainment/hindi/music/news/palash-sen-recalls-working-in-films-with-talented-sushmita-sen-dazzling-rituparna-sengupta-fabulous-leading-ladies-who-made-me-look-good/articleshow/121229270.cms",
+            "keywords": null,
+            "creator": null,
+            "description": "Palash Sen, the musician, fondly recalled his experiences in Hindi films, expressing gratitude for the opportunities and praising his leading ladies: Sushmita Sen, Rituparna Sengupta, Ira Dubey, and Samreen Zaidi. He highlighted their talent and beauty, acknowledging their contribution to his on-screen presence. Open to future film projects, Palash embraces diverse creative avenues.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-17 06:11:32",
+            "pubDateTZ": "UTC",
+            "image_url": "https://static.toiimg.com/thumb/msid-121229317,imgsize-928805,width-400,resizemode-4/Palash.jpg",
+            "video_url": null,
+            "source_id": "toi",
+            "source_name": "The Times Of India",
+            "source_priority": 239,
+            "source_url": "https://timesofindia.indiatimes.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/toi.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "e7cb7cb008b36b8bf8069233bc1045d1",
+            "title": "ISRO प्रमुख नारायणन ने नए मिशन से पहले तिरुमाला का दौरा किया",
+            "link": "https://jantaserishta.com/local/andhra-pradesh/isro-chief-narayanan-visits-tirumala-ahead-of-new-mission-4017813",
+            "keywords": [
+                "आंध्र प्रदेश,राज्य"
+            ],
+            "creator": [
+                "Triveni"
+            ],
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-17 06:11:29",
+            "pubDateTZ": "UTC",
+            "image_url": "https://jantaserishta.com/h-upload/2025/05/17/4599694-19.webp",
+            "video_url": null,
+            "source_id": "jantaserishta",
+            "source_name": "Janta Se Rishta",
+            "source_priority": 81836,
+            "source_url": "https://jantaserishta.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/jantaserishta.jpg",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "d1a19f26c5fcd36e7890e655e61a0cc1",
+            "title": "भाजपा की दिल्ली सरकार में निजी स्कूल कर रहे मनमानी फीस वृद्धि : आप",
+            "link": "https://www.khaskhabar.com/local/delhi-ncr/delhi-news/news-private-schools-are-increasing-fees-arbitrarily-under-bjps-delhi-government-aap-news-hindi-1-722743-KKN.html",
+            "keywords": null,
+            "creator": [
+                "khas khabar"
+            ],
+            "description": "दिल्ली में निजी स्कूलों द्वारा की जा रही मनमानी फीस वृद्धि को लेकर आम आदमी पार्टी (आप) ने भाजपा सरकार पर गंभीर आरोप लगाए हैं। 'आप' ने कहा कि दिल्ली में भाजपा सरकार पर निजी स्कूलों के साथ सांठगांठ करने का आरोप लगाया और कहा कि इसी वजह से फीस वृद्धि पर कोई रोक नहीं लगाई जा रही है।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-17 06:11:26",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.khaskhabar.com/s3-storage/khaskhabar/khaskhabarimages/img500/012-75-1747462286-722743-khaskhabar.jpg",
+            "video_url": null,
+            "source_id": "khaskhabar",
+            "source_name": "Khas Khabar",
+            "source_priority": 5174519,
+            "source_url": "https://www.khaskhabar.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/khaskhabar.jpg",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "6ac82b99ef4149590a5ef44a8b21cab3",
+            "title": "Nothing Phone 3 battery and camera details have leaked, here is how they compare to Phone 2 - India Today",
+            "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOWFRKVVM0OXU3VkFWNFI2eTFZa1kzOEY0dXFUdUhRbnluYmV0T1ZmSXRueWYwcGNEZ01JY3JrVjZuRGU4Yk14Y1FWQUlSVU1rb2xxSktjMXhTMlVUMWlKRjBzclZOdXFINTV4T2Z4OWlIRUJEUnZZMVZEX0p1QlM1WjU2bTVNUTFQR05RVWoxNVZDV190Nk1Bei1jdGo4QXF0eWJ0Q1doYldiMUtPdGlfdHgtXzJNemtHWmx1TzJtQmxBcUVaVW9MZk5iVjR6RXVXbWdRRnBxb09zbUtxUTlsZTl5YnVYeDViYlJqUkFR0gHzAUFVX3lxTE4tNHZjUmF1blo5NUJma3J3cnMwTG1JSHZ3dU91MVM4RGxKNXNCSFR2OTlqWERWSURIV29KUlBuOVNLRmlrMU45R2ZxVEJQVFR4M2tGSXQ3d2JhbmVjX0JOUkh5MEdNWWI1UnRPa0hsYldvTVdQcUFFeXdDZndVdzhtZnlVaGwyZ2tlYVVQR09QZlZLOUZlenAwY0dVVUtyaDRmRkJ2aHAzXzdQQ2ZyVWc1eWxfU3hlb3ZMOEpHWW5uNi1UOUNwVXVjR0c3cS1yTEVIaE40NjB6LWpjY3JURTlLSzVtZ1RCeVB3U2l0U0pIWW9Saw?oc=5",
+            "keywords": null,
+            "creator": null,
+            "description": "Nothing Phone 3 battery and camera details have leaked, here is how they compare to Phone 2 India TodayNothing CEO Carl Pei confirms price of Phone 3 ahead of launch: Here’s how much it will cost MoneycontrolAirtel wanted clarity if it has option to convert AGR dues into govt equity: Vittal Times of IndiaNothing Phone 3 price and key design officially revealed ahead of launch Hindustan TimesThe Wait is (Almost) Over: Exclusive Scoop on Nothing Phone (3) smartprix.com",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-17 06:11:24",
+            "pubDateTZ": "UTC",
+            "image_url": null,
+            "video_url": null,
+            "source_id": "google",
+            "source_name": "Google News",
+            "source_priority": 14,
+            "source_url": "https://news.google.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/google.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "technology"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
             "article_id": "9319482340b356971f53ddc18266f815",
             "title": "Operation Sindoor: आतंक के खिलाफ दुनिया को भारत का संदेश देगा सर्वदलीय प्रतिनिधिमंडल, खोलेंगे पाकिस्तान की पोल",
             "link": "https://www.amarujala.com/india-news/seven-all-party-delegations-to-take-india-s-message-against-terrorism-to-key-partner-nations-2025-05-17",
