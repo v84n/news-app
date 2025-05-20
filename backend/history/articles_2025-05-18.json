@@ -1,6 +1,675 @@
 {
     "articles": [
         {
+            "article_id": "12f83c32044f3debb7bcd0ec4d53a86e",
+            "title": "City monopolies: Breaking the ruinous Democratic stronghold",
+            "link": "https://www.washingtontimes.com/news/2025/may/18/city-monopolies-breaking-ruinous-democratic-stronghold/",
+            "keywords": null,
+            "creator": [
+                "Michael McKenna"
+            ],
+            "description": "If the Justice Department is really serious about breaking up monopolies that have a toxic effect on Americans, they should do something about America's cities.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-18 19:10:56",
+            "pubDateTZ": "UTC",
+            "image_url": "https://twt-thumbs.washtimes.com/media/image/2025/05/16/McKenna_AH_c0-337-1500-1211_s885x516.jpg?91258c5a01a2df74b7d1518d63ccdfbfc9537133=",
+            "video_url": null,
+            "source_id": "washingtontimes",
+            "source_name": "The Washington Times",
+            "source_priority": 9784,
+            "source_url": "https://www.washingtontimes.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/washingtontimes.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "politics"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "6dcabb725d2556cf0136e0412557520d",
+            "title": "Galatasaray Triumphs: Secures 25th Turkish Title with Decisive Win",
+            "link": "https://www.devdiscourse.com/article/sports-games/3416859-galatasaray-triumphs-secures-25th-turkish-title-with-decisive-win",
+            "keywords": null,
+            "creator": null,
+            "description": "Galatasaray Triumphs: Secures 25th Turkish Title with Decisive Win Galatasaray secured their 25th Turkish league title on Sunday with a convincing 3-0 victory over Kayserispor, wrapping up the championship with two matches remaining.The win gave Galatasaray an insurmountable eight-point lead over Istanbul rivals Fenerbahce, who have not lifted the league trophy for over ten years. Galatasaray's latest triumph enables them to add a fifth star to their jerseys, signifying five league titles each.This season, Galatasaray and Fenerbahce dominated the Superlig, with Galatasaray amassing 89 points and Fenerbahce, following a 2-1 win against Eyupspor, trailing at 81 points. The decisive victory included goals from Nigerian striker Victor Osimhen, Turkish winger Baris Alper Yilmaz, and a penalty goal by goalkeeper Fernando Muslera, sparking wide celebrations across Turkey.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-18 19:10:49",
+            "pubDateTZ": "UTC",
+            "image_url": "https://devdiscourse.blob.core.windows.net/aiimagegallery/05_08_2024_14_08_07_6379072.png",
+            "video_url": null,
+            "source_id": "devdiscourse",
+            "source_name": "Devdiscourse",
+            "source_priority": 566021,
+            "source_url": "https://www.devdiscourse.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/devdiscourse.jpg",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "7862bffc02f38477234ac70ac923ec24",
+            "title": "Probe on into suspected food poisoning at medical college women’s hostel",
+            "link": "https://www.thehindu.com/news/national/kerala/probe-on-into-suspected-food-poisoning-at-medical-college-womens-hostel/article69591258.ece",
+            "keywords": [
+                "kerala"
+            ],
+            "creator": null,
+            "description": "College Principal in-charge U. Anuja stated that there is no confirmed evidence of food poisoning",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-18 19:10:46",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+            "video_url": null,
+            "source_id": "thehindu",
+            "source_name": "The Hindu",
+            "source_priority": 2972,
+            "source_url": "https://www.thehindu.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/thehindu.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "efeb5f82218243116c8f26bfa3efa251",
+            "title": "In UK, a new English language test may challenge Indian migrants",
+            "link": "https://www.business-standard.com/politics/in-uk-a-new-english-language-test-may-challenge-indian-migrants-125051900014_1.html",
+            "keywords": [
+                "politics"
+            ],
+            "creator": null,
+            "description": "UK Labour government proposes stricter English rules for migrant dependants, citing integration and employment issues, with implications for Indian-born residents",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-18 19:10:36",
+            "pubDateTZ": "UTC",
+            "image_url": null,
+            "video_url": null,
+            "source_id": "business-standard",
+            "source_name": "Business Standard",
+            "source_priority": 9158,
+            "source_url": "https://www.business-standard.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/business-standard.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "f576bbd390274e15ede4d872564b3b19",
+            "title": "Carlos Alcaraz Sweeps Aside Jannik Sinner To Seal Maiden Italian Open Title",
+            "link": "https://www.outlookindia.com/sports/tennis/carlos-alcaraz-vs-jannik-sinner-match-report-atp-italian-open-2025-final",
+            "keywords": [
+                "carlos alcaraz vs jannik sinner match report,carlos alcaraz vs jannik sinner who won,who won carlos alcaraz vs jannik sinner,jannik sinner vs carlos alcaraz,italian open final,carlos alcaraz vs jannik sinner,atp italian open final,rome final,carlos alcaraz ,jannik sinner,carlos alcaraz clay stats,carlos alcaraz clay court stats,italian open 2025,tennis scores,tennis news"
+            ],
+            "creator": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-18 19:10:36",
+            "pubDateTZ": "UTC",
+            "image_url": "https://media.assettype.com/outlookindia/2025-05-18/6718gsi6/carlos_alcaraz_1uikl6531641a1q9aj755jih71.jpg?ar=40%3A21&auto=format%2Ccompress&enlarge=true&mode=crop&ogImage=true&overlay=false&overlay_position=bottom&overlay_width=100&w=1200",
+            "video_url": null,
+            "source_id": "outlookindia",
+            "source_name": "Outlook",
+            "source_priority": 3475,
+            "source_url": "https://www.outlookindia.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/outlookindia.jpg",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "4029a478a2512d920ef4506a08deef16",
+            "title": "रेलवे टिकट पर ऑपरेशन सिंदूर का संदेश",
+            "link": "https://www.nayaindia.com/news/message-of-operation-sindoor-on-railway-ticket/497358.html",
+            "keywords": [
+                "operation sindoor",
+                "ताजा खबर"
+            ],
+            "creator": [
+                "NI Desk"
+            ],
+            "description": "भारतीय रेलवे ने रिजर्वेशन टिकट पर आतंकवाद के खिलाफ भारतीय सेना की कार्रवाई यानी ऑपरेशन सिंदूर का संदेश छाप दिया है",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-18 19:10:19",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.nayaindia.com/wp-content/uploads/2025/05/PM-Modi-Congratulates-Neeraj-Chopra-On-Great-Achievement-At-Doha-Diamond-League.jpg",
+            "video_url": null,
+            "source_id": "nayaindia",
+            "source_name": "Naya India",
+            "source_priority": 996886,
+            "source_url": "https://www.nayaindia.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/nayaindia.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "d345db98deb2f4ad05b026ec9b34f51b",
+            "title": "क्या लखनऊ के खिलाफ खेल पाएंगे हेड? कोविड से जूझ रहे थे ऑस्ट्रेलियाई दिग्गज, हेड कोच विटोरी ने किया खुलासा",
+            "link": "https://www.bhaskarhindi.com/sports/ipl-2025-srh-vs-lsg-travis-head-covid-19-cricket-news-1143042",
+            "keywords": [
+                "खेल,क्रिकेट,अन्य,बड़ी खबरें"
+            ],
+            "creator": [
+                "Sunit Sharma"
+            ],
+            "description": "कोविड से जूझ रहे थे ऑस्ट्रेलियाई दिग्गज ट्रेविस हेडसनराइजर्स के हेड कोच डेनियल विटोरी ने किया खुलासासोमवार को भारत पहुंचेंगे ट्रेविस हेड",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-18 19:10:15",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.bhaskarhindi.com/h-upload/2025/05/18/1428482-.webp",
+            "video_url": null,
+            "source_id": "bhaskarhindi",
+            "source_name": "Bhaskar Hindi",
+            "source_priority": 596776,
+            "source_url": "https://www.bhaskarhindi.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/bhaskarhindi.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "sports"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "99b528d55ec79959217ede25af226cba",
+            "title": "Pride Month and the fascism of identity politics",
+            "link": "https://www.washingtontimes.com/news/2025/may/18/pride-month-fascism-identity-politics/",
+            "keywords": null,
+            "creator": [
+                "Everett Piper"
+            ],
+            "description": "In the 1970s, Ronald Reagan warned that \"If fascism ever comes to America, it will come in the name of liberalism.\"",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-18 19:10:14",
+            "pubDateTZ": "UTC",
+            "image_url": "https://twt-thumbs.washtimes.com/media/image/2025/05/16/Piper_AH_s695x929.jpg?d1eaf10a5d836edd53d2b9347be647a092658ca7=",
+            "video_url": null,
+            "source_id": "washingtontimes",
+            "source_name": "The Washington Times",
+            "source_priority": 9784,
+            "source_url": "https://www.washingtontimes.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/washingtontimes.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "politics"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "29badab37bdd07001d7270cc798d7240",
+            "title": "World News | Militant Attack on 2 Villages in Northeast Nigeria Kills at Least 57, Witnesses Say",
+            "link": "https://www.latestly.com/agency-news/world-news-militant-attack-on-2-villages-in-northeast-nigeria-kills-at-least-57-witnesses-say-6864470.html",
+            "keywords": null,
+            "creator": null,
+            "description": "Get latest articles and stories on World at LatestLY. A suspected militant attack on two villages in Nigeria left at least 57 people dead and at least 70 missing on Thursday, witnesses said Sunday, in one of the deadliest incidents in the country's conflict-ridden northeast this year.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-18 19:10:07",
+            "pubDateTZ": "UTC",
+            "image_url": "https://st1.latestly.com/wp-content/uploads/2020/10/Latestly-World-News-380x214.jpg",
+            "video_url": null,
+            "source_id": "latestly",
+            "source_name": "Latestly",
+            "source_priority": 31923,
+            "source_url": "https://www.latestly.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/latestly.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "6bcaae6ea0a2abca9aa92178a3d68529",
+            "title": "विदेश की खबरें | अमेरिका के कैलिफोर्निया में बम विस्फोट में एक व्यक्ति की मौत, संदिग्ध व्यक्ति की पहचान हुई",
+            "link": "https://hindi.latestly.com/agency-news/one-person-killed-in-a-bomb-blast-in-california-usa-r-identally-r-2621394.html",
+            "keywords": null,
+            "creator": null,
+            "description": "Get Latest हिन्दी समाचार, Breaking News on world at LatestLY हिन्दी. अधिकारियों ने रविवार को बताया कि घटना में जान गंवाने वाले व्यक्ति की पहचान 25 वर्षीय एडवर्ड बार्टकुस के रूप में हुई है। उन्होंने संदेह जताया कि एडवर्ड ने ही विस्फोट की घटना को अंजाम दिया।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-18 19:10:05",
+            "pubDateTZ": "UTC",
+            "image_url": "https://hist1.latestly.com/wp-content/uploads/2020/04/world_default_img-380x214.jpg",
+            "video_url": null,
+            "source_id": "latestly",
+            "source_name": "Latestly",
+            "source_priority": 31923,
+            "source_url": "https://www.latestly.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/latestly.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "455cc42447b81231b5639aa77eef8bc9",
+            "title": "Through All of the Tariff Drama, Wall Street's Most Bullish Strategist Hasn't Flinched. He Still Thinks the S&P 500 Index Can Hit 7,000 This Year.",
+            "link": "https://finance.yahoo.com/news/tariff-drama-wall-streets-most-191000151.html",
+            "keywords": null,
+            "creator": [
+                "Motley Fool"
+            ],
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-18 19:10:00",
+            "pubDateTZ": "UTC",
+            "image_url": null,
+            "video_url": null,
+            "source_id": "yahoo",
+            "source_name": "Yahoo! News",
+            "source_priority": 17,
+            "source_url": "https://news.yahoo.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/yahoo.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "business"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "1cfb0e6951acc199431af09cb3769032",
+            "title": "Warren Buffett's $347 Billion Warning to Wall Street Is Ringing Out Loud and Clear. History Says This Happens Next.",
+            "link": "https://finance.yahoo.com/news/warren-buffetts-347-billion-warning-191000979.html",
+            "keywords": null,
+            "creator": [
+                "Motley Fool"
+            ],
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-18 19:10:00",
+            "pubDateTZ": "UTC",
+            "image_url": null,
+            "video_url": null,
+            "source_id": "yahoo",
+            "source_name": "Yahoo! News",
+            "source_priority": 17,
+            "source_url": "https://news.yahoo.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/yahoo.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "business"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "df665d08d9e5b481212d7b802e3b8209",
+            "title": "'Mentally I'm More...': Sai Sudharsan Reflects On Purple Patch As GT Rout DC",
+            "link": "https://www.news18.com/cricket/mentally-im-more-sai-sudharsan-reflects-on-purple-patch-as-gt-rout-dc-9342472.html",
+            "keywords": [
+                "cricket"
+            ],
+            "creator": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-18 19:09:48",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.news18.com/ibnlive/uploads/2025/05/Untitled-15-2025-05-89938564fae0938335cf32dc776c9f12-3x2.jpg",
+            "video_url": null,
+            "source_id": "news18",
+            "source_name": "News 18",
+            "source_priority": 1063,
+            "source_url": "https://www.news18.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/news18.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "sports"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "a7208998663a9b64e16940ce2a00a8aa",
+            "title": "Duke's Ashlon Jackson drops 2-word reaction to 2027 prospect Ty Lange dropping 30 points",
+            "link": "https://www.sportskeeda.com/us/high-school-sports/news-duke-s-ashlon-jackson-drops-2-word-reaction-2027-prospect-ty-lange-dropping-30-points",
+            "keywords": [
+                "high school sports"
+            ],
+            "creator": [
+                "Rotsen Rick Tidoy"
+            ],
+            "description": "Class of 2027 prospect Ty Lange has hit the AAU scene running, playing for Sw1sh Elite in the Under Armour Next circuit.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-18 19:09:21",
+            "pubDateTZ": "UTC",
+            "image_url": "https://staticc.sportskeeda.com/editor/2025/05/e0728-17475986043334-1920.jpg",
+            "video_url": null,
+            "source_id": "sportskeeda",
+            "source_name": "Sportskeeda",
+            "source_priority": 172,
+            "source_url": "http://sportskeeda.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/sportskeeda.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "sports"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "bc1fc65aa478af7ae07651150872a4af",
+            "title": "“Boring but Brilliant Basics”: Shilpa Suresh's Winning Marketing Strategy For HIT and Good Knight",
+            "link": "https://www.freepressjournal.in/brandsutra/boring-but-brilliant-basics-shilpa-sureshs-winning-marketing-strategy-for-hit-and-good-knight",
+            "keywords": [
+                "brandsutra"
+            ],
+            "creator": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-18 19:09:21",
+            "pubDateTZ": "UTC",
+            "image_url": "https://media.assettype.com/freepressjournal/2025-05-18/yfoyzp11/BrandSutra.png",
+            "video_url": null,
+            "source_id": "freepressjournal",
+            "source_name": "The Free Press Journal",
+            "source_priority": 26427,
+            "source_url": "https://www.freepressjournal.in",
+            "source_icon": "https://i.bytvi.com/domain_icons/freepressjournal.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "f40c64876dba6d051f8f2b2c90aee652",
+            "title": "Telangana: Medak cops rescue girl from check dam near Edupayala temple",
+            "link": "https://telanganatoday.com/telangana-medak-cops-rescue-girl-from-check-dam-near-edupayala-temple",
+            "keywords": [
+                "news",
+                "medak",
+                "telangana",
+                "edupayala",
+                "medak news",
+                "quick response team",
+                "girl rescued",
+                "check dam"
+            ],
+            "creator": [
+                "Telangana Today"
+            ],
+            "description": "The quick response team members patrolling the area see the girl slip into the water body following which one of them jumps into the water and rescues her",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-18 19:09:18",
+            "pubDateTZ": "UTC",
+            "image_url": "https://media.telanganatoday.com/wp-content/uploads/2025/05/Medak-768x450.jpg",
+            "video_url": null,
+            "source_id": "telanganatoday",
+            "source_name": "Telangana Today",
+            "source_priority": 63887,
+            "source_url": "https://telanganatoday.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/telanganatoday.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "1d5ed5e19eb054f815fecdc03d880ba7",
+            "title": "bhagalpur news. कई थानेदार से लेकर डीएसपी तक को अपना ऑफिस व आवास नहीं",
+            "link": "https://www.prabhatkhabar.com/state/bihar/bhagalpur/even-the-dsp-doesnt-have-his-own-office-and-residence",
+            "keywords": [
+                "bhagalpur news",
+                "भागलपुर"
+            ],
+            "creator": [
+                "ATUL KUMAR"
+            ],
+            "description": "भागलपुर जिले के कई पुलिस पदाधिकारी संसाधन के अभाव में काम कर रहे हैं. कुछ नये पुलिस अनुमंडल व ओपी को थाना में अपग्रेड हुए साल भर से अधिक हो गया.The post bhagalpur news. कई थानेदार से लेकर डीएसपी तक को अपना ऑफिस व आवास नहीं appeared first on Prabhat Khabar.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-18 19:09:09",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.prabhatkhabar.com/wp-content/uploads/2025/03/bhagalpur-1.jpg",
+            "video_url": null,
+            "source_id": "prabhatkhabar",
+            "source_name": "Prabhat Khabar",
+            "source_priority": 343253,
+            "source_url": "https://www.prabhatkhabar.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/prabhatkhabar.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "33bdddbab8a475331e1c7380f78cf6d3",
+            "title": "Nigerian held with drugs worth 15 lakh in Erode",
+            "link": "https://timesofindia.indiatimes.com/city/coimbatore/nigerian-held-with-drugs-worth-15-lakh-in-erode/articleshow/121254397.cms",
+            "keywords": null,
+            "creator": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-18 19:08:58",
+            "pubDateTZ": "UTC",
+            "image_url": "https://static.toiimg.com/thumb/msid-121254396,imgsize-40064,width-400,height-225,resizemode-72/121254396.jpg",
+            "video_url": null,
+            "source_id": "toi",
+            "source_name": "The Times Of India",
+            "source_priority": 239,
+            "source_url": "https://timesofindia.indiatimes.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/toi.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "sports"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "b9d2e276f1cb972efd2996911c8cdcb1",
+            "title": "Pope's peace calls vs. Putin's war machine: The conflict between ideals and reality",
+            "link": "https://www.washingtontimes.com/news/2025/may/18/popes-peace-calls-vs-putins-war-machine-conflict-ideals-reality/",
+            "keywords": null,
+            "creator": [
+                "Don Feder"
+            ],
+            "description": "In his first Sunday blessing from the main balcony of St. Peter's Basilica, Pope Leo XIV called for a ceasefire in the Gaza Strip and an end to the war in Ukraine.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-18 19:08:49",
+            "pubDateTZ": "UTC",
+            "image_url": "https://twt-thumbs.washtimes.com/media/image/2025/05/16/B3federLGpleasforpeace_c0-411-1600-1343_s885x516.jpg?db97769d1b895828734b07ab9a1a37398253ae6f=",
+            "video_url": null,
+            "source_id": "washingtontimes",
+            "source_name": "The Washington Times",
+            "source_priority": 9784,
+            "source_url": "https://www.washingtontimes.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/washingtontimes.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "politics"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "5823bda2fa23396a95fe8b35eab1ec4d",
+            "title": "Terror in Borno: Villages Devastated by Militant Attack",
+            "link": "https://www.devdiscourse.com/article/law-order/3416858-terror-in-borno-villages-devastated-by-militant-attack",
+            "keywords": null,
+            "creator": null,
+            "description": "Terror in Borno: Villages Devastated by Militant Attack A suspected militant attack in Nigeria's northeastern Borno state led to the tragic death of at least 57 individuals, with another 70 reported missing. The attack, claimed by the Jama'atu Ahlis Sunna Lidda'awati wal-Jihad (JAS) faction of Boko Haram, targeted the villages of Mallam Karamti and Kwatandashi.Survivors of the attack accuse JAS of abducting village residents under the suspicion of collaborating with the rival faction, the Islamic State West Africa Province (ISWAP). The incident, part of a week of escalating violence in Borno state, highlights the region's persistent security challenges.Despite Nigerian government claims of progress against terrorism, the effects of insurgency, such as displacement and civilian casualties, continue to devastate communities across West Africa, notably impacting Nigeria's socio-political framework and humanitarian stability.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-18 19:08:45",
+            "pubDateTZ": "UTC",
+            "image_url": "https://devdiscourse.blob.core.windows.net/aiimagegallery/12_06_2024_16_23_22_8068039.png",
+            "video_url": null,
+            "source_id": "devdiscourse",
+            "source_name": "Devdiscourse",
+            "source_priority": 566021,
+            "source_url": "https://www.devdiscourse.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/devdiscourse.jpg",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
             "article_id": "7a58389631b6d4fe5223b22fd7501af4",
             "title": "Chief Justice Gavai's Visit Highlights Protocol Missteps in Maharashtra",
             "link": "https://www.devdiscourse.com/article/law-order/3416834-chief-justice-gavais-visit-highlights-protocol-missteps-in-maharashtra",
