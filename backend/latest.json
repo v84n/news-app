@@ -1,6 +1,701 @@
 {
     "articles": [
         {
+            "article_id": "69c97d3d843a001863e563482039dfc8",
+            "title": "Report: Apple Intelligence to open up to developers at WWDC",
+            "link": "https://www.computerworld.com/article/3992035/report-apple-intelligence-to-open-up-to-developers-at-wwdc.html",
+            "keywords": [
+                "apple, artificial intelligence, developer, generative ai, wwdc"
+            ],
+            "creator": null,
+            "description": "How much would your company pay for a focused AI system built by your own experts, one that brings in the best of all available genAI systems within an integration that works via iCloud Private Compute and Apple Intelligence?I ask this because, if you stretch your neck and use your imagination just a little bit, you can just about see signs that suggest Apple has a chance to build a system like this. It just needs to loosen up its approach to third-party AI development, make its own APIs more widely available to external developers, and create a highly secure cloud-based system with which to handle complex requests. Apple has at least one of those components already — and may soon have two more.Apple to introduce Apple Intelligence SDK at WWDC?That’s one way to look at the most recent news to emanate from behind the doors of Cupertino via the man who seems to have become (at least to some factions in Apple’s inner circle) Apple’s Chief Rumors Officer (CRO), Bloomberg’s Mark Gurman. He says Apple intends to open up access to its own Apple Intelligence APIs at WWDC next month, making it possible for developers to integrate the AI systems it has built into their own applications. The company is expected to announce a new software development kit (SDK) in iOS 19 that will make it easier for app developers to add Apple Intelligence features such as Writing Tools or Genmoji to their software. (Gurman’s story says that Apple will at first give developers access to smaller AI tools that can run on the device.) Developers can already integrate some Apple Intelligence features into their apps, but this SDK would permit them to create new AI features using Apple’s own AI frameworks. At present, they must use third-party models to accomplish this. What about Private Cloud Compute?The thing is, once you recognize that some iOS applications are themselves front doors to other vendors’ genAI systems, the move may give Apple a double whammy — a chance to offer its highly secure AI solutions via the apps people choose to use, along with a route through which to provide additional solutions for use within those apps, potentially extending to access of some kind to its Private Cloud Compute systems. The latter is a big deal. It means AI developers may be able to find some way to offer up their own solutions to Apple users, making them available via the privacy shield Private Cloud Compute provides. What that means is the convenience of AI along with the privacy and security Apple provides. Take that a couple of steps further down this particular episode of Pure Apple Speculation, and you can see that enterprise users might be pretty excited about that. It matters to business users in regulated industries who want to be able to use powerful AI services but do not want to leave their data at potential risk. Steps on the journeyI’m not saying Apple will be able to introduce anything quite like this at WWDC. In recent months, stories emerging from inside Apple’s AI teams suggest things are far too chaotic and stressful for such a plan to be put in place. However, I do think that with the addition of an Apple Intelligence SDK and the steady deployment of Apple’s Private Cloud Compute servers, the opportunity to work in closer partnership with third-party AI developers exists. (Don’t ignore those servers — Apple is, after all, working with huge manufacturers to produce them in quantity, which implies it expects to see them being widely used.)It may not be the easiest opportunity for Apple to embrace culturally and would to some extent signify how far behind Apple has fallen in some respects, but it will be a smart way to maintain hardware and software relevance and provide unique services to its customers. Working with others, Apple may be able to deliver a best-in-class AI you can safely use, privately and securely, without the data leaks. That’s an answer to a question that has slowed AI adoption. While you have to be very wary when any Big Tech firm promises privacy (as Siri once showed us), and don’t want to find out subsequently that all of this was no more than a velvet glove treatment to gently usher us into a ghastly automated dystopia, there is a need for private AI. Educators, health services, and businesspeople particularly need it, and by working in a positive and constructive way with third-party AI developers, Apple may now have a strategically functional way in which to deliver it.We shall see.You can follow me on social media! Join me on BlueSky, LinkedIn, and Mastodon.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-21 09:09:00",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.computerworld.com/wp-content/uploads/2025/05/3992035-0-71375600-1747833096-Apple-WWDC25-event-branding.jpg?quality=50&strip=all",
+            "video_url": null,
+            "source_id": "computerworld_in",
+            "source_name": "Computerworldin",
+            "source_priority": 30092,
+            "source_url": "https://www.computerworld.com/in",
+            "source_icon": "https://i.bytvi.com/domain_icons/computerworld_in.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "technology"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "7b7a20abce2261e5631c76d78b1af220",
+            "title": "Manning River breaks 1929 flood record in South Wales, 50,000 isolated",
+            "link": "https://economictimes.indiatimes.com/news/international/new-zealand/manning-river-breaks-1929-flood-record-in-south-wales-50000-isolated/articleshow/121312832.cms",
+            "keywords": null,
+            "creator": null,
+            "description": "Unprecedented flooding has struck Taree, with the Manning River reaching a record 6.4 meters, isolating nearly 50,000 people. The NSW SES has responded to hundreds of incidents, rescuing residents in affected areas. Emergency warnings are in place as more rain is expected. ANZ Bank is offering relief packages to impacted customers.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-21 09:08:58",
+            "pubDateTZ": "UTC",
+            "image_url": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-3076217,resizemode-75,msid-121312832/news/international/new-zealand/manning-river-breaks-1929-flood-record-in-south-wales-50000-isolated.jpg",
+            "video_url": null,
+            "source_id": "economictimes_indiatimes",
+            "source_name": "The Economic Times",
+            "source_priority": 231,
+            "source_url": "https://economictimes.indiatimes.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/economictimes_indiatimes.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "world"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "689cabda2c25cf67e16f42fcc9d45a7c",
+            "title": "Drone-like objects spotted over Kolkata, cops probing espionage angle",
+            "link": "https://timesofindia.indiatimes.com/india/drone-like-objects-spotted-over-kolkata-cops-probing-espionage-angle/articleshow/121312661.cms",
+            "keywords": null,
+            "creator": null,
+            "description": "Kolkata police are investigating the appearance of at least ten drone-like objects in the city's night sky. The objects were sighted over areas including Hastings, Vidyasagar Setu, and Maidan on Monday night, raising concerns about potential espionage. The central government has requested a report from the West Bengal government regarding the incident.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-21 09:08:55",
+            "pubDateTZ": "UTC",
+            "image_url": "https://static.toiimg.com/thumb/msid-121312767,imgsize-8998,width-400,resizemode-4/121312767.jpg",
+            "video_url": null,
+            "source_id": "toi",
+            "source_name": "The Times Of India",
+            "source_priority": 239,
+            "source_url": "https://timesofindia.indiatimes.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/toi.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "a77278823ffd31bf85f0d0abb22f14d6",
+            "title": "A Monthly SIP Of Rs 11,000 In This Bluechip Fund For 17 Years Would Have Made You A Crorepati",
+            "link": "https://www.ndtvprofit.com/personal-finance/a-monthly-sip-of-rs-11000-in-this-bluechip-fund-for-17-years-would-have-made-you-a-crorepati",
+            "keywords": [
+                "personal finance"
+            ],
+            "creator": [
+                "Personal Finance Desk"
+            ],
+            "description": "Consistent monthly investments in the ICICI Prudential Bluechip Fund since its launch could have grown to Rs 1 crore, showing the power of long-term compounding.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-21 09:08:54",
+            "pubDateTZ": "UTC",
+            "image_url": "https://media.assettype.com/bloombergquint%2F2025-05-13%2Fw4i0qrdy%2FTo-make-this-wealth-creation-strategy-more-effective-investors-can-choose-to-increase-their-annual-SIP-amount-by-10-every-year.?auto=format%2Ccompress&ogImage=true&w=1200",
+            "video_url": null,
+            "source_id": "bloombergquint",
+            "source_name": "Bq Prime",
+            "source_priority": 9222807,
+            "source_url": "https://www.bloombergquint.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/bloombergquint.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "business"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "d5c1ce742a02a1a35adcd52daaa0ad86",
+            "title": "Swiatek’s clay empire on shaky ground ahead of Paris",
+            "link": "https://www.channelnewsasia.com/sport/swiateks-clay-empire-shaky-ground-ahead-paris-5144221",
+            "keywords": [
+                "sport"
+            ],
+            "creator": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-21 09:08:49",
+            "pubDateTZ": "UTC",
+            "image_url": "https://dam.mediacorp.sg/image/upload/s--b-CUp4Jc--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2025-05-21t090849z_1_lynxmpel4k0d2_rtroptp_3_tennis-rome.jpg?itok=YZK88wrK",
+            "video_url": null,
+            "source_id": "channelnewsasia",
+            "source_name": "Channel Newsasia",
+            "source_priority": 4142,
+            "source_url": "https://www.channelnewsasia.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/channelnewsasia.jpg",
+            "language": "english",
+            "country": [
+                "georgia",
+                "yemen",
+                "afghanistan",
+                "cyprus",
+                "india",
+                "singapore",
+                "saudi arabia",
+                "maldives",
+                "japan",
+                "united arab emirates",
+                "malaysia",
+                "china",
+                "south korea",
+                "north korea",
+                "taiwan",
+                "thailand",
+                "pakistan",
+                "mongolia",
+                "brunei",
+                "lebanon",
+                "indonesia",
+                "kyrgyzstan",
+                "syria",
+                "israel",
+                "bhutan",
+                "iran",
+                "turkey",
+                "armenia",
+                "qatar",
+                "philippines",
+                "hong kong",
+                "kazakhstan",
+                "iraq",
+                "bangladesh",
+                "laos",
+                "vietnam",
+                "timor-leste",
+                "kuwait",
+                "myanmar",
+                "azerbaijan",
+                "jordan",
+                "nepal",
+                "sri lanka",
+                "uzbekistan",
+                "turkmenistan",
+                "macau",
+                "bahrain",
+                "cambodia",
+                "tajikistan",
+                "oman"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": true
+        },
+        {
+            "article_id": "f729bfa4208b4956638f444b8eb88bbd",
+            "title": "फर्जी टोल वृद्धि के बीच बृहन्मुंबई सीमा पार करने वाली बेस्ट बसों पर 2 रुपये टोल शुल्क लगाया गया",
+            "link": "https://jantaserishta.com/local/madhya-pradesh/best-buses-crossing-brihanmumbai-border-charged-rs-2-toll-amid-fake-toll-hike-4027216",
+            "keywords": [
+                "मध्य प्रदेश,राज्य"
+            ],
+            "creator": [
+                "Kavita2"
+            ],
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-21 09:08:47",
+            "pubDateTZ": "UTC",
+            "image_url": "https://jantaserishta.com/h-upload/2025/05/21/4610634-untitled-2-copy.webp",
+            "video_url": null,
+            "source_id": "jantaserishta",
+            "source_name": "Janta Se Rishta",
+            "source_priority": 81836,
+            "source_url": "https://jantaserishta.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/jantaserishta.jpg",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "9d66e311441e88c41457f61903add1af",
+            "title": "Dividend Stock: This Small-Cap Chemical Company Announces Q4 Result, Declares Final Dividend; Check Details",
+            "link": "https://english.jagran.com/business/dividend-stock-this-small-cap-chemical-company-announces-q4-result-declares-final-dividend-check-details-10239157",
+            "keywords": null,
+            "creator": null,
+            "description": "Fineotex Chemical,Fineotex Chemical share price,Fineotex Chemical dividend,Q4 Results,stock performance,BSE small-cap,Indian stock market,dividend stocks",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-21 09:08:46",
+            "pubDateTZ": "UTC",
+            "image_url": "https://imgeng.jagran.com/images/2025/05/21/article/image/Stock-Market--1747818094397.jpg",
+            "video_url": null,
+            "source_id": "english_jagran",
+            "source_name": "Jagran English",
+            "source_priority": 10561,
+            "source_url": "https://english.jagran.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/english_jagran.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "0ef7960e263e2d68e959e13e7f5b2d2e",
+            "title": "हरदा के उत्कृष्ट विद्यालय में भाषा समर कैंप संपन्न:छात्रों ने सीखी पंजाबी; प्रश्नोत्तरी और पोस्टर मेकिंग में दिखाई प्रतिभा",
+            "link": "https://www.bhaskar.com/local/mp/harda/news/language-summer-camp-concluded-at-hardas-excellent-school-135071896.html",
+            "keywords": null,
+            "creator": null,
+            "description": "हरदा के शासकीय उत्कृष्ट विद्यालय में 6 दिवसीय भाषा आधारित समर कैंप का बुधवार को समापन हुआ। कैंप के आखिरी दिन विद्यार्थियों ने पंजाबी भाषा प्रश्नोत्तरी में भाग लिया और पोस्टर बनाए। समापन समारोह में संस्था के प्राचार्य संतोष कुमार यादव ने विद्यार्थी जीवन में अलग-अलग भाषाओं के महत्व पर चर्चा की। भाषा शिक्षक राजवीर सिंह ने पंजाबी भाषा का ऐतिहासिक महत्व समझाया। विद्यार्थियों ने साझा किए अपने अनुभवकैंप के नोडल अधिकारी नितिन सोनी ने विद्यार्थियों को अनुशासन का महत्व बताया। उन्होंने कैंप में सीखी गई बातों को जीवन में उतारने के लिए प्रेरित किया। कार्यक्रम के अंत में विद्यार्थियों ने कैंप के दौरान के अपने अनुभव साझा किए। शिक्षक मंगलेश कुल्हारे और प्रियंका सोनी ने बच्चों को शुभकामनाएं दीं।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-21 09:08:44",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.bhaskarassets.com/thumb/1000x1000/web2images/521/2025/05/21/e71e6d35-8b57-471c-8e9c-88c0abc49de5_1747816216246.jpg",
+            "video_url": null,
+            "source_id": "bhaskar_hindi",
+            "source_name": "Bhaskar",
+            "source_priority": 34179,
+            "source_url": "https://www.bhaskar.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/bhaskar_hindi.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "domestic",
+                "other"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "7a826ee4a06c4cef0153060b7be46a8e",
+            "title": "Sports News | World C'ships Bronze-medallist Boxer Simranjit Kaur Turns Professional",
+            "link": "https://www.latestly.com/agency-news/sports-news-world-cships-bronze-medallist-boxer-simranjit-kaur-turns-professional-6870979.html",
+            "keywords": null,
+            "creator": null,
+            "description": "Get latest articles and stories on Sports at LatestLY. Former World championship bronze medallist Simrajit Kaur has become the latest Indian boxer to turn professional.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-21 09:08:39",
+            "pubDateTZ": "UTC",
+            "image_url": "https://st1.latestly.com/wp-content/uploads/2018/03/default-img-01-784x441.jpg",
+            "video_url": null,
+            "source_id": "latestly",
+            "source_name": "Latestly",
+            "source_priority": 31923,
+            "source_url": "https://www.latestly.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/latestly.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "de486e9ae53089f5f066623909da2b03",
+            "title": "“They fire at us, we retaliate with full fury of Indian Army,” says Army Officer at forward base",
+            "link": "https://thenewsmill.com/2025/05/they-fire-at-us-we-retaliate-with-full-fury-of-indian-army-says-army-officer-at-forward-base/",
+            "keywords": [
+                "ani",
+                "northeast india",
+                "manipur"
+            ],
+            "creator": [
+                "ANI"
+            ],
+            "description": "The News Mill",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-21 09:08:31",
+            "pubDateTZ": "UTC",
+            "image_url": "https://thenewsmill.com/wp-content/uploads/2025/05/ANI-20250521090355.jpg",
+            "video_url": null,
+            "source_id": "thenewsmill",
+            "source_name": "The News Mill",
+            "source_priority": 3781717,
+            "source_url": "https://thenewsmill.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/thenewsmill.jpg",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "c3c8f2d3623b403397fb7a61f465e86e",
+            "title": "Business News | Maharatna PSU Powergrid Projects Capex of over Rs 3 Lakh Crore by 2032",
+            "link": "https://www.latestly.com/agency-news/business-news-maharatna-psu-powergrid-projects-capex-of-over-rs-3-lakh-crore-by-2032-6870978.html",
+            "keywords": null,
+            "creator": null,
+            "description": "Get latest articles and stories on Business at LatestLY. Government-owned Maharatna' Public Sector company, Power Grid Corporation of India Ltd (POWERGRID) on Wednesday said that the company's estimated capex outlay will reach Rs 3,06,600 crore by 2032.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-21 09:08:29",
+            "pubDateTZ": "UTC",
+            "image_url": "https://st1.latestly.com/wp-content/uploads/2025/05/ANI-20250521084121-380x214.jpg",
+            "video_url": null,
+            "source_id": "latestly",
+            "source_name": "Latestly",
+            "source_priority": 31923,
+            "source_url": "https://www.latestly.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/latestly.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "4315e4ccc9b05e54cc4cbd981e11d53e",
+            "title": "ULLU: बुजुर्ग दंपत्ति द्वारा ‘चाइनीज लिंगम’ समझकर Dildo की पूजा करने का वीडियो देख भड़के लोग, नेटिजन्स ने की इस OTT प्लेटफॉर्म को बैन करने की मांग",
+            "link": "https://hindi.latestly.com/social-viral/ullu-people-got-angry-after-watching-video-of-an-elderly-couple-worshipping-a-dildo-as-a-chinese-lingam-netizens-demanded-ban-on-this-ott-platform-2624342.html",
+            "keywords": null,
+            "creator": null,
+            "description": "एक सीरीज की क्लिप में एक बुजुर्ग दंपत्ति को अपने घर में एक डिल्डो मिलता है. इसे एक पवित्र वस्तु समझकर वे इसकी पूजा करने लगते हैं. इस वीडियो को देखने के बाद लोगों का गुस्सा भड़क उठा है और लोग इस ओटीटी प्लेटफॉर्म को बैन करने की मांग कर रहे हैं.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-21 09:08:22",
+            "pubDateTZ": "UTC",
+            "image_url": "https://hist1.latestly.com/wp-content/uploads/2025/05/ullu-380x214.jpg",
+            "video_url": null,
+            "source_id": "latestly",
+            "source_name": "Latestly",
+            "source_priority": 31923,
+            "source_url": "https://www.latestly.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/latestly.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "entertainment"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "daadd738882ddc590f05e5dd1c599cb3",
+            "title": "Kajol ने आदित्य चोपड़ा के लिए लिखा अनोखा बर्थडे नोट",
+            "link": "https://jantaserishta.com/entertainment/kajol-pens-quirky-birthday-note-for-aditya-chopra-4027215",
+            "keywords": [
+                "मनोरंजन"
+            ],
+            "creator": [
+                "Nousheen"
+            ],
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-21 09:08:21",
+            "pubDateTZ": "UTC",
+            "image_url": "https://jantaserishta.com/h-upload/2025/05/21/4610618-3.webp",
+            "video_url": null,
+            "source_id": "jantaserishta",
+            "source_name": "Janta Se Rishta",
+            "source_priority": 81836,
+            "source_url": "https://jantaserishta.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/jantaserishta.jpg",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "entertainment"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "85a4f64d3f734928a076b16f260f2a56",
+            "title": "NBFCs and OMC stocks offer margin of safety amid sector rotation: Rohit Srivastava",
+            "link": "https://economictimes.indiatimes.com/markets/expert-view/nbfcs-and-omc-stocks-offer-margin-of-safety-amid-sector-rotation-rohit-srivastava/articleshow/121312749.cms",
+            "keywords": null,
+            "creator": null,
+            "description": "Rohit Srivastava suggests the market is holding gains with sector rotation, eyeing 25,300 on the Nifty. Key levels to watch are 24,494 for Nifty and 54,800 for Bank Nifty, with a potential breakout above 55,650 targeting 58,000-60,000. He favors NBFCs and oil marketing companies, noting better midcap earnings and a bullish outlook on pharma stocks.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-21 09:08:18",
+            "pubDateTZ": "UTC",
+            "image_url": "https://img.etimg.com/photo/118783427.cms",
+            "video_url": null,
+            "source_id": "economictimes_indiatimes",
+            "source_name": "The Economic Times",
+            "source_priority": 231,
+            "source_url": "https://economictimes.indiatimes.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/economictimes_indiatimes.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "business"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "139e76779bb944e6b97e67aa98240d1a",
+            "title": "शिवराज के गढ़ में सेंधमारी की तैयारी, विदिशा से कांग्रेस शुरू करेगी संगठन मजबूती का पायलट प्रोजेक्ट",
+            "link": "https://www.tv9hindi.com/india/congress-organization-strengthening-vidisha-pilot-project-reason-behind-3301220.html",
+            "keywords": null,
+            "creator": [
+                "Kabool Ahmad"
+            ],
+            "description": "मध्य प्रदेश में कांग्रेस ने संगठन को जमीनी स्तर पर मजबूत करने के लिए एक पायलट प्रोजेक्ट की शुरुआत की है. इस पहल के तहत, पार्टी ने विदिशा जिले को चुना है. ये बीजेपी के वरिष्ठ नेता और पूर्व मुख्यमंत्री शिवराज सिंह चौहान का गढ़ माना जाता है. 22 मई से शुरू किए जाने वाले इस प्रोजेक्ट के पीछे कांग्रेस की रणनीति क्या है इसके बारे में विस्तार से जानते हैं.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-21 09:08:18",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.tv9hindi.com/wp-content/uploads/2025/05/jeetu-patwari.jpg",
+            "video_url": null,
+            "source_id": "tv9bharatvarsh",
+            "source_name": "Tv9 Bharatvarsh",
+            "source_priority": 40538658,
+            "source_url": "https://www.tv9hindi.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/tv9bharatvarsh.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "domestic"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "c1028c89f755f70f73775ec0bcc4a25e",
+            "title": "BJP Accuses Trinamool Leaders of Violence Against Hindus in Murshidabad: Calls for Action and Apology from Mamata Banerjee",
+            "link": "https://www.devdiscourse.com/article/politics/3419528-bjp-accuses-trinamool-leaders-of-violence-against-hindus-in-murshidabad-calls-for-action-and-apology-from-mamata-banerjee",
+            "keywords": null,
+            "creator": null,
+            "description": "BJP Accuses Trinamool Leaders of Violence Against Hindus in Murshidabad: Calls for Action and Apology from Mamata Banerjee The Bharatiya Janata Party (BJP) alleged on Wednesday that a report from a probe committee, instated by the Calcutta High Court, revealed violence targeting Hindus in West Bengal's Murshidabad district was orchestrated by Trinamool Congress leaders. The party demanded action from Chief Minister Mamata Banerjee.BJP spokesperson and Rajya Sabha MP Sudhanshu Trivedi called for Banerjee to apologize for her party's actions, citing the report that detailed attacks on April 11 in Dhulian town, executed under the direction of a local councillor, and the inaction of police during crucial moments.The report highlighted that violence erupted from April 8 in opposition to amendments to the Waqf Act, leading to deaths and severe property damage. Trivedi urged Banerjee to respond and condemned attempts to specifically harm the Hindu community.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-21 09:08:15",
+            "pubDateTZ": "UTC",
+            "image_url": "https://devdiscourse.blob.core.windows.net/aiimagegallery/13_05_2025_11_11_59_9198572.png",
+            "video_url": null,
+            "source_id": "devdiscourse",
+            "source_name": "Devdiscourse",
+            "source_priority": 566021,
+            "source_url": "https://www.devdiscourse.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/devdiscourse.jpg",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "783a7bf165c18d0cd1b62dd293fe968a",
+            "title": "'Thug Life' trailer sparks twist theories: Is Silambarasan really Amaran?",
+            "link": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/thug-life-trailer-sparks-twist-theories-is-silambarasan-really-amaran/articleshow/121312822.cms",
+            "keywords": null,
+            "creator": null,
+            "description": "Kamal Haasan and Mani Ratnam's 'Thug Life' trailer has ignited immense excitement, showcasing intense visuals and sparking dual role speculations. STR's reaction to Kamal's dialogue hints at a major plot twist, fueling fan theories. The grand audio launch is scheduled for May 24, raising expectations for A.R. Rahman's soundtrack and the film's theatrical release.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-21 09:08:13",
+            "pubDateTZ": "UTC",
+            "image_url": "https://static.toiimg.com/thumb/msid-121312812,imgsize-16134,width-400,resizemode-4/121312812.jpg",
+            "video_url": null,
+            "source_id": "toi",
+            "source_name": "The Times Of India",
+            "source_priority": 239,
+            "source_url": "https://timesofindia.indiatimes.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/toi.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "ced7a73aa73cca02b4a9cfe8a297c14e",
+            "title": "राजीव गांधी की 32वीं पुण्यतिथि:कांग्रेस कार्यकर्ताओं ने दी श्रद्धांजलि, प्रतिमा पर किया माल्यार्पण",
+            "link": "https://www.bhaskar.com/local/rajasthan/pratapgarh/news/32nd-death-anniversary-of-rajiv-gandhi-135071892.html",
+            "keywords": null,
+            "creator": null,
+            "description": "प्रतापगढ़ में कांग्रेस कार्यकर्ताओं ने पूर्व प्रधानमंत्री राजीव गांधी की पुण्यतिथि पर उन्हें श्रद्धांजलि दी। जिला कांग्रेस कार्यालय में कार्यकर्ताओं ने भारत रत्न राजीव गांधी के चित्र पर माल्यार्पण किया। इसके बाद जीरो माइल चौराहे पर स्थित उनकी प्रतिमा पर भी पुष्प अर्पित किए। जिला कांग्रेस प्रवक्ता मोहित भावसार ने बताया कि 21 मई 1991 को तमिलनाडु के श्रीपेरंबदूर में आत्मघाती हमले में राजीव गांधी की शहादत हुई थी। उन्होंने कहा कि यह बलिदान भारत के लोकतांत्रिक मूल्यों और राष्ट्रीय एकता के लिए था। महिला कांग्रेस जिलाध्यक्ष लता शर्मा ने राजीव गांधी के योगदान को याद किया। उन्होंने कहा कि कंप्यूटर क्रांति, पंचायती राज और महिलाओं की राजनीतिक भागीदारी में उनका विशेष योगदान रहा। ब्लॉक कांग्रेस अध्यक्ष दिग्विजय सिंह कुलथाना ने कार्यकर्ताओं से कांग्रेस संगठन को मजबूत करने का आह्वान किया। उन्होंने कहा कि राजीव गांधी का पूरा जीवन देश को समर्पित था।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-21 09:08:12",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.bhaskarassets.com/thumb/1000x1000/web2images/521/2025/05/21/66077a09-ba4c-4c6e-89e4-157fd7266de1_1747815399617.jpg",
+            "video_url": null,
+            "source_id": "bhaskar_hindi",
+            "source_name": "Bhaskar",
+            "source_priority": 34179,
+            "source_url": "https://www.bhaskar.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/bhaskar_hindi.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "domestic",
+                "other"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "84dad58b753885ce9251a3f068527ed0",
+            "title": "छत्तीसगढ़ और झारखंड के शराब घोटाले के तार आपस में जुड़े, जांच में ईडी और सीबीआई की एंट्री तय",
+            "link": "https://hindi.latestly.com/india/chhattisgarh-and-jharkhand-liquor-scams-are-interlinked-ed-and-cbi-are-set-to-enter-the-investigation-2624417.html",
+            "keywords": null,
+            "creator": null,
+            "description": "झारखंड में करीब 100 करोड़ रुपए के शराब घोटाले की जांच में ईडी और सीबीआई जैसी केंद्रीय एजेंसियों की एंट्री हो सकती है. इस घोटाले में झारखंड के एंटी करप्शन ब्यूरो (एसीबी) ने मंगलवार को जिस सीनियर आईएएस विनय चौबे और ज्वाइंट एक्साइज कमिश्नर गजेंद्र सिंह को गिरफ्तार किया है, वे छत्तीसगढ़ में हुए शराब घोटाले में भी आरोपी हैं.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-21 09:08:11",
+            "pubDateTZ": "UTC",
+            "image_url": "https://hist1.latestly.com/wp-content/uploads/2024/12/CBI-380x214.jpg",
+            "video_url": null,
+            "source_id": "latestly",
+            "source_name": "Latestly",
+            "source_priority": 31923,
+            "source_url": "https://www.latestly.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/latestly.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": true
+        },
+        {
+            "article_id": "a2cccf1e07dd8eae9bd45ba6d16256ca",
+            "title": "विदेश की खबरें | पुतिन ने कुर्स्क का दौरा किया, मास्को ने पिछले माह यूक्रेनी सेना से मुक्त कराने का दावा किया था",
+            "link": "https://hindi.latestly.com/agency-news/putin-visited-kursk-moscow-claimed-to-be-freed-from-the-ukrainian-army-last-month-r-2624421.html",
+            "keywords": null,
+            "creator": null,
+            "description": "Get Latest हिन्दी समाचार, Breaking News on world at LatestLY हिन्दी. क्रेमलिन ने बुधवार को बताया कि पुतिन ने मंगलवार को यूक्रेन से सटे कुर्स्क क्षेत्र का दौरा किया।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-21 09:08:09",
+            "pubDateTZ": "UTC",
+            "image_url": "https://hist1.latestly.com/wp-content/uploads/2020/04/world_default_img-380x214.jpg",
+            "video_url": null,
+            "source_id": "latestly",
+            "source_name": "Latestly",
+            "source_priority": 31923,
+            "source_url": "https://www.latestly.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/latestly.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
             "article_id": "7ccb2fc3192fd68cbe804cf3dcd9ded2",
             "title": "Sharmila Tagore stayed in 'chaukidaar's room', Simi Garewal in a bungalow while shooting for 'Aranyer Din - Times of India",
             "link": "https://news.google.com/rss/articles/CBMivgJBVV95cUxNdUNHTVZMd214cGI5R0Y1WnpkaTNXR18xMEhORThoRk53Z3Y0MmhPamRlNXVGaHJXU0x3THJPd1p4Q0JVLUFIbW9hc0dMcjFaMjRLS1ZrbWJYSTVCWFFoZU9wUTI5YkRmcEZ0VEhvdEU1Y2szc0tSZ1JxaVQ5LWRVTzJLWENzelUxNHQyUDRudENEcWRkakk3bU1GSnFublVLRnFnbGZJWjdiSXNuRWxyeVVhMjdBSFVXV2RmRFJZZ19KVERBdFRPOEwzaFZKX0pTd0xZWVlUc185LXdtbi1TTzlIeFZqMjgwUTkzQ2pSV3NoOHVGcXB4c0Q1eFlETW5Rc1o0bmpqUG12OHUwOGVtdHhJcUo4eXpsVjBJWG5VX18yWmFYYlZsc05KWDlScnNubmNmQ2NWcXgxLUdwQlE?oc=5",
@@ -24175,579 +24870,6 @@
             "source_url": "https://timesofindia.indiatimes.com",
             "source_icon": "https://i.bytvi.com/domain_icons/toi.png",
             "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "c17eeb2bccdf81f48f6c9976d03e520c",
-            "title": "LSG vs SRH: Harshal Patel Scripts History, Becomes Fastest Bowler In IPL To...",
-            "link": "https://zeenews.india.com/cricket/lsg-vs-srh-harshal-patel-scripts-history-becomes-fastest-bowler-in-ipl-to-2903327.html",
-            "keywords": null,
-            "creator": [
-                "Zee News"
-            ],
-            "description": "Harshal Patel achieved the milestone by dismissing Aiden Markram in the 16th over of the innings with one of his trademark slower yorkers.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-19 20:15:00",
-            "pubDateTZ": "UTC",
-            "image_url": "https://english.cdn.zeenews.com/sites/default/files/styles/zm_700x400/public/2025/05/20/1752250-harshal-patel.jpg?im=Resize%3D%28400%29",
-            "video_url": null,
-            "source_id": "zeenews",
-            "source_name": "Zee News",
-            "source_priority": 5319,
-            "source_url": "http://zeenews.india.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/zeenews.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "sports"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "67bee96838a06068b66ac7467e148cd6",
-            "title": "कमला बलान तटबंध काे किया जायेगा सुदृढ़",
-            "link": "https://www.prabhatkhabar.com/state/bihar/patna/kamla-balan-embankment-will-be-strengthened",
-            "keywords": [
-                "patna news",
-                "पटना"
-            ],
-            "creator": [
-                "RAKESH RANJAN"
-            ],
-            "description": "कमला बलान नदी पर स्थित बांया एवं दांया तटबंधों के उच्चीकरण, सुदृढ़ीकरण और पक्कीकरण होने से मधुबनी, दरभंगा,सहरसा एवं समस्तीपुर के किसानों को सिंचाई का लाभ मिलेगा.The post कमला बलान तटबंध काे किया जायेगा सुदृढ़ appeared first on Prabhat Khabar.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-19 20:14:48",
-            "pubDateTZ": "UTC",
-            "image_url": "https://www.prabhatkhabar.com/wp-content/uploads/2025/03/patna.jpg",
-            "video_url": null,
-            "source_id": "prabhatkhabar",
-            "source_name": "Prabhat Khabar",
-            "source_priority": 343253,
-            "source_url": "https://www.prabhatkhabar.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/prabhatkhabar.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "39c3e40047a6144f138039dad7aaf730",
-            "title": "झज्जर में टीवी चैनल के वरिष्ठ पत्रकार धर्मेंद्र चौहान की गोली मार कर हत्या",
-            "link": "https://www.dainiktribuneonline.com/news/haryana/senior-tv-channel-journalist-dharmendra-chauhan-shot-dead-in-jhajjar/",
-            "keywords": [
-                "journalist dharmendra chauhan",
-                "झज्जर",
-                "हरियाणा",
-                "एनसीआर में क्राइम",
-                "गुरुग्राम",
-                "रोहतक",
-                "jhajjar crime",
-                "करनाल",
-                "पत्रकार धर्मेंद्र चौहान",
-                "jhajjar"
-            ],
-            "creator": [
-                "Kavita Raj"
-            ],
-            "description": "झज्जर,19 मई (हप्र) : झज्जर के एक गांव में बीती देर शाम एक पत्रकार धर्मेंद्र चौहान की अज्ञात हमलावरों ने गोली मारकर हत्या कर दी। हत्यारे कौन थे और हत्या करने के पीछे कारण क्या रहे इस बात का पता फिलहाल नहीं चल पाया है। बीती रात हुई इस वारदात के पीछे किसी रंजिश की [...]The post झज्जर में टीवी चैनल के वरिष्ठ पत्रकार धर्मेंद्र चौहान की गोली मार कर हत्या appeared first on dainiktribuneonline.com.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-19 20:14:44",
-            "pubDateTZ": "UTC",
-            "image_url": "https://dainiktribuneonline.imagibyte.sortdcdn.net/wp-content/uploads/2025/05/11905428CD-_19JJRP1.jpg",
-            "video_url": null,
-            "source_id": "dainiktribuneonline",
-            "source_name": "Breaking News In Hindi Online",
-            "source_priority": 2014324,
-            "source_url": "https://www.dainiktribuneonline.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/dainiktribuneonline.jpg",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "183c299b558dc8e44645bd8ed1d4e09a",
-            "title": "4 ways Asuka could return on WWE RAW",
-            "link": "https://www.sportskeeda.com/wwe/4-ways-asuka-return-wwe-raw",
-            "keywords": [
-                "wwe"
-            ],
-            "creator": [
-                "Robert Lentini"
-            ],
-            "description": "Asuka has been absent from WWE television for over a year now.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-19 20:14:41",
-            "pubDateTZ": "UTC",
-            "image_url": "https://staticc.sportskeeda.com/editor/2025/05/2001d-17476872920830-1920.jpg",
-            "video_url": null,
-            "source_id": "sportskeeda",
-            "source_name": "Sportskeeda",
-            "source_priority": 172,
-            "source_url": "http://sportskeeda.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/sportskeeda.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "sports"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "d3e08914a832c49a1e08eab6241cdc92",
-            "title": "शहर की 11 काॅलोनियों में खुले विकास के रास्ते : ईश्वर सिंह",
-            "link": "https://www.amarujala.com/haryana/kaithal/paths-of-development-open-in-11-colonies-of-the-city-ishwar-singh-kaithal-news-c-18-1-knl1004-650779-2025-05-20",
-            "keywords": null,
-            "creator": null,
-            "description": "शहर की 11 काॅलोनियों में खुले विकास के रास्ते : ईश्वर सिंह",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-19 20:14:28",
-            "pubDateTZ": "UTC",
-            "image_url": "https://staticimg.amarujala.com/assets/images/2021/11/03/kaithal_1635936309.jpeg?dpr=1.0&q=80&w=414",
-            "video_url": null,
-            "source_id": "amarujala",
-            "source_name": "Amar Ujala",
-            "source_priority": 55215,
-            "source_url": "https://www.amarujala.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/amarujala.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "e1d88bcfd462eca662f2ed3c67021e7c",
-            "title": "Romania & Poland halt hard-right breakthroughs",
-            "link": "https://timesofindia.indiatimes.com/world/rest-of-world/romania-poland-halt-hard-right-breakthroughs/articleshow/121276732.cms",
-            "keywords": null,
-            "creator": null,
-            "description": "Romania & Poland halt hard-right breakthroughs",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-19 20:14:24",
-            "pubDateTZ": "UTC",
-            "image_url": "https://static.toiimg.com/thumb/msid-121276732,width-1070,height-580,imgsize-null,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-            "video_url": null,
-            "source_id": "toi",
-            "source_name": "The Times Of India",
-            "source_priority": 239,
-            "source_url": "https://timesofindia.indiatimes.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/toi.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "a0d55606db1119fe98fb74365a183688",
-            "title": "Kaithal News: व्हाट्सएप पर पाकिस्तानी एजेंटों के संपर्क में था कैथल से पकड़ा गया देवेंद्र",
-            "link": "https://www.amarujala.com/haryana/kaithal/devendra-was-caught-from-kaithal-and-was-in-contact-with-pakistani-agents-on-whatsapp-kaithal-news-c-18-1-knl1004-650778-2025-05-20",
-            "keywords": null,
-            "creator": null,
-            "description": "व्हाट्सएप पर पाकिस्तानी एजेंटों के संपर्क में था कैथल से पकड़ा गया देवेंद्र",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-19 20:14:09",
-            "pubDateTZ": "UTC",
-            "image_url": "https://staticimg.amarujala.com/assets/images/2021/11/03/kaithal_1635936309.jpeg?dpr=1.0&q=80&w=414",
-            "video_url": null,
-            "source_id": "amarujala",
-            "source_name": "Amar Ujala",
-            "source_priority": 55215,
-            "source_url": "https://www.amarujala.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/amarujala.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "b27399801660f37185aaa44e4cd24354",
-            "title": "Actor who played Hasina in a film by Benegal jailed",
-            "link": "https://timesofindia.indiatimes.com/world/rest-of-world/actor-who-played-hasina-in-a-film-by-benegal-jailed/articleshow/121276730.cms",
-            "keywords": null,
-            "creator": null,
-            "description": "Actor who played Hasina in a film by Benegal jailed",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-19 20:13:45",
-            "pubDateTZ": "UTC",
-            "image_url": "https://static.toiimg.com/thumb/msid-121276730,width-1070,height-580,imgsize-null,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-            "video_url": null,
-            "source_id": "toi",
-            "source_name": "The Times Of India",
-            "source_priority": 239,
-            "source_url": "https://timesofindia.indiatimes.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/toi.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "a45fe3e0184428361b192d056c674fd6",
-            "title": "Athlete Zheng Qinwen stars in new Powerbeats Pro 2 campaign",
-            "link": "https://9to5mac.com/2025/05/19/athlete-zheng-qinwen-stars-in-new-powerbeats-pro-2-campaign/",
-            "keywords": [
-                "news"
-            ],
-            "creator": [
-                "Marcus Mendes"
-            ],
-            "description": "Earlier in the year, Beats launched the Powerbeats Pro 2, the first Apple earbuds to feature in-ear heart rate monitoring. The debut was accompanied by the “Listen to Your Heart” campaign, voiced by RZA and starring LeBron James, Lionel Messi, and Shohei Ohtani.Now, Beats is back with a new ad featuring Chinese tennis star and Olympic gold medalist Zheng Qinwen, affectionately known as “Queen Wen.” The ad marks her first major appearance since becoming a global ambassador for the brand earlier this year. more...",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-19 20:13:24",
-            "pubDateTZ": "UTC",
-            "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2025/05/powerbeats-pro-2.jpg?quality=82&strip=all&w=1600",
-            "video_url": null,
-            "source_id": "9to5mac",
-            "source_name": "9to5 Mac",
-            "source_priority": 2672,
-            "source_url": "https://9to5mac.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/9to5mac.png",
-            "language": "english",
-            "country": [
-                "india",
-                "singapore",
-                "united states of america",
-                "australia",
-                "united kingdom"
-            ],
-            "category": [
-                "technology"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "8957e525fe04ff3aae4cb52fe942330c",
-            "title": "बिहार प्रशासनिक सेवा के 17 अधिकारियों को प्रोन्नति",
-            "link": "https://www.prabhatkhabar.com/state/bihar/patna/17-officers-of-bihar-administrative-service-got-promotion",
-            "keywords": [
-                "patna news",
-                "पटना"
-            ],
-            "creator": [
-                "RAKESH RANJAN"
-            ],
-            "description": "राज्य सरकार ने बिहार प्रशासनिक सेवा(बिप्रसे) के 17 अधिकारियों को अस्थायी स्थानापन्न कार्यकारी प्रभार व्यवस्था के तहत प्रोन्नति दी है.The post बिहार प्रशासनिक सेवा के 17 अधिकारियों को प्रोन्नति appeared first on Prabhat Khabar.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-19 20:13:23",
-            "pubDateTZ": "UTC",
-            "image_url": "https://www.prabhatkhabar.com/wp-content/uploads/2025/03/patna.jpg",
-            "video_url": null,
-            "source_id": "prabhatkhabar",
-            "source_name": "Prabhat Khabar",
-            "source_priority": 343253,
-            "source_url": "https://www.prabhatkhabar.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/prabhatkhabar.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "a924f40f9b1b2ac23bc83192275b4469",
-            "title": "Kaithal News: बस हादसे के बाद मची चीख-पुकार खिड़की तोड़कर यात्रियों को निकाला",
-            "link": "https://www.amarujala.com/haryana/kaithal/there-was-a-lot-of-screaming-after-the-bus-accident-passengers-were-taken-out-by-breaking-the-window-kaithal-news-c-18-1-knl1004-650777-2025-05-20",
-            "keywords": null,
-            "creator": null,
-            "description": "बस हादसे के बाद मची चीख-पुकार खिड़की तोड़कर यात्रियों को निकाला",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-19 20:13:07",
-            "pubDateTZ": "UTC",
-            "image_url": "https://staticimg.amarujala.com/assets/images/2021/11/03/kaithal_1635936309.jpeg?dpr=1.0&q=80&w=414",
-            "video_url": null,
-            "source_id": "amarujala",
-            "source_name": "Amar Ujala",
-            "source_priority": 55215,
-            "source_url": "https://www.amarujala.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/amarujala.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "f70893f174fcfa83a9e5da273b04ec59",
-            "title": "Nvidia Unveils NVLink Fusion to Boost AI Chip Communication",
-            "link": "https://www.devdiscourse.com/article/technology/3418301-nvidia-unveils-nvlink-fusion-to-boost-ai-chip-communication",
-            "keywords": null,
-            "creator": null,
-            "description": "Nvidia Unveils NVLink Fusion to Boost AI Chip Communication Nvidia has announced its latest innovation, NVLink Fusion, aimed at improving chip-to-chip communication essential for artificial intelligence (AI) development. The new technology is poised to benefit various chip designers looking to build powerful, custom AI systems. This marks yet another advancement in Nvidia's portfolio of AI-driven technologies.The announcement came from CEO Jensen Huang during the Computex AI exhibition held at the Taipei Music Center. Companies like Marvell Technology and MediaTek are among those expected to integrate NVLink Fusion into their custom chip-making efforts, alongside partners such as Alchip, Fujitsu, and Qualcomm.Despite these advancements, Nvidia's market presence faces uncertainty in China due to US-imposed export restrictions on certain chips. This challenge has led to significant financial burdens for Nvidia, which plans to offset these with a new Taiwan headquarters and continued focus on AI system development, including the forthcoming Blackwell Ultra chips.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-19 20:13:00",
-            "pubDateTZ": "UTC",
-            "image_url": "https://devdiscourse.blob.core.windows.net/aiimagegallery/14_05_2025_20_44_17_3176879.png",
-            "video_url": null,
-            "source_id": "devdiscourse",
-            "source_name": "Devdiscourse",
-            "source_priority": 566021,
-            "source_url": "https://www.devdiscourse.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/devdiscourse.jpg",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "a58090fc46f7515476c3875454ba4554",
-            "title": "School teacher expelled for teaching Kalma in school during class lesson",
-            "link": "https://www.dnaindia.com/viral/report-school-teacher-expelled-for-teaching-kalma-in-school-during-class-lesson-3152977",
-            "keywords": [
-                "viral"
-            ],
-            "creator": [
-                "Vaishali Shastri"
-            ],
-            "description": "After the Pahalgam terrorist attack in Jammu and Kashmir, an incident with Kalma at the centre of it became the subject of a recent controversy. In Haryana's Panipat, a teacher said to have taught Kalma to Class 8 students.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-19 20:13:00",
-            "pubDateTZ": "UTC",
-            "image_url": "https://cdn.dnaindia.com/sites/default/files/styles/third/public/2025/05/20/2695794-school-teacher-expelled-for-teaching-kalma-in-school-during-class-lesson.jpg",
-            "video_url": null,
-            "source_id": "dnaindia",
-            "source_name": "Dna",
-            "source_priority": 18388,
-            "source_url": "https://www.dnaindia.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/dnaindia.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "f1bebb63337ba15724f6e50567f0678c",
-            "title": "Tetairoa McMillan makes Travis Hunter look like a rookie in viral hitch route video",
-            "link": "https://timesofindia.indiatimes.com/sports/nfl/news/tetairoa-mcmillan-makes-travis-hunter-look-like-a-rookie-in-viral-hitch-route-video/articleshow/121276743.cms",
-            "keywords": null,
-            "creator": null,
-            "description": "A brief camp video comparing Travis Hunter and Tetairoa McMillan's hitch routes has gone viral. Tetairoa McMillan's route appeared quicker and crisper, whereas Hunter's appeared slower. Internet fans responded quickly, arguing over who looked better. Although Tetairoa McMillan excelled at this drill, Hunter's overall ability still keeps him among the biggest stars in college football.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-19 20:12:40",
-            "pubDateTZ": "UTC",
-            "image_url": "https://static.toiimg.com/thumb/msid-121276740,width-1070,height-580,imgsize-54152,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-            "video_url": null,
-            "source_id": "toi",
-            "source_name": "The Times Of India",
-            "source_priority": 239,
-            "source_url": "https://timesofindia.indiatimes.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/toi.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "7c2b6a0adbc3ad0bdac51d2499661a9f",
-            "title": "Kaithal News: राजकीय वरिष्ठ माध्यमिक विद्यालय ग्योंग का परीक्षा परिणाम शानदार",
-            "link": "https://www.amarujala.com/haryana/kaithal/the-result-of-the-government-senior-secondary-school-gyong-is-excellent-kaithal-news-c-18-1-knl1004-650776-2025-05-20",
-            "keywords": null,
-            "creator": null,
-            "description": "राजकीय वरिष्ठ माध्यमिक विद्यालय ग्योंग का परीक्षा परिणाम शानदार",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-19 20:12:22",
-            "pubDateTZ": "UTC",
-            "image_url": "https://staticimg.amarujala.com/assets/images/2021/11/03/kaithal_1635936309.jpeg?dpr=1.0&q=80&w=414",
-            "video_url": null,
-            "source_id": "amarujala",
-            "source_name": "Amar Ujala",
-            "source_priority": 55215,
-            "source_url": "https://www.amarujala.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/amarujala.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "b52fff1364d6670cb670e2bfd6f84e12",
-            "title": "मतदाता सूची की शुद्धता को दें सर्वोच्च प्राथमिकता : जोशी",
-            "link": "https://www.prabhatkhabar.com/state/bihar/patna/give-top-priority-to-the-accuracy-of-voter-list-josh",
-            "keywords": [
-                "patna news",
-                "पटना"
-            ],
-            "creator": [
-                "RAKESH RANJAN"
-            ],
-            "description": "बिहार दौरे के चौथे और अंतिम दिन सोमवार को भारत निर्वाचन आयोग के आयुक्त डाॅ विवेक जोशी वैशाली पहुंचे. The post मतदाता सूची की शुद्धता को दें सर्वोच्च प्राथमिकता : जोशी appeared first on Prabhat Khabar.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-19 20:12:03",
-            "pubDateTZ": "UTC",
-            "image_url": "https://www.prabhatkhabar.com/wp-content/uploads/2025/03/patna.jpg",
-            "video_url": null,
-            "source_id": "prabhatkhabar",
-            "source_name": "Prabhat Khabar",
-            "source_priority": 343253,
-            "source_url": "https://www.prabhatkhabar.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/prabhatkhabar.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "12d8c3d9c12b664ecab44cc2bb50b6fc",
-            "title": "Kaithal News: आरोही स्कूल ग्योंग में 12वीं में 43 विद्यार्थियों को मेरिट",
-            "link": "https://www.amarujala.com/haryana/kaithal/43-students-got-merit-in-12th-in-aarohi-school-gyong-kaithal-news-c-18-1-knl1004-650775-2025-05-20",
-            "keywords": null,
-            "creator": null,
-            "description": "आरोही स्कूल ग्योंग में 12वीं में 43 विद्यार्थियों को मेरिट",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-19 20:12:02",
-            "pubDateTZ": "UTC",
-            "image_url": "https://staticimg.amarujala.com/assets/images/2021/11/03/kaithal_1635936309.jpeg?dpr=1.0&q=80&w=414",
-            "video_url": null,
-            "source_id": "amarujala",
-            "source_name": "Amar Ujala",
-            "source_priority": 55215,
-            "source_url": "https://www.amarujala.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/amarujala.png",
-            "language": "hindi",
             "country": [
                 "india"
             ],
