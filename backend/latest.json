@@ -1,6 +1,661 @@
 {
     "articles": [
         {
+            "article_id": "37148d6cfa8fb6ca34de889563db8b1c",
+            "title": "भारत के हर फैसले की नकल कर रहा है PAK, अब भारतीय उच्चायोग के अधिकारी को किया निष्कासित",
+            "link": "https://www.aajtak.in/world/story/pakistan-expelled-an-official-of-indian-high-commission-ntc-dskc-2245980-2025-05-22",
+            "keywords": null,
+            "creator": null,
+            "description": "पाकिस्तान ने इस्लामाबाद स्थित भारतीय उच्चायोग एक अधिकारी को पर्सोना नॉन ग्राटा (अवांछित व्यक्ति) घोषित कर दिया है और उन्हें 24 घंटे के अंदर देश छोड़ने का निर्देश दिया है. इससे पहले बुधवार को भारत ने नई दिल्ली स्थित पाकिस्तानी उच्चायोग के अधिकारी को पर्सोना नॉन ग्राटा घोषित किया था.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-21 23:08:59",
+            "pubDateTZ": "UTC",
+            "image_url": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202505/682e5c5ac4293-20250522-210557267-16x9.png",
+            "video_url": null,
+            "source_id": "aajtak",
+            "source_name": "Aaj Tak",
+            "source_priority": 20158,
+            "source_url": "http://aajtak.in",
+            "source_icon": "https://n.bytvi.com/aajtak.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "world"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "c67eea1b7c1c67bbbed5b4fc89c3d3ba",
+            "title": "हम किसी भी आंतरिक और बाह्य खतरे से निपटने में पूरी तरह सक्षम : कीर्ति वर्धन सिंह",
+            "link": "https://www.deshbandhu.co.in/news/leadstory-we-are-fully-capable-of-dealing-with-any-internal-and-external-threat-kirti-vardhan-singh-557522-1",
+            "keywords": null,
+            "creator": null,
+            "description": "केंद्रीय विदेश राज्यमंत्री कीर्ति वर्धन सिंह बुधवार को अयोध्या के दौरे पर रहे। इस दौरान उन्होंने ऑपरेशन सिंदूर के अलावा मुर्शिदाबाद जैसी घटनाओं पर बयान देते हुए कहा कि देश के आंतरिक और बाह्य खतरों से निपटने में हम पूरी तरह से सक्षम हैं",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-21 23:08:58",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.deshbandhu.co.in/WebService/DBNewsAPI.svc/be5c1e7b-731e-4440-8b7a-9cdf0a6bbdd5_Kirti Vardhan Singh.jpg",
+            "video_url": null,
+            "source_id": "deshbandhu",
+            "source_name": "Deshbandhu-hindi",
+            "source_priority": 13621201,
+            "source_url": "https://www.deshbandhu.co.in",
+            "source_icon": null,
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "376562576de4746ee1d40cd9501ddaa5",
+            "title": "Dharavi to be a major Metro interchange with 2nd station",
+            "link": "https://timesofindia.indiatimes.com/city/mumbai/dharavi-to-be-a-major-metro-interchange-with-2nd-station/articleshow/121323072.cms",
+            "keywords": null,
+            "creator": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-21 23:08:40",
+            "pubDateTZ": "UTC",
+            "image_url": "https://static.toiimg.com/thumb/msid-121323071,imgsize-92184,width-400,height-225,resizemode-72/121323071.jpg",
+            "video_url": null,
+            "source_id": "toi",
+            "source_name": "The Times Of India",
+            "source_priority": 239,
+            "source_url": "https://timesofindia.indiatimes.com",
+            "source_icon": "https://n.bytvi.com/toi.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "entertainment"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "e09bfa926d28eb9ca23ff48b69de2a3c",
+            "title": "Fraudsters mimic KEA portal, steal personal data",
+            "link": "https://www.deccanherald.com/india/karnataka/bengaluru/fraudsters-mimic-kea-portal-steal-personal-data-3551884",
+            "keywords": null,
+            "creator": [
+                "DHNS"
+            ],
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-21 23:08:37",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.deccanherald.com/deccanherald%2F2025-05-01%2Fvuiw1m71%2Fdeccanherald2023-100c9658ad-45c8-4ec3-bdbe-cc423d203b13cyberattack9843581620622705.avif?ar=40%3A21&auto=format%2Ccompress&mode=crop&ogImage=true&rect=0%2C24%2C1280%2C672&w=1200",
+            "video_url": null,
+            "source_id": "deccanherald",
+            "source_name": "Deccan Herald",
+            "source_priority": 10080,
+            "source_url": "https://www.deccanherald.com",
+            "source_icon": "https://n.bytvi.com/deccanherald.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "ca5026108273ac8166df326d055b2755",
+            "title": "Klarna used an AI avatar of its CEO to deliver earnings, it said",
+            "link": "https://startupnews.fyi/2025/05/22/klarna-used-an-ai-avatar-of-its-ceo-to-deliver-earnings-it-said/",
+            "keywords": [
+                "klarna",
+                "world news",
+                "ai"
+            ],
+            "creator": [
+                "Techcrunch"
+            ],
+            "description": "Sebastian Siemiatkowski is leaning all the way into the idea that his buy-now-pay-later, IPO-bound startup Klarna is an AI company. When Klarna delivered updated quarterly earnings on Monday, it was his AI avatar (pictured above) that presented the highlights, according to the company’s YouTube video. Source link",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-21 23:08:24",
+            "pubDateTZ": "UTC",
+            "image_url": "https://i2.wp.com/techcrunch.com/wp-content/uploads/2025/05/Klarna-CEO-Sebastian-Siemiatkowski-AI-avatar.png?resize=1200%2C698&resize=1920%2C0&ssl=1&w=1920",
+            "video_url": null,
+            "source_id": "startupnews",
+            "source_name": "Startupnews",
+            "source_priority": 449974,
+            "source_url": "https://startupnews.fyi",
+            "source_icon": "https://n.bytvi.com/startupnews.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": true
+        },
+        {
+            "article_id": "4eac5f67a002fda86d03fa8f4b3955a0",
+            "title": "ट्रैकिंग कर सकेंगे पर्यटक:मेट्रोपॉलिटन रीजन से पहले बनेगा 250 किमी पर्यटन कॉरिडोर",
+            "link": "https://www.bhaskar.com/local/mp/bhopal/news/250-km-tourism-corridor-will-be-built-before-metropolitan-region-135076975.html",
+            "keywords": null,
+            "creator": null,
+            "description": "भोपाल और इंदौर को मेट्रोपॉलिटन रीजन बनाने पर काम शुरू हो गया है। भोपाल और इंदौर मेट्रोपॉलिटन के दायरे में आने वाले क्षेत्रों में जितने भी पर्यटन स्थल हैं, उन्हें आपस में जोड़ा जाएगा। इंदौर में काम शुरू हो चुका है। जल्द ही भोपाल में काम शुरू होगा। यहां सांची, कंकाली माता मंदिर, भोजपुर, आशापुरी, भीम बेटका और देलावाड़ी घाटी के रूट को ठीक किया जाएगा। सांची से बैरसिया का तरावली वाला माता मंदिर और चिड़ीखो को जोड़ा जाएगा। करीब 250 किमी लंबे इस रूट पर सड़क का चौड़ीकरण किया जाएगा। पर्यटकों की सुविधा के लिए शौचालय, रेस्ट रूम समेत अन्य सुविधाओं का इंतजाम किया जाएगा। रायसेन रोड पर खरबई में चिड़िया टोल जैसे क्षेत्रों को संरक्षित किया जाएगा। यहां पर्यटकों के रुकने और ट्रैकिंग की व्यवस्था होगी। अभी यहां रोड तो है, लेकिन पर्यटकों के लिए इंतजाम नहीं हैं। पर्यटन स्थल, हेरिटेज पैलेस, वन्य क्षेत्र की बनेगी सूचीभोपाल के दायरे में आने वाले सभी पर्यटन स्थल, हेरिटेज पैलेस, बड़े मंदिर, पुरातत्व संरक्षण वाले स्थान, गुफाएं और वन्य क्षेत्र की सूची बनाने का काम शुरू हो गया है। इसमें इछावर जंगल स्थित गुफाएं, रायसेन का किला, सांची स्तूप, भोजपुर मंदिर, आशापुरी, भीम बैठिका, राजगढ़ का चिड़ीखो को शामिल किया जा रहा है।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-21 23:08:09",
+            "pubDateTZ": "UTC",
+            "image_url": null,
+            "video_url": null,
+            "source_id": "bhaskar_hindi",
+            "source_name": "Bhaskar",
+            "source_priority": 34179,
+            "source_url": "https://www.bhaskar.com",
+            "source_icon": "https://n.bytvi.com/bhaskar_hindi.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "domestic",
+                "other"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "683b66b55cc327127d349e82bfdbc878",
+            "title": "Maharashtra: Delay By Tribal Development Department In Advertising Overseas Scholarship Scheme Worries Students, Activists",
+            "link": "https://www.freepressjournal.in/education/maharashtra-delay-by-tribal-development-department-in-advertising-overseas-scholarship-scheme-worries-students-activists",
+            "keywords": [
+                "fpj shorts",
+                "topnews",
+                "education"
+            ],
+            "creator": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-21 23:07:43",
+            "pubDateTZ": "UTC",
+            "image_url": "https://media.assettype.com/freepressjournal/2025-05-21/o6zx364k/iisd.jpg",
+            "video_url": null,
+            "source_id": "freepressjournal",
+            "source_name": "The Free Press Journal",
+            "source_priority": 26427,
+            "source_url": "https://www.freepressjournal.in",
+            "source_icon": "https://n.bytvi.com/freepressjournal.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "63f107f46556e4be72b49d42a1a53b91",
+            "title": "Fulham Vs Man City, Premier League: Foden Puts 'Difficult Season' Down To Off-Field Issues, Injury",
+            "link": "https://www.outlookindia.com/sports/football/fulham-vs-manchester-city-english-premier-league-2024-25-phil-foden-season-reaction",
+            "keywords": [
+                "fulham vs manchester city,premier league matchday 38,manchester city,fulham,phil foden,phil foden season stats,manchester city season stats,premier league season finale,premier league news,epl news,epl matchday 38,football news"
+            ],
+            "creator": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-21 23:07:42",
+            "pubDateTZ": "UTC",
+            "image_url": "https://media.assettype.com/outlookindia/2025-05-21/qhvcrvrd/phil_foden_10fqnjez33a6u1wkij4zoj7dvn.jpg?ar=40%3A21&auto=format%2Ccompress&enlarge=true&mode=crop&ogImage=true&overlay=false&overlay_position=bottom&overlay_width=100&w=1200",
+            "video_url": null,
+            "source_id": "outlookindia",
+            "source_name": "Outlook",
+            "source_priority": 3475,
+            "source_url": "https://www.outlookindia.com",
+            "source_icon": "https://n.bytvi.com/outlookindia.jpg",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "115f293886d5cc9368a340126388a966",
+            "title": "सीईओ ने स्टाफ से कहा- बसों के दस्तावेज देखें:बीसीएलएल का ऑपरेटर्स को अल्टीमेटम, सात दिन में फिट कर लें बसें, डिपो में जाकर चेक करें",
+            "link": "https://www.bhaskar.com/local/mp/bhopal/news/ceo-told-the-staff-to-check-the-documents-of-the-buses-135076974.html",
+            "keywords": null,
+            "creator": null,
+            "description": "कंडम हो चुकी लो फ्लोर बसों पर बीसीएलएल ने सख्ती दिखाई है। दैनिक भास्कर में खबर छपने के बाद सीईओ अंजू अरुण कुमार ने पदाधिकारियों की बैठक ली। उन्होंने निर्देश दिए कि सभी बसों को डिपो में जाकर चेक किया जाए। इसके बाद बीसीएलएल के अफसरों ने सभी बस ऑपरेटर्स को पत्र जारी कर 7 दिन का अल्टीमेटम दे दिया है। इसमें कहा है कि अगले सात दिन में बसों को सुधार लें, नहीं तो कार्रवाई की जाएगी। बस ऑपरेटर्स बीसीएलएल को सेल्फ असेसमेंट रिपोर्ट भी देंगे। दैनिक भास्कर ने बुधवार के अंक में ‘रोज 19 पॉइंट पर चेकिंग का दावा, फिर भी जिम्मेदारों को नहीं दिखतीं ये लो फ्लोर बसें’ शीर्षक से समाचार प्रकाशित किया था। बुधवार को ऑपरेटर आई मोबेलिटी की 77 बसें सड़क पर उतरी ही नहीं। इधर, ट्रैफिक पुलिस ने सीएम के निर्देशों के बाद भी सख्ती नहीं की। बुधवार को भी खटारा बसें दौड़ती रहीं। बाणगंगा हादसा: निलंबित आरटीओ शर्मा होंगे बहाल बाणगंगा में 13 मई को स्कूल बस से हुए एक्सीडेंट मामले में आरटीओ जितेंद्र शर्मा को निलंबित कर दिया गया था। जितेंद्र शर्मा न हाई कोर्ट में याचिका दायर की थी। जस्टिस विशाल मिश्रा ने आदेश में कहा कि यह साबित नहीं हो रहा कि जिस समय पर बस के परमिट और फिटनेस सर्टिफिकेट जारी हुए, तब दूसरे आरटीओ पदस्थ थे।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-21 23:07:30",
+            "pubDateTZ": "UTC",
+            "image_url": null,
+            "video_url": null,
+            "source_id": "bhaskar_hindi",
+            "source_name": "Bhaskar",
+            "source_priority": 34179,
+            "source_url": "https://www.bhaskar.com",
+            "source_icon": "https://n.bytvi.com/bhaskar_hindi.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "domestic",
+                "other"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "9585d817e309fd45b9ea3efeae6e52dc",
+            "title": "Borderlands 4 Randy Pitchford controversy: How much will the game cost? CEO's final verdict",
+            "link": "https://www.hindustantimes.com/world-news/us-news/borderlands-4-randy-pitchford-controversy-how-much-will-the-game-cost-ceos-final-verdict-101747867635786.html",
+            "keywords": [
+                "latest"
+            ],
+            "creator": null,
+            "description": "Randy Pitchford, CEO of video game developer Gearbox Software, sparked controversy after claiming that a ‘real fan’ would pay $80 for Borderlands 4",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-21 23:07:23",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.hindustantimes.com/ht-img/img/2025/05/21/1600x900/Borderlands_4_Randy_Pitchford_1747868709265_1747868714085.png",
+            "video_url": null,
+            "source_id": "hindustantimes",
+            "source_name": "Hindustan Times",
+            "source_priority": 933,
+            "source_url": "http://www.hindustantimes.com",
+            "source_icon": "https://n.bytvi.com/hindustantimes.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "c96ae85892561786907b734ff02da8cb",
+            "title": "RFK Jr. calls WHO “moribund” amid US withdrawal; China pledges to give $500M",
+            "link": "https://arstechnica.com/tech-policy/2025/05/china-pledges-500m-to-who-as-us-abandons-international-health-agency/",
+            "keywords": [
+                "robert f kennedy jr",
+                "who",
+                "pandemic",
+                "policy",
+                "health"
+            ],
+            "creator": [
+                "Beth Mole"
+            ],
+            "description": "As the rest of the world signed a pandemic agreement, the US sent an abrasive video.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-21 23:07:12",
+            "pubDateTZ": "UTC",
+            "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/GettyImages-2215489938-1152x648.jpg",
+            "video_url": null,
+            "source_id": "arstechnica",
+            "source_name": "Ars Technica",
+            "source_priority": 2007,
+            "source_url": "https://arstechnica.com",
+            "source_icon": "https://n.bytvi.com/arstechnica.png",
+            "language": "english",
+            "country": [
+                "india",
+                "canada",
+                "united states of america"
+            ],
+            "category": [
+                "technology"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "794c884d596d1f0e69399a1798f1d0fd",
+            "title": "Sophie Cunningham hurt by allegations of affair with Phoenix Suns CEO: “I hold myself to the highest integrity”",
+            "link": "https://timesofindia.indiatimes.com/sports/nba/top-stories/sophie-cunningham-hurt-by-allegations-of-affair-with-phoenix-suns-ceo-i-hold-myself-to-the-highest-integrity/articleshow/121325566.cms",
+            "keywords": null,
+            "creator": null,
+            "description": "WNBA player Sophie Cunningham has shared a statement in response to allegations of her having an affair with Phoenix Mercury and Phoenix Suns CEO Josh Bartelstein, a married man, during her time with the Phoenix Mercury. She has called the allegations \"untrue and extremely hurtful.” She has also claimed that she was never asked for a comment before several clickbait stories went to print.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-21 23:07:10",
+            "pubDateTZ": "UTC",
+            "image_url": "https://static.toiimg.com/thumb/msid-121325586,width-1070,height-580,imgsize-32490,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "video_url": null,
+            "source_id": "toi",
+            "source_name": "The Times Of India",
+            "source_priority": 239,
+            "source_url": "https://timesofindia.indiatimes.com",
+            "source_icon": "https://n.bytvi.com/toi.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "f7bddb84bf39f23d238eef07f6d6165a",
+            "title": "GDA to recover Rs 349 crore from Indirapuram locals to pay farmers",
+            "link": "https://timesofindia.indiatimes.com/city/noida/gda-to-recover-rs-349-crore-from-indirapuram-locals-to-pay-farmers/articleshow/121323730.cms",
+            "keywords": null,
+            "creator": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-21 23:06:59",
+            "pubDateTZ": "UTC",
+            "image_url": "https://static.toiimg.com/thumb/msid-121323728,imgsize-109300,width-400,height-225,resizemode-72/121323728.jpg",
+            "video_url": null,
+            "source_id": "toi",
+            "source_name": "The Times Of India",
+            "source_priority": 239,
+            "source_url": "https://timesofindia.indiatimes.com",
+            "source_icon": "https://n.bytvi.com/toi.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "04849bab5c8d4401913eacde034c562c",
+            "title": "BlackRock ® Canada Announces Final May Cash Distributions for the iShares ® Premium Money Market ETF",
+            "link": "https://in.investing.com/news/press-releases/blackrock--canada-announces-final-may-cash-distributions-for-the-ishares--premium-money-market-etf-93CH-4842340",
+            "keywords": null,
+            "creator": [
+                "Investing.com"
+            ],
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-21 23:06:06",
+            "pubDateTZ": "UTC",
+            "image_url": "https://i-invdn-com.investing.com/news/international_newspapers_108x81.jpg",
+            "video_url": null,
+            "source_id": "investing_in",
+            "source_name": "Investing India",
+            "source_priority": 1205,
+            "source_url": "https://in.investing.com",
+            "source_icon": "https://n.bytvi.com/investing_in.jpg",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": true
+        },
+        {
+            "article_id": "600665390f08676c0658fa3ed2c76fa8",
+            "title": "पूर्व मंत्री ने पदयात्रा कर चुनावी बिगुल फूंक दिया",
+            "link": "https://www.bhaskar.com/local/bihar/bettiah/news/the-former-minister-blew-the-election-bugle-by-taking-out-a-padyatra-135076972.html",
+            "keywords": null,
+            "creator": null,
+            "description": "भास्कर न्यूज | सिकटा भवानीपुर गांव से बिहार सरकार के पूर्व मंत्री खुर्शीद उर्फ फिरोज अहमद ने पदयात्रा कर चुनावी अभियान की शुरुआत की। भवानीपुर मॉडल पब्लिक स्कूल के पास समर्थकों ने उनका भव्य स्वागत किया। उन्होंने कहा, क्षेत्र का मालिक जनता होती है। जनता की आवाज पर ही वे आगामी विधानसभा चुनाव में सिकटा से निर्दलीय उम्मीदवार के रूप में उतरेंगे। पूर्व मंत्री ने अपने कार्यकाल के विकास कार्यों को गिनाया। खराब मौसम के बावजूद पदयात्रा कुर्सीबरवा, बेहरी, गुलरिया होते हुए विशंभरा गांव से शांति चौक तक पहुंची। शांति चौक पर आयोजित सम्मान समारोह में उन्होंने कहा, जनता का आशीर्वाद लेने निकला हूँ। सांस्कृतिक कार्यक्रम के बाद समर्थकों ने सिक्कों से तौल कर उन्हें सम्मानित किया। कार्यक्रम की अध्यक्षता पूर्व मुखिया अजय यादव ने की। संचालन अवधेश प्रसाद ने किया। मौके पर रामभाद्वाज सिंह, वसीम आलम, म. अफरोज, राजू यादव, मधुप कुमार गुप्ता, जदयू नेता वाकिफ अली अमान, रविन्द्र कुमार उर्फ पेटू, पिंकू कुशवाहा, पूर्व मुखिया सत्येंद्र यादव और राजीव रंगीला,मुश्ताक मियां आदि मौजूद रहे।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-21 23:06:06",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.bhaskarassets.com/thumb/1000x1000/web2images/521/2025/05/22/app_1747829319682dc2472f25f_1000126387.jpg",
+            "video_url": null,
+            "source_id": "bhaskar_hindi",
+            "source_name": "Bhaskar",
+            "source_priority": 34179,
+            "source_url": "https://www.bhaskar.com",
+            "source_icon": "https://n.bytvi.com/bhaskar_hindi.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top",
+                "tourism"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "fb7bc3743c47eb2b61be583b1d1080f2",
+            "title": "मध्य प्रदेश देश का दिल है, इसकी धड़कनों में इसकी आहट होनी चाहिए : मोहन यादव",
+            "link": "https://www.deshbandhu.co.in/news/national-madhya-pradesh-is-the-heart-of-the-country-its-heartbeats-should-reflect-this-mohan-yadav-557521-1",
+            "keywords": null,
+            "creator": null,
+            "description": "मुख्यमंत्री मोहन यादव ने बुधवार को कहा है कि मध्य प्रदेश देश का दिल है और देश की धड़कनों में मध्य प्रदेश की आहट होनी चाहिए",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-21 23:06:03",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.deshbandhu.co.in/WebService/DBNewsAPI.svc/d83255d9-ec38-4bc9-8b35-2cfbafcc94f7_Mohan Yadav.jpg",
+            "video_url": null,
+            "source_id": "deshbandhu",
+            "source_name": "Deshbandhu-hindi",
+            "source_priority": 13621201,
+            "source_url": "https://www.deshbandhu.co.in",
+            "source_icon": null,
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "a8362f94da925e41848fc3b0e8e9013b",
+            "title": "उपमुखिया पर अविश्वास बीडीओ को सौंपा आवेदन",
+            "link": "https://www.bhaskar.com/local/bihar/bettiah/news/application-submitted-to-bdo-for-no-confidence-in-the-deputy-chief-135076969.html",
+            "keywords": null,
+            "creator": null,
+            "description": "नौतन | खड्डा पंचायत के उपमुखिया शिवशंकर शर्मा पर विकास कार्यों में अनियमितता का आरोप है । इससे नाराज वार्ड सदस्यों ने मुखिया, बीडीओ, बीपीआरओ और पंचायत सचिव को अविश्वास प्रस्ताव लाया है। वार्ड सदस्य असीम अंसारी, तबस्सुम ख़ातून सहित अन्य ने में कहा कि उपमुखिया विकास कार्यों में मनमानी करते हैं। एक तिहाई से ज्यादा वार्ड सदस्य उनके खिलाफ हैं। बीडीओ शैलेन्द्र कुमार सिंह ने बताया कि आवेदन मिला है। आगे की कार्रवाई जारी है।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-21 23:06:02",
+            "pubDateTZ": "UTC",
+            "image_url": null,
+            "video_url": null,
+            "source_id": "bhaskar_hindi",
+            "source_name": "Bhaskar",
+            "source_priority": 34179,
+            "source_url": "https://www.bhaskar.com",
+            "source_icon": "https://n.bytvi.com/bhaskar_hindi.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top",
+                "tourism"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "3a2d12fd51359565a64bcd57c5f70eac",
+            "title": "शराब तस्करी में दो गिरफ्तार, 75 लीटर चुलाई शराब जब्त",
+            "link": "https://www.bhaskar.com/local/bihar/bettiah/news/two-arrested-for-liquor-smuggling-75-litres-of-illicit-liquor-seized-135076967.html",
+            "keywords": null,
+            "creator": null,
+            "description": "योगापट्टी | पुलिस ने मंगलवार देर शाम शराब तस्करों के खिलाफ विशेष छापेमारी अभियान दो बाइक सवार तस्करों को पकड़ा गया। दोनों के पास से कुल 75 लीटर चुलाई शराब बरामद हुई। पहला तस्कर दरवलिया मिश्रौली गांव का राजा साह है। उसके पास से 20 लीटर चुलाई शराब मिली। दूसरा तस्कर मिश्रौली त्रिमुहान से पकड़ा गया। उसके पास से 55 लीटर चुलाई शराब जब्त हुई। उसकी बाइक का नंबर बीआर 22 एजी 3898 है। एक दूसरे मामले में पुलिस ने लौरिया थाना क्षेत्र के परसा धागड़पट्टी गांव निवासी दीपक महतो को लक्ष्मीपुर से गिरफ्तार किया। थानाध्यक्ष कंचन भास्कर ने बताया कि दोनों तस्करों के खिलाफ सुसंगत धाराओं में मामला दर्ज कर लिया गया है। उन्हें बेतिया न्यायिक हिरासत में भेज दिया गया है।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-21 23:06:00",
+            "pubDateTZ": "UTC",
+            "image_url": null,
+            "video_url": null,
+            "source_id": "bhaskar_hindi",
+            "source_name": "Bhaskar",
+            "source_priority": 34179,
+            "source_url": "https://www.bhaskar.com",
+            "source_icon": "https://n.bytvi.com/bhaskar_hindi.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top",
+                "tourism"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "09c6754b135b5c97d1cb3111d6b1f301",
+            "title": "पीएम के आगमन की तैयारियां देखने जंबूरी मैदान पहुंचे सीएम",
+            "link": "https://www.bhaskar.com/local/mp/bhopal/news/cm-reached-jamburi-ground-to-see-the-preparations-for-pms-arrival-135076960.html",
+            "keywords": null,
+            "creator": null,
+            "description": "2 लाख से ज्यादा लोगों के खाने-पीने की व्यवस्था होगी पीएम नरेंद्र मोदी के 31 मई को भोपाल में होने वाले कार्यक्रम की तैयारियों का जायजा लेने मुख्यमंत्री मोहन यादव बुधवार को जंबूरी मैदान पहुंचे। सीएम ने कहा कि पीएम मोदी का मानना है कि महिलाओं की प्रगति के बिना देश-प्रदेश की प्रगति अधूरी है, इसलिए वे महिला सशक्तिकरण को विशेष महत्व दे रहे हैं। लोकमाता देवी अहिल्या बाई होलकर के त्रिशताब्दी जयंती समारोह पर पूरे प्रदेश से 2 लाख से अधिक महिलाएं इसमें भाग लेने आएंगी। इस कार्यक्रम में एक रिकार्ड बनाया जाना है। सीएम ने ट्रैफिक प्लान और बैठक व्यवस्था का खुद जायजा लिया। आयोजन स्थल पर ही 2 लाख से अधिक लोगों के खान-पान और पेयजल की व्यवस्था की जाएगी। सीएम मुख्य सचिव अनुराग जैन और डीजीपी कैलाश मकवाना के साथ सीएम ने यहां लगने वाली महिला स्व-सहायता समूहों की स्किल डेवलपमेंट से जुड़ी प्रदर्शनियों के बारे में भी जानकारी ली।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-21 23:05:54",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.bhaskarassets.com/thumb/1000x1000/web2images/521/2025/05/22/orig_orignew-project-2024-04-04t13261777617122173821726_1747868753.jpg",
+            "video_url": null,
+            "source_id": "bhaskar_hindi",
+            "source_name": "Bhaskar",
+            "source_priority": 34179,
+            "source_url": "https://www.bhaskar.com",
+            "source_icon": "https://n.bytvi.com/bhaskar_hindi.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "domestic",
+                "other"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "f19d2d8e58f21e0f3bd5ed8e0e2682d8",
+            "title": "42 लीटर विदेशी शराब के साथ धंधेबाज गिरफ्तार",
+            "link": "https://www.bhaskar.com/local/bihar/bettiah/news/smuggler-arrested-with-42-liters-of-foreign-liquor-135076959.html",
+            "keywords": null,
+            "creator": null,
+            "description": "नौतन | थाना क्षेत्र के अलग-अलग इलाकों में पुलिस ने गुप्त सूचना पर छापेमारी की। इस दौरान 42 लीटर विदेशी शराब बरामद की गई। रामनगर बैरिया से सिपाही यादव को गिरफ्तार किया गया। पुलिस ने बताया कि शराब कारोबारी यूपी से शराब लाकर दूसरे जिले में पहुंचाने की तैयारी में थे। छापेमारी के दौरान शराब जब्त कर ली गई। पूछताछ के बाद आरोपी को बुधवार को जेल भेज दिया गया।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-21 23:05:54",
+            "pubDateTZ": "UTC",
+            "image_url": null,
+            "video_url": null,
+            "source_id": "bhaskar_hindi",
+            "source_name": "Bhaskar",
+            "source_priority": 34179,
+            "source_url": "https://www.bhaskar.com",
+            "source_icon": "https://n.bytvi.com/bhaskar_hindi.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top",
+                "tourism"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
             "article_id": "e578ca452eabaa4133da0ec74e09560e",
             "title": "GeoGuessr community maps go dark in protest of EWC ties to human rights abuses",
             "link": "https://www.engadget.com/gaming/geoguessr-community-maps-go-dark-in-protest-of-ewc-ties-to-human-rights-abuses-221037118.html",
@@ -23466,711 +24121,6 @@
             "category": [
                 "top",
                 "domestic"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "a7f1ec538432b54f62f3a58724d72ba2",
-            "title": "धर्म के आधार पर नहीं दिया एडमिशन, अब पुलिस ने दर्ज की स्कूल के खिलाफ एफआईआर",
-            "link": "https://www.indiatv.in/education/fir-lodged-in-nagpur-for-not-giving-admission-on-the-basis-of-religion-2025-05-20-1136785",
-            "keywords": null,
-            "creator": null,
-            "description": "छात्रा का धर्म के आधार पर स्कूल में एडमिशन नहीं दिया तो नागपुर पुलिस ने स्कूल के खिलाफ BNS की धारा 299 के तहत मामला दर्ज कर लिया है।",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-20 11:09:00",
-            "pubDateTZ": "UTC",
-            "image_url": "https://resize.indiatv.in/resize/1200_-/2025/05/nagpur-school-1747739014.jpg",
-            "video_url": null,
-            "source_id": "indiatv",
-            "source_name": "India Tv",
-            "source_priority": 8882,
-            "source_url": "https://www.indiatv.in",
-            "source_icon": "https://i.bytvi.com/domain_icons/indiatv.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "c7b496672f322e42da020e2492297f42",
-            "title": "Rohit Sharma, Virat Kohli Urged To Delay Retirement! THIS Former Cricketer Makes A Bold Statement Before England Tour",
-            "link": "https://news24online.com/sports/rohit-sharma-virat-kohli-urged-to-delay-retirement-this-former-cricketer-makes-a-bold-statement-before-england-tour/566759/",
-            "keywords": [
-                "cricket",
-                "sports"
-            ],
-            "creator": [
-                "Aditya Mallick"
-            ],
-            "description": "Rohit Sharma and Virat Kohli are being urged to reconsider retirement, with calls to prioritize the team's needs first.The post Rohit Sharma, Virat Kohli Urged To Delay Retirement! THIS Former Cricketer Makes A Bold Statement Before England Tour appeared first on News24.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-20 11:09:00",
-            "pubDateTZ": "UTC",
-            "image_url": "https://news24online.com/wp-content/uploads/2025/05/Virat-Kohli-and-Rohit-Sharma-Photo-Credit-X-Platform-2.jpg",
-            "video_url": null,
-            "source_id": "news24online",
-            "source_name": "News 24",
-            "source_priority": 549589,
-            "source_url": "https://news24online.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/news24online.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "fab5aa01bb81550ee8d95f4debccffe6",
-            "title": "Deep ocean which is only 0.001% explored is facing various setbacks- know about the threats and solutions | – The Times of India",
-            "link": "https://en.news4social.com/deep-ocean-which-is-only-0-001-explored-is-facing-various-setbacks-know-about-the-threats-and-solutions-the-times-of-india/",
-            "keywords": [
-                "deep oceans",
-                "setbacks",
-                "threats to deep ocean",
-                "science news article",
-                "ocean pollution",
-                "deep",
-                "science news google",
-                "popular science",
-                "threats",
-                "science articles for students",
-                "solutions",
-                "science news",
-                "times",
-                "facing",
-                "science daily",
-                "science stories",
-                "science education",
-                "problems in deep oceans",
-                "opportunities for deep oceans",
-                "ocean",
-                "science news latest",
-                "science articles",
-                "threats to oeans",
-                "biodiversity in deep ocean",
-                "importance of deep oceans",
-                "explored",
-                "science day",
-                "deep ocean exploration",
-                "india",
-                "solutions to oceans threats",
-                "science"
-            ],
-            "creator": [
-                "Science Space Environment News"
-            ],
-            "description": "Deep ocean which is only 0.001% explored is facing various setbacks- know about the threats and solutions | – The Times of India The deep ocean which covers over 70% of the Earth’s surface, remains one of the most mysterious and unexplored areas of our planet. Despite its vastness and importance, only a mere 0.001% [...]",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-20 11:09:00",
-            "pubDateTZ": "UTC",
-            "image_url": "https://i2.wp.com/static.toiimg.com/thumb/msid-121291739,imgsize-26042,width-400,resizemode-4/Deep-ocean-which-is-only-0-001-explored-is-facing-various-setbacks-know-about-the-threats-and-solutions.jpg?resize=750%2C375&ssl=1&w=750",
-            "video_url": null,
-            "source_id": "news4social",
-            "source_name": "News4social",
-            "source_priority": 10742357,
-            "source_url": "https://en.news4social.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/news4social.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "997eec3b803ae0534286a9039e5aa222",
-            "title": "वट सावित्री व्रत 2025 के नियम, जानिए क्या करें और क्या नहीं",
-            "link": "https://hindi.webdunia.com/vat-savitri-vrat/vat-savitri-fast-rules-things-to-avoid-in-vat-savitri-vrat-125052000055_1.html",
-            "keywords": [
-                "vat savitri vrat"
-            ],
-            "creator": null,
-            "description": "vat savitri vrat niyam: भारत एक ऐसा देश है जहां हर पर्व अपने साथ केवल धार्मिक भावनाएं नहीं, बल्कि जीवन को संयम, अनुशासन और सकारात्मक ऊर्जा से भरने के संदेश भी लेकर आता है। ऐसा ही एक विशेष पर्व है वट सावित्री व्रत, जिसे विवाहित महिलाएं अपने पति की ...",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-20 11:09:00",
-            "pubDateTZ": "UTC",
-            "image_url": "https://wd-image.webdunia.com/image-conversion/process-aws.php?h=&outtype=webp&url=https%3A%2F%2Fnonprod-media.webdunia.com%2Fpublic_html%2F_media%2Fhi%2Fimg%2Farticle%2F2024-06%2F01%2Ffull%2F1717221735-99.jpg&w=",
-            "video_url": null,
-            "source_id": "webdunia",
-            "source_name": "हिन्दी समाचार",
-            "source_priority": 19669,
-            "source_url": "https://webdunia.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/webdunia.jpg",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "other"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "f3aa6d936a6c313b10436dcd1e914161",
-            "title": "Kaka to reunite with Carlo Ancelotti? Ballon d’Or winner ‘ready’ to join Brazil’s coaching staff",
-            "link": "https://www.news9live.com/sports/football/kaka-to-reunite-with-carlo-ancelotti-ballon-dor-winner-ready-to-join-brazils-coaching-staff-2855429",
-            "keywords": [
-                "football"
-            ],
-            "creator": [
-                "Abhishek Kumar"
-            ],
-            "description": "Brazil legend Ricardo Kaka is eager to join Carlo Ancelotti’s backroom staff for the Brazil national team as he prepares for a new spell in coaching. Kaka said he feels he is ready to make a comeback for Brazil.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-20 11:09:00",
-            "pubDateTZ": "UTC",
-            "image_url": "https://images.news9live.com/wp-content/uploads/2025/05/Kaka-Brazil-Ancelotti.png",
-            "video_url": null,
-            "source_id": "news9live",
-            "source_name": "News9live",
-            "source_priority": 193096,
-            "source_url": "https://www.news9live.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/news9live.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "7766a12cb70f5ec39da6b40e11a928df",
-            "title": "Deep ocean which is only 0.001% explored is facing various setbacks- know about the threats and solutions - Times of India",
-            "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNbjhPRTZHaTJfMjJvMWJ2MDVzU3pNVEZPLXk1OVZjTDBuN1lEOWhFaHpEc256c0dPRnpfdURCZERhQm10ZTk2ZHJTcDk1ZTBOd1JBRWtTbHA2cEg0NjVwWHZJRGZKX0tYZTBQbjJVOTYya1Byb3dQVjZIRHFTUXg1dHVNbGg3WVFqdUZDVzhaYlMxMEdTZlZYWHNuZkJOOW9qUklDOHd6dHV6MEhZTXY1dmhvSlJqT0JyMFF2UGVfZDNiZ2RCQzVhQmJseGZhVWYwamFUbFdTcjVGQ3I5TUtBOWVRTjZHYndGa0ExT0h0ajFUeTFkTmhTYXRlY21Fc0dTQzRF0gGIAkFVX3lxTE9VZVNOY0M2V0xyS1hyWWhSbkx5M0RjaGwyRXVfR0RTYkRPVktyelZPaDlFaXYxT3pSb2ZMdWR2aVk3TS1VRy1jOHlyeEk0RHlwZHQxOVNMSllxQTlMTWpTTmJXekFReFFOMkJ4amNyYU4wNGpnY1BTelN5X1ozN0JVSUZQV3NMWlVZUHpaWEZMelBiaFhOc2FTejIzMHdOdmYtTDU3ZDNVR3FiS0FhVklLRGlYX0dIdW5RZEVxaDVvZWlnRU1FZEJLbllaSHlaeHUxUElGbWNNbS1lLUpUNFBqbUNmVzhYU0dlQVlwczZYTEM1LXRMVHRGQnUyVFBMR20xRTEyckJkNQ?oc=5",
-            "keywords": null,
-            "creator": null,
-            "description": "Deep ocean which is only 0.001% explored is facing various setbacks- know about the threats and solutions Times of IndiaOnly 0.001% of the ocean has been explored by humans — What lies hidden in Earth's deep oceans? Moneycontrol'Only 0.001% explored': The deep ocean secret we are ignoring at our own risk Business Today99.999% of earth’s deep seafloor yet to be observed The HinduOnly 0.001% Of The Ocean Explored, 99.999% Still Untouched — What Secrets Lie In The Deep Oceans? Newsx",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-20 11:09:00",
-            "pubDateTZ": "UTC",
-            "image_url": null,
-            "video_url": null,
-            "source_id": "google",
-            "source_name": "Google News",
-            "source_priority": 14,
-            "source_url": "https://news.google.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/google.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "science"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "66e91a437e15926af95f13ec02d3067e",
-            "title": "Is NextEra Energy the Smartest Investment You Can Make Today?",
-            "link": "https://finance.yahoo.com/news/nextera-energy-smartest-investment-today-110900997.html",
-            "keywords": null,
-            "creator": [
-                "Motley Fool"
-            ],
-            "description": null,
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-20 11:09:00",
-            "pubDateTZ": "UTC",
-            "image_url": null,
-            "video_url": null,
-            "source_id": "yahoo",
-            "source_name": "Yahoo! News",
-            "source_priority": 17,
-            "source_url": "https://news.yahoo.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/yahoo.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "business"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "e9160bf7596a62b5f91936588e6dc729",
-            "title": "Yograj Singh Urges Rohit, Kohli To Revoke Test Retirement And Save Indian Cricket",
-            "link": "https://zeenews.india.com/cricket/yograj-singh-urges-rohit-kohli-to-revoke-test-retirement-and-save-indian-cricket-2903667.html",
-            "keywords": null,
-            "creator": [
-                "Zee News"
-            ],
-            "description": "Former cricketer Yograj Singh urged Rohit Sharma and Virat Kohli to revoke their Test retirements to save Indian red-ball cricket, calling it a national duty. He believes both still have years left and should reconsider their decisions.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-20 11:09:00",
-            "pubDateTZ": "UTC",
-            "image_url": "https://english.cdn.zeenews.com/sites/default/files/styles/zm_700x400/public/2025/05/20/1752720-yograjrohitkohli.png?im=Resize%3D%28400%29",
-            "video_url": null,
-            "source_id": "zeenews",
-            "source_name": "Zee News",
-            "source_priority": 5319,
-            "source_url": "http://zeenews.india.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/zeenews.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "sports"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "15e345e54b54d669087eb48d95367912",
-            "title": "ब्रिटेन और EU के बीच नया समझौता",
-            "link": "https://jantaserishta.com/world/new-agreement-between-britain-and-eu-4025388",
-            "keywords": [
-                "विश्व"
-            ],
-            "creator": [
-                "Riyaz Ansari"
-            ],
-            "description": null,
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-20 11:08:58",
-            "pubDateTZ": "UTC",
-            "image_url": "https://jantaserishta.com/h-upload/2025/05/20/4608445-uk.webp",
-            "video_url": null,
-            "source_id": "jantaserishta",
-            "source_name": "Janta Se Rishta",
-            "source_priority": 81836,
-            "source_url": "https://jantaserishta.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/jantaserishta.jpg",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "world"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "9e3a2a85ceb6129226fe45ef7f41a9c2",
-            "title": "ज्योति मल्होत्रा की ISI हैंडलर से Whatsapp चैट, 'प्रोटोकॉल' और 'अंडरकवर एजेंट' जैसे शब्दों से गहराया था शक",
-            "link": "https://www.aajtak.in/india/news/story/jyoti-malhotra-haryana-youtuber-news-pakistan-isi-agent-spy-lclnt-rptc-2244775-2025-05-20",
-            "keywords": null,
-            "creator": null,
-            "description": "Jyoti Malhotra Youtuber: हरियाणा की यूट्यूबर ज्योति मल्होत्रा पर पाकिस्तान की खुफिया एजेंसी ISI के लिए भारतीय गुप्त एजेंटों की पहचान करने में मदद करने का आरोप है. व्हाट्सएप चैट में कोडवर्ड्स और संदिग्ध बातचीत सामने आई है. NIA, IB और हरियाणा पुलिस संयुक्त रूप से पूछताछ कर रही हैं.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-20 11:08:56",
-            "pubDateTZ": "UTC",
-            "image_url": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202505/682c649a2b32d-jyoti-malhotra-youtuber-201636250-16x9.png",
-            "video_url": null,
-            "source_id": "aajtak",
-            "source_name": "Aaj Tak",
-            "source_priority": 20158,
-            "source_url": "http://aajtak.in",
-            "source_icon": "https://i.bytvi.com/domain_icons/aajtak.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "2e64296964f07c521f71050b6fb68a4c",
-            "title": "Five siblings pool funds to build village road in Chatra",
-            "link": "https://timesofindia.indiatimes.com/city/ranchi/five-siblings-pool-funds-to-build-village-road-in-chatra/articleshow/121291686.cms",
-            "keywords": null,
-            "creator": null,
-            "description": null,
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-20 11:08:56",
-            "pubDateTZ": "UTC",
-            "image_url": "https://static.toiimg.com/thumb/msid-121291681,width-1070,height-580,imgsize-113662,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-            "video_url": null,
-            "source_id": "toi",
-            "source_name": "The Times Of India",
-            "source_priority": 239,
-            "source_url": "https://timesofindia.indiatimes.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/toi.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top",
-                "world"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "ae11e7a3ad1752869de2fe8aa0c15a16",
-            "title": "What does the Meteor Shower do in Grow a Garden?",
-            "link": "https://www.sportskeeda.com/roblox-news/what-meteor-shower-grow-garden",
-            "keywords": [
-                "roblox"
-            ],
-            "creator": [
-                "Aniket"
-            ],
-            "description": "In Grow a Garden, each weather plays an important role, as it affects your crops with certain mutations.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-20 11:08:54",
-            "pubDateTZ": "UTC",
-            "image_url": "https://staticc.sportskeeda.com/editor/2025/05/5bbd6-17477401348331-1920.jpg",
-            "video_url": null,
-            "source_id": "sportskeeda",
-            "source_name": "Sportskeeda",
-            "source_priority": 172,
-            "source_url": "http://sportskeeda.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/sportskeeda.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "sports"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "7df068b82a0d4a1d793fd63513ad6e8b",
-            "title": "कमर की नस चढ़ जाए तो क्या करें? एक्सपर्ट ने बताए 3 आसान व्यायाम जो तुरंत देंगे राहत",
-            "link": "https://zeenews.india.com/hindi/health/back-muscle-cramp-veins-of-back-swell-up-while-sleeping-at-night-these-3-exercises-will-give-instant-relief/2766054",
-            "keywords": null,
-            "creator": [
-                "Zee News हिन्दी",
-                "Zee News Hindi"
-            ],
-            "description": "आजकल कमर दर्द की समस्या केवल बुजुर्गों तक सीमित नहीं रही. ऑफिस में लंबे समय तक कुर्सी पर बैठने वाले युवा, घरेलू काम में लगातार झुके रहने वाली महिलाएं या अचानक वर्कआउट शुरू करने वाले लोग भी इसकी चपेट में आ जाते हैं.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-20 11:08:54",
-            "pubDateTZ": "UTC",
-            "image_url": "https://hindi.cdn.zeenews.com/hindi/sites/default/files/2025/05/20/3924822-back-pain.jpg?im=FitAndFill%3D%28600%2C315%29",
-            "video_url": null,
-            "source_id": "zeenews",
-            "source_name": "Zee News",
-            "source_priority": 5319,
-            "source_url": "http://zeenews.india.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/zeenews.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "health"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "d3974c3b501ad2930a0ebda828729002",
-            "title": "IB Chief Tapan Deka Gets One-Year Extension Till June 2026",
-            "link": "https://www.deccanchronicle.com/nation/ib-chief-tapan-deka-gets-one-year-extension-till-june-2026-1880074",
-            "keywords": [
-                "nation,news"
-            ],
-            "creator": [
-                "Nihad Amani"
-            ],
-            "description": "Cabinet panel approves continued tenure of the 1988-batch Himachal cadre IPS officer",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-20 11:08:46",
-            "pubDateTZ": "UTC",
-            "image_url": "https://www.deccanchronicle.com/h-upload/2025/05/20/1919700-tapan.jpg",
-            "video_url": null,
-            "source_id": "andhrabhoomi",
-            "source_name": "Andhrabhoomi",
-            "source_priority": 4054772,
-            "source_url": "http://www.andhrabhoomi.net",
-            "source_icon": null,
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "2d09f7e7ef459b410c64c6a52e219add",
-            "title": "पीलीभीत में अपहरण और लूट का खुलासा:पीड़ित से 60 हजार रुपए लूटने वाले 5 आरोपी गिरफ्तार, कार और तमंचा बरामद",
-            "link": "https://www.bhaskar.com/local/uttar-pradesh/pilibhit/news/kidnapping-and-robbery-exposed-in-pilibhit-135065272.html",
-            "keywords": null,
-            "creator": null,
-            "description": "पीलीभीत में पुलिस ने अपहरण और लूट के एक मामले का खुलासा किया है। थाना बरखेड़ा पुलिस ने पांच आरोपियों को गिरफ्तार कर लिया है। एक आरोपी अभी भी फरार है। मामला 12 मई का है। आरोपी आकाश ने पीड़ित अनिल कुमार से 20 हजार रुपए की मांग की। मना करने पर धमकी दी। अगले दिन सुबह 5:30 बजे जब अनिल मुडिया हुलास जा रहे थे, तब एक सफेद कार में सवार चार लोगों ने उनका अपहरण कर लिया। आरोपियों ने अनिल की कनपटी पर तमंचा रखकर उनसे पैसे की मांग की। जेब से 6 हजार रुपए निकाल लिए। फोन छीनकर फोन-पे से 40 हजार रुपए ट्रांसफर करा लिए। इसके अलावा आकाश गंगवार के खाते में 14 हजार रुपए भी ट्रांसफर कराए। एक देसी तमंचा बरामद किया गया पुलिस ने 19 मई को पांच आरोपियों को गिरफ्तार किया। इनमें लोकेश शर्मा, आकाश गंगवार, दूसरा आकाश गंगवार, अनिल और अभिषेक पाठक शामिल हैं। इनसे 40 हजार रुपए नगद, खाते में जमा 4,135 रुपए, इर्टिगा कार, तीन मोबाइल और एक देसी तमंचा बरामद किया गया है। तमंचे के साथ दो जिंदा कारतूस भी मिले हैं। आरोपियों को ग्राम पतरासा कुवंरपुर के पास से रात करीब 11:40 बजे पकड़ा गया। एक आरोपी आकाश की तलाश जारी है। सोमवार को बरखेड़ा पुलिस ने सभी आरोपियों को न्यायालय के समक्ष पेश किया है। पूरे मामले की जानकारी थाना अध्यक्ष प्रदीप कुमार विश्नोई ने दी है।",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-20 11:08:43",
-            "pubDateTZ": "UTC",
-            "image_url": "https://images.bhaskarassets.com/thumb/1000x1000/web2images/521/2025/05/20/38fac65e-45b0-448d-bc60-5335a069b238_1747738873172.jpg",
-            "video_url": null,
-            "source_id": "bhaskar_hindi",
-            "source_name": "Bhaskar",
-            "source_priority": 34179,
-            "source_url": "https://www.bhaskar.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/bhaskar_hindi.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top",
-                "domestic"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "750972ee48dbead5373ef23c6735aa4b",
-            "title": "Affiniti’s 20- and 22-year-old founders raise $17M led by SignalFire just 6 months after an $11M seed",
-            "link": "https://startupnews.fyi/2025/05/20/affinitis-20-and-22-year-old-founders-raise-17m-led-by-signalfire-just-6-months-after-an-11m-seed/",
-            "keywords": [
-                "funding",
-                "world news"
-            ],
-            "creator": [
-                "Techcrunch"
-            ],
-            "description": "Affiniti founders Aaron Bai, 20, and Sahil Phadnis, 22, are building the kind of expense management software for main street small businesses that tech startups have enjoyed for years. Their growth has been so impressive that six months after raising an $11 million seed round, they raised a $17 million Series A, led by Signal [...]",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-20 11:08:41",
-            "pubDateTZ": "UTC",
-            "image_url": "https://startupnews.fyi/wp-content/uploads/2025/05/Affiniti-2025-Founder-Headshot.png",
-            "video_url": null,
-            "source_id": "startupnews",
-            "source_name": "Startupnews",
-            "source_priority": 449974,
-            "source_url": "https://startupnews.fyi",
-            "source_icon": "https://i.bytvi.com/domain_icons/startupnews.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "95572eb51c4c8d38f0d9171472608d26",
-            "title": "Panthera Resources files $1.58bn damage claim against India over Bhukia project",
-            "link": "https://finance.yahoo.com/news/panthera-resources-files-1-58bn-110839508.html",
-            "keywords": null,
-            "creator": [
-                "Mining Technology"
-            ],
-            "description": null,
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-20 11:08:39",
-            "pubDateTZ": "UTC",
-            "image_url": null,
-            "video_url": null,
-            "source_id": "yahoo",
-            "source_name": "Yahoo! News",
-            "source_priority": 17,
-            "source_url": "https://news.yahoo.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/yahoo.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "business"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": true
-        },
-        {
-            "article_id": "cd2b845081946814b8a20cf9924de52d",
-            "title": "Rs 5000 में खरीदें 7000mAh की बैटरी वाला Oppo K13 5G, जाने कहां चल रही तगड़ी डील",
-            "link": "https://www.prabhatkhabar.com/technology/buy-oppo-k13-5g-at-just-rs-5000-from-flipkart",
-            "keywords": [
-                "technology",
-                "flipkart sale",
-                "technology news",
-                "oppo",
-                "flipkart"
-            ],
-            "creator": [
-                "Shivani Shah"
-            ],
-            "description": "ई-कॉमर्स शॉपिंग साइट फ्लिपकार्ट पर Oppo K13 5G के 8GB+128GB वेरिएंट पर धमाकेदार डील चल रही है. आप इस फोन को एक्सचेंज ऑफर के तहत सिर्फ 5000 हजार रुपये में खरीद सकते हैं. चेक करें कैसे उठा सकते हैं इस ऑफर का फायदा. The post Rs 5000 में खरीदें 7000mAh की बैटरी वाला Oppo K13 5G, जाने कहां चल रही तगड़ी डील appeared first on Prabhat Khabar.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-20 11:08:37",
-            "pubDateTZ": "UTC",
-            "image_url": "https://www.prabhatkhabar.com/wp-content/uploads/2025/04/oppo-sale.jpg",
-            "video_url": null,
-            "source_id": "prabhatkhabar",
-            "source_name": "Prabhat Khabar",
-            "source_priority": 343253,
-            "source_url": "https://www.prabhatkhabar.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/prabhatkhabar.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "51637ce4786defb1b3a8edc78eec7cc5",
-            "title": "Ashoka University prof Ali Khan sent to judicial custody over post on Op Sindoor",
-            "link": "https://timesofindia.indiatimes.com/india/ashoka-university-professor-ali-khan-mahmoodabad-sent-to-judicial-custody-over-post-on-operation-sindoor/articleshow/121291625.cms",
-            "keywords": null,
-            "creator": [
-                "TOI NEWS DESK"
-            ],
-            "description": null,
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-20 11:08:37",
-            "pubDateTZ": "UTC",
-            "image_url": "https://static.toiimg.com/thumb/msid-121291639,width-1070,height-580,imgsize-30142,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-            "video_url": null,
-            "source_id": "toi",
-            "source_name": "The Times Of India",
-            "source_priority": 239,
-            "source_url": "https://timesofindia.indiatimes.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/toi.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "7ed43c9b19827f18ede668cd7681455f",
-            "title": "Biden has cancer. The Democrat Party is a cancer",
-            "link": "https://www.washingtontimes.com/news/2025/may/20/joe-biden-cancer-democrat-party-cancer/",
-            "keywords": null,
-            "creator": [
-                "Cheryl K. Chumley"
-            ],
-            "description": "Former President Joseph R. Biden has a prostate cancer that is so advanced that it's impossible to believe he didn't know he had it while president; his wife didn't know he had it while president; and those who surrounded him in the medical world, in the Democrat Party, in the White House didn't know he had it while president.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-20 11:08:35",
-            "pubDateTZ": "UTC",
-            "image_url": "https://twt-thumbs.washtimes.com/media/image/2025/04/15/Biden_Chicago_11565_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c=",
-            "video_url": null,
-            "source_id": "washingtontimes",
-            "source_name": "The Washington Times",
-            "source_priority": 9784,
-            "source_url": "https://www.washingtontimes.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/washingtontimes.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "politics"
             ],
             "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
             "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
