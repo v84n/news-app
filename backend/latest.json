@@ -1,6 +1,737 @@
 {
     "articles": [
         {
+            "article_id": "e7846bccd4e6dba140acffa980605a10",
+            "title": "OpenAI buys Jony Ive's hardware startup, names him creative head",
+            "link": "https://www.channelnewsasia.com/business/openai-buys-jony-ives-hardware-startup-names-him-creative-head-5145221",
+            "keywords": [
+                "business"
+            ],
+            "creator": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-21 17:11:00",
+            "pubDateTZ": "UTC",
+            "image_url": "https://dam.mediacorp.sg/image/upload/s--Sk1cymAQ--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2025-05-21t171100z_1_lynxmpel4k0xi_rtroptp_3_openai-data-center.jpg?itok=L9Yw2dzq",
+            "video_url": null,
+            "source_id": "channelnewsasia",
+            "source_name": "Channel Newsasia",
+            "source_priority": 4142,
+            "source_url": "https://www.channelnewsasia.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/channelnewsasia.jpg",
+            "language": "english",
+            "country": [
+                "singapore",
+                "georgia",
+                "yemen",
+                "afghanistan",
+                "cyprus",
+                "india",
+                "saudi arabia",
+                "maldives",
+                "japan",
+                "united arab emirates",
+                "malaysia",
+                "china",
+                "south korea",
+                "north korea",
+                "taiwan",
+                "thailand",
+                "pakistan",
+                "mongolia",
+                "brunei",
+                "lebanon",
+                "indonesia",
+                "kyrgyzstan",
+                "syria",
+                "israel",
+                "bhutan",
+                "iran",
+                "turkey",
+                "armenia",
+                "qatar",
+                "philippines",
+                "hong kong",
+                "kazakhstan",
+                "iraq",
+                "bangladesh",
+                "laos",
+                "vietnam",
+                "timor-leste",
+                "kuwait",
+                "myanmar",
+                "azerbaijan",
+                "jordan",
+                "nepal",
+                "oman",
+                "sri lanka",
+                "uzbekistan",
+                "turkmenistan",
+                "macau",
+                "bahrain",
+                "cambodia",
+                "tajikistan"
+            ],
+            "category": [
+                "business"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "6e8b7539326196261b8b514a23531a4d",
+            "title": "OpenAI buys iPhone designer Ive's hardware startup, names him creative head",
+            "link": "https://www.channelnewsasia.com/business/openai-buys-iphone-designer-ives-hardware-startup-names-him-creative-head-5145221",
+            "keywords": [
+                "business"
+            ],
+            "creator": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-21 17:11:00",
+            "pubDateTZ": "UTC",
+            "image_url": "https://dam.mediacorp.sg/image/upload/s--i1YFGBhB--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2025-05-21t173725z_2_lynxmpel4k0xi_rtroptp_3_openai-data-center.jpg?itok=rXTWaCSB",
+            "video_url": null,
+            "source_id": "channelnewsasia",
+            "source_name": "Channel Newsasia",
+            "source_priority": 4142,
+            "source_url": "https://www.channelnewsasia.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/channelnewsasia.jpg",
+            "language": "english",
+            "country": [
+                "singapore",
+                "georgia",
+                "yemen",
+                "afghanistan",
+                "cyprus",
+                "india",
+                "saudi arabia",
+                "maldives",
+                "japan",
+                "united arab emirates",
+                "malaysia",
+                "china",
+                "south korea",
+                "north korea",
+                "taiwan",
+                "thailand",
+                "pakistan",
+                "mongolia",
+                "brunei",
+                "lebanon",
+                "indonesia",
+                "kyrgyzstan",
+                "syria",
+                "israel",
+                "bhutan",
+                "iran",
+                "turkey",
+                "armenia",
+                "qatar",
+                "philippines",
+                "hong kong",
+                "kazakhstan",
+                "iraq",
+                "bangladesh",
+                "laos",
+                "vietnam",
+                "timor-leste",
+                "kuwait",
+                "myanmar",
+                "azerbaijan",
+                "jordan",
+                "nepal",
+                "oman",
+                "sri lanka",
+                "uzbekistan",
+                "turkmenistan",
+                "macau",
+                "bahrain",
+                "cambodia",
+                "tajikistan"
+            ],
+            "category": [
+                "business"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "640a1593dd8b0b5c79665c3b60b26623",
+            "title": "दिल्ली-एनसीआर में बदला मौसम; धूल भरी आंधी, ओलावृष्टि और बारिश से मची अफरा-तफरी, उड़ानें लेट, मेट्रो सेवा बाधित",
+            "link": "https://hindi.latestly.com/india/delhi-ncr-weather-dust-storm-hail-and-rain-disrupt-flights-and-metro-services-2625191.html",
+            "keywords": null,
+            "creator": null,
+            "description": "गर्मी और उमस से बेहाल दिल्ली-एनसीआर में बुधवार की शाम अचानक मौसम बदल गया, जब तेज धूल भरी आंधी, भारी बारिश और ओलावृष्टि ने राजधानी और आसपास के इलाकों को घेर लिया.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-21 17:10:54",
+            "pubDateTZ": "UTC",
+            "image_url": "https://hist1.latestly.com/wp-content/uploads/2025/05/strom-380x214.jpg",
+            "video_url": null,
+            "source_id": "latestly",
+            "source_name": "Latestly",
+            "source_priority": 31923,
+            "source_url": "https://www.latestly.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/latestly.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "c9b8d659caaef0d14a2f5fcfa54e032c",
+            "title": "Tata Sons Chairman meets UP CM, discusses investment, industrial growth",
+            "link": "https://www.business-standard.com/companies/news/tata-sons-chairman-meets-up-cm-discusses-investment-industrial-growth-125052102015_1.html",
+            "keywords": null,
+            "creator": null,
+            "description": "Tata Sons Chairman N Chandrasekaran on Wednesday paid a courtesy visit to Uttar Pradesh Chief Minister Yogi Adityanath in Lucknow on Wednesday, according to an official statement.The meeting centred around industrial development, investment promotion, and future strategies for the state, with detailed discussions on positioning UP as an ideal destination for domestic and international investors, as per the government statement.A key focus was the progress of the proposed \"Temple Architecture Museum\" project in Ayodhya, envisioned to preserve the state's religious and cultural heritage while significantly boosting tourism, it stated.\"The discussion also covered the Jewar Airport project, which is expected to bring transformative economic and commercial growth to Uttar Pradesh. Additionally, talks were held regarding the potential establishment of an MRO (Maintenance, Repair, and Overhauling) facility for Air India, which would enhance the state's aviation services sector and ...",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-21 17:10:53",
+            "pubDateTZ": "UTC",
+            "image_url": "https://bsmedia.business-standard.com/_media/bs/img/article/2025-02/25/thumb/fitandfill/1200X630/1740478440-8461.jpg",
+            "video_url": null,
+            "source_id": "business-standard",
+            "source_name": "Business Standard",
+            "source_priority": 9158,
+            "source_url": "https://www.business-standard.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/business-standard.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "business"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": true
+        },
+        {
+            "article_id": "5c5307a75c01a0190aea99611ff7c349",
+            "title": "उत्तराखंड: द्वितीय केदार श्री मद्महेश्वर मंदिर के कपाट श्रद्धालुओं के लिए खुले, सीएम धामी ने दी शुभकामनाएं",
+            "link": "https://navbharattimes.indiatimes.com/state/uttarakhand/dehradun/second-kedarnath-shri-madmaheshwar-mandir-door-opened-for-devotees-cm-dhami-wished-uttarakhand-people/articleshow/121321615.cms",
+            "keywords": null,
+            "creator": null,
+            "description": "आज कर्क लग्न में विधि-विधान के साथ द्वितीय केदार श्री मद्महेश्वर मंदिर के कपाट श्रद्धालुओं के लिए खोल दिए गए। इस शुभ अवसर पर तीन सौ से अधिक तीर्थयात्री और स्थानीय श्रद्धालु उपस्थित थे। मुख्यमंत्री पुष्कर सिंह धामी ने इस अवसर पर शुभकामनाएं दीं।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-21 17:10:52",
+            "pubDateTZ": "UTC",
+            "image_url": "https://navbharattimes.indiatimes.com/thumb/121321915/second-kedarnath-shri-madmaheshwar-mandir-door-opened-121321915.jpg?height=900&imgsize-180016=&resizemode=75&width=1600",
+            "video_url": null,
+            "source_id": "navbharattimes",
+            "source_name": "Nbt Navbharattimes",
+            "source_priority": 244,
+            "source_url": "https://navbharattimes.indiatimes.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/navbharattimes.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "eadd76786fc3f7c888c5e8d0365f885f",
+            "title": "पाक का नापाक चेहरा होगा बेनकाब, 33 देशों के आगे खुलेगी पोल; डेलिगेशन विदेश रवाना",
+            "link": "https://www.jagran.com/news/national-operation-sindoor-outreach-begins-mps-delegation-begin-journey-to-japan-uae-take-india-message-23943536.html",
+            "keywords": null,
+            "creator": null,
+            "description": "आतंकवाद के खिलाफ भारत की नीति को विश्व स्तर पर प्रस्तुत करने और पाकिस्तान के आतंकी चेहरे को बेनकाब करने के लिए दो सर्वदलीय प्रतिनिधिमंडल जापान और यूएई के लिए रवाना हुए हैं। सांसद विभिन्न देशों के सरकारी प्रतिनिधियों थिंक टैंकों से मिलकर उन्हें पाकिस्तान के आतंकी चेहरे की हकीकत बताएंगे जिसमें ऑपरेशन सिंदूर भी शामिल है।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-21 17:10:45",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.jagranimages.com/images/newimg/21052025/21_05_2025-mp_delegation_pakistan_23943536_m.webp",
+            "video_url": null,
+            "source_id": "jagran",
+            "source_name": "Jagran",
+            "source_priority": 6734,
+            "source_url": "https://www.jagran.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/jagran.jpg",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "world"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "9d2735e88a97dc9efb17f2efe45aa6fe",
+            "title": "Assam Rifles DG honours 105-year-old Gallantry awardee in Nagaland visit",
+            "link": "https://www.indiatodayne.in/nagaland/story/assam-rifles-dg-honours-105-year-old-gallantry-awardee-in-nagaland-visit-1217285-2025-05-21",
+            "keywords": null,
+            "creator": null,
+            "description": "Assam Rifles DG honours 105-year-old veteran Havildar Mering Ao in Nagaland. The meeting celebrated his bravery and lifelong service to the nation.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-21 17:10:43",
+            "pubDateTZ": "UTC",
+            "image_url": "https://cf-img-a-in.tosshub.com/lingo/itne/images/story/202505/682e08814a824-assam-rifles-dg-honours-105-year-old-gallantry-awardee-in-nagaland-visit-210811467-16x9.jpg?size=948%3A533",
+            "video_url": null,
+            "source_id": "indiatodayne",
+            "source_name": "Indiatoday Ne",
+            "source_priority": 319419,
+            "source_url": "https://www.indiatodayne.in",
+            "source_icon": "https://i.bytvi.com/domain_icons/indiatodayne.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "6ac2b7331d047b9b035285544c81092d",
+            "title": "ED Raids on Educational Institutions Linked to Karnataka Home Minister G Parameshwara, Congress Says 'Revenge Politics'",
+            "link": "https://www.timesnownews.com/india/ed-raids-on-educational-institutions-linked-to-karnataka-home-minister-g-parameshwara-congress-says-revenge-politics-article-151691707",
+            "keywords": null,
+            "creator": [
+                "Imran Khan"
+            ],
+            "description": "The ED action targeted the Siddhartha Education Institutions, including the Sri Siddhartha Institute of Technology (SSIT) and Siddhartha Medical College in Tumakuru.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-21 17:10:34",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.timesnownews.com/thumb/msid-151691742,thumbsize-654198,width-1280,height-720,resizemode-75/151691742.jpg",
+            "video_url": null,
+            "source_id": "timesnownews",
+            "source_name": "Times Now News",
+            "source_priority": 2243,
+            "source_url": "https://www.timesnownews.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/timesnownews.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "2e1a58c194198906393bdfe545aa78b5",
+            "title": "Political Tensions Erupt in Murshidabad: TMC and BJP Trade Accusations",
+            "link": "https://www.devdiscourse.com/article/law-order/3420286-political-tensions-erupt-in-murshidabad-tmc-and-bjp-trade-accusations",
+            "keywords": null,
+            "creator": null,
+            "description": "Political Tensions Erupt in Murshidabad: TMC and BJP Trade Accusations In a heated political clash, the Trinamool Congress (TMC) alleged on Wednesday that an opposition party stirred violence in Murshidabad district on April 11. The accusations, though not directly naming the Bharatiya Janata Party (BJP), have fueled an ongoing political controversy.TMC state general secretary Kunal Ghosh claimed that the provocations came from the leaders of a political party, aiming to pit communities against each other for political gain. An investigative committee, led by the Calcutta High Court, reported on the violence stemming from protests against the Waqf (Amendment) Act.The BJP retaliated by accusing TMC of vote-bank politics, blaming them for igniting the riots. Amidst ongoing investigations and arrests, the situation remains tense as both parties hold peace rallies, all while tensions and political strategizing persist in the region.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-21 17:10:32",
+            "pubDateTZ": "UTC",
+            "image_url": "https://devdiscourse.blob.core.windows.net/aiimagegallery/24_04_2025_06_58_57_37479.png",
+            "video_url": null,
+            "source_id": "devdiscourse",
+            "source_name": "Devdiscourse",
+            "source_priority": 566021,
+            "source_url": "https://www.devdiscourse.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/devdiscourse.jpg",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "ef7937a917caefb4dbf57083f0b7c00f",
+            "title": "Cameroon Eyes International Markets for $348 Million Funding Boost",
+            "link": "https://www.devdiscourse.com/article/headlines/3420287-cameroon-eyes-international-markets-for-348-million-funding-boost",
+            "keywords": null,
+            "creator": null,
+            "description": "Cameroon Eyes International Markets for $348 Million Funding Boost Cameroon's finance minister is set to tap into international financial markets, seeking up to 200 billion CFA francs ($348 million) for the fiscal year 2025, as reported by a recent presidential decree.Kelly Mua Kingsly, head of Finance Operations at the Cameroon's Ministry of Finance, indicated that the government plans to explore various market instruments, with a focus on syndicated loans due to their rapid structuring and flexible drawdown features. He highlighted the potential of concessional and semi-concessional loans for budget support and mentioned they could also look into treasury bonds or bills via the Bank of Central African States (BEAC) market.Kingsly pointed out that Eurobonds are less appealing because of current high global interest rates and low sovereign credit ratings. The plan is aimed at addressing slow external funding disbursements and a lag in tax revenue collection, amidst the central bank's tight monetary policies to combat inflation and stabilize the CFA franc.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-21 17:10:32",
+            "pubDateTZ": "UTC",
+            "image_url": "https://devdiscourse.blob.core.windows.net/aiimagegallery/21_05_2025_17_10_32_0753961.png",
+            "video_url": null,
+            "source_id": "devdiscourse",
+            "source_name": "Devdiscourse",
+            "source_priority": 566021,
+            "source_url": "https://www.devdiscourse.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/devdiscourse.jpg",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "bf53c849e42a9b5fd9dc034314c8e100",
+            "title": "India News | TMC Blames Opposition Party for Murshidabad Violence",
+            "link": "https://www.latestly.com/agency-news/india-news-tmc-blames-opposition-party-for-murshidabad-violence-6872348.html",
+            "keywords": null,
+            "creator": null,
+            "description": "Get latest articles and stories on India at LatestLY. Without directly naming the BJP, Trinamool Congress on Wednesday alleged that an opposition party instigated violence in Murshidabad district on April 11.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-21 17:10:31",
+            "pubDateTZ": "UTC",
+            "image_url": "https://st1.latestly.com/wp-content/uploads/2018/03/default-img-01-784x441.jpg",
+            "video_url": null,
+            "source_id": "latestly",
+            "source_name": "Latestly",
+            "source_priority": 31923,
+            "source_url": "https://www.latestly.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/latestly.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "17092f5dc7bf842f97404b591397a935",
+            "title": "India expels another Pakistani High Commission official, asks him to leave country within 24 hours; second official in one week",
+            "link": "https://keralakaumudi.com/en/news/india/general/india-expels-another-pakistani-high-commission-official-asks-him-to-leave-country-within-24-hours-second-official-in-one-week-1538323",
+            "keywords": null,
+            "creator": null,
+            "description": "NEW DELHI: India has expelled another diplomat from the Pakistani High Commission. Action was taken against the official for not following diplomatic etiquette.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-21 17:10:30",
+            "pubDateTZ": "UTC",
+            "image_url": "https://keralakaumudi.com/web-news/en/2025/05/NMAN0589068/image/expels-.1.3282746.webp",
+            "video_url": null,
+            "source_id": "keralakaumudi",
+            "source_name": "Kerala Kaumudi Online",
+            "source_priority": 79921,
+            "source_url": "https://keralakaumudi.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/keralakaumudi.jpg",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "561ad548a99d5a15a8ca51e8488e7245",
+            "title": "Rs 35 lakh for appearing in night parties; Dragon actress Kayadu Lohar under scanner",
+            "link": "https://keralakaumudi.com/en/news/cinema/cine-news/rs-35-lakh-for-appearing-in-night-parties-dragon-actress-kayadu-lohar-under-scanner-1538358",
+            "keywords": null,
+            "creator": null,
+            "description": "Kayadu Lohar, the new crush of Tamil film industry is now under scanner.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-21 17:10:30",
+            "pubDateTZ": "UTC",
+            "image_url": "https://keralakaumudi.com/web-news/en/2025/05/NMAN0589075/image/thumb/kayadu-lohar-.1.3282818.webp",
+            "video_url": null,
+            "source_id": "keralakaumudi",
+            "source_name": "Kerala Kaumudi Online",
+            "source_priority": 79921,
+            "source_url": "https://keralakaumudi.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/keralakaumudi.jpg",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "72fc0c46e323d118b2f5fec4ebd8b4e6",
+            "title": "Masks to be mandatory again; Covid threat hits Kerala",
+            "link": "https://keralakaumudi.com/en/news/kerala/general/masks-to-be-mandatory-again-covid-threat-hits-kerala-1538343",
+            "keywords": null,
+            "creator": null,
+            "description": "THIRUVANANTHAPURAM: Health Minister Veena George warned about the rising COVID cases in Kerala after the disease made its way back to many South Asian countries.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-21 17:10:30",
+            "pubDateTZ": "UTC",
+            "image_url": "https://keralakaumudi.com/web-news/en/2025/05/NMAN0589072/image/thumb/covid-threat-kerala.1.3282782.webp",
+            "video_url": null,
+            "source_id": "keralakaumudi",
+            "source_name": "Kerala Kaumudi Online",
+            "source_priority": 79921,
+            "source_url": "https://keralakaumudi.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/keralakaumudi.jpg",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "c62a0ad0aca5d839914c6ec1b7c9f0bc",
+            "title": "Final notification out; 17337 more wards in Kerala; 1375 new wards",
+            "link": "https://keralakaumudi.com/en/news/kerala/general/final-notification-out-17337-more-wards-in-kerala-1375-new-wards-1538360",
+            "keywords": null,
+            "creator": null,
+            "description": "THIRUVANANTHAPURAM: 1375 new wards have been formed in 941 gram panchayats in Kerala. There were 15962 wards, which has increased to 17337.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-21 17:10:30",
+            "pubDateTZ": "UTC",
+            "image_url": "https://keralakaumudi.com/web-news/en/2025/05/NMAN0589078/image/kerala-ward-division.1.3282825.webp",
+            "video_url": null,
+            "source_id": "keralakaumudi",
+            "source_name": "Kerala Kaumudi Online",
+            "source_priority": 79921,
+            "source_url": "https://keralakaumudi.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/keralakaumudi.jpg",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "04e27225d18f1a7e2d7911bcd50eb0a9",
+            "title": "Sports News | KIBG 2025: Hosts Dadra and Nagar Haveli, Daman and Diu Lead Medal Tally, Courtesy to Pencak Silat",
+            "link": "https://www.latestly.com/agency-news/sports-news-kibg-2025-hosts-dadra-and-nagar-haveli-daman-and-diu-lead-medal-tally-courtesy-to-pencak-silat-6872347.html",
+            "keywords": null,
+            "creator": null,
+            "description": "Get latest articles and stories on Sports at LatestLY. With three gold medals, all from pencak silat, hosts Dadra & Nagar Haveli and Daman & Diu kept their nose ahead of Manipur, Maharashtra and Delhi in the medal standings of the Khelo India Beach Games here on Wednesday.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-21 17:10:24",
+            "pubDateTZ": "UTC",
+            "image_url": "https://st1.latestly.com/wp-content/uploads/2025/05/ANI-20250521164714-380x214.jpg",
+            "video_url": null,
+            "source_id": "latestly",
+            "source_name": "Latestly",
+            "source_priority": 31923,
+            "source_url": "https://www.latestly.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/latestly.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "5048d1f6f8c136d8de7974ee9286d23e",
+            "title": "India emerging as driving force for global oil demand growth: S&P Global",
+            "link": "https://www.livemint.com/industry/energy/india-takes-centre-stage-in-energy-markets-amid-shifting-oil-dynamics-accelerated-energy-transition-s-p-global-petro-11747840058778.html",
+            "keywords": null,
+            "creator": null,
+            "description": "India's petroleum product consumption in FY26 is seen hitting a new record for the third consecutive year. According to data from the Petroleum Planning and Analysis Cell, India's petroleum product consumption is projected to hit an all-time high of 252.9 million tonnes in the ongoing fiscal.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-21 17:10:22",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.livemint.com/lm-img/img/2025/05/21/1600x900/INDIA-REFINERY-24_1747845585782_1747845599707.jpg",
+            "video_url": null,
+            "source_id": "livemint",
+            "source_name": "Mint",
+            "source_priority": 7134,
+            "source_url": "https://www.livemint.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/livemint.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "business"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "b069e7e56aa264a042855c6060a5480d",
+            "title": "Pre-monsoon showers cause large-scale damage to power infrastructure",
+            "link": "https://www.thehindu.com/news/cities/bangalore/pre-monsoon-showers-cause-large-scale-damage-to-power-infrastructure/article69602068.ece",
+            "keywords": [
+                "bengaluru"
+            ],
+            "creator": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-21 17:10:18",
+            "pubDateTZ": "UTC",
+            "image_url": "https://th-i.thgim.com/public/incoming/l8q74j/article69603361.ece/alternates/LANDSCAPE_1200/rain_01.jpg",
+            "video_url": null,
+            "source_id": "thehindu",
+            "source_name": "The Hindu",
+            "source_priority": 2972,
+            "source_url": "https://www.thehindu.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/thehindu.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "4f47c5214653a18934ead983054f848d",
+            "title": "India News | Kharge, Rahul Making Wrong Statements Against Indian Interests over Operation Sindoor: Reddy",
+            "link": "https://www.latestly.com/agency-news/india-news-kharge-rahul-making-wrong-statements-against-indian-interests-over-operation-sindoor-reddy-6872346.html",
+            "keywords": null,
+            "creator": null,
+            "description": "Get latest articles and stories on India at LatestLY. Union Minister G. Kishan Reddy on Wednesday accused Congress president Mallikarjun Kharge and senior leader Rahul Gandhi of making wrong statements against Indian interests regarding 'Operation Sindoor', launched after the Pahalgam terror attack.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-21 17:10:18",
+            "pubDateTZ": "UTC",
+            "image_url": "https://st1.latestly.com/wp-content/uploads/2018/03/default-img-01-784x441.jpg",
+            "video_url": null,
+            "source_id": "latestly",
+            "source_name": "Latestly",
+            "source_priority": 31923,
+            "source_url": "https://www.latestly.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/latestly.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "4b5b38ede3fea4f0c04094df55865e38",
+            "title": "Madhubani News : मधुबनी में मासूम को मिला नया परिवार, दुबई से बच्चा गोद लेने पहुंचे दंपति",
+            "link": "https://www.prabhatkhabar.com/state/bihar/madhubani/a-new-family-found-for-the-innocent-madhubani",
+            "keywords": [
+                "madhubani news",
+                "मधुबनी"
+            ],
+            "creator": [
+                "GAJENDRA KUMAR"
+            ],
+            "description": "जिला प्रशासन द्वारा एक बच्ची के दत्तक ग्रहण की प्रक्रिया पूरी की गयी. प्रक्रिया पूरी करने के बाद डीएम अरविंद कुमार वर्मा ने अपने कार्यालय कक्ष में बच्ची को उसके नए परिवार को सौंप दियाThe post Madhubani News : मधुबनी में मासूम को मिला नया परिवार, दुबई से बच्चा गोद लेने पहुंचे दंपति appeared first on Prabhat Khabar.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-21 17:10:18",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.prabhatkhabar.com/wp-content/uploads/2025/05/file_2025-05-22T00-49-41-scaled.jpeg",
+            "video_url": null,
+            "source_id": "prabhatkhabar",
+            "source_name": "Prabhat Khabar",
+            "source_priority": 343253,
+            "source_url": "https://www.prabhatkhabar.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/prabhatkhabar.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
             "article_id": "8add92e478a759da5586a32b03bd7512",
             "title": "Google Marketing Live 2025: News and Updates - Google Blog",
             "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9SZ0ItYWJxM2o0M2VDdWN1Q0d4RmtMc29xRXdpTUFnSjNhakYtQnVwWGd5Y3E2b2FyMzlfajA5Znp3cm5mU05HV0VJbkpTRmlVT2pNT3JuNXV5WVFuWGF6ME8yUFVfVUJkcTFMVzQ0M040Z0Q4aTQ5Yg?oc=5",
@@ -23734,687 +24465,6 @@
                 "business",
                 "world",
                 "politics"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "aec5a8135c56d06895ee3bea07cb9478",
-            "title": "India Post GDS Result 2025: 3rd merit list released at official website",
-            "link": "https://www.business-standard.com/education/news/india-post-gds-result-2025-3rd-merit-list-released-at-official-website-nc-125052000294_1.html",
-            "keywords": null,
-            "creator": null,
-            "description": "India Post has released the 3rd merit list for online engagement of Gramik Dak Sevak 2025. Candidates can check the list on the official website of India Post at indiapostgdsonline.gov.in",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-20 05:08:57",
-            "pubDateTZ": "UTC",
-            "image_url": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1250520/thumb-125052000294.jpg",
-            "video_url": null,
-            "source_id": "business-standard",
-            "source_name": "Business Standard",
-            "source_priority": 9158,
-            "source_url": "https://www.business-standard.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/business-standard.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "science"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "cc7289238367d08b6ebc997750377000",
-            "title": "कोरबा में RPF का विशेष जांच अभियान:संदिग्ध व्यक्तियों से पूछताछ; वेटिंग एरिया, टिकट काउंटर, पार्सल और मालगाड़ियों की भी चेकिंग",
-            "link": "https://www.bhaskar.com/local/chhattisgarh/korba/news/rpfs-special-investigation-campaign-in-korba-135063443.html",
-            "keywords": null,
-            "creator": null,
-            "description": "भारत-पाकिस्तान के बीच तनाव के बाद छत्तीसगढ़ के रेलवे स्टेशनों पर सुरक्षा व्यवस्था कड़ी कर दी गई है। कोरबा जंक्शन पर आरपीएफ विशेष जांच अभियान चला रही है। स्टेशन परिसर, प्लेटफॉर्म, वेटिंग एरिया और टिकट काउंटर पर सघन जांच की जा रही है। यात्रियों के सामान की स्कैनिंग की जा रही है। संदिग्ध व्यक्तियों से पूछताछ की जा रही है। सुरक्षा को मजबूत बनाने के लिए स्थानीय पुलिस बल को भी तैनात किया गया है। चलती यात्री ट्रेनों में सुरक्षा बल लगातार जांच कर रहे हैं। पुलिस मादक पदार्थ, विस्फोटक, ज्वलनशील पदार्थ और अवैध सामान की जांच कर रही है। यात्रियों से अपील की गई है कि वे सतर्क रहें। स्टेशन या ट्रेन में कोई संदिग्ध वस्तु या गतिविधि दिखे तो तुरंत अधिकारियों को सूचित करें। रेलवे पुलिस की टीम रोज सभी ट्रेनों के डिब्बों और स्टेशन परिसर में जांच करती है। बाहर से आने वाले पार्सल और मालगाड़ियों की विशेष जांच की जा रही है। कोरबा पुलिस डॉग स्क्वायड की मदद से भी स्टेशन में पार्सल और अन्य जगहों की जांच कर रही है।",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-20 05:08:56",
-            "pubDateTZ": "UTC",
-            "image_url": "https://images.bhaskarassets.com/thumb/1000x1000/web2images/521/2025/05/20/30a40a55-a8d6-43a0-a49e-e6f1511ef0c7_1747664097344.jpg",
-            "video_url": null,
-            "source_id": "bhaskar_hindi",
-            "source_name": "Bhaskar",
-            "source_priority": 34179,
-            "source_url": "https://www.bhaskar.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/bhaskar_hindi.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "domestic",
-                "other"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "c57fc8ebd8445401dfb0ff8e77cd4537",
-            "title": "आंध्र में NH 44 पर कुत्ते से बचने की कोशिश में तीन लोगों की मौत",
-            "link": "https://jantaserishta.com/local/three-people-died-while-trying-to-escape-from-a-dog-on-nh-44-in-andhra-4024271",
-            "keywords": [
-                "राज्य"
-            ],
-            "creator": [
-                "Triveni"
-            ],
-            "description": null,
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-20 05:08:55",
-            "pubDateTZ": "UTC",
-            "image_url": "https://jantaserishta.com/h-upload/2025/05/20/4607196-1.webp",
-            "video_url": null,
-            "source_id": "jantaserishta",
-            "source_name": "Janta Se Rishta",
-            "source_priority": 81836,
-            "source_url": "https://jantaserishta.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/jantaserishta.jpg",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "260ac30b55188d4f6cd33d485a86dc16",
-            "title": "Madras HC Dismisses Plea to Access Frozen Savings Account, Cites Lack of Proof on Elderly Couple’s Mental Competence",
-            "link": "https://www.taxscan.in/madras-hc-dismisses-plea-to-access-frozen-savings-account-cites-lack-of-proof-on-elderly-couples-mental-competence/519500/",
-            "keywords": [
-                "other taxations",
-                "madras high court",
-                "top stories",
-                "headlines",
-                "medical examinations"
-            ],
-            "creator": [
-                "Rashida"
-            ],
-            "description": "The Madurai Bench of the Madras High Court has dismissed a writ petition filed by an elderly couple seeking access to funds held in a frozen savings account, citing the absence of verified proof regarding their mental competence. The petition was filed by Karunanathan and his wife Susila against Tamil Nadu Grama Bank, challenging a [...]",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-20 05:08:46",
-            "pubDateTZ": "UTC",
-            "image_url": "https://www.taxscan.in/wp-content/uploads/2025/05/notice-on-freezing-of-Bank-Account-freezing-of-Bank-Account-notice-Bank-Account-freezing-Madras-HC-orders-fresh-enquiry-Madras-High-Court-fresh-enquiry-Enquiry-Absence-of-Notice-Taxscan.jpg-110x80.webp",
-            "video_url": null,
-            "source_id": "taxscan",
-            "source_name": "Taxscan",
-            "source_priority": 4352762,
-            "source_url": "https://www.taxscan.in",
-            "source_icon": "https://i.bytvi.com/domain_icons/taxscan.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "d253bdfe8075bcf26211806936cce304",
-            "title": "Punjab & Haryana HC Orders Bail for Neeraj Saluja, Director of SEL Textiles in PMLA Case Over Delayed Trial [Read Order]",
-            "link": "https://www.taxscan.in/punjab-haryana-hc-orders-bail-for-neeraj-saluja-director-of-sel-textiles-in-pmla-case-over-delayed-trial/519513/",
-            "keywords": [
-                "supreme court",
-                "money laundering act",
-                "enforcement directorate (ed)",
-                "top stories",
-                "punjab and haryana high court",
-                "headlines",
-                "other taxations"
-            ],
-            "creator": [
-                "Rashida"
-            ],
-            "description": "The Punjab and Haryana High Court has granted regular bail to Neeraj Saluja, a director of SEL Textiles Limited, in connection with a money laundering case filed by the Enforcement Directorate. The Court cited prolonged incarceration, lack of trial progress, and a judicial stay on further proceedings arising from the predicate offence as key grounds [...]",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-20 05:08:43",
-            "pubDateTZ": "UTC",
-            "image_url": "https://www.taxscan.in/wp-content/uploads/2025/05/Neeraj-Saluja-110x80.jpg",
-            "video_url": null,
-            "source_id": "taxscan",
-            "source_name": "Taxscan",
-            "source_priority": 4352762,
-            "source_url": "https://www.taxscan.in",
-            "source_icon": "https://i.bytvi.com/domain_icons/taxscan.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "864cff5d6c6b17fefe2d6de665f006bd",
-            "title": "Breaking News: Pune Airport Hit by Severe Flooding After Just One Hour of Rain | ABP NEWS",
-            "link": "https://news.abplive.com/videos/news/india-breaking-news-pune-airport-hit-by-severe-flooding-after-just-one-hour-of-rain-abp-news-1773511",
-            "keywords": [
-                "india"
-            ],
-            "creator": [
-                "ABP News Bureau"
-            ],
-            "description": "Pune is facing severe flooding after just one hour of heavy rainfall. The situation became chaotic when water flooded the exit gates of Pune International Airport, making it difficult for vehicles to pass. In pictures shared from the scene, water is seen submerging the area around the exit gate, with the tires of cars completely submerged. The chamber near the gate was entirely submerged, causing major disruptions for travelers and vehicles attempting to exit the airport. Despite the heavy rainfall lasting only an hour, the impact was overwhelming, exposing the city's lack of preparedness for such situations. Passengers arriving at the airport in the morning were forced to navigate through waterlogged areas, highlighting gaps in infrastructure and drainage systems. The visuals show the full extent of the flooding, raising questions about the local administration's ability to handle such weather conditions. Efforts to address the situation are ongoing as authorities work to clear the water and restore normalcy.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-20 05:08:41",
-            "pubDateTZ": "UTC",
-            "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2025/05/20/07d98ff5e0f438a025e28aef11c317c71747717633906963_original.png",
-            "video_url": null,
-            "source_id": "abplive",
-            "source_name": "Abp News",
-            "source_priority": 7754,
-            "source_url": "http://abplive.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/abplive.jpg",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "e0c0f7ee7328ba4be4d972c66485a23e",
-            "title": "Kalpataru Projects, Galaxy Surfactants, Eris, Amber Enterprises, Repco, Neogen Q4 Review: HDFC Securities",
-            "link": "https://www.ndtvprofit.com/research-reports/kalpataru-projects-galaxy-surfactants-eris-amber-enterprises-repco-neogen-q4-review-hdfc-securities",
-            "keywords": [
-                "research reports"
-            ],
-            "creator": [
-                "HDFC Securities Institutional Equities"
-            ],
-            "description": "HDFC Securities recommends 'Buy' rating for Amber Enterprises, Eris Lifesciences, Kalpataru Projects, Galaxy Surfactants, Neogens Chemicals, 'Add' call for Repco Home Finance - here's why",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-20 05:08:40",
-            "pubDateTZ": "UTC",
-            "image_url": "https://media.assettype.com/bloombergquint%2F2024-09-30%2Fayzcbbbb%2Fcandle-stick-graph-charts-of-stock-market-2023-11-27-05-09-34-utc.jpg?auto=format%2Ccompress&ogImage=true&w=1200",
-            "video_url": null,
-            "source_id": "bloombergquint",
-            "source_name": "Bq Prime",
-            "source_priority": 9222807,
-            "source_url": "https://www.bloombergquint.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/bloombergquint.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "business"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "72b5c154a1c3fac375b562c0da3f1a93",
-            "title": "‘Calculated harassment’: Ashoka faculty slams professor's arrest, keep vigil at police station in shifts",
-            "link": "https://newsable.asianetnews.com/india/calculated-harassment-ashoka-faculty-slams-professor-arrest-keep-vigil-at-police-station-in-shifts-shk/articleshow-pwfl99n",
-            "keywords": [
-                "india"
-            ],
-            "creator": [
-                "Shweta Kumari"
-            ],
-            "description": "Colleagues of Professor Ali Khan Mahmudabad have been taking turns in \"rotating shifts\" to accompany him inside the lockup of Rai police station in Sonipat.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-20 05:08:38",
-            "pubDateTZ": "UTC",
-            "image_url": "https://static-gi.asianetnews.com/images/01jvkhtrecbzrng3r1rgxbt4e1/j2rqk7hv-1747634184652.jpg",
-            "video_url": null,
-            "source_id": "newsable_asianetnews",
-            "source_name": "Asianet Newsable",
-            "source_priority": 7749,
-            "source_url": "https://newsable.asianetnews.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/newsable_asianetnews.jpg",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "a54cc65ea29505debabf75f0e14cb4ac",
-            "title": "Delhi: Over 1.7 Lakh Pirated NCERT Textbooks Worth Over ₹2.4 Crore Seized In Major Crackdown; 3 Arrested",
-            "link": "https://www.freepressjournal.in/education/delhi-over-17-lakh-pirated-ncert-textbooks-worth-over-24-crore-seized-in-major-crackdown-3-arrested",
-            "keywords": [
-                "education",
-                "fpj shorts",
-                "topnews"
-            ],
-            "creator": null,
-            "description": null,
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-20 05:08:32",
-            "pubDateTZ": "UTC",
-            "image_url": "https://media.assettype.com/freepressjournal/2023-03/8c992970-dbac-4927-9256-1437a5328ccf/istockphoto_1289741384_612x612.jpg",
-            "video_url": null,
-            "source_id": "freepressjournal",
-            "source_name": "The Free Press Journal",
-            "source_priority": 26427,
-            "source_url": "https://www.freepressjournal.in",
-            "source_icon": "https://i.bytvi.com/domain_icons/freepressjournal.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "3dda365f3d82f72f933d7b869a33a95f",
-            "title": "'Will Come Naked...': Nana Patekar Begged Amol Palekar After Rejection For Hitting A Director",
-            "link": "https://www.news18.com/movies/when-nana-patekar-begged-amol-palekar-after-being-rejected-for-hitting-a-director-ws-l-9344150.html",
-            "keywords": [
-                "movies"
-            ],
-            "creator": null,
-            "description": null,
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-20 05:08:31",
-            "pubDateTZ": "UTC",
-            "image_url": "https://images.news18.com/ibnlive/uploads/2025/05/BeFunky-col-2025-05-053cac1e5e226d2364c6dbc5300234c5-3x2.jpg",
-            "video_url": null,
-            "source_id": "news18",
-            "source_name": "News 18",
-            "source_priority": 1063,
-            "source_url": "https://www.news18.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/news18.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "entertainment"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "d3d161e5fb318f082ab221690dfd519a",
-            "title": "अपनी डाइट से रोज़ाना की ये 2 चीजें कर दें स्किप और 5 फूड को बना लें दोस्त, महीने भर के अंदर धंसने लगेगा पेट, खुद को पहचान नहीं पाएंगे",
-            "link": "https://www.jansatta.com/health-news-hindi/avoit-roti-and-rice-for-reduce-weight-consume-these-5-foods-to-get-rid-of-stomach-fat-know-the-weight-loss-foods/3971104/",
-            "keywords": null,
-            "creator": [
-                "Jansatta"
-            ],
-            "description": null,
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-20 05:08:29",
-            "pubDateTZ": "UTC",
-            "image_url": "https://www.jansatta.com/wp-content/uploads/2025/04/weight-loss-drink-1.jpg",
-            "video_url": null,
-            "source_id": "jansatta",
-            "source_name": "Jansatta",
-            "source_priority": 385929,
-            "source_url": "https://www.jansatta.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/jansatta.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "a5e8d3f18ec4f4469de1d18f3dc03b1a",
-            "title": "Business News | Veet Brings the 'Smoothest Way to Sexy' with a Campaign That's All About Confidence",
-            "link": "https://www.latestly.com/agency-news/business-news-veet-brings-the-smoothest-way-to-sexy-with-a-campaign-thats-all-about-confidence-6867408.html",
-            "keywords": null,
-            "creator": null,
-            "description": "Get latest articles and stories on Business at LatestLY. New Delhi [India], May 20: Veet, a global leader in depilatory products, is tackling a real and often unspoken challenge faced by women -- the hesitation and lack of confidence that comes with grooming intimate areas. With its bold new campaign, 'Veet's Smoothest Way to Sexy', the brand steps into a fresh, sexy yet relatable space -- offering women a quick, painless, and worry-free solution for achieving smooth, confident skin. While traditional methods can be painful, time-consuming, or simply unsuitable for sensitive areas like 'down there', Veet's latest campaign reflects the modern woman's desire to feel beautiful, comfortable, and unapologetically sexy in her own skin.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-20 05:08:27",
-            "pubDateTZ": "UTC",
-            "image_url": "https://st1.latestly.com/wp-content/uploads/2025/05/ANI-20250520045610-380x214.jpg",
-            "video_url": null,
-            "source_id": "latestly",
-            "source_name": "Latestly",
-            "source_priority": 31923,
-            "source_url": "https://www.latestly.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/latestly.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "ec33e9510e95953a040f632499a778f4",
-            "title": "Google I/O developer’s conference today: How to watch live stream, expected announcements and more - Moneycontrol",
-            "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNZFluY0pFMGVDVHRTNWREdDQtc1RNOW5FUkV5YjRvR1FEUkQ3ODdKeG1RSGwwVkpESk9OZHhCUWFoVFNMMFhWZW9PdTFPT0FZYUpjZDgweDdUZFhPSVVqUUtMeFVORXI2WEo1aVlDcmhNNGJ3R0MxdmFqUEZvcWhwWUZCRzU2WFAzc2QzeTRmOVl1YXNMdExTazRsdHFmamx6TFZIekdxRlJUYWZLemI4RTZHWHQ3Sl9tXzlZdlpScy13RDRvUVQ3cURwbndGemZOUkVjNmlTeElOQ0h6cm1hekJqcFBScUltejVzTkRWRdIB9AFBVV95cUxObXkxVkswNnpWQVUwQjNhWmh1a3B6TE84ZWxtNUc4eTA0WHdPVkhHLWlYcnQyRFNVUnRXaWh3dmsweElRdVZnY18yejFxMmR3dEJMYlpJLXdUOTAxdXdJOXhBdHdzeUtXRXFKaFVMcXhsU1pVTG9Sei1NWTM0RGh2ZnlrT3dRQlJDNGQyVF9ESm0xdk5PeU03SkdSZHFSdUxBdUdqWU1LTHZtOUR6ZE9yakl5eXZBdFoxUE1Ld0lSTFhvZGFTOF9tQ2NRaS0zdjJBT2l3eHdqb3BoenA5QmdNa1U0ay1qbTFyNjdiYV9VZFp5Vy1p?oc=5",
-            "keywords": null,
-            "creator": null,
-            "description": "Google I/O developer’s conference today: How to watch live stream, expected announcements and more MoneycontrolAndroid and Wear OS are getting a big refresh Google BlogGoogle I/O 2025 to announce Gemini 2.5 Pro, AI Mode and Agentic AI today: How, when and where to watch live? India TV NewsAndroid 16: What do Google's major updates mean for you? MintGoogle I/O 2025: Android 16, AI product announcements and other things to expect from the event Times of India",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-20 05:08:26",
-            "pubDateTZ": "UTC",
-            "image_url": null,
-            "video_url": null,
-            "source_id": "google",
-            "source_name": "Google News",
-            "source_priority": 14,
-            "source_url": "https://news.google.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/google.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "technology"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "50ef85121c9a8a35f89b054196f4ca7f",
-            "title": "Google I/O developer’s conference today: How to watch live stream, expected announcements and more",
-            "link": "https://www.moneycontrol.com/technology/google-i-o-developer-s-conference-today-how-to-watch-live-stream-expected-announcements-and-more-article-13034043.html",
-            "keywords": [
-                "google i/o, google i/o today, google io developer's conference"
-            ],
-            "creator": [
-                "Moneycontrol"
-            ],
-            "description": null,
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-20 05:08:26",
-            "pubDateTZ": "UTC",
-            "image_url": "https://images.moneycontrol.com/static-mcnews/2023/05/Google-I_O-2023.jpg",
-            "video_url": null,
-            "source_id": "moneycontrol",
-            "source_name": "Moneycontrol",
-            "source_priority": 1064,
-            "source_url": "https://www.moneycontrol.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/moneycontrol.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top",
-                "business",
-                "world",
-                "politics"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "605088cd086576ef05c26d1e012b2c3d",
-            "title": "UBS downgrades HAL shares to neutral, stock down 3% on muted near-term outlook",
-            "link": "https://economictimes.indiatimes.com/markets/stocks/news/ubs-downgrades-hal-shares-to-neutral-stock-down-3-on-muted-near-term-outlook/articleshow/121283045.cms",
-            "keywords": null,
-            "creator": null,
-            "description": "HAL shares: UBS has set a new 12-month price target of Rs 5,600 per share for HAL, indicating a potential upside of 14.5% from its Monday closing price of Rs 5,016. The brokerage had previously set the target at Rs 5,440.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-20 05:08:24",
-            "pubDateTZ": "UTC",
-            "image_url": "https://img.etimg.com/thumb/msid-121283019,width-1200,height-630,imgsize-10598,overlay-etmarkets/articleshow.jpg",
-            "video_url": null,
-            "source_id": "economictimes_indiatimes",
-            "source_name": "The Economic Times",
-            "source_priority": 231,
-            "source_url": "https://economictimes.indiatimes.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/economictimes_indiatimes.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "business"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "43ffd1204b35ad9ef2e19da6b5a24549",
-            "title": "TATA Consumer Products Shares Fall More Than 1.1% Amid High Trading Volume",
-            "link": "https://www.moneycontrol.com/news/business/markets/tata-consumer-products-shares-fall-more-than-1-1-amid-high-trading-volume-alpha-article-13034054.html",
-            "keywords": [
-                "tata consumer products, stock decline, trading volume, nifty 50, financial performance, revenue, net profit, eps, cash flow, balance sheet"
-            ],
-            "creator": [
-                "Moneycontrol"
-            ],
-            "description": null,
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-20 05:08:22",
-            "pubDateTZ": "UTC",
-            "image_url": "https://images.moneycontrol.com/static-mcnews/2025/05/20250130061113_Stock-Market-News.jpg",
-            "video_url": null,
-            "source_id": "moneycontrol",
-            "source_name": "Moneycontrol",
-            "source_priority": 1064,
-            "source_url": "https://www.moneycontrol.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/moneycontrol.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top",
-                "business",
-                "world",
-                "politics"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "06f4f0f33826179cd32ee1ac94c73834",
-            "title": "सेना के सम्मान में हम सब है मैदान में",
-            "link": "https://www.deshbandhu.co.in/news/national-we-all-are-in-the-field-to-honor-the-army-557432-1",
-            "keywords": null,
-            "creator": null,
-            "description": "भारतीय सेना के वीर जवानों के सम्मान में \"भारत शौर्य तिरंगा यात्रा\" का आयोजन किया गया। ऑपरेशन सिंदूर भारतीय तीनों सेना बीएसएफ, अर्ध सैनिक बल के अदम्य, शौर्य ,वीरता,साहस की शौर्य गाथा है",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-20 05:08:22",
-            "pubDateTZ": "UTC",
-            "image_url": "https://www.deshbandhu.co.in/WebService/DBNewsAPI.svc/a8ead62c-6bb0-4313-8721-e83dbe61f8e2_Operation Sindoor.jpg",
-            "video_url": null,
-            "source_id": "deshbandhu",
-            "source_name": "Deshbandhu-hindi",
-            "source_priority": 13621201,
-            "source_url": "https://www.deshbandhu.co.in",
-            "source_icon": null,
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "d348e67115f01b8a44807a8c062aaa34",
-            "title": "DGFTअधिसूचना से सीमा शुल्क और श्रेणी निर्धारण में एकरूपता: GTRI",
-            "link": "https://jantaserishta.com/business/dgft-notification-brings-uniformity-in-customs-duty-and-rating-gtri-4024270",
-            "keywords": [
-                "व्यापार"
-            ],
-            "creator": [
-                "Kiran"
-            ],
-            "description": null,
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-20 05:08:21",
-            "pubDateTZ": "UTC",
-            "image_url": "https://jantaserishta.com/h-upload/2025/05/20/4607194-1.webp",
-            "video_url": null,
-            "source_id": "jantaserishta",
-            "source_name": "Janta Se Rishta",
-            "source_priority": 81836,
-            "source_url": "https://jantaserishta.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/jantaserishta.jpg",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "business"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "bdab3e4836000577fc707ca4d60ebee9",
-            "title": "टाइगर के ड्रेसिंग स्टाइल पर यूजर्स ने ली चुटकी:कहा- भाई कृति से टॉप मांग कर लाए हो; अवॉर्ड्स शो में एक्टर ने किया था परफॉर्म",
-            "link": "https://www.bhaskar.com/entertainment/bollywood/news/zee-cine-award-2025-tiger-shroff-performance-135063441.html",
-            "keywords": null,
-            "creator": null,
-            "description": "शनिवार को मुंबई में 23वें जी सिने अवॉर्ड्स 2025 का आयोजन हुआ। तब से तमन्ना भाटिया, राशा ठडानी और अनन्या पांडे की परफॉर्मेंस चर्चा में बनी हुई हैं। इसी बीच अब टाइगर श्रॉफ की परफॉर्मेंस का भी वीडियो सामने आया है। जहां एक ओर लोगों ने उनके डांस की तारीफ की, वहीं दूसरी ओर उनके अनोखे ड्रेसिंग स्टाइल ने भी खूब सुर्खियां बटोरीं। जी सिने अवॉर्ड्स में टाइगर की परफॉर्मेंस टाइगर श्रॉफ बॉलीवुड के बेहतरीन डांसर्स में शुमार हैं। जी सिने अवॉर्ड्स में उन्होंने अपने कई हिट गानों पर जबरदस्त डांस परफॉर्मेंस दी। उनके शानदार बैकफ्लिप और मूनवॉक ने दर्शकों को झूमने पर मजबूर कर दिया। जैसे ही उनका डांस वीडियो सामने आया, यूजर्स की नजर सबसे पहले उनके अनोखे ड्रेसिंग स्टाइल पर गई। इसके बाद से ही सोशल मीडिया पर तरह-तरह के मजेदार मीम्स की बाढ़ आ गई। फैंस के रिएक्शन एक यूजर ने मजाकिया अंदाज में पूछा, ‘भाई, टॉप क्या कृति से मांग कर लाए हो?’, एक अन्य ने चुटकी ली, ‘श्रद्धा कपूर का फोन आया था, वो अपना टैंक टॉप वापस चाहती है।’, एक ने लिखा – ‘ब्लाउज गोल!’ तो किसी ने कमेंट किया, ‘शकीरा की ड्रेस क्यों पहन ली भाई?’। 'बागी 4' में नजर आएंगे टाइगर टाइगर जल्द ही फिल्म 'बागी 4' में नजर आएंगे। इस फिल्म का निर्देशन सब्बीर खान ने किया है, जिन्होंने 2016 में रिलीज हुई फिल्म का भी निर्देशन किया था। यह 5 सितंबर, 2025 को सिनेमाघरों में रिलीज होगी।",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-20 05:08:19",
-            "pubDateTZ": "UTC",
-            "image_url": "https://images.bhaskarassets.com/thumb/1000x1000/web2images/521/2025/05/20/comp-114_1747715773.gif",
-            "video_url": null,
-            "source_id": "bhaskar_hindi",
-            "source_name": "Bhaskar",
-            "source_priority": 34179,
-            "source_url": "https://www.bhaskar.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/bhaskar_hindi.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "entertainment"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "46221712a4bd7ee890c6830a97678a42",
-            "title": "Borana Weaves IPO Opens Today: Check Subscription Status, Latest GMP, Price Band And Other Details",
-            "link": "https://english.jagran.com/business/borana-weaves-ipo-opens-today-check-subscription-status-latest-gmp-price-band-and-other-details-10238783",
-            "keywords": null,
-            "creator": null,
-            "description": "ipo gmp,borana weaves,borana weaves limited,gmp ipo,borana weaves ipo subscrition status,borana weaves day 1,borana weaves gmp,borana weaves ipo latest gmp",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-20 05:08:16",
-            "pubDateTZ": "UTC",
-            "image_url": "https://imgeng.jagran.com/images/2025/05/20/article/image/IPO-(5)-1747717412492.jpg",
-            "video_url": null,
-            "source_id": "english_jagran",
-            "source_name": "Jagran English",
-            "source_priority": 10561,
-            "source_url": "https://english.jagran.com",
-            "source_icon": "https://i.bytvi.com/domain_icons/english_jagran.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
             ],
             "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
             "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
