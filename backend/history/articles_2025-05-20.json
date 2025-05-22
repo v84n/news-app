@@ -1,6 +1,684 @@
 {
     "articles": [
         {
+            "article_id": "ae85eb376b4fbd53959baccd9dfbedee",
+            "title": "Steady gains in CBSE 2025 as Southern States excel",
+            "link": "https://www.thehindubusinessline.com/data-stories/data-focus/steady-gains-in-cbse-2025-as-southern-states-excel/article69596324.ece",
+            "keywords": [
+                "data focus"
+            ],
+            "creator": null,
+            "description": "In Class X, Kerala and Tamil Nadu jointly topped with a near-perfect pass percentage of 99.86 per cent, followed closely by Telangana, Andhra Pradesh, and Karnataka.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-20 06:13:57",
+            "pubDateTZ": "UTC",
+            "image_url": "https://bl-i.thgim.com/public/incoming/hs1jym/article69596399.ece/alternates/LANDSCAPE_1200/20250513215L.jpg",
+            "video_url": null,
+            "source_id": "thehindubusinessline",
+            "source_name": "The Hindu - Business Line",
+            "source_priority": 33540,
+            "source_url": "https://www.thehindubusinessline.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/thehindubusinessline.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "c3bdf378679224c0a892d6bc0b3081fa",
+            "title": "Microsoft Build 2025: AI Agents Take Centre Stage As Microsoft Unveils Tools To Build 'Agentic Web'",
+            "link": "https://news.abplive.com/technology/microsoft-build-2025-ai-agents-take-centre-stage-as-microsoft-unveils-tools-to-build-agentic-web-1773543",
+            "keywords": [
+                "technology"
+            ],
+            "creator": [
+                "Shayak Majumder"
+            ],
+            "description": "At Microsoft Build 2025, the tech giant showcased its bold vision for a future powered by AI agents — digital tools capable of reasoning, remembering, and independently executing tasks on behalf of users and organisations. The message was clear: AI is no longer an assistant; it’s an agent of transformation.“Fifteen million developers are already using GitHub Copilot,” Microsoft shared, highlighting the rapidly growing adoption of agent-driven tools that streamline coding, reviewing, deploying, and troubleshooting. Microsoft 365 Copilot, already in use by hundreds of thousands, is helping users brainstorm, research, and execute solutions more efficiently.Enterprise adoption is surging, too. According to Microsoft, over 230,000 organisations — including 90% of Fortune 500 companies — have tapped into Copilot Studio to build customised AI agents and automations. Companies like Fujitsu and NTT DATA are leveraging Azure AI Foundry to build apps that prioritise leads and surface client insights. Meanwhile, Stanford Health Care is exploring AI agents to speed up administrative workflows for tumour board preparations.Tools of the Trade: New Platforms and Smarter AgentsAt the heart of this AI leap is Microsoft’s suite of new and upgraded platforms designed for developers. GitHub Copilot is evolving into a full-fledged AI partner, with Microsoft open-sourcing Copilot Chat in Visual Studio Code. This shift reinforces Microsoft's commitment to a collaborative and open developer ecosystem.Windows AI Foundry was also announced as a one-stop shop for training and deploying AI models. With support for open-source large language models and proprietary tools, developers can now build, fine-tune, and deploy seamlessly across cloud and client environments.In Azure, the AI Foundry Models platform is now hosting Grok 3 and Grok 3 Mini from xAI. Developers will have access to over 1,900 models, alongside new tools like a Model Leaderboard and Model Router that help them choose and optimise models in real time.“Developers are using AI to stay in the flow of their environment longer and to shift their focus to more strategic tasks,” Microsoft noted.Building Safely and Openly for the Agentic WebMicrosoft emphasised its commitment to making AI not only powerful but also secure. Azure AI Foundry Agent Service now supports multi-agent orchestration, bringing together tools like Semantic Kernel and AutoGen under one SDK. New observability features offer built-in performance, cost, and safety tracking.Microsoft Entra Agent ID, now in preview, assigns unique identities to each AI agent, helping enterprises manage their AI fleet securely. Tools like Microsoft Purview Compliance Manager further extend governance and risk control.The company also lifted the veil on Copilot Tuning, which allows businesses to train agents using their own data, with applications ranging from legal document generation to multi-agent collaboration for complex tasks.Meanwhile, Microsoft is championing open standards for the agentic web. It announced first-party support for Model Context Protocol (MCP) across its platforms and introduced NLWeb — a new open project designed to let websites create conversational interfaces that interact directly with users’ chosen models and data.AI Meets Science and the FutureFinally, Microsoft introduced Microsoft Discovery, a platform designed to empower researchers with agentic AI across domains such as drug development and sustainability. This tool aims to compress the discovery timeline and expand the scope of scientific research across industries.With all eyes on Build 2025, Microsoft’s vision for an open, agent-powered web is more than just talk — it’s being coded into reality.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-20 06:13:57",
+            "pubDateTZ": "UTC",
+            "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2025/05/20/6d9a6d7827b6e82d0a395fab22afb3bb1747721608797402_original.jpg",
+            "video_url": null,
+            "source_id": "abplive",
+            "source_name": "Abp News",
+            "source_priority": 7754,
+            "source_url": "http://abplive.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/abplive.jpg",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "technology"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "9a7e5c33111041cc93f057bcced1ca31",
+            "title": "दुनिया में सबसे ज्यादा आबादी वाला मुस्लिम मुल्क कश्मीर पर क्या सोचता है?",
+            "link": "https://www.tv9hindi.com/india/muslim-majority-country-indonesia-thinks-on-kashmir-3298963.html",
+            "keywords": null,
+            "creator": [
+                "TV9 Bharatvarsh"
+            ],
+            "description": "कश्मीर पर भारत के लिए अन्य देशों के बयान मायने तो नहीं रखते, लेकिन फिर भी आइए जान लेते हैं कि सबसे ज्यादा मुस्लिम आबादी वाला देश क्या सोचता है. उसके राष्ट्रपति जब इस साल की शुरुआत में भारत दौरे पर आए थे तब उन्होंने आतंकवाद पर पाकिस्तान को कड़ा मैसेज दिया था.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-20 06:13:56",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.tv9hindi.com/wp-content/uploads/2025/05/adhir-ranjan-1-7.jpg",
+            "video_url": null,
+            "source_id": "tv9bharatvarsh",
+            "source_name": "Tv9 Bharatvarsh",
+            "source_priority": 40538658,
+            "source_url": "https://www.tv9hindi.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/tv9bharatvarsh.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "799874f1c8d4d7ab2cb550e2b77e4348",
+            "title": "Bada Mangal 2025: Do’s And Don’ts To Keep In Mind While Worshipping Lord Hanuman During These Important Tuesdays",
+            "link": "https://www.timesnownews.com/spiritual/bada-mangal-2025-significance-of-spiritual-tuesdays-dos-and-donts-to-keep-in-mindonthisday-article-151679215",
+            "keywords": null,
+            "creator": [
+                "Sakshi Arora"
+            ],
+            "description": "The festival or event, Bada Mangal, is dedicated to the worship of Lord Hanuman. Devotees perform special prayers and fast during the month. Commencing from May 13th, 2025, the festival will be celebrated till June 10th, 2025. Here are some dos and don’ts that you should practice to attract good luck.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-20 06:13:55",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.timesnownews.com/thumb/msid-151679273,thumbsize-1531057,width-1280,height-720,resizemode-75/151679273.jpg",
+            "video_url": null,
+            "source_id": "timesnownews",
+            "source_name": "Times Now News",
+            "source_priority": 2243,
+            "source_url": "https://www.timesnownews.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/timesnownews.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "other"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "2985ac91470bf88ef994261a9d8562d7",
+            "title": "सपोटरा में 70 घरों का पेयजल संकट:सोलर प्लांट से उपकरण चोरी, महिलाएं कई किमी दूर से ला रही हैं पानी",
+            "link": "https://www.bhaskar.com/local/rajasthan/karauli/news/70-houses-in-sapotra-are-facing-drinking-water-crisis-135063723.html",
+            "keywords": null,
+            "creator": null,
+            "description": "करौली जिले के सपोटरा उपखंड की दौलतपुरा ग्राम पंचायत के पहाड़पुरा में पेयजल संकट गहरा गया है। यहां के 70 घरों में पानी की भारी किल्लत है। गांव में सोलर आधारित पंपिंग सिस्टम से पानी ऊंचाई पर स्थित टंकी में भरा जाता था। इससे पूरे गांव में जलापूर्ति होती थी। कुछ समय पहले अज्ञात चोरों ने प्लांट से मोटर, इन्वर्टर और सोलर प्लेटें चुरा ली। इससे पूरा सिस्टम बंद पड़ा है। अब महिलाओं को कई किलोमीटर दूर से पानी लाना पड़ रहा है। गर्मियों में जलस्त्रोत पहले से ही सूखने की कगार पर हैं। सोलर प्लांट के बंद होने से स्थिति और बिगड़ गई है। ग्रामीणों ने कई बार शिकायत की, लेकिन कोई समाधान नहीं हुआ। कुछ दिन पहले महिलाओं ने प्लांट स्थल पर एकत्र होकर प्रदर्शन किया। उन्होंने जल्द मरम्मत की मांग की। ग्रामीण की मांग है कि प्रशासन सोलर प्लांट की मरम्मत करवाए। साथ ही सुरक्षा के पुख्ता इंतजाम किए जाएं। जब तक प्लांट चालू नहीं होता, तब तक वैकल्पिक व्यवस्था से पानी की आपूर्ति की जाए।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-20 06:13:53",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.bhaskarassets.com/thumb/1000x1000/web2images/521/2025/05/20/815a8be9-1bc1-4fc1-82fd-53d6ab1afdf81747712418591_1747721557.jpg",
+            "video_url": null,
+            "source_id": "bhaskar_hindi",
+            "source_name": "Bhaskar",
+            "source_priority": 34179,
+            "source_url": "https://www.bhaskar.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/bhaskar_hindi.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "domestic",
+                "other"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "17b6fe09f741778145b9e72ec6a5d9ac",
+            "title": "\"Why is he not playing now if he is fit?\" - Aakash Chopra on Ruturaj Gaikwad being picked for India A after being ruled out of IPL 2025",
+            "link": "https://www.sportskeeda.com/cricket/news-why-playing-now-fit-aakash-chopra-ruturaj-gaikwad-picked-india-a-ruled-ipl-2025",
+            "keywords": [
+                "cricket"
+            ],
+            "creator": [
+                "Kartik Iyer"
+            ],
+            "description": "Former India player Aakash Chopra has questioned why Ruturaj Gaikwad is not playing for the Chennai Super Kings (CSK) in IPL 2025.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-20 06:13:53",
+            "pubDateTZ": "UTC",
+            "image_url": "https://staticc.sportskeeda.com/editor/2025/05/e7b7c-17477218872808-1920.jpg",
+            "video_url": null,
+            "source_id": "sportskeeda",
+            "source_name": "Sportskeeda",
+            "source_priority": 172,
+            "source_url": "http://sportskeeda.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/sportskeeda.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "sports"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "9b35eb5698a3881c2d3805663e81708d",
+            "title": "Popular Call of Duty mobile battle royale game shutting down, details here",
+            "link": "https://www.hindustantimes.com/technology/popular-call-of-duty-mobile-battle-royale-game-shutting-down-details-here-101747721148666.html",
+            "keywords": [
+                "latest"
+            ],
+            "creator": null,
+            "description": "After just over a year, Activision has phased out support for Call of Duty: Warzone Mobile, leaving players to explore new options.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-20 06:13:51",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.hindustantimes.com/ht-img/img/2025/05/20/1600x900/Call_of_Duty_Warzone_Mobile_1747721534608_1747721534904.jpg",
+            "video_url": null,
+            "source_id": "hindustantimes",
+            "source_name": "Hindustan Times",
+            "source_priority": 933,
+            "source_url": "http://www.hindustantimes.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/hindustantimes.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "bc5d23d542d405329381dba290b43a1f",
+            "title": "Railway stocks crack up to 6% amid broader market sell-off",
+            "link": "https://economictimes.indiatimes.com/markets/stocks/news/railway-stocks-crack-up-to-6-amid-broader-market-sell-off/articleshow/121284225.cms",
+            "keywords": null,
+            "creator": null,
+            "description": "Railway stocks fell sharply on Tuesday amid broad market weakness and profit booking, following a sharp rally in recent sessions. Shares of RITES, Titagarh Rail Systems, and Jupiter Wagons led the decline. The fall comes after strong gains driven by optimism over resumed railway orders and sector-specific ETFs delivering over 16% returns last week.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-20 06:13:47",
+            "pubDateTZ": "UTC",
+            "image_url": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-194226,resizemode-75,msid-121284225/markets/stocks/news/railway-stocks-crack-up-to-6-amid-broader-market-sell-off.jpg",
+            "video_url": null,
+            "source_id": "economictimes_indiatimes",
+            "source_name": "The Economic Times",
+            "source_priority": 231,
+            "source_url": "https://economictimes.indiatimes.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/economictimes_indiatimes.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "business"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "0513d20203efd6d9ef23464f65d83fb2",
+            "title": "इथाका एनर्जी ने $154 मिलियन में सिग्नस गैस फील्ड में हिस्सेदारी बढ़ाई",
+            "link": "https://hi.investing.com/news/company-news/article-93CH-474189",
+            "keywords": null,
+            "creator": [
+                "Investing.com"
+            ],
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-20 06:13:47",
+            "pubDateTZ": "UTC",
+            "image_url": "https://i-invdn-com.investing.com/news/news_headline_rolled_108x81.jpg",
+            "video_url": null,
+            "source_id": "investing_hi",
+            "source_name": "Investing भारत",
+            "source_priority": 1143,
+            "source_url": "https://hi.investing.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/investing_hi.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "f8948c9f4eb9206f295e0234a069686a",
+            "title": "खुशखबरी! हिमाचल में नौकरी का सुनहरा मौका, स्कूलों में भर्ती होंगे जेओए लाइब्रेरी, 100 पद भरने की मिली मंजूरी",
+            "link": "https://www.jagran.com/himachal-pradesh/shimla-golden-opportunity-for-government-job-in-himachal-joa-libraries-will-be-recruited-in-schools-approval-given-to-fill-100-posts-23941888.html",
+            "keywords": null,
+            "creator": null,
+            "description": "हिमाचल प्रदेश (Himachal Job Alert) सरकार राज्य के सरकारी स्कूलों में जेओए-लाइब्रेरी के 100 पदों को भरने जा रही है। मुख्यमंत्री सुखविंदर सिंह सुक्खू की अध्यक्षता में हुई मंत्रिमंडल की बैठक में शिक्षा विभाग के इस प्रस्ताव को मंजूरी दी गई। यह भर्ती उन स्कूलों में होगी जहां 300 से अधिक छात्र हैं जिससे राज्य के बेरोजगार युवाओं को राहत मिलेगी और बच्चों में पढ़ाई की आदत को बढ़ावा मिलेगा।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-20 06:13:45",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.jagranimages.com/images/newimg/20052025/20_05_2025-government_job_in_himachal_23941888_m.webp",
+            "video_url": null,
+            "source_id": "jagran",
+            "source_name": "Jagran",
+            "source_priority": 6734,
+            "source_url": "https://www.jagran.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/jagran.jpg",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "domestic"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "332ce03abe967b76f42114696be50b49",
+            "title": "India-Pakistan clashes saw rare use of Chinese arms, but analysts caution against big conclusions",
+            "link": "https://www.newindianexpress.com/world/2025/May/20/india-pakistan-clashes-saw-rare-use-of-chinese-arms-but-analysts-caution-against-big-conclusions",
+            "keywords": [
+                "world"
+            ],
+            "creator": [
+                "AFP"
+            ],
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-20 06:13:44",
+            "pubDateTZ": "UTC",
+            "image_url": "https://media.assettype.com/newindianexpress/2025-05-20/anfav7fj/Army-soldier-in-Kashmir-LoC-India-Pakistan-Border.jpg",
+            "video_url": null,
+            "source_id": "newindianexpress",
+            "source_name": "The New Indian Express",
+            "source_priority": 15406,
+            "source_url": "https://www.newindianexpress.com/nation",
+            "source_icon": "https://i.bytvi.com/domain_icons/newindianexpress.jpg",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "world"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "24f96b7440cae4cc578bdf60e219f72e",
+            "title": "Manipur: अपहरण के आरोप में 4 गिरफ्तार; दिल्ली, राजस्थान से पीड़ितों को बचाया गया",
+            "link": "https://jantaserishta.com/local/manipur/manipur-4-arrested-for-kidnapping-victims-rescued-from-delhi-rajasthan-4024478",
+            "keywords": [
+                "राज्य,मणिपुर"
+            ],
+            "creator": [
+                "Tara Tandi"
+            ],
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-20 06:13:43",
+            "pubDateTZ": "UTC",
+            "image_url": "https://jantaserishta.com/h-upload/2025/05/20/4607455-5.webp",
+            "video_url": null,
+            "source_id": "jantaserishta",
+            "source_name": "Janta Se Rishta",
+            "source_priority": 81836,
+            "source_url": "https://jantaserishta.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/jantaserishta.jpg",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "033644e62851a2c47688f8a69c83e0f3",
+            "title": "War 2 Release Date: ऋतिक रोशन और Jr NTR के क्लैश ने बढ़ाया बॉक्स ऑफिस का पारा, इस दिन सिनेमाघरों में देगी दस्तक",
+            "link": "https://www.prabhatkhabar.com/entertainment/bollywood/war-2-release-date-hrithik-roshan-jr-ntr-fight-kiara-advani-looks-glamorous-in-teaser",
+            "keywords": [
+                "entertainment news",
+                "bollywood",
+                "hrithik roshan",
+                "war 2"
+            ],
+            "creator": [
+                "Divya Keshri"
+            ],
+            "description": "War 2 Release Date: वाईआरएफ स्पाई यूनिवर्स की फिल्म 'वॉर 2' का टीजर आज आउट हो चुका है. फिल्म में ऋतिक रोशन और जूनियर एनटीआर नजर आ रहे हैं. दोनों की भिड़ंत मूवी में शानदार लग रही है. इसके अलावा टीजर में कियारा आडवाणी का लुक भी वायरल हो रहा है. The post War 2 Release Date: ऋतिक रोशन और Jr NTR के क्लैश ने बढ़ाया बॉक्स ऑफिस का पारा, इस दिन सिनेमाघरों में देगी दस्तक appeared first on Prabhat Khabar.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-20 06:13:38",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.prabhatkhabar.com/wp-content/uploads/2025/05/War-2-Release-Date.jpg",
+            "video_url": null,
+            "source_id": "prabhatkhabar",
+            "source_name": "Prabhat Khabar",
+            "source_priority": 343253,
+            "source_url": "https://www.prabhatkhabar.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/prabhatkhabar.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "entertainment"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "bff9d0b464e4f728938e351b2a9e6e82",
+            "title": "लाल साड़ी, माथे पर सिंदूर...महिलाओं ने निकाली तिरंगा यात्रा:मशाल के साथ किया जवानों का सम्मान; सेना के ऑपरेशन सिंदूर की जीत का मनाया जश्न",
+            "link": "https://www.bhaskar.com/local/chhattisgarh/manendragarh-chirmiri-bharatpur/news/red-saree-vermilion-on-foreheadwomen-took-out-tricolor-march-135063718.html",
+            "keywords": null,
+            "creator": null,
+            "description": "छत्तीसगढ़ के मनेंद्रगढ़ विधानसभा क्षेत्र के चिरमिरी में भारतीय सेना के ऑपरेशन सिंदूर की सफलता के उपलक्ष्य में एक विशेष सिंदूर यात्रा का आयोजन किया गया। स्वास्थ्य मंत्री व मनेंद्रगढ़ विधानसभा क्षेत्र के विधायक श्याम बिहारी जायसवाल के नेतृत्व में महिला मोर्चा ने यह यात्रा निकाली। यात्रा में शामिल महिलाओं ने लाल साड़ी पहनी और माथे पर सिंदूर लगाया। उनके हाथों में तिरंगा और मशालें थीं। यह यात्रा आगे चलकर मशाल रैली में तब्दील हो गई। कार्यक्रम के दौरान भारत माता की जय और हिंदुस्तान जिंदाबाद के नारे गूंजते रहे। मंत्री श्याम बिहारी जायसवाल खुद हाथों में तिरंगा लिए यात्रा में शामिल हुए। देश भर में इसी तरह की तिरंगा यात्राएं निकल रही यह यात्रा भारतीय सेना द्वारा पाकिस्तान में की गई कार्रवाई के समर्थन में निकाली गई। सेना ने इस ऑपरेशन के दौरान आतंकवादियों के खिलाफ कार्रवाई की। इस सफल अभियान ने भारत की सैन्य क्षमता को विश्व स्तर पर प्रदर्शित किया है। देश भर में इसी तरह की तिरंगा यात्राएं निकाली जा रही हैं।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-20 06:13:38",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.bhaskarassets.com/thumb/1000x1000/web2images/521/2025/05/20/adc05b97-2cd4-4e5e-ba2e-3e44f2ca8c68_1747672737996.jpg",
+            "video_url": null,
+            "source_id": "bhaskar_hindi",
+            "source_name": "Bhaskar",
+            "source_priority": 34179,
+            "source_url": "https://www.bhaskar.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/bhaskar_hindi.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "domestic",
+                "other"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "73675969344ac1c7b66085bb6fcda9a0",
+            "title": "“Every citizen has come out with the tricolour in their hands:” Tarun Chugh participates in Tiranga rally",
+            "link": "https://thenewsmill.com/2025/05/every-citizen-has-come-out-with-the-tricolour-in-their-hands-tarun-chugh-participates-in-tiranga-rally/",
+            "keywords": [
+                "manipur",
+                "ani",
+                "northeast india"
+            ],
+            "creator": [
+                "ANI"
+            ],
+            "description": "The News Mill",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-20 06:13:33",
+            "pubDateTZ": "UTC",
+            "image_url": "https://thenewsmill.com/wp-content/uploads/2025/05/ANI-20250520061203.jpg",
+            "video_url": null,
+            "source_id": "thenewsmill",
+            "source_name": "The News Mill",
+            "source_priority": 3781717,
+            "source_url": "https://thenewsmill.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/thenewsmill.jpg",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "1d61ef04cb7d830836c5370beaef5142",
+            "title": "मानव तस्करी का आरोपी गिरफ्तार:सोनभद्र रेलवे स्टेशन से 5 बच्चे बरामद, बाल मजदूरी के लिए पंजाब ले जा रहा था",
+            "link": "https://www.bhaskar.com/local/uttar-pradesh/sonbhadra/news/human-trafficking-accused-arrested-135063717.html",
+            "keywords": null,
+            "creator": null,
+            "description": "सोनभद्र में मानव तस्करी और बाल मजदूरी के खिलाफ चलाए जा रहे विशेष अभियान को सफलता मिली है। रेलवे सुरक्षा बल और एएचटीयू की टीम ने संयुक्त कार्रवाई करते हुए 5 बच्चों को मुक्त कराया। इनमें 4 नाबालिग और एक बालिग किशोर शामिल हैं। रेलवे सुरक्षा बल के उप-निरीक्षक सचिन कुमार को रेनूकूट थाना पिपरी से सूचना मिली थी। टीम ने ट्रेन संख्या 18101 में सवार बच्चों को रेनूकूट रेलवे स्टेशन के प्लेटफॉर्म नंबर 2 से बरामद किया। आरोपी प्रजापति सिंह को मौके से गिरफ्तार कर लिया गया। प्रजापति बभनी थाना क्षेत्र के ग्राम हथियार का रहने वाला है। पूछताछ में सामने आया कि आरोपी इन बच्चों को अंबाला, पंजाब ले जा रहा था। उसने बच्चों को 450 रुपए प्रतिदिन की मजदूरी का लालच दिया था। बाल कल्याण समिति (CWC) सोनभद्र ने सभी बच्चों को उनके परिजनों के सुपुर्द कर दिया है। पुलिस अधीक्षक अशोक कुमार मीणा के निर्देश में की गई इस कार्रवाई में प्रभारी जयसिंह एएचटीयू सोनभद्र और कॉन्स्टेबल पंकज कुमार शामिल थे। आरोपी के खिलाफ धारा 143(1) BNS और किशोर न्याय अधिनियम 2015 की धारा 79 के तहत मामला दर्ज किया गया है।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-20 06:13:30",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.bhaskarassets.com/thumb/1000x1000/web2images/521/2025/05/20/1b1771fa-d1fc-4f35-962c-4072cca7ce03_1747714609811.jpg",
+            "video_url": null,
+            "source_id": "bhaskar_hindi",
+            "source_name": "Bhaskar",
+            "source_priority": 34179,
+            "source_url": "https://www.bhaskar.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/bhaskar_hindi.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top",
+                "domestic"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "c6779f310d7074d72d0d3b6193fc80bb",
+            "title": "बैंक आम के गूदे की प्रसंस्करण इकाइयों के लिए ऋण ब्याज स्थगन को बढ़ाने पर सहमत हुए",
+            "link": "https://jantaserishta.com/local/kerala/banks-agree-to-extend-loan-interest-moratorium-for-mango-pulp-units-4024477",
+            "keywords": [
+                "राज्य,केरल"
+            ],
+            "creator": [
+                "Bharti Sahu"
+            ],
+            "description": "बैंक आम",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-20 06:13:30",
+            "pubDateTZ": "UTC",
+            "image_url": "https://jantaserishta.com/h-upload/2025/05/20/4607449-40.webp",
+            "video_url": null,
+            "source_id": "jantaserishta",
+            "source_name": "Janta Se Rishta",
+            "source_priority": 81836,
+            "source_url": "https://jantaserishta.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/jantaserishta.jpg",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "8e582ae8a81e7b69994c0d078680b8f4",
+            "title": "सैनिकों के सम्मान में स्काउट गाइड की तिरंगा यात्रा:करौली में जिला शिक्षा अधिकारी ने दिखाई हरी झंडी, आमजन ने किया सैल्यूट",
+            "link": "https://www.bhaskar.com/local/rajasthan/karauli/news/scout-guides-tricolor-march-in-honor-of-soldiers-karauli-rajasthan-135063715.html",
+            "keywords": null,
+            "creator": null,
+            "description": "राजस्थान राज्य भारत स्काउट एवं गाइड जिला मुख्यालय करौली में एक तिरंगा यात्रा निकाली गई। यात्रा को मुख्य जिला शिक्षा अधिकारी गोपाललाल मीणा और जिला शिक्षा अधिकारी इंद्रेश तिवारी ने हरी झंडी दिखाकर रवाना किया। सीओ स्काउट अनिल कुमार गुप्ता ने बताया कि यह यात्रा 22 अप्रैल को पहलगाम में हुए आतंकी हमले के बाद सेना के साहसिक कार्य को सम्मान देने के लिए निकाली गई। यात्रा का उद्देश्य आतंकवाद के खिलाफ एकजुटता दिखाना था। मुख्य जिला शिक्षा अधिकारी गोपाललाल मीणा ने कहा कि आतंकवाद का कोई धर्म नहीं होता। उन्होंने सीमाओं की रक्षा में तैनात सेना के योगदान को सराहा। जिला शिक्षा अधिकारी इंद्रेश तिवारी ने भारतीय सेना को विश्व की सबसे सक्षम सेनाओं में से एक बताया। तिरंगा यात्रा पुरानी नगर पालिका से शुरू हुई। यह सदर बाजार, अनाज मंडी और वजीरपुर गेट होते हुए कलेक्ट्रेट पहुंची। फिर गणेश गेट से होकर मदन मोहन जी मंदिर पर समाप्त हुई। स्काउट-गाइड ने हाथों में तिरंगा लेकर देशभक्ति के नारे लगाए। यात्रा का नेतृत्व रामदुलारी शिक्षक प्रशिक्षण संस्थान, खेड़ा के प्रिंसिपल और सहायक शिविर संचालक सुरेशचंद शर्मा तथा डॉ. ज्योति शर्मा ने किया।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-20 06:13:28",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.bhaskarassets.com/thumb/1000x1000/web2images/521/2025/05/20/e53b4837-7172-4d26-8fc9-bd746d0968911747718156479-_1747721490.jpg",
+            "video_url": null,
+            "source_id": "bhaskar_hindi",
+            "source_name": "Bhaskar",
+            "source_priority": 34179,
+            "source_url": "https://www.bhaskar.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/bhaskar_hindi.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "domestic",
+                "other"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "f380591c24ad1a1f42c6984cfb56517c",
+            "title": "War 2 teaser OUT: Hrithik Roshan, Jr NTR face-off in action-packed preview",
+            "link": "https://newsable.asianetnews.com/entertainment/war-2-teaser-out-hrithik-roshan-jr-ntr-face-off-in-action-packed-preview-atg/articleshow-v69ndpt",
+            "keywords": [
+                "entertainment"
+            ],
+            "creator": [
+                "Amrita Ghosh"
+            ],
+            "description": "The highly anticipated teaser for War 2, starring Hrithik Roshan and Jr. NTR, has been released. Yash Raj Films unveiled the action-packed teaser on Jr. NTR's birthday",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-20 06:13:23",
+            "pubDateTZ": "UTC",
+            "image_url": "https://static-gi.asianetnews.com/images/01jvp3spaz4sqtag6qzrmkwj91/war-2-teaser-release-1747720132958.jpg",
+            "video_url": null,
+            "source_id": "newsable_asianetnews",
+            "source_name": "Asianet Newsable",
+            "source_priority": 7749,
+            "source_url": "https://newsable.asianetnews.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/newsable_asianetnews.jpg",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "e540f350e06a114ac88aae0b0056678e",
+            "title": "Dipika Kakar shares health update after 'tennis ball-sized' tumor diagnosis, says, \"Mai abhi bhi yahin hun, hospital me hun...\"",
+            "link": "https://www.moneycontrol.com/entertainment/dipika-kakar-shares-health-update-after-tennis-ball-sized-tumor-diagnosis-says-mai-abhi-bhi-hospital-me-hun-article-13034269.html",
+            "keywords": [
+                "dipika kakar, dipika kakar tumor, dipika kakar health update, dipika kakar vlog, dipika kakar liver tumor,"
+            ],
+            "creator": [
+                "Moneycontrol"
+            ],
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-20 06:13:21",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.moneycontrol.com/static-mcnews/2025/05/20250520061045_Dipika-Kakar-recently-diagnosed-with-a-tumor-in-her-liver.png",
+            "video_url": null,
+            "source_id": "moneycontrol",
+            "source_name": "Moneycontrol",
+            "source_priority": 1064,
+            "source_url": "https://www.moneycontrol.com",
+            "source_icon": "https://i.bytvi.com/domain_icons/moneycontrol.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top",
+                "business",
+                "world",
+                "politics"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
             "article_id": "aec5a8135c56d06895ee3bea07cb9478",
             "title": "India Post GDS Result 2025: 3rd merit list released at official website",
             "link": "https://www.business-standard.com/education/news/india-post-gds-result-2025-3rd-merit-list-released-at-official-website-nc-125052000294_1.html",
