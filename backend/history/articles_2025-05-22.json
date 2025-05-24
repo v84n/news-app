@@ -1,6 +1,921 @@
 {
     "articles": [
         {
+            "article_id": "382cca3f7af33bf5fa00fda77998fffd",
+            "title": "Why console makers can legally brick your game console",
+            "link": "https://arstechnica.com/gaming/2025/05/why-console-makers-can-legally-brick-your-game-console/",
+            "keywords": [
+                "nintendo",
+                "microsoft",
+                "gaming",
+                "brick",
+                "switch",
+                "playstation",
+                "eula",
+                "sony",
+                "xbox",
+                "hacking"
+            ],
+            "creator": [
+                "Kyle Orland"
+            ],
+            "description": "\"If the ability [to brick a console] is there, someone will want to 'see how it goes.'\"",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-22 22:09:04",
+            "pubDateTZ": "UTC",
+            "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/GettyImages-637736904-1152x648-1747949541.jpg",
+            "video_url": null,
+            "source_id": "arstechnica",
+            "source_name": "Ars Technica",
+            "source_priority": 2007,
+            "source_url": "https://arstechnica.com",
+            "source_icon": "https://n.bytvi.com/arstechnica.png",
+            "language": "english",
+            "country": [
+                "india",
+                "canada",
+                "united states of america"
+            ],
+            "category": [
+                "technology"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "bb311d199d4013db7a4a7bbf085e0fc3",
+            "title": "Una News: पियक्कड़ चालकों का उतारा नशा, मई में 22 चालान",
+            "link": "https://www.amarujala.com/himachal-pradesh/una/drunk-drivers-were-made-to-sober-up-22-challans-were-issued-in-may-una-news-c-93-1-una1002-154438-2025-05-22",
+            "keywords": null,
+            "creator": null,
+            "description": "यातायात नियमों की अवहेलना और नशे में खुद अपनी और दूसरों की जान जोखिम में डालने वाले चालकों पर शिकंजा कसा है।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-22 22:09:03",
+            "pubDateTZ": "UTC",
+            "image_url": "https://staticimg.amarujala.com/assets/images/2021/12/03/una_1638529668.jpeg?dpr=1.0&q=80&w=414",
+            "video_url": null,
+            "source_id": "amarujala",
+            "source_name": "Amar Ujala",
+            "source_priority": 55215,
+            "source_url": "https://www.amarujala.com",
+            "source_icon": "https://n.bytvi.com/amarujala.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "3de2b64505c02ebe78539d0efa1149c2",
+            "title": "Economic Momentum Picks Up In March Near Term Risks Persist",
+            "link": "https://www.businessworld.in/article/economic-momentum-picks-up-in-march-near-term-risks-persist-554555",
+            "keywords": null,
+            "creator": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-22 22:08:43",
+            "pubDateTZ": "UTC",
+            "image_url": "https://static.businessworld.in/rupee%20economy-132250264_JEGAS%20RA_20250123114946_original_image_44.webp",
+            "video_url": null,
+            "source_id": "businessworld",
+            "source_name": "Bw Businessworld",
+            "source_priority": 31375,
+            "source_url": "https://www.businessworld.in",
+            "source_icon": null,
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "f81f4dbd13c3d92599655140198bb4ed",
+            "title": "Turkish firm moves HC over security clearance revocation",
+            "link": "https://timesofindia.indiatimes.com/city/mumbai/turkish-firm-moves-hc-over-security-clearance-revocation/articleshow/121346870.cms",
+            "keywords": null,
+            "creator": [
+                "Swati Deshpande"
+            ],
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-22 22:08:34",
+            "pubDateTZ": "UTC",
+            "image_url": "https://static.toiimg.com/thumb/msid-121346869,imgsize-60422,width-400,height-225,resizemode-72/121346869.jpg",
+            "video_url": null,
+            "source_id": "toi",
+            "source_name": "The Times Of India",
+            "source_priority": 239,
+            "source_url": "https://timesofindia.indiatimes.com",
+            "source_icon": "https://n.bytvi.com/toi.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "entertainment"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "e4f9df95d56f5abc9f768b4ed7b4ea31",
+            "title": "Hate groups in the U.S. decline but their influence grows, report shows",
+            "link": "https://www.washingtontimes.com/news/2025/may/22/report-shows-hate-groups-us-decline-influence-grows/",
+            "keywords": null,
+            "creator": [
+                "Terry Tang"
+            ],
+            "description": "The number of white nationalist, hate and anti-government groups around the U.S. dropped slightly in 2024, not because of any shrinking influence but rather the opposite. Many feel their beliefs, which includes racist narratives and so-called Christian persecution, have become more normalized in government and mainstream discourse.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-22 22:08:32",
+            "pubDateTZ": "UTC",
+            "image_url": "https://twt-thumbs.washtimes.com/media/image/2025/05/22/Hate_Extremism_Report_43619_c0-72-4121-2474_s885x516.jpg?74b4695938327aaf8eb5c2af26fb0b9e84cf9388=",
+            "video_url": null,
+            "source_id": "washingtontimes",
+            "source_name": "The Washington Times",
+            "source_priority": 9784,
+            "source_url": "https://www.washingtontimes.com",
+            "source_icon": "https://n.bytvi.com/washingtontimes.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": true
+        },
+        {
+            "article_id": "96b7e79fdf8a5acf4a868b8a36e37ee7",
+            "title": "BioNTech's SWOT analysis: oncology pipeline and mRNA tech drive stock potential",
+            "link": "https://in.investing.com/news/swot-analysis/biontechs-swot-analysis-oncology-pipeline-and-mrna-tech-drive-stock-potential-93CH-4844703",
+            "keywords": null,
+            "creator": [
+                "Investing.com"
+            ],
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-22 22:08:05",
+            "pubDateTZ": "UTC",
+            "image_url": "https://i-invdn-com.investing.com/news/news_headline_rolled_108x81.jpg",
+            "video_url": null,
+            "source_id": "investing_in",
+            "source_name": "Investing India",
+            "source_priority": 1205,
+            "source_url": "https://in.investing.com",
+            "source_icon": "https://n.bytvi.com/investing_in.jpg",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": true
+        },
+        {
+            "article_id": "372b478178595d0b6ac180ef0fc5dabd",
+            "title": "Why Pakistan promoted Asim Munir after Operation Sindoor humiliation",
+            "link": "https://timesofindia.indiatimes.com/world/pakistan/why-pakistan-promoted-asim-munir-after-operation-sindoor-humiliation/articleshow/121348105.cms",
+            "keywords": null,
+            "creator": null,
+            "description": "Why Pakistan promoted Asim Munir after Operation Sindoor humiliation",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-22 22:07:41",
+            "pubDateTZ": "UTC",
+            "image_url": "https://static.toiimg.com/thumb/msid-121348154,imgsize-644483,width-400,resizemode-4/121348154.jpg",
+            "video_url": null,
+            "source_id": "toi",
+            "source_name": "The Times Of India",
+            "source_priority": 239,
+            "source_url": "https://timesofindia.indiatimes.com",
+            "source_icon": "https://n.bytvi.com/toi.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "683e076ec656feb4609449d80ee7a0a3",
+            "title": "MP POLICE REGULATION 604, क्या है थाना अधिकारी के ग्रामों में भ्रमण के विनियम, जानिए",
+            "link": "https://www.bhopalsamachar.com/2025/05/mp-police-regulation-604.html",
+            "keywords": [
+                "legal",
+                "madhyapradesh"
+            ],
+            "creator": [
+                "noreply@blogger.com (Bhopal Samachar)"
+            ],
+            "description": "एक थाना अधिकारी (Police officer) अपने क्षेत्र के गाँवों में भ्रमण करने के लिए एक List तैयार करता है। वह प्रत्येक गाँव (every village) में तीन महीने में कम से कम एक बार जाने का प्रयास करता है और अपने कर्मचारी मंडल (Group) को अपने भ्रमण की जानकारी देता है। यदि वह किसी कारणवश नहीं जा सकता है, तो वह मुख्य आरक्षक (Head Constable) को Appoint करता है, इससे संबंधित क्या है REGULATION, जानिए MP POLICE REGULATION क्रमांक 604 की परिभाषा थाना अधिकारी (TI) को अपने क्षेत्र के प्रत्येक गाँव में तीन महीने में कम से कम एक बार भ्रमण करना चाहिए। मंडल निरीक्षकों (Inspectors) के Orders के तहत एक List तैयार की जानी चाहिए एवं जिसमें प्रत्येक गाँव (Every village) के भ्रमण किस प्रकार होगा जानिए 1. मास में एक बार (Once in the month): - कुछ गाँवों में अधिक अपराध या समस्या होने पर 1 महीने में एक बार भ्रमण करेगा।2. दो मास में एक बार (Once in two months): - मध्यम अपराध या समस्या वाले गाँवों में महीने में दो बार भ्रमण करेगा। 3. तीन मास में एक बार (Once in three months): - सामान्य गाँवों जहां अपराध नहीं होते हैं वहा तीन महीने में एक बार भ्रमण करेगा।जिम्मेदारी किस की होगी जानिए (Know the responsibility)▪︎:-1. जिला पुलिस अधीक्षक District Superintendent police) सूची का परीक्षण (Test) करेंगे और आवश्यकतानुसार पुनः निरीक्षण (Re-inspection) करेंगे।2. यदि थाना अधिकारी (TI) भ्रमण (Excursion) नहीं कर सकते हैं, तो उन्हें मुख्य आरक्षक (Head Constable) को नियुक्त (Appoint) करना चाहिए।3. थाना अधिकारी को अपने भ्रमण की जानकारी अपने कर्मचारी मंडल को देनी चाहिए।रिकॉर्ड का सुरक्षित रखा जाना (Record safe):-1. प्रत्येक Village में भ्रमण की Date सूची में दर्ज की जानी चाहिए।2. यदि मुख्य आरक्षक (HC) द्वारा भ्रमण (Tour) किया जाता है, तो Entry लाल स्याही (Red ink) से की जानी चाहिए।लेखक✍️बी.आर. अहिरवार (पत्रकार एवं विधिक सलाहकार होशंगाबाद)। Notice: this is the copyright protected post. do not try to copy of this article) डिस्क्लेमर - यह जानकारी केवल शिक्षा और जागरूकता के लिए है। कृपया किसी भी प्रकार की कानूनी कार्रवाई से पहले बार एसोसिएशन द्वारा अधिकृत अधिवक्ता से संपर्क करें। विनम्र अनुरोध🙏कृपया हमें गूगल न्यूज़ पर फॉलो करें। सबसे तेज अपडेट प्राप्त करने के लिए टेलीग्राम चैनल सब्सक्राइब करें एवं हमारे व्हाट्सएप कम्युनिटी ज्वॉइन करें। कृपया गूगल न्यूज़ पर फॉलो करें यहां क्लिक करें टेलीग्राम चैनल सब्सक्राइब करने के लिए यहां क्लिक करें व्हाट्सएप ग्रुप ज्वाइन करने के लिए यहां क्लिक करें X-ट्विटर पर फॉलो करने के लिए यहां क्लिक करें नियम कानून से जुड़ी महत्वपूर्ण जानकारी के लिए कृपया स्क्रॉल करके सबसे नीचे POPULAR Category में Legal पर क्लिक करें।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-22 21:11:00",
+            "pubDateTZ": "UTC",
+            "image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi10BrFP3sBjWuJQ0EJq3F9Kg-h9sv4i8cAxTOr8DX-S6urKbufo8PG-lnzx1Zsq0t1hqznrUUVFcg8CjI4vsmJrVMp5eBqFH2aKW_b9c4eDK1I8h2mcScTSPT2j2tZaMzZqQBX41SKuKb4CAvtppyKdXO3wBvxGo2zM1oFr_EnkDfC7YnjU2s4OfYa5Fg/s72-c/1%20(1).webp",
+            "video_url": null,
+            "source_id": "bhopalsamachar",
+            "source_name": "Bhopal Samachar",
+            "source_priority": 2476680,
+            "source_url": "http://www.bhopalsamachar.com",
+            "source_icon": "https://n.bytvi.com/bhopalsamachar.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "ca63bf8cf3d02331bc9b13ef26228f0e",
+            "title": "“Set up GoFundMe for poor guy”: NFL fans react to 49ers QB Brock Purdy facing over $28,000,000 tax bill after $265M contract extension",
+            "link": "https://www.sportskeeda.com/nfl/news-set-gofundme-poor-guy-nfl-fans-react-49ers-qb-brock-purdy-facing-28-000-000-tax-bill-265m-contract-extension",
+            "keywords": [
+                "nfl"
+            ],
+            "creator": [
+                "Prasen"
+            ],
+            "description": "Brock Purdy signed a $265 million contract extension last week, but the IRS will be liable for a large portion of it.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-22 21:10:57",
+            "pubDateTZ": "UTC",
+            "image_url": "https://staticc.sportskeeda.com/editor/2025/05/ad1af-17479483787702-1920.jpg",
+            "video_url": null,
+            "source_id": "sportskeeda",
+            "source_name": "Sportskeeda",
+            "source_priority": 1040,
+            "source_url": "http://sportskeeda.com",
+            "source_icon": "https://n.bytvi.com/sportskeeda.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "sports"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "01d7ff8d6b9d28f9135db424bda9753b",
+            "title": "RWA alleges drinking water contamination in Janakpuri, NGT orders surprise check",
+            "link": "https://timesofindia.indiatimes.com/city/delhi/rwa-alleges-drinking-water-contamination-in-janakpuri-ngt-orders-surprise-check/articleshow/121345808.cms",
+            "keywords": null,
+            "creator": [
+                "Priyangi Agarwal"
+            ],
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-22 21:10:56",
+            "pubDateTZ": "UTC",
+            "image_url": "https://static.toiimg.com/thumb/msid-121345806,width-1070,height-580,imgsize-24370,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "video_url": null,
+            "source_id": "toi",
+            "source_name": "The Times Of India",
+            "source_priority": 239,
+            "source_url": "https://timesofindia.indiatimes.com",
+            "source_icon": "https://n.bytvi.com/toi.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "business"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "7b3594945a91450549921193e0dad0ee",
+            "title": "Apple will reportedly release smart glasses next year",
+            "link": "https://www.engadget.com/wearables/apple-will-reportedly-release-smart-glasses-next-year-211050767.html",
+            "keywords": [
+                "author_name|anna washenko",
+                "language|en-us",
+                "provider_name|engadget",
+                "site|engadget",
+                "technology & electronics",
+                "region|us"
+            ],
+            "creator": [
+                "Anna Washenko"
+            ],
+            "description": "Bloomberg's Mark Gurman reports that Apple aims to release smart glasses by the end of 2026. This product would be equipped with cameras, microphones and speakers so that a wearer could interact with the Siri voice assistant. The glasses would also support activities such as listening to music, taking phone calls or hearing step-by-step directions to a location.Apple has long been working toward an end goal of true augmented reality glasses, but it has faced several hurdles in getting its AI endeavors to parity with other rivals. We're expecting a lot of AI announcements during WWDC 2025 in a few weeks, but some of them may be met with skepticism after the slow and sometimes rocky rollout of its Apple Intelligence suite.Meanwhile, other companies have already made waves with AI-enabled smart glasses. Meta has seen a fair amount of success from its partnership with Ray-Ban. Google recently unveiled new plans for its Android XR mixed reality glasses with a demo during its I/O showcase earlier this week. And OpenAI is getting in on the hardware game thanks to its acquisition of Jony Ive's io design startup, although it hasn't offered details yet on planned projects. Apple's project sounds more akin to the Meta option than to the display-equipped model Google showed off, but we'll likely hear more specifics soon.While Apple pushes to ready smart glasses for next year, it has abandoned some other wearables projects. According to Gurman's sources, the company has left the idea of a camera-equipped Apple Watch and Apple Watch Ultra by the wayside. However, AirPods with cameras appear to still be in development.This article originally appeared on Engadget at https://www.engadget.com/wearables/apple-will-reportedly-release-smart-glasses-next-year-211050767.html?src=rss",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-22 21:10:50",
+            "pubDateTZ": "UTC",
+            "image_url": "https://s.yimg.com/ny/api/res/1.2/lhIwZj_9Ba5UMJhgYK0YfA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTM5MQ--/https://s.yimg.com/os/creatr-uploaded-images/2024-10/cca15510-80f6-11ef-b7ff-c916b3ceaae2",
+            "video_url": null,
+            "source_id": "engadget",
+            "source_name": "Engadget",
+            "source_priority": 2082,
+            "source_url": "https://www.engadget.com",
+            "source_icon": "https://n.bytvi.com/engadget.png",
+            "language": "english",
+            "country": [
+                "india",
+                "united states of america",
+                "singapore",
+                "united kingdom"
+            ],
+            "category": [
+                "technology"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "c4f27a95102a325d966f87eb7fb4a1a6",
+            "title": "Advocating for Another Chance for Tyrese Haliburton’s Dad, Carmelo Anthony Claims He Would’ve ‘Hulk Smashed’ John Haliburton",
+            "link": "https://thesportsrush.com/nba-news-advocating-for-another-chance-for-tyrese-haliburtons-dad-carmelo-anthony-claims-he-wouldve-hulk-smashed-john-haliburton/",
+            "keywords": [
+                "john haliburton",
+                "tyrese haliburton",
+                "carmelo anthony",
+                "basketball"
+            ],
+            "creator": [
+                "Nickeem Khan"
+            ],
+            "description": "Indiana Pacers star Tyrese Haliburton’s late-game heroics contributed to their massive Game 1 comeback victory over the New York Knicks in the Eastern Conference Finals. Everyone affiliated with the Pacers in that arena celebrated to their heart’s content. Unfortunately, Haliburton’s father, John, was absent. He remains banned after the Pacers beat the Bucks in the... Continue reading Advocating for Another Chance for Tyrese Haliburton’s Dad, Carmelo Anthony Claims He Would’ve ‘Hulk Smashed’ John HaliburtonThe post Advocating for Another Chance for Tyrese Haliburton’s Dad, Carmelo Anthony Claims He Would’ve ‘Hulk Smashed’ John Haliburton appeared first on The SportsRush.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-22 21:10:30",
+            "pubDateTZ": "UTC",
+            "image_url": "https://cdn-wp.thesportsrush.com/2025/05/5c3fbfdb-two-grid-2025-05-23t023902.912.jpg?format=auto&q=75&w=3840",
+            "video_url": null,
+            "source_id": "thesportsrush",
+            "source_name": "The Sportsrush",
+            "source_priority": 26931,
+            "source_url": "https://thesportsrush.com",
+            "source_icon": "https://n.bytvi.com/thesportsrush.jpg",
+            "language": "english",
+            "country": [
+                "india",
+                "australia",
+                "united states of america",
+                "united kingdom"
+            ],
+            "category": [
+                "sports"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "ead4154e5b56053af7b6c0320a5cab40",
+            "title": "Chandigarh News: एलांते मॉल में बम की सूचना से हड़कंपआंधी-बारिश में बिजली व्यवस्था ध्वस्त, मानसून में क्या हाल होगा",
+            "link": "https://www.amarujala.com/chandigarh/bomb-threat-at-elante-mall-caused-panic-power-system-destroyed-in-storm-and-rain-what-will-happen-in-monsoon-chandigarh-news-c-16-pkl1043-716823-2025-05-23",
+            "keywords": null,
+            "creator": null,
+            "description": "एलांते मॉल में बम की सूचना से हड़कंपआंधी-बारिश में बिजली व्यवस्था ध्वस्त, मानसून में क्या हाल होगा",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-22 21:10:20",
+            "pubDateTZ": "UTC",
+            "image_url": "https://staticimg.amarujala.com/assets/images/2021/11/01/chandigarh_1635757748.jpeg?dpr=1.0&q=80&w=414",
+            "video_url": null,
+            "source_id": "amarujala",
+            "source_name": "Amar Ujala",
+            "source_priority": 55215,
+            "source_url": "https://www.amarujala.com",
+            "source_icon": "https://n.bytvi.com/amarujala.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "14b45678d2f56264e7a58cdc76c180ab",
+            "title": "New Maryland athletic director Jim Smith promises new ideas, focus on revenue generation",
+            "link": "https://www.washingtontimes.com/news/2025/may/22/new-maryland-athletic-director-jim-smith-promises-new-ideas-focus/",
+            "keywords": null,
+            "creator": [
+                "George Gerbo"
+            ],
+            "description": "An Ohio State and Northwestern graduate with no previous ties to Maryland coming from the highest levels of professional sports to College Park might seem strange. But Jim Smith dashed any of those reservations in his introduction as the Terrapins' new athletic director.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-22 21:10:15",
+            "pubDateTZ": "UTC",
+            "image_url": "https://twt-thumbs.washtimes.com/media/image/2025/05/22/IMG_7381_s1440x1080.jpg?d091f0ac6a77bac1b6357990e6e1f57b58a17971=",
+            "video_url": null,
+            "source_id": "washingtontimes",
+            "source_name": "The Washington Times",
+            "source_priority": 9784,
+            "source_url": "https://www.washingtontimes.com",
+            "source_icon": "https://n.bytvi.com/washingtontimes.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "sports"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "f181ad434f65c696c39a5ed52d2b3ec9",
+            "title": "Chandigarh News: पीयूसीईटी यूजी की प्रवेश परीक्षा का परिणाम घोषित",
+            "link": "https://www.amarujala.com/chandigarh/pucet-ug-entrance-exam-result-declared-chandigarh-news-c-16-pkl1043-716620-2025-05-23",
+            "keywords": null,
+            "creator": null,
+            "description": "पीयूसीईटी यूजी की प्रवेश परीक्षा का परिणाम घोषित",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-22 21:10:13",
+            "pubDateTZ": "UTC",
+            "image_url": "https://staticimg.amarujala.com/assets/images/2021/11/01/chandigarh_1635757748.jpeg?dpr=1.0&q=80&w=414",
+            "video_url": null,
+            "source_id": "amarujala",
+            "source_name": "Amar Ujala",
+            "source_priority": 55215,
+            "source_url": "https://www.amarujala.com",
+            "source_icon": "https://n.bytvi.com/amarujala.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "14fbbc29339f8c84a493777ac2935b6b",
+            "title": "Texas Capital sets $35 target on APEI stock with Buy rating",
+            "link": "https://in.investing.com/news/analyst-ratings/texas-capital-sets-35-target-on-apei-stock-with-buy-rating-93CH-4844570",
+            "keywords": null,
+            "creator": [
+                "Investing.com"
+            ],
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-22 21:10:10",
+            "pubDateTZ": "UTC",
+            "image_url": "https://i-invdn-com.investing.com/news/international_newspapers_108x81.jpg",
+            "video_url": null,
+            "source_id": "investing_in",
+            "source_name": "Investing India",
+            "source_priority": 1205,
+            "source_url": "https://in.investing.com",
+            "source_icon": "https://n.bytvi.com/investing_in.jpg",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": true
+        },
+        {
+            "article_id": "2943d9e45c7d0785667ea97aec09cc18",
+            "title": "Texas Capital Securities sets $26 target on Lincoln stock",
+            "link": "https://in.investing.com/news/analyst-ratings/texas-capital-securities-sets-26-target-on-lincoln-stock-93CH-4844567",
+            "keywords": null,
+            "creator": [
+                "Investing.com"
+            ],
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-22 21:10:09",
+            "pubDateTZ": "UTC",
+            "image_url": "https://i-invdn-com.investing.com/news/news_headline_rolled_108x81.jpg",
+            "video_url": null,
+            "source_id": "investing_in",
+            "source_name": "Investing India",
+            "source_priority": 1205,
+            "source_url": "https://in.investing.com",
+            "source_icon": "https://n.bytvi.com/investing_in.jpg",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": true
+        },
+        {
+            "article_id": "c92dcc217a8d1e437ed5a7de9df747f3",
+            "title": "Maui Land & Pineapple Company Shareholders Vote on Key Proposals",
+            "link": "https://in.investing.com/news/sec-filings/maui-land--pineapple-company-shareholders-vote-on-key-proposals-93CH-4844573",
+            "keywords": null,
+            "creator": [
+                "Investing.com"
+            ],
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-22 21:10:09",
+            "pubDateTZ": "UTC",
+            "image_url": "https://i-invdn-com.investing.com/news/news_pile_108x81.jpg",
+            "video_url": null,
+            "source_id": "investing_in",
+            "source_name": "Investing India",
+            "source_priority": 1205,
+            "source_url": "https://in.investing.com",
+            "source_icon": "https://n.bytvi.com/investing_in.jpg",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": true
+        },
+        {
+            "article_id": "437745c7425593aa133eaeda7bf1f83c",
+            "title": "XTANDI shows survival benefit in prostate cancer study",
+            "link": "https://in.investing.com/news/company-news/xtandi-shows-survival-benefit-in-prostate-cancer-study-93CH-4844565",
+            "keywords": null,
+            "creator": [
+                "Investing.com"
+            ],
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-22 21:10:08",
+            "pubDateTZ": "UTC",
+            "image_url": "https://i-invdn-com.investing.com/news/World_News_9_M_1440052127.jpg",
+            "video_url": null,
+            "source_id": "investing_in",
+            "source_name": "Investing India",
+            "source_priority": 1205,
+            "source_url": "https://in.investing.com",
+            "source_icon": "https://n.bytvi.com/investing_in.jpg",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": true
+        },
+        {
+            "article_id": "3e747490bc03756204a15aa940052db6",
+            "title": "Texas Capital initiates UTI stock with Buy, $38 price target",
+            "link": "https://in.investing.com/news/analyst-ratings/texas-capital-initiates-uti-stock-with-buy-38-price-target-93CH-4844568",
+            "keywords": null,
+            "creator": [
+                "Investing.com"
+            ],
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-22 21:10:08",
+            "pubDateTZ": "UTC",
+            "image_url": "https://i-invdn-com.investing.com/news/news_six_pile_108x81.jpg",
+            "video_url": null,
+            "source_id": "investing_in",
+            "source_name": "Investing India",
+            "source_priority": 1205,
+            "source_url": "https://in.investing.com",
+            "source_icon": "https://n.bytvi.com/investing_in.jpg",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": true
+        },
+        {
+            "article_id": "f0205f03b7c407899067954a736250ee",
+            "title": "Earnings call transcript: ePlus Q4 2025 sees EPS miss, stock dips 3.3%",
+            "link": "https://in.investing.com/news/transcripts/earnings-call-transcript-eplus-q4-2025-sees-eps-miss-stock-dips-33-93CH-4844572",
+            "keywords": null,
+            "creator": [
+                "Investing.com"
+            ],
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-22 21:10:07",
+            "pubDateTZ": "UTC",
+            "image_url": "https://i-invdn-com.investing.com/news/international_newspapers_108x81.jpg",
+            "video_url": null,
+            "source_id": "investing_in",
+            "source_name": "Investing India",
+            "source_priority": 1205,
+            "source_url": "https://in.investing.com",
+            "source_icon": "https://n.bytvi.com/investing_in.jpg",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": true
+        },
+        {
+            "article_id": "4b5b439f269ec16d4feb6ed5b1403390",
+            "title": "Celera Corporation prices 20 million unit IPO at $10 per share",
+            "link": "https://in.investing.com/news/stock-market-news/celera-corporation-prices-20-million-unit-ipo-at-10-per-share-432SI-4844569",
+            "keywords": null,
+            "creator": [
+                "Investing.com"
+            ],
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-22 21:10:06",
+            "pubDateTZ": "UTC",
+            "image_url": "https://i-invdn-com.investing.com/news/LYNXMPEB280W7_M.jpg",
+            "video_url": null,
+            "source_id": "investing_in",
+            "source_name": "Investing India",
+            "source_priority": 1205,
+            "source_url": "https://in.investing.com",
+            "source_icon": "https://n.bytvi.com/investing_in.jpg",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "business"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": true
+        },
+        {
+            "article_id": "2f09e4683670c6a637811500ee55fd59",
+            "title": "NABARD holds plantation drive at Fisheries College",
+            "link": "https://thehillstimes.in/assam/nabard-holds-plantation-drive-at-fisheries-college",
+            "keywords": [
+                "assam"
+            ],
+            "creator": [
+                "The Hills Times"
+            ],
+            "description": "HT Correspondent NAGAON, May 22: The District Development Office of NABARD, Nagaon, organised a plantation drive titled ‘Ek Ped Maa Ke Naam’ at the College of Fisheries (CoF), Raha, on Thursday, as part of a broader campaign under the observance of the International Year of Cooperatives – 2025. The drive aimed to promote environmental sustainability [...]",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-22 21:10:00",
+            "pubDateTZ": "UTC",
+            "image_url": null,
+            "video_url": null,
+            "source_id": "thehillstimes",
+            "source_name": "The Hills Times",
+            "source_priority": 514422,
+            "source_url": "https://thehillstimes.in",
+            "source_icon": "https://n.bytvi.com/thehillstimes.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "44ca0a6d5e7e9b1d0029b0767ee61d5b",
+            "title": "SC directs Karnataka Government to release TDR certificates in favour of royal family heirs",
+            "link": "https://www.thehindu.com/news/national/karnataka/sc-directs-karnataka-government-to-release-tdr-certificates-in-favour-of-royal-family-heirs/article69607483.ece",
+            "keywords": [
+                "karnataka"
+            ],
+            "creator": null,
+            "description": "The case relates to the acquiring of Bangalore Palace Grounds for widening the Ballari and Jayamahal roads",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-22 21:10:00",
+            "pubDateTZ": "UTC",
+            "image_url": "https://th-i.thgim.com/public/incoming/jilf8p/article69312097.ece/alternates/LANDSCAPE_1200/IMG_Palace_Ground_2_1_JMDN495P.jpg",
+            "video_url": null,
+            "source_id": "thehindu",
+            "source_name": "The Hindu",
+            "source_priority": 2972,
+            "source_url": "https://www.thehindu.com",
+            "source_icon": "https://n.bytvi.com/thehindu.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "e87519d96ee4d1e134cd1c2a7ee7ea18",
+            "title": "PM Modi virtually inaugurates redeveloped Karchhana rly stn",
+            "link": "https://timesofindia.indiatimes.com/city/allahabad/pm-modi-virtually-inaugurates-redeveloped-karchhana-rly-stn/articleshow/121346807.cms",
+            "keywords": null,
+            "creator": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-22 21:09:56",
+            "pubDateTZ": "UTC",
+            "image_url": "https://static.toiimg.com/thumb/msid-121346803,width-1070,height-580,imgsize-62104,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "video_url": null,
+            "source_id": "toi",
+            "source_name": "The Times Of India",
+            "source_priority": 239,
+            "source_url": "https://timesofindia.indiatimes.com",
+            "source_icon": "https://n.bytvi.com/toi.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "health"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "ccddddc202ee42305fd88af2a448ffc2",
+            "title": "Bareilly News: बिजली आपूर्ति बाधित करने वाले 87 संविदा कर्मियों के खिलाफ दी तहरीर",
+            "link": "https://www.amarujala.com/uttar-pradesh/bareilly/tahrir-lodged-against-87-contract-workers-who-disrupted-power-supply-bareilly-news-c-4-lko1064-646186-2025-05-23",
+            "keywords": null,
+            "creator": null,
+            "description": "सरकारी काम में बाधा डालने का आरोप, कार्यदायी फर्म ने 17 कर्मचारियों को नामजद किया",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-22 21:09:54",
+            "pubDateTZ": "UTC",
+            "image_url": "https://staticimg.amarujala.com/assets/images/2021/12/01/bareilly_1638345241.jpeg?dpr=1.0&q=80&w=414",
+            "video_url": null,
+            "source_id": "amarujala",
+            "source_name": "Amar Ujala",
+            "source_priority": 55215,
+            "source_url": "https://www.amarujala.com",
+            "source_icon": "https://n.bytvi.com/amarujala.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "0177326815d4d749df8e5499f7b73b87",
+            "title": "G7 finance talks end in show of unity despite tariff turmoil",
+            "link": "https://www.hindustantimes.com/world-news/g7-finance-talks-end-in-show-of-unity-despite-tariff-turmoil-101747948164816.html",
+            "keywords": [
+                "world-news"
+            ],
+            "creator": null,
+            "description": "G7 finance talks end in show of unity despite tariff turmoil",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-22 21:09:24",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.hindustantimes.com/ht-img/img/2024/12/18/1600x900/World_3_1734523201355_1734523249781.jpg",
+            "video_url": null,
+            "source_id": "hindustantimes",
+            "source_name": "Hindustan Times",
+            "source_priority": 933,
+            "source_url": "http://www.hindustantimes.com",
+            "source_icon": "https://n.bytvi.com/hindustantimes.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "world"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
             "article_id": "9578652092afec68ac75c32d20fdfb3d",
             "title": "Yes, You Should be Cold Plunging. The Health Benefits Are Real—But They're Not What You Think. - Oprah Daily",
             "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQYklwN0pFRERyOTllbGRNWFBDbjdOZ3RYeUtMWU5mVmxCcHl0VFBfVWtBeGxXcUNVOGlCUFVQZkhhc1diYTlTRUtuQWRnN19qbW9qN0F5Sm0wOFdhWHZvV1pyYVk3dURTYlpiazJxcXc5M3NUd1A4akZYeEtOYzJQY0V3bzJPQQ?oc=5",
