@@ -1,6 +1,784 @@
 {
     "articles": [
         {
+            "article_id": "d8fff6d1e76f5bde8a1957ad15c0be53",
+            "title": "Bride appears for exam after wedding",
+            "link": "https://www.thehindu.com/news/national/karnataka/bride-appears-for-exam-after-wedding/article69607327.ece",
+            "keywords": [
+                "karnataka"
+            ],
+            "creator": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-22 15:35:57",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+            "video_url": null,
+            "source_id": "thehindu",
+            "source_name": "The Hindu",
+            "source_priority": 2972,
+            "source_url": "https://www.thehindu.com",
+            "source_icon": "https://n.bytvi.com/thehindu.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "f252882f9ea9ce4eab62001a3479d269",
+            "title": "सलमान खान की सुरक्षा में बड़ी चूक, देर रात घर में घुसी मॉडल",
+            "link": "https://www.aajtak.in/entertainment/bollywood-news/video/security-breach-in-salman-protection-despite-y-security-model-made-it-to-the-doorstep-ytvd-2246653-2025-05-22",
+            "keywords": null,
+            "creator": null,
+            "description": "सलमान खान की सुरक्षा में एक बार फिर चूक सामने आई है, जब गुरुवार देर रात ईशा चौबड़िया नामक एक 36 वर्षीय मॉडल उनके गैलेक्सी अपार्टमेंट स्थित घर के दरवाज़े तक पहुँच गई. उसने दावा किया कि सलमान खान ने उसे बुलाया था, लेकिन यह बात झूठी निकली; यह कुछ ही दिनों में ऐसी दूसरी घटना है, इससे पहले छत्तीसगढ़ के जितेंद्र नामक व्यक्ति ने भी घुसने का प्रयास किया था. देखें...",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-22 15:35:52",
+            "pubDateTZ": "UTC",
+            "image_url": "https://akm-img-a-in.tosshub.com/aajtak/images/video/202505/amodelarrivedlateatsalmanshousecausingastir-s0-original-sixteen-to-nine.jpg",
+            "video_url": null,
+            "source_id": "aajtak",
+            "source_name": "Aaj Tak",
+            "source_priority": 20158,
+            "source_url": "http://aajtak.in",
+            "source_icon": "https://n.bytvi.com/aajtak.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "entertainment"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "b315b22613d9632b98a8a53e40577e92",
+            "title": "FAA allows SpaceX Starship's next flight, expands debris hazard zones",
+            "link": "https://www.channelnewsasia.com/business/faa-allows-spacex-starships-next-flight-expands-debris-hazard-zones-5147636",
+            "keywords": [
+                "business"
+            ],
+            "creator": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-22 15:35:51",
+            "pubDateTZ": "UTC",
+            "image_url": "https://dam.mediacorp.sg/image/upload/s--E7_rSer---/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2025-05-22t153551z_1_lynxmpel4l0ui_rtroptp_3_space-exploration-spacex.jpg?itok=vBsqAKbL",
+            "video_url": null,
+            "source_id": "channelnewsasia",
+            "source_name": "Channel Newsasia",
+            "source_priority": 4763,
+            "source_url": "https://www.channelnewsasia.com",
+            "source_icon": "https://n.bytvi.com/channelnewsasia.jpg",
+            "language": "english",
+            "country": [
+                "singapore",
+                "georgia",
+                "yemen",
+                "afghanistan",
+                "cyprus",
+                "india",
+                "saudi arabia",
+                "maldives",
+                "japan",
+                "united arab emirates",
+                "malaysia",
+                "china",
+                "south korea",
+                "north korea",
+                "taiwan",
+                "thailand",
+                "pakistan",
+                "mongolia",
+                "brunei",
+                "lebanon",
+                "indonesia",
+                "kyrgyzstan",
+                "syria",
+                "israel",
+                "bhutan",
+                "iran",
+                "turkey",
+                "armenia",
+                "qatar",
+                "philippines",
+                "hong kong",
+                "kazakhstan",
+                "iraq",
+                "bangladesh",
+                "laos",
+                "vietnam",
+                "timor-leste",
+                "kuwait",
+                "myanmar",
+                "azerbaijan",
+                "jordan",
+                "nepal",
+                "oman",
+                "sri lanka",
+                "uzbekistan",
+                "turkmenistan",
+                "macau",
+                "bahrain",
+                "cambodia",
+                "tajikistan"
+            ],
+            "category": [
+                "business"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "a8a3f99000921554b643894f6182acd2",
+            "title": "FAA approves return to flight for SpaceX's Starship rocket",
+            "link": "https://www.channelnewsasia.com/business/faa-approves-return-flight-spacexs-starship-rocket-5147636",
+            "keywords": [
+                "business"
+            ],
+            "creator": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-22 15:35:51",
+            "pubDateTZ": "UTC",
+            "image_url": "https://dam.mediacorp.sg/image/upload/s--E7_rSer---/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2025-05-22t153551z_1_lynxmpel4l0ui_rtroptp_3_space-exploration-spacex.jpg?itok=vBsqAKbL",
+            "video_url": null,
+            "source_id": "channelnewsasia",
+            "source_name": "Channel Newsasia",
+            "source_priority": 4763,
+            "source_url": "https://www.channelnewsasia.com",
+            "source_icon": "https://n.bytvi.com/channelnewsasia.jpg",
+            "language": "english",
+            "country": [
+                "singapore",
+                "georgia",
+                "yemen",
+                "afghanistan",
+                "cyprus",
+                "india",
+                "saudi arabia",
+                "maldives",
+                "japan",
+                "united arab emirates",
+                "malaysia",
+                "china",
+                "south korea",
+                "north korea",
+                "taiwan",
+                "thailand",
+                "pakistan",
+                "mongolia",
+                "brunei",
+                "lebanon",
+                "indonesia",
+                "kyrgyzstan",
+                "syria",
+                "israel",
+                "bhutan",
+                "iran",
+                "turkey",
+                "armenia",
+                "qatar",
+                "philippines",
+                "hong kong",
+                "kazakhstan",
+                "iraq",
+                "bangladesh",
+                "laos",
+                "vietnam",
+                "timor-leste",
+                "kuwait",
+                "myanmar",
+                "azerbaijan",
+                "jordan",
+                "nepal",
+                "oman",
+                "sri lanka",
+                "uzbekistan",
+                "turkmenistan",
+                "macau",
+                "bahrain",
+                "cambodia",
+                "tajikistan"
+            ],
+            "category": [
+                "business"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": true
+        },
+        {
+            "article_id": "59f8058fd4268c91ec1228f8a6323bf5",
+            "title": "केरल 12वीं परीक्षा परिणाम: उत्तीर्ण प्रतिशत में मामूली गिरावट, लड़कियां लड़कों से आगे",
+            "link": "https://hindi.theprint.in/india/kerala-12th-exam-results-slight-drop-in-pass-percentage-girls-outdo-boys/821899/",
+            "keywords": [
+                "bhasha wire",
+                "देश"
+            ],
+            "creator": [
+                "भाषा"
+            ],
+            "description": "तिरुवनंतपुरम, 22 मई (भाषा) केरल में बृहस्पतिवार को उच्चतर माध्यमिक परीक्षा का परिणाम घोषित कर दिया गया और इस बार पिछले वर्ष की तुलना में उत्तीर्ण छात्रों के प्रतिशत में मामूली गिरावट दर्ज की गई है। परिणाम घोषित करते हुए केरल के शिक्षा मंत्री वी. शिवनकुट्टी ने कहा कि इस वर्ष 3,70,642 विद्यार्थियों ने परीक्षा [...]",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-22 15:35:50",
+            "pubDateTZ": "UTC",
+            "image_url": "https://statichindi.theprint.in/wp-content/uploads/2023/06/RE6.jpg",
+            "video_url": null,
+            "source_id": "theprint_hi",
+            "source_name": "Theprint Hindi",
+            "source_priority": 14094,
+            "source_url": "https://hindi.theprint.in",
+            "source_icon": "https://n.bytvi.com/theprint_hi.jpg",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "other"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "9dfee88a9d93ca75d21b78b8e034de84",
+            "title": "First-Year Engineering Student Dies By Suicide In UP Hostel: Police",
+            "link": "https://www.ndtv.com/india-news/first-year-engineering-student-dies-by-suicide-in-up-hostel-police-8482052",
+            "keywords": null,
+            "creator": null,
+            "description": "A first-year student at Motilal Nehru National Institute of Technology (MNNIT) allegedly hanged himself in his hostel room on Thursday, police said.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-22 15:35:48",
+            "pubDateTZ": "UTC",
+            "image_url": "https://c.ndtvimg.com/2022-12/0htt5beg_india-police-generic_625x300_23_December_22.jpg?im=FeatureCrop%2Calgorithm%3Ddnn%2Cwidth%3D773%2Cheight%3D435",
+            "video_url": null,
+            "source_id": "ndtv",
+            "source_name": "Ndtv",
+            "source_priority": 1204,
+            "source_url": "http://www.ndtv.com",
+            "source_icon": "https://n.bytvi.com/ndtv.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "61fa6ae7bff266ddfa98b83147a255ad",
+            "title": "Denmark shares lower at close of trade; OMX Copenhagen 20 down 1.73%",
+            "link": "https://in.investing.com/news/stock-market-news/denmark-shares-lower-at-close-of-trade-omx-copenhagen-20-down-173-4843970",
+            "keywords": null,
+            "creator": [
+                "Investing.com"
+            ],
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-22 15:35:44",
+            "pubDateTZ": "UTC",
+            "image_url": null,
+            "video_url": null,
+            "source_id": "investing_in",
+            "source_name": "Investing India",
+            "source_priority": 1205,
+            "source_url": "https://in.investing.com",
+            "source_icon": "https://n.bytvi.com/investing_in.jpg",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "43399cde45482632b91ef34ee4c38e7a",
+            "title": "भागीदारी पार्टी के राष्ट्रीय अध्यक्ष का प्रजापति समाज ने किया भव्य स्वागत",
+            "link": "https://www.sachkahoon.com/prajapati-samaj-gave-a-grand-welcome-to-the-national-president-of-bhagidari-party/",
+            "keywords": [
+                "दिल्ली/यूपी",
+                "muzaffarnagar news",
+                "हरियाणा",
+                "jansath news"
+            ],
+            "creator": [
+                "Sarvesh Kumar"
+            ],
+            "description": "जानसठ (सच कहूं/कोमल प्रजापति)। Jansath News: बृहस्पतिवार को भागीदारी पार्टी के राष्ट्रीय अध्यक्ष प्रेमचंद प्रजापति का मुजफ्फरनगर पहुंचने पर प्रजापति समाज के लोगों ने गर्मजोशी से स्वागत किया। जैसे ही वे जानसठ पहुंचे, वहां कस्बा स्थित मेहलकी गांव के पूर्व प्रधान राजकुमार उर्फ राजू प्रजापति के आवास पर समाज के लोगों ने उनका भव्य स्वागत [...]The post भागीदारी पार्टी के राष्ट्रीय अध्यक्ष का प्रजापति समाज ने किया भव्य स्वागत appeared first on Sach kahoon - Best Online Hindi News.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-22 15:35:42",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.sachkahoon.com/wp-content/uploads/2025/05/Jansath-News-696x392.jpg",
+            "video_url": null,
+            "source_id": "sachkahoon",
+            "source_name": "Sach Kahoon",
+            "source_priority": 10821162,
+            "source_url": "https://www.sachkahoon.com",
+            "source_icon": null,
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "3ac04c40c46b6bb2d738fd9f08ef3c91",
+            "title": "Navratna firm CONCOR reports modest decline in Q4 profit and revenue, announces bonus issue",
+            "link": "https://www.cnbctv18.com/market/earnings/navratna-concor-bonus-shares-q4-2025-results-stock-price-19609060.htm",
+            "keywords": [
+                "latest"
+            ],
+            "creator": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-22 15:35:41",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.cnbctv18.com/uploads/2023/02/port-shutterstock.jpg",
+            "video_url": null,
+            "source_id": "cnbctv18",
+            "source_name": "Cnbctv18",
+            "source_priority": 17950,
+            "source_url": "https://www.cnbctv18.com",
+            "source_icon": "https://n.bytvi.com/cnbctv18.jpg",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "52b5529c3370deb54bb57ebab0240312",
+            "title": "इंदौर की बीआरटीएस परियोजना से जुड़ी तुर्किये की कंपनी स्थानीय प्रशासन के रडार पर आई",
+            "link": "https://hindi.theprint.in/india/turkish-company-associated-with-indores-brts-project-came-under-the-radar-of-local-administration/821898/",
+            "keywords": [
+                "bhasha wire",
+                "देश"
+            ],
+            "creator": [
+                "भाषा"
+            ],
+            "description": "इंदौर (मध्यप्रदेश) , 22 मई (भाषा) इंदौर की बस रैपिड ट्रांजिट सिस्टम (बीआरटीएस) परियोजना से जुड़ी तुर्किये की एक कंपनी स्थानीय प्रशासन की जांच के दायरे में आ गई है और इस पर ठेका रद्द होने की तलवार लटक रही है। शहर के महापौर पुष्यमित्र भार्गव ने बृहस्पतिवार को संवाददाताओं को बताया,‘‘मुझे पता चला है [...]",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-22 15:35:39",
+            "pubDateTZ": "UTC",
+            "image_url": "https://statichindi.theprint.in/wp-content/uploads/2023/06/RE6.jpg",
+            "video_url": null,
+            "source_id": "theprint_hi",
+            "source_name": "Theprint Hindi",
+            "source_priority": 14094,
+            "source_url": "https://hindi.theprint.in",
+            "source_icon": "https://n.bytvi.com/theprint_hi.jpg",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "other"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "8d42b581521119298e7ec4c1142e94e1",
+            "title": "WWDC 2025: The five biggest announcements to expect (so far)",
+            "link": "https://startupnews.fyi/2025/05/22/wwdc-2025-the-five-biggest-announcements-to-expect-so-far/",
+            "keywords": [
+                "world news",
+                "tech"
+            ],
+            "creator": [
+                "9to5mac"
+            ],
+            "description": "There’s just over two weeks left before WWDC 2025. While insiders like Mark Gurman tend to save a few leaks as last-minute tidbits before the big event, it might be safe to say that there has been enough smoke to give us a good idea of what to expect. Here’s what’s coming. 1) Big iOS [...]",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-22 15:35:36",
+            "pubDateTZ": "UTC",
+            "image_url": "https://startupnews.fyi/wp-content/uploads/2025/04/wwdc25.jpg.webp.jpeg",
+            "video_url": null,
+            "source_id": "startupnews",
+            "source_name": "Startupnews",
+            "source_priority": 443815,
+            "source_url": "https://startupnews.fyi",
+            "source_icon": "https://n.bytvi.com/startupnews.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": true
+        },
+        {
+            "article_id": "7997a64bbaefb5df26bc7dca0713fac0",
+            "title": "Prosecutor says Michigan police officer who killed Black motorist won't face a second trial",
+            "link": "https://www.washingtontimes.com/news/2025/may/22/prosecutor-says-michigan-police-officer-killed-black-motorist-face/",
+            "keywords": null,
+            "creator": [
+                "Ed White"
+            ],
+            "description": "A Michigan police officer who fatally shot a Black man in the back of the head after a tumultuous traffic stop will not face a second trial, a prosecutor said Thursday, two weeks after a trial ended without a unanimous verdict.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-22 15:35:36",
+            "pubDateTZ": "UTC",
+            "image_url": "https://twt-thumbs.washtimes.com/media/image/2025/05/01/Police_Shooting-Michigan_47217_c0-52-1231-769_s885x516.jpg?ad842f5b85135cfabb93ccefe68f8334b9d966ee=",
+            "video_url": null,
+            "source_id": "washingtontimes",
+            "source_name": "The Washington Times",
+            "source_priority": 9784,
+            "source_url": "https://www.washingtontimes.com",
+            "source_icon": "https://n.bytvi.com/washingtontimes.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": true
+        },
+        {
+            "article_id": "e31db44b5cc84d903d9263c7fbe6edde",
+            "title": "एडवांस टिप के नाम पर हो रहा खेल? उबर के बाद ओला और रैपिडो पर सरकार सख्त",
+            "link": "https://www.livehindustan.com/business/after-uber-ccpa-probes-ola-and-rapido-over-advance-tip-for-faster-rides-detail-here-201747927912705.html",
+            "keywords": [
+                "business"
+            ],
+            "creator": null,
+            "description": "CCPA जांच के जरिए यह पता लगाना चाहता है कि क्या कंपनियां यूजर्स को तेज और तुरंत सर्विस के बदले में एडवांस टिप देने के लिए मजबूर कर रही हैं या फिर उन्हें उकसा रही हैं।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-22 15:35:34",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.livehindustan.com/lh-img/smart/img/2025/05/22/1200x900/Republic_Day_-_Word_Search_1737725753608_1747928119384.jpg",
+            "video_url": null,
+            "source_id": "livehindustan",
+            "source_name": "Hindustan",
+            "source_priority": 127332,
+            "source_url": "https://www.livehindustan.com",
+            "source_icon": "https://n.bytvi.com/livehindustan.jpg",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "business"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "83e56e0ecafa0cf91b89443008e44747",
+            "title": "लखनऊ में बच्चों से भीख मंगवाने वालों की खैर नहीं, AI कैमरों से होगी निगरानी, पकड़े गए तो...",
+            "link": "https://zeenews.india.com/hindi/india/up-uttarakhand/lucknow/1000-ai-cctv-camera-will-be-installed-at-main-crossings-in-lucknow-to-curb-begging-by-children/2769293",
+            "keywords": null,
+            "creator": [
+                "Zee News Hindi"
+            ],
+            "description": "Lucknow News: लखनऊ में बच्चों से भीख मंगवाने गिरोह के खिलाफ प्रशासन बड़े एक्शन की तैयारी में है. शहर के प्रमुख 19 चौराहों और सार्वजनिक स्थलों पर AI कैमरों से नजर रखी जाए जो संदिग्त गतिविधि देखते ही तुरंत फोटो कंट्रोल रूम भेज देंगे.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-22 15:35:32",
+            "pubDateTZ": "UTC",
+            "image_url": "https://hindi.cdn.zeenews.com/hindi/sites/default/files/2025/05/22/3930774-lucknow.png?im=FitAndFill%3D%28600%2C315%29",
+            "video_url": null,
+            "source_id": "zeenews",
+            "source_name": "Zee News",
+            "source_priority": 5319,
+            "source_url": "http://zeenews.india.com",
+            "source_icon": "https://n.bytvi.com/zeenews.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "5a3f1c527e6d74d5b1241cfe787d81db",
+            "title": "दिव्यांग सरकारी कर्मियों को आवास आवंटन में चार प्रतिशत आरक्षण मिलेगा",
+            "link": "https://hindi.theprint.in/india/disabled-government-employees-will-get-four-percent-reservation-in-housing-allotment/821897/",
+            "keywords": [
+                "bhasha wire",
+                "देश"
+            ],
+            "creator": [
+                "भाषा"
+            ],
+            "description": "नयी दिल्ली, 22 मई (भाषा) केंद्र ‘सामान्य पूल आवासीय आवास श्रेणी’ के तहत सरकारी आवास के आवंटन में दिव्यांग व्यक्तियों को चार प्रतिशत आरक्षण प्रदान करेगा। केंद्रीय आवास एवं शहरी मामलों के मंत्रालय के संपदा निदेशालय ने इस संबंध में एक कार्यालय ज्ञापन जारी किया है। यह निदेशालय पात्र केंद्रीय सरकारी कर्मचारियों को आवास आवंटित [...]",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-22 15:35:26",
+            "pubDateTZ": "UTC",
+            "image_url": "https://statichindi.theprint.in/wp-content/uploads/2023/06/RE6.jpg",
+            "video_url": null,
+            "source_id": "theprint_hi",
+            "source_name": "Theprint Hindi",
+            "source_priority": 14094,
+            "source_url": "https://hindi.theprint.in",
+            "source_icon": "https://n.bytvi.com/theprint_hi.jpg",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "other"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "eeb333cb3ffc12eed20aa6ef24c81462",
+            "title": "नीम पत्तों के 5 असरदार घरेलू इस्तेमाल",
+            "link": "https://jantaserishta.com/life-style/5-effective-home-uses-of-neem-leaves-4030606",
+            "keywords": [
+                "लाइफ स्टाइल"
+            ],
+            "creator": [
+                "Uma Verma"
+            ],
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-22 15:35:17",
+            "pubDateTZ": "UTC",
+            "image_url": "https://jantaserishta.com/h-upload/2025/05/22/4614444-02.webp",
+            "video_url": null,
+            "source_id": "jantaserishta",
+            "source_name": "Janta Se Rishta",
+            "source_priority": 81836,
+            "source_url": "https://jantaserishta.com",
+            "source_icon": "https://n.bytvi.com/jantaserishta.jpg",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "entertainment"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "8b261932e2391c9bdc4208ad42ff057b",
+            "title": "अगरतला से एवरेस्ट तक...माउंट एवरेस्ट पर त्रिपुरा के अरित्रा रॉय ने लहराया परचम",
+            "link": "https://hindi.news18.com/photogallery/nation/aritra-roy-became-first-person-from-tripura-to-scale-mount-everest-summit-2025-ws-l-9258372.html",
+            "keywords": [
+                "देश"
+            ],
+            "creator": [
+                "Sumit Kumar"
+            ],
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-22 15:35:16",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.news18.com/ibnkhabar/uploads/2025/05/aritra-roy-became-first-person-from-Tripura-to-scale-Mount-everest-summit-2025-2025-05-9c96a6a93812ead3b0f369fb30568825-3x2.jpg",
+            "video_url": null,
+            "source_id": "hindinews18",
+            "source_name": "News 18 Hindi",
+            "source_priority": 4077,
+            "source_url": "https://hindi.news18.com",
+            "source_icon": "https://n.bytvi.com/hindinews18.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "4b09869427e5df471764c4b49d8895ed",
+            "title": "दीक्षा को दूसरा स्वर्ण, मणिपुर और नगालैंड पेनसैक सिलाट में चमके",
+            "link": "https://hindi.theprint.in/sports/diksha-gets-second-gold-manipur-and-nagaland-shine-in-pensak-silat/821896/",
+            "keywords": [
+                "bhasha wire",
+                "खेल"
+            ],
+            "creator": [
+                "भाषा"
+            ],
+            "description": "दीव, 22 मई (भाषा) महाराष्ट्र की दीक्षा यादव ने खेलो इंडिया बीच खेल (केआईबीजी) 2025 में बृहस्पतिवार को यहां ‘ओपन सी तैराकी’ में लगातार दूसरा स्वर्ण पदक जीता। बुधवार को 10 किमी का खिताब जीतने वाली 19 साल की दीक्षा ने सुबह के सत्र में घोघला बीच पर पांच किमी वर्ग में बाजी मारी। दीक्षा [...]",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-22 15:35:14",
+            "pubDateTZ": "UTC",
+            "image_url": "https://statichindi.theprint.in/wp-content/uploads/2023/06/RE6.jpg",
+            "video_url": null,
+            "source_id": "theprint_hi",
+            "source_name": "Theprint Hindi",
+            "source_priority": 14094,
+            "source_url": "https://hindi.theprint.in",
+            "source_icon": "https://n.bytvi.com/theprint_hi.jpg",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "other"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "8c1049fdee8280afe3a5c8f8dbd1fb4f",
+            "title": "Kada Bangle Designs: हाथों में पहनती हैं कड़े, तो ये सिंगल डिजाइन आएगी आपके काम",
+            "link": "https://www.herzindagi.com/hindi/fashion/single-hand-kada-bangle-designs-for-women-article-1029110",
+            "keywords": [
+                "kangan best design,bridal women's gold kangan design,bengali gold kangan design,kangan design chudi,ladies kangan design chandi,chudi kangan design,kangan design diamond"
+            ],
+            "creator": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-22 15:35:12",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.herzindagi.info/her-zindagi-hindi/images/2025/05/22/article/image/kada-bangle-1747917113785.jpg",
+            "video_url": null,
+            "source_id": "herzindagi",
+            "source_name": "Herzindagi",
+            "source_priority": 12931,
+            "source_url": "https://www.herzindagi.com",
+            "source_icon": "https://n.bytvi.com/herzindagi.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "4f018be3897c6d48aff4eb45788f4d1f",
+            "title": "Barcelona Chief Deco Reveals Liking For These Two Premier League Stars - Check Details",
+            "link": "https://www.outlookindia.com/sports/football/barcelona-chief-deco-reveals-liking-for-these-two-premier-league-stars-check-details",
+            "keywords": [
+                "football,manchester united,liverpool,aston villa,barcelona,marcus rashford,deco,luis diaz,barcelona news,fc barcelona,fc barcelona news,manchester united news"
+            ],
+            "creator": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-22 15:35:06",
+            "pubDateTZ": "UTC",
+            "image_url": "https://media.assettype.com/outlookindia/2025-05-22/2s5gfs81/luis_diaz_1lehg86gity4m1jsfj3ftpgvmz.png?ar=40%3A21&auto=format%2Ccompress&enlarge=true&mode=crop&ogImage=true&overlay=false&overlay_position=bottom&overlay_width=100&w=1200",
+            "video_url": null,
+            "source_id": "outlookindia",
+            "source_name": "Outlook",
+            "source_priority": 3475,
+            "source_url": "https://www.outlookindia.com",
+            "source_icon": "https://n.bytvi.com/outlookindia.jpg",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
             "article_id": "57852d3cb0512f8c4ae31179f9577307",
             "title": "भिंड में पार्षद पर दबंगई का आरोप:अकाउंटेंट शाखा में लगाया ताला; लिपिक को फोन पर की अभद्रता, एफआईआर दर्ज",
             "link": "https://www.bhaskar.com/local/mp/bhind/news/bullying-by-bhind-nagar-palika-councillor-135080733.html",
