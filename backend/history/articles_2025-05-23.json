@@ -1,6 +1,656 @@
 {
     "articles": [
         {
+            "article_id": "e6cea770b3cbc7d7adb894ec0de6fd70",
+            "title": "A sunset on Mars? NASA’s Spirit rover captures haunting view of Mars - WION",
+            "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQ1VlNkthVzg1UEJEVDJ2d1cxV19zSEpQT1R0TUlpV095SzJXWG8xZGt5MDBMUEY3V08xSExpZ2gtQUpfbTktRjNicEpVOWU2ZTFDSENVcVUtUXZGZmdvdml1NzU0Z1ZxVkluOHExT3FzYUQ0SWY3cFUwRUlTQ29QamhHejVmZkp6SG41NFBuY0t5ckRvWVExMEUzbWxTTWZUWGlCQWtUc3JzQVV1QXROckdB?oc=5",
+            "keywords": null,
+            "creator": null,
+            "description": "A sunset on Mars? NASA’s Spirit rover captures haunting view of Mars WIONImage: Sunset at Mars's Gusev Crater in 2005 Phys.orgNASA image shows a striking Martian sunset AOL.comMars Reveals a Sunset Stranger Than You Ever Imagined The Daily GalaxyA sunset on Mars? NASA’s Spirit captured this haunting view on Mars in 2005 WION",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-23 12:48:00",
+            "pubDateTZ": "UTC",
+            "image_url": null,
+            "video_url": null,
+            "source_id": "google",
+            "source_name": "Google News",
+            "source_priority": 14,
+            "source_url": "https://news.google.com",
+            "source_icon": "https://n.bytvi.com/google.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "science"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "f58714015158b691dfb651c11bdddd24",
+            "title": "Salzer Electronics wins order worth Rs 192 cr from Bruhat Bengaluru Mahanagara Palike",
+            "link": "https://www.business-standard.com/markets/capital-market-news/salzer-electronics-wins-order-worth-rs-192-cr-from-bruhat-bengaluru-mahanagara-palike-125052301453_1.html",
+            "keywords": null,
+            "creator": null,
+            "description": "The order will be executed in consortium with Schnell Energy Equipments, a Coimbatore based Firm specializing in energy-efficient solutions for smart cities and infrastructure projects.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-23 12:48:00",
+            "pubDateTZ": "UTC",
+            "image_url": null,
+            "video_url": null,
+            "source_id": "business-standard",
+            "source_name": "Business Standard",
+            "source_priority": 9158,
+            "source_url": "https://www.business-standard.com",
+            "source_icon": "https://n.bytvi.com/business-standard.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "business"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "6b916d3e1c7f2ee00037c1fd285c5fa0",
+            "title": "Gemini Daily Horoscope Today, May 24, 2025: Do Not Rush Past The Little Things",
+            "link": "https://timesofindia.indiatimes.com/astrology/horoscope/gemini-daily-horoscope-today-may-24-2025-do-not-rush-past-the-little-things/articleshow/121364409.cms",
+            "keywords": null,
+            "creator": null,
+            "description": "Today, Geminis are encouraged to pay attention to overlooked details, as they may hold important guidance in love, career, finances, and health. A simple gesture or forgotten idea could shift your understanding and lead to clarity. Focus on small adjustments and thoughtful vision rather than rushing into big changes, as the universe rewards quiet attention.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-23 12:47:59",
+            "pubDateTZ": "UTC",
+            "image_url": "https://static.toiimg.com/thumb/msid-121364409,width-1070,height-580,imgsize-87948,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "video_url": null,
+            "source_id": "toi",
+            "source_name": "The Times Of India",
+            "source_priority": 239,
+            "source_url": "https://timesofindia.indiatimes.com",
+            "source_icon": "https://n.bytvi.com/toi.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "11b6ebfacc409f4fcfe14a25d7cd57b3",
+            "title": "Pearson Highlights Job Redesign as Key to Bridging India’s Tech Talent Gap in New Skills Outlook Report",
+            "link": "https://www.deccanchronicle.com/education/pearson-highlights-job-redesign-as-key-to-bridging-indias-tech-talent-gap-in-new-skills-outlook-report-1880817",
+            "keywords": [
+                "education,news"
+            ],
+            "creator": [
+                "Sandeep Erukala"
+            ],
+            "description": "Amid rapid advancements in automation and AI, particularly within the technology sector, the study calls for organizations to rethink their workforce development strategies.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-23 12:47:59",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.deccanchronicle.com/h-upload/2025/05/23/1920760-person.jpg",
+            "video_url": null,
+            "source_id": "andhrabhoomi",
+            "source_name": "Andhrabhoomi",
+            "source_priority": 4054772,
+            "source_url": "http://www.andhrabhoomi.net",
+            "source_icon": null,
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "f4a7137b554e6de7f2bda4278e29f91c",
+            "title": "Govt alert: common antibiotic treatment may be ‘life threatening’",
+            "link": "https://www.livemint.com/news/ipc-antibiotic-doctor-patient-drug-reaction-pharmacopeia-leukopenia-white-blood-cell-count-cdsco-healthcare-11747995928430.html",
+            "keywords": null,
+            "creator": null,
+            "description": "The commission noted that the fixed dose combination drug is showing serious adverse reaction in the form of leukopenia, a life-threatening condition which lowers the white blood cell count.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-23 12:47:57",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.livemint.com/lm-img/img/2025/05/23/1600x900/PTI12-19-2023-000172B-0_1703063024357_1748002785512.jpg",
+            "video_url": null,
+            "source_id": "livemint",
+            "source_name": "Mint",
+            "source_priority": 7134,
+            "source_url": "https://www.livemint.com",
+            "source_icon": "https://n.bytvi.com/livemint.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "4e1ee370a48526e8601ec3711d4bbbe2",
+            "title": "EAM Jaishankar Meets German Chancellor: 'Appreciate Solidarity As India Counters Terrorism Challenge'",
+            "link": "https://news.abplive.com/news/india/eam-s-jaishankar-meets-german-chancellor-friedrich-merz-elevate-ties-1774436",
+            "keywords": [
+                "india"
+            ],
+            "creator": [
+                "PTI"
+            ],
+            "description": "Berlin, May 23 (PTI) External Affairs Minister S Jaishankar on Friday told German Chancellor Friedrich Merz that India is looking forward to working with his government to elevate and expand the bilateral strategic partnership.Jaishankar is in Berlin in the concluding leg of his three-nation tour to the Netherlands, Denmark, and Germany.\"Honoured to meet Chancellor Friedrich Merz today in Berlin. Conveyed the best wishes of PM @narendramodi. Look forward to working with his government to elevate and expand our Strategic Partnership. Appreciate Germany’s solidarity as India counters the challenge of terrorism,\" Jaishankar posted on X.He also met Minister of Economy and Energy Katherina Reiche.\"Discussed ways to enhance our talent linkages, industry partnership and joint collaboration to build more resilient supply chains,\" Jaishankar said.He also held a \"good conversation\" with Gunter Sautter, Foreign & Security Policy Advisor to Merz.\"Exchanged perspectives on major global issues, including combatting terrorism. Our deepening partnership is an important factor of stability in an uncertain world. We will also work together to strengthen resilience and trust,\" Jaishankar said.On Thursday, Jaishankar held a \"good interaction\" with members of the German Bundestag (Parliament), and appreciated their strong support for the continued growth of India-Germany relations.\"Also discussed with them India’s firm commitment to combatting terrorism in all forms and manifestations,\" Jaishankar said. PTI NSA NSA(This report has been published as part of the auto-generated syndicate wire feed. Apart from the headline, no editing has been done in the copy by ABP Live.)",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-23 12:47:57",
+            "pubDateTZ": "UTC",
+            "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2025/05/23/641eaf359fc8191870fd32c6a260cc3317479989221401261_original.jpg",
+            "video_url": null,
+            "source_id": "abplive",
+            "source_name": "Abp News",
+            "source_priority": 7754,
+            "source_url": "http://abplive.com",
+            "source_icon": "https://n.bytvi.com/abplive.jpg",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "world"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "2e7360c9aca86c302814bedec75cf16c",
+            "title": "Kerala NGO Union State conference in Alappuzha from May 25",
+            "link": "https://www.thehindu.com/news/national/kerala/kerala-ngo-union-state-conference-in-alappuzha-from-may-25/article69610388.ece",
+            "keywords": [
+                "kerala"
+            ],
+            "creator": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-23 12:47:42",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+            "video_url": null,
+            "source_id": "thehindu",
+            "source_name": "The Hindu",
+            "source_priority": 2972,
+            "source_url": "https://www.thehindu.com",
+            "source_icon": "https://n.bytvi.com/thehindu.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "a2a8f87aa4d5706ef573b8c5815ccac9",
+            "title": "MS Dhoni के पैर छूते ही वैभव सूर्यवंशी का टीम इंडिया में हुआ सिलेक्शन, आशीर्वाद लेते हुए VIDEO हुआ वायरल",
+            "link": "https://indianews.in/sports/vaibhav-sooryavanshi-takes-blessings-touch-ms-dhoni-feet-video-goes-viral-ipl-2025-india-news/",
+            "keywords": null,
+            "creator": null,
+            "description": "Vaibhav Suryavanshi MS Dhoni Video: जब आईपीएल 2025 शुरू भी नहीं हुआ था, तब से 14 साल के वैभव सूर्यवंशी चर्चा में हैं। जब टूर्नामेंट शुरू हुआ, तब सूर्यवंशी ने अपनी बल्लेबाजी से सभी का दिल जीत लिया। अब सोशल मीडिया पर एक वीडियो वायरल हो रहा है, जिसमें वैभव एमएस धोनी (MS Dhoni News) के पैर छूते नजर आ रहे हैं।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-23 12:47:42",
+            "pubDateTZ": "UTC",
+            "image_url": "https://indianews.in/wp-content/uploads/2025/05/Vaibhav-Suryavanshi-MS-Dhoni-Video.webp",
+            "video_url": null,
+            "source_id": "indianews",
+            "source_name": "India News Rajasthan",
+            "source_priority": 1433119,
+            "source_url": "https://rajasthan.indianews.in",
+            "source_icon": "https://n.bytvi.com/indianews.jpg",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "acb223c364c20d21cad3e505ccebbce7",
+            "title": "केतु गोचर लाएगा इस 1 राशि के जीवन में मुश्किलों का सैलाब, पैसों की तंगी से लेकर, परिवार में कलेश तक झेलनी पड़ेगी अनेकों समस्याएं",
+            "link": "https://indianews.in/dharam/ketu-gochar-will-bring-a-flood-of-problems-in-the-life-of-this-zodiac-sign-from-shortage-of-money-to-family-disputes/",
+            "keywords": null,
+            "creator": null,
+            "description": "Ketu Gochar 2025: केतु गोचर लाएगा इस 1 राशि के जीवन में मुश्किलों का सैलाब",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-23 12:47:41",
+            "pubDateTZ": "UTC",
+            "image_url": "https://indianews.in/wp-content/uploads/2025/05/aaja-ka-rashafal-95-68303bb6647a5.webp",
+            "video_url": null,
+            "source_id": "indianews",
+            "source_name": "India News Rajasthan",
+            "source_priority": 1433119,
+            "source_url": "https://rajasthan.indianews.in",
+            "source_icon": "https://n.bytvi.com/indianews.jpg",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "92ef24335b3c857803b528fad40e7352",
+            "title": "पंजाब: AAP विधायक रमन अरोड़ा पर विजिलेंस का छापा, देखें क्या हैं आरोप?",
+            "link": "https://www.aajtak.in/india/punjab/video/vigilance-conducts-a-raid-on-aap-mla-raman-arora-know-what-are-the-allegations-ytvd-2247364-2025-05-23",
+            "keywords": null,
+            "creator": null,
+            "description": "आम आदमी पार्टी के जालंधर से विधायक रमन अरोड़ा के खिलाफ विजिलेंस ने कार्रवाई की है. कैबिनेट मंत्री हरपाल चीमा ने बताया कि मुख्यमंत्री को विधायक के खिलाफ अधिकारियों से मिलकर लोगों को डरा धमकाकर पैसे बटोरने की शिकायतें मिली थीं. मंत्री ने कहा, \"जो भी भ्रष्टाचार करेगा, जेल का रास्ता दिखाया जाएगा,\". देखिए.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-23 12:47:33",
+            "pubDateTZ": "UTC",
+            "image_url": "https://akm-img-a-in.tosshub.com/aajtak/images/video/202505/aapmlaunderscrutinyministersays-wewillsendhimtojail-s0-original-sixteen-to-nine.jpg",
+            "video_url": null,
+            "source_id": "aajtak",
+            "source_name": "Aaj Tak",
+            "source_priority": 20158,
+            "source_url": "http://aajtak.in",
+            "source_icon": "https://n.bytvi.com/aajtak.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "932aa659d79590cb3cf0077c7d434aa6",
+            "title": "PSA: Nintendo Switch 2 GameChat Requires Your Phone Number for Verification Purposes",
+            "link": "https://in.ign.com/nintendo-switch-2/231679/news/psa-nintendo-switch-2-gamechat-requires-your-phone-number-for-verification-purposes",
+            "keywords": [
+                "news",
+                "nintendo switch 2"
+            ],
+            "creator": [
+                "Tom Phillips"
+            ],
+            "description": "Message received.Nintendo Switch 2's GameChat will require a phone number when setting up the feature.Nintendo's video calling software comes baked into all Nintendo Switch 2 consoles and is being promoted as a key feature of the new system.But it's worth being aware that anyone wanting to set up GameChat will ...",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-23 12:47:33",
+            "pubDateTZ": "UTC",
+            "image_url": "https://sm.ign.com/ign_in/news/p/psa-ninten/psa-nintendo-switch-2-gamechat-requires-your-phone-number-fo_b4s7.png",
+            "video_url": null,
+            "source_id": "in_ign",
+            "source_name": "In Ign",
+            "source_priority": 149,
+            "source_url": "https://in.ign.com",
+            "source_icon": "https://n.bytvi.com/in_ign.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": true
+        },
+        {
+            "article_id": "522ea064d8d21134b99cff9db43ce751",
+            "title": "बालाघाट में स्वीमिंग पुल नहीं:खिलाड़ी वैनगंगा नदी में तैराकी की प्रैटिक्स करने को मजबूर",
+            "link": "https://www.bhaskar.com/local/mp/balaghat/news/there-is-no-swimming-pool-in-balaghat-135087080.html",
+            "keywords": null,
+            "creator": null,
+            "description": "बालाघाट में स्वीमिंग पुल की सुविधा नहीं होने से जिले के तैराक वैनगंगा नदी में अभ्यास करने को मजबूर हैं। तैराक बजरंग घाट में प्रशिक्षकों की देखरेख में प्रैक्टिस कर रहे हैं। जिला तैराकी संघ के कोषाध्यक्ष के.के. अग्रवाल ने बताया कि जिले की प्रतिभाएं प्रदेश, राष्ट्रीय और अंतरराष्ट्रीय स्तर पर अपनी पहचान बना चुकी हैं। लेकिन उन्हें संसाधनों और सुविधाओं की कमी का सामना करना पड़ रहा है। यहां पर एक स्विमिंग पूल होना चाहिए 25 मई को जिला स्तरीय तैराकी प्रतियोगिता 25 मई को ग्रीन वैली पब्लिक स्कूल डोंगरिया में 36वीं जिला स्तरीय तैराकी प्रतियोगिता होगी। प्रतियोगिता सुबह 7 बजे से शुरू होगी। इसमें फ्री स्टाइल, बैक स्ट्रोक, ब्रेस्ट स्ट्रोक, बटरफ्लाई और रिले स्पर्धाएं आयोजित की जाएंगी। प्रतियोगिता में 8 से 17 वर्ष के खिलाड़ी हिस्सा लेंगे। बालक और बालिका वर्ग में जूनियर, सब जूनियर और सीनियर श्रेणियां होंगी। जबलपुर एनआईएस के तैराकी कोच प्रशांत कुशवाहा, योगेंद्र सिंह ठाकुर और अनिता पंद्राम प्रतियोगिता का मार्गदर्शन करेंगे। चयनित खिलाड़ी 1 जून से खंडवा में होने वाली 53वीं राज्य स्तरीय तैराकी चैंपियनशिप 2025 में बालाघाट का प्रतिनिधित्व करेंगे।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-23 12:47:33",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.bhaskarassets.com/thumb/1000x1000/web2images/521/2025/05/23/047da106-4169-4b83-bec3-5ffdb24cc3bf_1748000895861.jpg",
+            "video_url": null,
+            "source_id": "bhaskar_hindi",
+            "source_name": "Bhaskar",
+            "source_priority": 34179,
+            "source_url": "https://www.bhaskar.com",
+            "source_icon": "https://n.bytvi.com/bhaskar_hindi.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "domestic",
+                "other"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "ef19080fddd053074b2bda8b7cec89f5",
+            "title": "चलती बस से उतरने के दौरान हादसा:हाथरस में युवक के दोनों पैर कटे, गुस्साए लोगों ने लगाया जाम",
+            "link": "https://www.bhaskar.com/local/uttar-pradesh/hathras/news/accident-while-getting-off-a-moving-bus-135087079.html",
+            "keywords": null,
+            "creator": null,
+            "description": "हाथरस के सिकंद्राराऊ में एक हादसा सामने आया। पुरदिलनगर कस्बे के बाबा वीरी सिंह मंदिर के पास चलती बस से उतरते समय एक युवक के दोनों पैर कट गए। घायल युवक की पहचान गांव अजमतपुर अजगरा निवासी भूरपाल सिंह (35) के रूप में हुई। भूरपाल सकरा जलेसर से प्राइवेट बस में पुरदिलनगर आ रहे थे। आज दोपहर पुरदिलनगर पहुंचने पर उन्होंने बस रुकवाने को कहा। परिचालक ने चलती बस में ही उन्हें उतार दिया। इस दौरान भूरपाल बस से गिर गए। उनके दोनों पैर बस के टायर के नीचे आ गए। घायल को तुरंत एंबुलेंस से सामुदायिक स्वास्थ्य केंद्र सिकंद्राराऊ ले जाया गया। हालत गंभीर होने पर डॉक्टरों ने उन्हें अलीगढ़ रेफर किया। समझा बुझाकर खुलवाया जाम घटना के बाद ग्रामीणों ने जलेसर-सिकंद्राराऊ रोड पर जाम लगा दिया। सूचना मिलते ही सीओ जेएन अस्थाना, तहसीलदार और लेखपाल मौके पर पहुंचे। हसायन ब्लॉक प्रमुख धर्मेंद्र पाल सिंह के समझाने पर एक घंटे बाद जाम खुल गया।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-23 12:47:32",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.bhaskarassets.com/thumb/1000x1000/web2images/521/2025/05/23/ef316d0f-ae5e-426a-a85f-7441f1978980_1748004145427.jpg",
+            "video_url": null,
+            "source_id": "bhaskar_hindi",
+            "source_name": "Bhaskar",
+            "source_priority": 34179,
+            "source_url": "https://www.bhaskar.com",
+            "source_icon": "https://n.bytvi.com/bhaskar_hindi.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top",
+                "domestic"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "a784564206165b3ec446ca9351c3dfb9",
+            "title": "लोहिया कॉलेज में भ्रष्टाचार के खिलाफ एबीवीपी का विरोध:कॉलेज गेट पर जलाया टायर, SP ने ASI के खिलाफ कार्रवाई का दिया आश्वासन",
+            "link": "https://www.bhaskar.com/local/rajasthan/churu/news/abvp-protests-against-corruption-in-lohia-college-churu-rajasthan-135087078.html",
+            "keywords": null,
+            "creator": null,
+            "description": "चूरू के लोहिया कॉलेज में भ्रष्टाचार के विरोध में एबीवीपी कार्यकर्ताओं ने शुक्रवार को प्रदर्शन किया। कार्यकर्ताओं ने कॉलेज के स्टोर इंचार्ज और संविदाकर्मी को हटाने की मांग की है। एबीवीपी के जिला संयोजक कुलदीप जांगावत के अनुसार, कार्यकर्ताओं ने प्राचार्य को ज्ञापन सौंपा। दो दिन से चल रहे धरने के बावजूद कोई कार्रवाई नहीं होने पर कार्यकर्ताओं ने कॉलेज के मुख्य गेट पर टायर जलाकर विरोध प्रदर्शन किया। नगर मंत्री वरुण शर्मा ने बताया कि शांतिपूर्ण प्रदर्शन के दौरान कोतवाली थाने के एसआई रामशरण से कार्यकर्ताओं की तीखी बहस हुई। एसआई द्वारा कथित अभद्र व्यवहार और थाने में बंद करने की धमकी के बाद आक्रोशित कार्यकर्ता एसपी कार्यालय पहुंचे। एसपी जय यादव से मुलाकात में कार्यकर्ताओं ने एसआई के खिलाफ शिकायत की। एसपी ने दो दिन में एसआई के खिलाफ उचित कार्रवाई का आश्वासन दिया। इस प्रदर्शन में इकाई अध्यक्ष लोकेश ज्याणी, नगर सहमंत्री मुकेश मेघवाल, झुंझुनूं विभाग संयोजक लक्ष्मण प्रजापत समेत कई कार्यकर्ता मौजूद रहे।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-23 12:47:29",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.bhaskarassets.com/thumb/1000x1000/web2images/521/2025/05/23/0f96bb75-744b-4c53-b488-6087d2ea0c321748004033393_1748004396.jpg",
+            "video_url": null,
+            "source_id": "bhaskar_hindi",
+            "source_name": "Bhaskar",
+            "source_priority": 34179,
+            "source_url": "https://www.bhaskar.com",
+            "source_icon": "https://n.bytvi.com/bhaskar_hindi.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "domestic",
+                "other"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "371f0edc58364c93b0a556bef8e368d0",
+            "title": "13.5 करोड़ के इनामी 27 नक्सलियों को मार गिराने वाले जवानों का भव्य स्वागत",
+            "link": "https://www.aajtak.in/india/news/story/drg-jawans-who-neutralised-27-naxals-welcomed-with-tilak-in-narayanpur-chhattisgarh-lcln-rpti-2247375-2025-05-23",
+            "keywords": null,
+            "creator": null,
+            "description": "छत्तीसगढ़ में जवानों ने ऑपरेशन ब्लैक फॉरेस्ट के तहत नक्सल आंदोलन के शीर्ष नेता और सीपीआई (माओवादी) के महासचिव बसवराजू सहित 27 माओवादियों को मार गिराया. इन नक्सलियों पर कुल 13.5 करोड़ रुपए का इनाम था.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-23 12:47:16",
+            "pubDateTZ": "UTC",
+            "image_url": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202505/68306d0f9a8e2-drg-jawans-who-eliminated-naxal-general-secretary-welcomed-with-tilak-234145945-16x9.jpg",
+            "video_url": null,
+            "source_id": "aajtak",
+            "source_name": "Aaj Tak",
+            "source_priority": 20158,
+            "source_url": "http://aajtak.in",
+            "source_icon": "https://n.bytvi.com/aajtak.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "36b7579f14d3b133a1f7e7891c7321b5",
+            "title": "Andhra: शिक्षकों की सहायता के लिए हेल्प डेस्क खोला गया",
+            "link": "https://jantaserishta.com/local/andhra-pradesh/andhra-help-desk-opened-to-assist-teachers-4032491",
+            "keywords": [
+                "आंध्र प्रदेश,राज्य"
+            ],
+            "creator": [
+                "Tulsi Rao"
+            ],
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-23 12:47:15",
+            "pubDateTZ": "UTC",
+            "image_url": "https://jantaserishta.com/h-upload/2025/05/23/4616642-92.webp",
+            "video_url": null,
+            "source_id": "jantaserishta",
+            "source_name": "Janta Se Rishta",
+            "source_priority": 81836,
+            "source_url": "https://jantaserishta.com",
+            "source_icon": "https://n.bytvi.com/jantaserishta.jpg",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "9ef51f3bed27346f1d57947352718fc7",
+            "title": "Kerala Lottery Result Today – May 23, 2025: Check Details Here",
+            "link": "https://www.sentinelassam.com/liveblog/kerala-lottery-result-today-may-23-2025-check-details-here",
+            "keywords": null,
+            "creator": [
+                "Sentinel Digital Desk"
+            ],
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-23 12:47:06",
+            "pubDateTZ": "UTC",
+            "image_url": "https://media.assettype.com/sentinelassam-english%2F2025-02-04%2Fzczc553d%2FKerala-Lotterie-1.webp?auto=format%2Ccompress&fit=max&w=480",
+            "video_url": null,
+            "source_id": "sentinel",
+            "source_name": "The Sentinel",
+            "source_priority": 177615,
+            "source_url": "https://www.sentinelassam.com",
+            "source_icon": "https://n.bytvi.com/sentinel.jpg",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "6fb237cfefcecc676b1a09c49e8ef8ac",
+            "title": "Junior Resident Doctor At Chandigarh's PGIMER Assaulted By Baby's Attendants; FIR Registered",
+            "link": "https://news.abplive.com/news/junior-resident-doctor-at-chandigarh-s-pgimer-assaulted-by-baby-s-attendants-fir-registered-1774471",
+            "keywords": [
+                "news"
+            ],
+            "creator": [
+                "PTI"
+            ],
+            "description": "Chandigarh Police has registered an FIR after a junior resident doctor at the Post Graduate Institute of Medical Education and Research (PGIMER) here was allegedly assaulted by the attendants of the baby of a woman presently undergoing treatment, officials on Friday said.The incident took place on Thursday, they said.The Association of Resident Doctors (ARD) said it is deeply concerned and anguished by a distressing incident that occurred on Thursday afternoon in the Neonatology Unit (NNN-ICU) at the PGIMER.A junior resident doctor from the Department of Pediatrics was physically assaulted by the attendants of the baby of a woman currently under treatment in the NNN-ICU, said a statement issued by the PGIMER on Friday.\"This shocking act of violence not only endangers the safety of healthcare professionals but also disrupts the sanctity of a caregiving environment meant to serve patients with dedication and care,\" the statement said.The statement further said the ARD representatives immediately reached the site upon learning about the incident to support the assaulted doctor, ensure safety and assist in initiating appropriate legal action.A complaint was promptly lodged and an FIR was registered within hours against those responsible, it said.The matter was urgently brought to the attention of PGIMER Director Prof Vivek Lal by the ARD members and concerned residents.A detailed account of the incident was shared and the director assured that firm and swift action would be taken against the culprits with a personal commitment to follow up until justice is served, the ARD said.ARD president Dr Vishnu Jinja strongly condemned the incident and proposed multiple security enhancements across the institute.\"This kind of violence cannot and will not be tolerated in a healthcare setup. Doctors are here to heal, not to be hurt. The safety of every healthcare worker is non-negotiable,\" he said.Dr Jinja said the PGIMER director has taken full cognizance of the ARD's concerns and assured timely and appropriate action in response to all demands raised.The hospital security department has been asked to ensure a comprehensive investigation and to implement preventive protocols to avoid the recurrence of such incidents, he added.Dr Jinja further said the ARD reaffirms its unwavering commitment to protection and dignity of healthcare professionals.\"We urge all stakeholders to stand united against any form of violence in medical institutions,\" he added.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-23 12:47:02",
+            "pubDateTZ": "UTC",
+            "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2025/05/23/2812fd1d0d7a9c92e0366b19f05f37a617480044118661163_original.jpg",
+            "video_url": null,
+            "source_id": "abplive",
+            "source_name": "Abp News",
+            "source_priority": 7754,
+            "source_url": "http://abplive.com",
+            "source_icon": "https://n.bytvi.com/abplive.jpg",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": true
+        },
+        {
+            "article_id": "3af37667558712f7e7d18240b81aeab0",
+            "title": "24 मई 2025 : आपका जन्मदिन",
+            "link": "https://hindi.webdunia.com/birthday-astrology/today-happy-birthday-125052300011_1.html",
+            "keywords": [
+                "birthday astrology"
+            ],
+            "creator": null,
+            "description": "24 May Happy Birthday: जन्मदिन की शुभकामनाओं के साथ आपका स्वागत है वेबदुनिया की विशेष प्रस्तुति में। यह कॉलम नियमित रूप से उन पाठकों के व्यक्तित्व और भविष्य के बारे में जानकारी देगा जिनका उस दिनांक को जन्मदिन होगा। पेश है दिनांक 24 को जन्मे ...",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-23 12:47:00",
+            "pubDateTZ": "UTC",
+            "image_url": "https://wd-image.webdunia.com/image-conversion/process-aws.php?h=&outtype=webp&url=https%3A%2F%2Fnonprod-media.webdunia.com%2Fpublic_html%2F_media%2Fhi%2Fimg%2Farticle%2F2021-06%2F23%2Ffull%2F1624423976-5609.jpg&w=",
+            "video_url": null,
+            "source_id": "webdunia",
+            "source_name": "हिन्दी समाचार",
+            "source_priority": 19669,
+            "source_url": "https://webdunia.com",
+            "source_icon": "https://n.bytvi.com/webdunia.jpg",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "other"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "4a2b79442edeb951aab13d7d8af857d3",
+            "title": "पंजाब में AAP विधायक रमन अरोड़ा अरेस्ट, भगवंत मान बोले- 'अपना हो या पराया, भ्रष्टाचार बर्दाश्त नहीं'",
+            "link": "https://www.indiatv.in/punjab/punjab-aap-mla-raman-arora-arrested-in-corruption-case-2025-05-23-1137515",
+            "keywords": null,
+            "creator": null,
+            "description": "पंजाब सतर्कता ब्यूरो ने शुक्रवार को भ्रष्टाचार से जुड़े एक मामले में सत्तारूढ़ आप विधायक रमन अरोड़ा के जालंधर स्थित घर पर छापेमारी की। 54 वर्षीय अरोड़ा जालंधर सेंट्रल विधानसभा क्षेत्र का प्रतिनिधित्व करते हैं।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-23 12:47:00",
+            "pubDateTZ": "UTC",
+            "image_url": "https://resize.indiatv.in/resize/1200_-/2025/05/untitled-design-59-1748004277.jpg",
+            "video_url": null,
+            "source_id": "indiatv",
+            "source_name": "India Tv",
+            "source_priority": 8882,
+            "source_url": "https://www.indiatv.in",
+            "source_icon": "https://n.bytvi.com/indiatv.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
             "article_id": "3a3ce0da75f5f7aeba633079687c4958",
             "title": "Uttar Pradesh: Two brothers arrested after encounter for murder over decades-old family feud",
             "link": "https://timesofindia.indiatimes.com/city/agra/brothers-arrested-for-murder-in-revenge-over-decades-old-family-dispute/articleshow/121362418.cms",
