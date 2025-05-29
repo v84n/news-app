@@ -1,6 +1,673 @@
 {
     "articles": [
         {
+            "article_id": "3f21a36a96a6e7962b17561ef4140e3b",
+            "title": "French Open 2025: Novak Djokovic starts bid for 25th Grand Slam title with easy win over Mackenzie McDonald",
+            "link": "https://www.livemint.com/sports/tennis-news/french-open-2025-novak-djokovic-starts-bid-for-25th-grand-slam-title-with-easy-win-over-mackenzie-mcdonald-11748360014824.html",
+            "keywords": null,
+            "creator": null,
+            "description": "French Open 2025: Novak Djokovic starts bid for 25th Grand Slam title with easy win over Mackenzie McDonald",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-27 15:37:56",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.livemint.com/lm-img/img/2025/05/27/1600x900/Novak_Djokovic__1748360159575_1748360159871.JPG",
+            "video_url": null,
+            "source_id": "livemint",
+            "source_name": "Mint",
+            "source_priority": 7134,
+            "source_url": "https://www.livemint.com",
+            "source_icon": "https://n.bytvi.com/livemint.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "sports"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "29cdae5b41bf0e51587c96b378a061de",
+            "title": "पटना की महापौर ने मुख्यमंत्री नीतीश कुमार को लिखा पत्र, कहा- मुझे नहीं बुलाया जा रहा कार्यक्रमों में",
+            "link": "https://www.jagran.com/bihar/patna-city-patna-mayor-sita-sahu-wrote-a-letter-to-chief-minister-nitish-kumar-saying-i-am-not-being-invited-to-programs-23948705.html",
+            "keywords": null,
+            "creator": null,
+            "description": "विभिन्न योजनाओं के शिलान्यास एवं उद्घााटन कार्यक्रमों में पटना नगर निगम को उपेक्षित करने की तरफ पटना की मेयर सीता साहू द्वारा ध्यान आकृष्ट कराया गया है। 20 मई को आयोजित एक कार्यक्रम का हवाला देते हुए कहा गया है कि पटना नगर निगम के महापौर एवं उप महापौर को आमंत्रित नहीं किया गया था।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-27 15:37:48",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.jagranimages.com/images/newimg/27052025/27_05_2025-patna_mayor_23948705_m.webp",
+            "video_url": null,
+            "source_id": "jagran",
+            "source_name": "Jagran",
+            "source_priority": 6734,
+            "source_url": "https://www.jagran.com",
+            "source_icon": "https://n.bytvi.com/jagran.jpg",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "domestic"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "8fd3e4f02d63fe18cc6d6ade81d6cc6f",
+            "title": "Tommy Robinson Thanks Elon Musk as He Walks Free From Prison",
+            "link": "https://www.news18.com/videos/breaking-news/tommy-robinson-thanks-elon-musk-as-he-walks-free-from-prison-9355215.html",
+            "keywords": [
+                "latest"
+            ],
+            "creator": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-27 15:37:46",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.news18.com/ibnlive/uploads/2025/05/WhatsApp-Image-2025-05-27-at-20.30.54-2025-05-5f7cf38f99eb1d26885adf9f4b4d5d8e-3x2.jpeg",
+            "video_url": null,
+            "source_id": "news18",
+            "source_name": "News 18",
+            "source_priority": 1063,
+            "source_url": "https://www.news18.com",
+            "source_icon": "https://n.bytvi.com/news18.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": true
+        },
+        {
+            "article_id": "d404c0982c42e570a7f7b1074d47d9e4",
+            "title": "BAT eyes 2.3% stake sale in ITC via $1.36 billion block deal - Moneycontrol",
+            "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPcFZLWlgyWW8xaG5JWXZzcFNNNzRXODhmQTZnRXdzeVVadUJCUDYxeEN0bzJzR3Z3NmpNdEdXSmx2QTBUZnNQOXNYR2t1ZGlhYjBpcFRSTHRhOWY1dWFnQmZ3LUtsYkQwd3M1dUdlOVpDNngzRGxHWC1PeGR2U3JnNGdyUUNSNFBaN3Mxdm1EN20xQkZEdVZBbXJ3dlhsbXVnWDVQakg0Zlh0dlJldjB3N0RfQ2tlN0lNWlFYSU1PYUdCT0XSAcgBQVVfeXFMTl9GdWhzMkJDWkxiQ0U2N252TUJFRVBFY2RQMDY0TTJSOHgxX25OeTZWcmpZdGhmOXhXMEJvcTBpVFZqWEJDSFp6cGdWR01ZZy1aX0pnWnBtd3V0V2xqd1hGXzRZcm03LURDMGRZSHR6NUEzTEpQZDlhOVBLS2xmZk9JRHdRd2s1MWgxSWlnbFVpbVRiWG1tdnRkcDFPY0lmb1pSOVZzaDBOZUU5UXc1VVhZS19ZVDUxY3VjZkZQMWNMY19NY2YwSHE?oc=5",
+            "keywords": null,
+            "creator": null,
+            "description": "BAT eyes 2.3% stake sale in ITC via $1.36 billion block deal MoneycontrolBritish American Tobacco to sell $1.36 billion stake in ITC Ltd - Bloomberg Investing.com IndiaBAT evaluating sale of small part of ITC stake, confirms in LSE filing Business StandardITC stake sale: BAT evaluates disposal of 'small part' via on-market trade, says this MSNBAT considers reducing its stake in India's ITC The Economic Times",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-27 15:37:45",
+            "pubDateTZ": "UTC",
+            "image_url": null,
+            "video_url": null,
+            "source_id": "google",
+            "source_name": "Google News",
+            "source_priority": 14,
+            "source_url": "https://news.google.com",
+            "source_icon": "https://n.bytvi.com/google.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "business"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "a3da9d13a4b9f626575d39f418691685",
+            "title": "BAT eyes 2.3% stake sale in ITC via $1.36 billion block deal",
+            "link": "https://www.moneycontrol.com/news/business/companies/bat-eyes-2-3-stake-sale-in-itc-via-1-36-billion-block-deal-13051480.html",
+            "keywords": [
+                "bat, british american tobacco, itc, bloc deal, itc stake, bat stake"
+            ],
+            "creator": [
+                "Moneycontrol"
+            ],
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-27 15:37:45",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.moneycontrol.com/static-mcnews/2023/05/ITC.png",
+            "video_url": null,
+            "source_id": "moneycontrol",
+            "source_name": "Moneycontrol",
+            "source_priority": 1039,
+            "source_url": "https://www.moneycontrol.com",
+            "source_icon": "https://n.bytvi.com/moneycontrol.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top",
+                "business",
+                "world",
+                "politics"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "c385061a5befeb53912852c4496d6e3b",
+            "title": "Tensions Flare at Gaza Aid Distribution Centre",
+            "link": "https://www.devdiscourse.com/article/politics/3437111-tensions-flare-at-gaza-aid-distribution-centre",
+            "keywords": null,
+            "creator": null,
+            "description": "Tensions Flare at Gaza Aid Distribution Centre An AP journalist reported hearing Israeli tank and gunfire Tuesday amid a massive gather of Palestinians moving toward a newly opened aid distribution center in southern Gaza.Currently, there have been no reports of injuries following the gunfire. The distribution hub, situated on the outskirts of Rafah, was established by a US-backed group expected to assume control of food distribution in Gaza.This marks the second day of operations at the site, with hundreds of thousands of Palestinians making their way through Israeli military positions to reach assistance.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-27 15:37:43",
+            "pubDateTZ": "UTC",
+            "image_url": "https://devdiscourse.blob.core.windows.net/imagegallery/29_02_2020_16_53_54_7540817.jpg",
+            "video_url": null,
+            "source_id": "devdiscourse",
+            "source_name": "Devdiscourse",
+            "source_priority": 566021,
+            "source_url": "https://www.devdiscourse.com",
+            "source_icon": "https://n.bytvi.com/devdiscourse.jpg",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "f331e41a3239a57d1daf0a27c5e52550",
+            "title": "Kottayam woman panchayat member, children who went missing after FB post, found in Kochi lodge",
+            "link": "https://www.onmanorama.com/kerala/top-news/2025/05/27/missing-kottayam-woman-panchayat-member-after-fb-post-found-in-kochi-lodge.html",
+            "keywords": [
+                "kerala police",
+                "kerala",
+                "kottayam"
+            ],
+            "creator": null,
+            "description": "The Ettumanur police's investigation, which focused on Icey's mobile signal, led to their finding.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-27 15:37:37",
+            "pubDateTZ": "UTC",
+            "image_url": "https://img.onmanorama.com/content/dam/mm/en/kerala/top-news/images/2024/6/22/kerala-police-ls.jpg?h=583&w=1120",
+            "video_url": null,
+            "source_id": "onmanorama",
+            "source_name": "Onmanorama",
+            "source_priority": 16247,
+            "source_url": "https://www.onmanorama.com",
+            "source_icon": "https://n.bytvi.com/onmanorama.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "b3a5e51c13596804aaac3b35a5db30e7",
+            "title": "Another AI deal: Salesforce buys Informatica for $8 billion, this move by Marc Benioff could rattle Microsoft, Amazon",
+            "link": "https://economictimes.indiatimes.com/news/international/us/another-ai-deal-salesforce-buys-informatica-for-8-billion-this-move-by-marc-benioff-could-rattle-microsoft-amazon/articleshow/121442549.cms",
+            "keywords": null,
+            "creator": null,
+            "description": "Salesforce Informatica acquisition is making waves as Salesforce confirms an $8 billion deal to buy data software giant Informatica. The move is set to supercharge Salesforce's AI capabilities by merging Informatica’s powerful data management tools with Salesforce’s Data Cloud, Tableau, and MuleSoft. Announced at $25 per share, this surprise lower offer comes as part of Salesforce’s plan to strengthen its agentic AI ecosystem. With the focus now on autonomous AI agents and smarter digital tools, this acquisition could reshape how enterprise AI evolves. Here’s why this deal matters and what it means for the future of AI at Salesforce.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-27 15:37:37",
+            "pubDateTZ": "UTC",
+            "image_url": "https://img.etimg.com/thumb/msid-121442722,width-1200,height-630,imgsize-54234,overlay-economictimes/articleshow.jpg",
+            "video_url": null,
+            "source_id": "economictimes_indiatimes",
+            "source_name": "The Economic Times",
+            "source_priority": 231,
+            "source_url": "https://economictimes.indiatimes.com",
+            "source_icon": "https://n.bytvi.com/economictimes_indiatimes.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "27f7ed3e2bbc993958fa13ef257133be",
+            "title": "School Assembly News Headlines for 28 May 2025: स्कूल असेंबली के लिए 28 मई की प्रमुख खबरें, जानें देश, दुनिया और खेल जगत के ताजा अपडेट्स",
+            "link": "https://hindi.latestly.com/india/school-assembly-news-headlines-28-may-2025-national-international-and-sports-updates-2632349.html",
+            "keywords": null,
+            "creator": null,
+            "description": "यह मुख्य समाचार न केवल आपकी प्रस्तुति को प्रभावशाली बनाएंगे, बल्कि आपकी सामान्य जानकारी को भी मजबूत करेंगे. तो आइए, 28 मई 2025 की असेंबली की शुरुआत करते हैं आज की इन प्रमुख हेडलाइंस के साथ.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-27 15:37:34",
+            "pubDateTZ": "UTC",
+            "image_url": "https://hist1.latestly.com/wp-content/uploads/2025/03/assembly-380x214.png",
+            "video_url": null,
+            "source_id": "latestly",
+            "source_name": "Latestly",
+            "source_priority": 31923,
+            "source_url": "https://www.latestly.com",
+            "source_icon": "https://n.bytvi.com/latestly.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "fbfc244ad7fec4aa75b6a254980e5170",
+            "title": "Two get five years’ jail for possessing liquor",
+            "link": "https://timesofindia.indiatimes.com/city/patna/two-get-five-years-jail-for-possessing-liquor/articleshow/121440960.cms",
+            "keywords": null,
+            "creator": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-27 15:37:29",
+            "pubDateTZ": "UTC",
+            "image_url": "https://static.toiimg.com/thumb/msid-117595682,width-1070,height-580,imgsize-312540,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "video_url": null,
+            "source_id": "toi",
+            "source_name": "The Times Of India",
+            "source_priority": 239,
+            "source_url": "https://timesofindia.indiatimes.com",
+            "source_icon": "https://n.bytvi.com/toi.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "ccec1a0a70195fdb2a5eef374031f06a",
+            "title": "Gold vs stocks: Why betting against stocks could be a losing game during inflation; expert explains",
+            "link": "https://www.businesstoday.in/personal-finance/investment/story/gold-vs-stocks-why-betting-against-stocks-could-be-a-losing-game-during-inflation-expert-explains-478003-2025-05-27",
+            "keywords": null,
+            "creator": null,
+            "description": "Gold may hedge inflation, but it’s stocks that help investors stay ahead. Equities offer compounding growth that gold simply can't match.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-27 15:37:22",
+            "pubDateTZ": "UTC",
+            "image_url": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202505/6835dbf96f3b7-akshat-shrivastava-noted-during-inflation--stocks-remain-a-powerful-ally-unlike-gold--equities-offe-273619126-16x9.jpg",
+            "video_url": null,
+            "source_id": "businesstoday",
+            "source_name": "Business News India",
+            "source_priority": 5073,
+            "source_url": "https://www.businesstoday.in",
+            "source_icon": "https://n.bytvi.com/businesstoday.jpg",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "a27b1af1b162fa8e56b9f8bc513bc7dd",
+            "title": "New AI models drive 15-20% surge in job seeker engagement, says Naukri owner Info Edge",
+            "link": "https://www.moneycontrol.com/artificial-intelligence/new-ai-models-drive-15-20-surge-in-job-seeker-engagement-says-naukri-owner-info-edge-article-13051465.html",
+            "keywords": [
+                "ai models, ai job, naukri, info edge, artificial intelligence, machine learning, foundational models, it, it jobs, it news"
+            ],
+            "creator": [
+                "Moneycontrol"
+            ],
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-27 15:37:19",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.moneycontrol.com/static-mcnews/2025/04/20250409111653_Hitesh-Oberoi.png",
+            "video_url": null,
+            "source_id": "moneycontrol",
+            "source_name": "Moneycontrol",
+            "source_priority": 1039,
+            "source_url": "https://www.moneycontrol.com",
+            "source_icon": "https://n.bytvi.com/moneycontrol.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top",
+                "business",
+                "world",
+                "politics"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "b1a19804e2db8ce2b92c319623f21773",
+            "title": "पांक ने बलूचिस्तान में ग़ौस बख्श की न्यायेतर हत्या की निंदा की, राज्य हिंसा की अंतरराष्ट्रीय जांच का किया आग्रह",
+            "link": "https://jantaserishta.com/world/pank-condemns-extrajudicial-killing-of-ghaus-bakhsh-in-balochistan-urges-international-probe-into-state-violence-4041446",
+            "keywords": [
+                "विश्व"
+            ],
+            "creator": [
+                "Gulabi Jagat"
+            ],
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-27 15:37:13",
+            "pubDateTZ": "UTC",
+            "image_url": "https://jantaserishta.com/h-upload/2025/05/27/4627024-ani-20250527132530.webp",
+            "video_url": null,
+            "source_id": "jantaserishta",
+            "source_name": "Janta Se Rishta",
+            "source_priority": 81836,
+            "source_url": "https://jantaserishta.com",
+            "source_icon": "https://n.bytvi.com/jantaserishta.jpg",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "world"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "ca1b722108c05d35ad046bcd8b1230a6",
+            "title": "Tragic Fall: Friends Allegedly Push Man to Death in Uttar Pradesh",
+            "link": "https://www.devdiscourse.com/article/law-order/3437110-tragic-fall-friends-allegedly-push-man-to-death-in-uttar-pradesh",
+            "keywords": null,
+            "creator": null,
+            "description": "Tragic Fall: Friends Allegedly Push Man to Death in Uttar Pradesh A 25-year-old man, Monu, died in a tragic incident in Uttar Pradesh after allegedly being thrown from a four-story building by three friends late Monday night, according to police reports.The incident occurred at Kanshiram Colony in Awas Vikas, where Monu had been drinking with his friends. His father, Rakesh, claims that Mehtab, Saddam, and Nihal lured Monu to the terrace before pushing him over the edge, critically injuring him.Monu was initially treated at a district hospital before being moved to Ram Manohar Lohia Hospital in Lucknow, where he succumbed to his injuries on Tuesday. Authorities have registered an FIR based on Rakesh’s complaint, arresting two suspects, while efforts to locate the third are ongoing. The investigation aims to establish the exact events leading to Monu’s untimely death.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-27 15:37:11",
+            "pubDateTZ": "UTC",
+            "image_url": "https://devdiscourse.blob.core.windows.net/devnews/13_04_2024_09_33_18_8121538.jpg",
+            "video_url": null,
+            "source_id": "devdiscourse",
+            "source_name": "Devdiscourse",
+            "source_priority": 566021,
+            "source_url": "https://www.devdiscourse.com",
+            "source_icon": "https://n.bytvi.com/devdiscourse.jpg",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "5f85bd5c1a4dd49e92dbcabed7877720",
+            "title": "‘Viksit Krishi Sankalp Abhiyan’ from May 29 to empower farmers",
+            "link": "https://www.thestatesman.com/india/viksit-krishi-sankalp-abhiyan-from-may-29-to-empower-farmers-1503438139.html",
+            "keywords": null,
+            "creator": null,
+            "description": "Empower, farmers, Shivraj Singh Chouhan, Viksit Krishi Sankalp Abhiyan",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-27 15:37:08",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.thestatesman.com/wp-content/uploads/2025/05/IMG_3566-jpeg.webp",
+            "video_url": null,
+            "source_id": "thestatesman",
+            "source_name": "The Statesman",
+            "source_priority": 42473,
+            "source_url": "https://www.thestatesman.com",
+            "source_icon": "https://n.bytvi.com/thestatesman.jpg",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "cd8f06b38261742115bd81d3c519ea19",
+            "title": "Dollar Out? Rupee In? RBI to Promote Rupee as an International Currency for Foreign Loans and Trade",
+            "link": "https://www.taxscan.in/dollar-out-rupee-in-rbi-to-promote-rupee-as-an-international-currency-for-foreign-loans-and-trade/522290/",
+            "keywords": [
+                "rbi",
+                "rupee",
+                "asean",
+                "headlines",
+                "top stories",
+                "finance ministry"
+            ],
+            "creator": [
+                "Anusree"
+            ],
+            "description": "The Reserve Bank of India is making strides towards establishing a solid footing for itself in the global trade arena, the latest move being a push to allow rupee-denominated lending to facilitate foreign trade and lending – a first-of-its-kind initiative for Indian banks. The changes were proposed through a submission made to the Finance Ministry [...]",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-27 15:36:57",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.taxscan.in/wp-content/uploads/2025/05/Dollar-Rupee-RBI-to-Promote-Rupee-International-Currency-Foreign-Loans-and-Trade-TAXSCAN-110x80.jpg",
+            "video_url": null,
+            "source_id": "taxscan",
+            "source_name": "Taxscan",
+            "source_priority": 4352762,
+            "source_url": "https://www.taxscan.in",
+            "source_icon": "https://n.bytvi.com/taxscan.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "3f9513eb494dbbb6069adaad4380b81b",
+            "title": "Police arrest prime accused in journalist assault case",
+            "link": "https://www.orissapost.com/police-arrest-prime-accused-in-journalist-assault-case/",
+            "keywords": [
+                "metro",
+                "state",
+                "assault case",
+                "journalist assault case",
+                "top stories"
+            ],
+            "creator": [
+                "Post News Network"
+            ],
+            "description": "Bhubaneswar: Odisha Police Tuesday arrested the prime accused in the alleged assault of a journalist in Bolangir district, an officer said. According to police, Bijoy Pradhan, a reporter of a local TV channel, had visited Kulthipali village on Saturday to report on alleged irregularities in the construction of a guard wall when the accused persons [...]",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-27 15:36:57",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.orissapost.com/wp-content/uploads/2025/03/Arrested-300x212.jpg",
+            "video_url": null,
+            "source_id": "orissapost",
+            "source_name": "Orissa Post",
+            "source_priority": 252515,
+            "source_url": "https://www.orissapost.com",
+            "source_icon": "https://n.bytvi.com/orissapost.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "0dc65cd438af281386e9e70fb2776929",
+            "title": "US warns Indian, international students of visa cancellation on skipping classes",
+            "link": "https://www.thehindubusinessline.com/news/national/us-warns-indian-international-students-of-visa-cancellation-on-skipping-classes/article69626075.ece",
+            "keywords": [
+                "national"
+            ],
+            "creator": null,
+            "description": "In a post on X, the US Embassy in India stated, “If you drop out, skip classes, or leave your program of study without informing your school, your student visa may be revoked, and you may lose eligibility for future US visas.”",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-27 15:36:55",
+            "pubDateTZ": "UTC",
+            "image_url": "https://bl-i.thgim.com/public/incoming/9dvpcx/article69626227.ece/alternates/LANDSCAPE_1200/2025-01-27T203156Z_1503921896_RC2GO1AMP4OS_RTRMADP_3_USA-INDIA.JPG",
+            "video_url": null,
+            "source_id": "thehindubusinessline",
+            "source_name": "The Hindu - Business Line",
+            "source_priority": 33540,
+            "source_url": "https://www.thehindubusinessline.com",
+            "source_icon": "https://n.bytvi.com/thehindubusinessline.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "7916ac4a384578f9748baa942fa5c91d",
+            "title": "ITC Block Deal: BAT To Sell Rs 11,600-Crore Stake, Say Sources",
+            "link": "https://www.ndtvprofit.com/markets/itc-block-deal-bat-to-sell-rs-11600-crore-stake-say-sources",
+            "keywords": [
+                "markets"
+            ],
+            "creator": [
+                "Soumeet Sarkar"
+            ],
+            "description": "BAT is looking to offload 2.3% stake in ITC, at an offer price of Rs 400 per share, the persons privy to the development said.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-27 15:36:55",
+            "pubDateTZ": "UTC",
+            "image_url": "https://media.assettype.com/bloombergquint%2F2023-02%2F92f88bd0-90e5-4ef2-ab84-71e6c108aeb8%2FCigarettes_manufactured_by_ITC_Ltd__in_a_shop___Photo_Usha_Kunji_BQ_Prime_.jpeg?auto=format%2Ccompress&ogImage=true&rect=0%2C0%2C1036%2C544&w=1200",
+            "video_url": null,
+            "source_id": "bloombergquint",
+            "source_name": "Bq Prime",
+            "source_priority": 9222807,
+            "source_url": "https://www.bloombergquint.com",
+            "source_icon": "https://n.bytvi.com/bloombergquint.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "business"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "760800153ef3ba89078e0ee4451ac321",
+            "title": "Watch: YG Introduces 1st Member Of New Girl Group \"NEXT MONSTER\" - Soompi",
+            "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSy1NYVFoOGlndGdaQkNnLVJuN2lDM1UyZFhWaGFLclRtdXhmZ1FHbHZEZVIyYlJhZTEzem96M1hzdkdBN2ZRRERJVmpUWmlLWnd2bHk2Tk9nMW84LTMwNzFxYS1WRlFqQWViZ3Q1UmxfX1RPOXI5N2o1OW1lR29BbkZkS0Y0LVRjd0Jqb2F6dkhwWWJZMFlvQ2o5MmhTZUw5RXJkQ3VB?oc=5",
+            "keywords": null,
+            "creator": null,
+            "description": "Watch: YG Introduces 1st Member Of New Girl Group \"NEXT MONSTER\" SoompiFans speculate about Blackpink's new music after ‘DEADLINE’ tour dates show a month long gap in between Times of IndiaBlackpink headlines YG's 2025 Blueprint featuring Treasure, BabyMonster, new rookies India TodayIs BLACKPINK Disbanding? Fans Express Concern As YG Teases New Girl Group Debut Times NowYG Entertainment introduces first member of their new girl group allkpop",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-27 15:36:55",
+            "pubDateTZ": "UTC",
+            "image_url": null,
+            "video_url": null,
+            "source_id": "google",
+            "source_name": "Google News",
+            "source_priority": 14,
+            "source_url": "https://news.google.com",
+            "source_icon": "https://n.bytvi.com/google.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "entertainment"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
             "article_id": "894425eb71db64647f3c86c0c994f180",
             "title": "Asus TUF Gaming A15 laptop is now available for under Rs 55,000 on Amazon: How to grab this deal",
             "link": "https://www.digit.in/news/laptops/asus-tuf-gaming-a15-laptop-is-now-available-for-under-rs-55000-on-amazon-how-to-grab-this-deal.html",
