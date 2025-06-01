@@ -1,6 +1,642 @@
 {
     "articles": [
         {
+            "article_id": "5de0af27e7259cb7756c0e8ec47429bf",
+            "title": "Haryana rights panel asks Gurugram district administration to check on ‘neglected’ elderly couple",
+            "link": "https://timesofindia.indiatimes.com/city/chandigarh/haryana-rights-panel-asks-gurugram-district-administration-to-check-on-neglected-elderly-couple/articleshow/121541921.cms",
+            "keywords": null,
+            "creator": [
+                "Manvir Saini"
+            ],
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-31 21:09:54",
+            "pubDateTZ": "UTC",
+            "image_url": "https://static.toiimg.com/thumb/msid-121541920,imgsize-14814,width-400,height-225,resizemode-72/121541920.jpg",
+            "video_url": null,
+            "source_id": "toi",
+            "source_name": "The Times Of India",
+            "source_priority": 239,
+            "source_url": "https://timesofindia.indiatimes.com",
+            "source_icon": "https://n.bytvi.com/toi.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "world"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "0f33076dd6d097d7533ad27360b4af2f",
+            "title": "Rohtak News: लिंक भेजकर खाते से निकाले साढ़े 29 हजार रुपये",
+            "link": "https://www.amarujala.com/haryana/rohtak/295-thousand-rupees-withdrawn-from-the-account-by-sending-a-link-rohtak-news-c-17-roh1019-663958-2025-06-01",
+            "keywords": null,
+            "creator": null,
+            "description": "साइबर ठग ने शिव कॉलोनी के व्यक्ति से लिंक भेजकर साढ़े 29 हजार रुपये हड़प लिए।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-31 21:09:46",
+            "pubDateTZ": "UTC",
+            "image_url": "https://staticimg.amarujala.com/assets/images/2021/11/01/rohtak_1635758601.jpeg?dpr=1.0&q=80&w=414",
+            "video_url": null,
+            "source_id": "amarujala",
+            "source_name": "Amar Ujala",
+            "source_priority": 55215,
+            "source_url": "https://www.amarujala.com",
+            "source_icon": "https://n.bytvi.com/amarujala.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "9cd2eab38027b74007ebe134b1dc6421",
+            "title": "Bareilly News: पॉक्सो एक्ट में दोषी सगे भाइयों को तीन-तीन साल की कैद, जुर्माना भी",
+            "link": "https://www.amarujala.com/uttar-pradesh/bareilly/brothers-convicted-under-pocso-act-sentenced-to-three-years-imprisonment-and-fine-bareilly-news-c-4-bly1015-652963-2025-06-01",
+            "keywords": null,
+            "creator": null,
+            "description": "गांव की ही किशोरी को खेत में खींचकर की थी छेड़खानी",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-31 21:09:39",
+            "pubDateTZ": "UTC",
+            "image_url": "https://staticimg.amarujala.com/assets/images/2021/12/01/bareilly_1638345241.jpeg?dpr=1.0&q=80&w=414",
+            "video_url": null,
+            "source_id": "amarujala",
+            "source_name": "Amar Ujala",
+            "source_priority": 55215,
+            "source_url": "https://www.amarujala.com",
+            "source_icon": "https://n.bytvi.com/amarujala.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "f9d58087b3e508d0c86d871a98db2c58",
+            "title": "History maker! Desire Doue smashes records and matches Cristiano Ronaldo with stellar showing as PSG romp to victory over Inter in Champions League final - Goal.com",
+            "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNb2dxMGtub0p5MlFIMkxHNUZCLUNMQTZZQ0c5bU5JZmJUNlN5UGVNcFZwZVpIcnF0amx6U3N1bi1nRVlpMWFoeTJtbWg1VURtUzM4bnp0M2I0MG0zeV9UMnB2QndxQThRMXcxLUlTNUJxak10RnAxbnVaQWpmRTRaeEdBeHFGVEt4cnh2S1owRG1fYV9NZFZsS2o0U3ZEUFFsYWRYeVJBdFNENmhmTUV4T0hGRUdJOXQ3TE80SUY5YnNlOTg3dVVDZDVsQmo0SUg0SndDMzgyaUwyVXhUWXExbzAzTFhFVTR3UWVuZWU2N2cwdlg0M0N3?oc=5",
+            "keywords": null,
+            "creator": null,
+            "description": "History maker! Desire Doue smashes records and matches Cristiano Ronaldo with stellar showing as PSG romp to victory over Inter in Champions League final Goal.comChampions League final: PSG hammer Inter Milan 5-0 to win first-ever title Times of IndiaKylian Mbappe, David Beckham congratulate PSG after 1st Champions League win India TodaySoccer-Doue dazzles as PSG humble Inter 5-0 to win first European Cup Hindustan TimesPSG rout Inter in record UCL final win for 1st title ESPN India",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-31 21:09:29",
+            "pubDateTZ": "UTC",
+            "image_url": null,
+            "video_url": null,
+            "source_id": "google",
+            "source_name": "Google News",
+            "source_priority": 14,
+            "source_url": "https://news.google.com",
+            "source_icon": "https://n.bytvi.com/google.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "sports"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "f66410c179425b974b371f765939f281",
+            "title": "French Open: Jannik Sinner drops just 3 games to extend Grand Slam unbeaten run. Djokovic wins",
+            "link": "https://www.hindustantimes.com/sports/tennis/french-open-jannik-sinner-drops-just-3-games-to-extend-grand-slam-unbeaten-run-djokovic-wins-101748725767250.html",
+            "keywords": [
+                "sports"
+            ],
+            "creator": null,
+            "description": "French Open: Jannik Sinner drops just 3 games to extend Grand Slam unbeaten run. Djokovic wins",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-31 21:09:26",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.hindustantimes.com/default/1600x900.jpg",
+            "video_url": null,
+            "source_id": "hindustantimes",
+            "source_name": "Hindustan Times",
+            "source_priority": 933,
+            "source_url": "http://www.hindustantimes.com",
+            "source_icon": "https://n.bytvi.com/hindustantimes.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "sports"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": true
+        },
+        {
+            "article_id": "5226bd75e84179adf3d2a44f51be2aac",
+            "title": "Elderly couple misses train, wins refund after 3-year battle in court",
+            "link": "https://timesofindia.indiatimes.com/india/elderly-couple-misses-train-wins-refund-after-3-year-battle-in-court/articleshow/121542257.cms",
+            "keywords": null,
+            "creator": null,
+            "description": "A senior citizen couple successfully sued South Western Railway after being denied a refund for a train journey they couldn't undertake due to severe overcrowding. The consumer commission ruled in their favor, citing deficiency in service, and ordered a full refund along with compensation for mental agony and litigation costs.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-31 21:09:25",
+            "pubDateTZ": "UTC",
+            "image_url": "https://static.toiimg.com/thumb/msid-121542260,imgsize-851122,width-400,resizemode-4/121542260.jpg",
+            "video_url": null,
+            "source_id": "toi",
+            "source_name": "The Times Of India",
+            "source_priority": 239,
+            "source_url": "https://timesofindia.indiatimes.com",
+            "source_icon": "https://n.bytvi.com/toi.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "9a759a29a18938410c2e705b9a15fd78",
+            "title": "Tech Student Suffering From TB Gets Telangana High Court Relief",
+            "link": "https://www.deccanchronicle.com/southern-states/telangana/tech-student-suffering-from-tb-gets-telangana-high-court-relief-1882603",
+            "keywords": [
+                "southern states,telangana"
+            ],
+            "creator": [
+                "L. Ravichander"
+            ],
+            "description": "Counsel for JNTUH argued that under university norms, a relaxation of up to 10 per cent attendance can be granted in case of medical emergencies.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-31 21:09:19",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.deccanchronicle.com/h-upload/2025/04/10/1922687-telanganahighcourt.webp",
+            "video_url": null,
+            "source_id": "deccanchronicle",
+            "source_name": "Deccan Chronicle",
+            "source_priority": 21568,
+            "source_url": "https://www.deccanchronicle.com",
+            "source_icon": "https://n.bytvi.com/deccanchronicle.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "270cf3727ddd22094d76814a988e8319",
+            "title": "Bareilly News: सबसे बड़ा गुंडा मैं... कहकर दोस्त के सीने में तमंचे से मार दी गोली",
+            "link": "https://www.amarujala.com/uttar-pradesh/bareilly/i-am-the-biggest-goon-saying-this-he-shot-his-friend-in-the-chest-with-a-gun-bareilly-news-c-4-bly1015-653011-2025-06-01",
+            "keywords": null,
+            "creator": null,
+            "description": "कैंट थाना पुलिस ने 24 घंटे में मिल्क पार्लर संचालक संकित चौहान की हत्या के चार आरोपियों को गिरफ्तार कर लिए।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-31 21:09:17",
+            "pubDateTZ": "UTC",
+            "image_url": "https://staticimg.amarujala.com/assets/images/2021/12/01/bareilly_1638345241.jpeg?dpr=1.0&q=80&w=414",
+            "video_url": null,
+            "source_id": "amarujala",
+            "source_name": "Amar Ujala",
+            "source_priority": 55215,
+            "source_url": "https://www.amarujala.com",
+            "source_icon": "https://n.bytvi.com/amarujala.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "ba4ce45222483a683090f5e9f2dc51aa",
+            "title": "Union minister inaugurates sports infra, felicitates athletes in UT",
+            "link": "https://timesofindia.indiatimes.com/city/chandigarh/union-minister-inaugurates-sports-infra-felicitates-athletes-in-ut/articleshow/121541643.cms",
+            "keywords": null,
+            "creator": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-31 21:09:15",
+            "pubDateTZ": "UTC",
+            "image_url": "https://static.toiimg.com/thumb/msid-121541641,width-1070,height-580,imgsize-61188,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "video_url": null,
+            "source_id": "toi",
+            "source_name": "The Times Of India",
+            "source_priority": 239,
+            "source_url": "https://timesofindia.indiatimes.com",
+            "source_icon": "https://n.bytvi.com/toi.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "world"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "3ef6085462997c2de6af047df9574ee6",
+            "title": "Rohtak News: 5 माह में दूध व दूध से बनीं चीजों के लिए 62 सैंपल, रिपोर्ट में 27 कम गुणवत्ता के मिले",
+            "link": "https://www.amarujala.com/haryana/rohtak/62-samples-of-milk-and-milk-products-were-taken-in-5-months-27-samples-were-found-to-be-of-low-quality-in-the-report-rohtak-news-c-17-roh1020-663484-2025-06-01",
+            "keywords": null,
+            "creator": null,
+            "description": "सबसे अधिक पनीर सब स्टैंडर्ड पाया गया। दूध के 12 में एक सैंपल सब स्टैंडर्ड रहा।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-31 21:09:10",
+            "pubDateTZ": "UTC",
+            "image_url": "https://staticimg.amarujala.com/assets/images/2021/11/01/rohtak_1635758601.jpeg?dpr=1.0&q=80&w=414",
+            "video_url": null,
+            "source_id": "amarujala",
+            "source_name": "Amar Ujala",
+            "source_priority": 55215,
+            "source_url": "https://www.amarujala.com",
+            "source_icon": "https://n.bytvi.com/amarujala.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "52fcd81d4303d03bf206908e518071f1",
+            "title": "Luis Enrique pays tribute to daughter after PSG's Champions League win: What happened to Xana Enrique?",
+            "link": "https://www.hindustantimes.com/world-news/luis-enrique-pays-tribute-to-daughter-after-psgs-champions-league-win-what-happened-to-xana-enrique-101748725127012.html",
+            "keywords": [
+                "world-news"
+            ],
+            "creator": null,
+            "description": "Luis Enrique and Paris Saint-Germain celebrated their Champions League win on Saturday",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-31 21:09:09",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.hindustantimes.com/ht-img/img/2025/05/31/1600x900/Luis_Enrique_daughter_1748725650028_1748725650235.jpg",
+            "video_url": null,
+            "source_id": "hindustantimes",
+            "source_name": "Hindustan Times",
+            "source_priority": 933,
+            "source_url": "http://www.hindustantimes.com",
+            "source_icon": "https://n.bytvi.com/hindustantimes.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "world"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "d670769c153017efa4d87025a91e1968",
+            "title": "Rohtak News: महम में पेयजल संकट, सप्लाई का पानी नहाने लायक भी नहीं",
+            "link": "https://www.amarujala.com/haryana/rohtak/drinking-water-crisis-in-meham-the-supplied-water-is-not-even-suitable-for-bathing-rohtak-news-c-17-roh1020-663672-2025-06-01",
+            "keywords": null,
+            "creator": null,
+            "description": "कस्बे में स्थित जलघर-1 के तालाब कई दिनों से सूखे पड़े हैं। बहलबा माइनर से तालाब नहीं भरे गए हैं।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-31 21:09:01",
+            "pubDateTZ": "UTC",
+            "image_url": "https://staticimg.amarujala.com/assets/images/2021/11/01/rohtak_1635758601.jpeg?dpr=1.0&q=80&w=414",
+            "video_url": null,
+            "source_id": "amarujala",
+            "source_name": "Amar Ujala",
+            "source_priority": 55215,
+            "source_url": "https://www.amarujala.com",
+            "source_icon": "https://n.bytvi.com/amarujala.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "5f5335ec13bb1f95a7298d1558b81bba",
+            "title": "MC prepares Rs 10cr plan for public services at Manimajra housing project site",
+            "link": "https://timesofindia.indiatimes.com/city/chandigarh/mc-prepares-rs-10cr-plan-for-public-services-at-manimajra-housing-project-site/articleshow/121541688.cms",
+            "keywords": null,
+            "creator": [
+                "Deepak Yadav"
+            ],
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-31 21:09:00",
+            "pubDateTZ": "UTC",
+            "image_url": "https://static.toiimg.com/thumb/msid-121541686,width-1070,height-580,imgsize-58038,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "video_url": null,
+            "source_id": "toi",
+            "source_name": "The Times Of India",
+            "source_priority": 239,
+            "source_url": "https://timesofindia.indiatimes.com",
+            "source_icon": "https://n.bytvi.com/toi.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "world"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "32a806361298434fde49c0e1b7908e47",
+            "title": "Bareilly News: अवैध संबंधों के शक में जरी कारीगर की चाकू से गोदकर हत्या",
+            "link": "https://www.amarujala.com/uttar-pradesh/bareilly/zari-artisan-stabbed-to-death-on-suspicion-of-illicit-relations-bareilly-news-c-4-bly1015-653076-2025-06-01",
+            "keywords": null,
+            "creator": null,
+            "description": "कांकरटोला में बीच रास्ते से खींचकर मारा, आरोपी की तलाश में दबिश दे रही पुलिस",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-31 21:08:47",
+            "pubDateTZ": "UTC",
+            "image_url": "https://staticimg.amarujala.com/assets/images/2021/12/01/bareilly_1638345241.jpeg?dpr=1.0&q=80&w=414",
+            "video_url": null,
+            "source_id": "amarujala",
+            "source_name": "Amar Ujala",
+            "source_priority": 55215,
+            "source_url": "https://www.amarujala.com",
+            "source_icon": "https://n.bytvi.com/amarujala.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "cf644815eb9175457ea0056011f9612f",
+            "title": "PSG vs Inter: What was written on Luis Enrique’s shirt he wore after Champions League final?",
+            "link": "https://sportstar.thehindu.com/football/champions-league/luis-enrique-t-shirt-daughter-tribute-passed-away-bone-cancer-psg-vs-inter-milan-uefa-champions-league-final/article69643117.ece",
+            "keywords": [
+                "uefa champions league"
+            ],
+            "creator": null,
+            "description": "This is PSG’s first-ever UCL title and it also became only the second French team to achieve this feat after Marseille in 1993.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-31 21:08:42",
+            "pubDateTZ": "UTC",
+            "image_url": "https://ss-i.thgim.com/public/incoming/j7zcpp/article69643116.ece/alternates/LANDSCAPE_1200/2218000388.jpg",
+            "video_url": null,
+            "source_id": "sportstar",
+            "source_name": "Sport Star The Hindu",
+            "source_priority": 2972,
+            "source_url": "https://sportstar.thehindu.com",
+            "source_icon": "https://n.bytvi.com/sportstar.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "sports"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "61c38275eab5a5044178735da0e27139",
+            "title": "PSG Win Their First-Ever UEFA Champions League Trophy With Historic 5-0 Romp Of Inter Milan",
+            "link": "https://www.news18.com/football/psg-win-their-first-ever-uefa-champions-league-trophy-with-historic-5-0-romp-of-inter-milan-ws-d-9362264.html",
+            "keywords": [
+                "football"
+            ],
+            "creator": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-31 21:08:39",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.news18.com/ibnlive/uploads/2025/06/PSG-Win-Champions-League-Desire-Doue-2025-06-b423ae605a7b10c8ae7d70a3f1c4f31f-3x2.jpg",
+            "video_url": null,
+            "source_id": "news18",
+            "source_name": "News 18",
+            "source_priority": 1063,
+            "source_url": "https://www.news18.com",
+            "source_icon": "https://n.bytvi.com/news18.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "sports"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "1d6a96042ac5eab98072978e011ecfbe",
+            "title": "नशे से होती है सामाजिक, आर्थिक व शारीरिक हानि : डाॅ. जसमेर",
+            "link": "https://www.amarujala.com/haryana/rohtak/drug-addiction-causes-social-economic-and-physical-harm-dr-jasmer-rohtak-news-c-17-roh1020-663510-2025-06-01",
+            "keywords": null,
+            "creator": null,
+            "description": "दिल्ली बाईपास स्थित नहरों के पुलों पर नशे को ना समिति व सुनो नहरों की पुकार मिशन की ओर से विश्व तंबाकू निषेध दिवस मनाया गया।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-31 21:08:37",
+            "pubDateTZ": "UTC",
+            "image_url": "https://staticimg.amarujala.com/assets/images/2021/11/01/rohtak_1635758601.jpeg?dpr=1.0&q=80&w=414",
+            "video_url": null,
+            "source_id": "amarujala",
+            "source_name": "Amar Ujala",
+            "source_priority": 55215,
+            "source_url": "https://www.amarujala.com",
+            "source_icon": "https://n.bytvi.com/amarujala.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "a923e1eb2d5a2f88feb3735aacfaf217",
+            "title": "Rohtak News: प्लाॅट के लिए पड़ोसी की हत्या के दोषी नौ लोगों को उम्रकैद, तीन एक ही परिवार के",
+            "link": "https://www.amarujala.com/haryana/rohtak/nine-people-convicted-of-murdering-a-neighbor-for-a-plot-have-been-sentenced-to-life-imprisonment-three-of-them-are-from-the-same-family-rohtak-news-c-17-roh1019-663609-2025-06-01",
+            "keywords": null,
+            "creator": null,
+            "description": "दोषियों पर 30-30 हजार रुपये जुर्माना किया।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-31 21:08:31",
+            "pubDateTZ": "UTC",
+            "image_url": "https://staticimg.amarujala.com/assets/images/4cplus/2025/06/01/31sataka52rahataka-ka-bhaakabrapara-ma-hataya-sa-pahal-amata-patana-savata-va-tana-bcaca-ka-satha-sara_d9504e372222d5dcf0f405288dc65be3.jpeg?dpr=1.0&q=80&w=414",
+            "video_url": null,
+            "source_id": "amarujala",
+            "source_name": "Amar Ujala",
+            "source_priority": 55215,
+            "source_url": "https://www.amarujala.com",
+            "source_icon": "https://n.bytvi.com/amarujala.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "0ff0de2b9d0d830e71e4067e73e54a78",
+            "title": "Ncuti Gatwa regenerates into Billie Piper as he leaves Doctor Who - BBC",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5tQzJyQnNLQ0NReFMtUG9adFdJdHFCYVYtNWF4MTg1YkkydXFtZ1Y1R0hoTjdhanpnYnBFLW92TU9kZ0FoRVNjQkZsdVo1R1NzSEpRSTgzZ3BPdw?oc=5",
+            "keywords": null,
+            "creator": null,
+            "description": "Ncuti Gatwa regenerates into Billie Piper as he leaves Doctor Who BBCDoctor Who finale sees Ncuti Gatwa depart in surprise regeneration The GuardianDoctor Who? Billie Piper appears to be the new Time Lord in surprise on-screen regeneration The Irish Times‘Doctor Who’ Finale Shocks With Regeneration — [Spoiler] Is New Doctor After Ncuti Gatwa’s Exit TV InsiderDoctor Who's Billie Piper breaks silence on shocking return: \"I couldn’t refuse\" Yahoo News UK",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-31 21:08:31",
+            "pubDateTZ": "UTC",
+            "image_url": null,
+            "video_url": null,
+            "source_id": "google",
+            "source_name": "Google News",
+            "source_priority": 14,
+            "source_url": "https://news.google.com",
+            "source_icon": "https://n.bytvi.com/google.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "entertainment"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "7826095c7a17e0c7e09ee764a92ee42e",
+            "title": "Lucknow News: धूम्रपान छोड़ना है तो लोहिया संस्थान आएं",
+            "link": "https://www.amarujala.com/lucknow/if-you-want-to-quit-smoking-then-come-to-lohia-institute-lucknow-news-c-13-1-lko1029-1230238-2025-06-01",
+            "keywords": null,
+            "creator": null,
+            "description": "अगर आप धूम्रपान छोड़ना चाहते हैं तो लोहिया संस्थान आएं। यहां आंकोलॉजी भवन में हर शनिवार सुबह 10 से दोपहर 12 बजे तक विशेष क्लीनिक चलती है।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-05-31 21:08:25",
+            "pubDateTZ": "UTC",
+            "image_url": "https://staticimg.amarujala.com/assets/images/2021/10/21/lucknow_1634823856.jpeg?dpr=1.0&q=80&w=414",
+            "video_url": null,
+            "source_id": "amarujala",
+            "source_name": "Amar Ujala",
+            "source_priority": 55215,
+            "source_url": "https://www.amarujala.com",
+            "source_icon": "https://n.bytvi.com/amarujala.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
             "article_id": "4de2d4a05e3005dd3aa7d8bd78debb72",
             "title": "ईद पर कोई नई परंपरा शुरू न करें : सीओ",
             "link": "https://www.amarujala.com/uttar-pradesh/rampur/do-not-start-any-new-tradition-on-eid-co-rampur-news-c-282-1-smbd1025-146756-2025-06-01",
@@ -23277,687 +23913,6 @@
             "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
             "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
             "duplicate": true
-        },
-        {
-            "article_id": "521f29378ec58a2cfbba6de9a3f8df23",
-            "title": "2022 Ankita Bhandari Murder Case: Uttarakhand Court Sentences Ex-BJP Leader's Son & 2 Other Convicts To Life Imprisonment",
-            "link": "https://www.freepressjournal.in/india/2022-ankita-bhandari-murder-case-uttarakhand-court-sentences-ex-bjp-leaders-son-2-other-convicts-to-life-imprisonment",
-            "keywords": [
-                "fpj shorts",
-                "india",
-                "topnews"
-            ],
-            "creator": null,
-            "description": null,
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-30 09:08:58",
-            "pubDateTZ": "UTC",
-            "image_url": null,
-            "video_url": null,
-            "source_id": "freepressjournal",
-            "source_name": "The Free Press Journal",
-            "source_priority": 26427,
-            "source_url": "https://www.freepressjournal.in",
-            "source_icon": "https://n.bytvi.com/freepressjournal.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "1a2a7daa3f362758ce53f343dedb2b37",
-            "title": "Kerala में भारी बारिश जनशताब्दी ट्रेन देरी से चल रही",
-            "link": "https://jantaserishta.com/local/kerala/jan-shatabdi-train-is-running-late-due-to-heavy-rain-in-kerala-4047095",
-            "keywords": [
-                "राज्य,केरल"
-            ],
-            "creator": [
-                "SANTOSI TANDI"
-            ],
-            "description": null,
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-30 09:08:54",
-            "pubDateTZ": "UTC",
-            "image_url": "https://jantaserishta.com/h-upload/2025/05/30/4633615-2.webp",
-            "video_url": null,
-            "source_id": "jantaserishta",
-            "source_name": "Janta Se Rishta",
-            "source_priority": 81836,
-            "source_url": "https://jantaserishta.com",
-            "source_icon": "https://n.bytvi.com/jantaserishta.jpg",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "d87e89432afd1ff227b0b714ccdbbbae",
-            "title": "It’s Raining Cash At Odisha Chief Engineer’s House, 2.51 Cr Seized; Check Other Assets",
-            "link": "https://odishabytes.com/its-raining-cash-at-odisha-chief-engineers-house-2-51-cr-seized-check-other-assets/",
-            "keywords": [
-                "odisha"
-            ],
-            "creator": [
-                "OB Bureau"
-            ],
-            "description": "Bhubaneswar: The Odisha Vigilance on Friday unearthed 2.51 crore in cash, two multi-storey buildings, two flats and seven high-value plots belonging to Chief Engineer of Rural Works (RW) Department, Baikuntha Nath Sarangi, during raids over suspected disproportionate assets. Insurance and bank deposits, amounting of Rs 1.5 crore, were also detected. He has also invested 2.7 [...]The post It’s Raining Cash At Odisha Chief Engineer’s House, 2.51 Cr Seized; Check Other Assets appeared first on Odisha Bytes.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-30 09:08:52",
-            "pubDateTZ": "UTC",
-            "image_url": "https://assets.odishabytes.com/wp-content/uploads/2025/05/MixCollage-30-May-2025-02-37-PM-4249.jpg",
-            "video_url": null,
-            "source_id": "odishabytes",
-            "source_name": "Odisha Bytes News",
-            "source_priority": 512881,
-            "source_url": "https://odishabytes.com",
-            "source_icon": "https://n.bytvi.com/odishabytes.jpg",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "9fef05d2117cbee43c3ed838dc76c76a",
-            "title": "पटना एयरपोर्ट पर वैभव सूर्यवंशी से मिले पीएम मोदी, जानिए क्रिकेटर से क्या कहा?",
-            "link": "https://www.prabhatkhabar.com/state/bihar/pm-modi-met-vaibhav-suryavanshi-at-patna-airport-know-what-he-said-to-cricketer",
-            "keywords": [
-                "pm modi bihar visit",
-                "patna airport",
-                "vaibhav suryavanshi",
-                "बिहार",
-                "bihar news",
-                "pm modi"
-            ],
-            "creator": [
-                "Prashant Tiwari"
-            ],
-            "description": "पटना: अपने बिहार दौरे को खत्म करके राजधानी दिल्ली लौटने के दौरान पीएम मोदी ने पटना एयरपोर्ट पर क्रिकेटर वैभव सूर्यवंशी से मुलाकात की. इस दौरान उन्होंने एक्स पर लिखा कि पटना एयरपोर्ट पर युवा क्रिकेटर वैभव सूर्यवंशी और उनके परिवार से मुलाकात हुई. उनके क्रिकेट कौशल की पूरे देश में प्रशंसा हो रही है! उनके भविष्य के प्रयासों के लिए मेरी शुभकामनाएं.The post पटना एयरपोर्ट पर वैभव सूर्यवंशी से मिले पीएम मोदी, जानिए क्रिकेटर से क्या कहा? appeared first on Prabhat Khabar.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-30 09:08:51",
-            "pubDateTZ": "UTC",
-            "image_url": "https://www.prabhatkhabar.com/wp-content/uploads/2025/05/Prabhat-Khabar-2025-05-30T143054.242.jpg",
-            "video_url": null,
-            "source_id": "prabhatkhabar",
-            "source_name": "Prabhat Khabar",
-            "source_priority": 343253,
-            "source_url": "https://www.prabhatkhabar.com",
-            "source_icon": "https://n.bytvi.com/prabhatkhabar.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "5a4284a8359675eb0539ffc887c848dc",
-            "title": "Indian art and photography exhibitions | The listicle",
-            "link": "https://www.indiatoday.in/magazine/leisure/story/20250609-indian-art-and-photography-exhibitions-the-listicle-2733101-2025-05-30",
-            "keywords": null,
-            "creator": null,
-            "description": "Indian art and photography exhibitions | The listicle",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-30 09:08:51",
-            "pubDateTZ": "UTC",
-            "image_url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202505/nandala-bose-300104377-16x9_0.jpg?VersionId=yF8Alvot.Ofhzr0RQEbfNe3z9upUc.8w",
-            "video_url": null,
-            "source_id": "indiatoday",
-            "source_name": "India Today",
-            "source_priority": 2885,
-            "source_url": "https://www.indiatoday.in",
-            "source_icon": "https://n.bytvi.com/indiatoday.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "other"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "810259866d9ef7f73ec27064547d0469",
-            "title": "PM Modi Meets IPL Teen Sensation Vaibhav Suryavanshi at Patna Airport",
-            "link": "https://pragativadi.com/pm-modi-meets-ipl-teen-sensation-vaibhav-suryavanshi-at-patna-airport/",
-            "keywords": [
-                "sports",
-                "vaibhav suryavanshi",
-                "sports news",
-                "ipl 2025",
-                "trending now",
-                "latest news",
-                "pm modi"
-            ],
-            "creator": [
-                "Ananya Pattnaik"
-            ],
-            "description": "India’s cricketing prodigy Vaibhav Suryavanshi, fresh off a stellar debut IPL season, met Prime Minister Narendra Modi at Patna Airport on Friday. In a heartfelt moment that has gone viral, the 14-year-old touched the Prime Minister’s feet in a gesture of deep respect, earning admiration across social media. The meeting was shared by PM Modi [...]The post PM Modi Meets IPL Teen Sensation Vaibhav Suryavanshi at Patna Airport appeared first on Pragativadi I Latest Odisha News in English I Breaking News .",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-30 09:08:50",
-            "pubDateTZ": "UTC",
-            "image_url": "https://pragativadi.com/wp-content/uploads/2025/05/PM-Modi-Meets-IPL-Teen-Sensation-Vaibhav-Suryavanshi-at-Patna-Airport--640x375.jpg",
-            "video_url": null,
-            "source_id": "pragativadi",
-            "source_name": "Pragativadi",
-            "source_priority": 440576,
-            "source_url": "https://pragativadi.com",
-            "source_icon": "https://n.bytvi.com/pragativadi.jpg",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "ef7cf2e9d8df52dde5ca71f07fbda648",
-            "title": "Palakkad employment officer ran over by bus two days before retirement",
-            "link": "https://www.onmanorama.com/kerala/top-news/2025/05/30/kerala-employment-officer-accident-retirement.html",
-            "keywords": [
-                "accident",
-                "kerala stories",
-                "death",
-                "palakkad"
-            ],
-            "creator": null,
-            "description": "According to eyewitness accounts, the accident occurred around 11 am as the bus, having just dropped off passengers.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-30 09:08:48",
-            "pubDateTZ": "UTC",
-            "image_url": "https://img.onmanorama.com/content/dam/mm/en/archive/kerala/top-news/images/2025/5/30/prasannakumari.jpg?h=583&w=1120",
-            "video_url": null,
-            "source_id": "onmanorama",
-            "source_name": "Onmanorama",
-            "source_priority": 16247,
-            "source_url": "https://www.onmanorama.com",
-            "source_icon": "https://n.bytvi.com/onmanorama.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "96893ac9203423c4cf1ba5c6a81031a2",
-            "title": "यूरोपीय संघ और अमेरिका के व्यापार प्रतिनिधि टैरिफ चर्चाओं को जारी रखते हैं",
-            "link": "https://hi.investing.com/news/economy-news/article-93CH-480865",
-            "keywords": null,
-            "creator": [
-                "Investing.com"
-            ],
-            "description": null,
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-30 09:08:45",
-            "pubDateTZ": "UTC",
-            "image_url": "https://i-invdn-com.investing.com/news/indicatornews_6_M_1440048362.jpg",
-            "video_url": null,
-            "source_id": "investing_hi",
-            "source_name": "Investing भारत",
-            "source_priority": 1143,
-            "source_url": "https://hi.investing.com",
-            "source_icon": "https://n.bytvi.com/investing_hi.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "636ad789ea21f2ceb887d8ae0833fe8a",
-            "title": "Ricky Gervais breaks records, reflects on free speech and launches comedy contest",
-            "link": "http://economictimes.indiatimes.com/news/international/us/ricky-gervais-breaks-records-reflects-on-free-speech-and-launches-comedy-contest/articleshow/121512637.cms",
-            "keywords": null,
-            "creator": null,
-            "description": "Ricky Gervais returns to the Hollywood Bowl with his new stand-up tour Mortality, following a record-breaking 2023 performance. Alongside receiving a Hollywood Walk of Fame star, Gervais is promoting the Spirit of Comedy contest and advocating for free speech in comedy. His latest tour blends humor, aging, and dark wit",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-30 09:08:42",
-            "pubDateTZ": "UTC",
-            "image_url": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-21794,resizemode-75,msid-121512637/news/international/us/ricky-gervais-breaks-records-reflects-on-free-speech-and-launches-comedy-contest.jpg",
-            "video_url": null,
-            "source_id": "economictimes_indiatimes",
-            "source_name": "The Economic Times",
-            "source_priority": 231,
-            "source_url": "https://economictimes.indiatimes.com",
-            "source_icon": "https://n.bytvi.com/economictimes_indiatimes.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "world"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "eca6d81306bdc41c6bf6357bfc8305c0",
-            "title": "नोएडा में एक दिन में कोरोना के 19 मरीज मिले:यूपी में कोरोना के 59 एक्टिव केस; RT-PCR जांच को प्रयागराज ने मांगी किट",
-            "link": "https://www.bhaskar.com/local/uttar-pradesh/gautambudh-nagar/news/coronavirus-in-india-noida-coronavirus-cases-virus-cases-in-noida-covid-19-cases-noida-news-agra-ghaziabad-lucknow-update-video-135133205.html",
-            "keywords": null,
-            "creator": null,
-            "description": "यूपी में कोरोना वायरस के मामले तेजी से बढ़ रहे हैं। एक्टिव केसेज की संख्या शुक्रवार को 59 पहुंच गई। नोएडा में पिछले 24 घंटे में 19 लोगों की कोरोना रिपोर्ट पॉजिटिव आई है। इसी के साथ नोएडा में अब तक कुल सक्रिय केस 43 हो गए हैं। जबकि यूपी में कुल कोरोना केस की संख्या 59 पहुंच गई है। कोरोना से जान गंवाने वालों का आंकड़ा 2 है। वहीं कोरोना के बढ़ते केस को देखते हुए प्रयागराज भी अलर्ट मोड पर है। मोतीलाल नेहरू मेडिकल कॉलेज में ढाई साल बाद फिर से कोरोना के संदिग्ध मरीजों के सैंपलों की जांच शुरू होगी। यहां माइक्रोबायोलॉजी डिपार्टमेंट ने शासन से RT-PCR जांच किट मांगी है। नोएडा के जिला निगरानी अधिकारी डॉ. टीकम सिंह ने बताया कि सभी मरीजों का इलाज घर में चल रहा है। जीनोम सीक्वेंसिंग के लिए निजी अस्पतालों से संक्रमित मरीजों के एक- एक नमूने मांगे गए हैं। इन मरीजों के नमूने दिल्ली या लखनऊ भेजे जाएंगे, ताकि कोरोना वायरस के वेरिएंट के बारे में जानकारी मिल सके। सात दिनों के बाद मरीजों की दोबारा जांच की जाएगी। प्रयागराज सीएमओ बोले- कोविड को लेकर कोई गाइडलाइन नहींCMO डॉ. एके तिवारी बताते हैं, कोविड को लेकर कोई गाइडलाइन नहीं आया है। हम लोगों ने विभागीय अधिकारियों व डॉक्टरों के साथ बैठक कर तैयारी कर ली। सभी सरकारी अस्पतालों में कोविड के लिए वार्ड रिजर्व किए जाएंगे। योगी ने कहा- चिंता की कोई बात नहींसीएम योगी ने 22 मई को कोविड-19 के नए सब वेरिएंट JN.1 के बढ़ते मामलों के बीच हाईलेवल बैठक की थी। उन्होंने यूपी में कोविड संक्रमण की स्थिति की समीक्षा की थी। सीएम ने कहा था कि वर्तमान में उत्तर प्रदेश में कोविड-19 के संक्रमण को लेकर चिंता जैसी कोई बात नहीं है, लेकिन वैश्विक परिस्थितियों को देखते हुए सावधानी और सतर्कता अत्यंत आवश्यक है। एक्सपर्ट बोले- कोविड नियंत्रण में, सावधानी रखें फरीदाबाद की मुख्य चिकित्साधिकारी डॉ. अलका सिंह ने बताया- भारत में स्थिति को नियंत्रण में बताया जा रहा है। संक्रमण की रफ्तार बहुत धीमी है जबकि थाईलैंड, सिंगापुर, हांगकांग व चीन में भी पिछले कुछ महीनों में कोरोना के मामलों में बढ़ोतरी दर्ज की गई है। दो मरीजों में कोविड-19 की पहचान की गई है। दोनों मरीजों की ट्रैवल हिस्ट्री और संपर्कों की जांच की जा रही है। संपर्क में आए लोगों को ट्रैक करके एहतियातन स्वास्थ्य जांच कराई जाएगी। अभी दोनों संक्रमित खतरे से बाहर हैं। स्वास्थ्य विभाग की चिकित्सीय टीमें दोनों की निगरानी कर रही हैं। लोगों से अपील है कि फिलहाल स्थिति नियंत्रण में है और घबराने की आवश्यकता नहीं है। यदि किसी में बुखार, सर्दी, जुकाम व खांसी जैसे लक्षण दिखाई दें तो चिकित्सक से संपर्क करके जांच कराएं। इम्युनिटी को कमजोर करता है​​​​​ JN.1 वैरिएंटJN.1, ओमिक्रॉन के BA2.86 का एक स्ट्रेन है। यह अगस्त 2023 में पहली बार पाया गया था। दिसंबर 2023 में विश्व स्वास्थ्य संगठन (WHO) ने इसे 'वैरिएंट ऑफ इंटरेस्ट' घोषित किया। इसमें करीब 30 म्यूटेशन्स हैं, जो इम्यूनिटी को कमजोर करते हैं। अमेरिका के जॉन्स हॉपकिंस यूनिवर्सिटी के अनुसार JN.1 पहले के वैरिएंट्स की तुलना में ज्यादा आसानी से फैलता है, लेकिन यह बहुत गंभीर नहीं है। यह दुनिया के कई हिस्सों में सबसे आम वैरिएंट बना हुआ है। JN.1 वैरिएंट के लक्षण कुछ दिनों से लेकर हफ्तों तक कहीं भी रह सकते हैं। अगर आपके लक्षण लंबे समय तक बने रहते हैं, तो हो सकता है कि आपको लंबे समय तक रहने वाला कोविड हो। यह एक ऐसी स्थिति है, जिसमें COVID-19 के कुछ लक्षण ठीक होने के बाद भी बने रहते हैं। -------------------- यह खबर भी पढ़ें... देश में कोरोना से 10 की मौत, 1045 एक्टिव केस:महाराष्ट्र में सबसे ज्यादा 5 मौतें, एक हफ्ते में 787 नए मामले सामने आए देश में कोरोना वायरस के मामलों की संख्या 1045 हो गई है। सबसे ज्यादा 430 एक्टिव केस केरल में हैं। महाराष्ट्र में 210, दिल्ली में 104 और गुजरात में 83 केस हैं। कर्नाटक के 80 केसों में से सिर्फ 73 बेंगलुरु में हैं। पढ़िए पूरी खबर",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-30 09:08:40",
-            "pubDateTZ": "UTC",
-            "image_url": "https://images.bhaskarassets.com/thumb/1000x1000/web2images/521/2025/05/30/comp-7-6174801391917480728621748321979_1748595322.gif",
-            "video_url": null,
-            "source_id": "bhaskar_hindi",
-            "source_name": "Bhaskar",
-            "source_priority": 34179,
-            "source_url": "https://www.bhaskar.com",
-            "source_icon": "https://n.bytvi.com/bhaskar_hindi.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top",
-                "domestic"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "d027e0c9a78ff4e611a652d800b00466",
-            "title": "100 दिन की CM रेखा गुप्ता का रिपोर्ट कार्ड, क्या हैं 15 बड़ी नाकामियां? दिल्ली BJP सरकार पर AAP का वार",
-            "link": "https://hindi.oneindia.com/news/delhi/rekha-gupta-government-100-days-report-card-bjp-rule-in-delhi-faces-15-major-criticisms-from-aap-1306287.html",
-            "keywords": [
-                "news/delhi"
-            ],
-            "creator": null,
-            "description": "Rekha Gupta government 100 days: AAP targets Rekha Gupta's BJP govt on its 100th day in Delhi, listing 15 failures including power cuts, healthcare issues & rising bills. Full report here.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-30 09:08:36",
-            "pubDateTZ": "UTC",
-            "image_url": null,
-            "video_url": null,
-            "source_id": "oneindia",
-            "source_name": "One India",
-            "source_priority": 12404,
-            "source_url": "https://www.oneindia.com",
-            "source_icon": "https://n.bytvi.com/oneindia.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "4ee4a575fcac851d5c5e193b6ce57d21",
-            "title": "Sports News | Former India Bowling Coach Bharat Arun to Conduct Training Program in Sri Lanka",
-            "link": "https://www.latestly.com/agency-news/sports-news-former-india-bowling-coach-bharat-arun-to-conduct-training-program-in-sri-lanka-6893208.html",
-            "keywords": null,
-            "creator": null,
-            "description": "Get latest articles and stories on Sports at LatestLY. Former India bowling coach Bharat Arun will conduct a specialised 14-day training program for Sri Lankan cricketers across men's and women's junior and senior teams as well as coaches from June 2.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-30 09:08:35",
-            "pubDateTZ": "UTC",
-            "image_url": "https://st1.latestly.com/wp-content/uploads/2018/03/default-img-01-784x441.jpg",
-            "video_url": null,
-            "source_id": "latestly",
-            "source_name": "Latestly",
-            "source_priority": 31923,
-            "source_url": "https://www.latestly.com",
-            "source_icon": "https://n.bytvi.com/latestly.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "73bec5056f965b607ddf860a69fede47",
-            "title": "India News | Court Sentences Pulkit Arya, Two Others to Life Imprisonment in Ankita Bhandari Murder Case",
-            "link": "https://www.latestly.com/agency-news/india-news-court-sentences-pulkit-arya-two-others-to-life-imprisonment-in-ankita-bhandari-murder-case-6893207.html",
-            "keywords": null,
-            "creator": null,
-            "description": "Get latest articles and stories on India at LatestLY. In a significant verdict, the Additional District Judge (ADJ) court in Kotdwar has sentenced all three accused in the Ankita Bhandari murder case--resort owner and BJP leader Pulkit Arya, Saurabh Bhaskar, and Ankit Gupta--to life imprisonment.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-30 09:08:34",
-            "pubDateTZ": "UTC",
-            "image_url": "https://st1.latestly.com/wp-content/uploads/2025/05/ANI-20250530083737-380x214.jpg",
-            "video_url": null,
-            "source_id": "latestly",
-            "source_name": "Latestly",
-            "source_priority": 31923,
-            "source_url": "https://www.latestly.com",
-            "source_icon": "https://n.bytvi.com/latestly.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "b34983aa0982c14e802499fa3ea9fedc",
-            "title": "सफल और उद्यमी महिलाओं के सम्मान में हुआ विशेष कार्यक्रम",
-            "link": "https://avadhnama.com/special-program-organized-in-honor-of-successful-and-enterprising-women/",
-            "keywords": [
-                "uttar pradesh",
-                "marquee",
-                "other"
-            ],
-            "creator": [
-                "Priyanka Sharma"
-            ],
-            "description": "अमेठी में महिलाओं को सम्मानित करते हुए खंड विकास अधिकारी गौरीगंज में महिलाओं को सम्बोधित करते हुए भारतीय जनता पार्टी के जिला अध्यक्ष सुधांशु शुक्ल ग्राम्य विकास विभाग की ओर से संचालित विभिन्न जनकल्याणकारी योजनाओं में महिला सशक्तिकरण को प्रोत्साहन के क्रम में गुरुवार को जिले के सभी विकास खंडों में विशेष कार्यक्रम आयोजित करके [...]The post सफल और उद्यमी महिलाओं के सम्मान में हुआ विशेष कार्यक्रम appeared first on Latest Hindi News | हिंदी न्यूज़ | ताजा ख़बरें | Aaj Ki Taja Khabar | ब्रेकिंग न्यूज़ हिंदी में.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-30 09:08:34",
-            "pubDateTZ": "UTC",
-            "image_url": "https://avadhnama.com/wp-content/uploads/2025/05/image-394.jpeg",
-            "video_url": null,
-            "source_id": "avadhnama",
-            "source_name": "Avadhnama",
-            "source_priority": 20736955,
-            "source_url": "https://avadhnama.com",
-            "source_icon": "https://n.bytvi.com/avadhnama.jpg",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "a6e7fd59a2d7dab64eb55421f2f79772",
-            "title": "सिक्किम हादसा: ओडिशा CM ने पर्यटकों के बचाव कार्यों का किया समन्वय",
-            "link": "https://jantaserishta.com/local/odisha/sikkim-accident-odisha-cm-coordinated-rescue-operations-of-tourists-4047094",
-            "keywords": [
-                "राज्य,ओडिशा"
-            ],
-            "creator": [
-                "Kiran"
-            ],
-            "description": null,
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-30 09:08:32",
-            "pubDateTZ": "UTC",
-            "image_url": "https://jantaserishta.com/h-upload/2025/05/30/4633612-1.webp",
-            "video_url": null,
-            "source_id": "jantaserishta",
-            "source_name": "Janta Se Rishta",
-            "source_priority": 81836,
-            "source_url": "https://jantaserishta.com",
-            "source_icon": "https://n.bytvi.com/jantaserishta.jpg",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "b31969b408d675f82dba9930047e955c",
-            "title": "अंकिता भंडारी हत्याकांड : सभी आरोपियों को सुनाई गई आजीवन कारावास की सजा",
-            "link": "https://www.deshbandhu.co.in/news/national-ankita-bhandari-murder-case-all-accused-sentenced-to-life-imprisonment-558076-1",
-            "keywords": null,
-            "creator": null,
-            "description": "उत्तराखंड के अंकिता भंडारी हत्याकांड प्रकरण में संलिप्त तीन आरोपियों को शुक्रवार को दोषी करार देते हुए आजीवन कारावास की सजा सुनाई गई। तीनों दोषियों को उम्र कैद, 50-50 हजार का जुर्माना भी लगाया गया है",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-30 09:08:29",
-            "pubDateTZ": "UTC",
-            "image_url": "https://www.deshbandhu.co.in/Admin/storyimage/e1cece82-6d22-4c1a-85a4-e22ee24c9a98_file.jpg",
-            "video_url": null,
-            "source_id": "deshbandhu",
-            "source_name": "Deshbandhu-hindi",
-            "source_priority": 13621201,
-            "source_url": "https://www.deshbandhu.co.in",
-            "source_icon": null,
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": true
-        },
-        {
-            "article_id": "af92d3d1f78b247e845b5c96b219ff56",
-            "title": "Kerala Lottery Result Today 3 PM Live, Suvarna Keralam SK-5 Lottery Result of 30.05.2025, Watch Lucky Draw Winner List",
-            "link": "https://www.latestly.com/socially/india/information/kerala-lottery-result-today-3-pm-live-suvarna-keralam-sk-5-lottery-result-of-30-05-2025-watch-lucky-draw-winner-list-6893190.html",
-            "keywords": null,
-            "creator": null,
-            "description": "Kerala State Lottery Sambad Suvarna Keralam SK-5 Result live streaming of May 30 at 3 PM. Scroll below to know the names of the winners of bhagyathara lottery result.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-30 09:08:28",
-            "pubDateTZ": "UTC",
-            "image_url": "https://st1.latestly.com/wp-content/uploads/2025/02/Kerala-Lottery-Result-6-380x214.jpg",
-            "video_url": null,
-            "source_id": "latestly",
-            "source_name": "Latestly",
-            "source_priority": 31923,
-            "source_url": "https://www.latestly.com",
-            "source_icon": "https://n.bytvi.com/latestly.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "e72879b7f4a3c3a6c407a3ed8fa6c550",
-            "title": "Magda Szubanski net worth: Fortune explored in wake of comedian and actress' concerning health diagnosis",
-            "link": "https://www.sportskeeda.com/us/shows/magda-szubanski-net-worth-fortune-explored-wake-comedian-actress-concerning-health-diagnosis",
-            "keywords": [
-                "shows"
-            ],
-            "creator": [
-                "Anupal Sraban Neog"
-            ],
-            "description": "Magda Szubanski recently confirmed her cancer diagnosis on social media.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-30 09:08:28",
-            "pubDateTZ": "UTC",
-            "image_url": "https://staticc.sportskeeda.com/editor/2025/05/af7b3-17485977405422-1920.jpg",
-            "video_url": null,
-            "source_id": "sportskeeda",
-            "source_name": "Sportskeeda",
-            "source_priority": 1040,
-            "source_url": "http://sportskeeda.com",
-            "source_icon": "https://n.bytvi.com/sportskeeda.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "sports"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "0d1135d76ac8ddc3b8568385c841adea",
-            "title": "Punjab के किसान गेहूं के भूसे को क्यों जला रहे",
-            "link": "https://jantaserishta.com/local/punjab/why-are-punjab-farmers-burning-wheat-straw-4047093",
-            "keywords": [
-                "राज्य,पंजाब"
-            ],
-            "creator": [
-                "Payal"
-            ],
-            "description": null,
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-30 09:08:26",
-            "pubDateTZ": "UTC",
-            "image_url": "https://jantaserishta.com/h-upload/2025/05/30/4633613-45.webp",
-            "video_url": null,
-            "source_id": "jantaserishta",
-            "source_name": "Janta Se Rishta",
-            "source_priority": 81836,
-            "source_url": "https://jantaserishta.com",
-            "source_icon": "https://n.bytvi.com/jantaserishta.jpg",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "b6b5701484a5d639aab9b6f9da7c66cc",
-            "title": "PM Modi meets 14-year-old cricket sensation Vaibhav Suryavanshi at Patna Airport",
-            "link": "https://www.thehindu.com/sport/cricket/pm-modi-meets-14-year-old-cricket-sensation-vaibhav-suryavanshi-at-patna-airport/article69637148.ece",
-            "keywords": [
-                "cricket"
-            ],
-            "creator": null,
-            "description": "The young sensation has captured the nation's attention with his extraordinary performances in the Indian Premier League (IPL) 2025 season",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-05-30 09:08:24",
-            "pubDateTZ": "UTC",
-            "image_url": "https://th-i.thgim.com/public/sport/cricket/o2me06/article69637161.ece/alternates/LANDSCAPE_1200/Suryavanshi.jpg",
-            "video_url": null,
-            "source_id": "thehindu",
-            "source_name": "The Hindu",
-            "source_priority": 2972,
-            "source_url": "https://www.thehindu.com",
-            "source_icon": "https://n.bytvi.com/thehindu.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "sports"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
         }
     ]
 }
