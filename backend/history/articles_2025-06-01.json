@@ -1,6 +1,987 @@
 {
     "articles": [
         {
+            "article_id": "0b452e4e8e975c7bff4a8d2f375aa65d",
+            "title": "The World on Red Carpet",
+            "link": "https://www.deccanchronicle.com/tabloid/hyderabad-chronicle/the-world-on-red-carpet-1882733",
+            "keywords": [
+                "tabloid,hyderabad chronicle"
+            ],
+            "creator": [
+                "DC Correspondent"
+            ],
+            "description": "The grand finale of the Miss World pageant, which was held in Hyderabad, saw who’s who of celebrities, industrialists, and politicos in attendance.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-01 17:10:35",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.deccanchronicle.com/h-upload/2025/06/01/1923585-hanshi.webp",
+            "video_url": null,
+            "source_id": "deccanchronicle",
+            "source_name": "Deccan Chronicle",
+            "source_priority": 21568,
+            "source_url": "https://www.deccanchronicle.com",
+            "source_icon": "https://n.bytvi.com/deccanchronicle.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "71bfd8bb4eb7da4064bc2d479a47e96b",
+            "title": "Merab Dvalishvili makes next move clear with Cory Sandhagen callout ahead of UFC 316",
+            "link": "https://www.sportskeeda.com/mma/news-merab-dvalishvili-makes-next-move-clear-cory-sandhagen-callout-ahead-ufc-316-6f19c833",
+            "keywords": [
+                "mma"
+            ],
+            "creator": [
+                "Subham"
+            ],
+            "description": "UFC bantamweight kingpin Merab Dvalishvili is set to make his second title defense next week at UFC 316 in a rematch against Sean O'Malley.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-01 17:10:35",
+            "pubDateTZ": "UTC",
+            "image_url": "https://staticc.sportskeeda.com/editor/2025/06/1addb-17487991263565-1920.jpg",
+            "video_url": null,
+            "source_id": "sportskeeda",
+            "source_name": "Sportskeeda",
+            "source_priority": 1040,
+            "source_url": "http://sportskeeda.com",
+            "source_icon": "https://n.bytvi.com/sportskeeda.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "sports"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "8e6d81b1ec9fb3f95bc049893be8ab21",
+            "title": "क्या आपको पूरा राशन मिल रहा है? सरकार अब खुद करेगी सच्चाई की जांच",
+            "link": "https://hindi.asianetnews.com/state/uttar-pradesh/up-free-ration-yojna-feedback-call-ai-software-beneficiary-complaint-system/articleshow-a46r3dq",
+            "keywords": [
+                "uttar pradesh"
+            ],
+            "creator": [
+                "Akshansh Kulshreshtha"
+            ],
+            "description": "ration distribution transparency: उत्तर प्रदेश में मुफ़्त राशन योजना में बड़ा बदलाव! अब लाभार्थियों से सीधे सॉफ्टवेयर के ज़रिए फीडबैक लिया जाएगा। जानिए कैसे ये सिस्टम पारदर्शिता लाएगा और गड़बड़ियों पर लगाम लगाएगा।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-01 17:10:31",
+            "pubDateTZ": "UTC",
+            "image_url": "https://static-gi.asianetnews.com/images/01jw95z2jgqw6knj5f74qpywbc/yogi-adityanath-initiative-to-connect-backward-development-blocks-of-state-with-the-mainstream-1748359940688.jpg",
+            "video_url": null,
+            "source_id": "hindi_asianetnews",
+            "source_name": "Asianet News Hindi",
+            "source_priority": 7805,
+            "source_url": "https://hindi.asianetnews.com",
+            "source_icon": "https://n.bytvi.com/hindi_asianetnews.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "751a335f6b31108673e3a791379830ea",
+            "title": "Sky On Fire: Ukraine Blasts 41 Russian Jets, Faces Record Drone Swarm",
+            "link": "https://kashmirobserver.net/2025/06/01/sky-on-fire-ukraine-blasts-41-russian-jets-faces-record-drone-swarm/",
+            "keywords": [
+                "russia-ukraine war",
+                "news",
+                "world"
+            ],
+            "creator": [
+                "Agencies"
+            ],
+            "description": "A Ukrainian drone attack has destroyed more than 40 Russian planes deep in Russia’s territory, while Russia pounded Ukraine with missiles and drones a day before the two sides meet for a new round of direct talks in Istanbul.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-01 17:10:31",
+            "pubDateTZ": "UTC",
+            "image_url": "https://kashmirobserver.net/wp-content/uploads/2025/06/ukraine-russia-drone_6270582-1024x576.jpg",
+            "video_url": null,
+            "source_id": "kashmirobserver",
+            "source_name": "Kashmir Observer",
+            "source_priority": 596003,
+            "source_url": "https://kashmirobserver.net",
+            "source_icon": "https://n.bytvi.com/kashmirobserver.jpg",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "world"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "2f4ce2576e5c6ddc0dd5c38eec34da6e",
+            "title": "'ऑपरेशन सिंदूर' के नाम पर वोट की राजनीति':कांग्रेस की प्रदेश प्रतिनिधि बोली- आतंकी हमले की पीड़ित महिलाओं से PM को मिलना चाहिए",
+            "link": "https://www.bhaskar.com/local/bihar/darbhanga/news/bjps-operation-sindoor-is-vote-politics-congress-135148322.html",
+            "keywords": null,
+            "creator": null,
+            "description": "दरभंगा में कांग्रेस ने प्रेस वार्ता की। इसमें कहा गया कि पहलगाम आतंकी हमले के बाद बीजेपी 'ऑपरेशन सिंदूर' के नाम पर वोट की राजनीति कर रही है। यह बहुत ही दुर्भाग्यपूर्ण है। कांग्रेस की प्रदेश प्रतिनिधि प्रतिभा सिंह ने कहा कि अगर कांग्रेस कार्यकर्ता सिंदूर और सुहाग की टोकरी लेकर बीजेपी नेताओं के घर जाएं, तो क्या उनके घर की महिलाएं सिंदूर लगाएंगी। प्रतिभा सिंह ने कहा कि हिन्दू धर्म में पति के अलावा केवल औरत ही औरत को सिंदूर लगा सकती है। अगर बीजेपी के नेता खुद को महिला समझते हैं, तो वे सिंदूर जरूर बांटें। उन्होंने कहा कि प्रधानमंत्री को सबसे पहले पहलगाम आतंकी हमले की पीड़ित महिलाओं के घर जाकर उन्हें सांत्वना देनी चाहिए थी। लेकिन वे वहां न जाकर सीधे बिहार के मधुबनी में राजनीतिक कार्यक्रम को संबोधित करने आ गए। सोने का कंगन भी करना चाहिए भेंट प्रतिभा सिंह ने कहा कि देश की आम महिलाओं को सिंदूर के साथ-साथ सोने का कंगन भी भेंट करना चाहिए था। प्रेस वार्ता में कांग्रेस जिलाध्यक्ष दयानंद पासवान, जिला प्रवक्ता मो असलम, रतिकांत झा, कन्हैया झा, डॉ. जमाल हसन, राजा अंसारी, सरफराज अनवर, हसमत अली और एहसान सिद्दीकी मौजूद रहे।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-01 17:10:19",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.bhaskarassets.com/thumb/1000x1000/web2images/521/2025/06/01/1000195200_1748787068.jpg",
+            "video_url": null,
+            "source_id": "bhaskar_hindi",
+            "source_name": "Bhaskar",
+            "source_priority": 34179,
+            "source_url": "https://www.bhaskar.com",
+            "source_icon": "https://n.bytvi.com/bhaskar_hindi.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top",
+                "tourism"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "77f0055cc537b7b33d40533a684258be",
+            "title": "3 Shocking Twists WWE Could Pull Off at Money in the Bank 2025",
+            "link": "https://newsable.asianetnews.com/gallery/entertainment/3-shocking-twists-wwe-could-pull-off-at-money-in-the-bank-2025-zlp6b4u",
+            "keywords": [
+                "entertainment"
+            ],
+            "creator": [
+                "Vaishnav Akash"
+            ],
+            "description": "From Roman Reigns’ possible return to CM Punk's redemption arc, here are three twists that could shake up WWE Money in the Bank 2025.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-01 17:10:17",
+            "pubDateTZ": "UTC",
+            "image_url": "https://static-gi.asianetnews.com/images/01jjr5pdydj40p8bas07v2k2t5/gettyimages-2181669655.jpg",
+            "video_url": null,
+            "source_id": "newsable_asianetnews",
+            "source_name": "Asianet Newsable",
+            "source_priority": 7749,
+            "source_url": "https://newsable.asianetnews.com",
+            "source_icon": "https://n.bytvi.com/newsable_asianetnews.jpg",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "b785d7cc3b19c3c001172755d140d390",
+            "title": "Himachal सचिवालय में आगंतुकों की एंट्री दो घंटे तक सीमित, नई सुरक्षा प्रक्रिया लागू",
+            "link": "https://jantaserishta.com/local/himachal-pradesh/entry-of-visitors-in-himachal-secretariat-limited-to-two-hours-new-security-procedure-implemented-4052724",
+            "keywords": [
+                "राज्य,हिमाचल प्रदेश"
+            ],
+            "creator": [
+                "Ashish verma"
+            ],
+            "description": "Himachal सचिवालय में आगंतुकों की एंट्री",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-01 17:10:16",
+            "pubDateTZ": "UTC",
+            "image_url": "https://jantaserishta.com/h-upload/2025/06/01/4640025-39.webp",
+            "video_url": null,
+            "source_id": "jantaserishta",
+            "source_name": "Janta Se Rishta",
+            "source_priority": 81836,
+            "source_url": "https://jantaserishta.com",
+            "source_icon": "https://n.bytvi.com/jantaserishta.jpg",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "9cee9fe9f8afd61f8f70badb8162fc3a",
+            "title": "“At Least He Has Some Power in One of His Relationships”: NFL Fans React to Bill Belichick’s UNC Buyout Clause Lowering by $9 Million",
+            "link": "https://thesportsrush.com/nfl-news-at-least-he-has-some-power-in-one-of-his-relationships-nfl-fans-react-to-bill-belichicks-unc-buyout-clause-lowering-by-9-million/",
+            "keywords": [
+                "tom brady",
+                "jordon hudson",
+                "bill belichick",
+                "mike florio",
+                "north carolina",
+                "nfl"
+            ],
+            "creator": [
+                "Reese Patanjo"
+            ],
+            "description": "Bill Belichick’s relationship with his 24-year-old girlfriend, Jordon Hudson, has raised eyebrows since the beginning. Some even believe she may be influencing his decisions, especially after recent controversies, like her behavior during an interview, or reports that she was banned from North Carolina University’s football facility. Now, with Belichick’s buyout clause at UNC dropping significantly, [...]The post “At Least He Has Some Power in One of His Relationships”: NFL Fans React to Bill Belichick’s UNC Buyout Clause Lowering by $9 Million appeared first on The SportsRush.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-01 17:10:12",
+            "pubDateTZ": "UTC",
+            "image_url": "https://cdn-wp.thesportsrush.com/2025/06/26a0ed96-untitled-design-145.jpg?format=auto&q=75&w=3840",
+            "video_url": null,
+            "source_id": "thesportsrush",
+            "source_name": "The Sportsrush",
+            "source_priority": 26931,
+            "source_url": "https://thesportsrush.com",
+            "source_icon": "https://n.bytvi.com/thesportsrush.jpg",
+            "language": "english",
+            "country": [
+                "india",
+                "australia",
+                "united states of america",
+                "united kingdom"
+            ],
+            "category": [
+                "sports"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "436566f9fa851fd5f579151b78376956",
+            "title": "GLADIUS 4.0 : खेल के रंग में रंगे PGIMER के सितारे, एक मंच पर एकजुट हुए ‘स्पोर्ट्स योद्धा’",
+            "link": "https://www.dainiktribuneonline.com/news/chandigarh/gladius-4-0-pgimer-stars-painted-in-the-colours-of-sports-sports-warriors-united-on-one-platform/",
+            "keywords": [
+                "latest news",
+                "दैनिक ट्रिब्यून न्यूज",
+                "gladius 4.0",
+                "pgimer",
+                "hindi news",
+                "dainik tribune hindi news",
+                "dainik tribune news",
+                "chandigarh news",
+                "चंडीगढ़",
+                "हिंदी समाचार"
+            ],
+            "creator": [
+                "Anjali Rajput"
+            ],
+            "description": "चंडीगढ़, 1 जून GLADIUS 4.0 : PGIMER के इतिहास में एक नया अध्याय जुड़ा, जब सफेद कोट पहनने वाले चिकित्सक ‘GLADIUS 4.0’ के मैदान में जज्बे, जोश और जुनून के साथ उतरे। खेल भावना, तकनीकी नवाचार और संस्थागत एकता का अद्भुत संगम बना यह आयोजन, जिसमें 600 से अधिक रेजिडेंट डॉक्टरों और स्टाफ ने 13 [...]The post GLADIUS 4.0 : खेल के रंग में रंगे PGIMER के सितारे, एक मंच पर एकजुट हुए ‘स्पोर्ट्स योद्धा’ appeared first on dainiktribuneonline.com.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-01 16:21:54",
+            "pubDateTZ": "UTC",
+            "image_url": "https://dainiktribuneonline.imagibyte.sortdcdn.net/wp-content/uploads/2025/06/chandigarh-news-768x512.jpg",
+            "video_url": null,
+            "source_id": "dainiktribuneonline",
+            "source_name": "Breaking News In Hindi Online",
+            "source_priority": 465842,
+            "source_url": "https://www.dainiktribuneonline.com",
+            "source_icon": "https://n.bytvi.com/dainiktribuneonline.jpg",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "887d9bb899caa210bf01c8a309951ee4",
+            "title": "Depositors allege accused in Farmfed deposit fraud case threatened them",
+            "link": "https://timesofindia.indiatimes.com/city/thiruvananthapuram/depositors-allege-accused-in-farmfed-deposit-fraud-case-threatened-them/articleshow/121552265.cms",
+            "keywords": null,
+            "creator": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-01 16:21:53",
+            "pubDateTZ": "UTC",
+            "image_url": "https://static.toiimg.com/thumb/msid-121552263,imgsize-24352,width-400,height-225,resizemode-72/121552263.jpg",
+            "video_url": null,
+            "source_id": "toi",
+            "source_name": "The Times Of India",
+            "source_priority": 239,
+            "source_url": "https://timesofindia.indiatimes.com",
+            "source_icon": "https://n.bytvi.com/toi.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "entertainment"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "2ccc21eee86b9835beea5edd1d5fc9f3",
+            "title": "Monsoon to arrive in state on schedule: Met",
+            "link": "https://timesofindia.indiatimes.com/city/patna/monsoon-to-arrive-in-state-on-schedule-met/articleshow/121552268.cms",
+            "keywords": null,
+            "creator": [
+                "Faryal Rumi"
+            ],
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-01 16:21:53",
+            "pubDateTZ": "UTC",
+            "image_url": "https://static.toiimg.com/thumb/msid-121552264,width-1070,height-580,imgsize-42350,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "video_url": null,
+            "source_id": "toi",
+            "source_name": "The Times Of India",
+            "source_priority": 239,
+            "source_url": "https://timesofindia.indiatimes.com",
+            "source_icon": "https://n.bytvi.com/toi.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "b4509cc11428745e84854065cc1119c2",
+            "title": "Five held, three cases booked for trading spurious cotton seeds in Adilabad",
+            "link": "https://telanganatoday.com/five-held-three-cases-booked-for-trading-spurious-cotton-seeds-in-adilabad",
+            "keywords": [
+                "telangana",
+                "news",
+                "adilabad police",
+                "spurious cotton seeds",
+                "akhil mahajan"
+            ],
+            "creator": [
+                "Telangana Today"
+            ],
+            "description": "Adilabad SP urged the farmers to stay vigilant and help the authorities to curb the sale of counterfeit seeds.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-01 16:21:49",
+            "pubDateTZ": "UTC",
+            "image_url": null,
+            "video_url": null,
+            "source_id": "telanganatoday",
+            "source_name": "Telangana Today",
+            "source_priority": 63887,
+            "source_url": "https://telanganatoday.com",
+            "source_icon": "https://n.bytvi.com/telanganatoday.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "bde5ed96ed61fbfcc148dc99b6f97b55",
+            "title": "पहलगाम अटैक के बाद बदला रुख! PM मोदी की पाकिस्तान को सीधी चेतावनी",
+            "link": "https://www.aajtak.in/programmes/video/operation-sindoor-continues-after-pahalgam-attack-pm-modi-direct-warning-to-pakistan-2254129-2025-06-01",
+            "keywords": null,
+            "creator": null,
+            "description": "प्रधानमंत्री मोदी ने स्पष्ट किया है कि पहलगाम हमले के बाद भारत की नीति बदल गई है और ऑपरेशन सिंदूर अभी खत्म नहीं हुआ है. भारत ने नई डॉक्ट्रिन बनाई है जिसके तहत टेरर और ट्रेड साथ नहीं चल सकता है. टेरर और टॉक साथ नहीं चल सकता और पानी और लहू एक साथ नहीं बह सकते.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-01 16:21:49",
+            "pubDateTZ": "UTC",
+            "image_url": "https://akm-img-a-in.tosshub.com/aajtak/images/video/202506/683c7c8eb316e-operation-sindoor-news-011505351-16x9.png",
+            "video_url": null,
+            "source_id": "aajtak",
+            "source_name": "Aaj Tak",
+            "source_priority": 20158,
+            "source_url": "http://aajtak.in",
+            "source_icon": "https://n.bytvi.com/aajtak.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "6412805a65f8f379a9844a2d6d89c036",
+            "title": "Roadies XX Winner: एल्विश यादव की गैंग के कुशाल तंवर ने जीती रोडीज की ट्रॉफी, बाइक के साथ गुल्लू को मिला इतने लाख का इनाम",
+            "link": "https://www.jansatta.com/entertainment/roadies-double-cross-winner-elvish-yadav-gang-member-kushal-tanwar-aka-gullu-wins-bike-with-10-lakh-prize/3989075/",
+            "keywords": null,
+            "creator": [
+                "Jansatta"
+            ],
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-01 16:21:42",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.jansatta.com/wp-content/uploads/2025/06/Roadies.jpg",
+            "video_url": null,
+            "source_id": "jansatta",
+            "source_name": "Jansatta",
+            "source_priority": 385929,
+            "source_url": "https://www.jansatta.com",
+            "source_icon": "https://n.bytvi.com/jansatta.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "956a49f8a7472ab7a0259a772eeead2a",
+            "title": "भारत का GST कलेक्शन नए शिखर पर",
+            "link": "https://jantaserishta.com/business/indias-gst-collection-reaches-new-peak-4052698",
+            "keywords": [
+                "व्यापार"
+            ],
+            "creator": [
+                "Dolly"
+            ],
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-01 16:21:40",
+            "pubDateTZ": "UTC",
+            "image_url": "https://jantaserishta.com/h-upload/2025/06/01/4639994-64.webp",
+            "video_url": null,
+            "source_id": "jantaserishta",
+            "source_name": "Janta Se Rishta",
+            "source_priority": 81836,
+            "source_url": "https://jantaserishta.com",
+            "source_icon": "https://n.bytvi.com/jantaserishta.jpg",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "business"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "6618d4eb5fb4f1333adced60722b8fc2",
+            "title": "असम पुलिस STF ने ऑपरेशन घोस्ट सिम के तहत एक और आरोपी को किया गिरफ्तार",
+            "link": "https://jantaserishta.com/local/assam/assam-police-stf-arrested-another-accused-under-operation-ghost-sim-4052697",
+            "keywords": [
+                "भारत,राज्य,असम"
+            ],
+            "creator": [
+                "Gulabi Jagat"
+            ],
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-01 16:21:37",
+            "pubDateTZ": "UTC",
+            "image_url": "https://jantaserishta.com/h-upload/2025/06/01/4639999-crime.webp",
+            "video_url": null,
+            "source_id": "jantaserishta",
+            "source_name": "Janta Se Rishta",
+            "source_priority": 81836,
+            "source_url": "https://jantaserishta.com",
+            "source_icon": "https://n.bytvi.com/jantaserishta.jpg",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "a58378ca71b85dc11f29ab55835e4a61",
+            "title": "दतिया एसपी और चंबल रेंज के DIG हटाए गए:पीएम के कार्यक्रम में अव्यवस्था पर भिड़े थे; सीएम ने सोशल मीडिया में दी जानकारी",
+            "link": "https://www.bhaskar.com/local/mp/datia/news/datia-sp-and-chamber-range-dig-removed-135148166.html",
+            "keywords": null,
+            "creator": null,
+            "description": "1 मई को प्रधानमंत्री नरेंद्र मोदी ने वर्चुअल माध्यम से दतिया एयरपोर्ट का लोकार्पण किया। कार्यक्रम हाई-प्रोफाइल था, लेकिन समापन के समय अव्यवस्था सामने आ गई। सूत्रों के अनुसार, एयरपोर्ट पर हरी झंडी दिखाने के दौरान भाजपा कार्यकर्ताओं की भीड़ कार्यक्रम स्थल तक पहुंच गई। इसके चलते अव्यवस्था फैल गई। चंबल रेंज के IG-DIG ने भीड़ नियंत्रण में कमी को लेकर दतिया SP वीरेंद्र मिश्रा पर नाराजगी जताई। दोनों अफसरों के बीच बहस हो गई। माहौल इतना बिगड़ गया कि पुलिसकर्मियों को बीच-बचाव करना पड़ा। मुख्यमंत्री ने सभी अफसरों को हटायामामला तूल पकड़ते ही मुख्यमंत्री मोहन यादव ने सोशल मीडिया पर पोस्ट कर इसे \"लोक सेवा की गरिमा के खिलाफ\" बताया। उन्होंने तुरंत प्रभाव से दतिया और कटनी के SP के साथ-साथ चंबल रेंज के IG और DIG को हटाने के निर्देश दिए। प्रशासनिक चूक पर सख्तीमुख्यमंत्री ने यह स्पष्ट संकेत दिया है कि अनुशासनहीनता और अव्यवस्था किसी भी स्तर पर बर्दाश्त नहीं की जाएगी।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-01 16:21:34",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.bhaskarassets.com/thumb/1000x1000/web2images/521/2025/06/01/5b47b673-1314-4ba0-872e-5a2e127058d1_1748794455328.jpg",
+            "video_url": null,
+            "source_id": "bhaskar_hindi",
+            "source_name": "Bhaskar",
+            "source_priority": 34179,
+            "source_url": "https://www.bhaskar.com",
+            "source_icon": "https://n.bytvi.com/bhaskar_hindi.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "domestic",
+                "other"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "ac102092934a75fe482c9985a7e44976",
+            "title": "New delhi:भारत में कोविड-19 मामले",
+            "link": "https://jantaserishta.com/delhi-ncr/covid-19-cases-in-india-4052696",
+            "keywords": [
+                "भारत,दिल्ली-एनसीआर"
+            ],
+            "creator": [
+                "Anurag"
+            ],
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-01 16:21:29",
+            "pubDateTZ": "UTC",
+            "image_url": "https://jantaserishta.com/h-upload/2025/06/01/4639996-500-copy.webp",
+            "video_url": null,
+            "source_id": "jantaserishta",
+            "source_name": "Janta Se Rishta",
+            "source_priority": 81836,
+            "source_url": "https://jantaserishta.com",
+            "source_icon": "https://n.bytvi.com/jantaserishta.jpg",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "491d4a6d44ad64cfa32c031c2977a33f",
+            "title": "समारोह आयोजित कर 20 छात्रो को किया गया सम्मानित",
+            "link": "https://www.prabhatkhabar.com/state/jharkhand/chatra/20-students-were-honored",
+            "keywords": [
+                "चतरा",
+                "jharkhand politics"
+            ],
+            "creator": [
+                "VIKASH NATH"
+            ],
+            "description": "प्रखंड के बेंगोकला पंचायत के केंदुवा सहोर के विद्यालय प्रांगण में रविवार को खरवार एकता संघ जिला चतरा के द्वारा सम्मान समारोह का आयोजन किया गया.The post समारोह आयोजित कर 20 छात्रो को किया गया सम्मानित appeared first on Prabhat Khabar.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-01 16:21:27",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.prabhatkhabar.com/wp-content/uploads/2025/02/chatra.jpg",
+            "video_url": null,
+            "source_id": "prabhatkhabar",
+            "source_name": "Prabhat Khabar",
+            "source_priority": 343253,
+            "source_url": "https://www.prabhatkhabar.com",
+            "source_icon": "https://n.bytvi.com/prabhatkhabar.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "4dbbcab4b0c4c959b1d1f0babca59122",
+            "title": "Russia Says Ukrainian Kamikaze Drone Strikes Target Military Airfields Across Country (VIDEO)",
+            "link": "https://www.freepressjournal.in/world/russia-says-ukrainian-kamikaze-drone-strikes-target-military-airfields-across-country-video",
+            "keywords": null,
+            "creator": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-01 16:21:26",
+            "pubDateTZ": "UTC",
+            "image_url": "https://media.assettype.com/freepressjournal/2025-06-01/q31e53p6/FNBNl4zXMAkAYQw.jpg?width=1200",
+            "video_url": null,
+            "source_id": "freepressjournal",
+            "source_name": "The Free Press Journal",
+            "source_priority": 26427,
+            "source_url": "https://www.freepressjournal.in",
+            "source_icon": "https://n.bytvi.com/freepressjournal.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "b44a6fc7ba8351bfc38d80b987b0e876",
+            "title": "कृषि मंत्री ने 12वीं की रेखा को किया सम्मानित",
+            "link": "https://www.prabhatkhabar.com/state/jharkhand/ranchi/agriculture-minister-honored-12th-class-student-rekha",
+            "keywords": [
+                "रांची"
+            ],
+            "creator": [
+                "Prabhat Khabar News Desk"
+            ],
+            "description": "प्रतिभाशाली रेखा तिर्की पिता महादेव उरांव को कृषि मंत्री शिल्पी नेहा तिर्की ने सम्मानित किया. The post कृषि मंत्री ने 12वीं की रेखा को किया सम्मानित appeared first on Prabhat Khabar.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-01 16:21:16",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.prabhatkhabar.com/wp-content/uploads/2025/06/file_2025-06-01T16-44-45-scaled.jpeg",
+            "video_url": null,
+            "source_id": "prabhatkhabar",
+            "source_name": "Prabhat Khabar",
+            "source_priority": 343253,
+            "source_url": "https://www.prabhatkhabar.com",
+            "source_icon": "https://n.bytvi.com/prabhatkhabar.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "552dba71edfd303e5c8a5dbfe5e9c62d",
+            "title": "One dies as heavy rain lashes Agartala, other parts of Tripura; 'red' alert issued for downpours",
+            "link": "https://economictimes.indiatimes.com/news/india/one-dies-as-heavy-rain-lashes-agartala-other-parts-of-tripura-red-alert-issued-for-downpours/articleshow/121552254.cms",
+            "keywords": null,
+            "creator": null,
+            "description": "Tripura grapples with severe flooding after record rainfall, particularly in Agartala, where 200 mm of rain fell in three hours. A man died after falling into a manhole amidst the inundation. Over 10,600 people have been evacuated to relief camps across the state as authorities issue a red alert and deploy rescue teams to manage the crisis.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-01 16:21:10",
+            "pubDateTZ": "UTC",
+            "image_url": "https://img.etimg.com/thumb/msid-121552262,width-1200,height-630,imgsize-81930,overlay-economictimes/articleshow.jpg",
+            "video_url": null,
+            "source_id": "economictimes_indiatimes",
+            "source_name": "The Economic Times",
+            "source_priority": 231,
+            "source_url": "https://economictimes.indiatimes.com",
+            "source_icon": "https://n.bytvi.com/economictimes_indiatimes.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top",
+                "business"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": true
+        },
+        {
+            "article_id": "b68784b9c9adb4108afd6cde0dd23292",
+            "title": "राइफल शूटिंग में राज्य व राष्ट्रीय स्तर पर लोहरदगा की जल्द बनेगी पहचान : उपायुक्त",
+            "link": "https://www.prabhatkhabar.com/state/jharkhand/lohardaga/lohardaga-at-state-and-national-level-in-rifle-shooting",
+            "keywords": [
+                "लोहरदगा",
+                "jharkhand politics"
+            ],
+            "creator": [
+                "DEEPAK"
+            ],
+            "description": "बीएस कॉलेज लोहरदगा स्थित शूटिंग रेंज में लोहरदगा जिला राइफल एसोसिएशन की ओर से आयोजित चार दिवसीय शूटिंग समर कैंप-सह-टैलेंट हंट का उद्घाटन शनिवार को किया गया.The post राइफल शूटिंग में राज्य व राष्ट्रीय स्तर पर लोहरदगा की जल्द बनेगी पहचान : उपायुक्त appeared first on Prabhat Khabar.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-01 16:21:09",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.prabhatkhabar.com/wp-content/uploads/2025/02/lohardaga.jpg",
+            "video_url": null,
+            "source_id": "prabhatkhabar",
+            "source_name": "Prabhat Khabar",
+            "source_priority": 343253,
+            "source_url": "https://www.prabhatkhabar.com",
+            "source_icon": "https://n.bytvi.com/prabhatkhabar.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "7cc3ac8dc7200e75e586eed6a397dde8",
+            "title": "Govt-backed S3V Vascular to manufacture India’s first indigenous stroke device",
+            "link": "https://www.moneycontrol.com/news/india/govt-backed-s3v-vascular-to-manufacture-india-s-first-indigenous-stroke-device-13083183.html",
+            "keywords": [
+                "thrombectomy, medical devices, cardiac device, s3v vascular technologies, brain surgery, stroke"
+            ],
+            "creator": [
+                "Moneycontrol"
+            ],
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-01 16:21:07",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.moneycontrol.com/static-mcnews/2024/07/20240723042129_BeFunky-collage-2024-07-23T095040.703.jpg",
+            "video_url": null,
+            "source_id": "moneycontrol",
+            "source_name": "Moneycontrol",
+            "source_priority": 1039,
+            "source_url": "https://www.moneycontrol.com",
+            "source_icon": "https://n.bytvi.com/moneycontrol.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top",
+                "business",
+                "world",
+                "politics"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "b3875f281badc5fd9ede7996a9eacbc3",
+            "title": "Muzaffarpur : आंधी-बारिश के बाद आपूर्ति बाधित, 30 घंटे बाद भी कर्मी ढूंढते रहे फॉल्ट",
+            "link": "https://www.prabhatkhabar.com/state/bihar/muzaffarpur/supply-disrupted-after-storm-and-rain",
+            "keywords": [
+                "accident news",
+                "muzaffarpur news",
+                "मुजफ्फरपुर"
+            ],
+            "creator": [
+                "ABHAY KUMAR"
+            ],
+            "description": "Muzaffarpur : आंधी-बारिश के बाद आपूर्ति बाधित, 30 घंटे बाद भी कर्मी ढूंढते रहे फॉल्टThe post Muzaffarpur : आंधी-बारिश के बाद आपूर्ति बाधित, 30 घंटे बाद भी कर्मी ढूंढते रहे फॉल्ट appeared first on Prabhat Khabar.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-01 16:21:05",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.prabhatkhabar.com/wp-content/uploads/2025/04/WhatsApp-Image-2025-03-27-at-8.29.24-PM.jpeg",
+            "video_url": null,
+            "source_id": "prabhatkhabar",
+            "source_name": "Prabhat Khabar",
+            "source_priority": 343253,
+            "source_url": "https://www.prabhatkhabar.com",
+            "source_icon": "https://n.bytvi.com/prabhatkhabar.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "bebe4dd889dfc718af79d78629642a62",
+            "title": "जहां से पूरी दुनिया को मिला ज्ञान, बख्तियार खिलजी की ‘नफरत’ ने जला दिया नालंदा विश्वविद्यालय",
+            "link": "https://www.jansatta.com/jansatta-special/history-of-nalanda-university-biggest-education-centre-of-bihar-how-it-got-destroyed/3989072/",
+            "keywords": null,
+            "creator": [
+                "Jansatta"
+            ],
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-01 16:21:00",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.jansatta.com/wp-content/uploads/2025/06/NALANDA.jpg",
+            "video_url": null,
+            "source_id": "jansatta",
+            "source_name": "Jansatta",
+            "source_priority": 385929,
+            "source_url": "https://www.jansatta.com",
+            "source_icon": "https://n.bytvi.com/jansatta.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "69a069ebe47955f03aadb82164ba5d6c",
+            "title": "आथा स्पेसेज इंटीरियर फर्म ने किया धार्मिक आयोजन:लखनऊ में भंडारे का आयोजन, सैकड़ों भक्तों ने लिया प्रसाद",
+            "link": "https://www.bhaskar.com/local/uttar-pradesh/lucknow/news/aatha-spaces-interior-firm-organized-a-religious-event-135148162.html",
+            "keywords": null,
+            "creator": null,
+            "description": "लखनऊ के गोमती नगर स्थित आथा स्पेसेज इंटीरियर फर्म ने रविवार को सुंदरकांड और भंडारे का आयोजन किया गया । विजयन्त खंड-2 के मिनी स्टेडियम के पास आयोजित इस भंडारे की शुरुआत हनुमान जी को भोग अर्पण के साथ हुई। ज्येष्ठ मास की पावन तिथि पर आयोजित भंडारे में पूड़ी, सब्जी और बूंदी का प्रसाद वितरित किया गया। श्रद्धालुओं की लंबी कतारें लगी रहीं। भक्त हनुमान जी का जयकारा लगाते हुए प्रसाद ग्रहण के लिए उपस्थित थे। सुंदरकांड पाठ का आयोजन किया गया आथा स्पेसेज के फाउंडर परितोष मिनोचा मुख्य आयोजक रहे। प्ररेत मिनोचा और नीलम मिनोचा ने भी अपनी टीम के साथ व्यवस्थाओं को संभाला। आयोजकों ने बताया कि सुंदरकांड पाठ का आयोजन भी किया गया। सुंदरकांड के बाद भंडारे का आयोजन हुआ। क्षेत्र के सभी भक्तों से इस आयोजन में शामिल हुए ।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-01 16:20:36",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.bhaskarassets.com/thumb/1000x1000/web2images/521/2025/06/01/290e426c-aa7a-4b0b-8cd4-2f6da17cab6b_1748782221969.jpg",
+            "video_url": null,
+            "source_id": "bhaskar_hindi",
+            "source_name": "Bhaskar",
+            "source_priority": 34179,
+            "source_url": "https://www.bhaskar.com",
+            "source_icon": "https://n.bytvi.com/bhaskar_hindi.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top",
+                "domestic"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "721f3488f730e6ac7c76113e97e5a99b",
+            "title": "ईद-उल-अजहा को लेकर हुई शांति समिति की बैठक",
+            "link": "https://www.prabhatkhabar.com/state/jharkhand/chatra/meeting-held-regarding-eid-ul-azha",
+            "keywords": [
+                "चतरा",
+                "jharkhand politics"
+            ],
+            "creator": [
+                "VIKASH NATH"
+            ],
+            "description": "राजपुर थाना परिसर में रविवार को ईद-उल-अजहा (बकरीद) को लेकर शांति समिति की बैठक हुईThe post ईद-उल-अजहा को लेकर हुई शांति समिति की बैठक appeared first on Prabhat Khabar.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-01 16:20:32",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.prabhatkhabar.com/wp-content/uploads/2025/02/chatra.jpg",
+            "video_url": null,
+            "source_id": "prabhatkhabar",
+            "source_name": "Prabhat Khabar",
+            "source_priority": 343253,
+            "source_url": "https://www.prabhatkhabar.com",
+            "source_icon": "https://n.bytvi.com/prabhatkhabar.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
             "article_id": "c2061f10bb75bf1bc86034b3739c760b",
             "title": "Padmanabhaswamy Temple: 270 साल के बाद पद्मनाभस्वामी मंदिर में होगा दुर्लभ 'महाकुंभभिषेक', भव्य आयोजन का भक्त बनेंगे साक्षी",
             "link": "https://zeenews.india.com/hindi/religion/maha-kumbhabhishekam-will-hold-at-padmanabhaswamy-mandir-in-kerala/2782422",
