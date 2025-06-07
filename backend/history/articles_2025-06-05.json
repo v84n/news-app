@@ -1,6 +1,636 @@
 {
     "articles": [
         {
+            "article_id": "fb313dbd710a0f9a07b4a935a5e7c1c6",
+            "title": "सचिन पायलट ने मोदी सरकार पर साधा निशाना, गुर्जर आंदोलन का जिक्र कर बढ़ाया सियासी पारा",
+            "link": "https://www.bhaskarhindi.com/politics/sachin-pilot-targeted-modi-government-raised-political-temperature-by-mentioning-gurjar-movement-1148902",
+            "keywords": [
+                "राजनीति,बड़ी खबरें"
+            ],
+            "creator": [
+                "Dablu Kumar"
+            ],
+            "description": "गुर्जर आंदोलन का जिक्र कर बढ़ाया सियासी पारासचिन पायलट ने मोदी सरकार पर साधा निशानाकांग्रेस संगठन चुनाव पर पायलट ने दी प्रतिक्रिया",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-05 19:10:00",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.bhaskarhindi.com/h-upload/2025/06/05/1433521-.webp",
+            "video_url": null,
+            "source_id": "bhaskarhindi",
+            "source_name": "Bhaskar Hindi",
+            "source_priority": 596776,
+            "source_url": "https://www.bhaskarhindi.com",
+            "source_icon": "https://n.bytvi.com/bhaskarhindi.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "politics"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "d014d7cdb4c24209e59802d783f6660f",
+            "title": "2 held with MD worth Rs1L near Bhilgaon",
+            "link": "https://timesofindia.indiatimes.com/city/nagpur/2-held-with-md-worth-rs1l-near-bhilgaon/articleshow/121658541.cms",
+            "keywords": null,
+            "creator": [
+                "Ved Ghulghule"
+            ],
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-05 19:09:55",
+            "pubDateTZ": "UTC",
+            "image_url": "https://static.toiimg.com/thumb/msid-117593260,imgsize-99944,width-400,height-225,resizemode-72/117593260.jpg",
+            "video_url": null,
+            "source_id": "toi",
+            "source_name": "The Times Of India",
+            "source_priority": 239,
+            "source_url": "https://timesofindia.indiatimes.com",
+            "source_icon": "https://n.bytvi.com/toi.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "0d2d86755f491042ea8ea4c3c0942ca5",
+            "title": "Techie from Tirupur loses life in Bengaluru stampede",
+            "link": "https://timesofindia.indiatimes.com/city/coimbatore/techie-from-tirupur-loses-life-in-bengaluru-stampede/articleshow/121658540.cms",
+            "keywords": null,
+            "creator": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-05 19:09:50",
+            "pubDateTZ": "UTC",
+            "image_url": "https://static.toiimg.com/thumb/msid-121658539,width-1070,height-580,imgsize-45724,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "video_url": null,
+            "source_id": "toi",
+            "source_name": "The Times Of India",
+            "source_priority": 239,
+            "source_url": "https://timesofindia.indiatimes.com",
+            "source_icon": "https://n.bytvi.com/toi.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "sports"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "f203ef7d2f40f9b7e5184ff79238d26b",
+            "title": "Former MD of education firm booked for cheating",
+            "link": "https://timesofindia.indiatimes.com/city/coimbatore/former-md-of-education-firm-booked-for-cheating/articleshow/121658538.cms",
+            "keywords": null,
+            "creator": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-05 19:09:46",
+            "pubDateTZ": "UTC",
+            "image_url": "https://static.toiimg.com/thumb/msid-121658537,imgsize-29694,width-400,height-225,resizemode-72/121658537.jpg",
+            "video_url": null,
+            "source_id": "toi",
+            "source_name": "The Times Of India",
+            "source_priority": 239,
+            "source_url": "https://timesofindia.indiatimes.com",
+            "source_icon": "https://n.bytvi.com/toi.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "sports"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "1a7d03cade9cad7dd90e4f327241e472",
+            "title": "England-India Test series renamed as Anderson-Tendulkar Trophy; All you need to know",
+            "link": "https://www.livemint.com/sports/englandindia-test-series-renamed-as-anderson-tendulkar-trophy-all-you-need-to-know-james-anderson-sachin-tendulkar-11749147860551.html",
+            "keywords": null,
+            "creator": null,
+            "description": "ECB and BCCI have decided to rename the upcoming five-match Test series between England and India in the honour of James Anderson and Sachin Tendulkar.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-05 19:09:44",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.livemint.com/lm-img/img/2025/06/05/1600x900/GssKZF_awAAnNzz_1749148900294_1749148912849.jpg",
+            "video_url": null,
+            "source_id": "livemint",
+            "source_name": "Mint",
+            "source_priority": 7134,
+            "source_url": "https://www.livemint.com",
+            "source_icon": "https://n.bytvi.com/livemint.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "sports"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "3631ee37c5da19a06478ae134919cd40",
+            "title": "Telangana govt urged to impose total ban on single-use plastics",
+            "link": "https://timesofindia.indiatimes.com/city/hyderabad/telangana-govt-urged-to-impose-total-ban-on-single-use-plastics/articleshow/121658534.cms",
+            "keywords": null,
+            "creator": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-05 19:09:42",
+            "pubDateTZ": "UTC",
+            "image_url": "https://static.toiimg.com/thumb/msid-121658532,width-1070,height-580,imgsize-75822,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "video_url": null,
+            "source_id": "toi",
+            "source_name": "The Times Of India",
+            "source_priority": 239,
+            "source_url": "https://timesofindia.indiatimes.com",
+            "source_icon": "https://n.bytvi.com/toi.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "4b1e6a492d4a168bb1572083aad81ac7",
+            "title": "Artificial island removed by NHAI, Nag River flows freely at Ashok Sq",
+            "link": "https://timesofindia.indiatimes.com/city/nagpur/artificial-island-removed-by-nhai-nag-river-flows-freely-at-ashok-sq/articleshow/121658531.cms",
+            "keywords": null,
+            "creator": [
+                "Viraj Deshpande"
+            ],
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-05 19:09:41",
+            "pubDateTZ": "UTC",
+            "image_url": "https://static.toiimg.com/thumb/msid-121658528,width-1070,height-580,imgsize-97408,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "video_url": null,
+            "source_id": "toi",
+            "source_name": "The Times Of India",
+            "source_priority": 239,
+            "source_url": "https://timesofindia.indiatimes.com",
+            "source_icon": "https://n.bytvi.com/toi.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "c463225abd63ce904893e92f186a3c5d",
+            "title": "Pocso accused kills survivor’s dad in UP, arrested",
+            "link": "https://timesofindia.indiatimes.com/city/lucknow/pocso-accused-kills-survivors-dad-in-up-arrested/articleshow/121658527.cms",
+            "keywords": null,
+            "creator": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-05 19:09:37",
+            "pubDateTZ": "UTC",
+            "image_url": "https://static.toiimg.com/thumb/msid-117515968,width-1070,height-580,imgsize-369372,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "video_url": null,
+            "source_id": "toi",
+            "source_name": "The Times Of India",
+            "source_priority": 239,
+            "source_url": "https://timesofindia.indiatimes.com",
+            "source_icon": "https://n.bytvi.com/toi.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "54ebaabfc5aa7b335b0361d86d7dbf7c",
+            "title": "Punjab CM Bhagwant Mann hails 44 govt school students who cleared JEE (Advanced)",
+            "link": "https://timesofindia.indiatimes.com/city/chandigarh/punjab-cm-bhagwant-mann-hails-44-govt-school-students-who-cleared-jee-advanced/articleshow/121658439.cms",
+            "keywords": null,
+            "creator": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-05 19:09:36",
+            "pubDateTZ": "UTC",
+            "image_url": "https://static.toiimg.com/thumb/msid-121658526,width-1070,height-580,imgsize-57910,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "video_url": null,
+            "source_id": "toi",
+            "source_name": "The Times Of India",
+            "source_priority": 239,
+            "source_url": "https://timesofindia.indiatimes.com",
+            "source_icon": "https://n.bytvi.com/toi.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "world"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "fe4411bee719ae5f4cd0990f9ca240de",
+            "title": "Ex-banker, aide sentenced in graft case",
+            "link": "https://timesofindia.indiatimes.com/city/lucknow/ex-banker-aide-sentenced-in-graft-case/articleshow/121658525.cms",
+            "keywords": null,
+            "creator": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-05 19:09:35",
+            "pubDateTZ": "UTC",
+            "image_url": "https://static.toiimg.com/thumb/msid-117515980,width-1070,height-580,imgsize-98805,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "video_url": null,
+            "source_id": "toi",
+            "source_name": "The Times Of India",
+            "source_priority": 239,
+            "source_url": "https://timesofindia.indiatimes.com",
+            "source_icon": "https://n.bytvi.com/toi.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "089b61f48b40160500a4008c43c5b050",
+            "title": "City-based retailers' association mandates CCTVs in shops",
+            "link": "https://timesofindia.indiatimes.com/city/pune/city-based-retailers-association-mandates-cctvs-in-shops/articleshow/121658524.cms",
+            "keywords": null,
+            "creator": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-05 19:09:34",
+            "pubDateTZ": "UTC",
+            "image_url": "https://static.toiimg.com/thumb/msid-121658523,width-1070,height-580,imgsize-34296,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "video_url": null,
+            "source_id": "toi",
+            "source_name": "The Times Of India",
+            "source_priority": 239,
+            "source_url": "https://timesofindia.indiatimes.com",
+            "source_icon": "https://n.bytvi.com/toi.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "health"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "2aca8d1f3831f2080912bd6dc5ee39a8",
+            "title": "Who was Khadiyah ‘KD’ Lewis? Love and Hip Hop: Atlanta star dies at 44",
+            "link": "https://www.hindustantimes.com/entertainment/hollywood/who-was-khadiyah-kd-lewis-love-and-hip-hop-atlanta-star-dies-at-44-101749149114174.html",
+            "keywords": [
+                "latest"
+            ],
+            "creator": null,
+            "description": "Khadiyah ‘KD’ Lewis, known for her role in Love and Hip Hop: Atlanta, has died at 44",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-05 19:09:34",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.hindustantimes.com/ht-img/img/2025/06/05/1600x900/atlanta-star-khadiyah-kd-lewis-1000694218_1749150390015_1749150404603.webp",
+            "video_url": null,
+            "source_id": "hindustantimes",
+            "source_name": "Hindustan Times",
+            "source_priority": 933,
+            "source_url": "http://www.hindustantimes.com",
+            "source_icon": "https://n.bytvi.com/hindustantimes.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "25ef59961662296a8ed5d9fe5fd9d861",
+            "title": "Raakesh Kriplani appointed as Subject Matter Expert at CENJOWS, Delhi",
+            "link": "https://timesofindia.indiatimes.com/city/nagpur/raakesh-kriplani-appointed-as-subject-matter-expert-at-cenjows-delhi/articleshow/121658518.cms",
+            "keywords": null,
+            "creator": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-05 19:09:30",
+            "pubDateTZ": "UTC",
+            "image_url": "https://static.toiimg.com/thumb/msid-121658514,width-1070,height-580,imgsize-7030,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "video_url": null,
+            "source_id": "toi",
+            "source_name": "The Times Of India",
+            "source_priority": 239,
+            "source_url": "https://timesofindia.indiatimes.com",
+            "source_icon": "https://n.bytvi.com/toi.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "c875e0a19222c158b088df5be75938a6",
+            "title": "CM has pulled UP out of mafia’s clutches: Ravi Kishan",
+            "link": "https://timesofindia.indiatimes.com/city/varanasi/cm-has-pulled-up-out-of-mafias-clutches-ravi-kishan/articleshow/121658512.cms",
+            "keywords": null,
+            "creator": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-05 19:09:29",
+            "pubDateTZ": "UTC",
+            "image_url": "https://static.toiimg.com/thumb/msid-117694320,imgsize-100510,width-400,height-225,resizemode-72/117694320.jpg",
+            "video_url": null,
+            "source_id": "toi",
+            "source_name": "The Times Of India",
+            "source_priority": 239,
+            "source_url": "https://timesofindia.indiatimes.com",
+            "source_icon": "https://n.bytvi.com/toi.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "lifestyle"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "c941aff0e4e6da9cf9bcce1f314affa1",
+            "title": "SCCL enforces total plastic ban, steps up green drive",
+            "link": "https://timesofindia.indiatimes.com/city/hyderabad/sccl-enforces-total-plastic-ban-steps-up-green-drive/articleshow/121658516.cms",
+            "keywords": null,
+            "creator": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-05 19:09:29",
+            "pubDateTZ": "UTC",
+            "image_url": "https://static.toiimg.com/thumb/msid-121658513,imgsize-22380,width-400,height-225,resizemode-72/121658513.jpg",
+            "video_url": null,
+            "source_id": "toi",
+            "source_name": "The Times Of India",
+            "source_priority": 239,
+            "source_url": "https://timesofindia.indiatimes.com",
+            "source_icon": "https://n.bytvi.com/toi.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "6af588622f42bc54f6a5dd5458d6ab30",
+            "title": "Hisar News: जैविक-प्राकृतिक खेती उत्पादों के लिए गुरुग्राम में अनाज मंडी, हिसार में सब्जी मंडी बनेगी",
+            "link": "https://www.amarujala.com/haryana/hisar/grain-market-will-be-built-in-gurugram-and-vegetable-market-in-hisar-for-organic-natural-farming-products-hisar-news-c-21-hsr1027-641288-2025-06-06",
+            "keywords": null,
+            "creator": null,
+            "description": "मुख्यमंत्री नायब सिंह सैनी ने कहा कि गुरुग्राम में जैविक-प्राकृतिक खेती उत्पादों के लिए अनाज मंडी बनेगी। हिसार में जैविक-प्राकृतिक फल-सब्जियों के लिए मंडी स्थापित होगी।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-05 19:09:28",
+            "pubDateTZ": "UTC",
+            "image_url": "https://staticimg.amarujala.com/assets/images/4cplus/2025/06/06/hasara-eca-eya-ma-parakataka-khata-samamalna-thapa-jalkara-shabharabha-karata-makhayamatara-nayab-saha-sana_a8d16ce4d40ca6369ee4a87a97febc67.jpeg?dpr=1.0&q=80&w=414",
+            "video_url": null,
+            "source_id": "amarujala",
+            "source_name": "Amar Ujala",
+            "source_priority": 55215,
+            "source_url": "https://www.amarujala.com",
+            "source_icon": "https://n.bytvi.com/amarujala.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "de89271c992e51da0f8199de14eea661",
+            "title": "Hisar News: पश्चिमी विक्षोभ के असर से 10 जिलों में बारिश, ओले भी गिरे",
+            "link": "https://www.amarujala.com/haryana/hisar/due-to-the-effect-of-western-disturbance-rain-and-hail-fell-in-10-districts-hisar-news-c-21-hsr1027-641393-2025-06-06",
+            "keywords": null,
+            "creator": null,
+            "description": "पश्चिमी विक्षोभ के असर से वीरवार को प्रदेश के 10 जिलों में बारिश हुई। इसके अलावा एक-दो जगहों पर ओले भी गिरे। इसके असर से मौसम खुशगवार भी रहा और लोगों को गर्मी से राहत मिली।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-05 19:09:28",
+            "pubDateTZ": "UTC",
+            "image_url": "https://staticimg.amarujala.com/assets/images/4cplus/2025/06/06/brasha-ka-tharana-yavata-sakata-para-khatha-kabhagana-sa-bcana-kaparayasa-ma_bb345fef2db9873d6f78313efe189825.jpeg?dpr=1.0&q=80&w=414",
+            "video_url": null,
+            "source_id": "amarujala",
+            "source_name": "Amar Ujala",
+            "source_priority": 55215,
+            "source_url": "https://www.amarujala.com",
+            "source_icon": "https://n.bytvi.com/amarujala.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "17d72f1a1668a437f79d59ee040f73d4",
+            "title": "Hisar News: किशोर की हत्या मामले में इस्तेमाल की गई बंदूक का मालिक गिरफ्तार, जमानत मिली",
+            "link": "https://www.amarujala.com/haryana/hisar/owner-of-gun-used-in-teens-murder-case-arrested-granted-bail-hisar-news-c-21-hsr1027-641921-2025-06-06",
+            "keywords": null,
+            "creator": null,
+            "description": "गांव सातरोड कलां निवासी किशोर की गोली मारकर हत्या मामले में इस्तेमाल की गई बंदूक का मालिक व आरोपी का दादा रमेश कुमार को राजकीय रेलवे पुलिस ने गिरफ्तार कर लिया।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-05 19:09:27",
+            "pubDateTZ": "UTC",
+            "image_url": "https://staticimg.amarujala.com/assets/images/2021/10/18/hisar_1634538300.jpeg?dpr=1.0&q=80&w=414",
+            "video_url": null,
+            "source_id": "amarujala",
+            "source_name": "Amar Ujala",
+            "source_priority": 55215,
+            "source_url": "https://www.amarujala.com",
+            "source_icon": "https://n.bytvi.com/amarujala.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "c2d6e6c642944a52852f9f293e17e15e",
+            "title": "Hisar News: भाटला के सामाजिक बहिष्कार के मामले में तीन दिन में 160 लोगों के बयान दर्ज",
+            "link": "https://www.amarujala.com/haryana/hisar/in-the-case-of-social-boycott-of-bhatla-statements-of-160-people-were-recorded-in-three-days-hisar-news-c-21-hsr1027-641403-2025-06-06",
+            "keywords": null,
+            "creator": null,
+            "description": "भाटला के सामाजिक बहिष्कार प्रकरण में सर्वोच्च न्यायालय की गठित टीम ने तीन दिन में 160 लोगों के बयान दर्ज किए।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-05 19:09:26",
+            "pubDateTZ": "UTC",
+            "image_url": "https://staticimg.amarujala.com/assets/images/4cplus/2025/06/06/hasa-sathanaya-vasharama-gaha-ma-byana-tharaja-karavana-ka-le-aae-bhatal-ka-garamanae_7c5a84369d1d4ecfa1476ea8b318a52b.jpeg?dpr=1.0&q=80&w=414",
+            "video_url": null,
+            "source_id": "amarujala",
+            "source_name": "Amar Ujala",
+            "source_priority": 55215,
+            "source_url": "https://www.amarujala.com",
+            "source_icon": "https://n.bytvi.com/amarujala.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "5f1117851aed9996fe12eac51ad7da05",
+            "title": "Hisar News: खड़ी टूरिस्ट बस से टकराई कार, एक युवक की मौत, पांच घायल",
+            "link": "https://www.amarujala.com/haryana/hisar/car-crashed-in-an-accident-near-village-gandavas-hisar-news-c-21-hsr1005-641815-2025-06-06",
+            "keywords": null,
+            "creator": null,
+            "description": "खड़ी टूरिस्ट बस से टकराई कार, एक युवक की मौत, पांच घायल",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-05 19:09:26",
+            "pubDateTZ": "UTC",
+            "image_url": "https://staticimg.amarujala.com/assets/images/2021/10/18/hisar_1634538300.jpeg?dpr=1.0&q=80&w=414",
+            "video_url": null,
+            "source_id": "amarujala",
+            "source_name": "Amar Ujala",
+            "source_priority": 55215,
+            "source_url": "https://www.amarujala.com",
+            "source_icon": "https://n.bytvi.com/amarujala.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
             "article_id": "1a738ee82ed2cde2e4598f1b0df12eba",
             "title": "बिजली विभाग के अधिकारियों व कर्मचारियों को जगह जगह होना पड़ रहा है लोगों के गुस्...",
             "link": "https://www.currentcrime.com/%E0%A4%AC%E0%A4%BF%E0%A4%9C%E0%A4%B2%E0%A5%80-%E0%A4%B5%E0%A4%BF%E0%A4%AD%E0%A4%BE%E0%A4%97-%E0%A4%95%E0%A5%87-%E0%A4%85%E0%A4%A7%E0%A4%BF%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A4%BF%E0%A4%AF%E0%A5%8B/",
