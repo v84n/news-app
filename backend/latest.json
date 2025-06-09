@@ -1,6 +1,671 @@
 {
     "articles": [
         {
+            "article_id": "d0b3325e1c26f91aa72bb855746034bc",
+            "title": "Bring in the Troops: Los Angeles Protests Escalate as Trump Deploys National Guard to Curb Unrest Over Immigration Crackdown",
+            "link": "https://www.republicworld.com/world-news/bring-in-the-troops-los-angeles-protests-escalate-as-trump-deploys-national-guard-to-curb-unrest-over-immigration-crackdown",
+            "keywords": [
+                "federal,los angeles,la,california,trump,donald trump,national guard,immigration,protest,clash"
+            ],
+            "creator": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-09 08:11:00",
+            "pubDateTZ": "UTC",
+            "image_url": "https://img.republicworld.com/all_images/la-clashes-escalate-as-trump-deploys-national-guard-1749456649839-16_9.webp?format=webp&h=720&q=75&w=1280",
+            "video_url": null,
+            "source_id": "republicworld",
+            "source_name": "Republic World",
+            "source_priority": 17361,
+            "source_url": "https://www.republicworld.com",
+            "source_icon": "https://n.bytvi.com/republicworld.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "207fbb5f38fa4a8ed7322448d21e0e83",
+            "title": "NFL may be defeated by the IPL in per-match value if the latter gets a 12 to 16-week window period",
+            "link": "https://timesofindia.indiatimes.com/sports/nfl/news/nfl-may-be-defeated-by-the-ipl-in-per-match-value-if-the-latter-gets-a-12-to-16-week-window-period/articleshow/121722769.cms",
+            "keywords": null,
+            "creator": null,
+            "description": "The Indian Premier League (IPL) is rapidly closing in on the National Football League (NFL) in terms of per-match value, currently standing at $16.8 million, second only to the NFL's $36.8 million. An extended window of 12-16 weeks, according to franchise owner Mohit Burman, could propel the IPL past the NFL.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-09 08:10:59",
+            "pubDateTZ": "UTC",
+            "image_url": "https://static.toiimg.com/thumb/msid-121722943,imgsize-537594,width-400,resizemode-4/121722943.jpg",
+            "video_url": null,
+            "source_id": "toi",
+            "source_name": "The Times Of India",
+            "source_priority": 239,
+            "source_url": "https://timesofindia.indiatimes.com",
+            "source_icon": "https://n.bytvi.com/toi.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "72266d2df5d35ad6679bf786ab88b079",
+            "title": "Exclusive: कैसा दिखता है सोनम रघुवंशी का बॉयफ्रेंड? पहली तस्वीर आई सामने, देख दंग रह गए लोग",
+            "link": "https://indianews.in/indianews/exclusive-sonam-raghuvanshi-murder-case-sonam-raghuvanshis-boyfriends-face-revealedmeghalaya-police-raja-raghuvanshi/",
+            "keywords": null,
+            "creator": null,
+            "description": "पुलिस सूत्रों के अनुसार सोनम ने मेघालय का टिकट खुद ही बुक कराया था, लेकिन वापसी का कोई टिकट बुक नहीं कराया था। इससे यह संदेह गहराता है कि राजा रघुवंशी को खत्म करने की साजिश पहले ही रची जा चुकी थी।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-09 08:10:58",
+            "pubDateTZ": "UTC",
+            "image_url": "https://indianews.in/wp-content/uploads/2025/06/mp-news-1-1.webp",
+            "video_url": null,
+            "source_id": "indianews",
+            "source_name": "India News Rajasthan",
+            "source_priority": 1433119,
+            "source_url": "https://rajasthan.indianews.in",
+            "source_icon": "https://n.bytvi.com/indianews.jpg",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "cd3adca704bb05e451d3bb345dbb5966",
+            "title": "WTC FINAL खेलने आए एक ऑस्ट्रेलियाई ने क्यों माना बुमराह का एहसान?",
+            "link": "https://hindi.news18.com/cricket/camroon-green-australian-allrounder-admitted-that-jasprit-bumrah-had-a-chat-with-him-during-back-surgery-which-helped-him-lot-ws-kl-9296333.html",
+            "keywords": [
+                "क्रिकेट"
+            ],
+            "creator": [
+                "rajeev mishra"
+            ],
+            "description": "wtc final खेलने इंग्लैंड पहुंचे कैमरून ग्रीन ने संवाददाताओं से कहा, ‘‘जसप्रीत बुमराह ने सर्जरी करवाने से एक रात पहले मुझसे संपर्क किया था. वह उस समय भारतीय टीम के लिए एक टेस्ट मैच खेल रहे थे.ग्रीन ने कहा, ‘‘ ऐसी कुछ चीजें वाकई बहुत खास होती हैं और आपको इससे बहुत अच्छा महसूस होता है. उनके जैसे किसी व्यक्ति का साथ मिलना और फिर उन्हें ऑस्ट्रेलिया में शानदार प्रदर्शन करते देख कर मेरा आत्मविश्वास काफी बढ़ गया है.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-09 08:10:51",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.news18.com/ibnkhabar/uploads/2025/06/green-bumrah-2025-06-c317c631209631d83079ff4b0adc3409-3x2.jpg",
+            "video_url": null,
+            "source_id": "hindinews18",
+            "source_name": "News 18 Hindi",
+            "source_priority": 4077,
+            "source_url": "https://hindi.news18.com",
+            "source_icon": "https://n.bytvi.com/hindinews18.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "sports"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "8b1f17b434489acefba2695816d4e384",
+            "title": "OYO Rooms में महिला का मर्डर, 8 साल छोटे ब्वॉयफ्रेंड ने 2 बच्चों की मां को 17 बार चाकू घोंपा",
+            "link": "https://www.jagran.com/news/national-bengaluru-oyo-hotel-techie-stabs-married-lover-mother-of-2-17-times-with-knife-23959435.html",
+            "keywords": null,
+            "creator": null,
+            "description": "बेंगलुरु के एक OYO होटल में एक सनसनीखेज घटना हुई जहां एक महिला हरिनी की उसके 25 साल के प्रेमी यशस ने चाकू घोंपकर हत्या कर दी। यह घटना शुक्रवार देर रात हुई और दो दिन बाद सामने आई। हरिनी जो 33 वर्ष की थी शादीशुदा थी और दो बच्चों की मां भी थी। आरोपी यशस एक तकनीकी विशेषज्ञ है और केंगेरी का निवासी है।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-09 08:10:50",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.jagranimages.com/images/newimg/09062025/09_06_2025-bengaluru_hotel_23959435_m.webp",
+            "video_url": null,
+            "source_id": "jagran",
+            "source_name": "Jagran",
+            "source_priority": 6734,
+            "source_url": "https://www.jagran.com",
+            "source_icon": "https://n.bytvi.com/jagran.jpg",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "world"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "a4c8647d7e3f2450613bb905b96e7ba9",
+            "title": "Billie Eilish, Nat Wolff share intimate moment, spark romance rumors",
+            "link": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/billie-eilish-nat-wolff-share-intimate-moment-spark-romance-rumors/articleshow/121722862.cms",
+            "keywords": null,
+            "creator": null,
+            "description": "Billie Eilish and Nat Wolff have ignited romance rumors after being seen sharing intimate moments in Italy. The couple was spotted kissing on a balcony in Venice, fueling speculation that began in March. They initially connected over their shared experience with Tourette syndrome and became close friends while Wolff opened for Eilish's tour.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-09 08:10:50",
+            "pubDateTZ": "UTC",
+            "image_url": "https://static.toiimg.com/thumb/msid-121722862,width-1070,height-580,imgsize-470756,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "video_url": null,
+            "source_id": "toi",
+            "source_name": "The Times Of India",
+            "source_priority": 239,
+            "source_url": "https://timesofindia.indiatimes.com",
+            "source_icon": "https://n.bytvi.com/toi.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "bb17bbf750b3830c7f436a96d7a61f4a",
+            "title": "Cristiano Ronaldo Shares Update On Al-Nassr Future After Nations League Triumph With Portugal",
+            "link": "https://www.freepressjournal.in/sports/cristiano-ronaldo-shares-update-on-al-nassr-future-after-nations-league-triumph-with-portugal",
+            "keywords": null,
+            "creator": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-09 08:10:41",
+            "pubDateTZ": "UTC",
+            "image_url": "https://media.assettype.com/freepressjournal/2025-06-09/ybpdhohu/sports-news-2025-06-09T133743.615.png?width=1200",
+            "video_url": null,
+            "source_id": "freepressjournal",
+            "source_name": "The Free Press Journal",
+            "source_priority": 26427,
+            "source_url": "https://www.freepressjournal.in",
+            "source_icon": "https://n.bytvi.com/freepressjournal.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "b896e6f677cd10d4c6906f22aa15c166",
+            "title": "'सरदार जी 3' से नहीं कटा हानिया का पत्ता? फोटोज में दिखी पाकिस्तानी एक्ट्रेस",
+            "link": "https://hindi.news18.com/news/entertainment/viral-social-diljit-dosanjh-sardaar-ji-3-netizens-spotted-hania-aamir-on-bts-photos-amid-rumours-she-was-replaced-post-pahalgam-attack-ws-kl-9296362.html",
+            "keywords": [
+                "मनोरंजन"
+            ],
+            "creator": [
+                "Kamta Prasad"
+            ],
+            "description": "Diljit Dosanjh Sardaar Ji 3: दिलजीत दोसांझ ने 'सरदार जी 3' के सेट से कुछ तस्वीरें शेयर की हैं. यूजर्स का कहना है कि इन फोटोज में पाकिस्तानी एक्ट्रेस हानिया आमिर भी नजर आ रही हैं. जबकि अफवाहें थीं कि पहलगाम हमले के बाद उन्हें फिल्म से बाहर कर दिया गया है.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-09 08:10:40",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.news18.com/ibnkhabar/uploads/2025/06/11-2025-06-e633b75d52180e7eab53bb4b8962dea0-3x2.jpg",
+            "video_url": null,
+            "source_id": "hindinews18",
+            "source_name": "News 18 Hindi",
+            "source_priority": 4077,
+            "source_url": "https://hindi.news18.com",
+            "source_icon": "https://n.bytvi.com/hindinews18.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "entertainment"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "4d43aed1fadc7063a2e66b897101efd2",
+            "title": "बिजली की खपत 90 मिलियन यूनिट तक पहुंची ग्रिड इंडिया ने Kerala को चेतावनी जारी की",
+            "link": "https://jantaserishta.com/local/kerala/electricity-consumption-reached-90-million-units-grid-india-issued-warning-to-kerala-4069549",
+            "keywords": [
+                "राज्य,केरल"
+            ],
+            "creator": [
+                "SANTOSI TANDI"
+            ],
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-09 08:10:38",
+            "pubDateTZ": "UTC",
+            "image_url": "https://jantaserishta.com/h-upload/2025/06/09/4659404-22.webp",
+            "video_url": null,
+            "source_id": "jantaserishta",
+            "source_name": "Janta Se Rishta",
+            "source_priority": 81836,
+            "source_url": "https://jantaserishta.com",
+            "source_icon": "https://n.bytvi.com/jantaserishta.jpg",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "e7f5ae9c19001fe4ba4a81048483fca9",
+            "title": "PUBG Mobile 3.9 goes fantasy mode with jetpacks and flying dragons",
+            "link": "https://www.pcquest.com/gaming/pubg-mobile-39-goes-fantasy-mode-with-jetpacks-and-flying-dragons-9347580",
+            "keywords": null,
+            "creator": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-09 08:10:37",
+            "pubDateTZ": "UTC",
+            "image_url": "https://img-cdn.publive.online/pcq/media/media_files/2025/06/09/pubg-mobile-253557.jpg",
+            "video_url": null,
+            "source_id": "pcquest",
+            "source_name": "Pcquest",
+            "source_priority": 254212,
+            "source_url": "https://www.pcquest.com",
+            "source_icon": "https://n.bytvi.com/pcquest.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "d99c3513959883e6295acb018332943d",
+            "title": "Granollers, Zeballos defy age to win doubles title at Roland Garros",
+            "link": "https://www.sentinelassam.com/sports-news/granollers-zeballos-defy-age-to-win-doubles-title-at-roland-garros",
+            "keywords": null,
+            "creator": [
+                "Sentinel Digital Desk"
+            ],
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-09 08:10:36",
+            "pubDateTZ": "UTC",
+            "image_url": "https://media.assettype.com/sentinelassam-english%2F2025-06-09%2Fuszg9bjr%2Fnewindianexpress2025-06-08pd0b4uogAP25158717523331.avif?ar=40%3A21&auto=format%2Ccompress&enlarge=true&mode=crop&ogImage=true&overlay=false&overlay_position=bottom&overlay_width=100&w=1200",
+            "video_url": null,
+            "source_id": "sentinel",
+            "source_name": "The Sentinel",
+            "source_priority": 177615,
+            "source_url": "https://www.sentinelassam.com",
+            "source_icon": "https://n.bytvi.com/sentinel.jpg",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "c7309cd8865fc7c5f47afd59d33cc479",
+            "title": "छतरपुर में राशन की दुकान पर विवाद के चलते युवक की हत्या: परिजनों ने पुलिस की लचर कार्रवाई पर उठाए सवाल",
+            "link": "https://navbharattimes.indiatimes.com/state/madhya-pradesh/chhatarpur/youth-died-in-firing-due-to-ration-dispute-in-chhatarpur-family-members-raised-questions-on-poor-action-of-police/articleshow/121721439.cms",
+            "keywords": null,
+            "creator": null,
+            "description": "छतरपुर के बिलहरी गांव में राशन वितरण के दौरान विवाद हुआ, जिसमें एक युवक की हत्या हो गई। सरकारी दुकान पर राशन लेने के दौरान कहासुनी हुई, जिसके बाद गोली चली। पंकज प्रजापति नामक युवक की मौत हो गई, और उसका भाई घायल हो गया।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-09 08:10:36",
+            "pubDateTZ": "UTC",
+            "image_url": "https://navbharattimes.indiatimes.com/thumb/121722767/--121722767.jpg?height=900&imgsize-63836=&resizemode=75&width=1600",
+            "video_url": null,
+            "source_id": "navbharattimes",
+            "source_name": "Nbt Navbharattimes",
+            "source_priority": 244,
+            "source_url": "https://navbharattimes.indiatimes.com",
+            "source_icon": "https://n.bytvi.com/navbharattimes.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "5b8a5e91d34fcbd4e87d2bc180b4de10",
+            "title": "⁠खानी है एकदम प्रोटीन से भरपूर डिश? तो चावल में मिलाकर बनायें ये चीज...",
+            "link": "https://hindi.news18.com/news/lifestyle/recipe-make-healthy-protein-rich-mexican-burrito-bowl-at-home-ws-kl-9296379.html",
+            "keywords": [
+                "लाइफ़"
+            ],
+            "creator": [
+                "Vividha Singh"
+            ],
+            "description": "मेक्सिकन बरिटो बाउल एक हेल्दी और प्रोटीन से भरपूर डिश है जिसमें हर्बेड राइस, रोस्टेड पनीर, उबले राजमा, बेल पेपर, चिपोटल सॉस, कॉर्न और सालसा शामिल हैं.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-09 08:10:34",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.news18.com/ibnkhabar/uploads/2025/06/burrito-bowl-2025-06-53c8224ef6c17d297f577f62a20e1646-3x2.jpg",
+            "video_url": null,
+            "source_id": "hindinews18",
+            "source_name": "News 18 Hindi",
+            "source_priority": 4077,
+            "source_url": "https://hindi.news18.com",
+            "source_icon": "https://n.bytvi.com/hindinews18.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "lifestyle"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "71d343a4b17a6b785341493473666ece",
+            "title": "Business News | Planting Hope for a Greener Tomorrow: World Environment Day Event at Manipal Hospital Malleshwaram Rooted for Environmental Awareness & Action",
+            "link": "https://www.latestly.com/agency-news/business-news-planting-hope-for-a-greener-tomorrow-world-environment-day-event-at-manipal-hospital-malleshwaram-rooted-for-environmental-awareness-action-6914996.html",
+            "keywords": null,
+            "creator": null,
+            "description": "Get latest articles and stories on Business at LatestLY. Bangalore (Karnataka) [India], June 9: On the occasion of World Environment Day, 5th June 2025, Manipal Hospital Malleshwaram hosted a meaningful event titled 'Let's root for the future - literally!' that brought together school students, community members, dignitaries, and healthcare experts to promote environmental awareness and action.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-09 08:10:32",
+            "pubDateTZ": "UTC",
+            "image_url": "https://st1.latestly.com/wp-content/uploads/2025/06/ANI-20250609075714-380x214.jpg",
+            "video_url": null,
+            "source_id": "latestly",
+            "source_name": "Latestly",
+            "source_priority": 31923,
+            "source_url": "https://www.latestly.com",
+            "source_icon": "https://n.bytvi.com/latestly.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "00d1006f9e286e44b475c2665f149439",
+            "title": "Running out of storage? WhatsApp’s upcoming ‘download quality’ feature may help you",
+            "link": "https://newsable.asianetnews.com/technology/running-out-of-storage-whatsapp-upcoming-download-quality-feature-may-help-you-gcw/articleshow-l68uhwa",
+            "keywords": [
+                "technology"
+            ],
+            "creator": [
+                "Gargi Chaudhry"
+            ],
+            "description": "WhatsApp is developing a \"Download Quality\" feature to address storage issues caused by media sharing. This feature will allow users to choose between HD and SD quality for media downloads, giving them more control over storage usage.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-09 08:10:32",
+            "pubDateTZ": "UTC",
+            "image_url": "https://static-gi.asianetnews.com/images/01jsp3qgrxbmt0nvpa5qxxb6eb/whatsapp-image-2025-04-25-at-1.00.19-pm-1745572578077.jpeg",
+            "video_url": null,
+            "source_id": "newsable_asianetnews",
+            "source_name": "Asianet Newsable",
+            "source_priority": 7749,
+            "source_url": "https://newsable.asianetnews.com",
+            "source_icon": "https://n.bytvi.com/newsable_asianetnews.jpg",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "4ad4464e90a8cc82fcf6cfc577dfa78f",
+            "title": "फुटपाथ अतिक्रमण: जनता को परेशानी",
+            "link": "https://jantaserishta.com/local/karnataka/encroachment-of-footpaths-public-in-trouble-4069548",
+            "keywords": [
+                "राज्य,कर्नाटक"
+            ],
+            "creator": [
+                "Kavita2"
+            ],
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-09 08:10:31",
+            "pubDateTZ": "UTC",
+            "image_url": "https://jantaserishta.com/h-upload/2025/06/09/4659405-untitled-25-copy.webp",
+            "video_url": null,
+            "source_id": "jantaserishta",
+            "source_name": "Janta Se Rishta",
+            "source_priority": 81836,
+            "source_url": "https://jantaserishta.com",
+            "source_icon": "https://n.bytvi.com/jantaserishta.jpg",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "0fc594d9db9210fd413ab84755e2c1a9",
+            "title": "Ballia: एम्बुलेंस और कमांडर जीप की जोरदार टक्कर, छह घायल",
+            "link": "https://jantaserishta.com/local/uttar-pradesh/ballia-ambulance-and-commander-jeep-collide-fiercely-six-injured-ballia--4069547",
+            "keywords": [
+                "उत्तर प्रदेश,राज्य"
+            ],
+            "creator": [
+                "Admindelhi1"
+            ],
+            "description": "तीन की हालत गंभीर",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-09 08:10:30",
+            "pubDateTZ": "UTC",
+            "image_url": "https://jantaserishta.com/h-upload/2025/06/09/4659406-1326598-8.webp",
+            "video_url": null,
+            "source_id": "jantaserishta",
+            "source_name": "Janta Se Rishta",
+            "source_priority": 81836,
+            "source_url": "https://jantaserishta.com",
+            "source_icon": "https://n.bytvi.com/jantaserishta.jpg",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "fcf60245065458e3ee7b85533e159f11",
+            "title": "भगवान बिरसा मुंडा के समाधि स्थल पर पहुंचे सीएम हेमंत सोरेन, श्रद्धांजलि अर्पित की",
+            "link": "https://www.prabhatkhabar.com/state/jharkhand/ranchi/birsa-munda-125th-death-anniversary-cm-hemant-soren-paid-tribute-to-birsa-munda",
+            "keywords": [
+                "रांची",
+                "state news",
+                "birsa munda",
+                "jharkhand news",
+                "birsa munda death anniversary",
+                "hemant soren",
+                "ranchi news"
+            ],
+            "creator": [
+                "Rupali Das"
+            ],
+            "description": "Birsa Munda 125th Death Anniversary: मुख्यमंत्री हेमंत सोरेन ने भगवान बिरसा मुंडा को उनकी पुण्यतिथि पर याद किया. उन्होंने रांची के कोकर में स्थित उनके समाधि स्थल पर पहुंचकर उन्हें श्रद्धांजलि अर्पित की. साथ ही उनकी प्रतिमा पर माल्यार्पण किया. The post भगवान बिरसा मुंडा के समाधि स्थल पर पहुंचे सीएम हेमंत सोरेन, श्रद्धांजलि अर्पित की appeared first on Prabhat Khabar.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-09 08:10:30",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.prabhatkhabar.com/wp-content/uploads/2025/06/CM-Hemant-Soren-paid-tribute-to-Lord-Birsa-Munda.jpg",
+            "video_url": null,
+            "source_id": "prabhatkhabar",
+            "source_name": "Prabhat Khabar",
+            "source_priority": 343253,
+            "source_url": "https://www.prabhatkhabar.com",
+            "source_icon": "https://n.bytvi.com/prabhatkhabar.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "d3a4337af4b89b70de5406b35699c4e5",
+            "title": "Understanding PPF In Cars: Why Paint Protection Film Is Essential For Indian Roads - Opinion",
+            "link": "https://www.thedailyjagran.com/auto/understanding-ppf-in-cars-why-paint-protection-film-is-essential-for-indian-roads-opinion-10243663",
+            "keywords": null,
+            "creator": null,
+            "description": "Paint Protection Film (PPF),Automotive paint protection,Car resale value,PPF installation,Luxury car sales India,Vehicle maintenance,Car paint protection India,Self-healing PPF",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-09 08:10:28",
+            "pubDateTZ": "UTC",
+            "image_url": null,
+            "video_url": null,
+            "source_id": "english_jagran",
+            "source_name": "Jagran English",
+            "source_priority": 10561,
+            "source_url": "https://english.jagran.com",
+            "source_icon": "https://n.bytvi.com/english_jagran.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "94cd3a73e74e086a8387cccc0df06cff",
+            "title": "1Point1 Acquires Majority Stake in TECHSCIENT.AI",
+            "link": "https://smestreet.in/infocus/1point1-acquires-majority-stake-in-techscientai-9347467",
+            "keywords": [
+                "infocus",
+                "corporate"
+            ],
+            "creator": null,
+            "description": "One Point One Solutions Ltd. (1Point1), a publicly listed leader in Business Process Management (BPM) and digital transformation services, has announced the acquisition of a majority stake in TECHSCIENT.AI PRIVATE LIMITED, a next-generation AI-powered no-code automation firm specialising in autonomous software engineering. The strategic acquisition strengthens 1Point1’s AI-led automation capabilities and positions it as a key player in India’s digital transformation landscape.TECHSCIENT.AI, incorporated in September 2024, is an AI-first deep-tech firm focused on no-code workflow automation, generative AI solutions, and intelligent process orchestration. Its proprietary platform enables enterprises to design, deploy, and scale AI-driven workflows without manual coding, enhancing operational efficiency across industries.\"With this acquisition, 1Point1 enhances its strategic focus on AI-powered transformation,\" said Akshay Chhabra, Promoter & Director, 1Point1. \"TECHSCIENT.AI’s autonomous AI capabilities represent a pioneering shift in BPM. By integrating their advanced solutions into our ecosystem, we are enabling enterprises to automate complex operations, optimise costs, and scale at unprecedented speed.\"TECHSCIENT.AI’s flagship platform integrates AI-native automation, API-first architecture, and real-time data intelligence to enhance customer experience and enterprise efficiency. The acquisition aligns with 1Point1’s commitment to AI-driven BPM, enabling rapid digital transformation across BFSI, healthcare, fintech, e-commerce, and logistics. The acquisition will enable 1Point1 to embed intelligent automation into its core BPM offerings and deliver more comprehensive, technology-led solutions to its clients. It will enhance the company’s ability to engage with new-age enterprises and digital-first clients seeking scalable, AI-driven solutions.1Point1 will embed TECHSCIENT.AI’s autonomous AI engine within its BPM framework to optimise customer management, back-office operations, and workflow automation. The combined teams will focus on co-developing scalable AI-driven solutions for industries seeking intelligent automation at scale.The acquisition is expected to be fully completed by September 30, 2025.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-09 08:10:25",
+            "pubDateTZ": "UTC",
+            "image_url": "https://img-cdn.publive.online/fit-in/1280x960/smstreet/media/media_files/2025/06/09/es4jZp7sCEgXPUqDg7vg.jpg",
+            "video_url": null,
+            "source_id": "smestreet",
+            "source_name": "Smestreet In",
+            "source_priority": 587507,
+            "source_url": "https://smestreet.in",
+            "source_icon": "https://n.bytvi.com/smestreet.jpg",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "business"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
             "article_id": "a20d3bdf9722dd453b6a0c68263fb58e",
             "title": "जून में उगाई जाने वाली फसलों की मुनाफादायक किस्में",
             "link": "https://www.merikheti.com/blog/profitable-varieties-of-crops-grown-in-june",
@@ -23733,724 +24398,6 @@
             "category": [
                 "technology",
                 "entertainment"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "87c3fa9d6f75325859b25bc21ffa004c",
-            "title": "Rampur News: हमले में बाइक सवार दो भाई घायल, हायर सेंटर रेफर",
-            "link": "https://www.amarujala.com/uttar-pradesh/rampur/two-brothers-riding-a-bike-injured-in-the-attack-referred-to-higher-center-rampur-news-c-282-1-smbd1029-147170-2025-06-08",
-            "keywords": null,
-            "creator": null,
-            "description": "हमले में बाइक सवार दो भाई घायल, हायर सेंटर रेफर",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-06-07 20:11:54",
-            "pubDateTZ": "UTC",
-            "image_url": "https://staticimg.amarujala.com/assets/images/2021/12/02/rampur_1638431627.jpeg?dpr=1.0&q=80&w=414",
-            "video_url": null,
-            "source_id": "amarujala",
-            "source_name": "Amar Ujala",
-            "source_priority": 55215,
-            "source_url": "https://www.amarujala.com",
-            "source_icon": "https://n.bytvi.com/amarujala.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "c0c5c7d10abcbbe696e62692c76c6f62",
-            "title": "Volleyball Federation Of India Polls: Virender Kanwar Elected President; Interim Panel Formed",
-            "link": "https://www.outlookindia.com/sports/others/volleyball-federation-of-india-elections-virender-kanwar-president-interim-panel-formed",
-            "keywords": [
-                "volleyball federation of india polls,volleyball federation of india elections,virender kanwar,volleyball federation of india,volleyball federation of india president,volleyball federation of india interim panel,vfi polls,volleyball federation,indian sports news,sports news today,india news,ramanand choudhary"
-            ],
-            "creator": null,
-            "description": null,
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-06-07 20:11:47",
-            "pubDateTZ": "UTC",
-            "image_url": "https://media.assettype.com/outlookindia/2025-06-07/a950oemg/Virender-Kanwar-VFI-President.jpg?ar=40%3A21&auto=format%2Ccompress&enlarge=true&mode=crop&ogImage=true&overlay=false&overlay_position=bottom&overlay_width=100&w=1200",
-            "video_url": null,
-            "source_id": "outlookindia",
-            "source_name": "Outlook",
-            "source_priority": 3475,
-            "source_url": "https://www.outlookindia.com",
-            "source_icon": "https://n.bytvi.com/outlookindia.jpg",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "6bcf81bdf6be3f13ca8e4476aed13929",
-            "title": "Rampur News: प्रेमी के साथ शाहबाद आई युवती को देख परिजनों ने की हाथापाई",
-            "link": "https://www.amarujala.com/uttar-pradesh/rampur/on-seeing-the-girl-who-came-to-shahbad-with-her-lover-the-family-members-started-fighting-rampur-news-c-282-1-rmp1005-147155-2025-06-08",
-            "keywords": null,
-            "creator": null,
-            "description": "प्रेमी के साथ शाहबाद आई युवती को देख परिजनों ने की हाथापाई",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-06-07 20:11:25",
-            "pubDateTZ": "UTC",
-            "image_url": "https://staticimg.amarujala.com/assets/images/2021/12/02/rampur_1638431627.jpeg?dpr=1.0&q=80&w=414",
-            "video_url": null,
-            "source_id": "amarujala",
-            "source_name": "Amar Ujala",
-            "source_priority": 55215,
-            "source_url": "https://www.amarujala.com",
-            "source_icon": "https://n.bytvi.com/amarujala.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "6fd31e1823a4a76f12d7ea940ad6c164",
-            "title": "Sambhal News: आग से झुलसे युवक की इलाज के दौरान मेरठ के अस्पताल में मौत",
-            "link": "https://www.amarujala.com/uttar-pradesh/sambhal/a-youth-burnt-in-a-fire-died-during-treatment-in-meerut-hospital-sambhal-news-c-204-1-chn1003-120637-2025-06-08",
-            "keywords": null,
-            "creator": null,
-            "description": "शादी के मंडप में आग से झुलसे युवक की उपचार के दौरान मेरठ के अस्पताल में मौत हो गई।",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-06-07 20:11:19",
-            "pubDateTZ": "UTC",
-            "image_url": "https://staticimg.amarujala.com/assets/images/2021/12/02/sambhal_1638431705.jpeg?dpr=1.0&q=80&w=414",
-            "video_url": null,
-            "source_id": "amarujala",
-            "source_name": "Amar Ujala",
-            "source_priority": 55215,
-            "source_url": "https://www.amarujala.com",
-            "source_icon": "https://n.bytvi.com/amarujala.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "c1cc61acbdfdaa6a63dfea2133aef108",
-            "title": "Delhi NCR News: झड़ौदा कलां गांव में 14 करोड़ से होगा स्टेडियम-गांव का विकास",
-            "link": "https://www.amarujala.com/delhi-ncr/stadium-will-be-built-in-jhadoda-kalan-village-with-rs-14-crore-and-village-will-be-developed-delhi-ncr-news-c-340-1-del1004-93075-2025-06-08",
-            "keywords": null,
-            "creator": null,
-            "description": "Stadium will be built in Jhadoda Kalan village with Rs 14 crore and village will be developed",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-06-07 20:11:12",
-            "pubDateTZ": "UTC",
-            "image_url": null,
-            "video_url": null,
-            "source_id": "amarujala",
-            "source_name": "Amar Ujala",
-            "source_priority": 55215,
-            "source_url": "https://www.amarujala.com",
-            "source_icon": "https://n.bytvi.com/amarujala.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "a0199780a5b711a6695a7a3a22b3870c",
-            "title": "Agra News: गर्मी से लोग बेहाल, 43 डिग्री पहुंच सकता है पारा",
-            "link": "https://www.amarujala.com/uttar-pradesh/agra/people-are-suffering-from-heat-temperature-may-reach-43-degrees-kasganj-news-c-175-1-sagr1032-132935-2025-06-08",
-            "keywords": null,
-            "creator": null,
-            "description": "गर्मी से लोग बेहाल, 43 डिग्री पहुंच सकता है पारा",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-06-07 20:11:06",
-            "pubDateTZ": "UTC",
-            "image_url": "https://staticimg.amarujala.com/assets/images/2021/10/25/agra_1635142165.jpeg?dpr=1.0&q=80&w=414",
-            "video_url": null,
-            "source_id": "amarujala",
-            "source_name": "Amar Ujala",
-            "source_priority": 55215,
-            "source_url": "https://www.amarujala.com",
-            "source_icon": "https://n.bytvi.com/amarujala.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "73331b594c86a57ba77fff14f8b270f2",
-            "title": "VIDEO: Helicopter on way to Kedarnath crashlands on highway within minutes of takeoff, crushes car",
-            "link": "https://www.dnaindia.com/viral/report-viral-video-helicopter-chopper-with-6-people-on-board-headed-to-kedarnath-dham-crashlands-on-highway-road-within-minutes-of-takeoff-crushes-car-watch-clip-rudraprayag-uttarakhand-dgca-news-3157798",
-            "keywords": [
-                "viral"
-            ],
-            "creator": [
-                "Sagar Malik"
-            ],
-            "description": "A helicopter on its way to Kedarnath made an emergency landing on the highway in Rudraprayag district on Saturday after developing a technical snag during takeoff, officials said. All pilgrims on board and the pilot were safe.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-06-07 20:11:00",
-            "pubDateTZ": "UTC",
-            "image_url": "https://cdn.dnaindia.com/sites/default/files/styles/third/public/2025/06/08/2700464-chopper-crashlanding.png",
-            "video_url": null,
-            "source_id": "dnaindia",
-            "source_name": "Dna",
-            "source_priority": 18388,
-            "source_url": "https://www.dnaindia.com",
-            "source_icon": "https://n.bytvi.com/dnaindia.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "9fb29e19521b06c9d351173dbdbc8714",
-            "title": "Delhi News: दिसंबर तक लोग यमुना में कर सकेंगे क्रूज का सफर",
-            "link": "https://www.amarujala.com/delhi/people-will-be-able-to-travel-on-a-cruise-in-yamuna-by-december-ashram-news-c-340-1-del1004-93115-2025-06-08",
-            "keywords": null,
-            "creator": null,
-            "description": "दिसंबर तक लोग यमुना में कर सकेंगे क्रूज का सफर",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-06-07 20:10:59",
-            "pubDateTZ": "UTC",
-            "image_url": "https://staticimg.amarujala.com/assets/images/2021/11/03/delhi_1635935150.jpeg?dpr=1.0&q=80&w=414",
-            "video_url": null,
-            "source_id": "amarujala",
-            "source_name": "Amar Ujala",
-            "source_priority": 55215,
-            "source_url": "https://www.amarujala.com",
-            "source_icon": "https://n.bytvi.com/amarujala.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "d51c1f531ff132f7964a59e641775965",
-            "title": "Udhampur News: धर्मनगरी में आस्था का सैलाब, हर कोई मां के दर्शन के लिए आतुर",
-            "link": "https://www.amarujala.com/jammu-and-kashmir/udhampur/vaishno-devi-yatra-katra-news-c-309-1-sjam1002-101977-2025-06-08",
-            "keywords": null,
-            "creator": null,
-            "description": "धर्मनगरी में आस्था का सैलाब, हर कोई मां के दर्शन के लिए आतुर",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-06-07 20:10:53",
-            "pubDateTZ": "UTC",
-            "image_url": "https://staticimg.amarujala.com/assets/images/4cplus/2025/06/08/bsa-satada-para-bna-kakashha-ka-bhara-pajakaranae-ka-le-khaugdha-sharathathhal_1549a8d775ea6a3ed5a3a5162fd8a12e.jpeg?dpr=1.0&q=80&w=414",
-            "video_url": null,
-            "source_id": "amarujala",
-            "source_name": "Amar Ujala",
-            "source_priority": 55215,
-            "source_url": "https://www.amarujala.com",
-            "source_icon": "https://n.bytvi.com/amarujala.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "0f80273c8f88123ff11af90c3eb5493e",
-            "title": "Trending Video: Tourist Family |Trailer| Now Streaming |JioHotstar",
-            "link": "https://www.currentcrime.com/trending-video-tourist-family-trailer-now-streaming-jiohotstar/",
-            "keywords": [
-                "jio hot star telugu",
-                "disney plus hotstar telugu",
-                "disney+ hotstar",
-                "video",
-                "disneyplus",
-                "tourist family",
-                "videos",
-                "hotstar",
-                "jio hotstar",
-                "बॉलीवुड",
-                "entertainment",
-                "disney plus hotstar",
-                "disneyplus hotstar"
-            ],
-            "creator": [
-                "Current Crime Editorial"
-            ],
-            "description": null,
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-06-07 20:10:52",
-            "pubDateTZ": "UTC",
-            "image_url": "https://www.currentcrime.com/wp-content/uploads/2025/06/1749327053_maxresdefault.jpg",
-            "video_url": null,
-            "source_id": "currentcrime",
-            "source_name": "Current Crime",
-            "source_priority": 15753694,
-            "source_url": "http://www.currentcrime.com",
-            "source_icon": "https://n.bytvi.com/currentcrime.jpg",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "17bdbbd9e6b2ded0aba144e1b92596ee",
-            "title": "कारपेंटर मेगा मीट में किया कारीगरों का मार्ग दर्शन",
-            "link": "https://www.dainiktribuneonline.com/news/haryana/guided-the-artisans-in-the-carpenter-mega-meet/",
-            "keywords": [
-                "रोहतक",
-                "हरियाणा",
-                "कारपेंटर मेगा मीट",
-                "kaithal",
-                "carpenter mega meet",
-                "करनाल",
-                "गुरुग्राम",
-                "कैथल कारपेंटर मेगा मीट"
-            ],
-            "creator": [
-                "Kavita Raj"
-            ],
-            "description": "कैथल (हप्र): एक्सन टेसा कंपनी के कारपेंटर मेगा मीट का आयोजन किया गया। इस आयोजन में एक्सन टेसा ने कारपेंटर्स की कारीगरी को मान्यता देने के साथ-साथ उन्हें नवाचारी डिजाइन तकनीकों के बारे में जानने का मंच प्रदान किया। पिछले एक दशक से कंपनी इस तरह के आयोजन के चलते ब्रांड एवं लकड़ी के कामकाज [...]The post कारपेंटर मेगा मीट में किया कारीगरों का मार्ग दर्शन appeared first on dainiktribuneonline.com.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-06-07 20:10:51",
-            "pubDateTZ": "UTC",
-            "image_url": "https://dainiktribuneonline.imagibyte.sortdcdn.net/wp-content/uploads/2025/06/10706480CD-_7KTL15-768x341.jpg",
-            "video_url": null,
-            "source_id": "dainiktribuneonline",
-            "source_name": "Breaking News In Hindi Online",
-            "source_priority": 465842,
-            "source_url": "https://www.dainiktribuneonline.com",
-            "source_icon": "https://n.bytvi.com/dainiktribuneonline.jpg",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "189f2af757ffb8c6b15a401b5e6bed5f",
-            "title": "CBI trying to bury case under political, cash pressure: RG Kar victim’s parents",
-            "link": "https://timesofindia.indiatimes.com/city/kolkata/cbi-trying-to-bury-case-under-political-cash-pressure-rg-kar-victims-parents/articleshow/121700455.cms",
-            "keywords": null,
-            "creator": null,
-            "description": null,
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-06-07 20:10:46",
-            "pubDateTZ": "UTC",
-            "image_url": "https://static.toiimg.com/thumb/msid-121700453,width-1070,height-580,imgsize-73994,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-            "video_url": null,
-            "source_id": "toi",
-            "source_name": "The Times Of India",
-            "source_priority": 239,
-            "source_url": "https://timesofindia.indiatimes.com",
-            "source_icon": "https://n.bytvi.com/toi.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "7600d89d3d0d61d870eaefa911b5ba3d",
-            "title": "Delhi NCR News: अंतरराष्ट्रीय योग दिवस पर दिल्ली में 11 स्थानों पर होगा भव्य आयोजन",
-            "link": "https://www.amarujala.com/delhi-ncr/a-grand-event-will-be-organized-at-11-places-in-delhi-on-international-yoga-day-delhi-ncr-news-c-340-1-del1004-93126-2025-06-08",
-            "keywords": null,
-            "creator": null,
-            "description": "A grand event will be organized at 11 places in Delhi on International Yoga Day",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-06-07 20:10:45",
-            "pubDateTZ": "UTC",
-            "image_url": null,
-            "video_url": null,
-            "source_id": "amarujala",
-            "source_name": "Amar Ujala",
-            "source_priority": 55215,
-            "source_url": "https://www.amarujala.com",
-            "source_icon": "https://n.bytvi.com/amarujala.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "0128d6cbdb3cc9b731a89adf754e6757",
-            "title": "Rampur News: कार चालक ने बाइक को मारी टक्कर, दो सगे भाई घायल",
-            "link": "https://www.amarujala.com/uttar-pradesh/rampur/car-driver-hit-the-bike-two-brothers-injured-rampur-news-c-282-1-smbd1029-147172-2025-06-08",
-            "keywords": null,
-            "creator": null,
-            "description": "कार चालक ने बाइक को मारी टक्कर, दो सगे भाई घायल",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-06-07 20:10:36",
-            "pubDateTZ": "UTC",
-            "image_url": "https://staticimg.amarujala.com/assets/images/2021/12/02/rampur_1638431627.jpeg?dpr=1.0&q=80&w=414",
-            "video_url": null,
-            "source_id": "amarujala",
-            "source_name": "Amar Ujala",
-            "source_priority": 55215,
-            "source_url": "https://www.amarujala.com",
-            "source_icon": "https://n.bytvi.com/amarujala.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "4e5b30331e3cbba9446833d00babe22e",
-            "title": "Rampur News: ट्रैक्टर-ट्राॅली की टक्कर से बाइक सवार किसान घायल",
-            "link": "https://www.amarujala.com/uttar-pradesh/rampur/bike-rider-farmer-injured-in-tractor-trolley-collision-rampur-news-c-282-1-smbd1025-147159-2025-06-08",
-            "keywords": null,
-            "creator": null,
-            "description": "ट्रैक्टर-ट्राॅली की टक्कर से बाइक सवार किसान घायल",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-06-07 20:09:58",
-            "pubDateTZ": "UTC",
-            "image_url": "https://staticimg.amarujala.com/assets/images/2021/12/02/rampur_1638431627.jpeg?dpr=1.0&q=80&w=414",
-            "video_url": null,
-            "source_id": "amarujala",
-            "source_name": "Amar Ujala",
-            "source_priority": 55215,
-            "source_url": "https://www.amarujala.com",
-            "source_icon": "https://n.bytvi.com/amarujala.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "bb8f4746dea4e277488a1b60e3e6e0be",
-            "title": "Delhi News: जाम का होगा काम तमाम, कालिंदी कुंज चौराहे पर फ्लाईओवर का काम शुरू",
-            "link": "https://www.amarujala.com/delhi/the-jam-will-be-resolved-work-on-flyover-has-started-at-kalindi-kunj-crossing-ashram-news-c-340-1-del1004-93054-2025-06-08",
-            "keywords": null,
-            "creator": null,
-            "description": "जाम का होगा काम तमाम, कालिंदी कुंज चौराहे पर फ्लाईओवर का काम शुरू",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-06-07 20:09:35",
-            "pubDateTZ": "UTC",
-            "image_url": "https://staticimg.amarujala.com/assets/images/2021/11/03/delhi_1635935150.jpeg?dpr=1.0&q=80&w=414",
-            "video_url": null,
-            "source_id": "amarujala",
-            "source_name": "Amar Ujala",
-            "source_priority": 55215,
-            "source_url": "https://www.amarujala.com",
-            "source_icon": "https://n.bytvi.com/amarujala.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "fb7adc54b0835abeddc31d64c7402baf",
-            "title": "Gorakhpur News: चाकूबाजी की दो वारदात में दो घायल, एक गंभीर",
-            "link": "https://www.amarujala.com/gorakhpur/gorakhpur-news-two-injured-in-two-stabbing-incidents-one-serious-gorakhpur-news-c-7-hsr1010-963172-2025-06-08",
-            "keywords": null,
-            "creator": null,
-            "description": "नगर पंचायत के वार्ड दस व पख्खनपुर में शुक्रवार को हुई चाकूबाजी की घटना में दो युवक घायल हो गए।",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-06-07 20:09:14",
-            "pubDateTZ": "UTC",
-            "image_url": "https://staticimg.amarujala.com/assets/images/2021/12/02/gorakhpur_1638430283.jpeg?dpr=1.0&q=80&w=414",
-            "video_url": null,
-            "source_id": "amarujala",
-            "source_name": "Amar Ujala",
-            "source_priority": 55215,
-            "source_url": "https://www.amarujala.com",
-            "source_icon": "https://n.bytvi.com/amarujala.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "590ae795f0d5a5017982b5f17994fbb4",
-            "title": "E-coms Told To Audit For Dark Patterns",
-            "link": "https://www.deccanchronicle.com/nation/e-coms-told-to-audit-for-dark-patterns-1883984",
-            "keywords": [
-                "nation"
-            ],
-            "creator": [
-                "dc correspondent with agency inputs"
-            ],
-            "description": "In an advisory issued on Saturday, the Consumer Affairs Ministry instructed platforms to review their entire user interface for any features that undermine customer choice or amount to unfair trade practices.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-06-07 20:09:14",
-            "pubDateTZ": "UTC",
-            "image_url": "https://www.deccanchronicle.com/h-upload/2025/06/07/1925549-20171016090247-shutterstock-630353870.webp",
-            "video_url": null,
-            "source_id": "deccanchronicle",
-            "source_name": "Deccan Chronicle",
-            "source_priority": 21568,
-            "source_url": "https://www.deccanchronicle.com",
-            "source_icon": "https://n.bytvi.com/deccanchronicle.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "f36cfa0601f139d79d0e6d83f8bbab54",
-            "title": "John Cena shares a cryptic update ahead of WWE Money in the Bank",
-            "link": "https://www.sportskeeda.com/wwe/news-john-cena-shares-cryptic-update-ahead-wwe-money-bank",
-            "keywords": [
-                "wwe"
-            ],
-            "creator": [
-                "Ankit Verma"
-            ],
-            "description": "WWE Superstar John Cena has shared a cryptic message heading into the Money in the Bank Premium Live Event. The Cenation Leader will be in action at the show later tonight.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-06-07 20:09:09",
-            "pubDateTZ": "UTC",
-            "image_url": "https://staticc.sportskeeda.com/editor/2025/06/0d0dc-17493272852326-1920.jpg",
-            "video_url": null,
-            "source_id": "sportskeeda",
-            "source_name": "Sportskeeda",
-            "source_priority": 1040,
-            "source_url": "http://sportskeeda.com",
-            "source_icon": "https://n.bytvi.com/sportskeeda.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "sports"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "c571d9e779df32ab6c1b7851236ee885",
-            "title": "Rampur News: सीटी स्कैन के लिए मरीजों को करना पड़ रहा इंतजार",
-            "link": "https://www.amarujala.com/uttar-pradesh/rampur/patients-have-to-wait-for-ct-scan-rampur-news-c-282-1-rmp1005-147154-2025-06-08",
-            "keywords": null,
-            "creator": null,
-            "description": "सीटी स्कैन के लिए मरीजों को करना पड़ रहा इंतजार",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-06-07 20:09:09",
-            "pubDateTZ": "UTC",
-            "image_url": "https://staticimg.amarujala.com/assets/images/2021/12/02/rampur_1638431627.jpeg?dpr=1.0&q=80&w=414",
-            "video_url": null,
-            "source_id": "amarujala",
-            "source_name": "Amar Ujala",
-            "source_priority": 55215,
-            "source_url": "https://www.amarujala.com",
-            "source_icon": "https://n.bytvi.com/amarujala.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "ce4fa6ada7f8dac4499485c06e78ca5b",
-            "title": "SwitchBot Lock Ultra Vision Combo review – Bring your deadbolts into the 21st century – News 4 Social",
-            "link": "https://en.news4social.com/switchbot-lock-ultra-vision-combo-review-bring-your-deadbolts-into-the-21st-century-news-4-social/",
-            "keywords": [
-                "21st",
-                "century",
-                "social",
-                "technology",
-                "awesome gadgets",
-                "switchbot",
-                "news on gadgets",
-                "lock",
-                "ultra",
-                "review",
-                "combo",
-                "unique gadgets",
-                "smart gadgets",
-                "deadbolts",
-                "technology gadgets",
-                "vision",
-                "super gadget",
-                "new gadget 2021",
-                "best gadgets",
-                "mobile gadgets",
-                "bring",
-                "latest gadgets 2021",
-                "news"
-            ],
-            "creator": [
-                "Gadgets Smartphone Gaming"
-            ],
-            "description": "SwitchBot Lock Ultra Vision Combo review – Bring your deadbolts into the 21st century – News 4 Social If you buy something from a link in this article, we may earn a commission. Learn more REVIEW— SwitchBot’s previous incarnation, the Lock Pro, is still on duty, keeping my storage room, lawn mower, and OrangeStorm Giga [...]",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-06-07 19:09:00",
-            "pubDateTZ": "UTC",
-            "image_url": "https://i3.wp.com/the-gadgeteer.com/wp-content/uploads/2025/05/SwitchBot-Lock-Ultra-and-Keypad-Vision-Combo-81.jpg",
-            "video_url": null,
-            "source_id": "news4social",
-            "source_name": "News4social",
-            "source_priority": 10742357,
-            "source_url": "https://en.news4social.com",
-            "source_icon": "https://n.bytvi.com/news4social.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
             ],
             "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
             "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
