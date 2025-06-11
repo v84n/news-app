@@ -1,6 +1,655 @@
 {
     "articles": [
         {
+            "article_id": "d3213cc284d823f2b605f146573bbff1",
+            "title": "Pilgrimage bookings from Gujarat decline by 20%",
+            "link": "https://timesofindia.indiatimes.com/city/ahmedabad/pilgrimage-bookings-from-gujarat-decline-by-20/articleshow/121761197.cms",
+            "keywords": null,
+            "creator": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-10 21:12:00",
+            "pubDateTZ": "UTC",
+            "image_url": "https://static.toiimg.com/thumb/msid-121761196,imgsize-32770,width-400,height-225,resizemode-72/121761196.jpg",
+            "video_url": null,
+            "source_id": "toi",
+            "source_name": "The Times Of India",
+            "source_priority": 239,
+            "source_url": "https://timesofindia.indiatimes.com",
+            "source_icon": "https://n.bytvi.com/toi.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "lifestyle"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "f8462c9f553598f2ae4461e5ad84b021",
+            "title": "Approvals for oncology procedures rise under Ayushman Bharat Arogya Karnataka scheme",
+            "link": "https://timesofindia.indiatimes.com/city/bengaluru/approvals-for-oncology-procedures-rise-under-ayushman-bharat-arogya-karnataka-scheme/articleshow/121761537.cms",
+            "keywords": null,
+            "creator": [
+                "Yashaswini Sri"
+            ],
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-10 21:11:54",
+            "pubDateTZ": "UTC",
+            "image_url": "https://static.toiimg.com/thumb/msid-121761536,imgsize-79448,width-400,height-225,resizemode-72/121761536.jpg",
+            "video_url": null,
+            "source_id": "toi",
+            "source_name": "The Times Of India",
+            "source_priority": 239,
+            "source_url": "https://timesofindia.indiatimes.com",
+            "source_icon": "https://n.bytvi.com/toi.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "business"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "b598f2272ebb2714c9f8545f1b5a3186",
+            "title": "Xcode 26 beta includes new ‘Apple Vision Pro 4K’ reference",
+            "link": "https://9to5mac.com/2025/06/10/xcode-26-beta-includes-new-apple-vision-pro-4k-reference/",
+            "keywords": [
+                "news"
+            ],
+            "creator": [
+                "Michael Burkhardt"
+            ],
+            "description": "Apple held its WWDC25 keynote yesterday, where it announced a new suite of software updates for iOS, iPadOS, macOS, tvOS, watchOS, and visionOS – all under the new version numbering umbrella of ’26’. A new suite of OS releases comes with a new version of XcodeIn the first beta of Xcode 26, the developer tool used to build apps for these new operating systems, Apple seemingly let an interesting Vision Pro detail slip – a potential new name. more...",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-10 21:11:50",
+            "pubDateTZ": "UTC",
+            "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2024/07/vision-pro-color-logo.jpg?quality=82&strip=all&w=1600",
+            "video_url": null,
+            "source_id": "9to5mac",
+            "source_name": "9to5 Mac",
+            "source_priority": 5542,
+            "source_url": "https://9to5mac.com",
+            "source_icon": "https://n.bytvi.com/9to5mac.png",
+            "language": "english",
+            "country": [
+                "india",
+                "singapore",
+                "united states of america",
+                "australia",
+                "united kingdom"
+            ],
+            "category": [
+                "technology"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "0d11f7b2da64b685e39274cc7ffd551c",
+            "title": "Former finance staff held for 51L loan fraud",
+            "link": "https://timesofindia.indiatimes.com/city/pune/former-finance-staff-held-for-51l-loan-fraud/articleshow/121762034.cms",
+            "keywords": null,
+            "creator": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-10 21:11:46",
+            "pubDateTZ": "UTC",
+            "image_url": "https://static.toiimg.com/thumb/msid-121762032,width-1070,height-580,imgsize-13010,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "video_url": null,
+            "source_id": "toi",
+            "source_name": "The Times Of India",
+            "source_priority": 239,
+            "source_url": "https://timesofindia.indiatimes.com",
+            "source_icon": "https://n.bytvi.com/toi.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "health"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "8d6108afa96a46a4ccb512631b1cfd25",
+            "title": "Centre sets Rs 3-L cr defence exports target for 2029: Sanjay Seth",
+            "link": "https://www.tribuneindia.com/news/himachal/centre-sets-rs-3-l-cr-defence-exports-target-for-2029-sanjay-seth",
+            "keywords": null,
+            "creator": [
+                "Tribune News Service"
+            ],
+            "description": "India aims for ₹50,000 crore in defense exports this year, targeting ₹3 lakh crore by 2029. The defense budget increased significantly since 2013-14, transforming India into a self-reliant exporter. India exports to 92 countries. The minister highlighted achievements like vaccine development, responses to terror attacks, and economic growth.(This summary is generated via AI.)",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-10 21:11:37",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/webp/medium/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTgzMTk5MDYwLTQ2M2YtMTFmMC05OTgxLWFiMzczOGVjYzRmOS5qcGc%3D",
+            "video_url": null,
+            "source_id": "tribuneindia",
+            "source_name": "The Tribune India",
+            "source_priority": 15316,
+            "source_url": "https://www.tribuneindia.com",
+            "source_icon": "https://n.bytvi.com/tribuneindia.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "bba95a2a5d0751b31e6e888ce61f7a64",
+            "title": "Chinnaswamy stampede: 'Bhumik would’ve been alive if there was ambulance with oxygen at stadium'",
+            "link": "https://www.deccanherald.com/india/karnataka/bengaluru/chinnaswamy-stampede-bhumik-wouldve-been-alive-if-there-was-ambulance-with-oxygen-at-stadium-3580113",
+            "keywords": null,
+            "creator": [
+                "DHNS"
+            ],
+            "description": "‘Bhumik would’ve been alive if there was ambulance with oxygen at stadium’",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-10 21:11:35",
+            "pubDateTZ": "UTC",
+            "image_url": "https://media.assettype.com/deccanherald%2F2025-06-10%2Fc22yxb7b%2Ffile810thbjmlcjcp9po8e16x9.png?ar=40%3A21&auto=format%2Ccompress&mode=crop&ogImage=true&rect=0%2C0%2C540%2C284&w=1200",
+            "video_url": null,
+            "source_id": "deccanherald",
+            "source_name": "Deccan Herald",
+            "source_priority": 10080,
+            "source_url": "https://www.deccanherald.com",
+            "source_icon": "https://n.bytvi.com/deccanherald.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "a36b4ef6866e50dfa77f21e2677f86ac",
+            "title": "Jammu News: डल और नगीन लेक का बदेलगा लुक, बंद चैनल खुलेंगे",
+            "link": "https://www.amarujala.com/jammu/development-news-jammu-news-c-10-jam1003-633649-2025-06-11",
+            "keywords": null,
+            "creator": null,
+            "description": "डल और नगीन लेक का बदेलगा लुक, बंद चैनल खुलेंगे",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-10 21:11:08",
+            "pubDateTZ": "UTC",
+            "image_url": "https://staticimg.amarujala.com/assets/images/2021/11/03/jammu_1635936228.jpeg?dpr=1.0&q=80&w=414",
+            "video_url": null,
+            "source_id": "amarujala",
+            "source_name": "Amar Ujala",
+            "source_priority": 55215,
+            "source_url": "https://www.amarujala.com",
+            "source_icon": "https://n.bytvi.com/amarujala.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "dc75844e0025855f1de9f8dfaa3a563c",
+            "title": "Rohan Bopanna out of top-50 in tennis rankings; Nagal’s nosedives to 233",
+            "link": "https://www.thehindu.com/sport/tennis/rohan-bopanna-out-of-top-50-in-tennis-rankings-nagals-nosedives-to-233/article69680492.ece",
+            "keywords": [
+                "tennis"
+            ],
+            "creator": null,
+            "description": "The last time Sumit Nagal was ranked outside the top-200 was in July 2023 when he was placed 231; since then he made a steady progress on the Tour, and climbed to a career-best 68 in July 2024",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-10 21:11:00",
+            "pubDateTZ": "UTC",
+            "image_url": "https://th-i.thgim.com/public/incoming/2fcatc/article69680504.ece/alternates/LANDSCAPE_1200/Italy_Tennis_ATP_Finals_59322.jpg",
+            "video_url": null,
+            "source_id": "thehindu",
+            "source_name": "The Hindu",
+            "source_priority": 2972,
+            "source_url": "https://www.thehindu.com",
+            "source_icon": "https://n.bytvi.com/thehindu.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "f7d9b5e635d83757da86922d5a6cdeb6",
+            "title": "Karnal News: पारा @ 44.5, झुलसी जिंदगी",
+            "link": "https://www.amarujala.com/haryana/karnal/mercury-at-445-life-scorched-karnal-news-c-18-knl1008-667045-2025-06-11",
+            "keywords": null,
+            "creator": null,
+            "description": "पारा @ 44.5, झुलसी जिंदगी",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-10 21:10:49",
+            "pubDateTZ": "UTC",
+            "image_url": "https://staticimg.amarujala.com/assets/images/2021/11/09/karnal_1636440329.jpeg?dpr=1.0&q=80&w=414",
+            "video_url": null,
+            "source_id": "amarujala",
+            "source_name": "Amar Ujala",
+            "source_priority": 55215,
+            "source_url": "https://www.amarujala.com",
+            "source_icon": "https://n.bytvi.com/amarujala.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "9dd9a93ec359c5c995585fc92d3cba4d",
+            "title": "TMC Worker Murdered In Murshidabad",
+            "link": "https://www.deccanchronicle.com/nation/crime/tmc-worker-murdered-in-murshidabad-1884576",
+            "keywords": [
+                "nation,crime"
+            ],
+            "creator": [
+                "Pranmoy Brahmachari"
+            ],
+            "description": "The victim, Bablu Sheikh (54), was from Patlatola village at Giria gram panchayat in Raghunathganj.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-10 21:10:46",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.deccanchronicle.com/h-upload/2025/03/17/1899731-tmc.webp",
+            "video_url": null,
+            "source_id": "deccanchronicle",
+            "source_name": "Deccan Chronicle",
+            "source_priority": 21568,
+            "source_url": "https://www.deccanchronicle.com",
+            "source_icon": "https://n.bytvi.com/deccanchronicle.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "6c482125577b9c7fe3de3ac05cb9bb03",
+            "title": "Giridih News: पीएचसी नवडीहा में चिकित्सक नहीं इलाज को जाना पड़ता है बाहर",
+            "link": "https://www.prabhatkhabar.com/state/jharkhand/giridih/giridih-news-there-is-no-doctor-in-phc-navdiha",
+            "keywords": [
+                "गिरिडीह",
+                "giridih news"
+            ],
+            "creator": [
+                "MAYANK TIWARI"
+            ],
+            "description": "Giridih News: जमुआ पूर्वी क्षेत्र के पीएचसी नवडीहा में चिकित्सक की पदस्थापना नहीं होने से इस क्षेत्र के ग्रामीणों को इलाज कराने शहर जाना पड़ता है. आठ साल नौ माह बीत चुके हैं, पर यहां पर विभाग ने एक भी चिकित्सक की पदस्थापना नहीं की है.The post Giridih News: पीएचसी नवडीहा में चिकित्सक नहीं इलाज को जाना पड़ता है बाहर appeared first on Prabhat Khabar.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-10 21:10:45",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.prabhatkhabar.com/wp-content/uploads/2025/06/file_2025-06-11T00-53-54.jpeg",
+            "video_url": null,
+            "source_id": "prabhatkhabar",
+            "source_name": "Prabhat Khabar",
+            "source_priority": 343253,
+            "source_url": "https://www.prabhatkhabar.com",
+            "source_icon": "https://n.bytvi.com/prabhatkhabar.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "f6f7a53db0d3c93c1e5ed66e8f4819c5",
+            "title": "Gigi Paris breaks her silence on Glen Powell split and Sydney Sweeney rumors: “I just wanted respect”",
+            "link": "https://economictimes.indiatimes.com/news/international/us/gigi-paris-breaks-her-silence-on-glen-powell-split-and-sydney-sweeney-rumors-i-just-wanted-respect/articleshow/121762566.cms",
+            "keywords": null,
+            "creator": null,
+            "description": "Gigi Paris speaks about her split with Glen Powell. She reveals issues started months before the breakup. Paris wanted respect during their relationship. She addresses rumors about Powell and Sydney Sweeney. Paris criticizes Powell for not stopping the romance speculation. Powell admitted the breakup made the film promotion difficult. Paris has moved on from the relationship.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-10 21:10:37",
+            "pubDateTZ": "UTC",
+            "image_url": "https://img.etimg.com/thumb/msid-121762563,width-1200,height-630,imgsize-54028,overlay-economictimes/articleshow.jpg",
+            "video_url": null,
+            "source_id": "economictimes_indiatimes",
+            "source_name": "The Economic Times",
+            "source_priority": 231,
+            "source_url": "https://economictimes.indiatimes.com",
+            "source_icon": "https://n.bytvi.com/economictimes_indiatimes.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "d10e2166d3f5e76d44bf0ff6ad6584ac",
+            "title": "Jammu News: मेरिट में अव्वल, पर वरिष्ठता सूची मेंपिछड़ा, 25 साल बाद कैट ने दी राहत",
+            "link": "https://www.amarujala.com/jammu/court-news-jammu-news-c-10-jam1003-633540-2025-06-11",
+            "keywords": null,
+            "creator": null,
+            "description": "मेरिट में अव्वल, पर वरिष्ठता सूची मेंपिछड़ा, 25 साल बाद कैट ने दी राहत",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-10 21:10:35",
+            "pubDateTZ": "UTC",
+            "image_url": "https://staticimg.amarujala.com/assets/images/2021/11/03/jammu_1635936228.jpeg?dpr=1.0&q=80&w=414",
+            "video_url": null,
+            "source_id": "amarujala",
+            "source_name": "Amar Ujala",
+            "source_priority": 55215,
+            "source_url": "https://www.amarujala.com",
+            "source_icon": "https://n.bytvi.com/amarujala.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "bab47df3cb1f116e31a3c23bd2b39d48",
+            "title": "Kathua News: पूरी तरह से सक्रिय होगा मछली पालन केंद्र",
+            "link": "https://www.amarujala.com/jammu-and-kashmir/kathua/fish-farming-news-in-kathua-kathua-news-c-201-1-knt1008-120892-2025-06-11",
+            "keywords": null,
+            "creator": null,
+            "description": "ट्राउट प्रजाति की मछली बर्फीले ताजे पानी में ही रह सकती है। इसे पालने के लिए कठुआ में लोवांग से सटे बनी उपप्रभाग के खुड़वा इलाके में बनाया गया मछली पालन केंद्र उपेक्षित है।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-10 21:10:26",
+            "pubDateTZ": "UTC",
+            "image_url": "https://staticimg.amarujala.com/assets/images/4cplus/2025/06/11/khaugdhava-ma-machhalpalna-vabhaga-ka-tarauta-machhal-palna-kathara_5bc81b9545680890439ae2a780cfcde1.jpeg?dpr=1.0&q=80&w=414",
+            "video_url": null,
+            "source_id": "amarujala",
+            "source_name": "Amar Ujala",
+            "source_priority": 55215,
+            "source_url": "https://www.amarujala.com",
+            "source_icon": "https://n.bytvi.com/amarujala.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "f98dd15f85777e477b66b35e1fac5bd7",
+            "title": "Panipat News: ग्रीन बेल्ट और ओपन स्पेस पर कब्जा कर बनाया मकान, केस दर्ज",
+            "link": "https://www.amarujala.com/haryana/panipat/house-built-by-occupying-green-belt-and-open-space-case-registered-panipat-news-c-244-1-pnp1012-138473-2025-06-11",
+            "keywords": null,
+            "creator": null,
+            "description": "ग्रीन बेल्ट और ओपन स्पेस पर कब्जा कर बनाया मकान, केस दर्ज",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-10 21:10:11",
+            "pubDateTZ": "UTC",
+            "image_url": "https://staticimg.amarujala.com/assets/images/2021/10/20/panipat_1634712371.jpeg?dpr=1.0&q=80&w=414",
+            "video_url": null,
+            "source_id": "amarujala",
+            "source_name": "Amar Ujala",
+            "source_priority": 55215,
+            "source_url": "https://www.amarujala.com",
+            "source_icon": "https://n.bytvi.com/amarujala.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "5551b2249d91e1e6cfaf0f79d5b0c7c7",
+            "title": "Jammu News: उर्दू की अनिवार्यता और आरक्षण को लेकर बिफरे छात्र",
+            "link": "https://www.amarujala.com/jammu/protest-news-jammu-news-c-10-jam1003-633976-2025-06-11",
+            "keywords": null,
+            "creator": null,
+            "description": "उर्दू की अनिवार्यता और आरक्षण को लेकर बिफरे छात्र",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-10 21:10:04",
+            "pubDateTZ": "UTC",
+            "image_url": "https://staticimg.amarujala.com/assets/images/2021/11/03/jammu_1635936228.jpeg?dpr=1.0&q=80&w=414",
+            "video_url": null,
+            "source_id": "amarujala",
+            "source_name": "Amar Ujala",
+            "source_priority": 55215,
+            "source_url": "https://www.amarujala.com",
+            "source_icon": "https://n.bytvi.com/amarujala.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "331bcf5b1cbb2ad786753eb926026889",
+            "title": "BJP West Karbi Anglong BJP holds strategic meeting at Ghilani",
+            "link": "https://thehillstimes.in/assam/bjp-west-karbi-anglong-bjp-holds-strategic-meeting-at-ghilani",
+            "keywords": [
+                "assam"
+            ],
+            "creator": [
+                "The Hills Times"
+            ],
+            "description": "HT Correspondent DONGKAMUKAM, June 10: The BJP West Karbi Anglong District Executive Committee convened a key executive meeting on Tuesday at the Atal Bihari Vajpayee Bhawan in Ghilani, under the presidentship of Radip Ronghang, President of BJP WKADC. The meeting was graced by Ravindra Raju, Organisational General Secretary of BJP Assam Pradesh, who attended as [...]",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-10 21:10:00",
+            "pubDateTZ": "UTC",
+            "image_url": null,
+            "video_url": null,
+            "source_id": "thehillstimes",
+            "source_name": "The Hills Times",
+            "source_priority": 514422,
+            "source_url": "https://thehillstimes.in",
+            "source_icon": "https://n.bytvi.com/thehillstimes.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "becf69b035805359412d0e537a97f576",
+            "title": "Jammu News: बच्चों की सुरक्षा से खिलवाड़, 25 निजी स्कूलों को नोटिस",
+            "link": "https://www.amarujala.com/jammu/education-news-jammu-news-c-10-jam1003-633541-2025-06-11",
+            "keywords": null,
+            "creator": null,
+            "description": "बच्चों की सुरक्षा से खिलवाड़, 25 निजी स्कूलों को नोटिस",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-10 21:09:34",
+            "pubDateTZ": "UTC",
+            "image_url": "https://staticimg.amarujala.com/assets/images/2021/11/03/jammu_1635936228.jpeg?dpr=1.0&q=80&w=414",
+            "video_url": null,
+            "source_id": "amarujala",
+            "source_name": "Amar Ujala",
+            "source_priority": 55215,
+            "source_url": "https://www.amarujala.com",
+            "source_icon": "https://n.bytvi.com/amarujala.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "e9a743f5c37aee5385ce86593f15de05",
+            "title": "Karnal News: एसटीएफ के हत्थे चढ़े दो बदमाश, हथियार बरामद",
+            "link": "https://www.amarujala.com/haryana/karnal/stf-nabs-two-criminals-weapons-recovered-karnal-news-c-18-knl1008-667098-2025-06-11",
+            "keywords": null,
+            "creator": null,
+            "description": "एसटीएफ के हत्थे चढ़े दो बदमाश, हथियार बरामद",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-10 21:09:16",
+            "pubDateTZ": "UTC",
+            "image_url": "https://staticimg.amarujala.com/assets/images/2021/11/09/karnal_1636440329.jpeg?dpr=1.0&q=80&w=414",
+            "video_url": null,
+            "source_id": "amarujala",
+            "source_name": "Amar Ujala",
+            "source_priority": 55215,
+            "source_url": "https://www.amarujala.com",
+            "source_icon": "https://n.bytvi.com/amarujala.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "6d9ebff5336f4bd23f340231de4ad507",
+            "title": "Muzaffarnagar News: आज पांच उपकेंद्रों की चार घंटे विद्युत आपूर्ति रहेगी बाधित",
+            "link": "https://www.amarujala.com/uttar-pradesh/muzaffarnagar/today-power-supply-of-five-substations-will-be-disrupted-for-four-hours-muzaffarnagar-news-c-29-1-smrt1035-147585-2025-06-10",
+            "keywords": null,
+            "creator": null,
+            "description": "Today, power supply of five substations will be disrupted for four hours",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-10 21:09:02",
+            "pubDateTZ": "UTC",
+            "image_url": "https://staticimg.amarujala.com/assets/images/2021/10/26/muzaffarnagar_1635234370.jpeg?dpr=1.0&q=80&w=414",
+            "video_url": null,
+            "source_id": "amarujala",
+            "source_name": "Amar Ujala",
+            "source_priority": 55215,
+            "source_url": "https://www.amarujala.com",
+            "source_icon": "https://n.bytvi.com/amarujala.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
             "article_id": "6d41917611f4c0de2376af5c6676396d",
             "title": "Udhampur News: प्रदर्शनी से बताईं केंद्र सरकार के 11 साल की उपलब्धियां",
             "link": "https://www.amarujala.com/jammu-and-kashmir/udhampur/bjp-programme-udhampur-news-c-202-1-udh1005-124116-2025-06-11",
@@ -23609,709 +24258,6 @@
             ],
             "category": [
                 "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "c30f14687c2e3e9df21a00bf78b39362",
-            "title": "Jalen Williams takes friendly shots at Alex Caruso's defense - \"I'd be frying AC so I don't really know\"",
-            "link": "https://www.sportskeeda.com/basketball/news-jalen-williams-takes-friendly-shots-alex-caruso-s-defense-i-d-frying-ac-i-don-t-really-know",
-            "keywords": [
-                "basketball"
-            ],
-            "creator": [
-                "Sameer Khan"
-            ],
-            "description": "OKC Thunder guard Jalen Williams took a friendly shot at Alex Caruso's defense after he was asked to describe what it's like to be defended by him.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-06-09 09:09:56",
-            "pubDateTZ": "UTC",
-            "image_url": "https://staticc.sportskeeda.com/editor/2025/06/ebf74-17494627158634-1920.jpg",
-            "video_url": null,
-            "source_id": "sportskeeda",
-            "source_name": "Sportskeeda",
-            "source_priority": 1040,
-            "source_url": "http://sportskeeda.com",
-            "source_icon": "https://n.bytvi.com/sportskeeda.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "sports"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "6368b2526cd48deb3ff69a65379b471a",
-            "title": "Why India is emerging as the ideal hub for GBS and GCCs",
-            "link": "http://economictimes.indiatimes.com/small-biz/hr-leadership/leadership/why-india-is-emerging-as-the-ideal-hub-for-gbs-and-gccs/articleshow/121724368.cms",
-            "keywords": null,
-            "creator": null,
-            "description": "India has evolved into a global epicenter for Global Business Services (GBS) and Global Capability Centers (GCCs), transitioning from cost-saving offshore centers to strategic innovation hubs. This shift is reshaping the global business landscape, with GCCs driving digital transformation and operational excellence for multinational corporations.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-06-09 09:09:49",
-            "pubDateTZ": "UTC",
-            "image_url": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-82994,resizemode-75,msid-121724368/small-biz/hr-leadership/leadership/why-india-is-emerging-as-the-ideal-hub-for-gbs-and-gccs.jpg",
-            "video_url": null,
-            "source_id": "economictimes_indiatimes",
-            "source_name": "The Economic Times",
-            "source_priority": 231,
-            "source_url": "https://economictimes.indiatimes.com",
-            "source_icon": "https://n.bytvi.com/economictimes_indiatimes.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "business"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "4fd83db22ec86c40195154a20c4eb108",
-            "title": "Russia fires record 479 drones at Ukraine overnight",
-            "link": "https://www.newindianexpress.com/world/2025/Jun/09/russia-fires-record-479-drones-at-ukraine-overnight",
-            "keywords": [
-                "world"
-            ],
-            "creator": [
-                "AFP"
-            ],
-            "description": null,
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-06-09 09:09:47",
-            "pubDateTZ": "UTC",
-            "image_url": "https://media.assettype.com/newindianexpress/2025-06-09/ji7plvzb/AFP2025060849LN29Ev1HighResUkraineRussiaConflict.jpg",
-            "video_url": null,
-            "source_id": "newindianexpress",
-            "source_name": "The New Indian Express",
-            "source_priority": 15406,
-            "source_url": "https://www.newindianexpress.com/nation",
-            "source_icon": "https://n.bytvi.com/newindianexpress.jpg",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "world"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "d8bd7776e4aff5645abe700f802264be",
-            "title": "क्या Justin Bieber Hailey Bieber के साथ 'लेन-देन संबंधी रिश्ते' से थक गए हैं?",
-            "link": "https://jantaserishta.com/entertainment/is-justin-bieber-tired-of-transactional-relationship-with-hailey-bieber-4069759",
-            "keywords": [
-                "मनोरंजन"
-            ],
-            "creator": [
-                "Anurag"
-            ],
-            "description": null,
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-06-09 09:09:46",
-            "pubDateTZ": "UTC",
-            "image_url": "https://jantaserishta.com/h-upload/2025/06/09/4659655-7-copy.webp",
-            "video_url": null,
-            "source_id": "jantaserishta",
-            "source_name": "Janta Se Rishta",
-            "source_priority": 81836,
-            "source_url": "https://jantaserishta.com",
-            "source_icon": "https://n.bytvi.com/jantaserishta.jpg",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "entertainment"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "2d79f77e7ad53d9cb5d3588e1d887737",
-            "title": "Gurugram: होटल रेटिंग का झांसा देकर टेलीग्राम पर की गई लाखों की ठगी",
-            "link": "https://jantaserishta.com/delhi-ncr/gurugram-lakhs-of-rupees-were-defrauded-on-telegram-by-luring-hotel-rating-gurugram--4069758",
-            "keywords": [
-                "राज्य,दिल्ली-एनसीआर,हरियाणा"
-            ],
-            "creator": [
-                "Admindelhi1"
-            ],
-            "description": null,
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-06-09 09:09:45",
-            "pubDateTZ": "UTC",
-            "image_url": "https://jantaserishta.com/h-upload/2025/06/09/4659659-14022025-telegramappcybercrime202521473246.webp",
-            "video_url": null,
-            "source_id": "jantaserishta",
-            "source_name": "Janta Se Rishta",
-            "source_priority": 81836,
-            "source_url": "https://jantaserishta.com",
-            "source_icon": "https://n.bytvi.com/jantaserishta.jpg",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "977114af9fb28675bc95db21aa70ade5",
-            "title": "‘प्राइवेट’ फोटो या वीडियो हो गया है लीक? टेंशन लेने से अच्छा इस वेबसाइट की लें मदद",
-            "link": "https://navbharattimes.indiatimes.com/tech/tips-tricks/dont-panic-if-private-photo-or-video-leaked-get-help-from-stopncii-website-swgfl/articleshow/121724257.cms",
-            "keywords": null,
-            "creator": null,
-            "description": "डिजिटल होती इस दुनिया के जिनते फायदे हैं, उतने ही साइड इफेक्ट्स भी हैं। ऐसी खबरें आजकल आम हो चुकी है जहां किसी के प्राइवेट फोटो या वीडियो इंटरनेट पर शेयर कर दिए गए हों। अगर आपकी या आपके किसी जानने वाले की प्राइवेट फोटोज, किसी वेबसाइट या सोशल मीडिया साइट पर डाल दी गई हैं, तो अब आप उन्हें हटवा सकते हैं। इसके लिए आपको StopNCII.org की मदद लेनी होगी। यह वेबसाइट SWGfL नाम की एक अंतर्राष्ट्रीय चैरिटी का हिस्सा है। यह बिना सहमति के ऑनलाइन शेयर की गई प्राइवेट तस्वीरों को इंटरनेट से हटवाने का काम करते हैं। यह 90% के रिमूवल रेट के साथ यह अब तक 200,000 से ज्यादा तस्वीरें इंटरनेट से हटवा चुके हैं। इनके काम करने के तरीके के बारे में डिटेल में जानते हैं।",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-06-09 09:09:39",
-            "pubDateTZ": "UTC",
-            "image_url": "https://navbharattimes.indiatimes.com/thumb/121724257/navbharat-times-121724257.jpg?height=900&imgsize-227311=&resizemode=75&width=1600",
-            "video_url": null,
-            "source_id": "navbharattimes",
-            "source_name": "Nbt Navbharattimes",
-            "source_priority": 244,
-            "source_url": "https://navbharattimes.indiatimes.com",
-            "source_icon": "https://n.bytvi.com/navbharattimes.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "technology"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "72ad4ce07d56f8e6e467ea188ef9f554",
-            "title": "How Monthly SIP Of Rs 1,500 Can Grow Into Rs 1,46,89,607 — Check How Long You Will Have To Wait",
-            "link": "https://news24online.com/business/how-monthly-sip-of-rs-1500-can-grow-into-rs-14689607-check-how-long-you-will-have-to-wait/582157/",
-            "keywords": [
-                "sip",
-                "business"
-            ],
-            "creator": [
-                "Akshat Mittal"
-            ],
-            "description": "In this article, we will find out how a person can make a corpus of Rs 1.46 crore by retirement through SIP by investing Rs 1,500 monthly for 40 years.The post How Monthly SIP Of Rs 1,500 Can Grow Into Rs 1,46,89,607 — Check How Long You Will Have To Wait appeared first on News24.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-06-09 09:09:39",
-            "pubDateTZ": "UTC",
-            "image_url": "https://news24online.com/wp-content/uploads/2025/03/Fire-16.jpg",
-            "video_url": null,
-            "source_id": "news24online",
-            "source_name": "News 24",
-            "source_priority": 549589,
-            "source_url": "https://news24online.com",
-            "source_icon": "https://n.bytvi.com/news24online.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "7abd430de519dcf66d493d7246860333",
-            "title": "Bhadwar के किसानों की प्यास बुझाने में 4.76 करोड़ रुपये की परियोजना विफल",
-            "link": "https://jantaserishta.com/local/himachal-pradesh/rs-476-crore-project-fails-to-quench-the-thirst-of-bhadwar-farmers-4069757",
-            "keywords": [
-                "राज्य,हिमाचल प्रदेश"
-            ],
-            "creator": [
-                "Payal"
-            ],
-            "description": null,
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-06-09 09:09:38",
-            "pubDateTZ": "UTC",
-            "image_url": "https://jantaserishta.com/h-upload/2025/06/09/4659658-45.webp",
-            "video_url": null,
-            "source_id": "jantaserishta",
-            "source_name": "Janta Se Rishta",
-            "source_priority": 81836,
-            "source_url": "https://jantaserishta.com",
-            "source_icon": "https://n.bytvi.com/jantaserishta.jpg",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "91c240ce29f1224e2fdcbd722e3ef699",
-            "title": "पटना-गया होकर पहुंची सोनम! जानें क्या है इस खौफनाक कहानी का बिहार कनेक्शन",
-            "link": "https://hindi.news18.com/news/bihar/patna-indore-couple-sonam-raghuvanshi-raja-meghalaya-murder-case-bihar-connection-honeymoon-trip-local18-ws-kl-9296529.html",
-            "keywords": [
-                "बिहार"
-            ],
-            "creator": [
-                "Manish Kumar"
-            ],
-            "description": "Indore couple Sonam-Raja Raghuvanshi: इंदौर के राजा रघुवंशी और सोनम की शादी के 9 दिन बाद हनीमून पर मेघालय में राजा की हत्या हो गई. सोनम ने यूपी में सरेंडर किया. पुलिस ने तीन आरोपियों को गिरफ्तार किया है.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-06-09 09:09:36",
-            "pubDateTZ": "UTC",
-            "image_url": "https://images.news18.com/ibnkhabar/uploads/2025/06/1a468f75-9676-43cc-b804-11693e403d10-2025-06-206643789ecca441814c5d6d31a2c0a5-3x2.jpg",
-            "video_url": null,
-            "source_id": "hindinews18",
-            "source_name": "News 18 Hindi",
-            "source_priority": 4077,
-            "source_url": "https://hindi.news18.com",
-            "source_icon": "https://n.bytvi.com/hindinews18.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "af4afd235397171e905f547bb4dad7e1",
-            "title": "मुकेश अंबानी की कंपनी से मिला 700 करोड़ रुपये का ऑर्डर, रॉकेट सा भागा यह शेयर",
-            "link": "https://www.livehindustan.com/business/afcons-infrastructure-bagged-700-crore-rupee-work-order-from-mukesh-ambani-reliance-industries-201749459847206.html",
-            "keywords": [
-                "business"
-            ],
-            "creator": null,
-            "description": "एफकॉन्स इंफ्रास्ट्रक्चर के शेयर सोमवार को करीब 6% के उछाल के साथ BSE में 460.75 रुपये पर पहुंच गए हैं। एफकॉन्स इंफ्रास्ट्रक्चर को मुकेश अंबानी की कंपनी रिलायंस इंडस्ट्रीज लिमिटेड से एक बड़ा वर्क ऑर्डर मिला है।",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-06-09 09:09:33",
-            "pubDateTZ": "UTC",
-            "image_url": "https://www.livehindustan.com/lh-img/smart/img/2025/06/09/1200x900/Investor_1749459966856_1749459989968.jpg",
-            "video_url": null,
-            "source_id": "livehindustan",
-            "source_name": "Hindustan",
-            "source_priority": 127332,
-            "source_url": "https://www.livehindustan.com",
-            "source_icon": "https://n.bytvi.com/livehindustan.jpg",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "business"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "4856767f1a5dfed9f4a32c63709ef899",
-            "title": "भाजपा के सुकांत ने कहा, CM ममता बनर्जी की चुनावी रणनीति 'तुष्टिकरण की राजनीति' पर आधारित",
-            "link": "https://jantaserishta.com/delhi-ncr/bjps-sukanta-said-cm-mamata-banerjees-election-strategy-is-based-on-politics-of-appeasement-4069756",
-            "keywords": [
-                "राज्य,दिल्ली-एनसीआर,पश्चिम बंगाल"
-            ],
-            "creator": [
-                "Gulabi Jagat"
-            ],
-            "description": null,
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-06-09 09:09:29",
-            "pubDateTZ": "UTC",
-            "image_url": "https://jantaserishta.com/h-upload/2025/06/09/4659657-download.jfif",
-            "video_url": null,
-            "source_id": "jantaserishta",
-            "source_name": "Janta Se Rishta",
-            "source_priority": 81836,
-            "source_url": "https://jantaserishta.com",
-            "source_icon": "https://n.bytvi.com/jantaserishta.jpg",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "4c7f9d6eaa3108309bc2d542314fe944",
-            "title": "Harish Rao defends Kaleshwaram project shift before Justice PC Ghose Commission",
-            "link": "https://telanganatoday.com/harish-rao-defends-kaleshwaram-project-shift-before-justice-pc-ghose-commission",
-            "keywords": [
-                "kaleshwaram lift irrigation project",
-                "news",
-                "harish rao",
-                "bharat rashtra samithi",
-                "medigadda",
-                "hyderabad",
-                "telangana"
-            ],
-            "creator": [
-                "Telangana Today"
-            ],
-            "description": "BRS leader T. Harish Rao told the Justice P.C. Ghose Commission that shifting the Kaleshwaram project intake point from Tummidi Hatti to Medigadda was necessary due to Maharashtra’s objections, water shortage, and ecological concerns. He submitted detailed evidence supporting the decision.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-06-09 09:09:28",
-            "pubDateTZ": "UTC",
-            "image_url": "https://media.telanganatoday.com/wp-content/uploads/2025/06/Harish-Rao-defends-Kaleshwaram-project-shift-before-Justice-PC-Ghose-Commission-768x450.jpg",
-            "video_url": null,
-            "source_id": "telanganatoday",
-            "source_name": "Telangana Today",
-            "source_priority": 63887,
-            "source_url": "https://telanganatoday.com",
-            "source_icon": "https://n.bytvi.com/telanganatoday.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "0fdd080359bd6f32fd53f1b0a7e2d2ed",
-            "title": "'ठग लाइफ' विवाद : थिएटर सुरक्षा याचिका पर सुप्रीम कोर्ट ने तत्काल सुनवाई से किया इनकार",
-            "link": "https://www.deshbandhu.co.in/vichar/-thug-life--controversy-supreme-court-refuses-urgent-hearing-on-theatre-safety-plea-560677-2",
-            "keywords": null,
-            "creator": null,
-            "description": "कर्नाटक में कमल हासन की फिल्म 'ठग लाइफ' को लेकर धमकियों की घटनाओं के बीच थिएटर एसोसिएशन ने सुप्रीम कोर्ट में याचिका दायर की थी और सिनेमाघरों को सुरक्षा देने की मांग की। साथ ही इस मामले में तुरंत सुनवाई करने की गुजारिश भी की, लेकिन अदालत ने तत्काल सुनवाई करने से इनकार कर दिया है",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-06-09 09:09:18",
-            "pubDateTZ": "UTC",
-            "image_url": "https://www.deshbandhu.co.in/Admin/storyimage/e3513835-566b-4763-9710-8f7aa1b90a79_Capture.jpg",
-            "video_url": null,
-            "source_id": "deshbandhu",
-            "source_name": "Deshbandhu-hindi",
-            "source_priority": 13621201,
-            "source_url": "https://www.deshbandhu.co.in",
-            "source_icon": null,
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": true
-        },
-        {
-            "article_id": "9dc02b3478384d8317de2b6a07ea323e",
-            "title": "ट्रैफिक पुलिस और युवक के बीच झड़प, पत्थर से हमला कर पुलिस को किया घायल (देखें वीडियो)",
-            "link": "https://newswing.com/clash-between-traffic-police-and-youth-police-was-injured-by-stone-pelting-see-video/840541/",
-            "keywords": [
-                "jharkhand",
-                "lead news",
-                "ranchi"
-            ],
-            "creator": [
-                "News Wing"
-            ],
-            "description": "Ranchi : राजधानी रांची में ट्रैफिक पुलिस और युवक के बीच झड़प हुई. ट्रैफिक नियम का उल्लंघन करने को लेकर पुलिस ने युवक को समझाया इसके बाद ट्रैफिक पुलिस और युवक के बीच झड़प हुई और दोनों के बीच मारपीट हुई. इस दौरान एक युवक ने ट्रैफिक पुलिस पर पत्थर से हमला कर दिया जिसके ...",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-06-09 09:09:17",
-            "pubDateTZ": "UTC",
-            "image_url": "https://newswing.com/wp-content/uploads/2025/06/2-2.jpg",
-            "video_url": null,
-            "source_id": "newswing",
-            "source_name": "Newswing",
-            "source_priority": 720084,
-            "source_url": "https://newswing.com",
-            "source_icon": "https://n.bytvi.com/newswing.jpg",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "368696e12eab8268ee0564a5dda666a6",
-            "title": "Disha Patani Birthday Special: The One Workout That Keeps The Actress Fit! Why Should You Try It Too?",
-            "link": "https://news24online.com/lifestyle/disha-patani-birthday-special-the-one-workout-that-keeps-the-actress-fit-why-should-you-try-it-too/582135/",
-            "keywords": [
-                "fitness",
-                "disha patani",
-                "lifestyle"
-            ],
-            "creator": [
-                "news24desk"
-            ],
-            "description": "Ever wonder how Disha Patani gets that \"Goddess-like physique\"? Turns out, the secret is hitting the weights. The post Disha Patani Birthday Special: The One Workout That Keeps The Actress Fit! Why Should You Try It Too? appeared first on News24.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-06-09 09:09:12",
-            "pubDateTZ": "UTC",
-            "image_url": "https://news24online.com/wp-content/uploads/2025/06/Black-Gold-Minimalist-Blank-A4-Document-Landscape.jpg",
-            "video_url": null,
-            "source_id": "news24online",
-            "source_name": "News 24",
-            "source_priority": 549589,
-            "source_url": "https://news24online.com",
-            "source_icon": "https://n.bytvi.com/news24online.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "df04604af1c480fd402fed8c00e1cb50",
-            "title": "Broadway Technology and Quartzsea Acquisition finalise merger agreement",
-            "link": "https://finance.yahoo.com/news/broadway-technology-quartzsea-acquisition-finalise-090912906.html",
-            "keywords": null,
-            "creator": [
-                "Packaging Gateway"
-            ],
-            "description": null,
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-06-09 09:09:12",
-            "pubDateTZ": "UTC",
-            "image_url": null,
-            "video_url": null,
-            "source_id": "yahoo",
-            "source_name": "Yahoo! News",
-            "source_priority": 17,
-            "source_url": "https://news.yahoo.com",
-            "source_icon": "https://n.bytvi.com/yahoo.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "business"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "8896ae0590fcfbf52d30d322a04ccfb7",
-            "title": "Ex-CM Biren, MP Sanajaoba Leave for Delhi; Appeals for Calm Amid Escalating Manipur Protests",
-            "link": "https://northeastlivetv.com/topnews/ex-cm-biren-mp-sanajaoba-leave-for-delhi-appeals-for-calm-amid-escalating-manipur-protests/",
-            "keywords": [
-                "ex-cm biren",
-                "manipur protests",
-                "mp sanajaoba",
-                "delhi",
-                "northeast live",
-                "manipur",
-                "top news"
-            ],
-            "creator": [
-                "Northeast Live Digital Desk"
-            ],
-            "description": "His appeal comes amid massive protests across Manipur’s valley districts following the arrest of members of Arambai Tenggol.The post Ex-CM Biren, MP Sanajaoba Leave for Delhi; Appeals for Calm Amid Escalating Manipur Protests appeared first on Northeast Live.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-06-09 09:09:07",
-            "pubDateTZ": "UTC",
-            "image_url": "https://northeastlive.s3.amazonaws.com/media/uploads/2025/06/Representational-image-99.png",
-            "video_url": null,
-            "source_id": "northeastlivetv",
-            "source_name": "Northeast Live",
-            "source_priority": 1591568,
-            "source_url": "https://northeastlivetv.com",
-            "source_icon": "https://n.bytvi.com/northeastlivetv.jpg",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "aa5c6449cd467ea81213a302beaee120",
-            "title": "Eleven OTT Release Date: Naveen Chandra’s crime drama is set to stream online on multiple platforms",
-            "link": "https://newsroompost.com/entertainment/eleven-ott-release-date-naveen-chandras-crime-drama-is-set-to-stream-online-on-multiple-platforms/5344718.html",
-            "keywords": [
-                "eleven ott release",
-                "entertainment",
-                "eleven ott release date"
-            ],
-            "creator": [
-                "Hardik Azad"
-            ],
-            "description": "Eleven OTT Release Date: The film is ready to move to the digital screens, where it will try its luck with the OTTians in the days ahead.The post Eleven OTT Release Date: Naveen Chandra’s crime drama is set to stream online on multiple platforms appeared first on NewsroomPost.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-06-09 09:08:58",
-            "pubDateTZ": "UTC",
-            "image_url": "https://newsroompost.com/wp-content/uploads/2025/06/Untitled-design-2.png",
-            "video_url": null,
-            "source_id": "newsroompost",
-            "source_name": "Newsroompost",
-            "source_priority": 57039,
-            "source_url": "https://newsroompost.com",
-            "source_icon": "https://n.bytvi.com/newsroompost.jpg",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "entertainment"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "8035fc24fabcb02e59cade6039fe9c4c",
-            "title": "Why WWE Changed Ron 'R-Truth' Killings' Name (WWE News)",
-            "link": "https://whatculture.com/wwe/why-wwe-changed-ron-r-truth-killings-name-wwe-news",
-            "keywords": [
-                "wwe"
-            ],
-            "creator": null,
-            "description": "R-Truth no more? Shocking WWE return for Ron Killings also results in name change",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-06-09 09:08:54",
-            "pubDateTZ": "UTC",
-            "image_url": "https://cdn4.whatculture.com/images//2025/06/7814c69ea254860ad17a7da68affcf9e.png",
-            "video_url": null,
-            "source_id": "whatculture",
-            "source_name": "Whatculture",
-            "source_priority": 27614,
-            "source_url": "https://whatculture.com",
-            "source_icon": "https://n.bytvi.com/whatculture.png",
-            "language": "english",
-            "country": [
-                "india",
-                "united states of america",
-                "united kingdom"
-            ],
-            "category": [
-                "entertainment"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "6c456d19495b79e6c1941dfaf7c74e03",
-            "title": "उथप्पा ने GT स्टार को बताया भविष्य का इंडिया प्लेयर",
-            "link": "https://jantaserishta.com/sports/uthappa-calls-gt-star-the-future-india-player-4069755",
-            "keywords": [
-                "खेल"
-            ],
-            "creator": [
-                "Dolly"
-            ],
-            "description": null,
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-06-09 09:08:52",
-            "pubDateTZ": "UTC",
-            "image_url": "https://jantaserishta.com/h-upload/2025/06/09/4659644-54.webp",
-            "video_url": null,
-            "source_id": "jantaserishta",
-            "source_name": "Janta Se Rishta",
-            "source_priority": 81836,
-            "source_url": "https://jantaserishta.com",
-            "source_icon": "https://n.bytvi.com/jantaserishta.jpg",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "sports"
             ],
             "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
             "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
