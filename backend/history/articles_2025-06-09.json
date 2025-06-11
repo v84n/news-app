@@ -1,6 +1,886 @@
 {
     "articles": [
         {
+            "article_id": "0db52b0355f43c796c4f34e670b32540",
+            "title": "Bareilly News: किराये पर वाहन लेकर कर दिया कबाड़",
+            "link": "https://www.amarujala.com/uttar-pradesh/bareilly/took-a-vehicle-on-rent-and-turned-it-into-junk-bareilly-news-c-4-lko1064-659259-2025-06-10",
+            "keywords": null,
+            "creator": null,
+            "description": "वाहन मालिक से किराये पर वाहन लेकर उसको कबाड़ कर दिया। वाहन का किराया भी नहीं दिया।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-09 21:10:18",
+            "pubDateTZ": "UTC",
+            "image_url": "https://staticimg.amarujala.com/assets/images/2021/12/01/bareilly_1638345241.jpeg?dpr=1.0&q=80&w=414",
+            "video_url": null,
+            "source_id": "amarujala",
+            "source_name": "Amar Ujala",
+            "source_priority": 55215,
+            "source_url": "https://www.amarujala.com",
+            "source_icon": "https://n.bytvi.com/amarujala.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "d38a3d1b3f32705a66e80223260cbf79",
+            "title": "WWDC 2025: Apple’s iOS 26, macOS Tahoe, watchOS 26, and visionOS 26 features",
+            "link": "https://startupnews.fyi/2025/06/10/wwdc-2025-apples-ios-26-macos-tahoe-watchos-26-and-visionos-26-features/",
+            "keywords": [
+                "world news",
+                "tech"
+            ],
+            "creator": [
+                "CNBCTV"
+            ],
+            "description": "Apple kicked off WWDC 2025 with a bold new software design that aims to refresh how users experience their devices. At the heart of this redesign is a virtual material Apple calls “Liquid Glass” — a translucent surface that dynamically reflects and refracts its surroundings. This fresh look stretches across all Apple platforms: iOS 26, [...]",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-09 21:10:15",
+            "pubDateTZ": "UTC",
+            "image_url": "https://startupnews.fyi/wp-content/uploads/2025/06/liquid-glass-1-2025-06-9f4facd98f6186061fab748073cb29d0.jpg",
+            "video_url": null,
+            "source_id": "startupnews",
+            "source_name": "Startupnews",
+            "source_priority": 443815,
+            "source_url": "https://startupnews.fyi",
+            "source_icon": "https://n.bytvi.com/startupnews.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "cc5da5833659a8c11c66361485fd58c3",
+            "title": "Jhansi News: सुबह से रात तक झेलने पड़े लू के थपेड़े, दो दिन और ऐसा ही मौसम रहने के आसार",
+            "link": "https://www.amarujala.com/uttar-pradesh/jhansi/heat-waves-were-felt-from-morning-to-night-similar-weather-is-expected-for-two-more-days-jhansi-news-c-11-1-jhs1032-573964-2025-06-10",
+            "keywords": null,
+            "creator": null,
+            "description": "सुबह से रात तक झेलने पड़े लू के थपेड़े, दो दिन और ऐसा ही मौसम रहने के आसार",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-09 21:10:10",
+            "pubDateTZ": "UTC",
+            "image_url": "https://staticimg.amarujala.com/assets/images/2021/10/18/jhansi_1634557409.jpeg?dpr=1.0&q=80&w=414",
+            "video_url": null,
+            "source_id": "amarujala",
+            "source_name": "Amar Ujala",
+            "source_priority": 55215,
+            "source_url": "https://www.amarujala.com",
+            "source_icon": "https://n.bytvi.com/amarujala.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "be00727201466e24d1af2ab9a62b91f0",
+            "title": "Trading Day-London calling, stocks crawling higher",
+            "link": "https://www.channelnewsasia.com/business/trading-day-london-calling-stocks-crawling-higher-5171846",
+            "keywords": [
+                "business"
+            ],
+            "creator": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-09 21:10:05",
+            "pubDateTZ": "UTC",
+            "image_url": "https://dam.mediacorp.sg/image/upload/s--N9VCgr2O--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2025-06-09t211503z_2_lynxmpel580ux_rtroptp_3_usa-china-trade.jpg?itok=OsNH588I",
+            "video_url": null,
+            "source_id": "channelnewsasia",
+            "source_name": "Channel Newsasia",
+            "source_priority": 4763,
+            "source_url": "https://www.channelnewsasia.com",
+            "source_icon": "https://n.bytvi.com/channelnewsasia.jpg",
+            "language": "english",
+            "country": [
+                "singapore",
+                "georgia",
+                "yemen",
+                "afghanistan",
+                "cyprus",
+                "india",
+                "saudi arabia",
+                "maldives",
+                "japan",
+                "united arab emirates",
+                "malaysia",
+                "china",
+                "south korea",
+                "north korea",
+                "taiwan",
+                "thailand",
+                "pakistan",
+                "mongolia",
+                "brunei",
+                "lebanon",
+                "indonesia",
+                "kyrgyzstan",
+                "syria",
+                "israel",
+                "bhutan",
+                "iran",
+                "turkey",
+                "armenia",
+                "qatar",
+                "philippines",
+                "hong kong",
+                "kazakhstan",
+                "iraq",
+                "bangladesh",
+                "laos",
+                "vietnam",
+                "timor-leste",
+                "kuwait",
+                "myanmar",
+                "azerbaijan",
+                "jordan",
+                "nepal",
+                "oman",
+                "sri lanka",
+                "uzbekistan",
+                "turkmenistan",
+                "macau",
+                "bahrain",
+                "cambodia",
+                "tajikistan"
+            ],
+            "category": [
+                "business"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": true
+        },
+        {
+            "article_id": "34b667463c8f4f3008b3212f9601c71b",
+            "title": "Israel says Gaza-bound aid boat activists including Greta Thunberg awaiting deportation",
+            "link": "https://www.channelnewsasia.com/world/israel-says-gaza-bound-aid-boat-activists-including-greta-thunberg-awaiting-deportation-5171781",
+            "keywords": [
+                "world"
+            ],
+            "creator": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-09 20:15:00",
+            "pubDateTZ": "UTC",
+            "image_url": "https://dam.mediacorp.sg/image/upload/s--SAlk1uUp--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2025-06-09t060347z_1_lynxmpel58052_rtroptp_3_israel-palestinians-gaza-ship.jpg?itok=YDQKM9xo",
+            "video_url": null,
+            "source_id": "channelnewsasia",
+            "source_name": "Channel Newsasia",
+            "source_priority": 4763,
+            "source_url": "https://www.channelnewsasia.com",
+            "source_icon": "https://n.bytvi.com/channelnewsasia.jpg",
+            "language": "english",
+            "country": [
+                "georgia",
+                "yemen",
+                "afghanistan",
+                "cyprus",
+                "india",
+                "singapore",
+                "saudi arabia",
+                "maldives",
+                "japan",
+                "united arab emirates",
+                "malaysia",
+                "china",
+                "south korea",
+                "north korea",
+                "taiwan",
+                "thailand",
+                "pakistan",
+                "mongolia",
+                "brunei",
+                "lebanon",
+                "indonesia",
+                "kyrgyzstan",
+                "syria",
+                "israel",
+                "bhutan",
+                "iran",
+                "turkey",
+                "armenia",
+                "qatar",
+                "philippines",
+                "hong kong",
+                "kazakhstan",
+                "iraq",
+                "bangladesh",
+                "laos",
+                "vietnam",
+                "timor-leste",
+                "kuwait",
+                "myanmar",
+                "azerbaijan",
+                "jordan",
+                "nepal",
+                "sri lanka",
+                "uzbekistan",
+                "turkmenistan",
+                "macau",
+                "bahrain",
+                "cambodia",
+                "tajikistan"
+            ],
+            "category": [
+                "world"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "c433c21176bb3f26bd76397357a103af",
+            "title": "Jhajjar-Bahadurgarh News: .सफाईकर्मियों को वेतन दिलाने को लेकर डीसी से मिली चेयरपर्सन",
+            "link": "https://www.amarujala.com/haryana/jhajjar-bahadurgarh/chairperson-met-dc-to-get-salary-for-sanitation-workers-bahadurgarh-news-c-200-1-bgh1002-115385-2025-06-10",
+            "keywords": null,
+            "creator": null,
+            "description": "नगर परिषद चेयरपर्सन सरोज राठी ने सोमवार को डीसी स्वप्निल रविन्द्र पाटिल से मुलाकात की।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-09 20:14:58",
+            "pubDateTZ": "UTC",
+            "image_url": "https://staticimg.amarujala.com/assets/images/4cplus/2025/06/10/fata-67-dasa-savapanal-ravanathara-patal-ka-safaii-karamacaraya-ka-vatana-sabthha-samasaya-ka-samathhana-ka_ca041994587d35e0fe1214cc01d16fb6.jpeg?dpr=1.0&q=80&w=414",
+            "video_url": null,
+            "source_id": "amarujala",
+            "source_name": "Amar Ujala",
+            "source_priority": 55215,
+            "source_url": "https://www.amarujala.com",
+            "source_icon": "https://n.bytvi.com/amarujala.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "1025a33cb9f892d2e2092abe65014606",
+            "title": "अनुपस्थित मिले 19 अधिकारियों का वेतन रोकने का निर्देश",
+            "link": "https://www.amarujala.com/uttar-pradesh/meerut/instructions-to-stop-the-salary-of-19-officers-found-absent-mawana-news-c-40-1-smrt1041-109069-2025-06-10",
+            "keywords": null,
+            "creator": null,
+            "description": "संपूर्ण समाधान दिवस में जिलाधिकारी डाॅ. वीके सिंह व एसएसपी डाॅ. अरुण ताडा ने लोगों की शिकायतों को सुना। डीएम ने अनुपस्थित रहे 19 विभागों के अधिकारियों का एक दिन का वेतन रोकने के निर्देश दिया।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-09 20:14:51",
+            "pubDateTZ": "UTC",
+            "image_url": "https://staticimg.amarujala.com/assets/images/2025/04/09/meerut-city_ecfec5d6cebcbd9893f70bd0fb29ee0c.jpeg?dpr=1.0&q=80&w=414",
+            "video_url": null,
+            "source_id": "amarujala",
+            "source_name": "Amar Ujala",
+            "source_priority": 55215,
+            "source_url": "https://www.amarujala.com",
+            "source_icon": "https://n.bytvi.com/amarujala.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "ec4f3aae62f67d8f90bb15e2f8f58020",
+            "title": "Agra News: समय पर हो शिकायत का निस्तारण",
+            "link": "https://www.amarujala.com/uttar-pradesh/agra/timely-resolution-of-complaints-kasganj-news-c-175-1-kas1001-133025-2025-06-10",
+            "keywords": null,
+            "creator": null,
+            "description": "समय पर हो शिकायत का निस्तारण",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-09 20:14:42",
+            "pubDateTZ": "UTC",
+            "image_url": "https://staticimg.amarujala.com/assets/images/4cplus/2025/06/10/sahavara-ma-aayajata-saparanae-samathhana-thavasa-ma-farayathaya-ka-samasayae-sanata-daema_26433d273fc72ae00a0de221e77ff53b.jpeg?dpr=1.0&q=80&w=414",
+            "video_url": null,
+            "source_id": "amarujala",
+            "source_name": "Amar Ujala",
+            "source_priority": 55215,
+            "source_url": "https://www.amarujala.com",
+            "source_icon": "https://n.bytvi.com/amarujala.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "2cf4174b377f5cd3e76551291dff4e42",
+            "title": "नारनौल में डायल 112 गाड़ी मकान में घुसी, महिला बाल-बाल बची",
+            "link": "https://www.dainiktribuneonline.com/news/karnal/dial-112-vehicle-entered-a-house-in-narnaul-woman-narrowly-escaped/",
+            "keywords": [
+                "हरियाणा",
+                "करनाल",
+                "रोहतक",
+                "डायल-112",
+                "सड़क हादसा",
+                "महिला बाल-बाल बची",
+                "गुरुग्राम",
+                "एनडी टू पंप हाउस"
+            ],
+            "creator": [
+                "Kavita Raj"
+            ],
+            "description": "नारनौल, 9 जून (हप्र) : नारनौल में एक महिला बाल-बाल बची जब पुलिस की गाड़ी डायल 112 सुबह करीब साढ़े पांच बजे नहर के पास एनडी टू पंप हाउस के नजदीक एक मकान में जा घुसी। इससे मकान मालिक को लाखों रुपये का नुकसान हुआ है। वहीं डायल 112 में बैठे ड्राइवर व अन्य पुलिसकर्मी [...]The post नारनौल में डायल 112 गाड़ी मकान में घुसी, महिला बाल-बाल बची appeared first on dainiktribuneonline.com.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-09 20:14:31",
+            "pubDateTZ": "UTC",
+            "image_url": "https://dainiktribuneonline.imagibyte.sortdcdn.net/wp-content/uploads/2025/06/1090678CD-_09NM16-768x339.jpg",
+            "video_url": null,
+            "source_id": "dainiktribuneonline",
+            "source_name": "Breaking News In Hindi Online",
+            "source_priority": 465842,
+            "source_url": "https://www.dainiktribuneonline.com",
+            "source_icon": "https://n.bytvi.com/dainiktribuneonline.jpg",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "366ff47d2f017b7887404d99168d96c2",
+            "title": "66 ‘illegal’ Bangladeshi immigrants detained from Wazirpur",
+            "link": "https://www.thehindu.com/news/cities/Delhi/66-illegal-bangladeshi-immigrants-detained-from-wazirpur/article69676207.ece",
+            "keywords": [
+                "delhi"
+            ],
+            "creator": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-09 20:14:30",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+            "video_url": null,
+            "source_id": "thehindu",
+            "source_name": "The Hindu",
+            "source_priority": 2972,
+            "source_url": "https://www.thehindu.com",
+            "source_icon": "https://n.bytvi.com/thehindu.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "2f9bcf841103fe85fc44ba88a7de062a",
+            "title": "Portugal Without Cristiano Ronaldo vs With Ronaldo: Milestones You Didn’t Know Existed",
+            "link": "https://www.timesnownews.com/sports/football/portugal-without-cristiano-ronaldo-vs-with-ronaldo-milestones-you-didnt-know-existed-photo-gallery-151822667",
+            "keywords": null,
+            "creator": [
+                "Times Now Digital"
+            ],
+            "description": "Cristiano Ronaldo didn’t just play for Portugal; he changed their entire footballing identity. The before-and-after of Portugal’s footballing history starts and ends with one name: Cristiano Ronaldo. His story is no longer just his; it belongs to every Portuguese fan.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-09 20:14:30",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.timesnownews.com/thumb/msid-151822667,imgsize-54330,width-1280,height-720/151822667.jpg",
+            "video_url": null,
+            "source_id": "timesnownews",
+            "source_name": "Times Now News",
+            "source_priority": 2243,
+            "source_url": "https://www.timesnownews.com",
+            "source_icon": "https://n.bytvi.com/timesnownews.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "0d551317815e2bf4ac0d3032a8a133dc",
+            "title": "Rampur News: बंदरों के हमले में बालक घायल",
+            "link": "https://www.amarujala.com/uttar-pradesh/rampur/child-injured-in-monkey-attack-rampur-news-c-282-1-rmp1005-147286-2025-06-10",
+            "keywords": null,
+            "creator": null,
+            "description": "बंदरों के हमले में बालक घायल",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-09 20:14:29",
+            "pubDateTZ": "UTC",
+            "image_url": "https://staticimg.amarujala.com/assets/images/2021/12/02/rampur_1638431627.jpeg?dpr=1.0&q=80&w=414",
+            "video_url": null,
+            "source_id": "amarujala",
+            "source_name": "Amar Ujala",
+            "source_priority": 55215,
+            "source_url": "https://www.amarujala.com",
+            "source_icon": "https://n.bytvi.com/amarujala.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "c69b8bc8a4f3cf37396910d8f6715836",
+            "title": "RBI Mulls Norms to Curb Insurance Mis-selling",
+            "link": "https://www.deccanchronicle.com/business/economics/rbi-mulls-norms-to-curb-insurance-mis-selling-1884344",
+            "keywords": [
+                "business,economy"
+            ],
+            "creator": [
+                "Falaknaaz Syed"
+            ],
+            "description": "Deputy Governor warns banks, NBFCs over insurance mis-selling and microfinance excesses",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-09 20:14:17",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.deccanchronicle.com/h-upload/2025/06/09/1926137-rbideputygovernor.webp",
+            "video_url": null,
+            "source_id": "deccanchronicle",
+            "source_name": "Deccan Chronicle",
+            "source_priority": 21568,
+            "source_url": "https://www.deccanchronicle.com",
+            "source_icon": "https://n.bytvi.com/deccanchronicle.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "e2572287bb589d4af665811025c19443",
+            "title": "Juror Dissent Sparks Tension in Weinstein Retrial",
+            "link": "https://www.devdiscourse.com/article/law-order/3452994-juror-dissent-sparks-tension-in-weinstein-retrial",
+            "keywords": null,
+            "creator": null,
+            "description": "Juror Dissent Sparks Tension in Weinstein Retrial Tension escalated in Harvey Weinstein's sex crimes retrial as the jury foreperson expressed concerns about deliberations, prompting calls for a mistrial. Defense attorney Arthur Aidala described the jury as 'tainted,' alleging that jurors were prodding others and considering external information.Prosecutor Matthew Colangelo countered that the current issues do not warrant a mistrial, emphasizing that certain aspects of Weinstein's past were permitted in evidence. Despite requests for a mistrial, Judge Curtis Farber insisted that jurors concentrate only on trial-presented evidence.The jury, comprising seven women and five men, continues to deliberate on Weinstein's case, which includes charges of criminal sex acts and rape. This follows Weinstein's overturned 2020 conviction and new proceedings involving additional allegations and different judicial oversight.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-09 20:14:14",
+            "pubDateTZ": "UTC",
+            "image_url": "https://devdiscourse.blob.core.windows.net/devnews/04_05_2025_14_59_17_4057746.jpg",
+            "video_url": null,
+            "source_id": "devdiscourse",
+            "source_name": "Devdiscourse",
+            "source_priority": 566021,
+            "source_url": "https://www.devdiscourse.com",
+            "source_icon": "https://n.bytvi.com/devdiscourse.jpg",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "29997fee3dfb5c7e161c8d8b4b2b6ff6",
+            "title": "Udhampur News: तीन दिवसीय बाबा जित्तो मेला आज से",
+            "link": "https://www.amarujala.com/jammu-and-kashmir/udhampur/baba-jitto-fair-from-today-katra-news-c-309-1-sjam1002-101979-2025-06-10",
+            "keywords": null,
+            "creator": null,
+            "description": "तीन दिवसीय बाबा जित्तो मेला आज से",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-09 20:14:13",
+            "pubDateTZ": "UTC",
+            "image_url": "https://staticimg.amarujala.com/assets/images/4cplus/2025/06/10/bb-jatata-va-baa-kaugdha-ka-vashal-paratama_4c986d215c2542da72e24e60cd68af93.jpeg?dpr=1.0&q=80&w=414",
+            "video_url": null,
+            "source_id": "amarujala",
+            "source_name": "Amar Ujala",
+            "source_priority": 55215,
+            "source_url": "https://www.amarujala.com",
+            "source_icon": "https://n.bytvi.com/amarujala.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "ac3948fec05cb0d1dd5344a06346a456",
+            "title": "World News | Foreperson's Complaints Signal a Divided Jury at Harvey Weinstein's Retrial",
+            "link": "https://www.latestly.com/agency-news/world-news-forepersons-complaints-signal-a-divided-jury-at-harvey-weinsteins-retrial-6916550.html",
+            "keywords": null,
+            "creator": null,
+            "description": "Get latest articles and stories on World at LatestLY. The foreperson of the jury deliberating in Harvey Weinstein's sex crimes retrial told the judge on Monday that some jurors are ganging up, prodding others to change their minds and citing information that was not part of the trial.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-09 20:14:07",
+            "pubDateTZ": "UTC",
+            "image_url": "https://st1.latestly.com/wp-content/uploads/2020/10/Latestly-World-News-380x214.jpg",
+            "video_url": null,
+            "source_id": "latestly",
+            "source_name": "Latestly",
+            "source_priority": 31923,
+            "source_url": "https://www.latestly.com",
+            "source_icon": "https://n.bytvi.com/latestly.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "c666e7826113905001811f2b90e7921e",
+            "title": "कंबोड़िया में करनावल के युवक की संदिग्ध हालात में मौत",
+            "link": "https://www.amarujala.com/uttar-pradesh/meerut/karnaval-youth-dies-under-suspicious-circumstances-in-cambodia-sardana-news-c-44-1-smrt1055-108533-2025-06-10",
+            "keywords": null,
+            "creator": null,
+            "description": "कंबोडिया में नौकरी करने गए कस्बा करनावल निवासी तनिष्क (20) पुत्र विपिन की संदिग्ध हालात में मौत हो गई। सूचना पर परिजन विदेश पहुंचे और युवक का शव को लेकर लौट आए।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-09 20:13:59",
+            "pubDateTZ": "UTC",
+            "image_url": "https://staticimg.amarujala.com/assets/images/2025/04/09/meerut-city_a0037c4ffcd363a6ae834749b5971756.jpeg?dpr=1.0&q=80&w=414",
+            "video_url": null,
+            "source_id": "amarujala",
+            "source_name": "Amar Ujala",
+            "source_priority": 55215,
+            "source_url": "https://www.amarujala.com",
+            "source_icon": "https://n.bytvi.com/amarujala.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "51d78de2a83207bcbaa269374c273231",
+            "title": "ऑटो में 40 हजार चुराने वाले बदमाश का एनकाउंटर:झांसी पुलिस ने पैर में गोली मारी, बहनोई-भाई ने हाथ खड़े कर सरेंडर किया",
+            "link": "https://www.bhaskar.com/local/uttar-pradesh/jhansi/news/encounter-of-a-miscreant-who-stole-40-thousand-rupees-in-an-auto-135203567.html",
+            "keywords": null,
+            "creator": null,
+            "description": "झांसी में ई-रिक्सा में यात्री के 40 हजार रुपए चुराने वाले बदमाश का पुलिस ने सोमवार देर रात एनकाउंटर कर दिया। उसके दाहिने पैर में गोली लगी है, जबकि उसके बहनोई और चचेरे भाई ने हाथ खड़े करके सरेंडर कर दिया। तीनों उरई के रहने वाले हैं और झांसी आकर वाहनों में जेब काटकर चोरी करते थे। सीसीटीवी कैमरे की फुुटेज मिलने के बाद पुलिस उनकी तलाश में जुटी थी। मुखबिर की सूचना पर पुलिस ने मुठभेड़ में तीनों को अरेस्ट कर लिया। उनसे चोरी के 36,250 रुपए, 3 तमंचे, कारतूस, बाइक बरामद हुई है। मुठभेड़ नवाबाद थाना क्षेत्र के करगुवांजी से भगवंतपुरा जाने वाले कच्चे रास्ते पर हुई है। अब पूरा मामला विस्तार से जानते हैं पुलिस ने घेराबंदी की तो चलाने लगे गोली एसपी सिटी ज्ञानेंद्र कुमार सिंह ने बताया कि ई-रिक्शा में यात्री के 40 हजार रुपए चोरी हो गए थे। सीसीटीवी कैमरे की मदद से 3 आरोपियों को चिहिन्त कर लिया था। जिनकी गिरफ्तारी के प्रयास किए जा रहे थे। सोमवार देर रात सूचना मिली कि आरोपी करगुवांजी से भगवंतपुरा की ओर जाने वाले हैं। इस पर नवाबाद थाना प्रभारी संतोष और स्वाट टीम प्रभारी जितेंद्र तक्खर पुलिस टीम के साथ बरिया की पहाड़िया पर चेकिंग करने लगे। थोड़ी देर बाद ये आरोपी बाइक से आते हुए दिखाई दिए। जब इनको रुकने का इशारा किया तो बाइक मोड़कर जंगल की तरफ भागने लगे। पुलिस ने घेराबंदी की तो फायरिंग करने लगे। काउंटर अटैक में उरई के कंजड़ कॉलोनी निवासी विपिन (36) पुत्र अशोक के पैर में गोली लगी। जबकि उसके बहनोई कमल (22) पुत्र बबलू और चचेरे भाई दीपक (22) पुत्र संतराम ने सरेंडर कर दिया। घायल विपिन को मेडिकल कॉलेज में एडमिट करवाया गया है। टायर खरीदने जा रहा था युवक गुमनावारा निवासी अरविंद राजपूत पुत्र राजाराम राजपूत 8 जून को ई-रिक्शा में सवार हुए। वे गोविंद चौराहा से टायर लेने के लिए जा रहे थे। ई-रिक्शा में पहले से ही तीनों बदमाश बैठे हुए थे। तीनों ने अरविंद की जेब काटकर 40 हजार रुपए च कागजात निकाल लिए थे। अरविंद की तहरीर पर नवाबाद पुलिस ने अज्ञात के खिलाफ केस दर्ज किया था। घटना के बाद सीसीटीवी कैमरे चेक किए गए। इसमें आरोपी रिकॉर्ड हो गए थे। परिवार के लोगों का बनाया गैंग गैंग का मास्टरमाइंड विपिन है। उसके ऊपर जालौन, मेरठ, कानपुर देहात, लखनऊ में चोरी व लूट के 13 केस दर्ज हैं। वह 2024 में जेल से जमानत पर छूटा था। इसके बाद भाई और बहनोई को गैंग में शामिल कर लिया। तीनों बाइक से झांसी आते थे और वारदात करके वापस चले जाते थे। कई मामलों में पीड़ित ही थाने में शिकायत लेकर नहीं आए।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-09 20:13:54",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.bhaskarassets.com/thumb/1000x1000/web2images/521/2025/06/10/new-project-66_1749499508.jpg",
+            "video_url": null,
+            "source_id": "bhaskar_hindi",
+            "source_name": "Bhaskar",
+            "source_priority": 34179,
+            "source_url": "https://www.bhaskar.com",
+            "source_icon": "https://n.bytvi.com/bhaskar_hindi.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top",
+                "domestic"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "d851fa1bcc603fcf5397cb5b7f56c867",
+            "title": "शिलांग में हुए राजा रघुवंशी हत्याकांड का पर्दाफाश...",
+            "link": "https://paliwalwani.com/crime/king-raghuvanshi-massacre-in-shillong-exposed",
+            "keywords": null,
+            "creator": [
+                "Paliwalwani"
+            ],
+            "description": "अनिल पुरोहित इंदौर. खुल गया राजा की मौत का राज...! 5 साल छोटे कर्मचारी से था सोनम का अफेयर, इंदौर कपल केस में सामने आए कई चौंकाने वाले खुलासे. इंदौर के राजा रघुवंशी हत्याकांड में तीन राज्यों का नाम जुड़ने से यह काफी चर्चा में है। गाजीपुर के एक ढाबा में राजा रघुवंशी की पत्नी सोनम के पकड़ में आने के बाद राजा की हत्या का प्रकरण सामने आया। इस हत्याकांड में अब ललितपुर से एक युवक आकाश को गिरफ्तार...",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-09 20:13:53",
+            "pubDateTZ": "UTC",
+            "image_url": null,
+            "video_url": null,
+            "source_id": "paliwalwani",
+            "source_name": "Paliwalwani",
+            "source_priority": 15760072,
+            "source_url": "https://www.paliwalwani.com",
+            "source_icon": "https://n.bytvi.com/paliwalwani.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "175ad00fa3332ef0dd175af3ed6671a1",
+            "title": "Suvendu leads BJP rally on Anubrata turf",
+            "link": "https://timesofindia.indiatimes.com/city/kolkata/suvendu-leads-bjp-rally-on-anubrata-turf/articleshow/121737449.cms",
+            "keywords": null,
+            "creator": [
+                "Rohit Khanna"
+            ],
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-09 20:13:51",
+            "pubDateTZ": "UTC",
+            "image_url": "https://static.toiimg.com/thumb/msid-121737447,width-1070,height-580,imgsize-41076,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "video_url": null,
+            "source_id": "toi",
+            "source_name": "The Times Of India",
+            "source_priority": 239,
+            "source_url": "https://timesofindia.indiatimes.com",
+            "source_icon": "https://n.bytvi.com/toi.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "43b22422e83073be642fd4d63823196d",
+            "title": "Crime Surges as Kurnool Lacks Cyber Police Station",
+            "link": "https://www.deccanchronicle.com/southern-states/andhra-pradesh/crime-surges-as-kurnool-lacks-cyber-police-station-1884343",
+            "keywords": [
+                "southern states,andhra pradesh"
+            ],
+            "creator": [
+                "P.V. Prasad"
+            ],
+            "description": "Cyber crime wing has registered 114 cases and recovered Rs 4.06 crore from fraudsters in last three years against total reported losses of Rs 13.37 crore — just about 30 per cent of the total.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-09 20:13:47",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.deccanchronicle.com/h-upload/2025/03/12/1913564-fraud.webp",
+            "video_url": null,
+            "source_id": "deccanchronicle",
+            "source_name": "Deccan Chronicle",
+            "source_priority": 21568,
+            "source_url": "https://www.deccanchronicle.com",
+            "source_icon": "https://n.bytvi.com/deccanchronicle.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "b9ec0bfac6572d2ac39bfd32c7e663a6",
+            "title": "TMC slams BJP over ‘sindoor-selling’ remark",
+            "link": "https://timesofindia.indiatimes.com/city/kolkata/tmc-slams-bjp-over-sindoor-selling-remark/articleshow/121737445.cms",
+            "keywords": null,
+            "creator": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-09 20:13:44",
+            "pubDateTZ": "UTC",
+            "image_url": "https://static.toiimg.com/thumb/msid-121737442,width-1070,height-580,imgsize-13128,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "video_url": null,
+            "source_id": "toi",
+            "source_name": "The Times Of India",
+            "source_priority": 239,
+            "source_url": "https://timesofindia.indiatimes.com",
+            "source_icon": "https://n.bytvi.com/toi.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "d176bfabd1b0d170c8962030d748b47b",
+            "title": "Panchkula News: कुत्ते की मौत के मामले में एफआईआर दर्ज करने की मांग",
+            "link": "https://www.amarujala.com/haryana/panchkula/demand-to-register-fir-in-the-case-of-dogs-death-panchkula-news-c-290-1-pkl1068-17734-2025-06-10",
+            "keywords": null,
+            "creator": null,
+            "description": "कुत्ते की मौत के मामले में एफआईआर दर्ज करने की मांग",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-09 20:13:44",
+            "pubDateTZ": "UTC",
+            "image_url": "https://staticimg.amarujala.com/assets/images/2021/10/12/panchkula_1634042987.jpeg?dpr=1.0&q=80&w=414",
+            "video_url": null,
+            "source_id": "amarujala",
+            "source_name": "Amar Ujala",
+            "source_priority": 55215,
+            "source_url": "https://www.amarujala.com",
+            "source_icon": "https://n.bytvi.com/amarujala.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "1a09550fd02b1524630e46fc296e4b9f",
+            "title": "House session starts with tributes to terror victims",
+            "link": "https://timesofindia.indiatimes.com/city/kolkata/house-session-starts-with-tributes-to-terror-victims/articleshow/121737444.cms",
+            "keywords": null,
+            "creator": [
+                "Krishnendu Bandopadhyay"
+            ],
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-09 20:13:44",
+            "pubDateTZ": "UTC",
+            "image_url": "https://static.toiimg.com/thumb/msid-121737440,width-1070,height-580,imgsize-74592,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "video_url": null,
+            "source_id": "toi",
+            "source_name": "The Times Of India",
+            "source_priority": 239,
+            "source_url": "https://timesofindia.indiatimes.com",
+            "source_icon": "https://n.bytvi.com/toi.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
             "article_id": "9efb6ebdc13259167ff482a710d8e0fd",
             "title": "अमेरिका में चीन से समुद्री आयात में भारी गिरावट",
             "link": "https://jantaserishta.com/world/a-sharp-decline-in-us-seaborne-imports-from-china-4070829",
