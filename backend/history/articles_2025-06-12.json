@@ -1,6 +1,678 @@
 {
     "articles": [
         {
+            "article_id": "5b6ce2621e52b8de5a691e839b40b711",
+            "title": "Apple's F1 movie trailer makes you feel like you're inside a Formula One car",
+            "link": "https://timesofindia.indiatimes.com/technology/tech-news/apples-f1-movie-trailer-makes-you-feel-like-youre-inside-a-formula-one-car/articleshow/121808269.cms",
+            "keywords": null,
+            "creator": null,
+            "description": "Apple has released a groundbreaking haptic trailer for Brad Pitt's upcoming F1 movie, utilizing the iPhone's Taptic Engine to create immersive vibrations. Available on iPhones running iOS 18.4 or later through the Apple TV app, the trailer syncs vibrations with on-screen action, from subtle seatbelt clicks to intense race car rumbles.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-12 16:18:59",
+            "pubDateTZ": "UTC",
+            "image_url": "https://static.toiimg.com/thumb/msid-121808388,width-1070,height-580,imgsize-959368,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "video_url": null,
+            "source_id": "toi",
+            "source_name": "The Times Of India",
+            "source_priority": 239,
+            "source_url": "https://timesofindia.indiatimes.com",
+            "source_icon": "https://n.bytvi.com/toi.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "88311580aca2d6d6d6bd0ce6540c069e",
+            "title": "Plane Had 1 Lakh Litres Of Fuel, No Opportunity To Save Anyone: Amit Shah",
+            "link": "https://www.ndtv.com/india-news/temperature-because-of-burning-fuel-was-so-high-there-was-no-opportunity-to-save-anyone-amit-shah-on-ahmedabad-crash-8653130",
+            "keywords": [
+                "all india"
+            ],
+            "creator": null,
+            "description": "Temperature because of burning fuel was so high, there was no opportunity to save anyone: Amit Shah on Ahmedabad crash",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-12 16:18:56",
+            "pubDateTZ": "UTC",
+            "image_url": null,
+            "video_url": null,
+            "source_id": "ndtv",
+            "source_name": "Ndtv",
+            "source_priority": 1204,
+            "source_url": "http://www.ndtv.com",
+            "source_icon": "https://n.bytvi.com/ndtv.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "f15fa45723f8f5683b696173ce5029b1",
+            "title": "The ‘Mid-Day’ front page: An uncanny coincidence on the day of the Air India crash - financialexpress.com",
+            "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPNXlseXpkLWlrakp0RTZyTnZCazNWSVdBQm9ZVWZUWVU4VGlZZlBoc3BpcEZ6ZUNmYTJLS3g2TEYwR05DLTd4VkxrWm50VFl0YWFTZ2pfejlmNm43WEgwZElqckVnZk9PemdvN2huMVkwTWJhanBwUDJMRHI3Y2RmNHJYeVM5cWJPSGE2cVhQdGxIOFVKMzVpRXNUeGZVX3BoRVZSUk9GX2I2SGprTXRKbXRwTHRLdDdYbVpZNVRiNXJYZGFZYm9sTWJ5NjM?oc=5",
+            "keywords": null,
+            "creator": null,
+            "description": "The ‘Mid-Day’ front page: An uncanny coincidence on the day of the Air India crash financialexpress.com",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-12 16:18:46",
+            "pubDateTZ": "UTC",
+            "image_url": null,
+            "video_url": null,
+            "source_id": "google",
+            "source_name": "Google News",
+            "source_priority": 14,
+            "source_url": "https://news.google.com",
+            "source_icon": "https://n.bytvi.com/google.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "business"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "fb68603e6c6f32d1e00b1359004293ce",
+            "title": "मध्य पूर्व तनाव के बीच तेल की बढ़ती कीमतों पर ट्रम्प ने जताई चिंता",
+            "link": "https://hi.investing.com/news/commodities-news/article-93CH-489864",
+            "keywords": null,
+            "creator": [
+                "Investing.com"
+            ],
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-12 16:18:42",
+            "pubDateTZ": "UTC",
+            "image_url": null,
+            "video_url": null,
+            "source_id": "investing_hi",
+            "source_name": "Investing भारत",
+            "source_priority": 1143,
+            "source_url": "https://hi.investing.com",
+            "source_icon": "https://n.bytvi.com/investing_hi.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "6e2bad135b88b3bed206b0dd6313e466",
+            "title": "Carnival Cruise brawl turns chaotic as chairs fly — passengers banned for life after wild onboard fight",
+            "link": "https://economictimes.indiatimes.com/news/international/us/carnival-cruise-brawl-turns-chaotic-as-chairs-fly-passengers-banned-for-life-after-wild-onboard-fight-travel-news/articleshow/121807518.cms",
+            "keywords": null,
+            "creator": null,
+            "description": "Carnival Sunrise cruise turned chaotic when a brawl erupted on the Lido Deck, leading to lifetime bans for the involved passengers. The incident occurred near Half Moon Cay in the Bahamas, prompting swift action from the cruise line's security.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-12 16:18:42",
+            "pubDateTZ": "UTC",
+            "image_url": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-70872,resizemode-75,msid-121807518/news/international/us/carnival-cruise-brawl-turns-chaotic-as-chairs-fly-passengers-banned-for-life-after-wild-onboard-fight-travel-news.jpg",
+            "video_url": null,
+            "source_id": "economictimes_indiatimes",
+            "source_name": "The Economic Times",
+            "source_priority": 231,
+            "source_url": "https://economictimes.indiatimes.com",
+            "source_icon": "https://n.bytvi.com/economictimes_indiatimes.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "world"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "cf1bb13a5ccb1e62435e3a4d2e183106",
+            "title": "जर्मनी के उद्योग संघ ने दुर्लभ पृथ्वी तत्वों की आपूर्ति में आई समस्याओं का किया खुलासा",
+            "link": "https://jantaserishta.com/world/german-industry-association-reveals-problems-in-the-supply-of-rare-earth-elements-4077320",
+            "keywords": [
+                "विश्व"
+            ],
+            "creator": [
+                "Riyaz Ansari"
+            ],
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-12 16:18:41",
+            "pubDateTZ": "UTC",
+            "image_url": "https://jantaserishta.com/h-upload/2025/06/12/4668348-car-fac.webp",
+            "video_url": null,
+            "source_id": "jantaserishta",
+            "source_name": "Janta Se Rishta",
+            "source_priority": 81836,
+            "source_url": "https://jantaserishta.com",
+            "source_icon": "https://n.bytvi.com/jantaserishta.jpg",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "world"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "3189f5d33ba35736bc19af8cf581d91c",
+            "title": "राज्य सरकार पर्याप्त और गुणवत्तापूर्ण विद्युत आपूर्ति सुनिश्चित करने के लिए प्रतिबद्ध : हीरालाल नागर",
+            "link": "https://www.khaskhabar.com/local/rajasthan/balotra-news/news-state-government-committed-to-ensure-adequate-and-quality-power-supply-hiralal-nagar-news-hindi-1-728613-KKN.html",
+            "keywords": null,
+            "creator": [
+                "khas khabar"
+            ],
+            "description": "राजस्थान सरकार के ऊर्जा विभाग के राज्यमंत्री हीरालाल नागर ने अपने बालोतरा जिले के दौरान विद्युत विभाग के अधिकारियों के साथ एक समीक्षा बैठक की...",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-12 16:18:38",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.khaskhabar.com/s3-storage/khaskhabar/khaskhabarimages/img500/62-76-1749745118-728613-khaskhabar.jpg",
+            "video_url": null,
+            "source_id": "khaskhabar",
+            "source_name": "Khas Khabar",
+            "source_priority": 5174519,
+            "source_url": "https://www.khaskhabar.com",
+            "source_icon": "https://n.bytvi.com/khaskhabar.jpg",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "80a523e6d920f9691f34935e5fb1cb52",
+            "title": "Bangladesh appoint Mehidy Hasan Miraz as ODI captain for one year during 'transitional time'",
+            "link": "https://www.firstpost.com/firstcricket/bangladesh-mehidy-hasan-miraz-appointed-odi-captain-13896654.html",
+            "keywords": [
+                "first cricket"
+            ],
+            "creator": [
+                "Vishal Tiwari"
+            ],
+            "description": "Mehidy Hasan Miraz has been named Bangladesh's ODI captain for one year, with the upcoming three-match series against Sri Lanka being his first assignment. The 27-year-old all-rounder has replaced Najmul Hossain Shanto.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-12 16:18:35",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.firstpost.com/uploads/2025/02/india-vs-bangladesh-2025-02-0238cc4a696088cad670a43f28d8c15f-1200x675.jpg",
+            "video_url": null,
+            "source_id": "firstpost",
+            "source_name": "Firstpost",
+            "source_priority": 5906,
+            "source_url": "https://www.firstpost.com",
+            "source_icon": "https://n.bytvi.com/firstpost.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "sports"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "d69568310be99c370cbaef105863795f",
+            "title": "Madhya Pradesh leaders express grief over plane crash in Gujarat’s Ahmedabad",
+            "link": "https://thenewsmill.com/2025/06/madhya-pradesh-leaders-express-grief-over-plane-crash-in-gujarats-ahmedabad/",
+            "keywords": [
+                "northeast india",
+                "meghalaya",
+                "ani"
+            ],
+            "creator": [
+                "ANI"
+            ],
+            "description": "The News Mill",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-12 16:18:34",
+            "pubDateTZ": "UTC",
+            "image_url": "https://thenewsmill.com/wp-content/uploads/2025/06/ANI-20250612161713.jpg",
+            "video_url": null,
+            "source_id": "thenewsmill",
+            "source_name": "The News Mill",
+            "source_priority": 379053,
+            "source_url": "https://thenewsmill.com",
+            "source_icon": "https://n.bytvi.com/thenewsmill.jpg",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "4d8b142e224dadd6683387f15027082b",
+            "title": "Davie to acquire Gulf Copper’s Texas shipyards, expand US icebreaker fleet",
+            "link": "https://finance.yahoo.com/news/davie-acquire-gulf-copper-texas-161832688.html",
+            "keywords": null,
+            "creator": [
+                "Ship Technology"
+            ],
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-12 16:18:32",
+            "pubDateTZ": "UTC",
+            "image_url": null,
+            "video_url": null,
+            "source_id": "yahoo",
+            "source_name": "Yahoo! News",
+            "source_priority": 17,
+            "source_url": "https://news.yahoo.com",
+            "source_icon": "https://n.bytvi.com/yahoo.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "business"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "53483362b4326ac0cfff83a2c1ef3d9d",
+            "title": "Ahmedabad-London Air India Plane Hits Building After Takeoff",
+            "link": "https://www.businesstoday.in/bt-tv/short-video/ahmedabad-london-air-india-plane-hits-building-after-takeoff-480230-2025-06-12",
+            "keywords": null,
+            "creator": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-12 16:18:31",
+            "pubDateTZ": "UTC",
+            "image_url": "https://akm-img-a-in.tosshub.com/businesstoday/images/short_video/202506/insta_29-sixteen_nine.jpg",
+            "video_url": null,
+            "source_id": "businesstoday",
+            "source_name": "Business News India",
+            "source_priority": 5073,
+            "source_url": "https://www.businesstoday.in",
+            "source_icon": "https://n.bytvi.com/businesstoday.jpg",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "b8626413d96b50767e04607e446890b7",
+            "title": "Allahabad HC asks UP govt to form panel over online gaming, betting regulation",
+            "link": "https://www.siasat.com/allahabad-hc-asks-up-govt-to-form-panel-over-online-gaming-betting-regulation-3232367/",
+            "keywords": [
+                "uttar pradesh",
+                "india",
+                "racket",
+                "court",
+                "agra",
+                "gambling"
+            ],
+            "creator": null,
+            "description": "Prayagraj: The Allahabad High Court has directed the Uttar Pradesh government to constitute a high-powered committee to examine whether there was a need to regulate online gaming and betting. Justice Vinod Diwaker’s direction came after he observed that the existing Public Gambling Act, 1867 was a colonial-era law that addresses only conventional forms of gambling ...Get the latest updates in Hyderabad City News, Technology, Entertainment, Sports, Politics and Top Stories on WhatsApp & Telegram by subscribing to our channels. You can also download our app for Android and iOS.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-12 16:18:30",
+            "pubDateTZ": "UTC",
+            "image_url": "https://cdn.siasat.com/wp-content/uploads/2025/05/Untitled-design-2025-05-15T195759.079.jpg",
+            "video_url": null,
+            "source_id": "siasat",
+            "source_name": "Siasat.com",
+            "source_priority": 30879,
+            "source_url": "https://www.siasat.com",
+            "source_icon": "https://n.bytvi.com/siasat.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": true
+        },
+        {
+            "article_id": "e321f6e53e904d61cb45d36fe3575ba5",
+            "title": "रात में ससुर ने की विधवा बहू की हत्या, मौके से भागा, वजह जान सिहर गई पुलिस",
+            "link": "https://hindi.news18.com/news/madhya-pradesh/morena-sasur-shot-dead-widow-bahu-at-night-runs-away-from-scene-in-morena-police-got-terrified-to-know-murder-reason-ws-kl-9305285.html",
+            "keywords": [
+                "मध्य प्रदेश"
+            ],
+            "creator": [
+                "Chaturesh Tiwari"
+            ],
+            "description": "MP News : मुरैना के सिविल लाइन थाना क्षेत्र के सिकरौदा नहर के पास ज्ञान सिंह गुर्जर अपने परिवार के साथ रह रहा था. एक साल पहले उसके बेटे की मौत हो गई. बेटे की मौत के बाद से ही ससुर विधवा बहू पर दूसरी शादी का दबाव बना रहा था. बहू दूसरी शादी नहीं करना चाहती थी.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-12 16:18:27",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.news18.com/ibnkhabar/uploads/2025/06/Morena-news-2025-06-0468cbd133dcd478934330043b2efb46-3x2.jpg",
+            "video_url": null,
+            "source_id": "hindinews18",
+            "source_name": "News 18 Hindi",
+            "source_priority": 4077,
+            "source_url": "https://hindi.news18.com",
+            "source_icon": "https://n.bytvi.com/hindinews18.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "f49bfab8fa624f01280e3259f98f5801",
+            "title": "Air India Plane Crash: एयर इंडिया विमान हादसे पर आई पाकिस्तान की प्रतिक्रिया, जानें क्या कहा?",
+            "link": "https://www.prabhatkhabar.com/world/pakistan-reaction-on-air-india-plane-crash",
+            "keywords": [
+                "world news",
+                "air india",
+                "world",
+                "ahmedabad plane crash",
+                "top stories 2"
+            ],
+            "creator": [
+                "ArbindKumar Mishra"
+            ],
+            "description": "Air India Plane Crash: अहमदाबाद में गुरुवार को एयर इंडिया का एक यात्री विमान रिहायशी इलाके में दुर्घटनाग्रस्त हो गया. विमान में 242 लोग सवार थे. हादसे में गुजरात के पूर्व मुख्यमंत्री विजय रूपाणी की मौत हो गई है. हालांकि अब तक कुल कितने लोगों की मौत हुई है, इसके बारे में कोई जानकारी नहीं दी गई है. विमान हादसे पर संयुक्त राष्ट्र महासचिव एंटोनियो गुतारेस सहित दुनिया भर के नेताओं ने शोक जताया है. हादसे पर पाकिस्तान से भी प्रतिक्रिया आई है. The post Air India Plane Crash: एयर इंडिया विमान हादसे पर आई पाकिस्तान की प्रतिक्रिया, जानें क्या कहा? appeared first on Prabhat Khabar.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-12 16:18:24",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.prabhatkhabar.com/wp-content/uploads/2025/06/Pakistan-Prime-Minister-Shahbaz-Sharif.jpg",
+            "video_url": null,
+            "source_id": "prabhatkhabar",
+            "source_name": "Prabhat Khabar",
+            "source_priority": 343253,
+            "source_url": "https://www.prabhatkhabar.com",
+            "source_icon": "https://n.bytvi.com/prabhatkhabar.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "world"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "d95c383ef3cdbfa09bc045f9c1deea08",
+            "title": "World News | US-backed Israeli Company's Spyware Used to Target European Journalists, Citizen Lab Finds",
+            "link": "https://www.latestly.com/agency-news/world-news-us-backed-israeli-companys-spyware-used-to-target-european-journalists-citizen-lab-finds-6923939.html",
+            "keywords": null,
+            "creator": null,
+            "description": "Get latest articles and stories on World at LatestLY. Spyware from a US-backed Israeli company was used to target the phones of at least three prominent journalists in Europe, two of whom are editors at an investigative news site in Italy, according to digital researchers at Citizen Lab, citing new forensic evidence of the attacks.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-12 16:18:22",
+            "pubDateTZ": "UTC",
+            "image_url": "https://st1.latestly.com/wp-content/uploads/2020/10/Latestly-World-News-380x214.jpg",
+            "video_url": null,
+            "source_id": "latestly",
+            "source_name": "Latestly",
+            "source_priority": 31923,
+            "source_url": "https://www.latestly.com",
+            "source_icon": "https://n.bytvi.com/latestly.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "f152c60b15ce24c08dc6954fba15db9b",
+            "title": "Wiaan Mulder Strikes Gold, Dismisses Travis Head For 9 In WTC Final | Watch",
+            "link": "https://www.news18.com/cricket/wiaan-mulder-strikes-gold-dismisses-travis-head-for-9-in-wtc-final-watch-ws-l-9382937.html",
+            "keywords": [
+                "cricket"
+            ],
+            "creator": null,
+            "description": "Wiaan Mulder dismissed Travis Head for nine runs, causing Australia's innings to collapse to 66/6 despite their lead.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-12 16:18:18",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.news18.com/ibnlive/uploads/2025/06/Untitled-design-10-2025-06-1437ccf88a9d759fbdac03664eebcfa2-3x2.jpg",
+            "video_url": null,
+            "source_id": "news18",
+            "source_name": "News 18",
+            "source_priority": 1063,
+            "source_url": "https://www.news18.com",
+            "source_icon": "https://n.bytvi.com/news18.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "sports"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "53eeb2aff88c9f6276780c1df57d0325",
+            "title": "Latest News | CM Saini Attends Meeting on Drone Technology's Use in Haryana",
+            "link": "https://www.latestly.com/agency-news/latest-news-cm-saini-attends-meeting-on-drone-technologys-use-in-haryana-6923938.html",
+            "keywords": null,
+            "creator": null,
+            "description": "Get latest articles and stories on Latest News at LatestLY. Key decisions on diverse applications of drone technology were taken in a meeting chaired by Chief Minister Nayab Singh Saini here on Thursday, the government said.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-12 16:18:17",
+            "pubDateTZ": "UTC",
+            "image_url": "https://st1.latestly.com/wp-content/uploads/2018/03/default-img-01-380x214.jpg",
+            "video_url": null,
+            "source_id": "latestly",
+            "source_name": "Latestly",
+            "source_priority": 31923,
+            "source_url": "https://www.latestly.com",
+            "source_icon": "https://n.bytvi.com/latestly.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "ef09fb0c1d5e831197347e81e0ad84dc",
+            "title": "India News | Talks with Pakistan Only when It Ends Terror, Says Union Minister Khattar",
+            "link": "https://www.latestly.com/agency-news/india-news-talks-with-pakistan-only-when-it-ends-terror-says-union-minister-khattar-6923936.html",
+            "keywords": null,
+            "creator": null,
+            "description": "Get latest articles and stories on India at LatestLY. India will not engage with Pakistan till the terrorism directed against the country keeps emanating from the neighbouring nation, Union Minister Manohar Lal Khattar said on Thursday.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-12 16:18:14",
+            "pubDateTZ": "UTC",
+            "image_url": "https://st1.latestly.com/wp-content/uploads/2018/03/default-img-01-784x441.jpg",
+            "video_url": null,
+            "source_id": "latestly",
+            "source_name": "Latestly",
+            "source_priority": 31923,
+            "source_url": "https://www.latestly.com",
+            "source_icon": "https://n.bytvi.com/latestly.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "159cda66a9663fbc7ec2e3fc4b8e826b",
+            "title": "Delhi CM reviews development work in North West parliamentary constituency",
+            "link": "https://www.thestatesman.com/cities/delhi-cm-reviews-development-work-in-north-west-parliamentary-constituency-1503444760.html",
+            "keywords": null,
+            "creator": null,
+            "description": "Delhi, Delhi CM Rekha Gupta, development work, North West, Parliamentary",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-12 16:18:13",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.thestatesman.com/wp-content/uploads/2025/06/Untitled-design-66-jpg.webp",
+            "video_url": null,
+            "source_id": "thestatesman",
+            "source_name": "The Statesman",
+            "source_priority": 42473,
+            "source_url": "https://www.thestatesman.com",
+            "source_icon": "https://n.bytvi.com/thestatesman.jpg",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "8d631669c564a0f9a015a9d07168788a",
+            "title": "IND vs ENG: इंग्लैंड में ऋषभ पंत का तहलका, छत तोड़ने वाले लगाए छक्के",
+            "link": "https://www.prabhatkhabar.com/sports/cricket/ind-vs-eng-rishabh-pant-creates-havoc-in-england-hits-roof-breaking-sixes",
+            "keywords": [
+                "cricket",
+                "shubman gill",
+                "rishabh pant‬",
+                "cricket news",
+                "india vs england",
+                "sports news"
+            ],
+            "creator": [
+                "AmleshNandan Sinha"
+            ],
+            "description": "IND vs ENG: भारतीय सितारे इंग्लैंड के खिलाफ टेस्ट सीरीज के लिए पूरी तरह तैयार हैं. युवाओं की टीम इंग्लैंड को चुनौती देने के लिए मैदान पर जमकर पसीना बहा रहे हैं. ऋषभ पंत को टीम का उपकप्तान बनाया गया है. वह भी अपना फॉर्म तलाश रहे हैं. अभ्यास के दौरान पंत बड़े-बड़े छक्के लगाते नजर आए है. उनके एक छक्के से एक इमारत की छत टूट गई है. The post IND vs ENG: इंग्लैंड में ऋषभ पंत का तहलका, छत तोड़ने वाले लगाए छक्के appeared first on Prabhat Khabar.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-12 16:18:11",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.prabhatkhabar.com/wp-content/uploads/2025/03/rishabh-pant-Viral-Video-.jpg",
+            "video_url": null,
+            "source_id": "prabhatkhabar",
+            "source_name": "Prabhat Khabar",
+            "source_priority": 343253,
+            "source_url": "https://www.prabhatkhabar.com",
+            "source_icon": "https://n.bytvi.com/prabhatkhabar.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "sports"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
             "article_id": "77161a3a317b35fc4037bdc1d9386b89",
             "title": "Who is Otto Kemp? Philadelphia Phillies name new first baseman after Bryce Harper injury",
             "link": "https://timesofindia.indiatimes.com/sports/mlb/news/who-is-otto-kemp-philadelphia-phillies-name-new-first-baseman-after-bryce-harper-injury/articleshow/121807759.cms",
