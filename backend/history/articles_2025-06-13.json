@@ -1,6 +1,672 @@
 {
     "articles": [
         {
+            "article_id": "9d233de55ce303946ea989a7fa26a45e",
+            "title": "Supreme Court Issues Notice To Karnataka For Ban On Kamal Haasan's Thug Life",
+            "link": "https://www.news18.com/movies/regional-cinema/supreme-court-issues-notice-to-karnataka-for-ban-on-kamal-haasan-thug-life-ws-l-9383920.html",
+            "keywords": [
+                "movies"
+            ],
+            "creator": null,
+            "description": "During the film’s audio launch, Kamal Haasan claimed that “Kannada is born out of Tamil”, sparking strong reactions in Karnataka.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-13 09:08:59",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.news18.com/ibnlive/uploads/2025/06/Untitled-design-2025-06-10T121642.872-2025-06-759212c29e0bfb0b8ac751b613cf95ba-3x2.jpg",
+            "video_url": null,
+            "source_id": "news18",
+            "source_name": "News 18",
+            "source_priority": 1063,
+            "source_url": "https://www.news18.com",
+            "source_icon": "https://n.bytvi.com/news18.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "entertainment"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "c437d4855260185ed9a76f2e1408a8d9",
+            "title": "कमाल हो गया! भारत में लॉन्च हुए 50MP कैमरा और 50000mAh बैटरी वाले नए स्मार्टफोन, दाम 10000 से कम",
+            "link": "https://www.jansatta.com/technology-news/lava-storm-lite-5g-storm-play-5g-launched-india-price-starting-from-rupees-7999-specifications-features-mediatek-dimensity-6400-chipset/4005765/",
+            "keywords": null,
+            "creator": [
+                "Jansatta"
+            ],
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-13 09:08:58",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.jansatta.com/wp-content/uploads/2025/06/Lava-Storm-5G.jpg",
+            "video_url": null,
+            "source_id": "jansatta",
+            "source_name": "Jansatta",
+            "source_priority": 385929,
+            "source_url": "https://www.jansatta.com",
+            "source_icon": "https://n.bytvi.com/jansatta.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "093a9c1ba423b898594eccfa0c8bba79",
+            "title": "महिला की आत्महत्या के सालभर बाद डायरी से खुला राज,'धोखेबाज प्रेमी' ने दी थी धमकी",
+            "link": "https://www.aajtak.in/india/maharashtra/story/up-man-booked-for-abetting-woman-suicide-in-bhiwandi-in-2024-lcltm-dskc-2263053-2025-06-13",
+            "keywords": null,
+            "creator": null,
+            "description": "ठाणे के भिवंडी शहर में एक महिला को आत्महत्या के लिए उकसाने के आरोप में एक व्यक्ति के खिलाफ मामला दर्ज किया गया है. हालांकि घटना मार्च 2024 में हुई थी, लेकिन महिला की बहन द्वारा हाल ही में दर्ज कराई गई शिकायत के आधार पर मामला दर्ज किया गया.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-13 09:08:57",
+            "pubDateTZ": "UTC",
+            "image_url": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202506/684bea7869a0e-police-team-130801974-16x9.jpg",
+            "video_url": null,
+            "source_id": "aajtak",
+            "source_name": "Aaj Tak",
+            "source_priority": 20158,
+            "source_url": "http://aajtak.in",
+            "source_icon": "https://n.bytvi.com/aajtak.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "0036487aa11d8dcdf8e391cbd2573acc",
+            "title": "अमीर बनते नहीं लगेगी देर, गरीबी भाग जाएगी कोसों दूर, उत्तर दिशा में रख दें ये 3 चीजें",
+            "link": "https://zeenews.india.com/hindi/religion/vastu-tips-will-become-rich-poverty-will-run-away-keep-these-3-things-in-the-north-direction-of-home/2799177",
+            "keywords": null,
+            "creator": [
+                "Zee News Hindi",
+                "Zee News हिन्दी"
+            ],
+            "description": "Vastu Tips: वास्तु शास्त्र के जानकार बताते हैं कि घर की उत्तर दिशा में कुछ चीजों को रखने से घर की तमाम नकारात्मकता दूर हो जाती है. साथ ही, आर्थिक तंगी से निजात मिलती है.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-13 09:08:55",
+            "pubDateTZ": "UTC",
+            "image_url": "https://hindi.cdn.zeenews.com/hindi/sites/default/files/2025/06/13/3982248-vastu-30.jpg?im=FitAndFill%3D%281200%2C900%29",
+            "video_url": null,
+            "source_id": "zeenews",
+            "source_name": "Zee News",
+            "source_priority": 5319,
+            "source_url": "http://zeenews.india.com",
+            "source_icon": "https://n.bytvi.com/zeenews.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "entertainment"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "5b2c8102b9af9bd052c240404607a4da",
+            "title": "Why this full-stack developer with 2 decades of experience is now a Swiggy delivery agent",
+            "link": "https://www.moneycontrol.com/news/trends/why-this-full-stack-developer-with-2-decades-of-experience-is-now-a-swiggy-delivery-agent-13117151.html",
+            "keywords": [
+                "swiggy delivery partner, bengaluru, full-stack developer, padmanaban ebbas, 19 years experience, tech startup, resume, viral post, nithin kumar, curicent technologies, robotics, iot, “trying to get my business back on track”, “delivered with care. built with code”, peak bengaluru."
+            ],
+            "creator": [
+                "Moneycontrol"
+            ],
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-13 09:08:52",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.moneycontrol.com/static-mcnews/2025/06/20250613090329_hjsabckjbckjdcs.jpg",
+            "video_url": null,
+            "source_id": "moneycontrol",
+            "source_name": "Moneycontrol",
+            "source_priority": 1039,
+            "source_url": "https://www.moneycontrol.com",
+            "source_icon": "https://n.bytvi.com/moneycontrol.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top",
+                "business",
+                "world",
+                "politics"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "604d38f61ac117a415aaae52a644ed41",
+            "title": "अब ये छात्र कर पाएंगे 'मुफ्त' विमान यात्रा, बस पूरी करनी है एक शर्त!",
+            "link": "https://hindi.news18.com/news/rajasthan/kota-madan-dilawar-announces-free-air-travel-to-toppers-of-government-school-students-unique-news-9306913.html",
+            "keywords": [
+                "राजस्थान"
+            ],
+            "creator": [
+                "Sandhya Kumari"
+            ],
+            "description": "राजस्थान के शिक्षा मंत्री ने एक अनोखी घोषणा की है. उन्होंने बताया कि पाली, जालोर, सिरोही और रामगंजमंडी के दसवीं और बारहवीं के स्टूडेंट अब मुफ्त विमान यात्रा कर पायेंगे. आखिर क्या है ये पूरा मामला, आइये आपको बताते हैं.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-13 09:08:49",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.news18.com/ibnkhabar/uploads/2025/06/free-air-travel-2025-06-115b8ec9fb2ca191c0ec86e512f57dcf-3x2.jpg",
+            "video_url": null,
+            "source_id": "hindinews18",
+            "source_name": "News 18 Hindi",
+            "source_priority": 4077,
+            "source_url": "https://hindi.news18.com",
+            "source_icon": "https://n.bytvi.com/hindinews18.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "215fa8aa69778722b497b31979fd6a71",
+            "title": "Mau के सरकारी अस्पताल ने रचा इतिहास, फ्री में की लाखों की सर्जरी , डॉक्टरों का कमाल",
+            "link": "https://navbharattimes.indiatimes.com/state/uttar-pradesh/mau/history-created-by-mau-government-hospital-free-surgery-of-80-year-old-lady/videoshow/121824874.cms",
+            "keywords": null,
+            "creator": null,
+            "description": "मऊ के जिला अस्पताल ने कर दिखाया वो काम, जो अब तक बड़े-बड़े प्राइवेट अस्पताल ही कर पाते थे। 80 साल की बुजुर्ग महिला का मुफ्त कूल्हा प्रत्यारोपण कर सरकारी अस्पताल ने लोगों की सोच बदल दी है।डॉ. बीके चौहान ने बीते कुछ दिनों में तीन सफल घुटना और कूल्हा प्रत्यारोपण कर दिखाया है कि सरकारी संसाधनों में भी गुणवत्ता और सेवा संभव है। जहां प्राइवेट अस्पतालों में इसकी कीमत ₹1.5 लाख से ₹2 लाख तक होती है, वहीं मऊ के सरकारी अस्पताल में यह बिल्कुल फ्री में किया गया।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-13 09:08:42",
+            "pubDateTZ": "UTC",
+            "image_url": "https://navbharattimes.indiatimes.com/thumb/121824874/navbharat-times-121824874.jpg?height=720&imgsize-67934=&resizemode=75&width=1280",
+            "video_url": null,
+            "source_id": "navbharattimes",
+            "source_name": "Nbt Navbharattimes",
+            "source_priority": 244,
+            "source_url": "https://navbharattimes.indiatimes.com",
+            "source_icon": "https://n.bytvi.com/navbharattimes.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "77b3ef5373c74dc35c70bc73ddb0760a",
+            "title": "Plan now, pay smart: why responsible borrowing makes life easier",
+            "link": "https://www.freepressjournal.in/business/plan-now-pay-smart-why-responsible-borrowing-makes-life-easier",
+            "keywords": null,
+            "creator": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-13 09:08:34",
+            "pubDateTZ": "UTC",
+            "image_url": "https://media.assettype.com/freepressjournal/2025-06-13/mmvxjbxm/CAT-A-illustrationsInterest-Rate01950x680-216x9.png?width=1200",
+            "video_url": null,
+            "source_id": "freepressjournal",
+            "source_name": "The Free Press Journal",
+            "source_priority": 26427,
+            "source_url": "https://www.freepressjournal.in",
+            "source_icon": "https://n.bytvi.com/freepressjournal.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "3f5e4352aef07520de3dc7533cf34512",
+            "title": "SCB एलिवेटेड कॉरिडोर: तेलंगाना सरकार रक्षा मंत्रालय को 435 एकड़ जमीन दे सकती",
+            "link": "https://jantaserishta.com/local/telangana/scb-elevated-corridor-telangana-government-may-give-435-acres-of-land-to-defense-ministry-4078534",
+            "keywords": [
+                "राज्य,तेलंगाना"
+            ],
+            "creator": [
+                "Payal"
+            ],
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-13 09:08:32",
+            "pubDateTZ": "UTC",
+            "image_url": "https://jantaserishta.com/h-upload/2025/06/13/4669768-45.webp",
+            "video_url": null,
+            "source_id": "jantaserishta",
+            "source_name": "Janta Se Rishta",
+            "source_priority": 81836,
+            "source_url": "https://jantaserishta.com",
+            "source_icon": "https://n.bytvi.com/jantaserishta.jpg",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "d60f8376b819158b722bd73de672d3cd",
+            "title": "Sydney Sixers sign Babar Azam for his maiden BBL deal - ESPNcricinfo",
+            "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNU1lTYXltWFhFTnJXSWJsOU5ZRVBSNEI2MXlpMDFfcDVzSGNzWEIxdVdwaF9PdE53UVF5MWJqWGdGZzM0alczZzI3dTZaUk1QWTZac2RQUExuejNPRzJVTnlPeXZQS1FQMVVCRmNTSGNqekZoVVZnYl9wblhLZ1BFa1BfSnZ0bGs3MG90SnVWV2YwSWQ5TkVmV1JSRlFTb29saVHSAbMBQVVfeXFMTmoyYU9VM1FRNzNhVzIydEpGdkRhaFc0VTZ6MllKYm1WNjNfbnNud3JFUlV5a1FKcFREbHhvOGxkcmphOURKVUhrSUNua3ZwbWJVMm9QUEtwTWtFQ3J5WDdKUldTRHpiTWdpQ1Z5Nkx0M2ZSV3lUdmhUeGN2NGJ5QkpsQXBGUWZpc2Qwd2s4T2hreExYMmljV0xNTDJRN3ZGRHllc3VsNmZrSm1PWEhyY3Fua2M?oc=5",
+            "keywords": null,
+            "creator": null,
+            "description": "Sydney Sixers sign Babar Azam for his maiden BBL deal ESPNcricinfoSixers land Pakistan superstar Babar Azam in Big Bash coup Cricket.com.auSydney Sixers announce signing of Babar Azam for his maiden BBL season India TV NewsAfter Pakistan T20I snub, Babar Azam signs Big Bash League deal with Sydney Sixers India TodayPakistan's Babar signs for Sixers in Big Bash BBC",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-13 09:08:25",
+            "pubDateTZ": "UTC",
+            "image_url": null,
+            "video_url": null,
+            "source_id": "google",
+            "source_name": "Google News",
+            "source_priority": 14,
+            "source_url": "https://news.google.com",
+            "source_icon": "https://n.bytvi.com/google.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "sports"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "6e5bbc074c1dc30c5f23e6253ff9ae00",
+            "title": "Entertainment News | Keerthy Suresh's Action-comedy 'Revolver Rita' Release Date Out, Film to Hit Theatres on This Day",
+            "link": "https://www.latestly.com/agency-news/entertainment-news-keerthy-sureshs-action-comedy-revolver-rita-release-date-out-film-to-hit-theatres-on-this-day-6925332.html",
+            "keywords": null,
+            "creator": null,
+            "description": "Get latest articles and stories on Entertainment at LatestLY. Actress Keerthy Suresh is all set to showcase her action avatar in her upcoming film 'Revolver Rita'. The 'Baby John' star has finally announced the movie's release date and shared a promo video of the film.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-13 09:08:22",
+            "pubDateTZ": "UTC",
+            "image_url": "https://st1.latestly.com/wp-content/uploads/2025/06/ANI-20250613081143-380x214.jpg",
+            "video_url": null,
+            "source_id": "latestly",
+            "source_name": "Latestly",
+            "source_priority": 31923,
+            "source_url": "https://www.latestly.com",
+            "source_icon": "https://n.bytvi.com/latestly.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "15f41af6b0617bccc740b1ef46918ece",
+            "title": "Tactics to Champions League: Thomas Frank's immediate priorities after taking charge at Tottenham",
+            "link": "https://newsable.asianetnews.com/international/football/tactics-to-champions-league-thomas-franks-immediate-priorities-after-taking-charge-at-tottenham-dmn/articleshow-zbkr4v8",
+            "keywords": [
+                "football"
+            ],
+            "creator": [
+                "Deepu Mohan"
+            ],
+            "description": "Thomas Frank faces the challenge of maintaining Tottenham's momentum after their Europa League win while implementing his own vision.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-13 09:08:19",
+            "pubDateTZ": "UTC",
+            "image_url": "https://static-gi.asianetnews.com/images/01jxm8as2qs4dgkjtkm8h8b8qt/gettyimages-2197226853-1749805261911.jpg",
+            "video_url": null,
+            "source_id": "newsable_asianetnews",
+            "source_name": "Asianet Newsable",
+            "source_priority": 7749,
+            "source_url": "https://newsable.asianetnews.com",
+            "source_icon": "https://n.bytvi.com/newsable_asianetnews.jpg",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "85605866dec05992f3d862b9a86fbb5b",
+            "title": "Israel-Iran war buzz: MCX gold rate today at new high! Is it right time to buy? EXPLAINED with 5 reasons",
+            "link": "https://www.livemint.com/market/stock-market-news/israeliran-war-buzz-mcx-gold-rate-today-at-new-high-is-it-right-time-to-buy-explained-with-5-reasons-11749801982935.html",
+            "keywords": null,
+            "creator": null,
+            "description": "MCX gold opened with a gain of ₹1,108 or 1.12%, at ₹99,500 per 10 grams, compared to the previous close of ₹98,392. During the session, it surged to a high of ₹100,403.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-13 09:08:18",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.livemint.com/lm-img/img/2025/06/13/1600x900/gold_1749805431077_1749805431246.jpg",
+            "video_url": null,
+            "source_id": "livemint",
+            "source_name": "Mint",
+            "source_priority": 7134,
+            "source_url": "https://www.livemint.com",
+            "source_icon": "https://n.bytvi.com/livemint.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "business"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "dee3203eeecb3aeac11244ad7cd8696f",
+            "title": "India and its vast booming aviation sector: All you need to know",
+            "link": "https://www.forbesindia.com/article/news/india-and-its-vast-booming-aviation-sector-all-you-need-to-know/96172/1",
+            "keywords": null,
+            "creator": [
+                "AFP"
+            ],
+            "description": "[CAPTION](File) A view of the Indira Gandhi International Airport. Image: Sajjad Hussain / AFP [/CAPTION] Air India's London-bound flight 171 that crashed on Thursday with 242 people on board was a Boeing 787-8 Dreamliner, part of India's bold push to radically expand its air industry sector.The growth of its economy has made India and its 1.4 billion people the world's fourth-largest air market—domestic and international—with IATA projecting it will become the third biggest within the decade.Indian Prime Minister Narendra Modi, who called the crash \"heartbreaking beyond words\", has made the development of the air sector a priority since coming to power in 2014.Modi, who has said he wants to \"bring air travel to the common people\", began a plan in 2016 to boost air links between small towns and megacities in the world's most populous nation.\"A common man who travels in slippers should also be seen in the aircraft -- this is my dream,\" Modi was quoted as saying by the aviation ministry at the time.Air India, the country's former national carrier, was taken over by the Tata Group in 2022.The sprawling salt-to-software conglomerate has since sought to turn around the airline by ordering new aircraft and upgrading its existing fleet.The airline currently operates a fleet of over 190 planes, according to latest available data on its website, including 58 Boeing aircraft.Over the last two years it has placed orders for 570 new aircraft.Also read: India's among Etihad's top three markets: CEO Antonoaldo NevesIn September 2024, Air India kicked off a $400 million refit programme to revamp 67 legacy aircraft in its fleet.The airline's global network spans 31 countries across five continents, connecting India with destinations in North America, Europe and Asia Pacific.The airline says it operates about 5,000 flights a week \"to and from 49 destinations within India and 43 destinations outside of India\".Domestic air passengers have more than doubled in the past decade, according to government figures, as Indian airlines quickly ramp up their fleets.This has partly helped the number of airports more than double in the past decade -- from 74 in 2014 to 157 in 2024, according to ministry figures.The government is pouring in millions of dollars and is promising to increase the number of airports to between 350 and 400 by 2047, the centenary of India's independence.At the same time, the government has opened programmes to train some 30,000 pilots and at least as many mechanics over the next 20 years.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-13 09:08:18",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.forbesindia.com/media/images/2025/Jun/img_245989_indiaenvironmentpollution_bg.jpg",
+            "video_url": null,
+            "source_id": "forbesindia",
+            "source_name": "Forbes India",
+            "source_priority": 27753,
+            "source_url": "https://www.forbesindia.com",
+            "source_icon": "https://n.bytvi.com/forbesindia.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "2d6259b5b32e6303c6ad112c5da19b3a",
+            "title": "Disha Patani Birthday: वो एक्ट्रेस जिसने सिर्फ 9 साल में मेकर्स की भरी जेबें, बॉक्स ऑफिस पर अकेले कमा लिए 4200 करोड़ रुपये!",
+            "link": "https://www.abplive.com/photo-gallery/entertainment/bollywood-disha-patani-movies-total-box-office-collection-over-4200-crore-celebrates-her-birthday-today-2961512",
+            "keywords": [
+                "बॉलीवुड"
+            ],
+            "creator": [
+                "एबीपी एंटरटेनमेंट डेस्क"
+            ],
+            "description": "Disha Patani Birthday: वो एक्ट्रेस जिसने सिर्फ 9 साल में मेकर्स की भरी जेबें, बॉक्स ऑफिस पर अकेले कमा लिए 4200 करोड़ रुपये!",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-13 09:08:16",
+            "pubDateTZ": "UTC",
+            "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2025/06/13/7efbe7ce791e02d88c378a420e805e2117497929112371190_original.jpg",
+            "video_url": null,
+            "source_id": "abplive",
+            "source_name": "Abp News",
+            "source_priority": 7754,
+            "source_url": "http://abplive.com",
+            "source_icon": "https://n.bytvi.com/abplive.jpg",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "entertainment"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "fb45972e1b2230396efcc7f1f13edaca",
+            "title": "Mirzapur: वृद्ध का शव मिलने से इलाके में सनसनी, पुलिस ने शुरू की जांच",
+            "link": "https://jantaserishta.com/local/uttar-pradesh/mirzapur-sensation-in-the-area-due-to-the-body-of-an-old-man-found-police-started-investigation-mirzapur--4078533",
+            "keywords": [
+                "उत्तर प्रदेश,राज्य"
+            ],
+            "creator": [
+                "Admindelhi1"
+            ],
+            "description": "पुलिस जांच में जुटी",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-13 09:08:13",
+            "pubDateTZ": "UTC",
+            "image_url": "https://jantaserishta.com/h-upload/2025/06/13/4669771-9864513-4.webp",
+            "video_url": null,
+            "source_id": "jantaserishta",
+            "source_name": "Janta Se Rishta",
+            "source_priority": 81836,
+            "source_url": "https://jantaserishta.com",
+            "source_icon": "https://n.bytvi.com/jantaserishta.jpg",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "307356c89121588ba356805f1e6298f9",
+            "title": "Godrej Aims for ₹1000 Crore Motor Revenue by FY28",
+            "link": "https://smestreet.in/limelight/godrej-aims-for-1000-crore-motor-revenue-by-fy28-9360003",
+            "keywords": [
+                "limelight",
+                "news"
+            ],
+            "creator": null,
+            "description": "The Motor Solutions business of Godrej Enterprises Group, is targeting a revenue of INR 1000 crore by FY28, with 20% of total revenue coming from exports. The business is targeting ₹750 crore in FY26, driven by expanding demand across electric vehicles (EV’s), HVAC applications, pump applications, and actuator segments in domestic and international markets.Xercsis Marker, EVP & Head, Motor Solutions Business, Godrej Enterprises Group, “We are strengthening our manufacturing capabilities through significant R&D investments and advanced technology adoption. We continue to invest in technology and capacity to serve identified growth sectors like EV, Automation, Actuators, Pumps etc, while advancing innovations in motor design to reduce reliance on rare-earth materials.”The business has enhanced its manufacturing capabilities for EV motor components, including commissioning of a new assembly line to support growth in both Indian and export markets such as the US and Europe. A high-precision lamination punching line from AIDA Japan is also being put up to meet the increasing need for ultra-thin laminations in EV, aerospace, and automation sectors. The business holds a dominant 60% market share in hermetic motors for refrigeration and air-conditioning applications in the domestic Indian market.Recent product innovations include the development of complete assembled motors for the off-road EV market serving US customers, with plans also to manufacture motors for a renowned German group with compatible controller offerings. The business is also investing into cutting-edge motor technologies such as Switched Reluctance and Synchronous Reluctance Motors, with an aim to reduce reliance on rare earth magnets over the years whilst improving efficiency.The facility is capable to generate an annual production capacity of over 6 million motors and offers over 300+ customized SKUs to serve diverse industrial applications. Sustainability remains a core focus, with the plant certified with IGBC Platinum, and GreenCo Platinum Plus and zero waste to landfill. The facilities are water positive and recycles 80 percent of its finished goods packaging.Pune has established itself as a major hub for manufacturing and the automotive industry in India. This growth has spurred the development of a robust ecosystem of ancillary industries, including component and material suppliers that support the region’s manufacturing strength. Located on a 36-acre, state-of-the-art manufacturing campus in Shindewadi, Pune, Motor Solutions has a green supply chain, with the majority of its suppliers situated within a 100-kilometer radius enhancing regional economic development.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-13 09:08:07",
+            "pubDateTZ": "UTC",
+            "image_url": "https://img-cdn.publive.online/fit-in/1280x960/smstreet/media/media_files/2025/06/13/smhh3tXpzYIiyLM4s3NI.jpg",
+            "video_url": null,
+            "source_id": "smestreet",
+            "source_name": "Smestreet In",
+            "source_priority": 587507,
+            "source_url": "https://smestreet.in",
+            "source_icon": "https://n.bytvi.com/smestreet.jpg",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "business"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "4dea85611955e095bcfb18e68770d763",
+            "title": "These countries are most exposed to rising trade tensions, Capital Economics says",
+            "link": "https://in.investing.com/news/stock-market-news/these-countries-are-most-exposed-to-rising-trade-tensions-capital-economics-says-4875177",
+            "keywords": null,
+            "creator": [
+                "Investing.com"
+            ],
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-13 09:08:06",
+            "pubDateTZ": "UTC",
+            "image_url": null,
+            "video_url": null,
+            "source_id": "investing_in",
+            "source_name": "Investing India",
+            "source_priority": 1205,
+            "source_url": "https://in.investing.com",
+            "source_icon": "https://n.bytvi.com/investing_in.jpg",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "business"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": true
+        },
+        {
+            "article_id": "ba1dff11a8fc474b11d32a60aa5b4440",
+            "title": "कल-कल बहती गंगा क्यों सूख रही है?:दैनिक भास्कर की 1450 किलोमीटर लंबी ‘गंगा यात्रा’ कल से देखिए-पढ़िए",
+            "link": "https://www.bhaskar.com/local/uttar-pradesh/news/ganga-river-water-crisis-haridwar-up-135226763.html",
+            "keywords": null,
+            "creator": null,
+            "description": "उत्तराखंड में गोमुख से निकलकर उत्तर प्रदेश में प्रवेश करते ही गंगा की चौड़ाई कम होने लगी है। गंगा क्यों सिकुड़ रही है? गंगा में प्रदूषण की क्या स्थिति है? जलीय जीवों पर इसका क्या असर है? कौन लोग इसके जिम्मेदार हैं? ये सब जानने के लिए ‘दैनिक भास्कर’ उत्तर प्रदेश में 1450 किलोमीटर लंबी ‘गंगा यात्रा’ पर निकला है। कल यानी 14 जून से पढ़िए सिर्फ दैनिक भास्कर एप पर...",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-13 09:08:06",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.bhaskarassets.com/thumb/1000x1000/web2images/521/2025/06/13/comp-111_1749801320.gif",
+            "video_url": null,
+            "source_id": "bhaskar_hindi",
+            "source_name": "Bhaskar",
+            "source_priority": 34179,
+            "source_url": "https://www.bhaskar.com",
+            "source_icon": "https://n.bytvi.com/bhaskar_hindi.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top",
+                "domestic"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "f387f0f0b08984c72e3dff0323475554",
+            "title": "Banke Bihari Corridor: वृंदावन के दुकानों और मकानों पर क्यों लिखा जा रहा JK?",
+            "link": "https://hindi.news18.com/news/uttar-pradesh/mathura-banke-bihari-corridor-why-is-jk-being-written-on-shops-and-houses-of-vrindavan-local18-ws-bkl-9306538.html",
+            "keywords": [
+                "उत्तर प्रदेश"
+            ],
+            "creator": [
+                "mritunjay baghel"
+            ],
+            "description": "Banke Bihari Corridor: बांके बिहारी मंदिर कॉरिडोर के लिए वृंदावन में मकान और दुकानों पर JK कोड लिखा जा रहा है. प्रशासन इन संपत्तियों को चिन्हित कर रहा है, जिन्हें तोड़ा जाएगा. स्थानीय लोग इस सर्वे से परेशान हैं और भगवान बिहारी जी से प्रार्थना कर रहे हैं.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-13 09:08:04",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.news18.com/ibnkhabar/uploads/2025/06/HYP_5235766_cropped_13062025_094912_img_20250608_151526_waterm_2-3x2.jpg",
+            "video_url": null,
+            "source_id": "hindinews18",
+            "source_name": "News 18 Hindi",
+            "source_priority": 4077,
+            "source_url": "https://hindi.news18.com",
+            "source_icon": "https://n.bytvi.com/hindinews18.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
             "article_id": "fc5949d41aeddcfe3d0f24baa0201511",
             "title": "What Is Black Box And Why It Holds The Key To Solving Air India Ahmedabad Crash Mystery",
             "link": "https://menafn.com/1109670445/What-Is-Black-Box-And-Why-It-Holds-The-Key-To-Solving-Air-India-Ahmedabad-Crash-Mystery",
