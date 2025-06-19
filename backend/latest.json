@@ -1,6 +1,779 @@
 {
     "articles": [
         {
+            "article_id": "2c8d0c21e70276461c1fe2d5ecd33f69",
+            "title": "Dhanush, Nagarjuna's Upcoming Film 'Kuberaa' Receives UA Certificate, Movie To Release In Theatres This June",
+            "link": "https://zeenews.india.com/regional/dhanush-nagarjunas-upcoming-film-kuberaa-receives-ua-certificate-movie-to-release-in-theatres-this-june-2918318.html",
+            "keywords": null,
+            "creator": [
+                "Zee News"
+            ],
+            "description": "Dhanush and Nagarjuna starrer Kuberra receives U/A certificate movie to be released soon.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-19 07:08:00",
+            "pubDateTZ": "UTC",
+            "image_url": "https://english.cdn.zeenews.com/sites/default/files/styles/zm_700x400/public/2025/06/19/1774208-kuberaa-1.jpg?im=Resize%3D%28400%29",
+            "video_url": null,
+            "source_id": "zeenews",
+            "source_name": "Zee News",
+            "source_priority": 5319,
+            "source_url": "http://zeenews.india.com",
+            "source_icon": "https://n.bytvi.com/zeenews.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "entertainment"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "6a0a0e127e1c0e4eb7b611b3d80411f6",
+            "title": "Shocking! Covid patients complain of ‘Razor Blade Throat’; all FAQs answered about NB.1.8.1",
+            "link": "https://www.news9live.com/health/health-news/shocking-covid-patients-complain-of-razor-blade-throat-all-faqs-answered-about-nb-1-8-1-2869949",
+            "keywords": [
+                "health news"
+            ],
+            "creator": [
+                "Simran Arora"
+            ],
+            "description": "NB.1.8.1 is a subvariant of the Omicron lineage and is considered a slight evolution of the LP.8.1 variant. Experts say that this new variant may spread more easily and evade immune protection better than its predecessor.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-19 07:08:00",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.news9live.com/wp-content/uploads/2023/04/Pexals-throat.jpg",
+            "video_url": null,
+            "source_id": "news9live",
+            "source_name": "News9live",
+            "source_priority": 193096,
+            "source_url": "https://www.news9live.com",
+            "source_icon": "https://n.bytvi.com/news9live.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "health"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "4f50277b20f5ac425725730667caaa44",
+            "title": "8th Pay Commission: 61% DA, 1.92 fitment, basic salary ₹34,560, HRA ₹9,331, TA ₹1,350, how much will be the net salary? See calculation",
+            "link": "https://www.informalnewz.com/8th-pay-commission-61-da-1-92-fitment-basic-salary-%E2%82%B934560-hra-%E2%82%B99331-ta-%E2%82%B91350-how-much-will-be-the-net-salary-see-calculation/",
+            "keywords": [
+                "8th pay commission",
+                "personal finance",
+                "featured",
+                "new basic salary"
+            ],
+            "creator": [
+                "Shyamu Maurya"
+            ],
+            "description": "8th Pay Commission latest news: The biggest news has come out regarding the 8th Pay Commission. If sources are to be believed, the basic salary of government employees can increase from ₹ 18,000 to ₹ 34,560 directly, the reason for which is the fitment factor of 1.92. 8th Pay Commission latest news: Central government employees [...]The post 8th Pay Commission: 61% DA, 1.92 fitment, basic salary ₹34,560, HRA ₹9,331, TA ₹1,350, how much will be the net salary? See calculation first appeared on informalnewz.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-19 07:07:59",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.informalnewz.com/wp-content/webp-express/webp-images/uploads/2025/03/8th-Pay-Commission-7.jpg.webp",
+            "video_url": null,
+            "source_id": "informalnewz",
+            "source_name": "Informal News",
+            "source_priority": 245798,
+            "source_url": "https://www.informalnewz.com",
+            "source_icon": "https://n.bytvi.com/informalnewz.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "d9ff888eb5c0ea25edee49726c9878cd",
+            "title": "Govt issues draft rules for demolishing obstructions near airports",
+            "link": "https://www.hindustantimes.com/india-news/govt-issues-draft-rules-for-demolishing-obstructions-near-airports-101750316878445.html",
+            "keywords": [
+                "india-news"
+            ],
+            "creator": null,
+            "description": "The draft Aircraft (Demolition of Obstructions Caused by Buildings and Trees, etc) Rules, 2025, were released under the Bharatiya Vayuyan Adhiniyam, 2024, on Wednesday",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-19 07:07:57",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.hindustantimes.com/ht-img/img/2025/06/19/1600x900/The-draft-rules-seek-to-replace-the-Aircraft--Demo_1750316871456.jpg",
+            "video_url": null,
+            "source_id": "hindustantimes",
+            "source_name": "Hindustan Times",
+            "source_priority": 933,
+            "source_url": "http://www.hindustantimes.com",
+            "source_icon": "https://n.bytvi.com/hindustantimes.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "92a7b053edc47863370c288e10aaab03",
+            "title": "Sardines Are the New Chic: Inside Fashion’s Fishiest Trend",
+            "link": "https://www.timesnownews.com/lifestyle/fashion/sardines-are-the-new-chic-inside-fashions-fishiest-trend-article-152108150",
+            "keywords": null,
+            "creator": [
+                "Namya Sinha"
+            ],
+            "description": "From TikTok’s sardine girlies to Staud’s beaded bags, fashion’s gone full seafood and the vibes are salty. This one’s for the sardine lovers, and even if you can't stand the taste, the prints and the theme are a total vibe.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-19 07:07:56",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.timesnownews.com/thumb/msid-152108150,imgsize-99066,width-1280,height-720/152108150.jpg",
+            "video_url": null,
+            "source_id": "timesnownews",
+            "source_name": "Times Now News",
+            "source_priority": 2243,
+            "source_url": "https://www.timesnownews.com",
+            "source_icon": "https://n.bytvi.com/timesnownews.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "82442564c2f0be5ad1585f717a332901",
+            "title": "5 मिनट में नाइट स्किन केयर रूटीन – स्किन बनेगी ग्लोइंग और क्लियर",
+            "link": "https://abcnews.media/5-%E0%A4%AE%E0%A4%BF%E0%A4%A8%E0%A4%9F-%E0%A4%AE%E0%A5%87%E0%A4%82-%E0%A4%A8%E0%A4%BE%E0%A4%87%E0%A4%9F-%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%BF%E0%A4%A8-%E0%A4%95%E0%A5%87%E0%A4%AF%E0%A4%B0-%E0%A4%B0/",
+            "keywords": [
+                "uncategorized"
+            ],
+            "creator": null,
+            "description": "The post 5 मिनट में नाइट स्किन केयर रूटीन – स्किन बनेगी ग्लोइंग और क्लियर appeared first on ABC News.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-19 07:07:56",
+            "pubDateTZ": "UTC",
+            "image_url": null,
+            "video_url": null,
+            "source_id": "abcnews_media",
+            "source_name": "Abc News Media",
+            "source_priority": 15119155,
+            "source_url": "https://abcnews.media",
+            "source_icon": null,
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "56f8b769bb15cf7f4168740d3b6c6080",
+            "title": "Preethi Jyothi: Developing AI to unlock Indian accents, dialects, and languages",
+            "link": "https://www.forbesindia.com/article/ai-special-2025/preethi-jyothi-developing-ai-to-unlock-indian-accents-dialects-and-languages/96216/1",
+            "keywords": null,
+            "creator": [
+                "Anubhuti Matta"
+            ],
+            "description": "[CAPTION]Preethi Jyothi, Associate professor, Department of Computer Science and Engineering, IIT-Bombay[/CAPTION]Preethi Jyothi had envisioned a career in an artificial intelligence (AI)-related field, but what she hadn’t was that Natural Language Processing (NLP)—the ability of computers to understand, interpret and generate human language—would become as popular as it has because it wasn’t a hot field when she was pursuing her PhD.“There was even concern about another AI winter,” she says. “I recall having a conversation with my advisor about what to minor in to make myself more employable.” Currently, Jyothi, 40, is an associate professor at the Department of Computer Science and Engineering, IIT-Bombay. Through her work, in automatic speech recognition (ASR) and machine learning (ML), she is advancing technologies that could make voice interfaces more inclusive of low-resource languages or those that don’t have the resources to build the technologies that can enable ASR, she says.With recent advances, ASR is now an integral part of many applications such as chat interfaces like GPT-4o, home devices like Google Home, or transcriptions for WhatsApp voice messages. However, she explains, ASR is a long-standing AI problem of transcribing natural speech into text because it does not work equally well across users from diverse demographics, particularly in India where users span a wide variety of speech accents, dialects and languages.“My work focuses on building speech and language technologies for such low-resource settings to ensure more equitable access across users of varying linguistic and educational backgrounds,” she explains. “Building speech technologies for Indian languages (at large) could potentially be impactful, especially in India, by making technologies accessible even to users who cannot read or write.” Jyothi’s fascination with AI began in high school, and she recalls reading Douglas Hofstadter’s Gödel, Escher, Bach that teased questions about human consciousness and its implications for AI. “Building software that could mimic human abilities was interesting to think about,” she says.A gold-medallist computer science graduate from the National Institute of Technology, Calicut, Jyothi went on to pursue a PhD programme at Ohio State University and became a Beckman Postdoctoral Fellow at the University of Illinois at Urbana-Champaign.View the full list here Over the last few years, along with students and collaborators, Jyothi has worked on two projects—building ASR systems that are robust across varying speech accents and building computational models for code-switching where users switch between languages (like Hindi-English or Tamil-English).“These are both projects that are rooted in the Indian setting and are areas with remaining open problems that we continue to work on. I am also interested in the mechanics of multilingual large language models and how to elicit cross-lingual understanding from such models,” she says.Also read: Sarvam AI's Pratyush Kumar and Vivek Raghavan on building AI for BharatHer research papers and projects have won her accolades, and she believes AI systems for low-resource languages can be game-changing in real-world scenarios. For instance, whether it’s helping farmers become aware about market prices, or enabling disaster communication in remote areas. But she’s also aware of the concerns.“A constant ethical challenge of working on technologies for languages is that some languages will inevitably be left behind,” she notes. “Speakers of these languages will be pressured to shift to using other languages, thus endangering the former. This is a challenge that one needs to be constantly aware of”. While she’s striving for equitable access wherever possible, she also throws light on the systemic support AI researchers could get, especially those working on non-English languages. For instance, targeted research funding for faculty and students working to develop NLP technologies for low-resource languages. In addition, launching competitions or challenges with broad reach where these languages are a core focus could help shift the focus to this field. Also, enabling the development and release of high-quality multilingual resources such as pre-trained models and datasets may serve as a good starting point for further explorations, she adds.As a woman working in a male-dominated field, she says she has been lucky and feels privileged to not have faced very overt gender biases.“That said, I am aware of real challenges faced by many women in technical fields,” she says. “As an academic occupying a position of responsibility, I am committed to creating a welcoming space for all students regardless of differences in gender or social backgrounds,” she adds.That said, she advises young women to choose what truly interests and excites them without paying attention to any supposed norms.“Interest in an area is what keeps one motivated and fuels growth. There truly is nothing better than working on things you actually care about,” she adds.Ask her what she looks forward to in the rapidly changing world of AI and she says, “It would be exciting to see voice-driven interfaces used seamlessly in regional dialects and languages across Indian cities and towns.”",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-19 07:07:54",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.forbesindia.com/media/images/2025/Jun/img_246138_preethijyothi_001_bg.jpg",
+            "video_url": null,
+            "source_id": "forbesindia",
+            "source_name": "Forbes India",
+            "source_priority": 27753,
+            "source_url": "https://www.forbesindia.com",
+            "source_icon": "https://n.bytvi.com/forbesindia.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "5a7bc8482a2c761c2ac43716951129be",
+            "title": "'She Doesn't Know How To Survive...': Parents Of Indian Students Stuck In Iran Raise Concern",
+            "link": "https://news.abplive.com/news/world/operation-sindhu-students-evacuated-from-iran-to-armenia-1781191",
+            "keywords": [
+                "world"
+            ],
+            "creator": [
+                ""
+            ],
+            "description": "'She Doesn't Know How To Survive...': Parents Of Indian Students Stuck In Iran Raise Concern",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-19 07:07:53",
+            "pubDateTZ": "UTC",
+            "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2025/06/19/4789408b8f08f574f7dfaf94a3377c3017503110363021266_original.jpg",
+            "video_url": null,
+            "source_id": "abplive",
+            "source_name": "Abp News",
+            "source_priority": 7754,
+            "source_url": "http://abplive.com",
+            "source_icon": "https://n.bytvi.com/abplive.jpg",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "fdc4a04dc9e9e76c1199742bc3963997",
+            "title": "Pratap Bajwa का आरोप, गन्ना किसान 200 करोड़ रुपये के बकाये से परेशान",
+            "link": "https://jantaserishta.com/local/punjab/pratap-bajwa-alleges-that-sugarcane-farmers-are-troubled-by-dues-of-rs-200-crore-4091850",
+            "keywords": [
+                "राज्य,पंजाब"
+            ],
+            "creator": [
+                "Payal"
+            ],
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-19 07:07:53",
+            "pubDateTZ": "UTC",
+            "image_url": "https://jantaserishta.com/h-upload/2025/06/19/4685019-1.webp",
+            "video_url": null,
+            "source_id": "jantaserishta",
+            "source_name": "Janta Se Rishta",
+            "source_priority": 81836,
+            "source_url": "https://jantaserishta.com",
+            "source_icon": "https://n.bytvi.com/jantaserishta.jpg",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "d620536232a94d4fe741080dcae5df11",
+            "title": "SpaceX rocket being tested in Texas explodes, but no injuries reported",
+            "link": "https://www.newindianexpress.com/world/2025/Jun/19/spacex-rocket-being-tested-in-texas-explodes-but-no-injuries-reported",
+            "keywords": [
+                "world"
+            ],
+            "creator": [
+                "Associated Press"
+            ],
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-19 07:07:50",
+            "pubDateTZ": "UTC",
+            "image_url": "https://media.assettype.com/newindianexpress/2024-02/be26acf1-78af-411d-9b8f-d9dfa70ea357/202401053101880.jpg",
+            "video_url": null,
+            "source_id": "newindianexpress",
+            "source_name": "The New Indian Express",
+            "source_priority": 15406,
+            "source_url": "https://www.newindianexpress.com/nation",
+            "source_icon": "https://n.bytvi.com/newindianexpress.jpg",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "world"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": true
+        },
+        {
+            "article_id": "f50cc978b2204e36413523f4de8fcb25",
+            "title": "At G7 Summit, Modi’s urges global action against terror",
+            "link": "https://newstodaynet.com/2025/06/19/at-g7-summit-modis-urges-global-action-against-terror/",
+            "keywords": [
+                "world",
+                "modi’s urges global action against terror",
+                "at g7 summit"
+            ],
+            "creator": [
+                "Agency"
+            ],
+            "description": "Reaffirming India’s stand against terrorism, Prime Minister Narendra Modi has urged leaders of the G7 to galvanise global action against terrorism and underscored the need for strict action against those who \"promote and support\" it.The post At G7 Summit, Modi’s urges global action against terror appeared first on News Today | First with the news.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-19 07:07:50",
+            "pubDateTZ": "UTC",
+            "image_url": "https://newstodaynet.com/storage/2025/06/download-19-5.jpg",
+            "video_url": null,
+            "source_id": "newstodaynet",
+            "source_name": "News Today",
+            "source_priority": 2356686,
+            "source_url": "https://newstodaynet.com",
+            "source_icon": "https://n.bytvi.com/newstodaynet.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "world"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "403bfd542e98f29120aa2f4d0d320fa6",
+            "title": "Anderson-Tendulkar Trophy revealed as the legends pose with new prize",
+            "link": "https://economictimes.indiatimes.com/news/sports/anderson-tendulkar-trophy-revealed-as-the-legends-pose-with-new-prize/articleshow/121954850.cms",
+            "keywords": null,
+            "creator": null,
+            "description": "India and England will compete for the new Anderson-Tendulkar trophy. This replaces the Pataudi Trophy. Sachin Tendulkar ensured the Pataudi legacy remains. A Pataudi Medal for Excellence will be awarded. India starts its World Test Championship campaign. Shubman Gill captains as Virat Kohli and Rohit Sharma have retired. Rishabh Pant will bat at number five.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-19 07:07:50",
+            "pubDateTZ": "UTC",
+            "image_url": "https://img.etimg.com/thumb/msid-121955008,width-300,height-225,imgsize-126532,resizemode-75/anderson-tendulkar-trophy.jpg",
+            "video_url": null,
+            "source_id": "economictimes_indiatimes",
+            "source_name": "The Economic Times",
+            "source_priority": 231,
+            "source_url": "https://economictimes.indiatimes.com",
+            "source_icon": "https://n.bytvi.com/economictimes_indiatimes.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "241dce35d8dd66c72608f991fd04bbae",
+            "title": "Arunachal के लोंगहुआ गांव में दुर्लभ जंगली मशरूम की खोज हुई",
+            "link": "https://jantaserishta.com/local/arunachal-pradesh/rare-wild-mushroom-discovered-in-longhua-village-of-arunachal-4091849",
+            "keywords": [
+                "राज्य,अरुणाचल प्रदेश"
+            ],
+            "creator": [
+                "SANTOSI TANDI"
+            ],
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-19 07:07:49",
+            "pubDateTZ": "UTC",
+            "image_url": "https://jantaserishta.com/h-upload/2025/06/19/4685018-19.avif",
+            "video_url": null,
+            "source_id": "jantaserishta",
+            "source_name": "Janta Se Rishta",
+            "source_priority": 81836,
+            "source_url": "https://jantaserishta.com",
+            "source_icon": "https://n.bytvi.com/jantaserishta.jpg",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "804a09605c3f4eb450d01911fa6daaf6",
+            "title": "Gold Price Prediction: Yellow metal dips to Rs 99,258/10 gms amid hawkish fed comments; analysts eye recovery",
+            "link": "https://economictimes.indiatimes.com/markets/commodities/news/gold-price-prediction-yellow-metal-dips-to-rs-99258/10-gms-amid-hawkish-fed-comments-analysts-eye-recovery/articleshow/121947710.cms",
+            "keywords": null,
+            "creator": null,
+            "description": "Following a stern address from the US Federal Reserve, gold prices experienced a decline, affecting MCX August gold and silver futures right from the start. With interest rates unchanged, Fed Chair Jerome Powell raised red flags about inflation and potential economic deceleration. However, the escalating tensions in the Israel-Iran conflict are providing a cushion for precious metal prices.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-19 07:07:49",
+            "pubDateTZ": "UTC",
+            "image_url": "https://img.etimg.com/thumb/msid-121947710,width-1200,height-630,imgsize-63366,overlay-etmarkets/articleshow.jpg",
+            "video_url": null,
+            "source_id": "economictimes_indiatimes",
+            "source_name": "The Economic Times",
+            "source_priority": 231,
+            "source_url": "https://economictimes.indiatimes.com",
+            "source_icon": "https://n.bytvi.com/economictimes_indiatimes.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "business"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "bfec9f9babba292959c3071a6b62dd4d",
+            "title": "छतरपुर की इस सब्जी के आगे फीकी पड़ जाती है पनीर की कई डिश, 4 महीने तक...",
+            "link": "https://hindi.news18.com/news/lifestyle/recipe-chhatarpur-seasonal-bori-bari-subji-monsoon-special-pumpkin-lentil-local18-ws-kl-9319984.html",
+            "keywords": [
+                "फूड"
+            ],
+            "creator": [
+                "shweta singh"
+            ],
+            "description": "Chhatarpur Seasonal Sabji: छतरपुर-बुंदेलखंड की पारंपरिक “बरी सब्जी” गर्मी में तैयार, मानसून में खाई जाने वाली दाल-कुंभड़ा की अनोखी डिश, जो स्वाद, पौष्टिकता और टाइम‐टेस्टेड परम्परा से भरपूर है.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-19 07:07:48",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.news18.com/ibnkhabar/uploads/2025/06/HYP_5249587_cropped_19062025_111703_img20250614091040_watermar_1-3x2.jpg",
+            "video_url": null,
+            "source_id": "hindinews18",
+            "source_name": "News 18 Hindi",
+            "source_priority": 4077,
+            "source_url": "https://hindi.news18.com",
+            "source_icon": "https://n.bytvi.com/hindinews18.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "food"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "52a9ea9a9fbecb5086c2ca23d752da49",
+            "title": "Leading Real Estate Agent In Alameda, CA, Reveals Critical Buyer Protection Strategies In Competitive East Bay Market",
+            "link": "https://menafn.com/1109695866/Leading-Real-Estate-Agent-In-Alameda-CA-Reveals-Critical-Buyer-Protection-Strategies-In-Competitive-East-Bay-Market",
+            "keywords": null,
+            "creator": [
+                "marketing@menafn.com (MENAFN)"
+            ],
+            "description": "(MENAFN - GetNews) Alameda, CA - Erin Chan-Adams, a highly regarded real estate professional with 12 years in the industry, has released essential guidance for homebuyers navigating the ...",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-19 07:07:47",
+            "pubDateTZ": "UTC",
+            "image_url": null,
+            "video_url": null,
+            "source_id": "menafn",
+            "source_name": "Menafn",
+            "source_priority": 1117534,
+            "source_url": "https://menafn.com",
+            "source_icon": "https://n.bytvi.com/menafn.png",
+            "language": "english",
+            "country": [
+                "georgia",
+                "yemen",
+                "afghanistan",
+                "cyprus",
+                "india",
+                "singapore",
+                "saudi arabia",
+                "maldives",
+                "japan",
+                "united arab emirates",
+                "malaysia",
+                "china",
+                "south korea",
+                "north korea",
+                "taiwan",
+                "thailand",
+                "pakistan",
+                "mongolia",
+                "brunei",
+                "lebanon",
+                "indonesia",
+                "kyrgyzstan",
+                "syria",
+                "israel",
+                "bhutan",
+                "iran",
+                "turkey",
+                "armenia",
+                "qatar",
+                "philippines",
+                "kazakhstan",
+                "iraq",
+                "bangladesh",
+                "laos",
+                "vietnam",
+                "timor-leste",
+                "kuwait",
+                "myanmar",
+                "azerbaijan",
+                "jordan",
+                "nepal",
+                "sri lanka",
+                "uzbekistan",
+                "turkmenistan",
+                "macau",
+                "bahrain",
+                "cambodia",
+                "tajikistan"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": true
+        },
+        {
+            "article_id": "ed9f73b47493c211dfef2b0e7fd53949",
+            "title": "Top Real Estate Agent In Bozeman, MT Advises Buyers On Key Steps For A Successful Purchase",
+            "link": "https://menafn.com/1109695867/Top-Real-Estate-Agent-In-Bozeman-MT-Advises-Buyers-On-Key-Steps-For-A-Successful-Purchase",
+            "keywords": null,
+            "creator": [
+                "marketing@menafn.com (MENAFN)"
+            ],
+            "description": "(MENAFN - GetNews) Bozeman, MT - Navigating the home-buying process requires careful planning and informed decision-making. With the real estate market evolving, buyers must stay ahead by ...",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-19 07:07:47",
+            "pubDateTZ": "UTC",
+            "image_url": null,
+            "video_url": null,
+            "source_id": "menafn",
+            "source_name": "Menafn",
+            "source_priority": 1117534,
+            "source_url": "https://menafn.com",
+            "source_icon": "https://n.bytvi.com/menafn.png",
+            "language": "english",
+            "country": [
+                "georgia",
+                "yemen",
+                "afghanistan",
+                "cyprus",
+                "india",
+                "singapore",
+                "saudi arabia",
+                "maldives",
+                "japan",
+                "united arab emirates",
+                "malaysia",
+                "china",
+                "south korea",
+                "north korea",
+                "taiwan",
+                "thailand",
+                "pakistan",
+                "mongolia",
+                "brunei",
+                "lebanon",
+                "indonesia",
+                "kyrgyzstan",
+                "syria",
+                "israel",
+                "bhutan",
+                "iran",
+                "turkey",
+                "armenia",
+                "qatar",
+                "philippines",
+                "kazakhstan",
+                "iraq",
+                "bangladesh",
+                "laos",
+                "vietnam",
+                "timor-leste",
+                "kuwait",
+                "myanmar",
+                "azerbaijan",
+                "jordan",
+                "nepal",
+                "sri lanka",
+                "uzbekistan",
+                "turkmenistan",
+                "macau",
+                "bahrain",
+                "cambodia",
+                "tajikistan"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": true
+        },
+        {
+            "article_id": "9fdfc95bb3fac55a227b4d7007a1584f",
+            "title": "WhatsApp ग्रुप कॉल में आ रहा नया फीचर",
+            "link": "https://jantaserishta.com/technology/new-feature-coming-in-whatsapp-group-call-4091848",
+            "keywords": [
+                "प्रौद्योगिकी"
+            ],
+            "creator": [
+                "Tara Tandi"
+            ],
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-19 07:07:40",
+            "pubDateTZ": "UTC",
+            "image_url": "https://jantaserishta.com/h-upload/2025/06/19/4685009-2.webp",
+            "video_url": null,
+            "source_id": "jantaserishta",
+            "source_name": "Janta Se Rishta",
+            "source_priority": 81836,
+            "source_url": "https://jantaserishta.com",
+            "source_icon": "https://n.bytvi.com/jantaserishta.jpg",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "technology"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "d60c5cb82710b3046a3a2342cc1fbdf8",
+            "title": "दोस्त दोस्त न रहा... हिजबुल्लाह से हमास तक, ईरान के लड़ाके ‘यार’ मदद करने सामने क्यों नहीं आ रहें?",
+            "link": "https://ndtv.in/world-news/iran-israel-war-why-hezbollah-hamas-houthis-shiite-militias-in-iraq-not-helping-tehran-8706383",
+            "keywords": null,
+            "creator": null,
+            "description": "Israel Iran War: लेबनान में हिजबुल्लाह, फिलिस्तीन में हमास, यमन में हूती और इराक में ईरानी समर्थित शिया मिलिशिया मदद करने के वक्त में गायब दिख रहे हैं. जानिए क्या है वजह.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-19 07:07:37",
+            "pubDateTZ": "UTC",
+            "image_url": "https://c.ndtvimg.com/2024-08/2lceiu2_netanyahu-khamenei-_625x300_04_August_24.jpeg?im=FeatureCrop%2Calgorithm%3Ddnn%2Cwidth%3D1200%2Cheight%3D738",
+            "video_url": null,
+            "source_id": "ndtv",
+            "source_name": "Ndtv",
+            "source_priority": 1204,
+            "source_url": "http://www.ndtv.com",
+            "source_icon": "https://n.bytvi.com/ndtv.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "b1e586df79e8e8059ba88d1288c04d71",
+            "title": "अहमदाबाद विमान दुर्घटना: एयर इंडिया ने अंतरराष्ट्रीय उड़ानों में 15% की कटौती की",
+            "link": "https://jantaserishta.com/local/maharashtra/ahmedabad-plane-crash-air-india-cuts-international-flights-by-15-4091847",
+            "keywords": [
+                "महाराष्ट्र,राज्य"
+            ],
+            "creator": [
+                "Kavita2"
+            ],
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-19 07:07:34",
+            "pubDateTZ": "UTC",
+            "image_url": "https://jantaserishta.com/h-upload/2025/06/19/4685015-untitled-83-copy.webp",
+            "video_url": null,
+            "source_id": "jantaserishta",
+            "source_name": "Janta Se Rishta",
+            "source_priority": 81836,
+            "source_url": "https://jantaserishta.com",
+            "source_icon": "https://n.bytvi.com/jantaserishta.jpg",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
             "article_id": "f443dd2d3f5504b8460d4c3f64616cfb",
             "title": "Sun TV Network Standalone March 2025 Net Sales at Rs 909.01 crore, down 1.95% Y-o-Y",
             "link": "https://www.moneycontrol.com/news/business/earnings/sun-tv-network-standalone-march-2025-net-sales-at-rs-909-01-crore-down-1-95-y-o-y-13144729.html",
@@ -24014,724 +24787,6 @@
             "language": "english",
             "country": [
                 "india"
-            ],
-            "category": [
-                "sports"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "bd6d9474133c1224bb2d1d4096ddf9c0",
-            "title": "Paris Airshow 2025: Emirates ने A350 विमान के साथ भव्य वापसी की, नई केबिन टेक्नोलॉजी और फ्रेंच सहयोग पर दिया जोर",
-            "link": "https://hindi.asianetnews.com/world-news/paris-airshow-2025-emirates-a350-new-business-class-premium-economy-cabin-emirates-france-partnership/articleshow-cygvwfu",
-            "keywords": [
-                "world news"
-            ],
-            "creator": [
-                "Dheerendra Gopal"
-            ],
-            "description": "Dubai की Emirates एयरलाइन ने 15 साल बाद Paris Airshow में A350 विमान के साथ वापसी की है। नई बिजनेस क्लास, प्रीमियम इकोनॉमी और फ्रांस के साथ एयरोस्पेस सहयोग की झलक इस शो में देखने को मिली।",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-06-17 18:15:58",
-            "pubDateTZ": "UTC",
-            "image_url": "https://static-gi.asianetnews.com/images/01jkwxs0b02wttchq4zss4qp2d/emirates-airline--1-.jpg",
-            "video_url": null,
-            "source_id": "hindi_asianetnews",
-            "source_name": "Asianet News Hindi",
-            "source_priority": 7805,
-            "source_url": "https://hindi.asianetnews.com",
-            "source_icon": "https://n.bytvi.com/hindi_asianetnews.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "6b1a3d1d11d7e73dcf85366938848db4",
-            "title": "Odisha Faces Heavy Rainfall as Southwest Monsoon and Low-Pressure System Intensify",
-            "link": "https://pragativadi.com/odisha-faces-heavy-rainfall-as-southwest-monsoon-and-low-pressure-system-intensify/",
-            "keywords": [
-                "odisha rainfall",
-                "interior odisha",
-                "coastal odisha",
-                "odisha",
-                "low-pressure system",
-                "bhubaneswar weather",
-                "orange alert odisha",
-                "weather forecast",
-                "monsoon 2025",
-                "heavy rainfall odisha",
-                "trending now",
-                "southwest monsoon",
-                "heavy rain warning"
-            ],
-            "creator": [
-                "Yajati Rout"
-            ],
-            "description": "The southwest monsoon has swept across all districts of Odisha, bringing relentless rainfall fueled by an active low-pressure system over southwest Bangladesh. According to the Regional Meteorological Centre in Bhubaneswar, coastal districts like Balasore, Bhadrak, Jajpur, Kendrapara, Cuttack, Jagatsinghpur, Puri, Khordha, Nayagarh, Ganjam, Gajapati, Koraput, Malkangiri, Rayagada, Mayurbhanj, Keonjhar, and Sundargarh have experienced heavy to [...]The post Odisha Faces Heavy Rainfall as Southwest Monsoon and Low-Pressure System Intensify appeared first on Pragativadi I Latest Odisha News in English I Breaking News .",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-06-17 18:15:58",
-            "pubDateTZ": "UTC",
-            "image_url": "https://pragativadi.com/wp-content/uploads/2025/05/Heavy-Rain-to-Lash-Odisha-Till-May-30-Amid-Bay-of-Bengal-Low-Pressure-Formation-640x375.jpg",
-            "video_url": null,
-            "source_id": "pragativadi",
-            "source_name": "Pragativadi",
-            "source_priority": 440576,
-            "source_url": "https://pragativadi.com",
-            "source_icon": "https://n.bytvi.com/pragativadi.jpg",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "474e61b51fd75c369ab10bfb3da47b78",
-            "title": "Army facilitates training of 10 Manipur youth for induction as Agniveers",
-            "link": "https://www.thehindu.com/news/national/army-facilitates-training-of-10-manipur-youth-for-induction-as-agniveers/article69706254.ece",
-            "keywords": [
-                "india"
-            ],
-            "creator": null,
-            "description": "The success of these Agniveers stands as a beacon of hope, encouraging more young individuals in Manipur to take up meaningful roles in nation-building, says Defence Ministry",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-06-17 18:15:58",
-            "pubDateTZ": "UTC",
-            "image_url": "https://th-i.thgim.com/public/incoming/6ro9vn/article69706381.ece/alternates/LANDSCAPE_1200/PTI06_05_2025_000114A.jpg",
-            "video_url": null,
-            "source_id": "thehindu",
-            "source_name": "The Hindu",
-            "source_priority": 2972,
-            "source_url": "https://www.thehindu.com",
-            "source_icon": "https://n.bytvi.com/thehindu.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "3e249221725aac2592a07f07abe6ac93",
-            "title": "Vastu Tips For Kitchen : भूल-चूक से भी रसोईघर में उल्टी ना रखें इन चीजों को, नहीं तो भुगतनी पड़ेगी सजा",
-            "link": "https://www.prabhatkhabar.com/religion/vastu-tips-for-kitchen-avoid-these-mistakes-for-good-luck",
-            "keywords": [
-                "vastu tips",
-                "religion",
-                "religion news",
-                "vastu tips for kitchen"
-            ],
-            "creator": [
-                "Ashi Goyal"
-            ],
-            "description": "Vastu Tips For Kitchen : रसोईघर में की गई छोटी-छोटी गलतियां भी जीवन में बड़े वास्तु दोष उत्पन्न कर सकती हैं. देवी अन्नपूर्णा की कृपा पाने और घर में सुख-शांति बनाए रखने के लिए इन वास्तु नियमों का पालन करना अत्यंत आवश्यक है.The post Vastu Tips For Kitchen : भूल-चूक से भी रसोईघर में उल्टी ना रखें इन चीजों को, नहीं तो भुगतनी पड़ेगी सजा appeared first on Prabhat Khabar.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-06-17 18:15:57",
-            "pubDateTZ": "UTC",
-            "image_url": "https://www.prabhatkhabar.com/wp-content/uploads/2024/12/sharp-objects-1.jpg",
-            "video_url": null,
-            "source_id": "prabhatkhabar",
-            "source_name": "Prabhat Khabar",
-            "source_priority": 343253,
-            "source_url": "https://www.prabhatkhabar.com",
-            "source_icon": "https://n.bytvi.com/prabhatkhabar.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "other"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "aa7a844507b7a6a0fcd45ad269906783",
-            "title": "PM Modi ended country's political instability that persisted since 1984 Javadekar",
-            "link": "https://www.theweek.in/wire-updates/national/2025/06/17/bom43-mh-govt-anniversary-javadekar.html",
-            "keywords": null,
-            "creator": null,
-            "description": "Pune, Jun 17 (PTI) Senior BJP leader and former Union minister Prakash Javadekar on Tuesday said Prime Minister Narendra Modi",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-06-17 18:15:56",
-            "pubDateTZ": "UTC",
-            "image_url": "https://www.theweek.in/content/dam/week/wire-updates/pti-preview-theweek.jpg",
-            "video_url": null,
-            "source_id": "theweek_in",
-            "source_name": "The Week",
-            "source_priority": 26911,
-            "source_url": "https://www.theweek.in",
-            "source_icon": "https://n.bytvi.com/theweek_in.jpg",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "world"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "cce1b16a548ae0318eae8b175ef53ffa",
-            "title": "Goyal to discuss India-UK FTA implementation with British counterpart during 2 day London visit",
-            "link": "https://www.theweek.in/wire-updates/business/2025/06/17/dcm109-biz-goyal-uk-visit.html",
-            "keywords": null,
-            "creator": null,
-            "description": "New Delhi, June 17 (PTI) Commerce and Industry Minister Piyush Goyal will hold talks with his British counterpart Jonathan Reynolds",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-06-17 18:15:56",
-            "pubDateTZ": "UTC",
-            "image_url": "https://www.theweek.in/content/dam/week/wire-updates/pti-preview-theweek.jpg",
-            "video_url": null,
-            "source_id": "theweek_in",
-            "source_name": "The Week",
-            "source_priority": 26911,
-            "source_url": "https://www.theweek.in",
-            "source_icon": "https://n.bytvi.com/theweek_in.jpg",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "business"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "ee4838cbf506bfa8ca5d7ecde9ca29d6",
-            "title": "Ahmedabad plane crash Last rites of AI pilot Sabharwal crew members conducted",
-            "link": "https://www.theweek.in/wire-updates/national/2025/06/17/bom44-mh-planecrash-ld-farewell.html",
-            "keywords": null,
-            "creator": null,
-            "description": "Mumbai, Jun 17 (PTI) Emotional scenes unfolded on Tuesday as the last rites of Captain Sumeet Sabharwal, pilot in",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-06-17 18:15:55",
-            "pubDateTZ": "UTC",
-            "image_url": "https://www.theweek.in/content/dam/week/wire-updates/pti-preview-theweek.jpg",
-            "video_url": null,
-            "source_id": "theweek_in",
-            "source_name": "The Week",
-            "source_priority": 26911,
-            "source_url": "https://www.theweek.in",
-            "source_icon": "https://n.bytvi.com/theweek_in.jpg",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "world"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "93c591f233041b41e084a5d6e168e897",
-            "title": "BMC files complaint after it finds industrial waste dumped in cleaned drain in Dharavi",
-            "link": "https://www.theweek.in/wire-updates/national/2025/06/17/bes27-mh-bmc-drain-complaint.html",
-            "keywords": null,
-            "creator": null,
-            "description": "Mumbai, Jun 17 (PTI) The Brihanmumbai Municipal Corporation (BMC) has lodged a complaint with the police against unidentified persons for",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-06-17 18:15:55",
-            "pubDateTZ": "UTC",
-            "image_url": "https://www.theweek.in/content/dam/week/wire-updates/pti-preview-theweek.jpg",
-            "video_url": null,
-            "source_id": "theweek_in",
-            "source_name": "The Week",
-            "source_priority": 26911,
-            "source_url": "https://www.theweek.in",
-            "source_icon": "https://n.bytvi.com/theweek_in.jpg",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "world"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "c1564e079a1bd47d5c41576a7c30ba8a",
-            "title": "नवा रायपुर में NGO कुछ फ़र्ज़ हमारा भी के सदस्यों ने पेश की इंसानियत की मिसाल",
-            "link": "https://jantaserishta.com/local/chhattisgarh/in-nava-raipur-members-of-ngo-kuch-farz-hamara-bhi-set-an-example-of-humanity-4088790",
-            "keywords": [
-                "भारत,छत्तीसगढ़,top news,राज्य,breaking news,newzo-jsr"
-            ],
-            "creator": [
-                "Shantanu Roy"
-            ],
-            "description": "छग",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-06-17 18:15:51",
-            "pubDateTZ": "UTC",
-            "image_url": "https://jantaserishta.com/h-upload/2025/06/17/4681491-untitled-49-copy.webp",
-            "video_url": null,
-            "source_id": "jantaserishta",
-            "source_name": "Janta Se Rishta",
-            "source_priority": 81836,
-            "source_url": "https://jantaserishta.com",
-            "source_icon": "https://n.bytvi.com/jantaserishta.jpg",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "5912bb8d52bf6b8e312bd2cc8619b1d1",
-            "title": "नोएडा में डिजिटल अरेस्ट कर धोखाधड़ी करने वाले गैंग का शातिर गिरफ्तार",
-            "link": "https://www.deshbandhu.co.in/news/specialstory-a-member-of-a-gang-involved-in-digital-fraud-has-been-arrested-in-noida-563097-1",
-            "keywords": null,
-            "creator": null,
-            "description": "नोएडा के साइबर थाने ने लोकल इंटेलिजेंस और गोपनीय सूचना के आधार पर कार्रवाई करते हुए डिजिटल अरेस्ट कर 50 लाख रुपए की धोखाधड़ी करने वाले साइबर आरोपी को दिल्ली से गिरफ्तार किया",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-06-17 18:15:46",
-            "pubDateTZ": "UTC",
-            "image_url": "https://www.deshbandhu.co.in/Admin/storyimage/187a173e-e532-4d77-bf94-ad66badb693b_Noida.jpg",
-            "video_url": null,
-            "source_id": "deshbandhu",
-            "source_name": "Deshbandhu-hindi",
-            "source_priority": 13621201,
-            "source_url": "https://www.deshbandhu.co.in",
-            "source_icon": null,
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "678ea9951defca95a0ba891a189293ee",
-            "title": "VIDEO: Hardoi's Ariba Khan Justifies Pointing Pistol At Petrol Pump Worker After Heated Argument",
-            "link": "https://www.freepressjournal.in/india/video-hardois-ariba-khan-justifies-pointing-pistol-at-petrol-pump-worker-after-heated-argument",
-            "keywords": null,
-            "creator": null,
-            "description": null,
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-06-17 18:15:39",
-            "pubDateTZ": "UTC",
-            "image_url": "https://media.assettype.com/freepressjournal/2025-06-16/imvoxbel/Untitled-design-2025-06-16T112052.962.jpg?width=1200",
-            "video_url": null,
-            "source_id": "freepressjournal",
-            "source_name": "The Free Press Journal",
-            "source_priority": 26427,
-            "source_url": "https://www.freepressjournal.in",
-            "source_icon": "https://n.bytvi.com/freepressjournal.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "f60e281878c4b86c517dbdf524ea7d80",
-            "title": "Put your money where your mouth is",
-            "link": "https://economictimes.indiatimes.com/opinion/et-editorial/put-your-money-where-your-mouth-is/articleshow/121915811.cms",
-            "keywords": null,
-            "creator": null,
-            "description": "India's pollution crisis is worsening, yet the Central Pollution Control Board (CPCB) has spent a minuscule 0.2% of collected environmental compensation on mitigation between 2018 and 2024. Despite receiving ₹45.81 crore in fines, only ₹9 lakh was used in 2024-25. This inaction highlights a severe lack of accountability, hindering efforts to improve health, ecosystems, and the economy.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-06-17 18:15:38",
-            "pubDateTZ": "UTC",
-            "image_url": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-169654,resizemode-75,msid-121915811/opinion/et-editorial/put-your-money-where-your-mouth-is.jpg",
-            "video_url": null,
-            "source_id": "economictimes_indiatimes",
-            "source_name": "The Economic Times",
-            "source_priority": 231,
-            "source_url": "https://economictimes.indiatimes.com",
-            "source_icon": "https://n.bytvi.com/economictimes_indiatimes.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "politics"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "3a5f4f78aa7eedf4b47eef0d13cd5c7e",
-            "title": "दृढ़ संकल्प के साथ मेहनत करें, सफलता अवश्य मिलेगी",
-            "link": "https://www.prabhatkhabar.com/state/jharkhand/ramgarh/mahnat-karnay-per-melage-saflata",
-            "keywords": [
-                "jharkhand politics",
-                "रामगढ़"
-            ],
-            "creator": [
-                "SAROJ TIWARY"
-            ],
-            "description": "दृढ़ संकल्प के साथ मेहनत करें, सफलता अवश्य मिलेगीThe post दृढ़ संकल्प के साथ मेहनत करें, सफलता अवश्य मिलेगी appeared first on Prabhat Khabar.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-06-17 18:15:36",
-            "pubDateTZ": "UTC",
-            "image_url": "https://www.prabhatkhabar.com/wp-content/uploads/2025/02/ramgarh.jpg",
-            "video_url": null,
-            "source_id": "prabhatkhabar",
-            "source_name": "Prabhat Khabar",
-            "source_priority": 343253,
-            "source_url": "https://www.prabhatkhabar.com",
-            "source_icon": "https://n.bytvi.com/prabhatkhabar.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "35818cd89b2ad69be24cf11fecd0a5d5",
-            "title": "Tourism Minister's Resilience: Navigating Temples and Turbulence",
-            "link": "https://www.devdiscourse.com/article/entertainment/3461487-tourism-ministers-resilience-navigating-temples-and-turbulence",
-            "keywords": null,
-            "creator": null,
-            "description": "Tourism Minister's Resilience: Navigating Temples and Turbulence Union Tourism Minister Gajendra Singh Shekhawat is set for a two-day official visit to Jammu and Kashmir, where he will meet Chief Minister Omar Abdullah, according to official sources.During his visit, Shekhawat plans to tour several ancient temples in the Union Territory, including the renowned Kheer Bhawani Temple and Martand Surya Temple, alongside picturesque locations like Pahalgam and Betaab Valley in the Anantnag district. This tour follows nearly two months after the terror attack in Pahalgam on April 22.In response to the attack, Shekhawat maintained vigilant communication with Jammu and Kashmir's chief and tourism secretaries, striving to minimize the impact on the region's tourism sector. Meanwhile, logistical challenges arose during his travel as adverse weather led to his flight being diverted, ultimately landing in Bhopal before reaching Delhi. The unexpected diversions mirrored significant weather disruptions which rerouted 14 flights from Delhi's airport on Tuesday evening.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-06-17 18:15:32",
-            "pubDateTZ": "UTC",
-            "image_url": "https://devdiscourse.blob.core.windows.net/devnews/14_05_2025_13_49_02_96386.jpg",
-            "video_url": null,
-            "source_id": "devdiscourse",
-            "source_name": "Devdiscourse",
-            "source_priority": 566021,
-            "source_url": "https://www.devdiscourse.com",
-            "source_icon": "https://n.bytvi.com/devdiscourse.jpg",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "3bab156bded6d7ce2ce73a68df037d68",
-            "title": "केएल से ओपनिंग तो नायर पांचवें पर, इस प्लेयर का डेब्यू चाहते हैं रवि शास्त्री",
-            "link": "https://hindi.news18.com/cricket/ravi-shastri-supports-sai-sudharsan-batting-at-number-three-and-karun-nair-at-5-vs-england-test-series-ws-kl-9316651.html",
-            "keywords": [
-                "क्रिकेट"
-            ],
-            "creator": [
-                "Anshul Talmale"
-            ],
-            "description": "IND vs ENG Test Series: रवि शास्त्री ने साई सुदर्शन को तीसरे और करुण नायर को पांचवें नंबर पर बल्लेबाजी करने के लिए परफेक्ट उम्मीदवार बताया है. भारत की इंग्लैंड के खिलाफ श्रृंखला शुक्रवार से शुरू होगी.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-06-17 18:15:32",
-            "pubDateTZ": "UTC",
-            "image_url": "https://images.news18.com/ibnkhabar/uploads/2025/06/cats-2025-06-8eccb5b88132e83ae126dfae6afd1297-3x2.jpg",
-            "video_url": null,
-            "source_id": "hindinews18",
-            "source_name": "News 18 Hindi",
-            "source_priority": 4077,
-            "source_url": "https://hindi.news18.com",
-            "source_icon": "https://n.bytvi.com/hindinews18.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "sports"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "54529057db2504c5d91f823b87f9d442",
-            "title": "MyKayla Skinner accuses Simone Biles of bullying amid online feud; ‘I have been belittled...’",
-            "link": "https://www.hindustantimes.com/world-news/us-news/mykayla-skinner-accuses-simone-biles-of-bullying-amid-online-feud-i-have-been-belittled-101750177742579.html",
-            "keywords": [
-                "world-news"
-            ],
-            "creator": null,
-            "description": "MyKayla Skinner called out Simone Biles for years of bullying, which resurfaced after Biles' recent remarks on swimmer Riley Gaines.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-06-17 18:15:31",
-            "pubDateTZ": "UTC",
-            "image_url": "https://www.hindustantimes.com/ht-img/img/2025/06/17/1600x900/GtpWLVyXkAA8zCE_1750178880832_1750178898270.jpeg",
-            "video_url": null,
-            "source_id": "hindustantimes",
-            "source_name": "Hindustan Times",
-            "source_priority": 933,
-            "source_url": "http://www.hindustantimes.com",
-            "source_icon": "https://n.bytvi.com/hindustantimes.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "world"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "967598bbca3bf8db86f56c91fb6e0d64",
-            "title": "\"The journey continues\"- Julien Alfred pens strong message after inching closer to Melissa Jefferson's world lead",
-            "link": "https://www.sportskeeda.com/us/olympics/news-the-journey-continues-julien-alfred-pens-strong-message-inching-closer-melissa-jefferson-s-world-lead",
-            "keywords": [
-                "olympics"
-            ],
-            "creator": [
-                "Soumik Bhattacharya"
-            ],
-            "description": "Saint Lucian track athlete Julien Alfred expressed her delight after clocking a 100m meet record time at the 2025 Stockholm Diamond League. The 24-year-old clocked a run-time of 10.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-06-17 18:15:25",
-            "pubDateTZ": "UTC",
-            "image_url": null,
-            "video_url": null,
-            "source_id": "sportskeeda",
-            "source_name": "Sportskeeda",
-            "source_priority": 1040,
-            "source_url": "http://sportskeeda.com",
-            "source_icon": "https://n.bytvi.com/sportskeeda.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "sports"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "11b1ae35e1c2b08f6cbfa978fc0337d3",
-            "title": "Anatomy of an air strike: Israeli strike hits busy Tehran intersection",
-            "link": "https://www.france24.com/en/middle-east/20250617-anatomy-of-an-air-strike-israeli-strike-hits-busy-tehran-intersection",
-            "keywords": [
-                "middle east"
-            ],
-            "creator": [
-                "The FRANCE 24 Observers",
-                "© FRANCE 24"
-            ],
-            "description": "While Israel’s initial attacks on Iran on June 13 targeted military and nuclear facilities and personnel, subsequent strikes have hit a broader range of targets, with an increasing number of civilians killed. This was evident on June 15 when two air strikes hit Tehran’s Tajrish neighbourhood. One struck a building, while the other hit one of northern Tehran's busiest intersections, rupturing a main water pipe. The strikes resulted in the deaths of 17 people, according to Iranian authorities.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-06-17 18:15:22",
-            "pubDateTZ": "UTC",
-            "image_url": "https://s.france24.com/media/display/f980e104-4b9e-11f0-ba8a-005056bfb2b6/w:1024/p:16x9/Design-sans-titre-3.png",
-            "video_url": null,
-            "source_id": "france24",
-            "source_name": "France 24",
-            "source_priority": 2706,
-            "source_url": "https://www.france24.com/en",
-            "source_icon": "https://n.bytvi.com/france24.png",
-            "language": "english",
-            "country": [
-                "georgia",
-                "yemen",
-                "afghanistan",
-                "cyprus",
-                "india",
-                "saudi arabia",
-                "united arab emirates",
-                "pakistan",
-                "egypt",
-                "lebanon",
-                "kyrgyzstan",
-                "syria",
-                "israel",
-                "djibouti",
-                "iran",
-                "turkey",
-                "armenia",
-                "qatar",
-                "morocco",
-                "kazakhstan",
-                "iraq",
-                "kuwait",
-                "ethiopia",
-                "azerbaijan",
-                "jordan",
-                "sudan",
-                "somalia",
-                "algeria",
-                "oman",
-                "libya",
-                "uzbekistan",
-                "turkmenistan",
-                "mauritania",
-                "bahrain",
-                "tunisia",
-                "tajikistan"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "fde7fc8155288fba653aff69a20f243c",
-            "title": "Torre to be honorary AL coach for All-Star Game",
-            "link": "https://www.espn.com/mlb/story/_/id/45531618/joe-torre-joining-al-honorary-coach-all-star-game",
-            "keywords": null,
-            "creator": null,
-            "description": "Former Yankees coach Joe Torre will join the American League team as an honorary coach for the All-Star Game, MLB announced Tuesday.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-06-17 18:15:18",
-            "pubDateTZ": "UTC",
-            "image_url": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F1031%2Fr1408347_1296x729_16-9.jpg",
-            "video_url": null,
-            "source_id": "espn",
-            "source_name": "Espn",
-            "source_priority": 341,
-            "source_url": "https://www.espn.com",
-            "source_icon": "https://n.bytvi.com/espn.png",
-            "language": "english",
-            "country": [
-                "india",
-                "united states of america",
-                "united kingdom",
-                "australia",
-                "singapore",
-                "canada"
-            ],
-            "category": [
-                "sports"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "97538286a4d9c9e72f8c0c584f70bc42",
-            "title": "Oilers turn back to Skinner in goal in must-win G6",
-            "link": "https://www.espn.com/nhl/story/_/id/45531297/oilers-turn-back-stuart-skinner-goal-win-game-6",
-            "keywords": null,
-            "creator": null,
-            "description": "The Oilers are turning back to Stuart Skinner in goal for Tuesday night's must-win Game 6 against the Panthers in the Stanley Cup Final.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-06-17 18:15:18",
-            "pubDateTZ": "UTC",
-            "image_url": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F0525%2Fr1497926_1296x729_16-9.jpg",
-            "video_url": null,
-            "source_id": "espn",
-            "source_name": "Espn",
-            "source_priority": 341,
-            "source_url": "https://www.espn.com",
-            "source_icon": "https://n.bytvi.com/espn.png",
-            "language": "english",
-            "country": [
-                "india",
-                "united states of america",
-                "united kingdom",
-                "australia",
-                "singapore",
-                "canada"
             ],
             "category": [
                 "sports"
