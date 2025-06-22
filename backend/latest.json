@@ -1,6 +1,634 @@
 {
     "articles": [
         {
+            "article_id": "ea22a8620713c4940e18d38d4ca4cf87",
+            "title": "1 Stock That Turned $1,000 Into More Than $1 Million",
+            "link": "https://finance.yahoo.com/news/1-stock-turned-1-000-201300318.html",
+            "keywords": null,
+            "creator": [
+                "Motley Fool"
+            ],
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-21 20:13:00",
+            "pubDateTZ": "UTC",
+            "image_url": "https://media.zenfs.com/en/motleyfool.com/c9e3dc433e6d6509576b1fef8d45b33a",
+            "video_url": null,
+            "source_id": "yahoo",
+            "source_name": "Yahoo! News",
+            "source_priority": 17,
+            "source_url": "https://news.yahoo.com",
+            "source_icon": "https://n.bytvi.com/yahoo.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "business"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": true
+        },
+        {
+            "article_id": "633a89549d3aa2b39562491d2ee888fc",
+            "title": "Stock-Split Watch: Is Palantir Technologies Next?",
+            "link": "https://finance.yahoo.com/news/stock-split-watch-palantir-technologies-201300303.html",
+            "keywords": null,
+            "creator": [
+                "Motley Fool"
+            ],
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-21 20:13:00",
+            "pubDateTZ": "UTC",
+            "image_url": "https://s.yimg.com/ny/api/res/1.2/oFPeZm61VqBhcKhfVDixPA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/motleyfool.com/a0601a635593b2c360a01e197ef6d0db",
+            "video_url": null,
+            "source_id": "yahoo",
+            "source_name": "Yahoo! News",
+            "source_priority": 17,
+            "source_url": "https://news.yahoo.com",
+            "source_icon": "https://n.bytvi.com/yahoo.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "business"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": true
+        },
+        {
+            "article_id": "b36d06dacab4ae1992b8ca2686e1abe8",
+            "title": "Nainital News: चार करोड़ से सुधरेंगी सिंचाई नहरें",
+            "link": "https://www.amarujala.com/uttarakhand/nainital/irrigation-canals-will-be-improved-with-four-crores-bhimtal-news-c-240-1-shld1006-108442-2025-06-22",
+            "keywords": null,
+            "creator": null,
+            "description": "जिला योजना से सिंचाई विभाग को 4.53 करोड़ की धनराशि दी जाएगी।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-21 20:12:58",
+            "pubDateTZ": "UTC",
+            "image_url": "https://staticimg.amarujala.com/assets/images/2021/10/20/nainital_1634712074.jpeg?dpr=1.0&q=80&w=414",
+            "video_url": null,
+            "source_id": "amarujala",
+            "source_name": "Amar Ujala",
+            "source_priority": 55215,
+            "source_url": "https://www.amarujala.com",
+            "source_icon": "https://n.bytvi.com/amarujala.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "bc581717f08c44fc255c6ac811743ed3",
+            "title": "Barabanki News: आज दो घंटे बंद रहेगी बिजली आपूर्ति",
+            "link": "https://www.amarujala.com/uttar-pradesh/barabanki/electricity-supply-will-be-shut-down-for-two-hours-today-barabanki-news-c-315-1-brp1005-142100-2025-06-22",
+            "keywords": null,
+            "creator": null,
+            "description": "आज दो घंटे बंद रहेगी बिजली आपूर्ति",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-21 20:12:51",
+            "pubDateTZ": "UTC",
+            "image_url": "https://staticimg.amarujala.com/assets/images/2021/12/02/barabanki_1638428766.jpeg?dpr=1.0&q=80&w=414",
+            "video_url": null,
+            "source_id": "amarujala",
+            "source_name": "Amar Ujala",
+            "source_priority": 55215,
+            "source_url": "https://www.amarujala.com",
+            "source_icon": "https://n.bytvi.com/amarujala.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "7a014eb03e937345adb313869fc1a52c",
+            "title": "Lucknow News: आज भी बारिश के आसार, जारी रहेगा सिलसिला",
+            "link": "https://www.amarujala.com/lucknow/chances-of-rain-today-too-the-sequence-will-continue-lucknow-news-c-13-knp1002-1260569-2025-06-22",
+            "keywords": null,
+            "creator": null,
+            "description": "राजधानी पर भी इन दिनों मौसम मेहरबान है। शनिवार को कुछ स्थानों पर छिटपुट बूंदाबांदी के कारण तापमान में कमी महसूस की गई।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-21 20:12:45",
+            "pubDateTZ": "UTC",
+            "image_url": "https://staticimg.amarujala.com/assets/images/2021/10/21/lucknow_1634823856.jpeg?dpr=1.0&q=80&w=414",
+            "video_url": null,
+            "source_id": "amarujala",
+            "source_name": "Amar Ujala",
+            "source_priority": 55215,
+            "source_url": "https://www.amarujala.com",
+            "source_icon": "https://n.bytvi.com/amarujala.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "09df9d4316e958a33bd87b9b3a124b0b",
+            "title": "Rohtak News: एसडीएम के आदेश पर दोबारा शुरू हुई नाले की सफाई",
+            "link": "https://www.amarujala.com/haryana/rohtak/on-the-orders-of-sdm-cleaning-of-drain-started-again-rohtak-news-c-17-roh1020-676697-2025-06-22",
+            "keywords": null,
+            "creator": null,
+            "description": "शनिवार को एसडीएम उत्सव आनंद के निर्देश पर हाईवे के साथ लगते नाले की सफाई शुरू की गई, जबकि अधिकारी नालों की सफाई की जा चुकी होने का दावा कर रहे हैं।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-21 20:12:38",
+            "pubDateTZ": "UTC",
+            "image_url": "https://staticimg.amarujala.com/assets/images/2021/11/01/rohtak_1635758601.jpeg?dpr=1.0&q=80&w=414",
+            "video_url": null,
+            "source_id": "amarujala",
+            "source_name": "Amar Ujala",
+            "source_priority": 55215,
+            "source_url": "https://www.amarujala.com",
+            "source_icon": "https://n.bytvi.com/amarujala.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "8a49e17dfa196e72b7577b9bf02750c6",
+            "title": "Sambhal News: योगमय हुआ संभल...निरोग रहने के लिए किए आसन",
+            "link": "https://www.amarujala.com/uttar-pradesh/sambhal/be-careful-with-yoga-did-asanas-to-stay-healthy-chandausi-news-c-204-1-chn1001-120941-2025-06-22",
+            "keywords": null,
+            "creator": null,
+            "description": "अंतरराष्ट्रीय योग दिवस पर जिले में जगह-जगह योग कार्यक्रमों का आयोजन किया गया।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-21 20:12:31",
+            "pubDateTZ": "UTC",
+            "image_url": "https://staticimg.amarujala.com/assets/images/2021/12/02/sambhal_1638431705.jpeg?dpr=1.0&q=80&w=414",
+            "video_url": null,
+            "source_id": "amarujala",
+            "source_name": "Amar Ujala",
+            "source_priority": 55215,
+            "source_url": "https://www.amarujala.com",
+            "source_icon": "https://n.bytvi.com/amarujala.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "e28c30bcb7313806738b08014809161f",
+            "title": "Mathura News: पिकनिक पर गए सेवानिवृत्त सीडीओ के घर में 38 लाख रुपये की चोरी",
+            "link": "https://www.amarujala.com/uttar-pradesh/mathura/38-lakh-rupees-stolen-from-the-house-of-a-retired-cdo-who-had-gone-on-a-picnic-mathura-news-c-369-1-mt11009-131484-2025-06-22",
+            "keywords": null,
+            "creator": null,
+            "description": "मथुरा समाचार",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-21 20:12:24",
+            "pubDateTZ": "UTC",
+            "image_url": "https://staticimg.amarujala.com/assets/images/4cplus/2025/06/22/ghara-ma-khal-paugdha-almara_386053692655c95a23a007562f20672b.jpeg?dpr=1.0&q=80&w=414",
+            "video_url": null,
+            "source_id": "amarujala",
+            "source_name": "Amar Ujala",
+            "source_priority": 55215,
+            "source_url": "https://www.amarujala.com",
+            "source_icon": "https://n.bytvi.com/amarujala.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "eff13233574ad9fc59887796a979832e",
+            "title": "Private Banks Cut Msme Lending As Early Defaults Rise Report",
+            "link": "https://www.businessworld.in/article/private-banks-cut-msme-lending-as-early-defaults-rise-report-557627",
+            "keywords": null,
+            "creator": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-21 20:12:22",
+            "pubDateTZ": "UTC",
+            "image_url": null,
+            "video_url": null,
+            "source_id": "businessworld",
+            "source_name": "Bw Businessworld",
+            "source_priority": 31375,
+            "source_url": "https://www.businessworld.in",
+            "source_icon": null,
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "3c5607d224024ab14c984263dc47eace",
+            "title": "Bareilly News: ड्यूटी से गैरहाजिर सिपाही को किया निलंबित",
+            "link": "https://www.amarujala.com/uttar-pradesh/bareilly/soldiers-who-were-absent-from-duty-were-suspended-bareilly-news-c-4-bly1015-667171-2025-06-22",
+            "keywords": null,
+            "creator": null,
+            "description": "बिना सूचना दिए सात माह से ड्यूटी से गैरहाजिर रहने पर एसएसपी ने सिरौली में तैनात सिपाही को निलंबित कर दिया है।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-21 20:12:16",
+            "pubDateTZ": "UTC",
+            "image_url": "https://staticimg.amarujala.com/assets/images/2021/12/01/bareilly_1638345241.jpeg?dpr=1.0&q=80&w=414",
+            "video_url": null,
+            "source_id": "amarujala",
+            "source_name": "Amar Ujala",
+            "source_priority": 55215,
+            "source_url": "https://www.amarujala.com",
+            "source_icon": "https://n.bytvi.com/amarujala.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "9198b8e55dc5a3ea63ea0b2fc2a6a703",
+            "title": "UFC Baku purses and payouts: How much Jamahal Hill, Khalil Rountree Jr., and others are reportedly making",
+            "link": "https://www.sportskeeda.com/mma/news-ufc-baku-purses-payouts-how-much-jamahal-hill-khalil-rountree-jr-others-reportedly-making",
+            "keywords": [
+                "mma"
+            ],
+            "creator": [
+                "Ricardo Viagem"
+            ],
+            "description": "The UFC Baku payouts are of great interest with the card just hours away. It is main-evented by Jamahal Hill and Khalil Rountree Jr.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-21 20:12:09",
+            "pubDateTZ": "UTC",
+            "image_url": null,
+            "video_url": null,
+            "source_id": "sportskeeda",
+            "source_name": "Sportskeeda",
+            "source_priority": 1040,
+            "source_url": "http://sportskeeda.com",
+            "source_icon": "https://n.bytvi.com/sportskeeda.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "sports"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "44ad0c615fce1dbb0e6d3cd875439b7e",
+            "title": "Jhansi News: नगरियां कुआं में दिनदहाड़े मुठभेड़, दो बदमाश घायल",
+            "link": "https://www.amarujala.com/uttar-pradesh/jhansi/encounter-in-broad-daylight-in-nagariya-kuan-two-miscreants-injured-jhansi-news-c-11-1-jhs1032-582438-2025-06-22",
+            "keywords": null,
+            "creator": null,
+            "description": "नगरियां कुआं में दिनदहाड़े मुठभेड़, दो बदमाश घायल",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-21 20:12:09",
+            "pubDateTZ": "UTC",
+            "image_url": "https://staticimg.amarujala.com/assets/images/2021/10/18/jhansi_1634557409.jpeg?dpr=1.0&q=80&w=414",
+            "video_url": null,
+            "source_id": "amarujala",
+            "source_name": "Amar Ujala",
+            "source_priority": 55215,
+            "source_url": "https://www.amarujala.com",
+            "source_icon": "https://n.bytvi.com/amarujala.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "4f9c8bc3cf41a7b9616fcd9b90d5a677",
+            "title": "Soon, GIS mapping of Sal river and Ponda nullah; digital portal for environmental monitoring in state",
+            "link": "https://timesofindia.indiatimes.com/city/goa/soon-gis-mapping-of-sal-river-and-ponda-nullah-digital-portal-for-environmental-monitoring-in-state/articleshow/121998322.cms",
+            "keywords": null,
+            "creator": null,
+            "description": "Soon, GIS mapping of Sal river and Ponda nullah; digital portal for environmental monitoring in state",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-21 20:12:02",
+            "pubDateTZ": "UTC",
+            "image_url": "https://static.toiimg.com/thumb/msid-121998319,width-1070,height-580,imgsize-289698,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "video_url": null,
+            "source_id": "toi",
+            "source_name": "The Times Of India",
+            "source_priority": 239,
+            "source_url": "https://timesofindia.indiatimes.com",
+            "source_icon": "https://n.bytvi.com/toi.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "8cf2f2ee18d22fa1aaa67751002d2f87",
+            "title": "Rohtak News: सुखपुरा चौक और छोटूराम चौक के नालों से अतिक्रमण हटाया, आज शिवाजी कॉलोनी में होगी कार्रवाई",
+            "link": "https://www.amarujala.com/haryana/rohtak/encroachment-removed-from-the-drains-of-sukhpura-chowk-and-chhotu-ram-chowk-action-will-be-taken-in-shivaji-colony-today-rohtak-news-c-17-roh1019-676541-2025-06-22",
+            "keywords": null,
+            "creator": null,
+            "description": "मानसून में जलभराव से शहर को बचाने के लिए नगर निगम ने सख्ती बरतनी शुरू कर दी है।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-21 20:12:01",
+            "pubDateTZ": "UTC",
+            "image_url": "https://staticimg.amarujala.com/assets/images/2021/11/01/rohtak_1635758601.jpeg?dpr=1.0&q=80&w=414",
+            "video_url": null,
+            "source_id": "amarujala",
+            "source_name": "Amar Ujala",
+            "source_priority": 55215,
+            "source_url": "https://www.amarujala.com",
+            "source_icon": "https://n.bytvi.com/amarujala.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "6fce2cc00032d9db7ab16684916175ba",
+            "title": "Barabanki News: सुबह-सुबह संयोग, लाखों ने किया योग",
+            "link": "https://www.amarujala.com/uttar-pradesh/barabanki/coincidence-in-the-early-morning-people-did-yoga-barabanki-news-c-315-1-brp1005-142071-2025-06-22",
+            "keywords": null,
+            "creator": null,
+            "description": "सुबह-सुबह संयोग, लाखों ने किया योग",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-21 20:11:54",
+            "pubDateTZ": "UTC",
+            "image_url": "https://staticimg.amarujala.com/assets/images/4cplus/2025/06/22/brabka-ma-atararashhataraya-yaga-thavasa-ka-avasara-para-shanavara-ka-shahara-ka-jaaaiisa-oidatarayama-ma-yagabhayasa_52cdc6df07dc44628dc6b5718a2d2777.jpeg?dpr=1.0&q=80&w=414",
+            "video_url": null,
+            "source_id": "amarujala",
+            "source_name": "Amar Ujala",
+            "source_priority": 55215,
+            "source_url": "https://www.amarujala.com",
+            "source_icon": "https://n.bytvi.com/amarujala.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "344711e19891bdbad6afedaeab8464cd",
+            "title": "धन, दौलत से नहीं, बल्कि मन से करनी चाहिए मित्रता : कथाव्यास",
+            "link": "https://www.amarujala.com/uttar-pradesh/sambhal/friendship-should-be-made-not-with-money-wealth-but-with-heart-kathavyas-sambhal-news-c-275-1-smbd1033-123893-2025-06-22",
+            "keywords": null,
+            "creator": null,
+            "description": "गांव पवांसा में श्रीमद् भागवत कथा के सातवें दिन कन्याओं ने हवन में आहुति देकर माता-पिता और गुरु की सेवा करने का संकल्प लिया।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-21 20:11:47",
+            "pubDateTZ": "UTC",
+            "image_url": "https://staticimg.amarujala.com/assets/images/2021/12/02/sambhal_1638431705.jpeg?dpr=1.0&q=80&w=414",
+            "video_url": null,
+            "source_id": "amarujala",
+            "source_name": "Amar Ujala",
+            "source_priority": 55215,
+            "source_url": "https://www.amarujala.com",
+            "source_icon": "https://n.bytvi.com/amarujala.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "7361d0ceff99ae9f46fe37e7b42a3fbf",
+            "title": "Bareilly News: तीन सौ बेड अस्पताल पर निगम का 4.13 करोड़ रुपये संपत्तिकर बकाया",
+            "link": "https://www.amarujala.com/uttar-pradesh/bareilly/corporation-owes-rs-413-crore-property-tax-on-three-hundred-bed-hospital-bareilly-news-c-4-bly1015-667244-2025-06-22",
+            "keywords": null,
+            "creator": null,
+            "description": "बरेली। आधी-अधूरी तैयारियों के साथ चल रहे तीन सौ बेड अस्पताल पर नगर निगम ने 4,13,51,802 रुपये टैक्स जमा करने के लिए बिल भेजा है। अस्पताल के नाम से पहली बार भारी भरकम टैक्स जमा करने का नोटिस मिलने पर भुगतान को लेकर अफसरों में असमंजस की स्थिति है।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-21 20:11:39",
+            "pubDateTZ": "UTC",
+            "image_url": "https://staticimg.amarujala.com/assets/images/2021/12/01/bareilly_1638345241.jpeg?dpr=1.0&q=80&w=414",
+            "video_url": null,
+            "source_id": "amarujala",
+            "source_name": "Amar Ujala",
+            "source_priority": 55215,
+            "source_url": "https://www.amarujala.com",
+            "source_icon": "https://n.bytvi.com/amarujala.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "75e0521a326833d5ff6a7259d00c6454",
+            "title": "What to Watch This Weekend: Here’s the complete list",
+            "link": "https://economictimes.indiatimes.com/news/international/us/what-to-watch-this-weekend-heres-the-complete-list/articleshow/121998317.cms",
+            "keywords": null,
+            "creator": null,
+            "description": "This weekend offers four new movie options. \"28 Years Later\" returns with a new trilogy. Pixar's \"Elio\" explores alien adventures. \"Bride Hard\" mixes comedy and action at a wedding. \"Final Destination: Bloodlines\" brings back creative death sequences. Each film offers a different viewing experience for audiences at home or in theaters.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-21 20:11:21",
+            "pubDateTZ": "UTC",
+            "image_url": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-49674,resizemode-75,msid-121998317/news/international/us/what-to-watch-this-weekend-heres-the-complete-list.jpg",
+            "video_url": null,
+            "source_id": "economictimes_indiatimes",
+            "source_name": "The Economic Times",
+            "source_priority": 231,
+            "source_url": "https://economictimes.indiatimes.com",
+            "source_icon": "https://n.bytvi.com/economictimes_indiatimes.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "0b3636f5198630e5788f07a59d7f1eb4",
+            "title": "Jhansi News: 19 माह में तलाक, अब सोशल मीडिया पर कर रहा बदनाम",
+            "link": "https://www.amarujala.com/uttar-pradesh/jhansi/divorced-in-19-months-now-defaming-on-social-media-jhansi-news-c-11-1-jhs1032-582437-2025-06-22",
+            "keywords": null,
+            "creator": null,
+            "description": "झांसी। निकाह के 19 माह बाद शौहर ने तलाक दे दिया। अब सोशल मीडिया पर पुत्री को बदनाम भी किया जा रहा है। समझाने पर जान से मारने की धमकी दी जा रही है। ये आरोप लगाते हुए जावेद अंसारी निवासी ऐवट मार्केट तालपुरा ने रिपोर्ट दर्ज कराई है।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-21 20:11:17",
+            "pubDateTZ": "UTC",
+            "image_url": "https://staticimg.amarujala.com/assets/images/2021/10/18/jhansi_1634557409.jpeg?dpr=1.0&q=80&w=414",
+            "video_url": null,
+            "source_id": "amarujala",
+            "source_name": "Amar Ujala",
+            "source_priority": 55215,
+            "source_url": "https://www.amarujala.com",
+            "source_icon": "https://n.bytvi.com/amarujala.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "890d2fbe713b7a37bb84961f7413a505",
+            "title": "Rohtak News: देवी लाल पार्क में हड़ताल पर बैठे अनुबंधित कर्मचारी",
+            "link": "https://www.amarujala.com/haryana/rohtak/contract-workers-sit-on-strike-in-devi-lal-park-rohtak-news-c-17-roh1020-676538-2025-06-22",
+            "keywords": null,
+            "creator": null,
+            "description": "पीजीआई के अनुबंधित हड़ताली कर्मचारियों ने शनिवार को मेडिकल मोड़ स्थित देवीलाल पार्क में प्रदर्शन किया।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-21 20:11:11",
+            "pubDateTZ": "UTC",
+            "image_url": "https://staticimg.amarujala.com/assets/images/2021/11/01/rohtak_1635758601.jpeg?dpr=1.0&q=80&w=414",
+            "video_url": null,
+            "source_id": "amarujala",
+            "source_name": "Amar Ujala",
+            "source_priority": 55215,
+            "source_url": "https://www.amarujala.com",
+            "source_icon": "https://n.bytvi.com/amarujala.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
             "article_id": "0cfed8a0ca313c7741cd403ed3596130",
             "title": "Una News: बस स्टैंड से डिग्री कॉलेज तक हटाया अतिक्रमण, चार रेहड़ियां जब्त",
             "link": "https://www.amarujala.com/himachal-pradesh/una/encroachment-removed-from-bus-stand-to-degree-college-four-carts-confiscated-una-news-c-93-1-ssml1047-156933-2025-06-21",
@@ -22675,674 +23303,6 @@
             ],
             "category": [
                 "sports"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "9e594b420cd18c4118ba1e4cd95849ac",
-            "title": "Is Your Savings Account Costing You Money? Here’s What Financial Advisor Said",
-            "link": "https://zeenews.india.com/economy/is-your-savings-account-costing-you-money-here-s-what-financial-advisor-said-2918911.html",
-            "keywords": null,
-            "creator": [
-                "Zee News"
-            ],
-            "description": "Lovish Anand points out that many Indians still depend on traditional options like savings accounts, fixed deposits, or LIC policies to manage their finances.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-06-20 08:11:00",
-            "pubDateTZ": "UTC",
-            "image_url": "https://english.cdn.zeenews.com/sites/default/files/2025/06/20/1774978-untitled-design-2025-06-20t133548.346.jpg",
-            "video_url": null,
-            "source_id": "zeenews",
-            "source_name": "Zee News",
-            "source_priority": 5319,
-            "source_url": "http://zeenews.india.com",
-            "source_icon": "https://n.bytvi.com/zeenews.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "business"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "ca8127f1ac8782d86ed6565668c5e270",
-            "title": "Karnataka increases reservation for minorities in housing scheme to 15%",
-            "link": "https://www.cnbctv18.com/india/politics/karnataka-increases-reservation-for-minorities-in-housing-scheme-to-15-19624244.htm",
-            "keywords": [
-                "politics"
-            ],
-            "creator": null,
-            "description": "State Law and Parliamentary Affairs Minister HK Patil said reservations would apply to Muslims, Christians, Buddhists, Sikhs, Jains and Parsis. He added that there was no internal reservation within this quota.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-06-20 08:11:00",
-            "pubDateTZ": "UTC",
-            "image_url": "https://images.cnbctv18.com/uploads/2024/03/sidda.jpg",
-            "video_url": null,
-            "source_id": "cnbctv18",
-            "source_name": "Cnbctv18",
-            "source_priority": 17950,
-            "source_url": "https://www.cnbctv18.com",
-            "source_icon": "https://n.bytvi.com/cnbctv18.jpg",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "politics"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "5be0eab4cf2d2eca54fc4319ff0af7ac",
-            "title": "Congress, RJD responsible for making Bihar deplorable: PM Modi in Siwan - The Hindu",
-            "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOakdnSVcxTjY2MWFyOUdSbzQ0VjlQclZ3cTZkQk41RjI3bFBld21sRjB5bmtyS01TTmtVVklRN09BUlJ3azhlaTFYbzVfRXltSjdnQzFONExfV3VmQU0xdC01eUh2d1ZEdzZhdHRHOUhZZXZOSElhTTFja0pHdE5QX2xFTk8xVDY5U2dLTVZ3TnUyRUhOVC1DSzh30gGgAUFVX3lxTE45bE5FNU1ld2lrV2JCZzByQ1VGcWdZOFdfZ1BJSG9wa19OeTdlakZtc3VMZEt4NFBtMkVHZGQ0YXpoSTlUekFHcUtSR1JsQmh3M3h6QkZFX25tZ08zWFpWOTlqQzA0MzNMUUxPMUpiY1VSbU1fYURzZjZUcWdWVzNpem9yOWxpTFVQM0s5VnpWZW5OMHdkRFdtTjN0ems4R20?oc=5",
-            "keywords": null,
-            "creator": null,
-            "description": "Congress, RJD responsible for making Bihar deplorable: PM Modi in Siwan The HinduIn Bihar, PM Narendra Modi slams RJD over Lalu Yadav's feet near Ambedkar photo row: ‘No respect for Dalits’ Hindustan TimesBihar elections: PM Modi slams RJD-Congress for ‘Jungle Raj’ in Siwan rally; unveils key projects, flags Times of IndiaParivaar ka saath, parivaar ka vikas: PM's jibe at RJD-Congress in Bihar India TodayOdisha BJP Government's First Anniversary: PM To Join Grand Celebrations NDTV",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-06-20 08:11:00",
-            "pubDateTZ": "UTC",
-            "image_url": null,
-            "video_url": null,
-            "source_id": "google",
-            "source_name": "Google News",
-            "source_priority": 14,
-            "source_url": "https://news.google.com",
-            "source_icon": "https://n.bytvi.com/google.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "b6f56656542886d82fe9834dfab4541e",
-            "title": "Kerala HC Seeks State Govt’s Stand On Contemplated Law Against Black Magic, Sorcery",
-            "link": "https://news.abplive.com/news/india/kerala-hc-seeks-state-govt-stand-on-contemplated-law-against-black-magic-sorcery-1781597",
-            "keywords": [
-                "india"
-            ],
-            "creator": [
-                "PTI"
-            ],
-            "description": "The Kerala High Court has sought the state government's stand regarding its earlier submission that it was contemplating legislation against evil practices like black magic and sorcery. The Kerala government had filed a submission in October 2022 while hearing a plea by an organisation called Kerala Yukthivadi Sangham, which had sought the enactment of a law against such practices.The petition was dismissed in June 2023 due to no one representing the petitioner organisation, but was later restored.When the matter came up for hearing before a division bench of Chief Justice Nitin Jamdar and Justice Basant Balaji on June 3, the court directed the government to file an affidavit regarding the state's stand in respect of its earlier position that it was contemplating to enact a law on the subject.The bench posted the matter on June 24.The organisation, in its plea, has stated that the Law Reforms Commission, headed by Justice (retired) K T Thomas, had submitted a comprehensive report to the State of Kerala in the year 2019, with legislative recommendations based on new social conditions.\"The Kerala Prevention and Eradication of Inhuman Evil Practices, Sorcery and Black Magic Bill-2019, is one of the recommended statutes. But so far, no attempt has been made on the part of the state on the matter,\" the organisation has claimed.The plea was filed in 2022 in the wake of a ritual human sacrifice of two women in the Pathanamthitta district of Kerala by three people, including a couple.The petition has claimed that laws against sorcery and black magic have been passed by the states of Maharashtra and Karnataka.It has also sought a declaration that \"films on big screens and OTT platforms, and several serials and other telefilms, aired on television channels and YouTube, having content of superstitious beliefs, including sorcery and occult practices, exempting those having good intentions and having good artistic values, are illegal\". (This report has been published as part of the auto-generated syndicate wire feed. Apart from the headline, no editing has been done in the copy by ABP Live.)",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-06-20 08:10:58",
-            "pubDateTZ": "UTC",
-            "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2025/06/20/6039469ede9b7b6de9eaeeea01bdb9401750406876475240_original.png",
-            "video_url": null,
-            "source_id": "abplive",
-            "source_name": "Abp News",
-            "source_priority": 7754,
-            "source_url": "http://abplive.com",
-            "source_icon": "https://n.bytvi.com/abplive.jpg",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "da6701af1ed771f22a0f1f33f6a91da0",
-            "title": "Streaming platform Deezer starts flagging AI-generated music",
-            "link": "http://economictimes.indiatimes.com/tech/artificial-intelligence/streaming-platform-deezer-starts-flagging-ai-generated-music/articleshow/121970900.cms",
-            "keywords": null,
-            "creator": null,
-            "description": "French streaming platform Deezer now flags fully AI-generated music with a “content generated by AI” label, aiming to protect artist royalties. Using in-house detection tech with claimed 98% accuracy, Deezer demonetises such tracks but doesn't remove them. Around 18% of new uploads are AI-made, posing a growing challenge to musicians' earnings.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-06-20 08:10:58",
-            "pubDateTZ": "UTC",
-            "image_url": "https://img.etimg.com/thumb/msid-121971028,width-1200,height-630,imgsize-53756,overlay-ettech/articleshow.jpg",
-            "video_url": null,
-            "source_id": "economictimes_indiatimes",
-            "source_name": "The Economic Times",
-            "source_priority": 231,
-            "source_url": "https://economictimes.indiatimes.com",
-            "source_icon": "https://n.bytvi.com/economictimes_indiatimes.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "technology"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "d49af31f60d6f0660a8b9dcb5ad9f671",
-            "title": "हरियाणा में CET को लेकर बड़ा अपडेट, अगले महीने दो से तीन दिन के शेड्यूल में होगा एग्जाम; 13 लाख आए आवेदन",
-            "link": "https://www.jagran.com/haryana/panchkula-haryana-cet-exam-held-in-july-with-two-and-three-days-schedule-13-lakh-applications-received-23968718.html",
-            "keywords": null,
-            "creator": null,
-            "description": "हरियाणा में तृतीय श्रेणी पदों पर भर्ती के लिए सीईटी (Haryana CET 2025) परीक्षा जुलाई में होने की संभावना है जिसके लिए 13 लाख से अधिक युवाओं ने आवेदन किया है। मुख्य सचिव अनुराग रस्तोगी ने परीक्षा की तैयारियों की समीक्षा की और निष्पक्ष परीक्षा सुनिश्चित करने के निर्देश दिए। उपायुक्तों को परीक्षा केंद्रों की पहचान करने और रिपोर्ट प्रस्तुत करने के लिए कहा गया है।",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-06-20 08:10:56",
-            "pubDateTZ": "UTC",
-            "image_url": "https://www.jagranimages.com/images/newimg/20062025/20_06_2025-haryana_cet_exam_2025_23968718_m.webp",
-            "video_url": null,
-            "source_id": "jagran",
-            "source_name": "Jagran",
-            "source_priority": 6734,
-            "source_url": "https://www.jagran.com",
-            "source_icon": "https://n.bytvi.com/jagran.jpg",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "domestic"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "43de60e3c52b2de638475d65ff6462e3",
-            "title": "ड्रेस कोड चेक के बहाने लड़कियों को छूने लगा यूनिवर्सिटी का स्टाफ, वायरल वीडियो देख भड़के लोग",
-            "link": "https://www.abplive.com/trending/nigeria-olabisi-onabanjo-university-weird-policy-for-girls-video-goes-viral-on-social-media-2965646",
-            "keywords": [
-                "ट्रेंडिंग"
-            ],
-            "creator": [
-                ""
-            ],
-            "description": "ड्रेस कोड चेक के बहाने लड़कियों को छूने लगा यूनिवर्सिटी का स्टाफ, वायरल वीडियो देख भड़के लोग",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-06-20 08:10:51",
-            "pubDateTZ": "UTC",
-            "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2025/06/20/dcf0c8668c7b4fce93375be2c8c961321750405451969907_original.jpg",
-            "video_url": null,
-            "source_id": "abplive",
-            "source_name": "Abp News",
-            "source_priority": 7754,
-            "source_url": "http://abplive.com",
-            "source_icon": "https://n.bytvi.com/abplive.jpg",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "637500014d38cae2ce352edaa3bcd4e6",
-            "title": "श्रीलंका ने चीन के 85 नागरिकों को कह दिया ‘टाटा – बाय बाय’, भारत के पड़ोसी देश को लगा रहे थे चूना, कर रहे थे गलत काम",
-            "link": "https://www.jansatta.com/international/sri-lanka-deported-85-chinese-citizens-cyber-fruad-convicted-by-courts/4014418/",
-            "keywords": null,
-            "creator": [
-                "Jansatta"
-            ],
-            "description": null,
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-06-20 08:10:48",
-            "pubDateTZ": "UTC",
-            "image_url": "https://www.jansatta.com/wp-content/uploads/2025/06/Chinese.jpg",
-            "video_url": null,
-            "source_id": "jansatta",
-            "source_name": "Jansatta",
-            "source_priority": 385929,
-            "source_url": "https://www.jansatta.com",
-            "source_icon": "https://n.bytvi.com/jansatta.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "87506238ec09fc0b13e2b35bc450af74",
-            "title": "सहारा बाजार खाली करवाने पहुंचे LDA अधिकारियों के सामने बवाल:व्यापारी विरोध करते रहे, अफसरों ने ताले जड़े; बोले- एक चाबी देंगे",
-            "link": "https://www.bhaskar.com/local/uttar-pradesh/lucknow/news/lda-reached-to-vacate-sahara-market-135274564.html",
-            "keywords": null,
-            "creator": null,
-            "description": "लखनऊ में पॉलिटेक्निक चौराहे के पास सहारा बाजार खाली करवाने पहुंचे LDA अधिकारियों के सामने दुकानदारों ने बवाल शुरू कर दिया। कुछ दुकानदारों ने सामान में तोड़फोड़ भी की। अधिकारियों से नोकझोंक की। उनका कहना है कि कार्रवाई के बाद हमारी शिफ्टिंग या फिर से आवंटन का आदि का लिखित आश्वासन दिया जाए। विरोध के बीच अफसरों ने दुकानों पर ताले जड़ दिए हैं। व्यापारियों से कहा है कि आपको एक चाबी दी जाएगी। कार्रवाई के दौरान कई बार टीम के सदस्यों ने उपाध्यक्ष प्रथमेश कुमार सिंह फोन पर वार्ता की। इस दौरान बड़ी संख्या में LDA के सुरक्षा कर्मी और स्थानीय थाने की पुलिस फोर्स मौजूद रही। गोमती नगर के विभूति खंड में करीब 4741 वर्गमीटर क्षेत्रफल में फैले इस व्यावसायिक भूखंड की लीज खत्म होने के बाद अब LDA इसे अपने कब्जे में लेने की तैयारी में है। LDA के उपाध्यक्ष प्रथमेश कुमार ने लीज शर्तों के उल्लंघन पर सहारा इंडिया कॉर्पोरेशन लिमिटेड की लीज डीड को निरस्त कर दिया है। अब इस बाजार को सील कर कब्जे में किया जाएगा। अफसर बोले- किसी को भी हैंडओवर होगी, आवंटन आपको ही बाजार को खाली करवाने के लिए जोनल अधिकारी देवांश त्रिवेदी टीम दोपहर करीब 1:00 बजे खाली करवाने पहुंची। इस दौरान टीम को एक-एक करके सभी व्यापारी और उनके साथ आए वकीलों ने घेर लिया। इससे पहले व्यापारियों का एक प्रतिनिधिमंडल LDA अपर सचिव ज्ञानेंद्र वर्मा से मिलकर आया। जहां उन्हें आश्वासन दिया गया कि बिल्डिंग खाली करवाने के बाद जिस किसी को भी हैंडओवर की जाएगी उसमें उन्हें दुकानों का आवंटन फिर से किया जाएगा। ताले की एक चाबी देने का आश्वासन दिया अधिकारियों के आवंटन वाले आश्वासन को व्यापारी लिखित तौर पर मांग रहे हैं। इसे लेकर के टीम के साथ आए सदस्यों की और व्यापारियों की नोकझोंक भी हुई। प्राधिकरण के अफसर ने व्यापारियों से नोकझोंक के दौरान दुकानों में बंद होने वाले ताले की एक चाबी देने का आश्वासन दिया। उनके इस आश्वासन को भी व्यापारियों ने नहीं माना। वे लिखित आश्वासन पर अड़े रहे। 1987 में दी गई थी 30 साल की लीज LDA के अपर सचिव ज्ञानेन्द्र वर्मा ने बताया कि 9 जनवरी 1987 को सहारा इंडिया को इस भूखंड की 30 साल की लीज दी गई थी। 9 जनवरी 2017 को लीज खत्म हो गई, लेकिन सहारा इंडिया ने तय समय में इसका नवीनीकरण नहीं कराया। न सिर्फ लीज का नवीनीकरण नहीं हुआ, बल्कि शर्तों का भी उल्लंघन सामने आया। विभूति खंड में करीब 4741 वर्गमीटर क्षेत्रफल में फैले इस व्यावसायिक भूखंड की लीज खत्म होने के बाद अब LDA इसे अपने कब्जे में लेने की तैयारी में है। LDA के उपाध्यक्ष प्रथमेश कुमार ने लीज शर्तों के उल्लंघन पर सहारा इंडिया कॉर्पोरेशन लिमिटेड की लीज डीड को निरस्त कर दिया है। अब इस बाजार को सील कर कब्जे में किया जाएगा। निरीक्षण में उजागर हुईं कई अनियमितताएं LDA की ओर से गठित समिति ने जब मौके का निरीक्षण किया तो कई गंभीर खामियां सामने आईं। परिसर में करीब 150 दुकानें बनी हैं, लेकिन केवल 11 ही संचालित हो रही थीं। कुछ दुकानदारों ने बताया कि उनकी फर्म से सिर्फ 25 दुकानों का एग्रीमेंट है, बाकी दुकानें या तो खाली हैं या बंद पड़ी हैं। निरीक्षण में यह भी सामने आया कि पूरा परिसर जीर्ण-शीर्ण हो चुका है। जगह-जगह गंदगी, मलबा और कूड़े के ढेर लगे हैं। इस पर LDA उपाध्यक्ष ने लीज निरस्त करने और भूखंड में पुन: प्रवेश के आदेश दे दिए। होगी सीलिंग, दुकानदारों को नोटिस एलडीए की प्रवर्तन टीम ने मौके पर मुनादी कर दुकानदारों को सूचित किया है कि वे जगह खाली कर दें। दुकानदारों ने कुछ समय मांगा था, जो अब खत्म हो गया है। LDA टीम सहारा बाजार को सील कर अपने कब्जे में ले लेगी। अपर सचिव के मुताबिक, यह भूखंड लखनऊ के सबसे प्राइम लोकेशनों में आता है। पॉलिटेक्निक चौराहे और वेव मॉल के बीच स्थित इस बाजार की मौजूदा कीमत लगभग 100 करोड़ रुपए आंकी जा रही है।",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-06-20 08:10:39",
-            "pubDateTZ": "UTC",
-            "image_url": "https://images.bhaskarassets.com/thumb/1000x1000/web2images/521/2025/06/20/img5214_1750406997.jpeg",
-            "video_url": null,
-            "source_id": "bhaskar_hindi",
-            "source_name": "Bhaskar",
-            "source_priority": 34179,
-            "source_url": "https://www.bhaskar.com",
-            "source_icon": "https://n.bytvi.com/bhaskar_hindi.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top",
-                "domestic"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "bfa236ff1669e4c2845b863bb2cb9e6a",
-            "title": "Vijay Antony to grace upcoming episode of ‘Start Music season 6’",
-            "link": "https://timesofindia.indiatimes.com/tv/news/tamil/vijay-antony-to-grace-upcoming-episode-of-start-music-season-6/articleshow/121970739.cms",
-            "keywords": null,
-            "creator": null,
-            "description": "Vijay Antony, the celebrated music composer and actor, is gearing up to grace the upcoming episode of Start Music Season 6 as a special guest. Hosted by Priyanka Deshpande, the show promises a delightful blend of music, laughter, and candid moments.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-06-20 08:10:32",
-            "pubDateTZ": "UTC",
-            "image_url": "https://static.toiimg.com/thumb/msid-121970878,imgsize-35626,width-400,resizemode-4/121970878.jpg",
-            "video_url": null,
-            "source_id": "toi",
-            "source_name": "The Times Of India",
-            "source_priority": 239,
-            "source_url": "https://timesofindia.indiatimes.com",
-            "source_icon": "https://n.bytvi.com/toi.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "e5384709f90540370090d54a40cd74a1",
-            "title": "मथुरा में बांके बिहारी कॉरिडोर बनाने का विरोध, निकाली रैली:गोस्वामी-व्यापारी सड़क पर उतरे, बोले-हम पीछे नहीं हटेंगे...अपना फैसला वापस लो",
-            "link": "https://www.bhaskar.com/local/uttar-pradesh/mathura/news/goswami-and-traders-will-protest-135274562.html",
-            "keywords": null,
-            "creator": null,
-            "description": "बांके बिहारी कॉरिडोर और न्यास बनाने के लिए लाए गए अध्यादेश के विरोध में मंदिर के गोस्वामी, व्यापारी और स्थानीय लोग एक साथ प्रदर्शन कर रहे हैं। इसमें महिलाएं भी शामिल हैं। महिलाओं ने कहा-कॉरिडोर तो बहाना है, असली मकदस पैसा खाना है। 'कॉरिडोर हाय हाय, मंदिर का पैसा खाना है, कॉरिडोर बहाना है...प्रशासन तेरी तानाशाही नहीं चलेगी...कॉरिडोर बनाने वालों का नाश हो।' जैसे नारे लगाए। महिलाओं ने खून से लिखा था पत्र कॉरिडोर और न्यास बनाने के लिए लाए गए अध्यादेश के विरोध में महिलाओं ने खून से पत्र लिखा था। मुख्यमंत्री योगी आदित्यनाथ और प्रधानमंत्री नरेंद्र मोदी को पत्र लिखा-कॉरिडोर और न्यास की कोई आवश्यकता नहीं है। आज खून से पत्र लिख सकते हैं तो आगे हम बहुत कुछ कर सकते हैं। कोई भी समझौता मंजूर नहीं है। वृंदावन का विनाश करने के लिए न तो मुआवजा चाहिए न ही यहां से छोड़कर कहीं जाएंगे। दिनभर से जुड़े अपडेट के लिए नीचे ब्लॉग से गुजर जाइए...",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-06-20 08:10:32",
-            "pubDateTZ": "UTC",
-            "image_url": "https://images.bhaskarassets.com/thumb/1000x1000/web2images/521/2025/06/20/comp-114_1750407792.gif",
-            "video_url": null,
-            "source_id": "bhaskar_hindi",
-            "source_name": "Bhaskar",
-            "source_priority": 34179,
-            "source_url": "https://www.bhaskar.com",
-            "source_icon": "https://n.bytvi.com/bhaskar_hindi.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top",
-                "domestic"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "a2220eadeeec80f8f7a06f177138c02f",
-            "title": "Rupali Ganguly Adds Star Power To Delnaaz Irani’s Show Launch Event",
-            "link": "https://www.news18.com/movies/television/rupali-ganguly-adds-star-power-to-delnaaz-iranis-show-launch-event-ws-l-aa-9395120.html",
-            "keywords": [
-                "movies"
-            ],
-            "creator": null,
-            "description": "Rupali Ganguly looked gorgeous at the launch event of ‘Swaad aur Sitaare with Delnaaz’.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-06-20 08:10:32",
-            "pubDateTZ": "UTC",
-            "image_url": "https://images.news18.com/ibnlive/uploads/2025/06/Untitled-design-2025-06-20T133924.766-2025-06-2b006b30d7b4dd5108b64d1690834de8-3x2.jpg",
-            "video_url": null,
-            "source_id": "news18",
-            "source_name": "News 18",
-            "source_priority": 1063,
-            "source_url": "https://www.news18.com",
-            "source_icon": "https://n.bytvi.com/news18.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "entertainment"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "9afd3228dca635c17045cb172749d495",
-            "title": "रोहतक PGI के बाहर SI ने सर्विस रिवॉल्वर से खुद को गोली मारी, सिर के आर-पार हुई, जानें क्यों उठाया आत्मघाती कदम",
-            "link": "https://www.haribhoomi.com/state-local/haryana/rohtak/si-committed-suicide-outside-rohtak-pgi-shot-himself-with-service-revolver-633509",
-            "keywords": [
-                "हरियाणा समाचार,राज्य समाचार,रोहतक,झज्जर"
-            ],
-            "creator": null,
-            "description": "वह झज्जर CIA में तैनात थे। उनके खिलाफ विभागीय जांच चल रही थी। इसी दबाव को आत्महत्या का कारण माना जा रहा है, हालांकि पुलिस घरेलू विवाद के एंगल से भी जांच कर रही है। पवन 5 दिन की छुट्टी पर थे और सुबह घर से रिवॉल्वर लेकर निकले थे।",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-06-20 08:10:30",
-            "pubDateTZ": "UTC",
-            "image_url": "https://www.haribhoomi.com/h-upload/2025/06/20/2449532-5.webp",
-            "video_url": null,
-            "source_id": "haribhoomi",
-            "source_name": "Haribhoomi",
-            "source_priority": 4262064,
-            "source_url": "https://www.haribhoomi.com",
-            "source_icon": "https://n.bytvi.com/haribhoomi.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "ff665b88dbdf9d0b9cd1fa23b141a468",
-            "title": "Manage emotions with a neuroscientist’s 90-second rule during a chaotic day",
-            "link": "https://www.vogue.in/content/emotional-regulation-technique-90-second-rule",
-            "keywords": [
-                "beauty",
-                "beauty / beauty wellness"
-            ],
-            "creator": [
-                "Sara Hussain"
-            ],
-            "description": "In a month where everything felt like too much, this tiny window of calm taught me how to stay with my feelings without being swallowed by them",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-06-20 08:10:29",
-            "pubDateTZ": "UTC",
-            "image_url": "https://assets.vogue.in/photos/6853f0290b3b1d1cf850a018/16:9/w_1280,c_limit/16.jpg",
-            "video_url": null,
-            "source_id": "vogue",
-            "source_name": "Vogue",
-            "source_priority": 2581,
-            "source_url": "https://www.vogue.com",
-            "source_icon": "https://n.bytvi.com/vogue.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "entertainment"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "e317166b7aa26df182a9db034657e38c",
-            "title": "Plane crash: 220 DNA samples matched, 202 bodies handed over to their families",
-            "link": "https://www.dtnext.in/news/national/plane-crash-220-dna-samples-matched-202-bodies-handed-over-to-their-families-837732",
-            "keywords": [
-                "national,news,headlines"
-            ],
-            "creator": [
-                "IANS"
-            ],
-            "description": "In an updated status on the identification and handover of mortal remains, the government reported that as of 11.45 a.m. on June 20, DNA matches have been confirmed for 220 victims.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-06-20 08:10:28",
-            "pubDateTZ": "UTC",
-            "image_url": "https://dtnext-prod-new.s3.ap-south-1.amazonaws.com/h-upload/2025/06/20/750x450_867405-jpg-43.jpg",
-            "video_url": null,
-            "source_id": "dtnext",
-            "source_name": "Dt Next",
-            "source_priority": 113678,
-            "source_url": "https://www.dtnext.in",
-            "source_icon": "https://n.bytvi.com/dtnext.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": true
-        },
-        {
-            "article_id": "3040d971dccd4d444d28c6169cf5c34d",
-            "title": "SandeepTandon’s Top Themes: Power, infra, and India’s next big bets",
-            "link": "https://economictimes.indiatimes.com/markets/stocks/news/sandeeptandons-top-themes-power-infra-and-indias-next-big-bets/slideshow/121970960.cms",
-            "keywords": null,
-            "creator": null,
-            "description": "India's market perception shifts, leading to higher valuations. Retail investors emerge as a dominant force. Indian markets are decoupling from global volatility. Product innovation, like Specialised Investment Funds, is coming. Power, infrastructure, and materials sectors are promising. Consumption, hospitality, and healthcare are also emerging. These sectors are expected to grow in the next five years.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-06-20 08:10:24",
-            "pubDateTZ": "UTC",
-            "image_url": "https://img.etimg.com/thumb/msid-121970960,width-1070,height-580,overlay-etmarkets/slideshow.jpg",
-            "video_url": null,
-            "source_id": "economictimes_indiatimes",
-            "source_name": "The Economic Times",
-            "source_priority": 231,
-            "source_url": "https://economictimes.indiatimes.com",
-            "source_icon": "https://n.bytvi.com/economictimes_indiatimes.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "business"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "eb37cc1bb7d725326113508b7648ddc6",
-            "title": "Esop Tales: स्टार्ट-अप्स को भारत में वापस लाने के सेबी के कदम पर संपादकीय",
-            "link": "https://jantaserishta.com/editorial/aesop-tales-editorial-on-sebis-move-to-bring-startups-back-to-india-4094433",
-            "keywords": [
-                "सम्पादकीय,लेख,अन्य खबरें"
-            ],
-            "creator": [
-                "Triveni"
-            ],
-            "description": null,
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-06-20 08:10:20",
-            "pubDateTZ": "UTC",
-            "image_url": "https://jantaserishta.com/h-upload/2025/06/20/4687927-49.webp",
-            "video_url": null,
-            "source_id": "jantaserishta",
-            "source_name": "Janta Se Rishta",
-            "source_priority": 81836,
-            "source_url": "https://jantaserishta.com",
-            "source_icon": "https://n.bytvi.com/jantaserishta.jpg",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "674b4678efd7de4c0bb004c92d689808",
-            "title": "Sitaare Zameen Par के प्रीमियर में सलमान के बॉडीगार्ड ने आमिर खान के बेटे संग कर डाली ऐसी हरकत, लोग बोले- हद है...",
-            "link": "https://www.prabhatkhabar.com/entertainment/bollywood/sitaare-zameen-par-salman-security-stops-junaid-aamir-in-premiere",
-            "keywords": [
-                "sitaare zameen par",
-                "bollywood",
-                "junaid khan",
-                "aamir khan",
-                "salman khan",
-                "entertainment news"
-            ],
-            "creator": [
-                "Sheetal Choubey"
-            ],
-            "description": "Sitaare Zameen Par के प्रीमियर में सलमान खान कड़ी सिक्योरिटी में पहुंचे. इस बीच इवेंट से एक वीडियो सामने आया है, जिसमें गार्ड्स आमिर खान के बड़े बेटे जुनैद को पिछते हटाते नजर आ रहे हैं. The post Sitaare Zameen Par के प्रीमियर में सलमान के बॉडीगार्ड ने आमिर खान के बेटे संग कर डाली ऐसी हरकत, लोग बोले- हद है... appeared first on Prabhat Khabar.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-06-20 08:10:20",
-            "pubDateTZ": "UTC",
-            "image_url": "https://www.prabhatkhabar.com/wp-content/uploads/2025/06/Add-a-heading-2025-06-20T132735.045.jpg",
-            "video_url": null,
-            "source_id": "prabhatkhabar",
-            "source_name": "Prabhat Khabar",
-            "source_priority": 343253,
-            "source_url": "https://www.prabhatkhabar.com",
-            "source_icon": "https://n.bytvi.com/prabhatkhabar.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "entertainment"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "e8e54b964909cadc095da65727c45b3f",
-            "title": "जिसका था पूरा बनारस दीवाना, अब मिल गया नया ठिकाना; इस जगह मिलेगा पहलवान लस्सी",
-            "link": "https://hindi.news18.com/news/uttar-pradesh/varanasi-varanasi-pahalwan-lassi-new-shop-address-near-lanka-assi-road-get-same-75-year-old-taste-local18-9322684.html",
-            "keywords": [
-                "फूड"
-            ],
-            "creator": [
-                "Manish Rai"
-            ],
-            "description": "Varanasi Pahalwan Lassi New Shop: दुकानदार मनोज यादव ने बताया कि ग्राहकों के भारी डिमांड के कारण फिलहाल दुकान को इस नए पते पर शुरू किया गया है.ताकि इसके दीवाने मायुष न हो.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-06-20 08:10:19",
-            "pubDateTZ": "UTC",
-            "image_url": "https://images.news18.com/ibnkhabar/uploads/2025/06/HYP_5252225_cropped_20062025_121632_screenshot_20250620_121404_1-3x2.jpg",
-            "video_url": null,
-            "source_id": "hindinews18",
-            "source_name": "News 18 Hindi",
-            "source_priority": 4077,
-            "source_url": "https://hindi.news18.com",
-            "source_icon": "https://n.bytvi.com/hindinews18.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "food"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "f3b65e3ac2795f1d54f33353b0c631a1",
-            "title": "16 billion usernames, password credentials leaked; it's time to enable Passkeys on your device",
-            "link": "https://www.deccanherald.com/technology/16-billion-usernames-password-credentials-leaked-its-time-to-enable-passkeys-on-your-device-3594862",
-            "keywords": null,
-            "creator": [
-                "DH Web Desk"
-            ],
-            "description": null,
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-06-20 08:10:19",
-            "pubDateTZ": "UTC",
-            "image_url": "https://media.assettype.com/deccanherald%2F2024-09-26%2Fqay2kjf5%2FiStock-1429744367.jpg?ar=40%3A21&auto=format%2Ccompress&mode=crop&ogImage=true&rect=0%2C22%2C1140%2C599&w=1200",
-            "video_url": null,
-            "source_id": "deccanherald",
-            "source_name": "Deccan Herald",
-            "source_priority": 10080,
-            "source_url": "https://www.deccanherald.com",
-            "source_icon": "https://n.bytvi.com/deccanherald.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
             ],
             "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
             "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
