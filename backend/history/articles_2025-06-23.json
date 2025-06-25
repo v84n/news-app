@@ -1,6 +1,1050 @@
 {
     "articles": [
         {
+            "article_id": "d22db60b30486fcbdba573d855fc973f",
+            "title": "जरूरत की खबर- ChatGPT पर शेयर न करें 5 चीजें:आपकी प्राइवेसी के लिए हो सकता है खतरा, जानें ChatGPT से जुड़े 6 बड़े रिस्क",
+            "link": "https://www.bhaskar.com/lifestyle/news/chatgpt-data-leakage-safety-privacy-security-risks-135296150.html",
+            "keywords": null,
+            "creator": null,
+            "description": "कुछ साल पहले तक हम यह सोच भी नहीं सकते थे कि कोई AI (आर्टिफिशियल इंटेलिजेंस) टूल हमारी बातों को समझेगा और उसी अंदाज में जवाब देगा। लेकिन आज ChatGPT जैसे टूल हमारे रोजमर्रा के कामों का अहम हिस्सा बन गए हैं। चाहे ईमेल लिखना हो, कोई सवाल पूछना हो या कंटेंट तैयार करना हो, ये टूल हर जगह मददगार साबित हो रहे हैं। OpenAI के इस AI टूल का इस्तेमाल अब दुनिया भर में करीब 18 करोड़ लोग कर रहे हैं। भारत इसका दूसरा सबसे बड़ा यूजर बेस है। हालांकि ChatGPT का इस्तेमाल करते समय कुछ जरूरी सुरक्षा और प्राइवेसी का भी ध्यान रखना चाहिए। 2024 में सैमसंग ने ChatGPT और अन्य AI टूल्स पर रोक लगा दी थी क्योंकि उनके एक कर्मचारी ने गलती से कंपनी का सेंसिटिव सोर्स कोड ChatGPT पर अपलोड कर दिया था। सैमसंग को डर था कि AI प्लेटफॉर्म पर दी गई जानकारी बाहरी सर्वर पर स्टोर हो सकती है, जिसे बाद में हटाना या कंट्रोल करना मुश्किल होगा। साथ ही उन्हें डर था कि यह डेटा अनजाने में दूसरे यूजर्स के साथ शेयर भी हो सकता है। इसलिए ChatGPT जैसे टूल्स का सही और सुरक्षित इस्तेमाल बहुत जरूरी है। तो चलिए, आज जरूरत की खबर में बात करेंगे कि ChatGPT कितना सेफ है? साथ ही जानेंगे कि- एक्सपर्ट: डॉ. पवन दुग्गल, साइबर सिक्योरिटी और AI लॉ एक्सपर्ट, नई दिल्ली सवाल- ChatGPT यूजर का कौन सा डेटा स्टोर करता है? जवाब- ChatGPT दो तरह का डेटा स्टोर करता है। पहली वह जानकारी जो अपने आप सिस्टम के जरिए इकट्ठा होती है, जैसे आपका इंटरनेट कनेक्शन कहां से हो रहा है, आप कौन सा ब्राउजर या फोन इस्तेमाल कर रहे हैं और आपने कब और कितनी बार ChatGPT इस्तेमाल किया है। दूसरी वह जानकारी जो आप खुद चैट में देते हैं, जैसे आपका नाम, ईमेल या जो भी सवाल और बातें आप ChatGPT को बताते हैं। यह सब डेटा OpenAI अपने सिस्टम को बेहतर बनाने और आपको अच्छा अनुभव देने के लिए रखता है। सवाल- क्या ChatGPT में डेटा लीक हो सकता है? जवाब- साइबर सिक्योरिटी और AI लॉ एक्सपर्ट डॉ. पवन दुग्गल बताते हैं कि डेटा लीक होने का खतरा कुछ हद तक हो सकता है। जब आप ChatGPT पर कोई सवाल या जानकारी डालते हैं तो वह डेटा कंपनी के सर्वर पर सेव हो जाता है। इससे कंपनी अपने सिस्टम को बेहतर बनाने के लिए उस जानकारी का इस्तेमाल कर सकती है। अगर गलती से कोई जरूरी या निजी जानकारी जैसे किसी कंपनी का सीक्रेट या किसी ग्राहक की पर्सनल डिटेल्स डाल दी जाए तो वह गलत हाथों में भी जा सकती है। इससे डेटा लीक या कॉन्ट्रैक्ट का उल्लंघन होने का खतरा रहता है। सवाल- ChatGPT से जुड़े कौन-कौन से साइबर रिस्क हो सकते हैं, जिनसे यूजर्स को सतर्क रहना चाहिए? जवाब- ये खतरे सीधे आपके डेटा, वैधानिक अधिकार (लीगल राइट्स) और डिजिटल सुरक्षा से जुड़े होते हैं। नीचे ऐसे 6 संभावित साइबर जोखिम दिए गए हैं जिनका ध्यान रखना जरूरी है। सवाल- ChatGPT पर किस तरह की जानकारी शेयर नहीं करनी चाहिए? जवाब- कभी-कभी लोग गलती से ऐसी जानकारी भी डाल देते हैं, जो गोपनीय होती है। जैसे बैंक डिटेल, पासवर्ड या आधार नंबर। ये जानकारी अगर गलत जगह पहुंच जाए तो डेटा लीक, फ्रॉड या पहचान की चोरी (Identity Theft) का खतरा हो सकता है। इसलिए जरूरी है कि हम समझें कि ChatGPT पर किस तरह की जानकारी कभी नहीं शेयर करनी चाहिए। नीचे दिए गए ग्राफिक में ऐसे 5 उदाहरण दिए गए हैं। सवाल- ChatGPT को सेफ बनाने के लिए OpenAI क्या करता है? जवाब- OpenAI ने ChatGPT को सुरक्षित और जिम्मेदार एआई टूल बनाने के लिए कई कदम उठाए हैं। इसका मकसद है कि यूजर्स को मदद तो मिले, लेकिन उनकी प्राइवेसी और सुरक्षा भी बनी रहे। नीचे कुछ अहम उपाय दिए गए हैं जो OpenAI फॉलो करता है। डेटा प्रोटेक्शन और प्राइवेसी नियम OpenAI यूजर्स द्वारा दी गई बातचीत को सुरक्षित तरीके से स्टोर करता है। आपकी चैट्स को सिस्टम की ट्रेनिंग के लिए उपयोग किया जा सकता है, लेकिन सेंसिटिव जानकारी को पहचानने और हटाने के लिए खास तकनीक इस्तेमाल की जाती है। कंटेंट मॉडरेशन सिस्टम ChatGPT के जवाबों को सुरक्षित रखने के लिए मॉडरेशन टूल्स लगाए गए हैं जो नफरत फैलाने वाली बातें, हिंसा या भ्रामक जानकारी को रोकने में मदद करते हैं। अगर कोई गलत या आपत्तिजनक सवाल पूछा जाए तो ChatGPT उसे ब्लॉक कर सकता है या वॉर्निंग दे सकता है। एक्सपर्ट द्वारा मॉडल की ट्रेनिंग ChatGPT को ट्रेन करने में AI सुरक्षा विशेषज्ञ, रिसर्चर और एथिक्स एक्सपर्ट शामिल होते हैं। वे तय करते हैं कि मॉडल क्या सीखे और क्या नहीं। इसका मकसद है कि ChatGPT जिम्मेदारी से जवाब दे। यूजर कंट्रोल और सेटिंग्स ChatGPT में अब यूजर को ज्यादा कंट्रोल दिया जा रहा है। जैसे आप तय कर सकते हैं कि आपकी बातचीत मॉडल को सुधारने में इस्तेमाल हो या नहीं। इसके लिए Privacy Settings में जाकर ऑप्शन बंद किया जा सकता है। लगातार सिक्योरिटी अपडेट्स और रिसर्च OpenAI लगातार रिसर्च करता है और नए सिक्योरिटी फीचर्स जोड़ता है। जैसे ही कोई खतरा सामने आता है, उसे जल्दी से जल्दी ठीक किया जाता है ताकि यूजर्स को नुकसान न हो। सवाल- ChatGPT का सेफ इस्तेमाल कैसे कर सकते हैं? जवाब- इसका इस्तेमाल करते समय कुछ बातों का ध्यान रखना बहुत जरूरी है, ताकि आपकी निजी जानकारी सुरक्षित रहे और आप इसका सही फायदा उठा सकें। ChatGPT से बात करते वक्त ऐसा समझें कि आप किसी टेक्नोलॉजी से बात कर रहे हैं, इंसान से नहीं। इसलिए कुछ बातें कभी शेयर नहीं करनी चाहिए और कुछ सावधानियां हमेशा रखनी चाहिए। सवाल- ChatGPT पर किस तरह की गलत जानकारी मिल सकती है? जवाब- कभी-कभी ChatGPT पुरानी या गलत जानकारी दे सकता है, क्योंकि यह इंटरनेट से सीखा हुआ मॉडल है। इसलिए महत्वपूर्ण फैसले लेने से पहले विशेषज्ञ से सलाह जरूर लें। .................. ये खबर भी पढ़िए...जरूरत की खबर- क्या AI से नौकरी को खतरा:आर्टिफिशियल इंटेलिजेंस के युग में कैसे बने रहें रिलेवेंट, AI एक्सपर्ट के 9 टिप्स AI यानी आर्टिफिशियल इंटेलिजेंस आज पूरी दुनिया को अपने आगोश में ​ले लिया है। यह तकनीक लगातार विकसित हो रही है और हर क्षेत्र में अपनी पकड़ बना रही है। AI के बढ़ते प्रभाव के कारण जहां वर्किंग एम्प्लाईज को अपनी नौकरी जाने का डर सताने लगा है। वहीं पढ़-लिखकर जॉब ढूंढ रहे युवाओं को नौकरी के अवसर कम होने की चिंता सता रही है। पूरी खबर पढ़िए...",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-23 23:10:00",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.bhaskarassets.com/thumb/1000x1000/web2images/521/2025/06/23/comp-1-30_1750673560.gif",
+            "video_url": null,
+            "source_id": "bhaskar_hindi",
+            "source_name": "Bhaskar",
+            "source_priority": 34179,
+            "source_url": "https://www.bhaskar.com",
+            "source_icon": "https://n.bytvi.com/bhaskar_hindi.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "technology"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "11b3d08785404b0657eb9dd2b380e02b",
+            "title": "फिजिकल हेल्थ- मीनोपॉज के बाद बढ़ता यूटीआई का खतरा:किडनी के लिए भी रिस्क, डॉक्टर से जानें बचाव के तरीके और सावधानियां",
+            "link": "https://www.bhaskar.com/lifestyle/news/menopause-urinary-tract-infection-uti-symptoms-135299926.html",
+            "keywords": null,
+            "creator": null,
+            "description": "अगर कोई महिला मीनोपॉज के दौरान बार-बार यूरिनरी ट्रैक्ट इन्फेक्शन (UTI) का सामना कर रही है, जिसे छह महीने में दो बार या एक साल में 3 बार से ज्यादा बार संक्रमण हुआ है तो उसे डॉक्टर से तुरंत बात करनी चाहिए। मीनोपॉज के बाद यूटीआई की समस्या बढ़ सकती है। कनाडा के मीनोपॉज फाउंडेशन के एक सर्वे मुताबिक, कनाडा की 82% महिलाओं को यह नहीं पता ही नहीं है कि इन दोनों कंडीशन का आपस में कोई संबंध भी है। नेशनल लाइब्रेरी ऑफ मेडिसिन में पब्लिश एक स्टडी के मुताबिक, पूरी दुनिया में हर साल यूटीआई के 15 करोड़ मामले सामने आते हैं। इसमें 80% केस महिलाओं के होते हैं। यूटीआई प्रॉब्लम्स के कारण हर साल 2 लाख 35 हजार से ज्यादा लोगों की मौत होती है। इसलिए फिजिकल हेल्थ में आज मीनोपॉज के समय यूटीआई के खतरों की बात करेंगे। साथ ही जानेंगे कि- 40 साल के बाद फ्रीक्वेंट हो सकते हैं यूटीआई केस आमतौर पर सबसे ज्यादा मामले 16 से 35 साल की महिलाओं के बीच देखने को मिलते हैं। इसके बावजूद यह 40 की उम्र के बाद ज्यादा फ्रीक्वेंट हो सकता है क्योंकि मीनोपॉज के समय हॉर्मोनल बदलाव हो रहे होते हैं। मीनोपॉज के बाद यूटीआई ज्यादा कॉमन क्यों है? मीनोपॉज में यूटीआई की बढ़ती घटनाओं का मुख्य कारण एस्ट्रोजन के लेवल में कमी है। एस्ट्रोजन यूरिनरी ट्रैक्ट के टिश्यूज को हेल्दी रखने में महत्वपूर्ण भूमिका निभाता है। एस्ट्रोजन का लेवल जैसे-जैसे कम होता है, यूरिनरी ट्रैक्ट की लेयर पतली और कमजोर हो जाती है। इससे यूरिनरी ट्रैक्ट में संक्रमण से लड़ने वाली ब्लड सेल्स कम हो जाती हैं। इन कारणों से भी हो सकता है यूटीआई डॉ. अनुपमा गंगवाल के मुताबिक, मीनोपॉज के अलावा भी यूटीआई के जोखिम के कई कारण हो सकते हैं। उम्र बढ़ने के साथ मूत्राशय की मसल्स कमजोर हो जाती हैं और पेल्विक ऑर्गन्स थोड़ा आगे की तरफ बढ़ जाते हैं तो मूत्राशय पूरी तरह खाली नहीं हो पाता है। इससे यूरिन रुका रह जाता है और बैक्टीरिया के ग्रोथ की आशंका बढ़ जाती है। यूरिनरी इनकॉन्टिनेंस और सेक्शुअल एक्टिविटीज भी हो सकती है वजह उम्र बढ़ने के साथ कई महिलाओं को यूरिनरी इनकॉन्टिनेंस की भी समस्या हो जाती है। यूरिन इनकॉन्टिनेंस के कारण पैड या अंडरवियर पर नमी बैक्टीरिया को पनपने के लिए परफेक्ट वातावरण बना सकती है। सेक्शुअल एक्टिविटीज सीधे तौर पर यूटीआई का कारण नहीं है, लेकिन यह यूरिनरी ट्रैक्ट में बैक्टीरिया के प्रवेश की वजह बन सकती हैं। इससे संक्रमण का खतरा बढ़ जाता है। यूटीआई के लक्षण कई बार यूरिन में बैक्टीरिया होते हैं, पर इसके लक्षण नहीं दिखते हैं। ऐसे बैक्टीरिया को एसिम्प्टोमैटिक बैक्टीरियूरिया कहा जाता है। यह यूटीआई नहीं है और इसके इलाज की जरूरत नहीं होती है। यूटीआई की पहचान तब होती है जब बैक्टीरिया और लक्षण दोनों मौजूद हैं। किडनी में संक्रमण फैला सकता है यूटीआई गंभीर मामलों में यूटीआई किडनी में संक्रमण का कारण बन सकता है। अगर इसके लक्षणों में बुखार, ठंड लगना और पीठ दर्द शामिल है तो तुरंत डॉक्टर से कंसल्ट करना चाहिए। 80 साल या उससे अधिक उम्र की महिलाओं में या कभी-कभी डिमेंशिया जैसी मेडिकल कंडीशन का सामना कर रही युवा महिलाओं में यूटीआई के कारण व्यवहार में बदलाव दिख सकते हैं। ये बदलाव भ्रम या भूख में कमी के रूप में दिख सकते हैं। यूटीआई को रोकने में मदद करती हैं ये स्ट्रैटेजी कुछ इलाज और लाइफस्टाइल में महत्वपूर्ण बदलाव इसे रोकने में मदद कर सकते हैं। वेजाइनल एस्ट्रोजन थेरेपी मीनोपॉज के बाद बार-बार होने वाले यूटीआई को रोकने का सबसे प्रभावी तरीका वेजाइना एस्ट्रोजन थेरेपी है, जो क्रीम, टैबलेट या रिंग के जरिए वेजाइना टिश्यूज में एस्ट्रोजन की छोटी खुराक देती है। वेजाइना एस्ट्रोजन यूरिनरी ट्रैक्ट की प्राकृतिक सुरक्षात्मक लेयर को रिस्टोर कर सकता है, जिससे यूटीआई का जोखिम काफी हद तक कम हो जाता है। यह ब्रेस्ट कैंसर से बची महिलाओं के लिए भी सुरक्षित है क्योंकि इसमें मीनोपॉज हार्मोन थेरेपी (MHT) से जुड़े जोखिम नहीं हैं। नॉन-एंटीबायोटिक प्रिवेंशन मेथेनमाइन हिप्पुरेट बैक्टीरिया की ग्रोथ को रोकने वाला एनवायर्नमेंट बनाकर यूटीआई को कम करने में प्रभावी है। कनाडा में महिलाओं को यह दवा किसी कंपाउंडिंग फार्मेसी से प्राप्त करनी पड़ती है। लो डोज एंटीबायोटिक डॉक्टर कुछ महीनों के लिए कम खुराक वाले एंटीबायोटिक लगभग आधा सामान्य खुराक लिख सकते हैं। अगर सेक्शुअल एक्टिविटीज यूटीआई का कारण बनती है तो रिलेशन के बाद एंटीबायोटिक का उपयोग किया जा सकता है। हालांकि, एंटीबायोटिक्स के साइड इफेक्ट्स हो सकते हैं और यह एंटीबायोटिक-प्रतिरोधी बैक्टीरिया को जन्म दे सकता है। डाइट सप्लीमेंट्स क्रैनबेरी-बेस्ड प्रोडक्ट्स के यूटीआई रोकथाम में साइंटिफिक प्रमाण हैं। क्रैनबेरी में मौजूद कुछ कंपाउंड बैक्टीरिया को मूत्राशय की परत से चिपकने से रोकते हैं, जबकि दूसरा कोई लाभ नहीं दिखता है। अगर इन प्रोडक्ट्स का उपयोग करना चाहती हैं, तो महिलाओं को हाई PACs कॉन्संट्रेशन वाले ब्रांड चुनने चाहिए। प्रोबायोटिक्स इसी तरह प्रोबायोटिक्स, खास तौर पर लैक्टोबैसिलस स्ट्रेन युक्त प्रोबायोटिक्स हेल्दी वेजाइना माइक्रोबायोम को बनाए रखने में मदद कर सकते हैं, जिससे यूटीआई का जोखिम कम हो सकता है। हालांकि, इस पर अभी रिसर्च जारी है। साफ-सफाई और हेल्दी लाइफस्टाइल हालांकि इसके सीमित साक्ष्य हैं, कुछ सरल रोजमर्रा की आदतें यूटीआई को रोकने में मदद कर सकती हैं: डॉक्टर से कब कंसल्ट करें? अगर किसी महिला को मीनोपॉज के दौरान बार-बार यूटीआई की समस्याओं का सामना करना पड़ रहा है तो डॉक्टर से कंसल्ट करने चाहिए। इसके अलावा अगर किसी को 6 महीने में 2 बार या एक साल में 3 बार या इससे ज्यादा बार संक्रमण हो रहा है तो बिना देर किए डॉक्टर से कंसल्ट करना चाहिए। .................ये खबर भी पढ़िएफिजिकल हेल्थ- कोलेजन की कमी से आता बुढ़ापा: ये क्या है, क्यों होती इसकी कमी, डॉक्टर से जानें स्वस्थ जवान त्वचा के लिए क्या खाएं क्या आपने कभी देखा है कि कुछ लोग 40 की उम्र में भी 20 साल के दिखते हैं? उनकी त्वचा दमकती है, कोई झुर्रियां नहीं और वे पूरी तरह फिट लगते हैं। पूरी खबर पढ़िए...",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-23 23:10:00",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.bhaskarassets.com/thumb/1000x1000/web2images/521/2025/06/23/cover-31_1750683178.gif",
+            "video_url": null,
+            "source_id": "bhaskar_hindi",
+            "source_name": "Bhaskar",
+            "source_priority": 34179,
+            "source_url": "https://www.bhaskar.com",
+            "source_icon": "https://n.bytvi.com/bhaskar_hindi.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "technology"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "b49a74892775593f373998ed63c974e7",
+            "title": "गुड–हैबिट्स- क्या आप दूसरों की बात ध्यान से सुनते हैं:एक अच्छे लिसनर में होतीं हैं 4 खासियतें, 5 स्टेप में सीखें सुनने की कला",
+            "link": "https://www.bhaskar.com/lifestyle/news/good-listener-qualities-sunne-ki-aadat-135299923.html",
+            "keywords": null,
+            "creator": null,
+            "description": "गुड हैबिट्स यानी अच्छी आदतें। हम आपको इस कॉलम में हर हफ्ते एक ऐसी आदत बताते हैं, जो छोटी दिखती है लेकिन असर बड़ा करती है। आज ‘सुनने की आदत’ के बारे में बता रहे हैं। ऐसा सुनना, जिसमें ध्यान हो, समझ हो और जवाब देने की हड़बड़ी न हो। यह कोई कठिन स्किल नहीं है, बल्कि एक साधारण आदत है जो आपके रिश्तों को मजबूत कर सकती है, तनाव कम कर सकती है और आपको बेहतर इंसान बना सकती है। आज इस आदत को समझते हैं और जानते हैं कि इसे अपनी जिंदगी में कैसे शामिल किया जाए। बात करते हुए भी नहीं सुनते हैं लोग रोजमर्रा के जीवन में हम अक्सर दूसरों से बात करते हैं, लेकिन क्या हम सचमुच उनकी बात सुनते हैं? सुनने की आदत का मतलब सिर्फ शब्दों को सुनना नहीं है, बल्कि सामने वाले की बात को पूरे ध्यान से समझना, बीच में टोके बिना और उसमें सहानुभूति भी दिखानी है। यह एक ऐसी आदत है जो हमारे रिश्तों को और कम्युनिकेशन को बेहतर बनाती है। लिसनिंग से मजबूत होता है पार्टनर्स का रिश्ता साल 2018 में स्विट्जरलैंड, जर्मनी और अमेरिका में 365 शादीशुदा जोड़ों पर रिसर्च हुई। इसमें पता चला कि जब एक पार्टनर दूसरे की बात ध्यान से सुनता है तो बोलने वाले का तनाव कम होता है और रिश्ता मजबूत बनता है। एक्टिव लिसनिंग से मानसिक जुड़ाव बढ़ता है, जबकि बिना समझे सिर्फ सुनने से तनाव और दूरी बढ़ सकती है। सुनने के हैं 3 लेवल हर किसी के लिए सुनना अलग-अलग होता है। इसे 3 अलग-अलग लेवल में बांटकर समझ सकते हैं। सिर्फ जवाब देने के लिए सुनना आपने देखा होगा कि कई बार लोग बात पूरी होने से पहले ही जवाब देने को तैयार बैठे होते हैं। यह सुनना नहीं, बल्कि अपनी बात कहने की जल्दी है। सहानुभूति जताने के लिए सुनना इसमें थोड़ा ध्यान होता है, लेकिन फिर भी पूरा फोकस सामने वाले पर नहीं होता है। आमतौर पर लोगों के जवाब इस तरह होते हैं, “हम्म, ठीक है।” पूरी समझ के साथ सुनना यह सबसे गहरा और बेहतर लेवल यही है। इसमें आप सामने वाले की बात को सिर्फ सुनते नहीं हैं, बल्कि उसकी भावनाओं और इरादों को भी समझने की कोशिश करते हैं। सुनने का यही असली तरीका है और यही सबसे असरदार भी होता है। सुनने की आदत क्यों जरूरी है? कल्पना करिए कि आप अपने दोस्त से कोई परेशानी शेयर कर रहे हैं और वो आपको बीच में ही रोककर अपनी सलाह देने लगे, कैसा लगेगा? अब सोचें कि वही दोस्त आपकी पूरी बात सुने, बात को और गहराई से समझने के लिए कुछ सवाल पूछे। इस बार आपको लगेगा कि उसे सचमुच में आपकी परवाह है। यही दोनों में फर्क है। सुनने के सही तरीके से न सिर्फ सामने वाले शख्स को ये महसूस होता है कि उसे सुना गया है, बल्कि वह सम्मानित भी महसूस करता है। इससे रिश्तों में गहराई आती है, गलतफहमियां कम होती हैं और भरोसा बढ़ता है। आप पेरेंट्स के रोल में हों, स्टूडेंट हों या किसी ऑफिस में काम करते हों, ध्यान से सुनना हर जगह काम आता है। एक अच्छा लीडर, टीचर या दोस्त बनने की पहली शर्त यही है। क्या कहती है साइंस? हार्वर्ड यूनिवर्सिटी की एक स्टडी के मुताबिक, जो लोग दूसरों को ध्यान से सुनते हैं, वे अपने रिश्तों में और करियर में ज्यादा सफल होते हैं। वे कम तनाव में रहते हैं और ज्यादा रचनात्मक सोच रखते हैं। स्टडी में यह भी पता चला कि अच्छे लिसनर्स में कुछ खास खूबियां होती हैं। सुनने की आदत कैसे बनाएं? अच्छा लिसनर बनना कोई मैथ्स की प्रॉब्लम हल करने जैसा काम नहीं है। कुछ आसान स्टेप्स में इसे समझकर आप अपनी आदत बना सकते हैं। इन छोटे स्टेप्स से शुरुआत करें। पहले दिन अपने परिवार के किसी सदस्य को 5 मिनट ध्यान से सुनें। फिर धीरे-धीरे इसे दोस्तों और कुलीग्स तक बढ़ाएं। इस दौरान इस बात का ख्याल रखें कि यह बहुत बनावटी नहीं लगना चाहिए। सुनने से क्या फायदे होते हैं? यह आदत जिंदगी को आसान और खूबसूरत बनाती है। इसे ऐसे समझिए कि ऑफिस में अगर आप अपने बॉस या टीम को ध्यान से सुनते हैं तो आप उनकी जरूरतें समझ पाते हैं और बेहतर सुझाव दे पाते हैं। घर में बच्चे या पार्टनर को सुनने से रिश्ते मजबूत होते हैं। इसके सभी फायदे ग्राफिक में देखिए- सुनना सिर्फ कानों से नहीं होता है प्रसिद्ध अमेरिकन लेखक, मोटिवेशनल स्पीकर और मैनेजमेंट गुरु स्टीफन कोवी कहते हैं कि, “सुनना सिर्फ कानों से नहीं होता, यह एक मानसिक उपस्थिति है। अगर हम ध्यान से सुनें, तो सामने वाले की भावनाएं भी हमें सुनाई देती हैं। यही इमोशनल इंटेलिजेंस की शुरुआत है।” यह सिर्फ शब्दों को सुनने की बात नहीं है। यह समझने की बात है कि वो शब्द क्यों बोले गए। इसमें धैर्य चाहिए, खुला दिमाग चाहिए और थोड़ा सा प्यार भी चाहिए। हर कोई बन सकता है अच्छा लिसनर सबसे अच्छी बात ये है कि इसके लिए किसी डिग्री या खास ट्रेनिंग की जरूरत नहीं है। आप आज से ही शुरू कर सकते हैं। बस अगली बार जब कोई आपसे बात करे तो फोन को साइलेंट करके नीचे रख दें, आई कॉन्टैकक्ट करें और सचमुच उसे समझने की कोशिश करें। धीरे-धीरे यह आपकी आदत बन जाएगी। सुनने की आदत न केवल आपके रिश्तों को बेहतर बनाती है, बल्कि आपको एक समझदार इंसान और स्मार्ट प्रोफेशनल भी बना सकती है। जिंदगी की भागदौड़ के बीच किसी को 5 मिनट ध्यान से सुनने से आपको मानसिक शांति और स्पष्टता मिल सकती है। लिसनिंग और हियरिंग हैं अलग चीजें लिसनिंग और हियरिंग दो बिल्कुल अलग चीजें हैं। लिसनिंग कानों तक पहुंच रहा साउंड या आवाज भर नहीं है। यह वह जानकारी, तथ्य और इमोशन है, जो सुनने वाले के दिमाग में रजिस्टर हो रहा है, उसे मानसिक और भावनात्मक रूप से प्रभावित कर रहा है। इस तरह लिसनिंग के दौरान दोनों पार्टनर्स के बीच एक कनेक्शन बन रहा है, जो उन्हें मेंटली और इमोशनली ज्यादा करीब ला रहा है। आज से ही शुरू करें सुनने की यह छोटी सी आदत आपके जीवन में बड़े बदलाव ला सकती है। अपने दोस्तों को, परिवार को और कुलीग्स को आज थोड़ा समय दें। उनकी बात ध्यान से सुनें, उनकी भावनाएं समझें और देखें कि कैसे आपके रिश्ते खिल उठते हैं। यह न सिर्फ दूसरों के लिए अच्छा है, बल्कि आपके अपने मन को भी सुकून देता है। .................ये खबर भी पढ़िएगुड हैबिट्स- रोज रात में करें अपना ‘सेल्फ रिव्यू’: क्या अच्छा, क्या बुरा किया, क्या नया सीखा, कौन सी आदत बदलने की जरूरत जिन लोगों को सेल्फ रिव्यू की आदत होती है, वे दूसरों की तुलना में भावनात्मक रूप से ज्यादा मजबूत होते हैं। उनके निर्णय बेहतर होते हैं और वे अपनी आदतों पर नियंत्रण रखने में सक्षम होते हैं। पूरी खबर पढ़िए...",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-23 23:10:00",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.bhaskarassets.com/thumb/1000x1000/web2images/521/2025/06/23/good-habites_1750684400.gif",
+            "video_url": null,
+            "source_id": "bhaskar_hindi",
+            "source_name": "Bhaskar",
+            "source_priority": 34179,
+            "source_url": "https://www.bhaskar.com",
+            "source_icon": "https://n.bytvi.com/bhaskar_hindi.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "technology"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "17e1b34920075b5a6fb77f800710a680",
+            "title": "Slumping Sparks, Sky meet up in quest to end losing skids",
+            "link": "https://www.hindustantimes.com/sports/us-sports/slumping-sparks-sky-meet-up-in-quest-to-end-losing-skids-101750720190175.html",
+            "keywords": [
+                "sports"
+            ],
+            "creator": null,
+            "description": "BASKETBALL-WNBA-CHI-LAS/PREVIEW",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-23 23:09:49",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.hindustantimes.com/default/1600x900.jpg",
+            "video_url": null,
+            "source_id": "hindustantimes",
+            "source_name": "Hindustan Times",
+            "source_priority": 933,
+            "source_url": "http://www.hindustantimes.com",
+            "source_icon": "https://n.bytvi.com/hindustantimes.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "sports"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "5fa30ada45ffa07569d5d99e956d69c9",
+            "title": "कुछ भी बनें, लेकिन अपने निर्णय किसी को लेने न दें",
+            "link": "https://www.bhaskar.com/local/punjab/jalandhar/news/be-anything-you-want-but-dont-let-anyone-decide-your-fate-135300307.html",
+            "keywords": null,
+            "creator": null,
+            "description": "भास्कर न्यूज | जालंधर लवली प्रोफेशनल यूनिवर्सिटी (एलपीयू) पहुंची आपरेशन सिंदूर की नायिका विंग कमांडर व्योमिका सिंह ने 100 करोड़ रुपए से ज्यादा की छात्रवृत्ति बांटी। प्रोग्राम में 100 फीसदी ट्यूशन और होस्टल फीस छात्रवृत्ति पाने वाले लगभग 1,000 विद्यार्थी शामिल हुए। विंग कमांडर ने छात्रवृति बांटने के बाद अपनी जीवन छात्र से ली एक सीख भी छात्रों के साथ साझा की। उन्होंने छात्रों को निडरता से अपने सच्चे लक्ष्य का पीछा करने के लिए प्रोत्साहित किया। उन्होंने कहा कि कोई फर्क नहीं पड़ता कि आप क्या बनना चाहते हैं, चाहे वह चित्रकार, अभिनेता या पायलट हो क्यों न हो। बस बनो। किसी और को अपने लिए निर्णय न लेने दें। िशक्षा ही एकमात्र हथियार है जो आपको अपने सपनों तक ले जाता है। मेरी यात्रा गुलाबों की क्यारी नहीं थी। मुझे भी कठिनाइयों का सामना करना पड़ा। लेकिन मेरे पास हमेशा लक्ष्य और साहस था जिसने मुझे आगे बढ़ने के लिए प्रेरित किया। शिक्षा वह धन है जो आपको मजबूत रहने और नेतृत्व करने की शक्ति देता है। छात्र अपने जीवन पर नियंत्रण रखें। अपने समय का रचनात्मक उपयोग करें, एक उद्देश्य रखें और अपने मस्तिष्क को प्रशिक्षित करें। राज्यसभा सांसद और एलपीयू के संस्थापक चांसलर डॉ. अशोक कुमार मित्तल ने विंग कमांडर व्योमिका सिंह का कैंपस में स्वागत किया। छात्रों और अभिभावकों को संबोधित करते हुए डॉ. अशोक कुमार मित्तल ने कहा िक एलपीयू में हमारा लक्ष्य हमेशा से हर योग्य छात्र के लिए शिक्षा को सस्ती और सुलभ बनाना रहा है। व्योमिका सिंह।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-23 23:09:42",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.bhaskarassets.com/thumb/1000x1000/web2images/521/2025/06/24/90_1750680555685943eb15894_bharti101.jpg",
+            "video_url": null,
+            "source_id": "bhaskar_hindi",
+            "source_name": "Bhaskar",
+            "source_priority": 34179,
+            "source_url": "https://www.bhaskar.com",
+            "source_icon": "https://n.bytvi.com/bhaskar_hindi.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "domestic"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "e411a952bcedcc37704bf4f86c651560",
+            "title": "वॉलमार्ट के EVP मैकले ने WMT स्टॉक में $380k का विक्रय किया",
+            "link": "https://hi.investing.com/news/insider-trading-news/article-93CH-493161",
+            "keywords": null,
+            "creator": [
+                "Investing.com"
+            ],
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-23 23:09:24",
+            "pubDateTZ": "UTC",
+            "image_url": null,
+            "video_url": null,
+            "source_id": "investing_hi",
+            "source_name": "Investing भारत",
+            "source_priority": 1143,
+            "source_url": "https://hi.investing.com",
+            "source_icon": "https://n.bytvi.com/investing_hi.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "2caed899c5f33675eafa8d9ae04868c8",
+            "title": "Amazon to invest $54 billion in Britain over next three years",
+            "link": "https://www.channelnewsasia.com/business/amazon-invest-54-billion-britain-over-next-three-years-5199431",
+            "keywords": [
+                "business"
+            ],
+            "creator": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-23 23:09:18",
+            "pubDateTZ": "UTC",
+            "image_url": "https://dam.mediacorp.sg/image/upload/s--lkapUr8G--/c_fill,g_auto,h_468,w_830/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2025-06-23t230918z_1_lynxmpel5m12i_rtroptp_3_amazon-com-investment.jpg?itok=9TCV83qj",
+            "video_url": null,
+            "source_id": "channelnewsasia",
+            "source_name": "Channel Newsasia",
+            "source_priority": 4763,
+            "source_url": "https://www.channelnewsasia.com",
+            "source_icon": "https://n.bytvi.com/channelnewsasia.jpg",
+            "language": "english",
+            "country": [
+                "georgia",
+                "yemen",
+                "afghanistan",
+                "cyprus",
+                "india",
+                "singapore",
+                "saudi arabia",
+                "maldives",
+                "japan",
+                "united arab emirates",
+                "malaysia",
+                "china",
+                "south korea",
+                "north korea",
+                "taiwan",
+                "thailand",
+                "pakistan",
+                "mongolia",
+                "brunei",
+                "lebanon",
+                "indonesia",
+                "kyrgyzstan",
+                "syria",
+                "israel",
+                "bhutan",
+                "iran",
+                "turkey",
+                "armenia",
+                "qatar",
+                "philippines",
+                "hong kong",
+                "kazakhstan",
+                "iraq",
+                "bangladesh",
+                "laos",
+                "vietnam",
+                "timor-leste",
+                "kuwait",
+                "myanmar",
+                "azerbaijan",
+                "jordan",
+                "nepal",
+                "sri lanka",
+                "uzbekistan",
+                "turkmenistan",
+                "macau",
+                "bahrain",
+                "cambodia",
+                "tajikistan",
+                "oman"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": true
+        },
+        {
+            "article_id": "80623bb260d53777d304605e88e1c3f0",
+            "title": "The tiger's future without the roar of the ‘tiger-man’",
+            "link": "https://www.deccanherald.com/opinion/the-tiger-s-future-without-the-roar-of-the-tiger-man-3599403",
+            "keywords": null,
+            "creator": [
+                "George Netto"
+            ],
+            "description": "The tiger's future without the roar of the ‘tiger-man’",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-23 23:09:08",
+            "pubDateTZ": "UTC",
+            "image_url": "https://media.assettype.com/deccanherald%2F2025-05-31%2Fm1k649kc%2FGsQVKIPW8AA17qb.png?auto=format%2Ccompress&fit=max&rect=0%2C0%2C679%2C382&w=undefined",
+            "video_url": null,
+            "source_id": "deccanherald",
+            "source_name": "Deccan Herald",
+            "source_priority": 10080,
+            "source_url": "https://www.deccanherald.com",
+            "source_icon": "https://n.bytvi.com/deccanherald.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "cc456ea160b104cc56af8d284105fddd",
+            "title": "अकाली दल ने प्लास्टिक प्रदूषण, गंदगी पर जताई चिंता, डीसी को दिया ज्ञापन",
+            "link": "https://www.bhaskar.com/local/punjab/jalandhar/news/akali-dal-expressed-concern-over-plastic-pollution-and-garbage-submitted-a-memorandum-to-dc-135300306.html",
+            "keywords": null,
+            "creator": null,
+            "description": "जालंधर| अकाली दल ने शहर में प्लास्टिक से बढ़ रहे प्रदूषण को लेकर डीसी डॉ. हिमांशु अग्रवाल को ज्ञापन सौंपा है। सोमवार को शिरोमणि अकाली दल के जिला शहरी प्रधान जत्थेदार कुलवंत सिंह मन्नण की अगुवाई में प्रतिनिधिमंडल ने डीसी से मुलाकात की और शहर की बदहाली पर चिंता जताई। प्रतिनिधिमंडल ने कहा कि अकाली सरकार के समय जालंधर को स्मार्ट सिटी बनाने के लिए कई योजनाएं शुरू की गईं थीं, लेकिन बाद की सरकारों ने इन योजनाओं को बंद कर दिया। अब शहर की हालत इतनी खराब हो गई है कि लोग नरक जैसी जिंदगी जीने को मजबूर हैं। प्लास्टिक का खुलेआम इस्तेमाल हो रहा है और सीवरेज ट्रीटमेंट प्लांट की खराबी के कारण कई इलाके गंदे पानी में डूबे हैं। इस मौके पर जत्थेदार मन्नण के साथ इकबाल सिंह ढींडसा, हरिंदर ढींडसा, भजन लाल चोपड़ा, अवतार सिंह घुम्मण, मनिंदरपाल सिंह गुंबर, मेजर सिंह काहलो, दलविंदर सिंह बड़िंग, रविंदर सिंह स्वीटी, जसवीर सिंह वालिया आदि मौजूद रहे। डीसी को मांगपत्र सौंपते जत्थेदार कुलवंत सिंह मन्नण समेत अन्य।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-23 23:08:55",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.bhaskarassets.com/thumb/1000x1000/web2images/521/2025/06/24/90_17506888416859644929c08_jct1000.jpg",
+            "video_url": null,
+            "source_id": "bhaskar_hindi",
+            "source_name": "Bhaskar",
+            "source_priority": 34179,
+            "source_url": "https://www.bhaskar.com",
+            "source_icon": "https://n.bytvi.com/bhaskar_hindi.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "domestic"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "1e11ddbe10534c36229bcf84c89ab2bf",
+            "title": "Substantial proof gathered against Pak terrorists: NIA in Pahalgam case",
+            "link": "https://www.hindustantimes.com/india-news/substantial-proof-gathered-against-pak-terrorists-nia-in-pahalgam-case-101750704515240.html",
+            "keywords": [
+                "latest"
+            ],
+            "creator": null,
+            "description": "The agency, however, refused to name the three Pakistani terrorists saying their identities and other details will be shared at an “appropriate time”",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-23 23:08:34",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.hindustantimes.com/ht-img/img/2025/06/23/1600x900/The-statement-comes-a-day-after-two-people-were-ar_1750704505506_1750720850695.jpg",
+            "video_url": null,
+            "source_id": "hindustantimes",
+            "source_name": "Hindustan Times",
+            "source_priority": 933,
+            "source_url": "http://www.hindustantimes.com",
+            "source_icon": "https://n.bytvi.com/hindustantimes.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "cc453bb00a37ca4c2ff6736d7a34748f",
+            "title": "Substantial proof gathered against Pak terrorists: NIA in Pahalgam case | Latest News India - Hindustan Times - Hindustan Times",
+            "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxORWh3OGNNbVRXYkoxY3VrMmlCVWdrUzhtQ1o5Y18wOWFRNFNWMmlqOU5RYVlpODVuTjEyc09sa1ZzdkhpLXM4LUd0MGtpQjgwZWJQNS1KR3pzOEREblRlOThkVU56UFE0RzVsb2hQdmt0RWFmWFdYVTBSZG9xQWFESmE1T2lWbzRfQ3laZ21VMDVFWDJfZkRDYzdIMjg4TFR1alluZHFPY0hQNEdnTHRDQk5LTjVHZE95by1sdTFROURKWUJxdkNiVEpGdzJaZ9IB0wFBVV95cUxQdExzOGEzeWtMdFBCd0dSOGNhVm01VVJFOFlxSDFCNXgzWmZDUzlyY1lBc1RTd2lpcVB1Q3N5UlpjY0M1cnZrdWVJb0VHeUhBM21xRVdXZ1VKQzdqaHZFZGxrS3VWak45N1p4UGpmU0xfenJZUmJ2eTVtNTJ1bnpROTVJVGJIUWd3alpHVE95SVhzdUk4VGNQazNCdFM4S0wyVldMcTlGMW5SbUN5enhieF9VbzNxNGJYeGVUZExDMHdiM2sxUVJOcnEtSEdpN0Y2MTdB?oc=5",
+            "keywords": null,
+            "creator": null,
+            "description": "Substantial proof gathered against Pak terrorists: NIA in Pahalgam case | Latest News India - Hindustan Times Hindustan TimesPahalgam attack: Two locals helped Pakistani attackers for a few thousands Times of IndiaPahalgam terror attack: NIA gets 5-day remand of two accused The HinduFrom Abbottabad Via Muzaffarabad: What Route Did Pahalgam Terrorists Take To Reach Attack Site? News18Security Alert: Terror Overground Worker Nabbed in J&K’s Anantnag with Grenade Deccan Herald",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-23 23:08:34",
+            "pubDateTZ": "UTC",
+            "image_url": null,
+            "video_url": null,
+            "source_id": "google",
+            "source_name": "Google News",
+            "source_priority": 14,
+            "source_url": "https://news.google.com",
+            "source_icon": "https://n.bytvi.com/google.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "5ee5f3e41c5af5b44bb639c7139eec8b",
+            "title": "\"Make Tiger Woods captain & let Keegan play\" - Fans react to updated Ryder Cup rankings after Keegan Bradley's recent win",
+            "link": "https://www.sportskeeda.com/golf/news-make-tiger-woods-captain-let-keegan-play-fans-react-updated-ryder-cup-rankings-keegan-bradley-s-recent-win",
+            "keywords": [
+                "golf"
+            ],
+            "creator": [
+                "Sonali Verma"
+            ],
+            "description": "Keegan Bradley moved into the top 10 of the Ryder Cup rankings after his win at the 2025 Travelers Championship, garnering fan reactions on social media. With the victory, Bradley has jumped to No.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-23 23:08:26",
+            "pubDateTZ": "UTC",
+            "image_url": null,
+            "video_url": null,
+            "source_id": "sportskeeda",
+            "source_name": "Sportskeeda",
+            "source_priority": 1040,
+            "source_url": "http://sportskeeda.com",
+            "source_icon": "https://n.bytvi.com/sportskeeda.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "sports"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "619739302027a2f5ba9123346d293e07",
+            "title": "Trump Brokers Ceasefire: The 12-Day War Comes to an End",
+            "link": "https://www.devdiscourse.com/article/headlines/3479041-trump-brokers-ceasefire-the-12-day-war-comes-to-an-end",
+            "keywords": null,
+            "creator": null,
+            "description": "Trump Brokers Ceasefire: The 12-Day War Comes to an End U.S. President Donald Trump announced a \"complete and total\" ceasefire between Israel and Iran. This move aims to bring an end to the ongoing 12-day conflict, as both sides had been on the brink of escalating their attacks. Trump expressed confidence that the ceasefire would proceed smoothly.According to Trump's statement on his Truth Social site, the ceasefire reflects the \"Stamina, Courage, and Intelligence\" of both nations. However, no immediate comments were available from either Iran’s U.N. mission or the Israeli embassy in Washington when approached for feedback.Financial markets responded positively to the news. S&P 500 futures rose by 0.4% late Monday, anticipating gains for the U.S. stock market on Tuesday. Meanwhile, U.S. crude futures fell, easing concerns over possible supply disruptions in the region.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-23 23:08:22",
+            "pubDateTZ": "UTC",
+            "image_url": "https://devdiscourse.blob.core.windows.net/aiimagegallery/19_05_2025_21_31_42_5852248.png",
+            "video_url": null,
+            "source_id": "devdiscourse",
+            "source_name": "Devdiscourse",
+            "source_priority": 566021,
+            "source_url": "https://www.devdiscourse.com",
+            "source_icon": "https://n.bytvi.com/devdiscourse.jpg",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "251cb7922d47f9a1b58884a9db8e1472",
+            "title": "ईजी रजिस्ट्रेशन को लेकर जॉइंट सब-रजिस्ट्रार का नया सिटिंग एरिया बनाने का काम शुरू",
+            "link": "https://www.bhaskar.com/local/punjab/jalandhar/news/work-on-creating-a-new-sitting-area-for-joint-sub-registrar-for-easy-registration-has-begun-135300305.html",
+            "keywords": null,
+            "creator": null,
+            "description": "भास्कर न्यूज | जालंधर ईजी रजिस्ट्रेशन को लेकर सोमवार को जॉइंट सब-रजिस्ट्रार से लेकर मुलाजिमों के बैठने के लिए नया फर्नीचर भी लाया गया है। इसके अलावा जॉइंट एसआर का नया सिटिंग एरिया भी बनाया जा रहा है। हालांकि अभी यह पूरी तरह से तैयार नहीं हुआ है, लेकिन इस नए सिटिंग एरिया में दोनों अधिकारियों के अलग-अलग कंप्यूटर और कैबिन होंगे ताकि अलग-अलग आईडी से दोनों अधिकारी एक ही समय पर काम कर सकें। 2 जुलाई को ईजी रजिस्ट्रेशन की प्रक्रिया पूरी तरह लागू की जाएगी, लेकिन उससे पहले काम की गति अभी तक काफी धीमी चल रही है। एप्लीकेंट के बैठने के लिए नया वेटिंग एरिया भी नहीं बनाया गया है। पीडब्ल्यूडी की तरफ से सारा काम किया जा रहा है। जालंधर के दोनों सब-रजिस्ट्रार कार्यालयों पर करीब 25 लाख रुपए खर्च किए जा रहे हैं, जबकि एसडीएम स्तर पर भी यह डेवलपमेंट का काम हो रहा है। ईजी रजिस्ट्रेशन को लेकर 5 से 6 नए काउंटर बनेंगे ताकि लोग एक से दूसरे काउंटर पर जाकर अपनी रजिस्ट्री का काम पूरा करवा सकें। ईजी रजिस्ट्रेशन को लेकर पहुंचा फर्नीचर (दाएं) जॉइंट सब-रजिस्ट्रार के लिए तैयार किया जा रहा सिटिंग एरिया।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-23 23:08:19",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.bhaskarassets.com/thumb/1000x1000/web2images/521/2025/06/24/90_17506896316859675f19766_jct1008.jpg",
+            "video_url": null,
+            "source_id": "bhaskar_hindi",
+            "source_name": "Bhaskar",
+            "source_priority": 34179,
+            "source_url": "https://www.bhaskar.com",
+            "source_icon": "https://n.bytvi.com/bhaskar_hindi.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "domestic"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "3e3d5953cb4467f434e6ebc1dfb4a547",
+            "title": "‘Final decision on 3 languages only after wide-ranging talks’",
+            "link": "https://timesofindia.indiatimes.com/city/mumbai/final-decision-on-3-languages-only-after-wide-ranging-talks/articleshow/122032128.cms",
+            "keywords": null,
+            "creator": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-23 23:08:17",
+            "pubDateTZ": "UTC",
+            "image_url": "https://static.toiimg.com/thumb/msid-122032127,imgsize-42568,width-400,height-225,resizemode-72/122032127.jpg",
+            "video_url": null,
+            "source_id": "toi",
+            "source_name": "The Times Of India",
+            "source_priority": 239,
+            "source_url": "https://timesofindia.indiatimes.com",
+            "source_icon": "https://n.bytvi.com/toi.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "entertainment"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "64ce19247e77cf535e35544918ce6c1e",
+            "title": "Early onset of monsoon brings winged wonders to Pune’s hills and gardens",
+            "link": "https://timesofindia.indiatimes.com/city/pune/early-onset-of-monsoon-brings-winged-wonders-to-punes-hills-and-gardens/articleshow/122032832.cms",
+            "keywords": null,
+            "creator": [
+                "Priya Kothari"
+            ],
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-23 23:07:42",
+            "pubDateTZ": "UTC",
+            "image_url": "https://static.toiimg.com/thumb/msid-122033147,width-1070,height-580,imgsize-20862,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "video_url": null,
+            "source_id": "toi",
+            "source_name": "The Times Of India",
+            "source_priority": 239,
+            "source_url": "https://timesofindia.indiatimes.com",
+            "source_icon": "https://n.bytvi.com/toi.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "health"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "834ef9aa006f2a811382c16b7fe125f9",
+            "title": "More flight issues dog Air India, DGCA starts audit",
+            "link": "https://www.hindustantimes.com/india-news/more-flight-issues-dog-ai-dgca-starts-audit-101750704741004.html",
+            "keywords": [
+                "latest"
+            ],
+            "creator": null,
+            "description": "Directorate General of Civil Aviation began a detailed audit of the Air India headquarters in Gurugram on Monday",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-23 23:07:32",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.hindustantimes.com/ht-img/img/2025/06/23/1600x900/The-London-bound-Air-India-171-aircraft-crashed-sh_1750704733425_1750721004398.jpg",
+            "video_url": null,
+            "source_id": "hindustantimes",
+            "source_name": "Hindustan Times",
+            "source_priority": 933,
+            "source_url": "http://www.hindustantimes.com",
+            "source_icon": "https://n.bytvi.com/hindustantimes.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "d53c5e0a30809b112320a22e15e827b0",
+            "title": "SSC CHSL 2025 notification released at ssc.gov.in: Check steps to download, important dates and other key details",
+            "link": "https://economictimes.indiatimes.com/news/new-updates/ssc-chsl-2025-notification-released-at-ssc-gov-in-check-steps-to-download-important-dates-and-other-key-details/articleshow/122038630.cms",
+            "keywords": null,
+            "creator": null,
+            "description": "Staff Selection Commission released the CHSL Examination 2025 notification on ssc.gov.in. The recruitment aims to fill 3,131 Group C posts. Open to 10+2 pass candidates aged 18-27 years. Application starts June 23, 2025, and ends July 18, 2025. Tier-I exam will be held September 8–18, 2025. Apply online with required documents and fee payment. Correction window available July 23–24, 2025.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-23 23:07:20",
+            "pubDateTZ": "UTC",
+            "image_url": "https://img.etimg.com/thumb/msid-122038637,width-1200,height-630,imgsize-29114,overlay-economictimes/articleshow.jpg",
+            "video_url": null,
+            "source_id": "economictimes_indiatimes",
+            "source_name": "The Economic Times",
+            "source_priority": 231,
+            "source_url": "https://economictimes.indiatimes.com",
+            "source_icon": "https://n.bytvi.com/economictimes_indiatimes.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "39f1a610470eb8a9fc1d4525c6713e9e",
+            "title": "Fifty years ago | Two-hour TV programmes in Madras from Aug. 15",
+            "link": "https://www.thehindu.com/archives/from-the-hindu-june-24-1975-two-hour-tv-programmes-in-madras-from-aug-15/article69728449.ece",
+            "keywords": [
+                "archives"
+            ],
+            "creator": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-23 23:07:00",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+            "video_url": null,
+            "source_id": "thehindu",
+            "source_name": "The Hindu",
+            "source_priority": 2972,
+            "source_url": "https://www.thehindu.com",
+            "source_icon": "https://n.bytvi.com/thehindu.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "852ba6ff8526d240cee739aafa279536",
+            "title": "जनमानस सेवा संगठन ने 60 जरूरतमंद परिवारों को वितरित की राशन सामग्री",
+            "link": "https://www.bhaskar.com/local/punjab/jalandhar/news/janmanas-seva-sansthan-distributed-ration-material-to-60-needy-families-135300274.html",
+            "keywords": null,
+            "creator": null,
+            "description": "भास्कर न्यूज | जालंधर जनमानस सेवा संगठन की ओर से महालक्ष्मी मंदिर जेल रोड में 273वां मासिक राशन वितरण समारोह आयोजित किया। संस्था के सदस्यों ने 60 जरूरतमंद परिवारों को राशन सामग्री भेंट की। कार्यक्रम की शुरुआत पं. नरेश शास्त्री द्वारा गौरी गणपति पूजन के बाद हनुमान चालीसा के पाठ से की गई। उसके बाद ट्रस्टी डॉ. करुणा सागर ने सभा की गतिविधियों के बारे में अवगत करवाया। इस मौके पर अशोक, विनोद बत्रा, नरिंदर, धर्म पाल पाली, केके बाहरी, विजय मित्तल, लज्जाया अरोड़ा, दीपक महेन्द्रू, वीके शौरी, अविनाश सराफ समेत अन्य मौजूद रहे।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-23 23:06:49",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.bhaskarassets.com/thumb/1000x1000/web2images/521/2025/06/24/90_175069082968596c0d5d232_23jct212.jpg",
+            "video_url": null,
+            "source_id": "bhaskar_hindi",
+            "source_name": "Bhaskar",
+            "source_priority": 34179,
+            "source_url": "https://www.bhaskar.com",
+            "source_icon": "https://n.bytvi.com/bhaskar_hindi.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "domestic"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "8182655236d32536f6be58e2e644d9a7",
+            "title": "Ambala News: लूटपाट का छठा आरोपी गिरफ्तार",
+            "link": "https://www.amarujala.com/haryana/ambala/sixth-accused-of-robbery-arrested-ambala-news-c-36-1-sknl1017-144912-2025-06-24",
+            "keywords": null,
+            "creator": null,
+            "description": "लूटपाट का छठा आरोपी गिरफ्तार",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-23 22:11:54",
+            "pubDateTZ": "UTC",
+            "image_url": "https://staticimg.amarujala.com/assets/images/2021/10/12/ambala_1634043240.jpeg?dpr=1.0&q=80&w=414",
+            "video_url": null,
+            "source_id": "amarujala",
+            "source_name": "Amar Ujala",
+            "source_priority": 55215,
+            "source_url": "https://www.amarujala.com",
+            "source_icon": "https://n.bytvi.com/amarujala.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "700c2822c50780579e0e377462ebf8f9",
+            "title": "Diplomatic Turmoil: Rising Tensions in the Middle East",
+            "link": "https://www.devdiscourse.com/article/politics/3479024-diplomatic-turmoil-rising-tensions-in-the-middle-east",
+            "keywords": null,
+            "creator": null,
+            "description": "Diplomatic Turmoil: Rising Tensions in the Middle East The State Department lifted its shelter-in-place advisory for Americans in Qatar after the threat of Iranian missile strikes receded. The advisory had been imposed after Iran targeted a US military base in retaliation for US airstrikes on Iranian nuclear sites, but was revoked after successful missile interceptions and Iran's indication of no further attacks.Meanwhile, a draft UN resolution calling for a ceasefire in the Israel-Iran conflict and condemning US strikes is unlikely to pass due to an impending US veto. The resolution, backed by Russia, China, and Pakistan, demands urgent protection for civilians and seeks a diplomatic solution to Iran's nuclear program.In Israel, search and rescue teams remain on heightened alert for potential missile threats from Iran. Over a hundred reservists are stationed at a facility near Tel Aviv, prepared to respond to any new attacks as tensions in the Middle East continue to escalate.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-23 22:11:46",
+            "pubDateTZ": "UTC",
+            "image_url": "https://devdiscourse.blob.core.windows.net/aiimagegallery/11_06_2025_18_01_51_4428434.png",
+            "video_url": null,
+            "source_id": "devdiscourse",
+            "source_name": "Devdiscourse",
+            "source_priority": 566021,
+            "source_url": "https://www.devdiscourse.com",
+            "source_icon": "https://n.bytvi.com/devdiscourse.jpg",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "40b1ebe2318ae332a0d1bbab98abe66e",
+            "title": "Canada vs El Salvador Prediction and Betting Tips | June 24th 2025",
+            "link": "https://www.sportskeeda.com/football/canada-vs-el-salvador-prediction-betting-tips-june-24th-2025",
+            "keywords": [
+                "football"
+            ],
+            "creator": [
+                "Shubham Dupare"
+            ],
+            "description": "Canada will go head-to-head against El Salvador at Shell Energy Stadium in their final group-stage match of the CONCACAF Gold Cup on Tuesday.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-23 22:11:00",
+            "pubDateTZ": "UTC",
+            "image_url": null,
+            "video_url": null,
+            "source_id": "sportskeeda",
+            "source_name": "Sportskeeda",
+            "source_priority": 1040,
+            "source_url": "http://sportskeeda.com",
+            "source_icon": "https://n.bytvi.com/sportskeeda.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "sports"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "7bd3feef923b519798e6446c9c7b5e86",
+            "title": "Nationwide McDonald’s boycott begins tomorrow: Here's everything you need to know",
+            "link": "https://www.hindustantimes.com/world-news/us-news/nationwide-mcdonald-s-boycott-begins-tomorrow-heres-everything-you-need-to-know-101750712791209.html",
+            "keywords": [
+                "world-news"
+            ],
+            "creator": null,
+            "description": "McDonald's faces a national boycott from June 24–30 over DEI rollbacks. Organized by The People’s Union USA, it’s part of their \"Economic Blackout Tour.\"",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-23 22:10:59",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.hindustantimes.com/ht-img/img/2025/06/23/1600x900/MCDONALD-S-BYRON-ALLEN-SETTLEMENT-0_1750716479331_1750716497458.JPG",
+            "video_url": null,
+            "source_id": "hindustantimes",
+            "source_name": "Hindustan Times",
+            "source_priority": 933,
+            "source_url": "http://www.hindustantimes.com",
+            "source_icon": "https://n.bytvi.com/hindustantimes.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "world"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "49d9370557a44f23278af4f8fab335b0",
+            "title": "Nationwide McDonald’s boycott begins tomorrow: Here's everything you need to know - Hindustan Times - Hindustan Times",
+            "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNb3VVamYycHhJNm1vb1E1bzlKZlYxQ1RvamJTQnRzREREWEZPYi1GZFV3UGpxOVBUdmdUYjNMLTRGd3pnbWw2aFJRWGd5bUtVZXNIZlctZU9nV2xQbUZzYWF4M2dTd3FwdGxDZWdVRzB3Um9Kd0lrUTJtNExnbk00aG1OR1BmLTZLU2hPRHpVaG1JUmZnMWM3QmRLUXhySmtyMkxCTEpnMm1GZ2owQ0pCMDlvSExJTEZXaTRjaUdnMmlJV3hOVXdXWlFieUFUV19lSGZQeWh2X2RCQU9MNmxrby1SOEbSAeoBQVVfeXFMTnJnZmV3bkFRajBPTnFSU3BUV05JLXdZQUtrNW04bU9BMFo4VTdVV1ZNbFVnVTVKWHFFVFNxazRUSGszc2tfYWV6MlRVUDJFSVFjTWhNN3FOUmtzQm8zNjhVUl9RTTh1RzZJUXhrQ1UzSUhsaTN3OHlqQVVoM1NfOXRJeHItb1RZN3lnYi04eDVmQ291VFZVeldoai1LMGRDWjJvZmRFLU5vcXZGbDJ1c2VrZHlVRWRKYndpRUZVZEtoWTFCNDhSZ3g3ZkRndWlwS1Bkb09tQjN2XzVfdV9PY2QyTmFweTZwSDFn?oc=5",
+            "keywords": null,
+            "creator": null,
+            "description": "Nationwide McDonald’s boycott begins tomorrow: Here's everything you need to know - Hindustan Times Hindustan TimesWhy are Americans boycotting McDonald’s this week? All you need to know WIONIs McDonald’s closed today? Here’s the truth behind the boycott buzz Times of IndiaMcDonald’s Faces Weeklong Boycott In US: All You Want To Know Zee NewsThe McDonald’s boycott explained: Who’s leading it, what they’re demanding, and when it’s happening The Economic Times",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-23 22:10:59",
+            "pubDateTZ": "UTC",
+            "image_url": null,
+            "video_url": null,
+            "source_id": "google",
+            "source_name": "Google News",
+            "source_priority": 14,
+            "source_url": "https://news.google.com",
+            "source_icon": "https://n.bytvi.com/google.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "business"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "56f02a548933b544c057750dfa7a6f87",
+            "title": "Ambala News: व्यापारियों ने पार्किंग शुरू न होने की विधायक से की शिकायत",
+            "link": "https://www.amarujala.com/haryana/ambala/the-traders-complained-to-the-mla-about-the-parking-not-being-started-ambala-news-c-36-1-amb1003-144902-2025-06-24",
+            "keywords": null,
+            "creator": null,
+            "description": "व्यापारियों ने पार्किंग शुरू न होने की विधायक से की शिकायत",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-23 22:10:55",
+            "pubDateTZ": "UTC",
+            "image_url": "https://staticimg.amarujala.com/assets/images/2021/10/12/ambala_1634043240.jpeg?dpr=1.0&q=80&w=414",
+            "video_url": null,
+            "source_id": "amarujala",
+            "source_name": "Amar Ujala",
+            "source_priority": 55215,
+            "source_url": "https://www.amarujala.com",
+            "source_icon": "https://n.bytvi.com/amarujala.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "4dec7f597a515d63e364d0ef11ec1c10",
+            "title": "City's Lewis has CWC ban extended by 2 games",
+            "link": "https://www.espn.in/football/story/_/id/45570001/manchester-city-rico-lewis-ban-extended-two-games",
+            "keywords": null,
+            "creator": [
+                "Rob Dawson"
+            ],
+            "description": "Rico Lewis will miss Manchester City's next two games at the Club World Cup after his ban was extended following his red card against Wydad AC.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-23 22:10:47",
+            "pubDateTZ": "UTC",
+            "image_url": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F0623%2Fr1510362_1296x729_16-9.jpg",
+            "video_url": null,
+            "source_id": "espn_in",
+            "source_name": "Espn India",
+            "source_priority": 34255,
+            "source_url": "https://www.espn.in",
+            "source_icon": "https://n.bytvi.com/espn_in.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "sports"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": true
+        },
+        {
+            "article_id": "b6473aad8525b9d2a7c64078876a93a8",
+            "title": "Sources: Man United increase Mbeumo offer again",
+            "link": "https://www.espn.in/football/story/_/id/45570615/manchester-united-improve-offer-brentford-mbeumo",
+            "keywords": null,
+            "creator": [
+                "Rob Dawson"
+            ],
+            "description": "Manchester United have returned to Brentford with a renewed offer for Bryan Mbeumo, sources have told ESPN.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-23 22:10:47",
+            "pubDateTZ": "UTC",
+            "image_url": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F0126%2Fr1443492_1296x729_16-9.jpg",
+            "video_url": null,
+            "source_id": "espn_in",
+            "source_name": "Espn India",
+            "source_priority": 34255,
+            "source_url": "https://www.espn.in",
+            "source_icon": "https://n.bytvi.com/espn_in.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "sports"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": true
+        },
+        {
+            "article_id": "0c55de4eec121b3208b63bace82837a3",
+            "title": "Tongue mops up again to highlight lower-order disparity",
+            "link": "https://www.espn.in/cricket/story/_/id/45570201/ind-vs-eng-tongue-mops-again-highlight-lower-order-disparity",
+            "keywords": null,
+            "creator": [
+                "Matt Roller"
+            ],
+            "description": "India's last five wickets added just 31 runs, after a similar collapse in the first innings, to keep England in the hunt",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-23 22:10:47",
+            "pubDateTZ": "UTC",
+            "image_url": "https://a1.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1491516_1296x729.jpg",
+            "video_url": null,
+            "source_id": "espn_in",
+            "source_name": "Espn India",
+            "source_priority": 34255,
+            "source_url": "https://www.espn.in",
+            "source_icon": "https://n.bytvi.com/espn_in.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "sports"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "2ec4cc4169198a0f1c5d3cd9a9663a57",
+            "title": "Body found in pipe 40 days after murder, wife arrested",
+            "link": "https://timesofindia.indiatimes.com/city/kolkata/body-found-in-pipe-40-days-after-murder-wife-arrested/articleshow/122030658.cms",
+            "keywords": null,
+            "creator": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-23 22:10:47",
+            "pubDateTZ": "UTC",
+            "image_url": "https://static.toiimg.com/thumb/msid-122030652,width-1070,height-580,imgsize-72036,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "video_url": null,
+            "source_id": "toi",
+            "source_name": "The Times Of India",
+            "source_priority": 239,
+            "source_url": "https://timesofindia.indiatimes.com",
+            "source_icon": "https://n.bytvi.com/toi.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "2388e9483eab6d80ea25710157f5e298",
+            "title": "Rahul rides his overdue luck to set India up with statement century",
+            "link": "https://www.espn.in/cricket/story/_/id/45570154/eng-vs-ind-rahul-rides-overdue-luck-set-india-statement-century",
+            "keywords": null,
+            "creator": [
+                "Sidharth Monga"
+            ],
+            "description": "Few players in the WTC era have been so lacking in fortune as India's excellent opener",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-23 22:10:46",
+            "pubDateTZ": "UTC",
+            "image_url": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1491451_1296x729.jpg",
+            "video_url": null,
+            "source_id": "espn_in",
+            "source_name": "Espn India",
+            "source_priority": 34255,
+            "source_url": "https://www.espn.in",
+            "source_icon": "https://n.bytvi.com/espn_in.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "sports"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
             "article_id": "33856e0b64da1d25c044fa48cc16938e",
             "title": "Kerala Weather Update, June 23: Scattered Showers And Muggy Air On Tuesday",
             "link": "https://menafn.com/1109713446/Kerala-Weather-Update-June-23-Scattered-Showers-And-Muggy-Air-On-Tuesday",
