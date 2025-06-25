@@ -1,6 +1,732 @@
 {
     "articles": [
         {
+            "article_id": "e2b932eb7e8ada87eacab4e2cfae1b3a",
+            "title": "【Focus on AI】 Deepen the Integrated Application of Artificial Intelligence and Establish a Company-Level Knowledge Service Infrastructure",
+            "link": "https://en.prnasia.com/story/493982-0.shtml",
+            "keywords": [
+                "uti",
+                "afi",
+                "pdt",
+                "eut"
+            ],
+            "creator": null,
+            "description": "URUMQI, China, June 23, 2025 /PRNewswire/ -- On June 20th, State Grid Xinjiang Information & Telecommunication Company successfully completed the deployment and optimization of its knowledge service infrastructure, achieving unified management of cross-professional and internal/external knowledge resources. Currently, while the application of artificial intelligence continues to deepen, challenges remain in the knowledge service system and processing modes, which struggle to meet the demands of various specialized fields. Key pain points include the limitations of large models, the fragmentation of knowledge within the power industry, and low application efficiency. As the core infrastructure supporting the construction of the new power system, this platform aims to establish a comprehensive knowledge hub for the entire business chain, integrating industry knowledge resources and overcoming technical application bottlenecks. By leveraging RAG (Retrieval-Augmented Generation) technology, a mechanism combining \"large model context learning\" with \"high-quality external knowledge input\" has been established. Through precise retrieval of knowledge fragments and fusion of multi-source data, the recall accuracy rate has been enhanced to 94.7%, significantly surpassing traditional vector retrieval methods. This ensures the authority and precision of the output content. The knowledge service infrastructure platform possesses three core capabilities: integrated retrieval of internal and external knowledge bases, intelligent extraction of multimodal information, and advanced question-answering and data analysis functionalities. It employs a visual configuration system and provides flexible RAG policy support, enabling synchronous retrieval and intelligent matching across multi-source knowledge bases. To date, the company has gathered 19 requirements for RAG knowledge base construction and over 19,000 knowledge documents. Among these, 710 documents related to the intelligent judgment scenario of power economic relations have undergone knowledge slicing processing and knowledge space construction testing. The scenario application has been successfully integrated via API interfaces, with the recall accuracy of slice data increasing by more than 40% compared to the original method, thereby significantly enhancing the accuracy of question answering. This transformation markedly improves work efficiency and quality, driving a profound shift across professional domains from \"experience-driven\" to \"knowledge-driven.\" Moving forward, State Grid Xinjiang Information & Telecommunication Company will continue to refine the knowledge service infrastructure platform, promoting iterative functional improvements. Persistent efforts will be made in knowledge internal storage management and regular operational support to ensure that the infrastructure services remain both applicable and user-friendly, while maintaining the authority and timeliness of knowledge content. This initiative effectively fosters the deep integration of artificial intelligence technology with power grid construction.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-23 05:10:00",
+            "pubDateTZ": "UTC",
+            "image_url": "https://rt.prnewswire.com/rt.gif?DateId=20250623&NewsItemId=AE15765&Transmission_Id=202506230110PR_NEWS_ASPR_____AE15765",
+            "video_url": null,
+            "source_id": "en_prnasisa",
+            "source_name": "Pr Newswire Apac",
+            "source_priority": 1333464,
+            "source_url": "https://en.prnasia.com",
+            "source_icon": "https://n.bytvi.com/en_prnasisa.png",
+            "language": "english",
+            "country": [
+                "yemen",
+                "afghanistan",
+                "india",
+                "singapore",
+                "saudi arabia",
+                "united arab emirates",
+                "china",
+                "taiwan",
+                "pakistan",
+                "brunei",
+                "syria",
+                "bhutan",
+                "turkey",
+                "armenia",
+                "qatar",
+                "philippines",
+                "hong kong",
+                "romania",
+                "laos",
+                "timor-leste",
+                "bangladesh",
+                "vietnam",
+                "azerbaijan",
+                "uzbekistan",
+                "turkmenistan",
+                "macau",
+                "bahrain",
+                "tajikistan"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": true
+        },
+        {
+            "article_id": "b304825b94fe2ba5af4b1e1c10ab2a0e",
+            "title": "【Focus on AI】 Deepen the Integrated Application of Artificial Intelligence and Establish a Company-Level Knowledge Service Infrastructure",
+            "link": "https://www.prnewswire.com/apac/news-releases/focus-on-ai-deepen-the-integrated-application-of-artificial-intelligence-and-establish-a-company-level-knowledge-service-infrastructure-302487942.html",
+            "keywords": null,
+            "creator": null,
+            "description": "URUMQI, China, June 23, 2025 /PRNewswire/ -- On June 20th, State Grid Xinjiang Information & Telecommunication Company successfully completed the deployment and optimization of its knowledge service infrastructure, achieving unified management of cross-professional and internal/external...",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-23 05:10:00",
+            "pubDateTZ": "UTC",
+            "image_url": null,
+            "video_url": null,
+            "source_id": "prnewswire_apac",
+            "source_name": "Pr Newswire Apac",
+            "source_priority": 1822,
+            "source_url": "https://www.prnewswire.com/apac",
+            "source_icon": "https://n.bytvi.com/prnewswire_apac.png",
+            "language": "english",
+            "country": [
+                "afghanistan",
+                "india",
+                "australia",
+                "singapore",
+                "fiji",
+                "maldives",
+                "japan",
+                "malaysia",
+                "china",
+                "south korea",
+                "thailand",
+                "pakistan",
+                "mongolia",
+                "brunei",
+                "new zealand",
+                "indonesia",
+                "bhutan",
+                "philippines",
+                "hong kong",
+                "bangladesh",
+                "nepal",
+                "sri lanka",
+                "cambodia"
+            ],
+            "category": [
+                "business"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": true
+        },
+        {
+            "article_id": "cbe6fe114f8b2bf1c6ed0a9bb685f977",
+            "title": "'Wake-Up Call': Rs 16 Crore Smuggling Network Busted At Mumbai Airport, 2 Staffers Arrested",
+            "link": "https://www.news18.com/cities/mumbai-news/wake-up-call-rs-16-crore-smuggling-network-busted-at-mumbai-airport-2-staffers-arrested-ws-l-9399075.html",
+            "keywords": [
+                "latest"
+            ],
+            "creator": null,
+            "description": "On June 22, officers of the Air Intelligence Unit arrested two airport staffers who were found smuggling 24KT gold dust — coated in wax and stuffed inside socks in uniform pockets.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-23 05:09:56",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.news18.com/ibnlive/uploads/2025/06/mumbai-airport-smuggling-2025-06-5da9c50bd7200560fb966a204a2322fa-3x2.png",
+            "video_url": null,
+            "source_id": "news18",
+            "source_name": "News 18",
+            "source_priority": 1063,
+            "source_url": "https://www.news18.com",
+            "source_icon": "https://n.bytvi.com/news18.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "8f244118526d8bdfe4a4365edebb5bd4",
+            "title": "Ola Electric shares tumble 6% to hit 52-week low post block deal; check all details - Upstox",
+            "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNZG5HTTh1X2liY0R4R3lGRzB5NHBjNTFtRmxfRThrWW1JX2RNc1FfX1FrOUFCRXY5NFlWYk5jaTZjWlB5NlljZ0dZLXdGUC1GeWhHQzF6RUhYN3I2Q1dpMFJLYXVQcXJVWDdMa2ZNMGNKRmJIR0NGQmxVem5wa1hJN2RsS3hhMng1NmVjbE1PdV9XWTdDN3N2Q0hHSGJMdUh0c3hxSlJNUmVCT3ZZR2NreHlvSXpwLTZWLVFpY1NNX2JvMk9xR29Oc21sLXpkTS1VaDd4ekppbw?oc=5",
+            "keywords": null,
+            "creator": null,
+            "description": "Ola Electric shares tumble 6% to hit 52-week low post block deal; check all details UpstoxOla Electric shares slide 6% to all-time low after fresh block deal The Economic TimesMid-day market check: SENSEX, NIFTY trade lower; Ola Electric, MRPL, Zee Entertainment among buzzing shares UpstoxOla Electric Share Price: Stock tumbles over 6%, hits all-time low - Here's why India TV NewsOla Electric Mobility block deal: Shares worth Rs 107 crore exchanged, stock sinks 6% Moneycontrol",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-23 05:09:53",
+            "pubDateTZ": "UTC",
+            "image_url": null,
+            "video_url": null,
+            "source_id": "google",
+            "source_name": "Google News",
+            "source_priority": 14,
+            "source_url": "https://news.google.com",
+            "source_icon": "https://n.bytvi.com/google.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "business"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "b54b1735d1de5f1c8c3fe1e44ac37d0a",
+            "title": "जब मिस्ट्री स्पिनर बन गया धोनी जैसा फिनिशर, चौके-छक्के उड़ाकर मैच खत्म.. चौंक गए अश्विन",
+            "link": "https://navbharattimes.indiatimes.com/sports/cricket/cricket-news/watch-varun-chakaravarthy-turned-a-finisher-and-smashed-sixes-and-fours-in-tnpl-match-ravichandran-ashwin-shocked/articleshow/122015614.cms",
+            "keywords": null,
+            "creator": null,
+            "description": "टीएनपीएल में वरुण चक्रवर्ती ने अपनी गेंद के साथ-साथ बल्ले से भी कमाल कर दिखाया है। चक्रवर्ती ने टीएनपीएल में कमाल की पारी खेली है।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-23 05:09:52",
+            "pubDateTZ": "UTC",
+            "image_url": "https://navbharattimes.indiatimes.com/photo/122015614/photo-122015614.jpg",
+            "video_url": null,
+            "source_id": "navbharattimes",
+            "source_name": "Nbt Navbharattimes",
+            "source_priority": 244,
+            "source_url": "https://navbharattimes.indiatimes.com",
+            "source_icon": "https://n.bytvi.com/navbharattimes.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "7fc1528d9666f6e5b960d38b9656d39d",
+            "title": "Elon Musk's Tesla Robotaxi launches in Austin: Here's how much each ride costs",
+            "link": "https://www.businesstoday.in/technology/news/story/elon-musks-tesla-robotaxi-launches-in-austin-heres-how-much-each-ride-costs-481390-2025-06-23",
+            "keywords": null,
+            "creator": null,
+            "description": "The rollout, which took place over the weekend, marks the first time Tesla vehicles have carried paying passengers without a human driver.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-23 05:09:52",
+            "pubDateTZ": "UTC",
+            "image_url": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202506/6858e17450ab1-tesla-robotaxi-234844249-16x9.jpg",
+            "video_url": null,
+            "source_id": "businesstoday",
+            "source_name": "Business News India",
+            "source_priority": 5073,
+            "source_url": "https://www.businesstoday.in",
+            "source_icon": "https://n.bytvi.com/businesstoday.jpg",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "5579f7fc77be89ba70986562af8e6cf4",
+            "title": "Jasprit Bumrah reflects on dropped catches and captaincy call after Leeds Test heroics",
+            "link": "https://apnlive.com/sports-news/bumrah-dropped-catches-captaincy-leeds-test/",
+            "keywords": [
+                "harry brook",
+                "ben duckett",
+                "kl rahul",
+                "jasprit bumrah",
+                "ollie pope",
+                "latest sports news",
+                "india vs england test 2025",
+                "shubman gill",
+                "test cricket",
+                "yashasvi jaiswal",
+                "cricket news",
+                "leeds test",
+                "indian cricket"
+            ],
+            "creator": [
+                "Amit@apnlive.com"
+            ],
+            "description": "Jasprit Bumrah took five wickets in the first innings of the Leeds Test and spoke about dropped catches, team morale, and why he turned down the Indian Test captaincy.The post Jasprit Bumrah reflects on dropped catches and captaincy call after Leeds Test heroics appeared first on APN News.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-23 05:09:49",
+            "pubDateTZ": "UTC",
+            "image_url": "https://apnlive.com/wp-content/uploads/2025/01/20240920107L-860x573-1.jpg",
+            "video_url": null,
+            "source_id": "apnlive",
+            "source_name": "Apn",
+            "source_priority": 684243,
+            "source_url": "https://www.apnlive.com",
+            "source_icon": "https://n.bytvi.com/apnlive.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "aa9c5a14440050e66861b3396bd21e70",
+            "title": "ट्रेलर में छुपे थे ये चेहरे! ‘सरदार जी 3’ में हानिया आमिर के अलावा कौन-कौन",
+            "link": "https://hindi.news18.com/news/entertainment/bollywood-sardaar-ji-3-diljit-dosanjh-film-featuring-hania-aamir-and-other-pak-actress-joins-see-list-9328577.html",
+            "keywords": [
+                "बॉलीवुड"
+            ],
+            "creator": [
+                "Sanskriti Jaipuria"
+            ],
+            "description": "Sardaar Ji 3 : दिलजीत दोसांझ की फिल्म ‘सरदार जी 3’ का ट्रेलर रिलीज होते ही विवादों में घिर गया है, क्योंकि इसमें पाकिस्तानी एक्ट्रेस हानिया आमिर और अन्य पाक कलाकार नजर आ रहे हैं. फिल्म 27 जून को ओवरसीज में रिलीज होगी.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-23 05:09:47",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.news18.com/ibnkhabar/uploads/2025/06/sardaar-ji-3-cast-2025-06-2fed605fca39b801df201032518c152e-3x2.jpg",
+            "video_url": null,
+            "source_id": "hindinews18",
+            "source_name": "News 18 Hindi",
+            "source_priority": 4077,
+            "source_url": "https://hindi.news18.com",
+            "source_icon": "https://n.bytvi.com/hindinews18.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "entertainment"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "fb7f84b2c48e0c032826e59ae8d9f06a",
+            "title": "Who Is Tommy Genesis? Know About Indian-Origin Rapper Facing Flak For Controversial Music Video True Blue",
+            "link": "https://www.freepressjournal.in/entertainment/who-is-tommy-genesis-know-about-indian-origin-rapper-facing-flak-for-controversial-music-video-true-blue",
+            "keywords": null,
+            "creator": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-23 05:09:44",
+            "pubDateTZ": "UTC",
+            "image_url": "https://media.assettype.com/freepressjournal/2025-06-23/isejdofi/Untitled-design-2025-06-23T103359.930.jpg?width=1200",
+            "video_url": null,
+            "source_id": "freepressjournal",
+            "source_name": "The Free Press Journal",
+            "source_priority": 26427,
+            "source_url": "https://www.freepressjournal.in",
+            "source_icon": "https://n.bytvi.com/freepressjournal.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "25eba8e525f6ce126037e74a098a41ea",
+            "title": "Owen, Gous help Washington Freedom pull off record chase in MLC - ESPNcricinfo",
+            "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNV3YwUWZSNy0xeEoxU1Y1NnBJMEc5c0pZODJSczhUZGR5cDNld1FkbDRIVm9yV21TSHVwMm5fRmlESlU5WUYyOHpjNDZMb0tocElOYVZmbU9ReEFWTTAxdkJXeTkxZmlkTUx4RXdOZjdTdV9ya1FocWpKWXhQUlhLY0xTcEhqcnJydDNZTzhPbEZDQlMzbnFCRmRsY2ZmcGZCZXhtYk5YUllxdWtnOUxUczRqcGg0RzdwVnRwc2RtWkZDV0VQU2FrbnptT3l0WGlFcHlQMGRucnc?oc=5",
+            "keywords": null,
+            "creator": null,
+            "description": "Owen, Gous help Washington Freedom pull off record chase in MLC ESPNcricinfoWashington Freedom etch name in record books, register highest successful chase in MLC history India TV NewsMLC 2025: Washington vs Texas Playing 11, live toss time, streaming Business StandardMajor League Cricket | Four on the bounce: Mitch Owen, Andries Gous masterclass helps Washington Freedom Times of IndiaFreedom aim to continue winning momentum against TSK Cricbuzz.com",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-23 05:09:42",
+            "pubDateTZ": "UTC",
+            "image_url": null,
+            "video_url": null,
+            "source_id": "google",
+            "source_name": "Google News",
+            "source_priority": 14,
+            "source_url": "https://news.google.com",
+            "source_icon": "https://n.bytvi.com/google.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "sports"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "546b3f2c7fd75909ef879e440d4e21fb",
+            "title": "राजा रघुवंशी केस: सोनम का भाई बोला- शीलोम-बलबीर कौन है, नहीं जानता",
+            "link": "https://hindi.news18.com/news/madhya-pradesh/indore-raja-raghuvanshi-case-sonam-brother-refused-to-identify-shilom-james-balbir-said-sister-is-getting-defamed-not-lesbian-ws-kl-9328563.html",
+            "keywords": [
+                "मध्य प्रदेश"
+            ],
+            "creator": [
+                "Preeti George"
+            ],
+            "description": "Raja Raghuvanshi Murder Case: इंदौर के बिजनेसमैन राजा रघुवंशी हत्याकांड में शिलांग पुलिस ने प्रॉपर्टी डीलर शीलोम जेम्स और गार्ड बलबीर को गिरफ्तार किया. हालांकि सोनम के भाई गोविंद ने दोनों को पहचानने से इनकार कर दिया है.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-23 05:09:41",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.news18.com/ibnkhabar/uploads/2025/06/sonam-borther-govind-2025-06-f9984867929d84da27efebf5b57f08cf-3x2.jpg",
+            "video_url": null,
+            "source_id": "hindinews18",
+            "source_name": "News 18 Hindi",
+            "source_priority": 4077,
+            "source_url": "https://hindi.news18.com",
+            "source_icon": "https://n.bytvi.com/hindinews18.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "faa404d2091ccea693113db25ea1cf0b",
+            "title": "Guwahati: Lecture on Buddhist Philosophy delivered at Vivekananda Kendra",
+            "link": "https://www.sentinelassam.com/cities/guwahati-city/guwahati-lecture-on-buddhist-philosophy-delivered-at-vivekananda-kendra",
+            "keywords": null,
+            "creator": [
+                "Sentinel Digital Desk"
+            ],
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-23 05:09:40",
+            "pubDateTZ": "UTC",
+            "image_url": "https://media.assettype.com/sentinelassam-english%2F2025-06-23%2Fdtm9o1bu%2Fbu.jpg?auto=format%2Ccompress&fit=max&w=480",
+            "video_url": null,
+            "source_id": "sentinel",
+            "source_name": "The Sentinel",
+            "source_priority": 177615,
+            "source_url": "https://www.sentinelassam.com",
+            "source_icon": "https://n.bytvi.com/sentinel.jpg",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "f5ae99889116cce1cd42288a87d1cae5",
+            "title": "Sunjay Kapur's Sister Reveals They Didn't Speak For Years 'Due To Ego' | Ex-Wife Nandita Mahtani Reacts",
+            "link": "https://www.news18.com/movies/bollywood/sunjay-kapurs-sister-reveals-they-didnt-speak-for-years-due-to-ego-ex-wife-nandita-mahtani-reacts-9399024.html",
+            "keywords": [
+                "movies"
+            ],
+            "creator": null,
+            "description": "Sunjay Kapur’s sister shares heartfelt Instagram tribute, childhood photos, and emotional message after his sudden death.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-23 05:09:39",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.news18.com/ibnlive/uploads/2025/06/FotoJet-2025-06-23T103454.969-2025-06-604adb2505881436ac3f630b436259a5-3x2.jpg",
+            "video_url": null,
+            "source_id": "news18",
+            "source_name": "News 18",
+            "source_priority": 1063,
+            "source_url": "https://www.news18.com",
+            "source_icon": "https://n.bytvi.com/news18.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "entertainment"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "95d9222bfd51be6c26e61bc52be1ae3c",
+            "title": "बिना पूर्व सूचना के लॉरी जब्त: मणप्पुरम फाइनेंस को ग्राहकों को मुआवजा देने का आदेश",
+            "link": "https://jantaserishta.com/local/karnataka/lorry-seized-without-prior-notice-manappuram-finance-ordered-to-compensate-customers-4100653",
+            "keywords": [
+                "राज्य,कर्नाटक"
+            ],
+            "creator": [
+                "Kavita2"
+            ],
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-23 05:09:36",
+            "pubDateTZ": "UTC",
+            "image_url": "https://jantaserishta.com/h-upload/2025/06/23/4694928-untitled-45-copy.webp",
+            "video_url": null,
+            "source_id": "jantaserishta",
+            "source_name": "Janta Se Rishta",
+            "source_priority": 81836,
+            "source_url": "https://jantaserishta.com",
+            "source_icon": "https://n.bytvi.com/jantaserishta.jpg",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "b62c7917b46e0661bf095097fb8058da",
+            "title": "Crude : कच्‍चा तेल 78 से बढ़कर 110 डॉलर तक हो सकता है महंगा, क्‍या पेट्रोल और डीजल के बढ़ने वाले हैं दाम?",
+            "link": "https://hindi.financialexpress.com/business-news/crude-prices-may-surge-to-110-dollar-per-barrel-according-to-report-should-you-ready-for-costly-petrol-9387168",
+            "keywords": [
+                "कमोडिटी",
+                "कारोबार बाजार"
+            ],
+            "creator": [
+                "FE Hindi Desk"
+            ],
+            "description": "Crude Prices Outlook : इजरायल और ईरान के बीच जंग और अब उसमें यूएसए की एंट्री से क्रूड की कीमतों में आग लग गई है. आज सुबह क्रूड का भाव 81 डॉलर प्रति बैरल को पार गया जो 5 महीने का हाई है. क्रूड में बीते 10 दिनों में करीब 13 फीसदी तेजी आ चुकी है. क्रूड की कीमतों में लगातार तेजी आने से और क्रूड सप्लाई आगे प्रभावित होने की आशंकाओं के चलते अब भारत जैसे क्रूड इंपोर्टर देशों की चिंताएं बढ़ने लगी हैं.स्थिति ऐसी ही रही तो आने वाले दिनों में इसका असर पेट्रोल और डीजल समेत अन्य पेट्रोलियम प्रोडक्ट पर पड़ सकता है. हालांकि भारत सरकार की ओर से इस बात को लेकर आश्वस्त किया गया है कि देश में क्रूड (Crude Oil) के पर्याप्त भंडार हैं और इसे लेकर फिलहाल कोई टेंशन वाली बात नहीं है. लेकिन गोल्डमैन सैक्स की लेटेस्ट रिपोर्ट चिंता बढ़ा रही है.गोल्डमैन सैक्स ने किया आगाह : 110 डॉलर तक जा सकता है भावगोल्डमैन सैक्स ने ग्‍लोबल एनर्जी सप्‍लाई को लेकर जोखिमों पर ध्यान दिलाया है. हॉर्मुज जलडमरूमध्य में संभावित व्यवधान की चिंताओं के बीच बैंक ने कहा कि इससे तेल और प्राकृतिक गैस की कीमतों में भारी उछाल आ सकता है. बैंक ने अनुमान लगाया है कि अगर एक महीने के लिए जलडमरूमध्य से तेल सप्‍लाई आधी हो जाती है और अगले 11 महीनों तक 10% तक कम रहती है, तो ब्रेंट क्रूड की कीमत अस्थायी रूप से 110 डॉलर प्रति बैरल तक पहुंच सकती है. इसके बाद, कीमतें सामान्य हो जाएंगी और 2025 की चौथी तिमाही में ब्रेंट की औसत कीमत 95 डॉलर प्रति बैरल हो सकती है.हॉर्मुज जलडमरूमध्य बंद होने की संभावनागोल्डमैन ने कहा कि पोलिमार्केट के आंकड़ों के अनुसार, बाजार अब 2025 में हॉर्मुज जलडमरूमध्य बंद होने की 52 फीसदी संभावना दिखा रहे हैं, हालांकि लिक्विडिटी सीमित है. अगर ईरान की तेल सप्‍लाई में 1.75 मिलियन बैरल प्रति दिन (bpd) की कमी होती है, तो ब्रेंट की कीमत लगभग 90 डॉलर प्रति बैरल तक पहुंच सकती है.एक अन्य परिदृश्य में, अगर 6 महीनों के लिए 1.75 मिलियन bpd की सप्‍लाई कम हो और उसके बाद धीरे-धीरे सुधार हो, तो ब्रेंट क्रूड की कीमत 90 डॉलर प्रति बैरल तक पहुंच सकती है और फिर 2026 तक 60 डॉलर प्रति बैरल तक गिर सकती है. दूसरा सिनैरियो : ईरानी उत्पादन में लगातार गिरावटगोल्डमैन सैक्स ने कहा कि अगर ईरानी उत्पादन लगातार कम रहता है, तो ब्रेंट क्रूड की कीमत 90 डॉलर प्रति बैरल तक पहुंच सकती है. लेकिन 2026 में यह 70-80 डॉलर के बीच स्थिर हो सकती है, क्योंकि इन्वेंट्री कम हो जाएगी और ग्‍लोबल अतिरिक्त उत्पादन क्षमता भी घटेगी.मिडिल ईस्‍ट की स्थितिगोल्डमैन सैक्स ने कहा कि हालांकि मिडिल ईस्‍ट में घटनाएं अनिश्चित हैं, लेकिन हमें लगता है कि अमेरिका और चीन सहित सभी देशों के पास आर्थिक हित होंगे कि वे हॉर्मुज जलडमरूमध्य में लंबे समय तक और बड़े पैमाने पर व्यवधान को रोकने की कोशिश करें.हॉर्मुज जलडमरूमध्य को बंद करने पर फैसलारॉयटर्स के अनुसार ईरान के प्रेस टीवी ने कहा कि अमेरिका के बमबारी हमलों के बाद हॉर्मुज जलडमरूमध्य को बंद करने का अंतिम निर्णय ईरान की सर्वोच्च राष्ट्रीय सुरक्षा परिषद को लेना होगा. इससे पहले ईरानी संसद ने इस कदम का समर्थन किया था.नेचुरल गैस मार्केट गोल्डमैन सैक्स ने यह भी अनुमान लगाया कि यूरोपीय नेचुरल गैस मार्केट, जिसमें TTF बेंचमार्क शामिल है, व्यवधान की उच्च संभावना को दर्शा सकते हैं. TTF की कीमत बढ़कर 74 यूरो प्रति मेगावाट-घंटा (25 डॉलर/MMBtu) तक पहुंच सकती है.हालांकि, बैंक ने कहा कि अमेरिकी नेचुरल गैस मार्केट पर इसका सीमित प्रभाव पड़ेगा. ऐसा मजबूत निर्यात क्षमता और घरेलू LNG आयात की न्यूनतम आवश्यकता जैसे संरचनात्मक कारणों की वजह से होगा.Crude Price",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-23 05:09:35",
+            "pubDateTZ": "UTC",
+            "image_url": "https://img-cdn.publive.online/fit-in/1280x960/financial-express-hindi/media/media_files/2025/06/23/crude-oil-price-outlook-2025-06-23-10-37-34.jpg",
+            "video_url": null,
+            "source_id": "financialexpress",
+            "source_name": "Financial Express , Read To Lead",
+            "source_priority": 26531,
+            "source_url": "https://www.financialexpress.com",
+            "source_icon": "https://n.bytvi.com/financialexpress.jpg",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "7d49495bd47708fd68daed14de12aad7",
+            "title": "Rbis Record Dividend May Not Ease Fiscal Strain Careedge",
+            "link": "https://www.businessworld.in/article/rbis-record-dividend-may-not-ease-fiscal-strain-careedge-557725",
+            "keywords": null,
+            "creator": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-23 05:09:31",
+            "pubDateTZ": "UTC",
+            "image_url": "https://static.businessworld.in/1532065982_dkku8T_RBI.jpg",
+            "video_url": null,
+            "source_id": "businessworld",
+            "source_name": "Bw Businessworld",
+            "source_priority": 31375,
+            "source_url": "https://www.businessworld.in",
+            "source_icon": null,
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "10dc88495a5a61452032181bec2948af",
+            "title": "सोने-चांदी का आज का भाव LIVE: सोने की कीमत में गिरावट, इतना सस्ता हो गया सोना; जानें आपके शहर में आज कितना है Gold-Silver का Rate",
+            "link": "https://www.jansatta.com/business/sone-ka-bhav-live-gold-silver-rate-price-in-hindi-varanasi-delhi-mumbai-bhopal-indore-patna/4017578/",
+            "keywords": null,
+            "creator": [
+                "Jansatta"
+            ],
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-23 05:09:29",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.jansatta.com/wp-content/uploads/2025/06/Gold-Silver-Price-Today-in-Hindi-9.jpg",
+            "video_url": null,
+            "source_id": "jansatta",
+            "source_name": "Jansatta",
+            "source_priority": 385929,
+            "source_url": "https://www.jansatta.com",
+            "source_icon": "https://n.bytvi.com/jansatta.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "8f7e45989091375fb22a8b1b131d40a9",
+            "title": "Kitchen Hacks: आलू-प्याज के पकौड़े खाकर बोर हो गए हैं तो बनाएं क्रिस्पी बैंगन के पकौड़े",
+            "link": "https://jantaserishta.com/life-style/kitchen-hacks-if-you-are-bored-of-eating-potato-onion-pakoras-then-make-crispy-brinjal-pakoras-4100652",
+            "keywords": [
+                "लाइफ स्टाइल"
+            ],
+            "creator": [
+                "Renuka Sahu"
+            ],
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-23 05:09:24",
+            "pubDateTZ": "UTC",
+            "image_url": "https://jantaserishta.com/h-upload/2025/06/23/4694929-r.webp",
+            "video_url": null,
+            "source_id": "jantaserishta",
+            "source_name": "Janta Se Rishta",
+            "source_priority": 81836,
+            "source_url": "https://jantaserishta.com",
+            "source_icon": "https://n.bytvi.com/jantaserishta.jpg",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "entertainment"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "90da1351f0a0754f12489d52e2c9ea55",
+            "title": "India's business activity rises to a 14-month high of 61 in June",
+            "link": "https://www.moneycontrol.com/news/business/economy/india-s-business-activity-rises-to-a-14-month-high-of-61-in-june-13162413.html",
+            "keywords": [
+                "india pmi june 2025, india business activity index, private sector survey india, pmi india june 2025, geopolitical impact on india economy, trump tariffs india april 2025, israel iran conflict oil prices, strait of hormuz blockade impact, brent crude price june 2025, oil prices middle east conflict, india economic outlook fy26 q1, trade route disruption middle east, pmi reading above 59 india, india growth forecast april june 2025, middle east tensions business impact india"
+            ],
+            "creator": [
+                "Moneycontrol"
+            ],
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-23 05:09:19",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.moneycontrol.com/static-mcnews/2024/04/economyrtrt.jpg",
+            "video_url": null,
+            "source_id": "moneycontrol",
+            "source_name": "Moneycontrol",
+            "source_priority": 1039,
+            "source_url": "https://www.moneycontrol.com",
+            "source_icon": "https://n.bytvi.com/moneycontrol.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top",
+                "business",
+                "world",
+                "politics"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "be28e81a935b5587690607831d486f66",
+            "title": "India's business activity rises to a 14-month high of 61 in June - Moneycontrol",
+            "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQa0VlZzBOZS0xUU1JUERLWkNzU19GOVRvQXFaSER3UWpzUVdVaDU5dHJzbWpmNG5acHdCdzJyNXFtbGNTZ0VZT0NhSVBBekFBV2tyS0JQVlltcEgySUFDTGZVSUFwZ0NCTjdET19Va1ZSaXFydjJmS0otOUlUd0ZXNUpNaFVyelBjSFgxU0V4RFNsbGVQc0Zxemllc3Rkb0ZFMmdnbVZsdnJnWWkyNVRiY3RhTm9wYW1Ud1RsVEhudm03RFNiSmVQV9IBzgFBVV95cUxNYVVZYXJYbnZlaXJ2Y1JsdnEwSlJJMnBjdkZ2cjlqdHZzVlRKNVJuNHdaYm80azVGOG5KRVhWVlVOX3d0d3ZPR1BqN2ZxQWJfZ3hxWXFxUXVxSjlnZ0JRSXUzMFhIcHdQUmJFV0UzTTJ3LWUwSlBra0JVTEhjZHhUTVFPTU9qUjRqTjJSVjdXQXhfVTJjRHJ4T0p0ejV5bWRkZDJnckRnWnh4NW1YTUZBMnc5N2thOG1obTdnemRWeU41U1VTSlVpTkVlc19vQQ?oc=5",
+            "keywords": null,
+            "creator": null,
+            "description": "India's business activity rises to a 14-month high of 61 in June MoneycontrolIndia's business activity surges in June on strong demand, record export orders, PMI shows ReutersIndia’s economic activity hits 14-month high in June on strong manufacturing, services growth: HSBC Flash PMI MintIndia’s Economic Activity Surges To 14-Month High: Report Zee NewsIndia's composite PMI rises to 61.0 in June Business Standard",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-23 05:09:19",
+            "pubDateTZ": "UTC",
+            "image_url": null,
+            "video_url": null,
+            "source_id": "google",
+            "source_name": "Google News",
+            "source_priority": 14,
+            "source_url": "https://news.google.com",
+            "source_icon": "https://n.bytvi.com/google.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "business"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
             "article_id": "7f5d83da2eab13c281f45422068898ae",
             "title": "Bajel Projects hits the roof after securing 'ultra mega' order from Power Grid Corporation",
             "link": "https://www.business-standard.com/markets/capital-market-news/bajel-projects-hits-the-roof-after-securing-ultra-mega-order-from-power-grid-corporation-125062300196_1.html",
