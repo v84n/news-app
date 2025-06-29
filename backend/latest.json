@@ -1,6 +1,864 @@
 {
     "articles": [
         {
+            "article_id": "4bc02595373b1f1f684df84cf2951f54",
+            "title": "Does Warren Buffett Know Something Wall Street Doesn't?",
+            "link": "https://finance.yahoo.com/news/does-warren-buffett-know-something-221000183.html",
+            "keywords": null,
+            "creator": [
+                "Motley Fool"
+            ],
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-28 22:10:00",
+            "pubDateTZ": "UTC",
+            "image_url": null,
+            "video_url": null,
+            "source_id": "yahoo",
+            "source_name": "Yahoo! News",
+            "source_priority": 17,
+            "source_url": "https://news.yahoo.com",
+            "source_icon": "https://n.bytvi.com/yahoo.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "business"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": true
+        },
+        {
+            "article_id": "f9376954f8b63fbffd2d13ccdda4c376",
+            "title": "Abbas Araghchi | Iran’s man at the table",
+            "link": "https://www.thehindu.com/news/international/abbas-araghchi-irans-man-at-the-table/article69749431.ece",
+            "keywords": [
+                "world"
+            ],
+            "creator": null,
+            "description": "As a fragile ceasefire between Tehran and Tel Aviv holds, Iran’s top diplomat has to strengthen ties with allies and manage relations with rivals",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-28 22:10:00",
+            "pubDateTZ": "UTC",
+            "image_url": "https://th-i.thgim.com/public/news/national/tay1y2/article69749434.ece/alternates/LANDSCAPE_1200/Abbas_Aragchi.jpg",
+            "video_url": null,
+            "source_id": "thehindu",
+            "source_name": "The Hindu",
+            "source_priority": 2972,
+            "source_url": "https://www.thehindu.com",
+            "source_icon": "https://n.bytvi.com/thehindu.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "world"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "cbb37330e7d320a31a01287c9b35b4c8",
+            "title": "Kol records eastern India’s first heart rhythm device implant op",
+            "link": "https://timesofindia.indiatimes.com/city/kolkata/kol-records-eastern-indias-first-heart-rhythm-device-implant-op/articleshow/122134929.cms",
+            "keywords": null,
+            "creator": [
+                "Prithvijit Mitra"
+            ],
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-28 22:09:51",
+            "pubDateTZ": "UTC",
+            "image_url": "https://static.toiimg.com/thumb/msid-122134923,width-1070,height-580,imgsize-53564,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "video_url": null,
+            "source_id": "toi",
+            "source_name": "The Times Of India",
+            "source_priority": 239,
+            "source_url": "https://timesofindia.indiatimes.com",
+            "source_icon": "https://n.bytvi.com/toi.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "80bee4a94255834e7a6ca72349ebd1bb",
+            "title": "1 Year Of India's T20 World Cup Triumph: 6 Key Moments That Powered Men In Blue Past South Africa In The Final",
+            "link": "https://menafn.com/1109736570/1-Year-Of-Indias-T20-World-Cup-Triumph-6-Key-Moments-That-Powered-Men-In-Blue-Past-South-Africa-In-The-Final",
+            "keywords": null,
+            "creator": [
+                "marketing@menafn.com (MENAFN)"
+            ],
+            "description": "(MENAFN - AsiaNet News) Relive the thrilling moments of India's T20 World Cup victory against South Africa. From Kohli's crucial knock to Pandya's final over heroics, explore the key plays that ...",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-28 22:09:28",
+            "pubDateTZ": "UTC",
+            "image_url": "https://menafn.com/updates/pr/2025-06/28/AN_1907aimage_story.jpg",
+            "video_url": null,
+            "source_id": "menafn",
+            "source_name": "Menafn",
+            "source_priority": 1117534,
+            "source_url": "https://menafn.com",
+            "source_icon": "https://n.bytvi.com/menafn.png",
+            "language": "english",
+            "country": [
+                "georgia",
+                "yemen",
+                "afghanistan",
+                "cyprus",
+                "india",
+                "singapore",
+                "saudi arabia",
+                "maldives",
+                "japan",
+                "united arab emirates",
+                "malaysia",
+                "china",
+                "south korea",
+                "north korea",
+                "taiwan",
+                "thailand",
+                "pakistan",
+                "mongolia",
+                "brunei",
+                "lebanon",
+                "indonesia",
+                "kyrgyzstan",
+                "syria",
+                "israel",
+                "bhutan",
+                "iran",
+                "turkey",
+                "armenia",
+                "qatar",
+                "philippines",
+                "kazakhstan",
+                "iraq",
+                "bangladesh",
+                "laos",
+                "vietnam",
+                "timor-leste",
+                "kuwait",
+                "myanmar",
+                "azerbaijan",
+                "jordan",
+                "nepal",
+                "sri lanka",
+                "uzbekistan",
+                "turkmenistan",
+                "macau",
+                "bahrain",
+                "cambodia",
+                "tajikistan"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": true
+        },
+        {
+            "article_id": "1c44d4495be2de159da4f32f03175f1e",
+            "title": "Serbia Police Clash With Anti Govt Protestors Seeking Early Vote, Fire Tear Gas, Arrest Dozens",
+            "link": "https://menafn.com/1109736568/Serbia-Police-Clash-With-Anti-Govt-Protestors-Seeking-Early-Vote-Fire-Tear-Gas-Arrest-Dozens",
+            "keywords": null,
+            "creator": [
+                "marketing@menafn.com (MENAFN)"
+            ],
+            "description": "(MENAFN - Live Mint) As the clash with anti-government protesters seeking snap elections and a stop to President Aleksandar Vucic's 12-year rule took place on Saturday evening, Serbia police placed ...",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-28 22:09:20",
+            "pubDateTZ": "UTC",
+            "image_url": "https://menafn.com/updates/pr/2025-06/28/LM_de8f7image_story.JPG",
+            "video_url": null,
+            "source_id": "menafn",
+            "source_name": "Menafn",
+            "source_priority": 1117534,
+            "source_url": "https://menafn.com",
+            "source_icon": "https://n.bytvi.com/menafn.png",
+            "language": "english",
+            "country": [
+                "georgia",
+                "yemen",
+                "afghanistan",
+                "cyprus",
+                "india",
+                "singapore",
+                "saudi arabia",
+                "maldives",
+                "japan",
+                "united arab emirates",
+                "malaysia",
+                "china",
+                "south korea",
+                "north korea",
+                "taiwan",
+                "thailand",
+                "pakistan",
+                "mongolia",
+                "brunei",
+                "lebanon",
+                "indonesia",
+                "kyrgyzstan",
+                "syria",
+                "israel",
+                "bhutan",
+                "iran",
+                "turkey",
+                "armenia",
+                "qatar",
+                "philippines",
+                "kazakhstan",
+                "iraq",
+                "bangladesh",
+                "laos",
+                "vietnam",
+                "timor-leste",
+                "kuwait",
+                "myanmar",
+                "azerbaijan",
+                "jordan",
+                "nepal",
+                "sri lanka",
+                "uzbekistan",
+                "turkmenistan",
+                "macau",
+                "bahrain",
+                "cambodia",
+                "tajikistan"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "294dd265e405e06806e3c9cdae916d7f",
+            "title": "Elliot Page, After Coming Out As Transgender, Debuts Relationship With Actress Julia Shiplett In Pride Month",
+            "link": "https://menafn.com/1109736566/Elliot-Page-After-Coming-Out-As-Transgender-Debuts-Relationship-With-Actress-Julia-Shiplett-In-Pride-Month",
+            "keywords": null,
+            "creator": [
+                "marketing@menafn.com (MENAFN)"
+            ],
+            "description": "(MENAFN - Live Mint) The Oscar-nominated actor, 38, took to Instagram to announce their relationship with Overcompensating star Julia Shiplett.“🌈 💕,” Elliot put this as a cute photo caption of him ...",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-28 22:09:18",
+            "pubDateTZ": "UTC",
+            "image_url": "https://menafn.com/updates/pr/2025-06/28/LM_8d6b9image_story.jpg",
+            "video_url": null,
+            "source_id": "menafn",
+            "source_name": "Menafn",
+            "source_priority": 1117534,
+            "source_url": "https://menafn.com",
+            "source_icon": "https://n.bytvi.com/menafn.png",
+            "language": "english",
+            "country": [
+                "georgia",
+                "yemen",
+                "afghanistan",
+                "cyprus",
+                "india",
+                "singapore",
+                "saudi arabia",
+                "maldives",
+                "japan",
+                "united arab emirates",
+                "malaysia",
+                "china",
+                "south korea",
+                "north korea",
+                "taiwan",
+                "thailand",
+                "pakistan",
+                "mongolia",
+                "brunei",
+                "lebanon",
+                "indonesia",
+                "kyrgyzstan",
+                "syria",
+                "israel",
+                "bhutan",
+                "iran",
+                "turkey",
+                "armenia",
+                "qatar",
+                "philippines",
+                "kazakhstan",
+                "iraq",
+                "bangladesh",
+                "laos",
+                "vietnam",
+                "timor-leste",
+                "kuwait",
+                "myanmar",
+                "azerbaijan",
+                "jordan",
+                "nepal",
+                "sri lanka",
+                "uzbekistan",
+                "turkmenistan",
+                "macau",
+                "bahrain",
+                "cambodia",
+                "tajikistan"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "101dcc983a7936d1dffc199b4a8d5866",
+            "title": "Weather Today: Orange Alert In Himachal Pradesh IMD Predicts Heavy Rainfall In THESE States Till July 4",
+            "link": "https://menafn.com/1109736565/Weather-Today-Orange-Alert-In-Himachal-Pradesh-IMD-Predicts-Heavy-Rainfall-In-THESE-States-Till-July-4",
+            "keywords": null,
+            "creator": [
+                "marketing@menafn.com (MENAFN)"
+            ],
+            "description": "(MENAFN - Live Mint) The India Meteorological Department (IMD has forecast widespread heavy to very heavy rainfall across multiple states nationwide. To stay informed and prepared, you can check the ...",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-28 22:09:17",
+            "pubDateTZ": "UTC",
+            "image_url": "https://menafn.com/updates/pr/2025-06/28/LM_a29d7image_story.jpg",
+            "video_url": null,
+            "source_id": "menafn",
+            "source_name": "Menafn",
+            "source_priority": 1117534,
+            "source_url": "https://menafn.com",
+            "source_icon": "https://n.bytvi.com/menafn.png",
+            "language": "english",
+            "country": [
+                "georgia",
+                "yemen",
+                "afghanistan",
+                "cyprus",
+                "india",
+                "singapore",
+                "saudi arabia",
+                "maldives",
+                "japan",
+                "united arab emirates",
+                "malaysia",
+                "china",
+                "south korea",
+                "north korea",
+                "taiwan",
+                "thailand",
+                "pakistan",
+                "mongolia",
+                "brunei",
+                "lebanon",
+                "indonesia",
+                "kyrgyzstan",
+                "syria",
+                "israel",
+                "bhutan",
+                "iran",
+                "turkey",
+                "armenia",
+                "qatar",
+                "philippines",
+                "kazakhstan",
+                "iraq",
+                "bangladesh",
+                "laos",
+                "vietnam",
+                "timor-leste",
+                "kuwait",
+                "myanmar",
+                "azerbaijan",
+                "jordan",
+                "nepal",
+                "sri lanka",
+                "uzbekistan",
+                "turkmenistan",
+                "macau",
+                "bahrain",
+                "cambodia",
+                "tajikistan"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "1afb720b44a3c08a0e978714f2b7ae3a",
+            "title": "Embrace ideas, values of Constitution from Preamble Park: Fadnavis, Gadkari",
+            "link": "https://timesofindia.indiatimes.com/city/nagpur/embrace-ideas-values-of-constitution-from-preamble-park-fadnavis-gadkari/articleshow/122133809.cms",
+            "keywords": null,
+            "creator": [
+                "Sarfaraz Ahmed"
+            ],
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-28 22:08:59",
+            "pubDateTZ": "UTC",
+            "image_url": "https://static.toiimg.com/thumb/msid-122133806,width-1070,height-580,imgsize-66514,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "video_url": null,
+            "source_id": "toi",
+            "source_name": "The Times Of India",
+            "source_priority": 239,
+            "source_url": "https://timesofindia.indiatimes.com",
+            "source_icon": "https://n.bytvi.com/toi.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "c0b074e89ee70b6482fc0f39e93b3d82",
+            "title": "RCB pacer Yash Dayal alleging exploitation on pretext of marriage",
+            "link": "https://www.mid-day.com/sports/cricket/article/ghaziabad-woman-files-complaint-against-rcb-pacer-yash-dayal-alleging-exploitation-on-pretext-of-marriage-23581220",
+            "keywords": [
+                "sports"
+            ],
+            "creator": [
+                "Mid-day"
+            ],
+            "description": "In her complaint, the woman alleged that she had been in a relationship with the cricketer for the past five years, during which she was emotionally, mentally, and physically exploited",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-28 22:08:55",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.mid-day.com/images/images/2025/jun/yash-dayal-accused-1751143064292_d.png",
+            "video_url": null,
+            "source_id": "mid_day",
+            "source_name": "Mid-day",
+            "source_priority": 18499,
+            "source_url": "https://www.mid-day.com",
+            "source_icon": "https://n.bytvi.com/mid_day.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "sports"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "81bd08a3481f309484688d165f927783",
+            "title": "Ambala News: कैफे संचालक पर जानलेवा हमला कर तोड़ी कार",
+            "link": "https://www.amarujala.com/haryana/ambala/the-cafe-owner-was-attacked-and-his-car-was-broken-ambala-news-c-36-1-ame1006-145213-2025-06-29",
+            "keywords": null,
+            "creator": null,
+            "description": "कैफे संचालक पर जानलेवा हमला कर तोड़ी कार",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-28 22:08:54",
+            "pubDateTZ": "UTC",
+            "image_url": "https://staticimg.amarujala.com/assets/images/2021/10/12/ambala_1634043240.jpeg?dpr=1.0&q=80&w=414",
+            "video_url": null,
+            "source_id": "amarujala",
+            "source_name": "Amar Ujala",
+            "source_priority": 55215,
+            "source_url": "https://www.amarujala.com",
+            "source_icon": "https://n.bytvi.com/amarujala.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "2c987a5aea0f4eedf98f78faecd54f1b",
+            "title": "Bihar drive: EC to refer illegals for action under Citizenship Act",
+            "link": "https://timesofindia.indiatimes.com/india/bihar-drive-ec-to-refer-illegals-for-action-under-citizenship-act/articleshow/122135677.cms",
+            "keywords": null,
+            "creator": [
+                "Bharti Jain"
+            ],
+            "description": "Electoral Registration Officers will now scrutinize voter roll inclusions and deletions, referring suspected foreign nationals to citizenship authorities. They will conduct inquiries, issue notices, and pass speaking orders, ensuring fair hearings for those excluded.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-28 22:08:48",
+            "pubDateTZ": "UTC",
+            "image_url": "https://static.toiimg.com/thumb/msid-122135661,imgsize-1315697,width-400,resizemode-4/122135661.jpg",
+            "video_url": null,
+            "source_id": "toi",
+            "source_name": "The Times Of India",
+            "source_priority": 239,
+            "source_url": "https://timesofindia.indiatimes.com",
+            "source_icon": "https://n.bytvi.com/toi.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "food"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "872cdc5e6f76dc2b376c1e3aaec2a65c",
+            "title": "Sadar offering CT-scan on prescriptions from private docs",
+            "link": "https://timesofindia.indiatimes.com/city/ranchi/sadar-offering-ct-scan-on-prescriptions-from-private-docs/articleshow/122134089.cms",
+            "keywords": null,
+            "creator": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-28 22:08:48",
+            "pubDateTZ": "UTC",
+            "image_url": "https://static.toiimg.com/thumb/msid-122134087,width-1070,height-580,imgsize-53676,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "video_url": null,
+            "source_id": "toi",
+            "source_name": "The Times Of India",
+            "source_priority": 239,
+            "source_url": "https://timesofindia.indiatimes.com",
+            "source_icon": "https://n.bytvi.com/toi.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top",
+                "world"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "804680c37388a715c3bbb296f32562f3",
+            "title": "Vande Bharat trains on Katra-Srinagar route see ‘overwhelming’ response",
+            "link": "https://www.tribuneindia.com/news/katratosrinagar/vande-bharat-trains-on-katra-srinagar-route-see-overwhelming-response",
+            "keywords": [
+                "bookvandebharat",
+                "#railwaysindia",
+                "fastertraveloptions",
+                "jammukashmirrail",
+                "traintravelindia",
+                "vandebharatexpress",
+                "srinagartourism",
+                "highwayalternatives",
+                "jammusrinagarraillink",
+                "#katratosrinagar"
+            ],
+            "creator": [
+                "Adil Akhzer"
+            ],
+            "description": "The Vande Bharat Express trains between Katra and Srinagar are experiencing high demand, with fully booked seats until the end of July. The trains offer a safe and faster alternative to the often-closed highway. Officials plan to increase frequency and introduce more trains, including direct services to Delhi by year-end.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-28 22:08:16",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/webp/medium/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTY4ODczZDIwLTU0NmMtMTFmMC05YTI3LWZiZmNhMjFkMmNiMC5qcGc%3D",
+            "video_url": null,
+            "source_id": "tribuneindia",
+            "source_name": "The Tribune India",
+            "source_priority": 15316,
+            "source_url": "https://www.tribuneindia.com",
+            "source_icon": "https://n.bytvi.com/tribuneindia.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "992f578b06fa1b8ff71c9f1ebf270924",
+            "title": "Rain brings respite to delhi as monsoon arrival remains pending",
+            "link": "https://timesofindia.indiatimes.com/city/delhi/rain-brings-respite-to-delhi-as-monsoon-arrival-remains-pending/articleshow/122133815.cms",
+            "keywords": null,
+            "creator": [
+                "Kushagra Dixit"
+            ],
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-28 22:08:06",
+            "pubDateTZ": "UTC",
+            "image_url": "https://static.toiimg.com/thumb/msid-122133814,imgsize-128792,width-400,height-225,resizemode-72/122133814.jpg",
+            "video_url": null,
+            "source_id": "toi",
+            "source_name": "The Times Of India",
+            "source_priority": 239,
+            "source_url": "https://timesofindia.indiatimes.com",
+            "source_icon": "https://n.bytvi.com/toi.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "business"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "4969e9ad5fc94613c2bb8f4464c2366a",
+            "title": "PU plans multi-year expansion of research ecosystem under IDP 2025",
+            "link": "https://timesofindia.indiatimes.com/city/chandigarh/pu-plans-multi-year-expansion-of-research-ecosystem-under-idp-2025/articleshow/122135063.cms",
+            "keywords": null,
+            "creator": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-28 22:07:55",
+            "pubDateTZ": "UTC",
+            "image_url": "https://static.toiimg.com/thumb/msid-122135061,width-1070,height-580,imgsize-61792,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "video_url": null,
+            "source_id": "toi",
+            "source_name": "The Times Of India",
+            "source_priority": 239,
+            "source_url": "https://timesofindia.indiatimes.com",
+            "source_icon": "https://n.bytvi.com/toi.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "world"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "a9ec1e07ce482a6c6a501e319f4e976f",
+            "title": "\"A woman coaching in NBA would never work\" - Fans explode as Knicks consider Dawn Staley to fill coaching spot post Tom Thibodeau firing",
+            "link": "https://www.sportskeeda.com/basketball/news-a-woman-coaching-nba-never-work-fans-explode-knicks-consider-dawn-staley-fill-coaching-spot-post-tom-thibodeau-firing",
+            "keywords": [
+                "basketball"
+            ],
+            "creator": [
+                "Avi Shravan"
+            ],
+            "description": "The New York Knicks fired Tom Thibodeau on June 3 after the two-time NBA Coach of the Year led the team to the Eastern Conference finals.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-28 22:07:51",
+            "pubDateTZ": "UTC",
+            "image_url": null,
+            "video_url": null,
+            "source_id": "sportskeeda",
+            "source_name": "Sportskeeda",
+            "source_priority": 1040,
+            "source_url": "http://sportskeeda.com",
+            "source_icon": "https://n.bytvi.com/sportskeeda.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "sports"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "ef9b21653e60622febd158600a3a81c9",
+            "title": "Joey Chestnut is prepping for Nathan's Hot Dog contest. Here's how much prize money he can win",
+            "link": "https://www.hindustantimes.com/world-news/us-news/joey-chestnut-is-prepping-for-nathans-hot-dog-eating-contest-heres-how-much-prize-money-he-can-win-101751145047100.html",
+            "keywords": [
+                "world-news"
+            ],
+            "creator": null,
+            "description": "Joey Chestnut, the 16-time champion of the Nathan’s Famous Hot Dog Eating Contest, is set to compete in the 2025 event next month",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-28 22:07:01",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.hindustantimes.com/ht-img/img/2025/06/28/1600x900/Joey_Chestnut_1751148353095_1751148353290.jpg",
+            "video_url": null,
+            "source_id": "hindustantimes",
+            "source_name": "Hindustan Times",
+            "source_priority": 933,
+            "source_url": "http://www.hindustantimes.com",
+            "source_icon": "https://n.bytvi.com/hindustantimes.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "world"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "62054edf13e0c3bb8c137ccd0348c91d",
+            "title": "Ambala News: अस्पताल को 15 हजार ओआरएस अलॉट, फिर भी खाली लौट रहे मरीज",
+            "link": "https://www.amarujala.com/haryana/ambala/15-thousand-ors-allotted-to-the-hospital-yet-patients-are-returning-empty-handed-ambala-news-c-36-1-ame1006-145195-2025-06-29",
+            "keywords": null,
+            "creator": null,
+            "description": "अस्पताल को 15 हजार ओआरएस अलॉट, फिर भी खाली लौट रहे मरीज",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-28 22:06:50",
+            "pubDateTZ": "UTC",
+            "image_url": "https://staticimg.amarujala.com/assets/images/2021/10/12/ambala_1634043240.jpeg?dpr=1.0&q=80&w=414",
+            "video_url": null,
+            "source_id": "amarujala",
+            "source_name": "Amar Ujala",
+            "source_priority": 55215,
+            "source_url": "https://www.amarujala.com",
+            "source_icon": "https://n.bytvi.com/amarujala.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "342cd466fef67d080eb46c413c9e8fdf",
+            "title": "Corey Heim nearly leads wire-to-wire in winning at Lime Rock Park",
+            "link": "https://www.hindustantimes.com/sports/others/corey-heim-nearly-leads-wire-to-wire-in-winning-at-lime-rock-park-101751148374140.html",
+            "keywords": [
+                "sports"
+            ],
+            "creator": null,
+            "description": "MOTOR-TRUCK-LIME-ROCK-PARK/RECAP",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-28 22:06:13",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.hindustantimes.com/default/1600x900.jpg",
+            "video_url": null,
+            "source_id": "hindustantimes",
+            "source_name": "Hindustan Times",
+            "source_priority": 933,
+            "source_url": "http://www.hindustantimes.com",
+            "source_icon": "https://n.bytvi.com/hindustantimes.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "sports"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "724433ce0842965f67931830cae57309",
+            "title": "What incident is shown in Trainwreck: Poop Cruise? Details explored",
+            "link": "https://www.sportskeeda.com/us/shows/what-incident-shown-trainwreck-poop-cruise-details-explored",
+            "keywords": [
+                "shows"
+            ],
+            "creator": [
+                "Ankit Raj"
+            ],
+            "description": "Trainwreck: Poop Cruise is the third episode of the Netflix anthology series Trainwreck, directed by James Ross and executive produced by Sheun Adelasoye De Nicola, Alexander Marengo, Tim Wardle, Will",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-28 22:06:04",
+            "pubDateTZ": "UTC",
+            "image_url": null,
+            "video_url": null,
+            "source_id": "sportskeeda",
+            "source_name": "Sportskeeda",
+            "source_priority": 1040,
+            "source_url": "http://sportskeeda.com",
+            "source_icon": "https://n.bytvi.com/sportskeeda.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "sports"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
             "article_id": "a9a7c35c05e3dbf5f47f575f438a8615",
             "title": "28th death anniversary of Bir Chilagang Basumatary observed in Kokrajhar",
             "link": "https://thehillstimes.in/assam/28th-death-anniversary-of-bir-chilagang-basumatary-observed-in-kokrajhar",
@@ -23049,714 +23907,6 @@
             ],
             "category": [
                 "entertainment"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "c994c1cb8d58bf535acbefeb4e0c4f39",
-            "title": "Tencent Music Entertainment Group Announces Poll Results of the 2025 Annual General Meeting",
-            "link": "https://en.prnasia.com/story/494733-0.shtml",
-            "keywords": [
-                "mus",
-                "ent",
-                "cpr",
-                "shm",
-                "mlm",
-                "fin"
-            ],
-            "creator": null,
-            "description": "SHENZHEN, China, June 27, 2025 /PRNewswire/ -- Tencent Music Entertainment Group (\"TME,\" or the \"Company\") (NYSE: TME and HKEX: 1698), the leading online music and audio entertainment platform in China, today announced that its annual general meeting (the \"AGM\") was held in Hong Kong on June 27, 2025 and all the proposed resolutions set out in the notice of the AGM dated May 20, 2025 were duly passed at the AGM. About Tencent Music Entertainment Tencent Music Entertainment Group (NYSE: TME and HKEX: 1698) is the leading online music and audio entertainment platform in China, operating the country's highly popular and innovative music apps: QQ Music, Kugou Music, Kuwo Music and WeSing. TME's mission is to create endless possibilities with music and technology. TME's platform comprises online music, online audio, online karaoke, music-centric live streaming and online concert services, enabling music fans to discover, listen, sing, watch, perform and socialize around music. For more information, please visit ir.tencentmusic.com. Investor Relations Contact Tencent Music Entertainment Groupir@tencentmusic.com+86 (755) 8601-3388 ext. 885034",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-06-27 10:10:00",
-            "pubDateTZ": "UTC",
-            "image_url": null,
-            "video_url": null,
-            "source_id": "en_prnasisa",
-            "source_name": "Pr Newswire Apac",
-            "source_priority": 1333464,
-            "source_url": "https://en.prnasia.com",
-            "source_icon": "https://n.bytvi.com/en_prnasisa.png",
-            "language": "english",
-            "country": [
-                "yemen",
-                "afghanistan",
-                "india",
-                "singapore",
-                "saudi arabia",
-                "united arab emirates",
-                "china",
-                "taiwan",
-                "pakistan",
-                "brunei",
-                "syria",
-                "bhutan",
-                "turkey",
-                "armenia",
-                "qatar",
-                "philippines",
-                "hong kong",
-                "romania",
-                "laos",
-                "timor-leste",
-                "bangladesh",
-                "vietnam",
-                "azerbaijan",
-                "uzbekistan",
-                "turkmenistan",
-                "macau",
-                "bahrain",
-                "tajikistan"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": true
-        },
-        {
-            "article_id": "173471e88cbd6a07fb26ca088a3354ab",
-            "title": "बलरामपुर में जोखवा माता मंदिर बना आस्था का केंद्र:20 वर्षों के अधिक समय से लग रहा मेला, श्रद्धालुओं ने की स्नानघर व शौचालय की मांग",
-            "link": "https://www.bhaskar.com/local/uttar-pradesh/balrampur/news/jokhwa-mata-temple-becomes-a-center-of-faith-in-balrampur-135322826.html",
-            "keywords": null,
-            "creator": null,
-            "description": "बलरामपुर के विकासखंड हरैय्या सतघरवा की ग्राम पंचायत उदयपुर खैरानिया स्थित प्राचीन जोखवा माता मंदिर में शुक्रवार को वार्षिक मेले का आयोजन धूमधाम से हुआ। यह मेला लगातार 20 वर्षों से आयोजित हो रहा है, जिसमें आसपास के करीब 20 गांवों से सैकड़ों श्रद्धालु शामिल होते हैं। श्रद्धालुओं ने सबसे पहले माता के दर्शन किए, फिर मेले का आनंद उठाया। मंदिर के कोषाध्यक्ष रामदेव मिश्रा ने बताया कि मेले की परंपरा वर्षों पुरानी है और हर साल श्रद्धालुओं की संख्या बढ़ती जा रही है। उन्होंने कहा कि श्रद्धालुओं को स्नानघर और शौचालय जैसी मूलभूत सुविधाओं की भारी कमी झेलनी पड़ रही है। श्रद्धालुओं को अभी खुले में स्नान करना पड़ता है, जिससे असुविधा होती है। मेला आयोजन में मंदिर समिति की अहम भूमिका रही। समिति के उपाध्यक्ष राकेश कुमार गुप्ता, लज्जा मिस्त्री, राजितराम साहू, अमरनाथ मिश्र और राजेश्वर प्रसाद मिश्र के साथ-साथ गणेशदत्त मिश्र, राजेश कुमार मिश्र, मदनमोहन वर्मा, भोला पाठक, रोहित जायसवाल सहित कई लोगों ने मेले को सफल बनाने में सक्रिय योगदान दिया। मंदिर में नियमित रूप से धार्मिक आयोजन होते रहते हैं, जिससे मंदिर की आय में वृद्धि होती है और क्षेत्रीय संस्कृति को बढ़ावा मिलता है। जोखवा माता मंदिर, सनातन धर्म के अनुयायियों के लिए आस्था का केंद्र बना हुआ है। स्थानीय लोगों ने जिला प्रशासन से मांग की है कि मंदिर परिसर में शौचालय व स्नानघर का निर्माण कराया जाए, ताकि श्रद्धालुओं को बेहतर सुविधाएं मिल सकें और धार्मिक पर्यटन को भी बढ़ावा मिल सके।",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-06-27 10:09:55",
-            "pubDateTZ": "UTC",
-            "image_url": "https://images.bhaskarassets.com/thumb/1000x1000/web2images/521/2025/06/27/e6628569-26c8-4276-a9b9-54b7ffe408b8_1751018595448.jpg",
-            "video_url": null,
-            "source_id": "bhaskar_hindi",
-            "source_name": "Bhaskar",
-            "source_priority": 34179,
-            "source_url": "https://www.bhaskar.com",
-            "source_icon": "https://n.bytvi.com/bhaskar_hindi.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top",
-                "domestic"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "455a76319a9761617330f611aece332a",
-            "title": "Shahpur की 4-लेन की गड़बड़ी, कीचड़ की तबाही और समय-सीमा चूकना",
-            "link": "https://jantaserishta.com/local/himachal-pradesh/shahpurs-4-lane-mess-mud-havoc-and-missed-deadlines-4110303",
-            "keywords": [
-                "राज्य,हिमाचल प्रदेश"
-            ],
-            "creator": [
-                "Payal"
-            ],
-            "description": null,
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-06-27 10:09:55",
-            "pubDateTZ": "UTC",
-            "image_url": "https://jantaserishta.com/h-upload/2025/06/27/4706022-33.webp",
-            "video_url": null,
-            "source_id": "jantaserishta",
-            "source_name": "Janta Se Rishta",
-            "source_priority": 81836,
-            "source_url": "https://jantaserishta.com",
-            "source_icon": "https://n.bytvi.com/jantaserishta.jpg",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "8dde68b492dca264cdc9187614801a86",
-            "title": "Ankita Lokhande's \"Main Pregnant Hoon\" Remark Goes Viral",
-            "link": "https://www.ndtv.com/entertainment/is-ankita-lokhande-pregnant-actress-sparks-speculation-on-laughter-chefs-2-episode-8774882",
-            "keywords": [
-                "bollywood"
-            ],
-            "creator": null,
-            "description": "When asked if she is really pregnant, the actress just smiled, neither denying nor confirming it",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-06-27 10:09:52",
-            "pubDateTZ": "UTC",
-            "image_url": null,
-            "video_url": null,
-            "source_id": "ndtv",
-            "source_name": "Ndtv",
-            "source_priority": 1204,
-            "source_url": "http://www.ndtv.com",
-            "source_icon": "https://n.bytvi.com/ndtv.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "378d2b6de8c125076c47a4284cb99d90",
-            "title": "'Bold, Culturally Rooted, and Scalable Storytelling for a Young, Diverse India'",
-            "link": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/bold-culturally-rooted-and-scalable-storytelling-for-a-young-diverse-india/articleshow/122110625.cms",
-            "keywords": null,
-            "creator": null,
-            "description": "Bold, Culturally Rooted, and Scalable Storytelling for a Young, Diverse India",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-06-27 10:09:49",
-            "pubDateTZ": "UTC",
-            "image_url": "https://static.toiimg.com/thumb/msid-122110787,width-1070,height-580,imgsize-66522,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-            "video_url": null,
-            "source_id": "toi",
-            "source_name": "The Times Of India",
-            "source_priority": 239,
-            "source_url": "https://timesofindia.indiatimes.com",
-            "source_icon": "https://n.bytvi.com/toi.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "4393536aeedbc84a0201cdc6d89a8d3c",
-            "title": "Suzlon Energy shares surge 4.6% amid high trading volumes",
-            "link": "https://www.moneycontrol.com/news/business/stocks/suzlon-energy-shares-surge-4-6-amid-high-trading-volumes-alpha-article-13192570.html",
-            "keywords": [
-                "suzlon energy, stock surge, nifty midcap 150, financial performance, revenue, net profit, eps, cash flow, balance sheet, financial ratios"
-            ],
-            "creator": [
-                "Moneycontrol"
-            ],
-            "description": null,
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-06-27 10:09:48",
-            "pubDateTZ": "UTC",
-            "image_url": "https://images.moneycontrol.com/static-mcnews/2025/06/20250215043505_rupeegain_dollar.jpg",
-            "video_url": null,
-            "source_id": "moneycontrol",
-            "source_name": "Moneycontrol",
-            "source_priority": 1039,
-            "source_url": "https://www.moneycontrol.com",
-            "source_icon": "https://n.bytvi.com/moneycontrol.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top",
-                "business",
-                "world",
-                "politics"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "3cdf1598e5c01ccb9e8a2c3d6eed5794",
-            "title": "Jeff Bezos-Lauren Sanchez Wedding: Amazon Founder All Set to Marry Former Journalist in Lavish Venice Ceremony Today",
-            "link": "https://www.latestly.com/world/jeff-bezos-lauren-sanchez-wedding-amazon-founder-all-set-to-marry-former-journalist-in-lavish-venice-ceremony-today-6956750.html",
-            "keywords": null,
-            "creator": null,
-            "description": "The world's third-richest man, tech billionaire and Amazon founder Jeff Bezos is all set to marry former journalist Lauren Sanchez on Friday in what is being described as a star-studded wedding.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-06-27 10:09:47",
-            "pubDateTZ": "UTC",
-            "image_url": "https://st1.latestly.com/wp-content/uploads/2025/06/Jeff-Bezos-380x214.jpg",
-            "video_url": null,
-            "source_id": "latestly",
-            "source_name": "Latestly",
-            "source_priority": 31923,
-            "source_url": "https://www.latestly.com",
-            "source_icon": "https://n.bytvi.com/latestly.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "566f5e2b11d8557f9408ce019f161797",
-            "title": "Want To Lose Weight? Follow These Foolproof Ways For Sustainable Weight Loss",
-            "link": "https://doctor.ndtv.com/living-healthy/the-easiest-and-healthiest-way-to-weight-loss-5973452",
-            "keywords": [
-                "living healthy"
-            ],
-            "creator": null,
-            "description": "By incorporating these strategies into your daily routine, you can achieve sustainable weight loss and improve your overall health.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-06-27 10:09:47",
-            "pubDateTZ": "UTC",
-            "image_url": null,
-            "video_url": null,
-            "source_id": "ndtv",
-            "source_name": "Ndtv",
-            "source_priority": 1204,
-            "source_url": "http://www.ndtv.com",
-            "source_icon": "https://n.bytvi.com/ndtv.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "4a32388de00252a8b22dfc7ada17379e",
-            "title": "Iran’s top diplomat says talks with US ‘complicated’ by American strike on nuclear sites",
-            "link": "https://www.dailyexcelsior.com/irans-top-diplomat-says-talks-with-us-complicated-by-american-strike-on-nuclear-sites/",
-            "keywords": [
-                "international"
-            ],
-            "creator": [
-                "Daily Excelsior"
-            ],
-            "description": "DUBAI, June 27: Iran’s top diplomat said the possibility of new negotiations with the United States on his country’s nuclear programme has been “complicated” by the American attack on three of the sites, which he conceded caused “serious damage.” The US was one of the parties to the 2015 nuclear deal in which Iran agreed to limits on its uranium enrichment programme in exchange for sanctions relief and other benefits. That deal unravelled after US President Donald Trump pulled the [...]The post Iran’s top diplomat says talks with US ‘complicated’ by American strike on nuclear sites appeared first on Daily Excelsior.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-06-27 10:09:42",
-            "pubDateTZ": "UTC",
-            "image_url": "https://cdndailyexcelsior.b-cdn.net/wp-content/uploads/2025/06/agachgi-696x488.jpg",
-            "video_url": null,
-            "source_id": "dailyexcelsior",
-            "source_name": "Daily Excelsior",
-            "source_priority": 693953,
-            "source_url": "https://www.dailyexcelsior.com",
-            "source_icon": "https://n.bytvi.com/dailyexcelsior.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": true
-        },
-        {
-            "article_id": "fb4cb72c70044530ef1c76957bcd393f",
-            "title": "Lohardaga: नदी के तेज बहाव में फंसा युवक, लोगों ने जान जोखिम में डालकर बचाया",
-            "link": "https://jantaserishta.com/local/jharkhand/lohardaga-gazte-bat-ibaiaren-korronte-bortitzean-harrapatuta-geratu-zen-jendeak-bizitza-arriskuan-jarriz-salbatu-zuen-4110301",
-            "keywords": [
-                "राज्य,झारखंड"
-            ],
-            "creator": [
-                "Tara Tandi"
-            ],
-            "description": null,
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-06-27 10:09:40",
-            "pubDateTZ": "UTC",
-            "image_url": "https://jantaserishta.com/h-upload/2025/06/27/4706017-2.webp",
-            "video_url": null,
-            "source_id": "jantaserishta",
-            "source_name": "Janta Se Rishta",
-            "source_priority": 81836,
-            "source_url": "https://jantaserishta.com",
-            "source_icon": "https://n.bytvi.com/jantaserishta.jpg",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "a4d8e1ec58ada09ead24806b3b336162",
-            "title": "कोलकाता लॉ कॉलेज में स्टूडेंट के साथ हुआ गैंगरेप, RG Kar मेडिकल कॉलेज हादसे के बाद भी नहीं बदला कुछ.. निर्भया, दामिनी के बाद अब देंगे कितने नाम?",
-            "link": "https://www.herzindagi.com/hindi/society-culture/law-girl-student-gangraped-in-kolkata-former-student-including-3-arrested-article-1033296",
-            "keywords": [
-                "rape in india,sexual harassment,gangrape cases,kolkata gangrape,fight back,harassment on road"
-            ],
-            "creator": null,
-            "description": null,
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-06-27 10:09:39",
-            "pubDateTZ": "UTC",
-            "image_url": "https://images.herzindagi.info/her-zindagi-hindi/images/2025/06/27/article/image/Gangrape-in-kolkata-1751018849780.jpg",
-            "video_url": null,
-            "source_id": "herzindagi",
-            "source_name": "Herzindagi",
-            "source_priority": 12931,
-            "source_url": "https://www.herzindagi.com",
-            "source_icon": "https://n.bytvi.com/herzindagi.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "141f7406fdcdb4d58af95d787a947944",
-            "title": "Ahmedabad Rath Yatra: अहमदाबाद रथयात्रा के दौरान बेकाबू हुए तीन हाथी, मची भगदड़!",
-            "link": "https://www.sachkahoon.com/three-elephants-went-out-of-control-during-ahmedabad-rath-yatra-causing-stampede/",
-            "keywords": [
-                "न्यूज़ ब्रीफ",
-                "ahmedabad news",
-                "देश"
-            ],
-            "creator": [
-                "ManMohan"
-            ],
-            "description": "Elephants out of control in Ahmedabad Rath Yatra: अहमदाबाद। शहर में निकाली जा रही वार्षिक रथ यात्रा के दौरान शुक्रवार सुबह एक अप्रत्याशित घटना घटित हुई, जब देसाई नी पोल, खादिया क्षेत्र में जुलूस में सम्मिलित एक नर हाथी अचानक उत्तेजित हो गया। इस घटना से कुछ समय के लिए उपस्थित लोगों में भय का [...]The post Ahmedabad Rath Yatra: अहमदाबाद रथयात्रा के दौरान बेकाबू हुए तीन हाथी, मची भगदड़! appeared first on Sach kahoon - Best Online Hindi News.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-06-27 10:09:39",
-            "pubDateTZ": "UTC",
-            "image_url": "https://www.sachkahoon.com/wp-content/uploads/2025/06/Elephants-out-of-control-696x374.jpg",
-            "video_url": null,
-            "source_id": "sachkahoon",
-            "source_name": "Sach Kahoon",
-            "source_priority": 10821162,
-            "source_url": "https://www.sachkahoon.com",
-            "source_icon": null,
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "14b00c8874eced1207c6c39db9622901",
-            "title": "Bollywood To South, Do Block Bookings Mean Box Office Success?",
-            "link": "https://www.ndtv.com/entertainment/bollywood-to-south-do-block-bookings-mean-box-office-success-for-a-film-experts-break-down-the-ugly-truth-8767087",
-            "keywords": [
-                "bollywood"
-            ],
-            "creator": null,
-            "description": "From Bollywood to the South, do block bookings translate to box office numbers for big films? NDTV speaks to trade analysts to decode the trend",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-06-27 10:09:39",
-            "pubDateTZ": "UTC",
-            "image_url": null,
-            "video_url": null,
-            "source_id": "ndtv",
-            "source_name": "Ndtv",
-            "source_priority": 1204,
-            "source_url": "http://www.ndtv.com",
-            "source_icon": "https://n.bytvi.com/ndtv.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "9fbab59bee84280574e138d38e0e5154",
-            "title": "Samsung One UI 8 could finally bring useful additions to Now Brief feature- All details",
-            "link": "https://www.hindustantimes.com/technology/samsung-one-ui-8-could-finally-bring-useful-additions-to-now-brief-feature-all-details-101751018639340.html",
-            "keywords": [
-                "latest"
-            ],
-            "creator": null,
-            "description": "Samsung is expected to add new information cards to Now Brief in One UI 8 for timely alerts and summaries.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-06-27 10:09:38",
-            "pubDateTZ": "UTC",
-            "image_url": "https://www.hindustantimes.com/ht-img/img/2025/06/27/1600x900/Screenshot_2025-06-27_153452_1751018718441_1751018723122.png",
-            "video_url": null,
-            "source_id": "hindustantimes",
-            "source_name": "Hindustan Times",
-            "source_priority": 933,
-            "source_url": "http://www.hindustantimes.com",
-            "source_icon": "https://n.bytvi.com/hindustantimes.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "ebf59c9a9be30b69bce9015a37c7c0c4",
-            "title": "BTS Jin is all set for his first solo tour; Fans speculate if the idol will make them climb walls and take part in water activities - deets inside!",
-            "link": "https://timesofindia.indiatimes.com/entertainment/k-pop/music/news/bts-jin-is-all-set-for-his-first-solo-tour-fans-speculate-if-the-idol-will-make-them-climb-walls-and-take-part-in-water-activities-deets-inside/articleshow/122110802.cms",
-            "keywords": null,
-            "creator": null,
-            "description": "BTS Jin is gearing up to launch his highly anticipated solo tour, ‘RUNSEOKJIN_EP.TOUR,’ commencing tomorrow at the Goyang Auxiliary Stadium. Hints about activities, including a wall-climbing zone, have fueled excitement among fans. Speculation is rife that the tour might incorporate elements from Jin's variety show 'Run Jin,' promising an engaging and active experience for attendees.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-06-27 10:09:33",
-            "pubDateTZ": "UTC",
-            "image_url": "https://static.toiimg.com/thumb/msid-122110655,width-1070,height-580,imgsize-37148,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-            "video_url": null,
-            "source_id": "toi",
-            "source_name": "The Times Of India",
-            "source_priority": 239,
-            "source_url": "https://timesofindia.indiatimes.com",
-            "source_icon": "https://n.bytvi.com/toi.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "699b0e5ddd8b5f95dc2d2c6f8eef95cd",
-            "title": "Lucknow: डिजिटल सुरक्षा में अग्रणी बनी अमरोहा पुलिस",
-            "link": "https://jantaserishta.com/local/uttar-pradesh/lucknow-amroha-police-becomes-leader-in-digital-security-lucknow--4110300",
-            "keywords": [
-                "उत्तर प्रदेश,राज्य"
-            ],
-            "creator": [
-                "Admindelhi1"
-            ],
-            "description": null,
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-06-27 10:09:29",
-            "pubDateTZ": "UTC",
-            "image_url": "https://jantaserishta.com/h-upload/2025/06/27/4706023-images-81.webp",
-            "video_url": null,
-            "source_id": "jantaserishta",
-            "source_name": "Janta Se Rishta",
-            "source_priority": 81836,
-            "source_url": "https://jantaserishta.com",
-            "source_icon": "https://n.bytvi.com/jantaserishta.jpg",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "ebedf74b3dd06901796812a5f8f9cbe2",
-            "title": "India Seeks Expeditious Review Of ASEAN Trade Agreement Amid Concerns Over Trade Deficit: MEA",
-            "link": "https://knnindia.co.in/news/newsdetails/global/india-seeks-expeditious-review-of-asean-trade-agreement-amid-concerns-over-trade-deficit-mea",
-            "keywords": null,
-            "creator": null,
-            "description": "India Seeks Expeditious Review Of ASEAN Trade Agreement Amid Concerns Over Trade Deficit: MEA New Delhi, Jun 27 (KNN) India is eager to expedite the review of its free trade agreement (FTA) with the Association of Southeast Asian Nations (ASEAN) and intends to maintain constructive engagement with the bloc, the Ministry of External Affairs (MEA) said on Wednesday.The ongoing review pertains to the ASEAN-India Trade in Goods Agreement (AITIGA), originally signed in 2009 and implemented in 2010. Speaking at a press briefing, MEA spokesperson Randhir Jaiswal confirmed that discussions are underway. “It is our expectation that this needs to be completed as soon as possible. That is our hope, and we look forward to continuing our engagement with ASEAN on this particular matter,” Jaiswal stated.The MEA’s remarks follow a strong critique from Commerce and Industry Minister Piyush Goyal, who, at the India Global Forum (IGF) in London, questioned the rationale behind the original agreement. “It really is silly because [that is] opening up my market to my competitors, many of whom have now become the B team of China,” he said, implying that the pact inadvertently facilitated the inflow of Chinese goods into the Indian market via ASEAN countries.Since its implementation, the agreement has been linked to a significant widening of India’s trade deficit with ASEAN—from around USD 8 billion in 2010 to USD 45.2 billion in FY25. Analysts and government sources have pointed to an imbalance in tariff liberalisation. While India offered duty concessions on 71 percent of its tariff lines, partner countries such as Indonesia, Vietnam, and Thailand reciprocated with only 41 percent, 66.5 percent, and 67 percent respectively.Following sustained pressure from India, ASEAN agreed to a formal review of AITIGA in 2023. However, progress has reportedly been limited, with the Commerce Ministry citing a lack of momentum in the negotiations.The review is seen as critical to ensuring fairer terms and restoring balance in trade relations, particularly as India recalibrates its broader FTA strategy to prioritise equitable and strategic outcomes.(KNN Bureau)",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-06-27 10:09:28",
-            "pubDateTZ": "UTC",
-            "image_url": "https://knnindia.co.in/uploads/newsfiles/INDIA-ASEAN-27-6-2025.jpg",
-            "video_url": null,
-            "source_id": "knnindia",
-            "source_name": "Knn India",
-            "source_priority": 6653678,
-            "source_url": "https://knnindia.co.in/home",
-            "source_icon": null,
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "world"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "422b1e9f50df171508f23672635c7f3e",
-            "title": "West Indies pacer Jayden Seales fined 15% match fee for his Fierce send-off to Pat Cummins",
-            "link": "https://www.cricketcountry.com/photos/west-indies-pacer-jayden-seales-fined-15-match-fee-for-his-fierce-send-off-to-pat-cummins-1274769/",
-            "keywords": [
-                "pat cummins",
-                "code of conduct",
-                "photos",
-                "test cricket",
-                "jayden seales",
-                "icc",
-                "wi vs aus"
-            ],
-            "creator": [
-                "Krishnakant Kukreti"
-            ],
-            "description": "Wet Indies pacer Jayden Seales broke ICC's Code of Conduct, and was given a fine of 15% of his match fee, along with a demerit point.The post West Indies pacer Jayden Seales fined 15% match fee for his Fierce send-off to Pat Cummins appeared first on Cricket Country.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-06-27 10:09:27",
-            "pubDateTZ": "UTC",
-            "image_url": "https://st3.cricketcountry.com/wp-content/uploads/2025/06/sales.jpg",
-            "video_url": null,
-            "source_id": "cricketcountry",
-            "source_name": "Cricket Country",
-            "source_priority": 105935,
-            "source_url": "https://www.cricketcountry.com",
-            "source_icon": "https://n.bytvi.com/cricketcountry.jpg",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "sports"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "731a097f37e3278870a92a189c10144b",
-            "title": "Missiles, Diplomacy, and Face-Saving: Anatomy of the Israel-Iran Ceasefire",
-            "link": "https://www.thequint.com/opinion/missiles-diplomacy-iran-israel-ceaefire-fragile-peace",
-            "keywords": [
-                "opinion"
-            ],
-            "creator": [
-                "(Retd) Lt Gen Bhopinder Singh"
-            ],
-            "description": "The “12-Day War” bled both sides militarily, psychologically, economically, writes (Retd) Lt Gen Bhopinder Singh.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-06-27 10:09:25",
-            "pubDateTZ": "UTC",
-            "image_url": "https://media.assettype.com/thequint%2F2024-04%2F204c2ce5-9dcf-4114-bedf-9fdafb9eda46%2FUntitled_design.png?auto=format%2Ccompress&fmt=webp&w=1200&width=720",
-            "video_url": null,
-            "source_id": "thequint",
-            "source_name": "The Quint",
-            "source_priority": 28883,
-            "source_url": "https://www.thequint.com",
-            "source_icon": "https://n.bytvi.com/thequint.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "c3ee39b98621b53f60dab100a0a96bbd",
-            "title": "पश्चिम बंगाल रेप कांड पर सियासी घमासान, 3 गिरफ्तार, 1 जुलाई तक पुलिस हिरासत",
-            "link": "https://www.aajtak.in/india/news/video/political-turmoil-over-the-west-bengal-rape-case-3-arrested-police-custody-until-july-1-ytvd-2273993-2025-06-27",
-            "keywords": null,
-            "creator": null,
-            "description": "पश्चिम बंगाल में एक रेप कांड को लेकर सियासत गरमा गई है. बीजेपी ने कानून व्यवस्था पर सवाल उठाते हुए ममता बनर्जी पर हमला बोला है. वहीं, टीएमसी सांसद कल्याण बनर्जी ने कहा कि हर जगह पुलिस रखना संभव नहीं है. साउथ कोलकाता लॉ कॉलेज में रेप के आरोप में पुलिस ने तीन लोगों को गिरफ्तार किया है, जिनमें कॉलेज का पूर्व छात्र और स्टाफ शामिल हैं.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-06-27 10:09:19",
-            "pubDateTZ": "UTC",
-            "image_url": "https://akm-img-a-in.tosshub.com/aajtak/images/video/202506/westbengalrapecase3accusedarrestedpoliticsintensifies-s0-original-sixteen-to-nine.jpg",
-            "video_url": null,
-            "source_id": "aajtak",
-            "source_name": "Aaj Tak",
-            "source_priority": 20158,
-            "source_url": "http://aajtak.in",
-            "source_icon": "https://n.bytvi.com/aajtak.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
             ],
             "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
             "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
