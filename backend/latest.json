@@ -1,6 +1,690 @@
 {
     "articles": [
         {
+            "article_id": "31a442d3c379f139eea41d515e8f751e",
+            "title": "5 Non-fiction books to change your thinking under 200 pages",
+            "link": "https://yourstory.com/2025/06/short-books-change-thinking-fast",
+            "keywords": null,
+            "creator": null,
+            "description": "Discover 10 powerful non-fiction books under 200 pages that deliver deep insights and reshape how you think—quick, impactful reads.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-30 10:10:00",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.yourstory.com/cs/2/ba6b0930e8cd11edbf1c2f9de7fdeb77/Imageq5uj-1750932609742.jpg",
+            "video_url": null,
+            "source_id": "yourstory",
+            "source_name": "Yourstory",
+            "source_priority": 15903,
+            "source_url": "https://yourstory.com",
+            "source_icon": "https://n.bytvi.com/yourstory.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "6136b35648f8c53ce6c8ace7742e10dd",
+            "title": "Delhi court allows CBI to close case of missing JNU student Najeeb Ahmed",
+            "link": "https://www.hindustantimes.com/india-news/delhi-court-allows-cbi-to-close-case-of-missing-jnu-student-najeeb-ahmed-101751278099512.html",
+            "keywords": [
+                "india-news"
+            ],
+            "creator": null,
+            "description": "CBI had closed its investigation into the case in 2018, after its efforts to trace Najeeb Ahmed did not yield any results.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-30 10:09:56",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.hindustantimes.com/ht-img/img/2025/06/30/1600x900/najeeb_ahmed_missing_case_1751278304344_1751278311721.jpg",
+            "video_url": null,
+            "source_id": "hindustantimes",
+            "source_name": "Hindustan Times",
+            "source_priority": 933,
+            "source_url": "http://www.hindustantimes.com",
+            "source_icon": "https://n.bytvi.com/hindustantimes.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "4113ee1ac5e4a73bc3cba292265b6b80",
+            "title": "पहली बार मिली किसी MPV को सेफ्टी में 5 स्टार रेटिंग, इस गाड़ी ने रचा इतिहास",
+            "link": "https://www.tv9hindi.com/automobile/toyota-innova-hycross-gets-5-star-bncap-rating-first-mpv-in-india-to-achieve-this-know-price-features-engine-details-3367374.html",
+            "keywords": null,
+            "creator": [
+                "TV9 Bharatvarsh"
+            ],
+            "description": "इनोवा हाइक्रॉस की एक्स-शोरूम प्राइस ₹19.94 लाख से शुरू होकर ₹31.34 लाख तक जाती है. ये कीमत इसके वेरिएंट्स और सीटिंग कॉन्फिगरेशन (7 या 8-सीटर) के हिसाब से अलग-अलग होती है. इनोवा हाइक्रॉस में 6 एयरबैग्स सभी वेरिएंट्स में स्टैंडर्ड दिए गए हैं. इसके अलावा, इसमें प्री-कोलिजन सिस्टम, ब्लाइंड स्पॉट मॉनिटर, लेन ट्रेस असिस्ट, रियर क्रॉस ट्रैफिक अलर्ट, SOS E-call, ऑटो हाई बीम मिलता है.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-30 10:09:53",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.tv9hindi.com/wp-content/uploads/2025/06/bncap.jpg?w=1280",
+            "video_url": null,
+            "source_id": "tv9bharatvarsh",
+            "source_name": "Tv9 Bharatvarsh",
+            "source_priority": 40538658,
+            "source_url": "https://www.tv9hsindi.com",
+            "source_icon": "https://n.bytvi.com/tv9bharatvarsh.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "technology"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "3cc88565f084ca369dfb5131ca8b4e24",
+            "title": "Sikkim Assembly Passes Lokayukta (Amendment) Bill",
+            "link": "https://www.deccanchronicle.com/nation/sikkim-assembly-passes-lokayukta-amendment-bill-1888399",
+            "keywords": [
+                "nation,news"
+            ],
+            "creator": [
+                "PTI"
+            ],
+            "description": "The Scholars University of Skills and Innovation, Sikkim Bill, 2025 was also introduced in the House during a day-long session.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-30 10:09:50",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.deccanchronicle.com/h-upload/2025/06/30/1933182-gkt2kepwaaaleqd.webp",
+            "video_url": null,
+            "source_id": "deccanchronicle",
+            "source_name": "Deccan Chronicle",
+            "source_priority": 21568,
+            "source_url": "https://www.deccanchronicle.com",
+            "source_icon": "https://n.bytvi.com/deccanchronicle.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": true
+        },
+        {
+            "article_id": "bf702acdfdd69346d54f660853fe2105",
+            "title": "Sariska: Will its tigers be mined into oblivion by a human predator — again?",
+            "link": "https://www.nationalheraldindia.com/environment/sariska-will-its-tigers-be-mined-into-oblivion-by-a-human-predator-again",
+            "keywords": [
+                "nation",
+                "politics",
+                "environment"
+            ],
+            "creator": null,
+            "description": "The decision of the Rajasthan State Wildlife Board, an advisory body of the state forest department, to ‘rationalise’ the boundary of the Sariska Tiger Reserve (STR) paves the way for mining in the peripheral area, thereby endangering the sanctuary.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-30 10:09:49",
+            "pubDateTZ": "UTC",
+            "image_url": "https://media.assettype.com/nationalherald/2025-06-30/99jpagf3/myrajasthan.jpeg",
+            "video_url": null,
+            "source_id": "nationalheraldindia",
+            "source_name": "National Herald",
+            "source_priority": 117385,
+            "source_url": "https://www.nationalheraldindia.com",
+            "source_icon": "https://n.bytvi.com/nationalheraldindia.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "18f2e618f50e54d557731372fc2518d2",
+            "title": "CM Punk to reveal major allies and shock Seth Rollins on WWE RAW? Possibility explored",
+            "link": "https://www.sportskeeda.com/wwe/cm-punk-reveal-major-allies-shock-seth-rollins-wwe-raw-possibility-explored",
+            "keywords": [
+                "wwe"
+            ],
+            "creator": [
+                "Ishan Dubey"
+            ],
+            "description": "At Night of Champions, CM Punk came very close to winning his first WWE championship since his return. However, Seth Rollins and Co.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-30 10:09:49",
+            "pubDateTZ": "UTC",
+            "image_url": null,
+            "video_url": null,
+            "source_id": "sportskeeda",
+            "source_name": "Sportskeeda",
+            "source_priority": 1040,
+            "source_url": "http://sportskeeda.com",
+            "source_icon": "https://n.bytvi.com/sportskeeda.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "sports"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "d151d2f269cbcccb191f0b645bd36870",
+            "title": "Quick-Commerce Platforms Add Hidden Fees to Reduce Losses Amid Fierce Competition",
+            "link": "https://startupnews.fyi/2025/06/30/quick-commerce-platforms-add-hidden-fees-to-reduce-losses-amid-fierce-competition/",
+            "keywords": [
+                "e commerce"
+            ],
+            "creator": [
+                "Team SNFYI"
+            ],
+            "description": "India’s quick-commerce players like Blinkit, Zepto, and Instamart are adding multiple extra charges—such as handling, convenience, surge, or rain fees—to each order to help offset their heavy operational losses. These new surcharges typically range from ₹6 to ₹30 per order and vary based on city and platform. To encourage higher spending per order, these platforms [...]",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-30 10:09:46",
+            "pubDateTZ": "UTC",
+            "image_url": "https://startupnews.fyi/wp-content/uploads/2025/06/quick.jpeg",
+            "video_url": null,
+            "source_id": "startupnews",
+            "source_name": "Startupnews",
+            "source_priority": 443815,
+            "source_url": "https://startupnews.fyi",
+            "source_icon": "https://n.bytvi.com/startupnews.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "bc521fb550b0d1e8558c7ddc712ac8fe",
+            "title": "Haryana News : यूपी में रोहतक के साइको किलर मुठभेड़ में ढेर, बदमाश पर दर्ज है 15 मामले",
+            "link": "https://www.dainiktribuneonline.com/news/haryana/haryana-news-rohtaks-psycho-killer-killed-in-encounter-in-up-15-cases-registered-against-the-criminal/",
+            "keywords": [
+                "hindi news",
+                "jind news",
+                "हिंदी समाचार",
+                "crime news",
+                "latest news",
+                "दैनिक ट्रिब्यून न्यूज",
+                "haryana crime news",
+                "haryana khabar",
+                "हरियाणा खबर",
+                "haryana news",
+                "dainik tribune news",
+                "dainik tribune hindi news",
+                "हरियाणा"
+            ],
+            "creator": [
+                "Anjali Rajput"
+            ],
+            "description": "रोहतक, 30 जून (निस) Haryana News : रोहतक के एक साइको किलर को यूपी पुलिस ने मुठभेड़ में मार गिराया। बदमाश पर 15 मामला दर्ज थे और हाल ही में यूपी पुलिस ने उस पर एक लाख रुपये ईनाम भी घोषित किया था। बताया जा रहा है कि बागपत पुलिस व एसटीएफ के बीच हुई [...]The post Haryana News : यूपी में रोहतक के साइको किलर मुठभेड़ में ढेर, बदमाश पर दर्ज है 15 मामले appeared first on dainiktribuneonline.com.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-30 10:09:45",
+            "pubDateTZ": "UTC",
+            "image_url": "https://dainiktribuneonline.imagibyte.sortdcdn.net/wp-content/uploads/2024/07/Death-of-rape-victim-girl.jpg",
+            "video_url": null,
+            "source_id": "dainiktribuneonline",
+            "source_name": "Breaking News In Hindi Online",
+            "source_priority": 465842,
+            "source_url": "https://www.dainiktribuneonline.com",
+            "source_icon": "https://n.bytvi.com/dainiktribuneonline.jpg",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "cecbabcadeaf9a5afb31d2c8e7a94c41",
+            "title": "Kerala : एमडीएमए के साथ गिरफ्तार",
+            "link": "https://jantaserishta.com/local/kerala/kerala-arrested-with-mdma-4116934",
+            "keywords": [
+                "राज्य,केरल"
+            ],
+            "creator": [
+                "Kavita2"
+            ],
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-30 10:09:38",
+            "pubDateTZ": "UTC",
+            "image_url": "https://jantaserishta.com/h-upload/2025/06/30/4713504-untitled-46-copy.webp",
+            "video_url": null,
+            "source_id": "jantaserishta",
+            "source_name": "Janta Se Rishta",
+            "source_priority": 81836,
+            "source_url": "https://jantaserishta.com",
+            "source_icon": "https://n.bytvi.com/jantaserishta.jpg",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "54f0f160b3b035b0539ef6032c8c1a83",
+            "title": "अमरनाथ यात्रा: आतंकी हमले के बाद अभेद्य सुरक्षा, चप्पे-चप्पे पर निगरानी",
+            "link": "https://www.aajtak.in/india/news/video/amarnath-yatra-high-security-after-terrorist-attack-2-lakh-pilgrims-prepared-for-going-ytvd-2276047-2025-06-30",
+            "keywords": null,
+            "creator": null,
+            "description": "3 जुलाई से पवित्र अमरनाथ यात्रा शुरू हो रही है. पहलगाम में हुए आतंकवादी हमले के बाद इस बार यात्रा की सुरक्षा के बेहद कड़े इंतजाम किए गए हैं. सुरक्षा का अभेद्य घेरा बनाया गया है, जिसमें पूरे रूट पर जवान तैनात हैं, चप्पे-चप्पे पर निगरानी है, सीसीटीवी और ड्रोन से नजर रखी जा रही है. वाटर विंग, महिला कमांडोज, डॉग स्क्वाड और बुलेटप्रूफ मार्क्समैन गाड़ियां भी तैनात की गई हैं.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-30 10:09:37",
+            "pubDateTZ": "UTC",
+            "image_url": "https://akm-img-a-in.tosshub.com/aajtak/images/video/202506/amarnathyatraanimpregnablesecuritycovermonitoringateverystep-s0-original-sixteen-to-nine.jpg",
+            "video_url": null,
+            "source_id": "aajtak",
+            "source_name": "Aaj Tak",
+            "source_priority": 20158,
+            "source_url": "http://aajtak.in",
+            "source_icon": "https://n.bytvi.com/aajtak.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "270679bb3027b9586933294e9cdf9edc",
+            "title": "तेलंगाना के स्वास्थ्य मंत्री से बातचीत के बाद TJUDA ने अनिश्चितकालीन हड़ताल वापस ली",
+            "link": "https://jantaserishta.com/local/telangana/tjuda-withdraws-indefinite-strike-after-talks-with-telangana-health-minister-4116933",
+            "keywords": [
+                "राज्य,तेलंगाना"
+            ],
+            "creator": [
+                "Payal"
+            ],
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-30 10:09:34",
+            "pubDateTZ": "UTC",
+            "image_url": "https://jantaserishta.com/h-upload/2025/06/30/4713505-56.webp",
+            "video_url": null,
+            "source_id": "jantaserishta",
+            "source_name": "Janta Se Rishta",
+            "source_priority": 81836,
+            "source_url": "https://jantaserishta.com",
+            "source_icon": "https://n.bytvi.com/jantaserishta.jpg",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "cedea3b08611ca7bf278982066213410",
+            "title": "'Wimbledon Could Be The Best Chance': Aging Djokovic Eyeing Historic 25th Career Slam",
+            "link": "https://www.news18.com/sports/wimbledon-could-be-the-best-chance-aging-djokovic-eyeing-historic-25th-career-slam-ws-l-9412130.html",
+            "keywords": [
+                "sports"
+            ],
+            "creator": null,
+            "description": "Novak Djokovic, aiming for his 25th Grand Slam at Wimbledon, seeks to match Roger Federer's record of eight titles as well.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-30 10:09:33",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.news18.com/ibnlive/uploads/2025/06/Novak-Djokovic-Wimbledon-Practice-2025-06-66a9110fe57e76e37e2dc4e7e25c7212-3x2.jpg",
+            "video_url": null,
+            "source_id": "news18",
+            "source_name": "News 18",
+            "source_priority": 1063,
+            "source_url": "https://www.news18.com",
+            "source_icon": "https://n.bytvi.com/news18.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "sports"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "2c158cb61579c8904674194dd816cb76",
+            "title": "Trump wants America to make iPhones. Here's how India is doing it",
+            "link": "https://www.business-standard.com/world-news/trump-wants-america-to-make-iphones-here-s-how-india-is-doing-it-125063000649_1.html",
+            "keywords": null,
+            "creator": null,
+            "description": "India is carving out a new space for Foxconn and other high-end manufacturers, just as President Trump demands American companies do at home",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-30 10:09:31",
+            "pubDateTZ": "UTC",
+            "image_url": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1250630/thumb-125063000649.jpg",
+            "video_url": null,
+            "source_id": "business-standard",
+            "source_name": "Business Standard",
+            "source_priority": 9158,
+            "source_url": "https://www.business-standard.com",
+            "source_icon": "https://n.bytvi.com/business-standard.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "world"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": true
+        },
+        {
+            "article_id": "d9f3bf5e383726c414b166a83027a164",
+            "title": "नगर निगम ग्रेटर आयुक्त डॉ. गौरव सैनी ने ली राजस्व समीक्षा बैठक",
+            "link": "https://www.khaskhabar.com/local/rajasthan/jaipur-news/news-municipal-corporation-greater-commissioner-dr-gaurav-saini-took-revenue-review-meeting-news-hindi-1-732943-KKN.html",
+            "keywords": null,
+            "creator": [
+                "khas khabar"
+            ],
+            "description": "नगर निगम ग्रेटर आयुक्त डाॅ. गौरव सैनी ने सोमवार को नगरीय विकास कर, गृह कर तथा विज्ञापन शुल्क की वसूली हेतु वार्डवार आयोजित किए जा रहे शिविरों के सफल संचालन...",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-30 10:09:26",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.khaskhabar.com/s3-storage/khaskhabar/khaskhabarimages/img500/05-76-1751278166-732943-khaskhabar.jpg",
+            "video_url": null,
+            "source_id": "khaskhabar",
+            "source_name": "Khas Khabar",
+            "source_priority": 5174519,
+            "source_url": "https://www.khaskhabar.com",
+            "source_icon": "https://n.bytvi.com/khaskhabar.jpg",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "f6601cde1241c179a9354cc5996490e8",
+            "title": "How 'Socialist' And 'Secular' Were Added To The Preamble During Emergency | Explained",
+            "link": "https://www.news18.com/explainers/how-socialist-and-secular-were-added-to-the-preamble-during-emergency-explained-ws-dkl-9412319.html",
+            "keywords": [
+                "explainers"
+            ],
+            "creator": null,
+            "description": "The addition of 'Socialist' and 'Secular' to Preamble during Emergency was seen as an attempt to reposition Indira Gandhi as pro-poor and committed to religious neutrality",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-30 10:09:22",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.news18.com/ibnlive/uploads/2025/05/indira-gandhi-2025-05-d9ec38527a28bb7785e4a1d4b212a223-3x2.png",
+            "video_url": null,
+            "source_id": "news18",
+            "source_name": "News 18",
+            "source_priority": 1063,
+            "source_url": "https://www.news18.com",
+            "source_icon": "https://n.bytvi.com/news18.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "87162e2d494a31da95c678bc43d8ad0c",
+            "title": "All arrangements in place for peaceful, successful Amarnath Yatra: LG Sinha",
+            "link": "https://kashmirreader.com/2025/06/30/all-arrangements-in-place-for-peaceful-successful-amarnath-yatra-lg-sinha/",
+            "keywords": [
+                "latest"
+            ],
+            "creator": [
+                "Reader correspondent"
+            ],
+            "description": "Baltal: Lieutenant Governor Manoj Sinha on Monday said that all the arrangements have been put in place for the safety and security of Amarnath yatris. Speaking to reporters after chairing a high level security meet, LG Sinha, said this year arrangements are much better than previous years. He said security agencies have formulated [...]",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-30 10:09:21",
+            "pubDateTZ": "UTC",
+            "image_url": null,
+            "video_url": null,
+            "source_id": "kashmirreader",
+            "source_name": "Kashmir Reader",
+            "source_priority": 1088812,
+            "source_url": "https://kashmirreader.com",
+            "source_icon": "https://n.bytvi.com/kashmirreader.jpg",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": true
+        },
+        {
+            "article_id": "7beb6cd4acfb095141c4b5b7b289d28c",
+            "title": "Prada And Prejudice: Why Kolhapuri Chappals Have Reignited Cultural Appropriation Debate",
+            "link": "https://www.news18.com/explainers/prada-and-prejudice-why-kolhapuri-chappals-have-reignited-cultural-appropriation-debate-ws-kl-9412228.html",
+            "keywords": [
+                "explainers"
+            ],
+            "creator": null,
+            "description": "The Kolhapuri chappal, a handcrafted leather sandal with roots in the Kolhapur region of Maharashtra and a long-standing legacy in Karnataka, has become a symbol of Indian heritage",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-30 10:09:19",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.news18.com/ibnlive/uploads/2025/06/prada-2025-06-daccb1ed1bc370ebae14ddefa7db5e8d-3x2.jpg",
+            "video_url": null,
+            "source_id": "news18",
+            "source_name": "News 18",
+            "source_priority": 1063,
+            "source_url": "https://www.news18.com",
+            "source_icon": "https://n.bytvi.com/news18.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "95643ba1db451b5df3b35ece1af63065",
+            "title": "WATCH: Faf du Plessis celebrate his 53-ball century against MI New York in MLC",
+            "link": "https://www.mid-day.com/sports/cricket/article/watch-faf-du-plessis-smashes-his-eighth-t20-ton-during-major-cricket-league-match-against-mi-new-york-23582221",
+            "keywords": [
+                "sports"
+            ],
+            "creator": [
+                "Mid-day"
+            ],
+            "description": "Du Plessis` ton was his eighth in T20 cricket, putting him in elite company, drawing level with the likes of Aaron Finch, Glenn Maxwell, Jos Buttler, Michael Klinger, and Rohit Sharma for the fourth-highest number of T20 centuries. He now has 11,755 runs from 420 T20 matches",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-30 10:09:19",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.mid-day.com/images/images/2025/jun/fafdptskings-1751272885641_d.png",
+            "video_url": null,
+            "source_id": "mid_day",
+            "source_name": "Mid-day",
+            "source_priority": 18499,
+            "source_url": "https://www.mid-day.com",
+            "source_icon": "https://n.bytvi.com/mid_day.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "sports"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "78d50c2c0c060bf4d34fb27b7a5df72e",
+            "title": "Confident India hope for Mandhana`s heroics, Harmanpreet Kaur`s availability",
+            "link": "https://www.mid-day.com/sports/cricket/article/ind-w-vs-eng-w-2nd-t20i-india-hope-for-smriti-mandhana-heroics-and-harmanpreet-kaur-ret-23582197",
+            "keywords": [
+                "sports"
+            ],
+            "creator": [
+                "Mid-day"
+            ],
+            "description": "The camp before the series and early arrival on English soil, and a few matches, seem to have helped the Indian players to get into the rhythm for the T20I. Also, Harleen Deol at number three was outstanding as she shouldered Mandhana to register a 94-run partnership while putting a huge total on the board",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-30 10:09:18",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.mid-day.com/images/images/2025/jun/indianwomensteam-1751270721879_d.png",
+            "video_url": null,
+            "source_id": "mid_day",
+            "source_name": "Mid-day",
+            "source_priority": 18499,
+            "source_url": "https://www.mid-day.com",
+            "source_icon": "https://n.bytvi.com/mid_day.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "sports"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "3a40a2ce74672a58e4f439bd4edf9693",
+            "title": "Fooni Fun Viral Videos, Sapna Shah Viral Video, Pakcricketinfo 18 Viral Video and Mwaka Halwiindi Viral Video Original Searches Go Viral – Here’s Why You Should Avoid Clicking These Risky Links Online",
+            "link": "https://www.latestly.com/social-viral/fooni-fun-viral-videos-sapna-shah-viral-video-pakcricketinfo-18-viral-video-and-mwaka-halwiindi-viral-video-original-searches-go-viral-heres-why-you-should-avoid-clicking-these-ri-6962764.html",
+            "keywords": null,
+            "creator": null,
+            "description": "while trending searches like “Fooni Fun Viral Videos,” “Pakcricketinfo 18 Viral Video,” \"Sapna Shah Viral Video\", and “Mwaka Halwiindi Viral Video Original” may spark curiosity, it's crucial to approach them with caution. Many of these so-called viral videos are either misleading, inappropriate, or linked to harmful websites that compromise user privacy and device security.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-30 10:09:18",
+            "pubDateTZ": "UTC",
+            "image_url": "https://st1.latestly.com/wp-content/uploads/2025/06/viral-videos-380x214.jpg",
+            "video_url": null,
+            "source_id": "latestly",
+            "source_name": "Latestly",
+            "source_priority": 31923,
+            "source_url": "https://www.latestly.com",
+            "source_icon": "https://n.bytvi.com/latestly.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
             "article_id": "571aa87325f243c13b8f6c7c1b038968",
             "title": "Qiming Venture Partners' Portfolio Company Unisound Successfully Lists on the Hong Kong Stock Exchange",
             "link": "https://www.prnewswire.com/apac/news-releases/qiming-venture-partners-portfolio-company-unisound-successfully-lists-on-the-hong-kong-stock-exchange-302494268.html",
@@ -23815,864 +24499,6 @@
             ],
             "category": [
                 "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "4bc02595373b1f1f684df84cf2951f54",
-            "title": "Does Warren Buffett Know Something Wall Street Doesn't?",
-            "link": "https://finance.yahoo.com/news/does-warren-buffett-know-something-221000183.html",
-            "keywords": null,
-            "creator": [
-                "Motley Fool"
-            ],
-            "description": null,
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-06-28 22:10:00",
-            "pubDateTZ": "UTC",
-            "image_url": null,
-            "video_url": null,
-            "source_id": "yahoo",
-            "source_name": "Yahoo! News",
-            "source_priority": 17,
-            "source_url": "https://news.yahoo.com",
-            "source_icon": "https://n.bytvi.com/yahoo.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "business"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": true
-        },
-        {
-            "article_id": "f9376954f8b63fbffd2d13ccdda4c376",
-            "title": "Abbas Araghchi | Iran’s man at the table",
-            "link": "https://www.thehindu.com/news/international/abbas-araghchi-irans-man-at-the-table/article69749431.ece",
-            "keywords": [
-                "world"
-            ],
-            "creator": null,
-            "description": "As a fragile ceasefire between Tehran and Tel Aviv holds, Iran’s top diplomat has to strengthen ties with allies and manage relations with rivals",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-06-28 22:10:00",
-            "pubDateTZ": "UTC",
-            "image_url": "https://th-i.thgim.com/public/news/national/tay1y2/article69749434.ece/alternates/LANDSCAPE_1200/Abbas_Aragchi.jpg",
-            "video_url": null,
-            "source_id": "thehindu",
-            "source_name": "The Hindu",
-            "source_priority": 2972,
-            "source_url": "https://www.thehindu.com",
-            "source_icon": "https://n.bytvi.com/thehindu.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "world"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "cbb37330e7d320a31a01287c9b35b4c8",
-            "title": "Kol records eastern India’s first heart rhythm device implant op",
-            "link": "https://timesofindia.indiatimes.com/city/kolkata/kol-records-eastern-indias-first-heart-rhythm-device-implant-op/articleshow/122134929.cms",
-            "keywords": null,
-            "creator": [
-                "Prithvijit Mitra"
-            ],
-            "description": null,
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-06-28 22:09:51",
-            "pubDateTZ": "UTC",
-            "image_url": "https://static.toiimg.com/thumb/msid-122134923,width-1070,height-580,imgsize-53564,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-            "video_url": null,
-            "source_id": "toi",
-            "source_name": "The Times Of India",
-            "source_priority": 239,
-            "source_url": "https://timesofindia.indiatimes.com",
-            "source_icon": "https://n.bytvi.com/toi.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "80bee4a94255834e7a6ca72349ebd1bb",
-            "title": "1 Year Of India's T20 World Cup Triumph: 6 Key Moments That Powered Men In Blue Past South Africa In The Final",
-            "link": "https://menafn.com/1109736570/1-Year-Of-Indias-T20-World-Cup-Triumph-6-Key-Moments-That-Powered-Men-In-Blue-Past-South-Africa-In-The-Final",
-            "keywords": null,
-            "creator": [
-                "marketing@menafn.com (MENAFN)"
-            ],
-            "description": "(MENAFN - AsiaNet News) Relive the thrilling moments of India's T20 World Cup victory against South Africa. From Kohli's crucial knock to Pandya's final over heroics, explore the key plays that ...",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-06-28 22:09:28",
-            "pubDateTZ": "UTC",
-            "image_url": "https://menafn.com/updates/pr/2025-06/28/AN_1907aimage_story.jpg",
-            "video_url": null,
-            "source_id": "menafn",
-            "source_name": "Menafn",
-            "source_priority": 1117534,
-            "source_url": "https://menafn.com",
-            "source_icon": "https://n.bytvi.com/menafn.png",
-            "language": "english",
-            "country": [
-                "georgia",
-                "yemen",
-                "afghanistan",
-                "cyprus",
-                "india",
-                "singapore",
-                "saudi arabia",
-                "maldives",
-                "japan",
-                "united arab emirates",
-                "malaysia",
-                "china",
-                "south korea",
-                "north korea",
-                "taiwan",
-                "thailand",
-                "pakistan",
-                "mongolia",
-                "brunei",
-                "lebanon",
-                "indonesia",
-                "kyrgyzstan",
-                "syria",
-                "israel",
-                "bhutan",
-                "iran",
-                "turkey",
-                "armenia",
-                "qatar",
-                "philippines",
-                "kazakhstan",
-                "iraq",
-                "bangladesh",
-                "laos",
-                "vietnam",
-                "timor-leste",
-                "kuwait",
-                "myanmar",
-                "azerbaijan",
-                "jordan",
-                "nepal",
-                "sri lanka",
-                "uzbekistan",
-                "turkmenistan",
-                "macau",
-                "bahrain",
-                "cambodia",
-                "tajikistan"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": true
-        },
-        {
-            "article_id": "1c44d4495be2de159da4f32f03175f1e",
-            "title": "Serbia Police Clash With Anti Govt Protestors Seeking Early Vote, Fire Tear Gas, Arrest Dozens",
-            "link": "https://menafn.com/1109736568/Serbia-Police-Clash-With-Anti-Govt-Protestors-Seeking-Early-Vote-Fire-Tear-Gas-Arrest-Dozens",
-            "keywords": null,
-            "creator": [
-                "marketing@menafn.com (MENAFN)"
-            ],
-            "description": "(MENAFN - Live Mint) As the clash with anti-government protesters seeking snap elections and a stop to President Aleksandar Vucic's 12-year rule took place on Saturday evening, Serbia police placed ...",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-06-28 22:09:20",
-            "pubDateTZ": "UTC",
-            "image_url": "https://menafn.com/updates/pr/2025-06/28/LM_de8f7image_story.JPG",
-            "video_url": null,
-            "source_id": "menafn",
-            "source_name": "Menafn",
-            "source_priority": 1117534,
-            "source_url": "https://menafn.com",
-            "source_icon": "https://n.bytvi.com/menafn.png",
-            "language": "english",
-            "country": [
-                "georgia",
-                "yemen",
-                "afghanistan",
-                "cyprus",
-                "india",
-                "singapore",
-                "saudi arabia",
-                "maldives",
-                "japan",
-                "united arab emirates",
-                "malaysia",
-                "china",
-                "south korea",
-                "north korea",
-                "taiwan",
-                "thailand",
-                "pakistan",
-                "mongolia",
-                "brunei",
-                "lebanon",
-                "indonesia",
-                "kyrgyzstan",
-                "syria",
-                "israel",
-                "bhutan",
-                "iran",
-                "turkey",
-                "armenia",
-                "qatar",
-                "philippines",
-                "kazakhstan",
-                "iraq",
-                "bangladesh",
-                "laos",
-                "vietnam",
-                "timor-leste",
-                "kuwait",
-                "myanmar",
-                "azerbaijan",
-                "jordan",
-                "nepal",
-                "sri lanka",
-                "uzbekistan",
-                "turkmenistan",
-                "macau",
-                "bahrain",
-                "cambodia",
-                "tajikistan"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "294dd265e405e06806e3c9cdae916d7f",
-            "title": "Elliot Page, After Coming Out As Transgender, Debuts Relationship With Actress Julia Shiplett In Pride Month",
-            "link": "https://menafn.com/1109736566/Elliot-Page-After-Coming-Out-As-Transgender-Debuts-Relationship-With-Actress-Julia-Shiplett-In-Pride-Month",
-            "keywords": null,
-            "creator": [
-                "marketing@menafn.com (MENAFN)"
-            ],
-            "description": "(MENAFN - Live Mint) The Oscar-nominated actor, 38, took to Instagram to announce their relationship with Overcompensating star Julia Shiplett.“🌈 💕,” Elliot put this as a cute photo caption of him ...",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-06-28 22:09:18",
-            "pubDateTZ": "UTC",
-            "image_url": "https://menafn.com/updates/pr/2025-06/28/LM_8d6b9image_story.jpg",
-            "video_url": null,
-            "source_id": "menafn",
-            "source_name": "Menafn",
-            "source_priority": 1117534,
-            "source_url": "https://menafn.com",
-            "source_icon": "https://n.bytvi.com/menafn.png",
-            "language": "english",
-            "country": [
-                "georgia",
-                "yemen",
-                "afghanistan",
-                "cyprus",
-                "india",
-                "singapore",
-                "saudi arabia",
-                "maldives",
-                "japan",
-                "united arab emirates",
-                "malaysia",
-                "china",
-                "south korea",
-                "north korea",
-                "taiwan",
-                "thailand",
-                "pakistan",
-                "mongolia",
-                "brunei",
-                "lebanon",
-                "indonesia",
-                "kyrgyzstan",
-                "syria",
-                "israel",
-                "bhutan",
-                "iran",
-                "turkey",
-                "armenia",
-                "qatar",
-                "philippines",
-                "kazakhstan",
-                "iraq",
-                "bangladesh",
-                "laos",
-                "vietnam",
-                "timor-leste",
-                "kuwait",
-                "myanmar",
-                "azerbaijan",
-                "jordan",
-                "nepal",
-                "sri lanka",
-                "uzbekistan",
-                "turkmenistan",
-                "macau",
-                "bahrain",
-                "cambodia",
-                "tajikistan"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "101dcc983a7936d1dffc199b4a8d5866",
-            "title": "Weather Today: Orange Alert In Himachal Pradesh IMD Predicts Heavy Rainfall In THESE States Till July 4",
-            "link": "https://menafn.com/1109736565/Weather-Today-Orange-Alert-In-Himachal-Pradesh-IMD-Predicts-Heavy-Rainfall-In-THESE-States-Till-July-4",
-            "keywords": null,
-            "creator": [
-                "marketing@menafn.com (MENAFN)"
-            ],
-            "description": "(MENAFN - Live Mint) The India Meteorological Department (IMD has forecast widespread heavy to very heavy rainfall across multiple states nationwide. To stay informed and prepared, you can check the ...",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-06-28 22:09:17",
-            "pubDateTZ": "UTC",
-            "image_url": "https://menafn.com/updates/pr/2025-06/28/LM_a29d7image_story.jpg",
-            "video_url": null,
-            "source_id": "menafn",
-            "source_name": "Menafn",
-            "source_priority": 1117534,
-            "source_url": "https://menafn.com",
-            "source_icon": "https://n.bytvi.com/menafn.png",
-            "language": "english",
-            "country": [
-                "georgia",
-                "yemen",
-                "afghanistan",
-                "cyprus",
-                "india",
-                "singapore",
-                "saudi arabia",
-                "maldives",
-                "japan",
-                "united arab emirates",
-                "malaysia",
-                "china",
-                "south korea",
-                "north korea",
-                "taiwan",
-                "thailand",
-                "pakistan",
-                "mongolia",
-                "brunei",
-                "lebanon",
-                "indonesia",
-                "kyrgyzstan",
-                "syria",
-                "israel",
-                "bhutan",
-                "iran",
-                "turkey",
-                "armenia",
-                "qatar",
-                "philippines",
-                "kazakhstan",
-                "iraq",
-                "bangladesh",
-                "laos",
-                "vietnam",
-                "timor-leste",
-                "kuwait",
-                "myanmar",
-                "azerbaijan",
-                "jordan",
-                "nepal",
-                "sri lanka",
-                "uzbekistan",
-                "turkmenistan",
-                "macau",
-                "bahrain",
-                "cambodia",
-                "tajikistan"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "1afb720b44a3c08a0e978714f2b7ae3a",
-            "title": "Embrace ideas, values of Constitution from Preamble Park: Fadnavis, Gadkari",
-            "link": "https://timesofindia.indiatimes.com/city/nagpur/embrace-ideas-values-of-constitution-from-preamble-park-fadnavis-gadkari/articleshow/122133809.cms",
-            "keywords": null,
-            "creator": [
-                "Sarfaraz Ahmed"
-            ],
-            "description": null,
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-06-28 22:08:59",
-            "pubDateTZ": "UTC",
-            "image_url": "https://static.toiimg.com/thumb/msid-122133806,width-1070,height-580,imgsize-66514,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-            "video_url": null,
-            "source_id": "toi",
-            "source_name": "The Times Of India",
-            "source_priority": 239,
-            "source_url": "https://timesofindia.indiatimes.com",
-            "source_icon": "https://n.bytvi.com/toi.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "c0b074e89ee70b6482fc0f39e93b3d82",
-            "title": "RCB pacer Yash Dayal alleging exploitation on pretext of marriage",
-            "link": "https://www.mid-day.com/sports/cricket/article/ghaziabad-woman-files-complaint-against-rcb-pacer-yash-dayal-alleging-exploitation-on-pretext-of-marriage-23581220",
-            "keywords": [
-                "sports"
-            ],
-            "creator": [
-                "Mid-day"
-            ],
-            "description": "In her complaint, the woman alleged that she had been in a relationship with the cricketer for the past five years, during which she was emotionally, mentally, and physically exploited",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-06-28 22:08:55",
-            "pubDateTZ": "UTC",
-            "image_url": "https://images.mid-day.com/images/images/2025/jun/yash-dayal-accused-1751143064292_d.png",
-            "video_url": null,
-            "source_id": "mid_day",
-            "source_name": "Mid-day",
-            "source_priority": 18499,
-            "source_url": "https://www.mid-day.com",
-            "source_icon": "https://n.bytvi.com/mid_day.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "sports"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "81bd08a3481f309484688d165f927783",
-            "title": "Ambala News: कैफे संचालक पर जानलेवा हमला कर तोड़ी कार",
-            "link": "https://www.amarujala.com/haryana/ambala/the-cafe-owner-was-attacked-and-his-car-was-broken-ambala-news-c-36-1-ame1006-145213-2025-06-29",
-            "keywords": null,
-            "creator": null,
-            "description": "कैफे संचालक पर जानलेवा हमला कर तोड़ी कार",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-06-28 22:08:54",
-            "pubDateTZ": "UTC",
-            "image_url": "https://staticimg.amarujala.com/assets/images/2021/10/12/ambala_1634043240.jpeg?dpr=1.0&q=80&w=414",
-            "video_url": null,
-            "source_id": "amarujala",
-            "source_name": "Amar Ujala",
-            "source_priority": 55215,
-            "source_url": "https://www.amarujala.com",
-            "source_icon": "https://n.bytvi.com/amarujala.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "2c987a5aea0f4eedf98f78faecd54f1b",
-            "title": "Bihar drive: EC to refer illegals for action under Citizenship Act",
-            "link": "https://timesofindia.indiatimes.com/india/bihar-drive-ec-to-refer-illegals-for-action-under-citizenship-act/articleshow/122135677.cms",
-            "keywords": null,
-            "creator": [
-                "Bharti Jain"
-            ],
-            "description": "Electoral Registration Officers will now scrutinize voter roll inclusions and deletions, referring suspected foreign nationals to citizenship authorities. They will conduct inquiries, issue notices, and pass speaking orders, ensuring fair hearings for those excluded.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-06-28 22:08:48",
-            "pubDateTZ": "UTC",
-            "image_url": "https://static.toiimg.com/thumb/msid-122135661,imgsize-1315697,width-400,resizemode-4/122135661.jpg",
-            "video_url": null,
-            "source_id": "toi",
-            "source_name": "The Times Of India",
-            "source_priority": 239,
-            "source_url": "https://timesofindia.indiatimes.com",
-            "source_icon": "https://n.bytvi.com/toi.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "food"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "872cdc5e6f76dc2b376c1e3aaec2a65c",
-            "title": "Sadar offering CT-scan on prescriptions from private docs",
-            "link": "https://timesofindia.indiatimes.com/city/ranchi/sadar-offering-ct-scan-on-prescriptions-from-private-docs/articleshow/122134089.cms",
-            "keywords": null,
-            "creator": null,
-            "description": null,
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-06-28 22:08:48",
-            "pubDateTZ": "UTC",
-            "image_url": "https://static.toiimg.com/thumb/msid-122134087,width-1070,height-580,imgsize-53676,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-            "video_url": null,
-            "source_id": "toi",
-            "source_name": "The Times Of India",
-            "source_priority": 239,
-            "source_url": "https://timesofindia.indiatimes.com",
-            "source_icon": "https://n.bytvi.com/toi.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top",
-                "world"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "804680c37388a715c3bbb296f32562f3",
-            "title": "Vande Bharat trains on Katra-Srinagar route see ‘overwhelming’ response",
-            "link": "https://www.tribuneindia.com/news/katratosrinagar/vande-bharat-trains-on-katra-srinagar-route-see-overwhelming-response",
-            "keywords": [
-                "bookvandebharat",
-                "#railwaysindia",
-                "fastertraveloptions",
-                "jammukashmirrail",
-                "traintravelindia",
-                "vandebharatexpress",
-                "srinagartourism",
-                "highwayalternatives",
-                "jammusrinagarraillink",
-                "#katratosrinagar"
-            ],
-            "creator": [
-                "Adil Akhzer"
-            ],
-            "description": "The Vande Bharat Express trains between Katra and Srinagar are experiencing high demand, with fully booked seats until the end of July. The trains offer a safe and faster alternative to the often-closed highway. Officials plan to increase frequency and introduce more trains, including direct services to Delhi by year-end.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-06-28 22:08:16",
-            "pubDateTZ": "UTC",
-            "image_url": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/webp/medium/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTY4ODczZDIwLTU0NmMtMTFmMC05YTI3LWZiZmNhMjFkMmNiMC5qcGc%3D",
-            "video_url": null,
-            "source_id": "tribuneindia",
-            "source_name": "The Tribune India",
-            "source_priority": 15316,
-            "source_url": "https://www.tribuneindia.com",
-            "source_icon": "https://n.bytvi.com/tribuneindia.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "992f578b06fa1b8ff71c9f1ebf270924",
-            "title": "Rain brings respite to delhi as monsoon arrival remains pending",
-            "link": "https://timesofindia.indiatimes.com/city/delhi/rain-brings-respite-to-delhi-as-monsoon-arrival-remains-pending/articleshow/122133815.cms",
-            "keywords": null,
-            "creator": [
-                "Kushagra Dixit"
-            ],
-            "description": null,
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-06-28 22:08:06",
-            "pubDateTZ": "UTC",
-            "image_url": "https://static.toiimg.com/thumb/msid-122133814,imgsize-128792,width-400,height-225,resizemode-72/122133814.jpg",
-            "video_url": null,
-            "source_id": "toi",
-            "source_name": "The Times Of India",
-            "source_priority": 239,
-            "source_url": "https://timesofindia.indiatimes.com",
-            "source_icon": "https://n.bytvi.com/toi.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "business"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "4969e9ad5fc94613c2bb8f4464c2366a",
-            "title": "PU plans multi-year expansion of research ecosystem under IDP 2025",
-            "link": "https://timesofindia.indiatimes.com/city/chandigarh/pu-plans-multi-year-expansion-of-research-ecosystem-under-idp-2025/articleshow/122135063.cms",
-            "keywords": null,
-            "creator": null,
-            "description": null,
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-06-28 22:07:55",
-            "pubDateTZ": "UTC",
-            "image_url": "https://static.toiimg.com/thumb/msid-122135061,width-1070,height-580,imgsize-61792,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-            "video_url": null,
-            "source_id": "toi",
-            "source_name": "The Times Of India",
-            "source_priority": 239,
-            "source_url": "https://timesofindia.indiatimes.com",
-            "source_icon": "https://n.bytvi.com/toi.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "world"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "a9ec1e07ce482a6c6a501e319f4e976f",
-            "title": "\"A woman coaching in NBA would never work\" - Fans explode as Knicks consider Dawn Staley to fill coaching spot post Tom Thibodeau firing",
-            "link": "https://www.sportskeeda.com/basketball/news-a-woman-coaching-nba-never-work-fans-explode-knicks-consider-dawn-staley-fill-coaching-spot-post-tom-thibodeau-firing",
-            "keywords": [
-                "basketball"
-            ],
-            "creator": [
-                "Avi Shravan"
-            ],
-            "description": "The New York Knicks fired Tom Thibodeau on June 3 after the two-time NBA Coach of the Year led the team to the Eastern Conference finals.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-06-28 22:07:51",
-            "pubDateTZ": "UTC",
-            "image_url": null,
-            "video_url": null,
-            "source_id": "sportskeeda",
-            "source_name": "Sportskeeda",
-            "source_priority": 1040,
-            "source_url": "http://sportskeeda.com",
-            "source_icon": "https://n.bytvi.com/sportskeeda.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "sports"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "ef9b21653e60622febd158600a3a81c9",
-            "title": "Joey Chestnut is prepping for Nathan's Hot Dog contest. Here's how much prize money he can win",
-            "link": "https://www.hindustantimes.com/world-news/us-news/joey-chestnut-is-prepping-for-nathans-hot-dog-eating-contest-heres-how-much-prize-money-he-can-win-101751145047100.html",
-            "keywords": [
-                "world-news"
-            ],
-            "creator": null,
-            "description": "Joey Chestnut, the 16-time champion of the Nathan’s Famous Hot Dog Eating Contest, is set to compete in the 2025 event next month",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-06-28 22:07:01",
-            "pubDateTZ": "UTC",
-            "image_url": "https://www.hindustantimes.com/ht-img/img/2025/06/28/1600x900/Joey_Chestnut_1751148353095_1751148353290.jpg",
-            "video_url": null,
-            "source_id": "hindustantimes",
-            "source_name": "Hindustan Times",
-            "source_priority": 933,
-            "source_url": "http://www.hindustantimes.com",
-            "source_icon": "https://n.bytvi.com/hindustantimes.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "world"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "62054edf13e0c3bb8c137ccd0348c91d",
-            "title": "Ambala News: अस्पताल को 15 हजार ओआरएस अलॉट, फिर भी खाली लौट रहे मरीज",
-            "link": "https://www.amarujala.com/haryana/ambala/15-thousand-ors-allotted-to-the-hospital-yet-patients-are-returning-empty-handed-ambala-news-c-36-1-ame1006-145195-2025-06-29",
-            "keywords": null,
-            "creator": null,
-            "description": "अस्पताल को 15 हजार ओआरएस अलॉट, फिर भी खाली लौट रहे मरीज",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-06-28 22:06:50",
-            "pubDateTZ": "UTC",
-            "image_url": "https://staticimg.amarujala.com/assets/images/2021/10/12/ambala_1634043240.jpeg?dpr=1.0&q=80&w=414",
-            "video_url": null,
-            "source_id": "amarujala",
-            "source_name": "Amar Ujala",
-            "source_priority": 55215,
-            "source_url": "https://www.amarujala.com",
-            "source_icon": "https://n.bytvi.com/amarujala.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "342cd466fef67d080eb46c413c9e8fdf",
-            "title": "Corey Heim nearly leads wire-to-wire in winning at Lime Rock Park",
-            "link": "https://www.hindustantimes.com/sports/others/corey-heim-nearly-leads-wire-to-wire-in-winning-at-lime-rock-park-101751148374140.html",
-            "keywords": [
-                "sports"
-            ],
-            "creator": null,
-            "description": "MOTOR-TRUCK-LIME-ROCK-PARK/RECAP",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-06-28 22:06:13",
-            "pubDateTZ": "UTC",
-            "image_url": "https://images.hindustantimes.com/default/1600x900.jpg",
-            "video_url": null,
-            "source_id": "hindustantimes",
-            "source_name": "Hindustan Times",
-            "source_priority": 933,
-            "source_url": "http://www.hindustantimes.com",
-            "source_icon": "https://n.bytvi.com/hindustantimes.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "sports"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "724433ce0842965f67931830cae57309",
-            "title": "What incident is shown in Trainwreck: Poop Cruise? Details explored",
-            "link": "https://www.sportskeeda.com/us/shows/what-incident-shown-trainwreck-poop-cruise-details-explored",
-            "keywords": [
-                "shows"
-            ],
-            "creator": [
-                "Ankit Raj"
-            ],
-            "description": "Trainwreck: Poop Cruise is the third episode of the Netflix anthology series Trainwreck, directed by James Ross and executive produced by Sheun Adelasoye De Nicola, Alexander Marengo, Tim Wardle, Will",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-06-28 22:06:04",
-            "pubDateTZ": "UTC",
-            "image_url": null,
-            "video_url": null,
-            "source_id": "sportskeeda",
-            "source_name": "Sportskeeda",
-            "source_priority": 1040,
-            "source_url": "http://sportskeeda.com",
-            "source_icon": "https://n.bytvi.com/sportskeeda.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "sports"
             ],
             "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
             "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
