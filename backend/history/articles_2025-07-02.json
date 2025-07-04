@@ -1,6 +1,673 @@
 {
     "articles": [
         {
+            "article_id": "ccd85ba1332d655e28f49148f185c7ed",
+            "title": "AT&T, Telecom Stocks Have Rallied This Year. Why Trump’s Immigration Policy Could End That.",
+            "link": "https://www.barrons.com/articles/att-stock-price-trump-immigration-telecom-8879ffd6?siteid=yhoof2&yptr=yahoo",
+            "keywords": null,
+            "creator": [
+                "Barrons.com"
+            ],
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-07-02 14:44:00",
+            "pubDateTZ": "UTC",
+            "image_url": null,
+            "video_url": null,
+            "source_id": "yahoo",
+            "source_name": "Yahoo! News",
+            "source_priority": 17,
+            "source_url": "https://news.yahoo.com",
+            "source_icon": "https://n.bytvi.com/yahoo.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "business"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": true
+        },
+        {
+            "article_id": "882ac2b5a33eb7a8498b4c65394256be",
+            "title": "रक्सौल-हल्दिया सिक्स लेन की एलाइनमेंट को मिली मंजूरी, बिहार के 8 जिलों से गुजरेगा एक्सप्रेस-वे",
+            "link": "https://www.jagran.com/bihar/patna-city-raxaul-haldia-expressway-to-boost-bihar-connectivity-know-everything-here-23973496.html",
+            "keywords": null,
+            "creator": null,
+            "description": "पथ निर्माण मंत्री नितिन नवीन ने रक्सौल-हल्दिया सिक्स लेन एक्सप्रेस-वे के काम को तेजी से पूरा करने का निर्देश दिया है। यह एक्सप्रेस-वे बिहार के आठ जिलों से गुजरेगा और बेगूसराय में गंगा नदी पर एक पुल भी बनेगा। इससे नेपाल को हल्दिया बंदरगाह से बेहतर कनेक्टिविटी मिलेगी और यात्रा का समय भी कम होगा। मंत्री ने चंपारण में चल रहे विकास कार्यों की भी समीक्षा की।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-07-02 14:43:55",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.jagranimages.com/images/newimg/02072025/02_07_2025-six_lane_23973496_m.webp",
+            "video_url": null,
+            "source_id": "jagran",
+            "source_name": "Jagran",
+            "source_priority": 6734,
+            "source_url": "https://www.jagran.com",
+            "source_icon": "https://n.bytvi.com/jagran.jpg",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "domestic"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "cae2ad106dc86e50801dfdafe57376db",
+            "title": "बंगाल में IOCL के प्लांट पर हिंसा, प्रदर्शनकारियों ने गैस सिलेंडरों से लीक कर दी LPG; मोटरसाइकिलों में भी तोड़फोड़",
+            "link": "https://www.jagran.com/west-bengal/kolkata-truck-drivers-protest-turns-violent-at-bengal-lpg-plant-over-unpaid-dues-23973502.html",
+            "keywords": null,
+            "creator": null,
+            "description": "दक्षिण 24 परगना के बजबज में इंडियन ऑयल कॉरपोरेशन के एलपीजी बॉटलिंग प्लांट में ट्रक चालकों ने बकाया भुगतान की मांग को लेकर हिंसक प्रदर्शन किया। प्रदर्शनकारियों ने तोड़फोड़ की और ईंधन फैलाया जिसके बाद पुलिस ने 40 से अधिक लोगों को गिरफ्तार किया। ट्रक चालकों का दावा है कि उन पर हमला हुआ था और बकाया राशि पर बातचीत के लिए बुलाई गई बैठक में विवाद हुआ।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-07-02 14:43:53",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.jagranimages.com/images/newimg/02072025/02_07_2025-bengal_iocl_protest_23973502_m.webp",
+            "video_url": null,
+            "source_id": "jagran",
+            "source_name": "Jagran",
+            "source_priority": 6734,
+            "source_url": "https://www.jagran.com",
+            "source_icon": "https://n.bytvi.com/jagran.jpg",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "domestic"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "685f2ac8aa0a620c806a19c995336727",
+            "title": "हैलियन के सीएफओ को पारिश्रमिक पैकेज के हिस्से के रूप में शेयर अवार्ड्स मिले",
+            "link": "https://hi.investing.com/news/sec-filings/article-93CH-498365",
+            "keywords": null,
+            "creator": [
+                "Investing.com"
+            ],
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-07-02 14:43:51",
+            "pubDateTZ": "UTC",
+            "image_url": "https://i-invdn-com.investing.com/news/World_News_10_M_1440052130.jpg",
+            "video_url": null,
+            "source_id": "investing_hi",
+            "source_name": "Investing भारत",
+            "source_priority": 1143,
+            "source_url": "https://hi.investing.com",
+            "source_icon": "https://n.bytvi.com/investing_hi.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "9fdbade31fc6a53c788f36b819284791",
+            "title": "India Vs England Test Series July 2 Dispatch: IND Reveal Bumrah Plans; Jaiswal Misses Ton",
+            "link": "https://www.outlookindia.com/sports/cricket/india-vs-england-test-series-dispatch-july-2-jasprit-bumrah-yashasvi-jaiswal",
+            "keywords": [
+                "india vs england,india vs england test series,india vs england test series news,india vs england news,india vs england latest news,ind vs eng,ind vs eng test series,ind vs eng test series news,ind vs eng 2nd test news,india vs england 2nd test day 1 news,jasprit bumrah,jasprit bumrah news,bumrah news,yashasvi jaiswal,yashasvi jaiswal record,yashasvi jaiswal test record"
+            ],
+            "creator": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-07-02 14:43:50",
+            "pubDateTZ": "UTC",
+            "image_url": "https://media.assettype.com/outlookindia/2025-06-23/njn4z0yo/AP25173474168689.jpg?ar=40%3A21&auto=format%2Ccompress&enlarge=true&mode=crop&ogImage=true&overlay=false&overlay_position=bottom&overlay_width=100&w=1200",
+            "video_url": null,
+            "source_id": "outlookindia",
+            "source_name": "Outlook",
+            "source_priority": 3475,
+            "source_url": "https://www.outlookindia.com",
+            "source_icon": "https://n.bytvi.com/outlookindia.jpg",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "bbe24286ce008e079a5c6ea8ad60e40d",
+            "title": "जालसाजी मामले में CBK ने वन अधिकारी के खिलाफ आरोपपत्र दाखिल किया",
+            "link": "https://jantaserishta.com/local/jammu-and-kashmir/cbk-files-chargesheet-against-forest-official-in-forgery-case-4121946",
+            "keywords": [
+                "राज्य,जम्मू और कश्मीर"
+            ],
+            "creator": [
+                "Triveni"
+            ],
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-07-02 14:43:50",
+            "pubDateTZ": "UTC",
+            "image_url": "https://jantaserishta.com/h-upload/2025/07/02/4719244-45.webp",
+            "video_url": null,
+            "source_id": "jantaserishta",
+            "source_name": "Janta Se Rishta",
+            "source_priority": 81836,
+            "source_url": "https://jantaserishta.com",
+            "source_icon": "https://n.bytvi.com/jantaserishta.jpg",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "d559670d20857ea1a93f6aafa0aec22f",
+            "title": "कमिंस ने हाइड्रोजन इंजन के लिए नया टर्बोचार्जर लॉन्च किया",
+            "link": "https://hi.investing.com/news/company-news/article-93CH-498364",
+            "keywords": null,
+            "creator": [
+                "Investing.com"
+            ],
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-07-02 14:43:49",
+            "pubDateTZ": "UTC",
+            "image_url": "https://i-invdn-com.investing.com/news/news_six_pile_108x81.jpg",
+            "video_url": null,
+            "source_id": "investing_hi",
+            "source_name": "Investing भारत",
+            "source_priority": 1143,
+            "source_url": "https://hi.investing.com",
+            "source_icon": "https://n.bytvi.com/investing_hi.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "93abe3fda3fac02a00ab129bf083b61e",
+            "title": "मिड पेन बैंकॉर्प के निदेशक एबेल ने ₹479 के शेयर खरीदे",
+            "link": "https://hi.investing.com/news/insider-trading-news/article-93CH-498363",
+            "keywords": null,
+            "creator": [
+                "Investing.com"
+            ],
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-07-02 14:43:47",
+            "pubDateTZ": "UTC",
+            "image_url": "https://i-invdn-com.investing.com/news/news_pile_108x81.jpg",
+            "video_url": null,
+            "source_id": "investing_hi",
+            "source_name": "Investing भारत",
+            "source_priority": 1143,
+            "source_url": "https://hi.investing.com",
+            "source_icon": "https://n.bytvi.com/investing_hi.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "553808ac5e063813a1566f12c116769b",
+            "title": "सूर्य प्रकाश गज्जाला ने ISNT हैदराबाद चैप्टर के अध्यक्ष का पदभार संभाला",
+            "link": "https://jantaserishta.com/local/telangana/surya-prakash-gajjala-takes-over-as-president-of-isnt-hyderabad-chapter-4121945",
+            "keywords": [
+                "राज्य,तेलंगाना"
+            ],
+            "creator": [
+                "Payal"
+            ],
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-07-02 14:43:45",
+            "pubDateTZ": "UTC",
+            "image_url": "https://jantaserishta.com/h-upload/2025/07/02/4719246-48.webp",
+            "video_url": null,
+            "source_id": "jantaserishta",
+            "source_name": "Janta Se Rishta",
+            "source_priority": 81836,
+            "source_url": "https://jantaserishta.com",
+            "source_icon": "https://n.bytvi.com/jantaserishta.jpg",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "ae50ef9f756459c5c7418928f5b1226f",
+            "title": "Vikrant Massey dismisses insider-outsider debate as noise from outside the industry: 'This is only social media chatter'",
+            "link": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/vikrant-massey-dismisses-insider-outsider-debate-as-noise-from-outside-the-industry-this-is-only-social-media-chatter/articleshow/122208928.cms",
+            "keywords": null,
+            "creator": null,
+            "description": "Vikrant Massey dismisses the Bollywood insider-outsider debate as social media hype, saying industry insiders don’t see such divisions. Starting from TV, he’s made a mark with films like 'Chhapaak'. His upcoming film 'Aankhon Ki Gustaakhiyan' stars Shanaya Kapoor and releases on July 11, exploring love and blindness.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-07-02 14:43:44",
+            "pubDateTZ": "UTC",
+            "image_url": "https://static.toiimg.com/thumb/msid-122208928,imgsize-66894,width-400,resizemode-4/122208928.jpg",
+            "video_url": null,
+            "source_id": "toi",
+            "source_name": "The Times Of India",
+            "source_priority": 239,
+            "source_url": "https://timesofindia.indiatimes.com",
+            "source_icon": "https://n.bytvi.com/toi.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "336bb1c1418539eaff976529b679ab53",
+            "title": "वफादारी की मिसाल: डॉगी ने बचा ली परिवार की जान, डंसने आए सांप के तीन टुकड़े किए",
+            "link": "https://navbharattimes.indiatimes.com/state/uttar-pradesh/saharanpur/dog-saved-life-of-family-by-breaking-snake-into-three-pieces-in-saharanpur/articleshow/122208719.cms",
+            "keywords": null,
+            "creator": null,
+            "description": "यूपी के सहारनपुर में एक पालतू डॉगी ने सांप के तीन टुकड़े करके परिवार की जान बचा ली। सुबह जब डॉगी नहीं दिखा तो परिवार खोजते हुए छत पर गया, जहां डॉगी मृत पड़ा था और उसके पास में सांप तीन टुकड़ों में था।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-07-02 14:43:44",
+            "pubDateTZ": "UTC",
+            "image_url": "https://navbharattimes.indiatimes.com/thumb/122208719/navbharat-times-122208719.jpg?height=900&imgsize-89294=&resizemode=75&width=1600",
+            "video_url": null,
+            "source_id": "navbharattimes",
+            "source_name": "Nbt Navbharattimes",
+            "source_priority": 244,
+            "source_url": "https://navbharattimes.indiatimes.com",
+            "source_icon": "https://n.bytvi.com/navbharattimes.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "ed03728bb711522beea769649c2efe4c",
+            "title": "\"People have to stop\" – Vince Russo sets the record straight about Jim Cornette (Exclusive)",
+            "link": "https://www.sportskeeda.com/wwe/news-people-stop-vince-russo-sets-record-straight-jim-cornette-exclusive",
+            "keywords": [
+                "wwe"
+            ],
+            "creator": [
+                "Danny Hart"
+            ],
+            "description": "Jim Cornette and Vince Russo often clashed when they worked together on TNA and WWE's creative teams. In an exclusive video, Russo clarified how he feels about the legendary wrestling manager.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-07-02 14:43:43",
+            "pubDateTZ": "UTC",
+            "image_url": null,
+            "video_url": null,
+            "source_id": "sportskeeda",
+            "source_name": "Sportskeeda",
+            "source_priority": 1040,
+            "source_url": "http://sportskeeda.com",
+            "source_icon": "https://n.bytvi.com/sportskeeda.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "sports"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "98225e8d33e1ca9c0eca24e63e50db77",
+            "title": "Relationship Tips: रिश्ते में पार्टनर कितना वफादार है, इन 5 संकेतों से जानें",
+            "link": "https://www.tv9hindi.com/lifestyle/relationship-loyalty-signs-of-a-faithful-partner-3370745.html",
+            "keywords": null,
+            "creator": [
+                "TV9 Bharatvarsh"
+            ],
+            "description": "आज कल रिश्ते निभाना और उन्हें लंबे समय तक चलाना किसी चैलेंज से कम नहीं है. क्योंकि आज के दौर में बहुत कुछ बदल गया है. ऐसे में लोग अक्सर इस टेंशन में भी रहते हैं कि उनका पार्टनर उनके लिए लॉयल है भी की नहीं. अगर आप भी ये पता लगाना चाहते हैं कि आपका पार्टनर कितना वफादार है तो हम आपको कुछ टिप्स दे रहे हैं.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-07-02 14:43:41",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.tv9hindi.com/wp-content/uploads/2025/07/relationship-tips.jpg?w=1280",
+            "video_url": null,
+            "source_id": "tv9bharatvarsh",
+            "source_name": "Tv9 Bharatvarsh",
+            "source_priority": 40538658,
+            "source_url": "https://www.tv9hsindi.com",
+            "source_icon": "https://n.bytvi.com/tv9bharatvarsh.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "lifestyle"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "50ba9f8787093863e6c9c1fd828b5981",
+            "title": "Messages iOS 26 vs iOS 18: Playful, useful changes",
+            "link": "https://appleinsider.com/inside/ios-26/vs/messages-ios-26-vs-ios-18-playful-useful-changes",
+            "keywords": null,
+            "creator": [
+                "news@appleinsider.com (Malcolm Owen)"
+            ],
+            "description": "Changes to Messages in iOS 26 let you jazz up your group chats more than ever before. Here's how it compares to the iOS 18 version.Messages iOS 26 vs Messages iOS 18 - Changes have been madeWith each update to iOS, Apple introduces some alterations that makes Messages even more useful for iPhone users. As expected, this is the case for iOS 26 as well.During WWDC, Apple talked about various elements, including backgrounds, polls, and automatic translation. However, with the introduction of Liquid Glass, there was also the expectation that other things will be changed too. Continue Reading on AppleInsider | Discuss on our Forums",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-07-02 14:43:40",
+            "pubDateTZ": "UTC",
+            "image_url": "https://photos5.appleinsider.com/gallery/64220-133753-headermessagesios18ios26-xl.jpg",
+            "video_url": null,
+            "source_id": "appleinsider",
+            "source_name": "Apple Insider",
+            "source_priority": 3027,
+            "source_url": "https://appleinsider.com",
+            "source_icon": "https://n.bytvi.com/appleinsider.png",
+            "language": "english",
+            "country": [
+                "canada",
+                "united states of america",
+                "united kingdom",
+                "india",
+                "australia",
+                "singapore"
+            ],
+            "category": [
+                "technology"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "340e660301c3d0f5181ca34099fdb697",
+            "title": "India vs England, 2nd Test: Ravi Shastri Stunned By Bumrah's Exclusion, Says You Can't Sit Out Your Best Bowler",
+            "link": "https://www.outlookindia.com/sports/cricket/india-vs-england-2nd-test-ravi-shastri-stunned-by-jasprit-bumrahs-exclusion",
+            "keywords": [
+                "cricket,india tour of england,ind vs eng,india vs england,india vs england 2nd test,jasprit bumrah omission,ravi shastri has criticized team management,ravi shastri on jasprit bumrah,ravi shastri comments,india test cricket,india cricket team management,ravi shastri on team management decision,ravi shastri criticized india team management,india's omission of bumrah,jasprit bumrah in 2nd test,india's biggest omission in 2nd test,2nd test match india team playing 11,ind vs eng 2nd test squad,jasprit bumrah was rested for the edgbaston match"
+            ],
+            "creator": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-07-02 14:43:39",
+            "pubDateTZ": "UTC",
+            "image_url": "https://media.assettype.com/outlookindia/2025-06-22/in7djnr6/IND-vs-ENG-Test-cricket-1st-Test-day-2-photo3.jpg?ar=40%3A21&auto=format%2Ccompress&enlarge=true&mode=crop&ogImage=true&overlay=false&overlay_position=bottom&overlay_width=100&w=1200",
+            "video_url": null,
+            "source_id": "outlookindia",
+            "source_name": "Outlook",
+            "source_priority": 3475,
+            "source_url": "https://www.outlookindia.com",
+            "source_icon": "https://n.bytvi.com/outlookindia.jpg",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "c81f98894e37239c0f9016839dbb265d",
+            "title": "Diddy trial verdict: Hip-Hop mogul cleared of sex trafficking charges; guilty of soliciting prostitution - full judgement",
+            "link": "https://timesofindia.indiatimes.com/world/us/diddy-trial-verdict-hip-hop-mogul-cleared-of-sex-trafficking-charges-guilty-of-soliciting-prostitution-full-judgement/articleshow/122208725.cms",
+            "keywords": null,
+            "creator": null,
+            "description": "Sean \"Diddy\" Combs faced a mixed verdict, acquitted of racketeering conspiracy and sex trafficking involving Cassie Ventura and \"Jane.\" However, he was found guilty of transporting them and others across state lines for prostitution. The trial centered on allegations of Combs using his influence to coerce women into abusive situations, with testimony from Ventura and \"Jane\" detailing threats and assaults.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-07-02 14:43:33",
+            "pubDateTZ": "UTC",
+            "image_url": "https://static.toiimg.com/thumb/msid-122209114,width-1070,height-580,imgsize-31452,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "video_url": null,
+            "source_id": "toi",
+            "source_name": "The Times Of India",
+            "source_priority": 239,
+            "source_url": "https://timesofindia.indiatimes.com",
+            "source_icon": "https://n.bytvi.com/toi.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "11342edd11e138b4fa0c12d4e0a12bf7",
+            "title": "सिकंदराबाद विधानसभा क्षेत्र विकास के पथ पर अग्रसर: विधायक Padma Rao Goud",
+            "link": "https://jantaserishta.com/local/telangana/secunderabad-assembly-constituency-on-the-path-of-development-mla-padma-rao-goud-4121944",
+            "keywords": [
+                "भारत,राज्य,तेलंगाना"
+            ],
+            "creator": [
+                "Anurag"
+            ],
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-07-02 14:43:33",
+            "pubDateTZ": "UTC",
+            "image_url": "https://jantaserishta.com/h-upload/2025/07/02/4719243-1-copy.webp",
+            "video_url": null,
+            "source_id": "jantaserishta",
+            "source_name": "Janta Se Rishta",
+            "source_priority": 81836,
+            "source_url": "https://jantaserishta.com",
+            "source_icon": "https://n.bytvi.com/jantaserishta.jpg",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "5e83b5e4fd0015de71589683b8f37b58",
+            "title": "Black Ops 6 Season 4 Reloaded patch notes: Cel-shaded maps, new LTM, and more",
+            "link": "https://www.sportskeeda.com/call-of-duty-game/black-ops-6-season-4-reloaded-patch-notes-cel-shaded-maps-new-ltm",
+            "keywords": [
+                "all call of duty latest news and updates"
+            ],
+            "creator": [
+                "Debabrata Naiya"
+            ],
+            "description": "Black Ops 6 Season 4 Reloaded patch notes have officially arrived. The latest update has introduced two brand-new maps and a cel-shaded variant of older maps in Multiplayer mode.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-07-02 14:43:29",
+            "pubDateTZ": "UTC",
+            "image_url": null,
+            "video_url": null,
+            "source_id": "sportskeeda",
+            "source_name": "Sportskeeda",
+            "source_priority": 1040,
+            "source_url": "http://sportskeeda.com",
+            "source_icon": "https://n.bytvi.com/sportskeeda.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "sports"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "624b32cf26d9390e4a88307246ca73e1",
+            "title": "पहली फुर्सत में बेच दें ये स्टॉक! करंट लेवल से करा सकता है 25% का नुकसान",
+            "link": "https://hindi.asianetnews.com/business-news/money-news/elara-securities-downgrades-bharat-dynamics-stock-rating-why-it-advised-to-sell/articleshow-xcl39xr",
+            "keywords": [
+                "business news"
+            ],
+            "creator": [
+                "Ganesh Mishra"
+            ],
+            "description": "पिछले कुछ महीनों से शानदार रिटर्न दे रहे भारत डायनामिक्स के शेयर पर एक ब्रोकरेज हाउस ने बेचने की सलाह दी है। बता दें कि पिछले 6 महीने में इस शेयर ने निवेशकों को 74% से ज्यादा रिटर्न दिया है।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-07-02 14:43:27",
+            "pubDateTZ": "UTC",
+            "image_url": "https://static-gi.asianetnews.com/images/01jwwx9s6xmp3tez4w40smxnw3/stock-market-crash-today-pics-1749021943005.jpg",
+            "video_url": null,
+            "source_id": "hindi_asianetnews",
+            "source_name": "Asianet News Hindi",
+            "source_priority": 7805,
+            "source_url": "https://hindi.asianetnews.com",
+            "source_icon": "https://n.bytvi.com/hindi_asianetnews.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "589dae5e448e9d5871b3d609163a9e1d",
+            "title": "India To Receive Apache Choppers, Deployment Near Pakistan Border Likely",
+            "link": "https://www.news18.com/india/india-to-receive-apache-choppers-deployment-near-pakistan-border-likely-9417320.html",
+            "keywords": [
+                "india"
+            ],
+            "creator": null,
+            "description": "The AH-64E Apache helicopters, sourced from the United States under a $600 million agreement signed in 2020, were originally slated for delivery by May-June 2024.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-07-02 14:43:26",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.news18.com/ibnlive/uploads/2025/07/9414561-9-2025-07-99599d5dfe8ba67abc8997a5ea641d82-3x2.jpg",
+            "video_url": null,
+            "source_id": "news18",
+            "source_name": "News 18",
+            "source_priority": 1063,
+            "source_url": "https://www.news18.com",
+            "source_icon": "https://n.bytvi.com/news18.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
             "article_id": "4cc1879c36ec499f6c404284fecc27f4",
             "title": "This is world's longest bridge, 200m higher than Eiffel Tower, set to cut travel time from 1 hour to 1 minute, it is in...",
             "link": "https://www.dnaindia.com/world/report-this-is-world-s-longest-bridge-200m-higher-than-eiffel-tower-set-to-cut-travel-time-from-1-hour-to-1-minute-it-is-in-3165059",
