@@ -1,6 +1,665 @@
 {
     "articles": [
         {
+            "article_id": "eb8c2b11822425a5292d176c64cb25da",
+            "title": "Actor Soubin Shahir Granted Anticipatory Bail In 'Manjummel Boys' Financial Fraud Case In Kochi",
+            "link": "https://zeenews.india.com/people/actor-soubin-shahir-granted-anticipatory-bail-in-manjummel-boys-financial-fraud-case-in-kochi-2928844.html",
+            "keywords": null,
+            "creator": [
+                "Zee News"
+            ],
+            "description": "Actor Soubin Shahir was arrested in Kochi, allegedly in a financial fraud case related to the film 'Manjummel Boys'.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-07-08 14:46:00",
+            "pubDateTZ": "UTC",
+            "image_url": "https://english.cdn.zeenews.com/sites/default/files/styles/zm_700x400/public/2025/07/08/1787710-arjun-2025-07-08t201618.892.jpg?im=Resize%3D%28400%29",
+            "video_url": null,
+            "source_id": "zeenews",
+            "source_name": "Zee News",
+            "source_priority": 5319,
+            "source_url": "http://zeenews.india.com",
+            "source_icon": "https://n.bytvi.com/zeenews.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "entertainment"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "0883ca95cd4335677034d3256fd84654",
+            "title": "YSRCP, Congress leaders pay tributes to YSR on his birth anniversary in Visakhapatnam",
+            "link": "https://www.thehindu.com/news/cities/Visakhapatnam/ysrcp-congress-leaders-pay-tributes-to-ysr-on-his-birth-anniversary-in-visakhapatnam/article69788173.ece",
+            "keywords": [
+                "visakhapatnam"
+            ],
+            "creator": null,
+            "description": "Leaders of both the parties recall his services",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-07-08 14:46:00",
+            "pubDateTZ": "UTC",
+            "image_url": "https://th-i.thgim.com/public/incoming/drh939/article69788429.ece/alternates/LANDSCAPE_1200/VSP09_YSRCP-2.JPG",
+            "video_url": null,
+            "source_id": "thehindu",
+            "source_name": "The Hindu",
+            "source_priority": 2972,
+            "source_url": "https://www.thehindu.com",
+            "source_icon": "https://n.bytvi.com/thehindu.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "ed8e5dfbf64fd30e924f33650ecefe68",
+            "title": "जिला सहकारी केन्द्रीय बैंक मर्यादित राजनांदगांव",
+            "link": "https://jaianndata.com/?p=41230",
+            "keywords": [
+                "राज्य",
+                "छत्तीसगढ़"
+            ],
+            "creator": [
+                "News Desk"
+            ],
+            "description": "जिला सहकारी केन्द्रीय बैंक मर्यादित राजनांदगांव जिले में 31070.7 मीट्रिक टन रासायनिक खाद का भंडारण, किसानों को 26836.9 मीट्रिक टन रासायनिक खाद का वितरण जिले में 10648.70 क्विंटल बीज का भंडारण, किसानों को 9681.60 क्विंटल बीज का किया गया वितरण रायपुर मुख्यमंत्री श्री विष्णु देव साय के निर्देश एवं कलेक्टर के मार्गदर्शन में किसानों के ...",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-07-08 14:46:00",
+            "pubDateTZ": "UTC",
+            "image_url": "https://nnsp.in/wp-content/uploads/2025/07/8A_149.jpg",
+            "video_url": null,
+            "source_id": "jaianndata",
+            "source_name": "Jaianndata",
+            "source_priority": 3715452,
+            "source_url": "http://jaianndata.com",
+            "source_icon": "https://n.bytvi.com/jaianndata.jpg",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "80aef43f7f4c43c3fcc6b540878b2871",
+            "title": "बांग्लादेश पर 35% टैरिफ, इस भारतीय सेक्टर की बल्ले-बल्ले, भागने लगे शेयर!",
+            "link": "https://www.aajtak.in/business/utility/story/indian-textile-stocks-surge-us-imposes-35-percent-tariff-on-bangladesh-tuta-dskc-2282931-2025-07-08",
+            "keywords": null,
+            "creator": null,
+            "description": "Textile Stocks Hike: मंगलवार को कारोबार के दौरान टेक्सटाइल, गारमेंट्स, लेदर उत्पादों को एक्सपोर्ट करने वाली कंपनियों के शेयरों में तेजी रही. दरअसल, अमेरिकी ट्रंप सरकार ने बांग्लादेश पर 35% टैरिफ लगाने का ऐलान किया है.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-07-08 14:45:58",
+            "pubDateTZ": "UTC",
+            "image_url": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202507/686d2e8266ce7-indian-textile-stocks-surge-084308517-16x9.jpg",
+            "video_url": null,
+            "source_id": "aajtak",
+            "source_name": "Aaj Tak",
+            "source_priority": 20158,
+            "source_url": "http://aajtak.in",
+            "source_icon": "https://n.bytvi.com/aajtak.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "8fc5c5f9a44ab1867798cb6ff333d782",
+            "title": "PM Modi Accorded Ceremonial Welcome At Brazil's Alvorada Palace, Shares Hug With Prez Lula Da Silva: WATCH",
+            "link": "https://news.abplive.com/news/world/pm-modi-accorded-ceremonial-welcome-at-alvorada-palace-in-brasilia-brazilian-president-luiz-inacio-lula-da-silva-receives-him-1786262",
+            "keywords": [
+                "world"
+            ],
+            "creator": [
+                "ANI"
+            ],
+            "description": "Brasilia [Brazil], July 8 (ANI): Prime Minister Narendra Modi, who is on a State Visit to Brazil after participating in the BRICS Summit, received a warm ceremonial welcome at the Alvorada Palace in Brazil on Tuesday.PM Modi and Brazilian President Luiz Inacio Lula da Silva shared a hug as the President received the PM at Alvorada Palace in Brasilia, Brazil.#WATCH | Brasilia, Brazil: National anthems of India and Brazil being played at Alvorada Palace as PM Narendra Modi receives a ceremonial welcome here. He has been received by Brazilian President Luiz Inácio Lula da Silva. (Video Source: ANI/DD News) pic.twitter.com/XUMgjsKkfb— ANI (@ANI) July 8, 2025The Prime Minister was accorded a ceremonial guard of honour. The national anthems of India and Brazil were played at Alvorada Palace.PM Modi also received a unique 114-horse welcome at the ceremonial welcome at Alvorada Palace in Brasilia.#WATCH | Brasilia, Brazil: PM Narendra Modi receives a ceremonial welcome as he arrives at Alvorada Palace. He has been received by Brazilian President Luiz Inácio Lula da Silva.(Video Source: ANI/DD News) pic.twitter.com/Utrk3Yvu0Z— ANI (@ANI) July 8, 2025Earlier, PM Modi was accorded a warm welcome on his arrival at Brasilia airport with the Batala Mundo band performing traditional Afro-Brazilian compositions.\"At Brasilia airport, the Batala Mundo band played some wonderful compositions. Theirs is a global effort to promote Afro-Brazilian percussion, in particular the Samba-Reggae from Salvador da Bahia, Brazil,\" he said in a post on X.At Brasilia airport, the Batala Mundo band played some wonderful compositions. Theirs is a global effort to promote Afro-Brazilian percussion, in particular the Samba-Reggae from Salvador da Bahia, Brazil. pic.twitter.com/Pp1RjqBFwg— Narendra Modi (@narendramodi) July 7, 2025The Indian community in Brazil was also present at the airport to greet the Prime Minister. \"Landed in Brasilia a short while ago. The Indian community accorded a memorable welcome, once again highlighting how passionate our diaspora is and how connected they remain with their roots,\" PM Modi said in another post.Landed in Brasilia a short while ago. The Indian community accorded a memorable welcome, once again highlighting how passionate our diaspora is and how connected they remain with their roots. pic.twitter.com/y8dHxo3nUf— Narendra Modi (@narendramodi) July 7, 2025After arriving at his hotel in Brasilia, PM Modi interacted with members of the Indian diaspora, including children who had gathered with the Tricolour to welcome him.The Prime Minister also witnessed a cultural performance. He appreciated the artists and interacted with them after their performance.PM Modi will hold bilateral discussions with the Brazilian President on broadening the Strategic Partnership between the two countries in areas of mutual interest, including trade, defence, energy, space, technology, agriculture, health, and people-to-people linkages. (This report has been published as part of the auto-generated syndicate wire feed. Apart from the headline, no editing has been done in the copy by ABP Live.)",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-07-08 14:45:57",
+            "pubDateTZ": "UTC",
+            "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2025/07/08/8a59cc3acdfab561aa576b07c85a9fd3175198587911125_original.png",
+            "video_url": null,
+            "source_id": "abplive",
+            "source_name": "Abp News",
+            "source_priority": 7754,
+            "source_url": "http://abplive.com",
+            "source_icon": "https://n.bytvi.com/abplive.jpg",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "ce4a3f43580add112b65d6808c02cfd9",
+            "title": "State Visits and New Alliances: UK-France Relations Post-Brexit",
+            "link": "https://www.devdiscourse.com/article/politics/3497299-state-visits-and-new-alliances-uk-france-relations-post-brexit",
+            "keywords": null,
+            "creator": null,
+            "description": "State Visits and New Alliances: UK-France Relations Post-Brexit King Charles welcomed French President Emmanuel Macron to the UK, marking the first European leader's state visit since Brexit. The warm reception suggests a re-strengthening of UK-French relations.Key discussions included a £1.1 billion investment by French utility EDF in UK nuclear power, highlighting their collaborative energy goals.In addition to ceremonial events, both leaders focused on economic ties and security, kicking off with a potential pilot return agreement for asylum seekers to counter illegal migrations.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-07-08 14:45:55",
+            "pubDateTZ": "UTC",
+            "image_url": "https://devdiscourse.blob.core.windows.net/aiimagegallery/07_08_2024_07_11_07_6314388.png",
+            "video_url": null,
+            "source_id": "devdiscourse",
+            "source_name": "Devdiscourse",
+            "source_priority": 566021,
+            "source_url": "https://www.devdiscourse.com",
+            "source_icon": "https://n.bytvi.com/devdiscourse.jpg",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "817ba68002e9b108be245cdb7ad6d0e6",
+            "title": "Congress hits back at KTR, says debates should happen in Assembly, not outside",
+            "link": "https://www.thehindu.com/news/national/telangana/congress-hits-back-at-ktr-says-debates-should-happen-in-assembly-not-outside/article69788432.ece",
+            "keywords": [
+                "telangana"
+            ],
+            "creator": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-07-08 14:45:51",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+            "video_url": null,
+            "source_id": "thehindu",
+            "source_name": "The Hindu",
+            "source_priority": 2972,
+            "source_url": "https://www.thehindu.com",
+            "source_icon": "https://n.bytvi.com/thehindu.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "2535d7612334d6e33fc713b5686c8e1e",
+            "title": "Worldcoin Locks Minors Out - Privately",
+            "link": "https://in.investing.com/news/stock-market-news/worldcoin-locks-minors-out--privately-4904119",
+            "keywords": null,
+            "creator": [
+                "Stocktwits"
+            ],
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-07-08 14:45:43",
+            "pubDateTZ": "UTC",
+            "image_url": "https://i-invdn-com.investing.com/news/LYNXMPEB59082_M.jpg",
+            "video_url": null,
+            "source_id": "investing_in",
+            "source_name": "Investing India",
+            "source_priority": 1205,
+            "source_url": "https://in.investing.com",
+            "source_icon": "https://n.bytvi.com/investing_in.jpg",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "business"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "67604c744d62baeb952e5f330aac3f0b",
+            "title": "‘Kantara: Chapter 1’ wraps filming, all set for a grand release on Oct 2",
+            "link": "https://www.thehansindia.com/cinema/kantara-chapter-1-wraps-filming-all-set-for-a-grand-release-on-oct-2-986358",
+            "keywords": [
+                "entertainment"
+            ],
+            "creator": [
+                "Suhas Sistu"
+            ],
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-07-08 14:45:41",
+            "pubDateTZ": "UTC",
+            "image_url": "https://assets.thehansindia.com/h-upload/2025/07/08/1566190-kanta.webp",
+            "video_url": null,
+            "source_id": "thehansindia",
+            "source_name": "The Hans India",
+            "source_priority": 41360,
+            "source_url": "http://www.thehansindia.com",
+            "source_icon": "https://n.bytvi.com/thehansindia.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "entertainment"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "813fc0ef3136ef0d2f5ace0f258347e5",
+            "title": "मुजफ्फरपुर, नवादा के बाद गया में फिलिस्तीनी झंडा... चुनाव से पहले माहौल बिगाड़ने की कोशिश?",
+            "link": "https://navbharattimes.indiatimes.com/state/bihar/gaya/palestine-flag-hoisted-during-moharram-possession-in-gurua-gaya-bihar-news/articleshow/122323588.cms",
+            "keywords": null,
+            "creator": null,
+            "description": "Gaya ji News Today : गया जिले के गुरुआ प्रखंड में मुहर्रम जुलूस के दौरान फिलिस्तीन का झंडा लहराया गया। जुलूस में कुछ युवकों ने झंडा लेकर प्रदर्शन किया। पुलिस की मौजूदगी में यह सब हुआ, पर पुलिस ने कोई आपत्ति नहीं की।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-07-08 14:45:40",
+            "pubDateTZ": "UTC",
+            "image_url": "https://navbharattimes.indiatimes.com/thumb/122323726/palestine-flag-in-bihar-122323726.jpg?height=900&imgsize-57478=&resizemode=75&width=1600",
+            "video_url": null,
+            "source_id": "navbharattimes",
+            "source_name": "Nbt Navbharattimes",
+            "source_priority": 244,
+            "source_url": "https://navbharattimes.indiatimes.com",
+            "source_icon": "https://n.bytvi.com/navbharattimes.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "97138ff20d1b8e613e45d47bedb4e296",
+            "title": "Tata Steel sales, output down in India",
+            "link": "https://www.thehindubusinessline.com/companies/tata-steel-sales-output-down-in-india/article69788202.ece",
+            "keywords": [
+                "companies"
+            ],
+            "creator": null,
+            "description": "The maintenance-related shutdowns in Jamshedpur and Neelachal Ispat Nigam have led to decline in finished goods production, adversely impacting deliveries",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-07-08 14:45:39",
+            "pubDateTZ": "UTC",
+            "image_url": "https://bl-i.thgim.com/public/incoming/p1at50/article69788467.ece/alternates/LANDSCAPE_1200/IMG_Tata-Steel-gets_G8GE_2_1_2KEJDPEI.jpg",
+            "video_url": null,
+            "source_id": "thehindubusinessline",
+            "source_name": "The Hindu - Business Line",
+            "source_priority": 33540,
+            "source_url": "https://www.thehindubusinessline.com",
+            "source_icon": "https://n.bytvi.com/thehindubusinessline.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "business"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "40b3eb1d850e595f377e79db3b8947c7",
+            "title": "5 of the world’s tiniest cow breeds and where they’re found",
+            "link": "https://timesofindia.indiatimes.com/etimes/trending/5-of-the-worlds-tiniest-cow-breeds-and-where-theyre-found/articleshow/122323748.cms",
+            "keywords": null,
+            "creator": null,
+            "description": "Small-scale, sustainable farming is gaining traction, and miniature cows are proving to be a valuable asset. These manageable and efficient breeds, like the Vechur and Miniature Zebu, are well-suited for limited resources. From India to the U.S., these hardy animals are thriving on family farms and even in backyard setups, offering unique benefits and purposes.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-07-08 14:45:38",
+            "pubDateTZ": "UTC",
+            "image_url": "https://static.toiimg.com/thumb/msid-122323732,width-1070,height-580,imgsize-92186,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "video_url": null,
+            "source_id": "toi",
+            "source_name": "The Times Of India",
+            "source_priority": 239,
+            "source_url": "https://timesofindia.indiatimes.com",
+            "source_icon": "https://n.bytvi.com/toi.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "c9a656e543bb77b51843b407e39b4c05",
+            "title": "Union Bank of India’s Q1 total business rises 5% to ₹22.1 lakh crore; retail advances jump 26%",
+            "link": "https://www.cnbctv18.com/market/stocks/union-bank-of-india-share-price-q1-total-business-rises-5-to-rs-22-1-lakh-crore-retail-advances-jump-26-19633758.htm",
+            "keywords": [
+                "business"
+            ],
+            "creator": null,
+            "description": "Total deposits rose 3.63% year-on-year to ₹12.39 lakh crore from ₹11.96 lakh crore. Global gross advances stood at ₹9.74 lakh crore, registering a 6.8% increase over ₹9.12 lakh crore in Q1 FY25. Shares of Union Bank of India Ltd ended at ₹150.40, down by ₹1.70, or 1.12%, on the BSE.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-07-08 14:45:38",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.cnbctv18.com/uploads/2024/05/union-bank-of-india-2024-05-f73a879fbac33fd93b95c7b59041e7cf.jpg",
+            "video_url": null,
+            "source_id": "cnbctv18",
+            "source_name": "Cnbctv18",
+            "source_priority": 17950,
+            "source_url": "https://www.cnbctv18.com",
+            "source_icon": "https://n.bytvi.com/cnbctv18.jpg",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "business"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "afc5bd0ce4b960a3aff32c9441642273",
+            "title": "Officials inspect rehabilitation centre in view of rising water levels in Godavari",
+            "link": "https://www.thehindu.com/news/national/andhra-pradesh/officials-inspect-rehabilitation-centre-in-view-of-rising-water-levels-in-godavari/article69788172.ece",
+            "keywords": [
+                "andhra pradesh"
+            ],
+            "creator": null,
+            "description": "Review basic infrastructure and amenities being arranged at the centre to ensure that residents displaced by floods will face no inconvenience",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-07-08 14:45:37",
+            "pubDateTZ": "UTC",
+            "image_url": "https://th-i.thgim.com/public/incoming/qgaqif/article69788456.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202025-07-08%20at%2019.25.10.jpeg",
+            "video_url": null,
+            "source_id": "thehindu",
+            "source_name": "The Hindu",
+            "source_priority": 2972,
+            "source_url": "https://www.thehindu.com",
+            "source_icon": "https://n.bytvi.com/thehindu.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "7d0a94b9d2e452cc53caf6647a529543",
+            "title": "रेमंड जेम्स ने उत्पादन परिणामों के आधार पर एंडेवर सिल्वर स्टॉक की आउटपरफॉर्म रेटिंग बरकरार रखी",
+            "link": "https://hi.investing.com/news/analyst-ratings/article-93CH-500781",
+            "keywords": null,
+            "creator": [
+                "Investing.com"
+            ],
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-07-08 14:45:33",
+            "pubDateTZ": "UTC",
+            "image_url": "https://i-invdn-com.investing.com/news/World_News_8_M_1440052125.jpg",
+            "video_url": null,
+            "source_id": "investing_hi",
+            "source_name": "Investing भारत",
+            "source_priority": 1143,
+            "source_url": "https://hi.investing.com",
+            "source_icon": "https://n.bytvi.com/investing_hi.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "6a7fb692c56baf1268106e39cfcff2aa",
+            "title": "SPOTLIGHT: Keshav Murugesh: The man who transformed WNS",
+            "link": "https://www.thehindubusinessline.com/news/spotlight-keshav-murugesh-the-man-who-transformed-wns/article69788285.ece",
+            "keywords": [
+                "news"
+            ],
+            "creator": null,
+            "description": "Years later, Murugesh has now taken the bold step to merge the BPM business with an IT services company at a time when most BPM companies are trying to integrate AI solutions into their business",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-07-08 14:45:32",
+            "pubDateTZ": "UTC",
+            "image_url": "https://bl-i.thgim.com/public/incoming/ehe9ig/article69788407.ece/alternates/LANDSCAPE_1200/Keshav%20R.%20Murugesh%20I%20Group%20CEO%20WNS.jpg",
+            "video_url": null,
+            "source_id": "thehindubusinessline",
+            "source_name": "The Hindu - Business Line",
+            "source_priority": 33540,
+            "source_url": "https://www.thehindubusinessline.com",
+            "source_icon": "https://n.bytvi.com/thehindubusinessline.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "13443e8c9323c53e1ccd6435a4619430",
+            "title": "पवन सिंह और खेसारी लाल का कौन सा टैलेंट है यश कुमार को पसंद? किया खुलासा",
+            "link": "https://www.tv9hindi.com/entertainment/bhojpuri/pawan-singh-or-khesari-lal-yadav-who-is-more-talented-for-yash-kumarr-in-bhojpuri-cinema-3379478.html",
+            "keywords": null,
+            "creator": [
+                "Sneha Dubey"
+            ],
+            "description": "भोजपुरी सिनेमा के जाने-माने एक्टर यश कुमार ने एक पॉडकास्ट में बताया था कि इंडस्ट्री में दो स्टार उन्हें पसंद हैं. दोनों में अलग-अलग टैलेंट है. यश कुमार को कोई बतौर एक्टर पसंद है तो किसी के उन्हें गाने पसंद हैं.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-07-08 14:45:29",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.tv9hindi.com/wp-content/uploads/2025/07/yash-kumar-on-best-bhojpuri-star.jpg?w=1280",
+            "video_url": null,
+            "source_id": "tv9bharatvarsh",
+            "source_name": "Tv9 Bharatvarsh",
+            "source_priority": 40538658,
+            "source_url": "https://www.tv9hsindi.com",
+            "source_icon": "https://n.bytvi.com/tv9bharatvarsh.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "2ee9dc4e5f64e2ec36e96e5dbb074ffb",
+            "title": "Health Minister Urges Reduction In C-section Deliveries At Government Hospitals",
+            "link": "https://www.deccanchronicle.com/southern-states/andhra-pradesh/health-minister-urges-reduction-in-c-section-deliveries-at-government-hospitals-1890194",
+            "keywords": [
+                "southern states,andhra pradesh"
+            ],
+            "creator": [
+                "Gcheshta"
+            ],
+            "description": "The minister inaugurated a four-day DCHS orientation training programme conducted by the Directorate of Secondary Health on Tuesday. He also launched a new comprehensive health application developed by the directorate.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-07-08 14:45:29",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.deccanchronicle.com/h-upload/2025/07/08/1935966-download-88.jpg",
+            "video_url": null,
+            "source_id": "andhrabhoomi",
+            "source_name": "Andhrabhoomi",
+            "source_priority": 4054772,
+            "source_url": "http://www.andhrabhoomi.net",
+            "source_icon": null,
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "da0daf7e4ec843f34f14310211252741",
+            "title": "Silver Lion, Madhubani Painting among PM Modi’s diplomatic gifts to leaders of Argentina and Trinidad & Tobago",
+            "link": "https://www.cnbctv18.com/photos/india/silver-lion-madhubani-painting-among-pm-modi-diplomatic-gifts-to-leaders-of-argentina-and-trinidad-tobago-19633007.htm",
+            "keywords": [
+                "india"
+            ],
+            "creator": null,
+            "description": "Prime Minister Narendra Modi did not go empty-handed in his five-nation visit covering Ghana, Trinidad & Tobago, Argentina, Brazil, and Namibia from July 2 to July 9. Here's a look at few of the gifts he offered to world leaders.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-07-08 14:45:27",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.cnbctv18.com/uploads/2025/06/untitled-image-1-2025-06-7fdfe9e1090a319f1134a106e0931aa7.jpg",
+            "video_url": null,
+            "source_id": "cnbctv18",
+            "source_name": "Cnbctv18",
+            "source_priority": 17950,
+            "source_url": "https://www.cnbctv18.com",
+            "source_icon": "https://n.bytvi.com/cnbctv18.jpg",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "0e4900a0b8a175f109948738ba9eb396",
+            "title": "Major Drug Bust in Thane: Ivory Coast National Arrested",
+            "link": "https://www.devdiscourse.com/article/law-order/3497298-major-drug-bust-in-thane-ivory-coast-national-arrested",
+            "keywords": null,
+            "creator": null,
+            "description": "Major Drug Bust in Thane: Ivory Coast National Arrested In a significant crackdown on drug trafficking, Thane police have detained a 37-year-old national from the Ivory Coast, Isa Bakayoka, with 1.51 kilograms of mephedrone.The seizure, valued at approximately Rs 2.12 crore, took place in Nilje, Dombivili town, as law enforcement steps up efforts in the region.Deputy Commissioner Atul Zende affirmed the arrest under the Narcotic Drugs and Psychotropic Substances Act, following a well-executed trap. The operation is part of broader efforts that recently led to the seizure of drugs worth over Rs 4 crore.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-07-08 14:45:22",
+            "pubDateTZ": "UTC",
+            "image_url": "https://devdiscourse.blob.core.windows.net/devnews/02_10_2022_15_53_06_471231.jpg",
+            "video_url": null,
+            "source_id": "devdiscourse",
+            "source_name": "Devdiscourse",
+            "source_priority": 566021,
+            "source_url": "https://www.devdiscourse.com",
+            "source_icon": "https://n.bytvi.com/devdiscourse.jpg",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
             "article_id": "a88ade67a4e690e47236ad1b3fc0216a",
             "title": "कंगना रनौत पर प्रतिभा सिंह का पलटवार, बोलीं- अपनी जिम्मेदारी नहीं समझती भाजपा सांसद",
             "link": "https://www.prabhasakshi.com/national/pratibha-singh-hits-back-at-kangana-ranaut-says-bjp-mp-does-not-understand-her-responsibility",
@@ -23554,1423 +24213,6 @@
             ],
             "category": [
                 "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "2a36e1eb6a588e3cbd19c20823d28102",
-            "title": "New wave of Israeli airstrikes hit Yemen",
-            "link": "https://menafn.com/1109766949/New-wave-of-Israeli-airstrikes-hit-Yemen",
-            "keywords": null,
-            "creator": [
-                "marketing@menafn.com (MENAFN)"
-            ],
-            "description": "(MENAFN) A wave of Israeli airstrikes targeted the western Yemeni city of Al Hudaydah early Monday, according to media sources aligned with the Houthi group.–Israeli enemy aircraft carried out a ...",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-07-07 02:10:53",
-            "pubDateTZ": "UTC",
-            "image_url": "https://menafn.com/updates/pr/Menafn_News_Images%5Clocal_aviationtransport_217_menafn.jpg",
-            "video_url": null,
-            "source_id": "menafn",
-            "source_name": "Menafn",
-            "source_priority": 1117534,
-            "source_url": "https://menafn.com",
-            "source_icon": "https://n.bytvi.com/menafn.png",
-            "language": "english",
-            "country": [
-                "georgia",
-                "yemen",
-                "afghanistan",
-                "cyprus",
-                "india",
-                "singapore",
-                "saudi arabia",
-                "maldives",
-                "japan",
-                "united arab emirates",
-                "malaysia",
-                "china",
-                "south korea",
-                "north korea",
-                "taiwan",
-                "thailand",
-                "pakistan",
-                "mongolia",
-                "brunei",
-                "lebanon",
-                "indonesia",
-                "kyrgyzstan",
-                "syria",
-                "israel",
-                "bhutan",
-                "iran",
-                "turkey",
-                "armenia",
-                "qatar",
-                "philippines",
-                "kazakhstan",
-                "iraq",
-                "bangladesh",
-                "laos",
-                "vietnam",
-                "timor-leste",
-                "kuwait",
-                "myanmar",
-                "azerbaijan",
-                "jordan",
-                "nepal",
-                "sri lanka",
-                "uzbekistan",
-                "turkmenistan",
-                "macau",
-                "bahrain",
-                "cambodia",
-                "tajikistan"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "ac655999910359fa37f40f1ddd22eab1",
-            "title": "बैंसली नदी में डूबा युवक, पुलिस कर रही तलाश:दोस्तों के साथ नदी में नहाने गया था फिर नहीं लौटा, सोमवार को फिर चलेगा रेस्क्यू ऑपरेशन",
-            "link": "https://www.bhaskar.com/local/mp/gwalior/news/a-young-man-drowned-in-bainsali-river-police-is-searching-135391008.html",
-            "keywords": null,
-            "creator": null,
-            "description": "ग्वालियर के बिजौली में बैंसली नदी में दोस्तों के साथ नहाने गया एक युवक डूब गया। दोस्तों ने युवक को बचाने का प्रयास किया, लेकिन वह गहरे पानी में चला गया था। घटना रविवार शाम की है। घटना की सूचना मिलते ही बिजौली थाना पुलिस मौके पर पहुंची। पुलिस ने नदी में डूबे युवक की तलाश के लिए एनडीआरएफ को बुलाया। एनडीआरएफ की टीम ने रविवार को रेस्क्यू ऑपरेशन चलाया, लेकिन डूबे युवक का कुछ पता नहीं चला है। टीम को अंधेरा होने पर रेस्क्यू रोकना पड़ा है। अब सोमवार सुबह फिर से रेस्क्यू ऑपरेशन चलाया जाएगा। ग्वालियर के पारसेन गांव निवासी 20 वर्षीय देवेन्द्र उर्फ गोलू माहौर रविवार को अपने कुछ दोस्तों के साथ पास ही बैंसली नदी में नहाने के लिए गया था। पिछले कुछ दिन में अच्छी बारिश के चलते नदी में पानी का बहाव ज्यादा था। सभी दोस्त नदी किनारे नहा रहे थे, लेकिन तभी गोलू कुछ अंदर चला गया। गहरे पानी में पहुंचने पर वह डूबने लगा। दोस्तों ने देखा तो उसे बचाने का प्रयास किया, लेकिन कुछ ही देर में वह पानी में समा गया। तत्काल घटना की सूचना गोलू के परिजन व पुलिस को दी गई। बिजौली थाना पुलिस घटनास्थल पर पहुंची और एनडीआरएफ की मदद से रेस्क्यू शुरू किया, लेकिन रविवार देर शाम तक गोलू का पता नहीं चल सका और अंधेरा होने के कारण रेस्क्यू ऑपरेशन रोकना पड़ा।सोमवार सुबह फिर चलाया जाएगा रेस्क्यूबिजौली थाना पुलिस का कहना है कि नदी में नहाने गया युवक डूब गया है। रविवार रात तक रेस्क्यू ऑपरेशन चलाया गया है, लेकिन युवक का पता नहीं चल सका है। अंधेरा होने के कारण रेस्क्यू रोकना पड़ा है। सोमवार सुबह एनडीआरएफ की टीम फिर से नदी में उतरेगी।",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-07-07 02:10:53",
-            "pubDateTZ": "UTC",
-            "image_url": "https://images.bhaskarassets.com/thumb/1000x1000/web2images/521/2025/07/06/2-1_1751825816.jpg",
-            "video_url": null,
-            "source_id": "bhaskar_hindi",
-            "source_name": "Bhaskar",
-            "source_priority": 34179,
-            "source_url": "https://www.bhaskar.com",
-            "source_icon": "https://n.bytvi.com/bhaskar_hindi.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "domestic",
-                "other"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "8cbf75c3aab521972f80d04be6e30bb8",
-            "title": "Harish’s diktat to govt: Immediately start Kannepally pump house",
-            "link": "https://www.thehansindia.com/telangana/harishs-diktat-to-govt-immediately-start-kannepally-pump-house-985751",
-            "keywords": [
-                "telangana,today newspaper,news,cities,state,hyderabad"
-            ],
-            "creator": [
-                "The Hans India"
-            ],
-            "description": null,
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-07-07 02:10:49",
-            "pubDateTZ": "UTC",
-            "image_url": "https://assets.thehansindia.com/h-upload/2025/07/07/1565634-harihsh.webp",
-            "video_url": null,
-            "source_id": "thehansindia",
-            "source_name": "The Hans India",
-            "source_priority": 41360,
-            "source_url": "http://www.thehansindia.com",
-            "source_icon": "https://n.bytvi.com/thehansindia.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "1d1ea8b7ec996191f179fb17055a17b7",
-            "title": "खरखौदा सड़क के फेज-2 का काम जल्द होगा शुरू, ट्रैफिक जाम से मिलेगी राहत",
-            "link": "https://www.haribhoomi.com/state-local/haryana/sonipat/kharkhoda-delhi-road-phase-2-work-will-repair-soon-6-crore-rupees-spent-pwd-sonipat-635943",
-            "keywords": [
-                "हरियाणा समाचार,राज्य समाचार,दिल्ली-एनसीआर समाचार,सोनीपत"
-            ],
-            "creator": null,
-            "description": "Kharkhoda-Delhi Road: PWD विभाग की ओर से खरखौदा-दिल्ली मार्ग के फेज-2 का निर्माण कार्य शुरु कर दिया जाएगा। सड़क बन जाने के बाद वाहन चालकों को ट्रैफिक जाम की समस्या से राहत मिलेगी।",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-07-07 02:10:47",
-            "pubDateTZ": "UTC",
-            "image_url": "https://www.haribhoomi.com/h-upload/2025/07/06/2473885-kharkhoda-delhi-road.webp",
-            "video_url": null,
-            "source_id": "haribhoomi",
-            "source_name": "Haribhoomi",
-            "source_priority": 4262064,
-            "source_url": "https://www.haribhoomi.com",
-            "source_icon": "https://n.bytvi.com/haribhoomi.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "7a76b7ee6c3c8d49c21166375b0c068a",
-            "title": "Hosur doctor assaults colleague for refusing marriage proposal",
-            "link": "https://www.dtnext.in/news/tamilnadu/hosur-doctor-assaults-colleague-for-refusing-marriage-proposal-839325",
-            "keywords": [
-                "tamil nadu,news,headlines"
-            ],
-            "creator": [
-                "DTNEXT Bureau"
-            ],
-            "description": "The victim, Dr Krithika (25), is currently receiving treatment at the Hosur Government Hospital, and the accused, Dr Anbu Selvan (38), is under investigation.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-07-07 02:10:44",
-            "pubDateTZ": "UTC",
-            "image_url": "https://media.dtnext.in/h-upload/2025/01/05/750x450_853449-assaultt.jpg",
-            "video_url": null,
-            "source_id": "dtnext",
-            "source_name": "Dt Next",
-            "source_priority": 113678,
-            "source_url": "https://www.dtnext.in",
-            "source_icon": "https://n.bytvi.com/dtnext.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "46b4465f571c2ad46d6d43c7fab9f4dc",
-            "title": "दबंग युवकों ने की लड़के की हत्या, फावड़े और कुदाल मारा",
-            "link": "https://jantaserishta.com/national/bullies-killed-a-boy-hit-him-with-spade-and-hoe-4131318",
-            "keywords": [
-                "भारत,top news"
-            ],
-            "creator": [
-                "Nilmani Pal"
-            ],
-            "description": "पढ़े पूरी खबर",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-07-07 02:10:42",
-            "pubDateTZ": "UTC",
-            "image_url": "https://jantaserishta.com/h-upload/2025/07/07/4729823-untitled-8-copy.webp",
-            "video_url": null,
-            "source_id": "jantaserishta",
-            "source_name": "Janta Se Rishta",
-            "source_priority": 81836,
-            "source_url": "https://jantaserishta.com",
-            "source_icon": "https://n.bytvi.com/jantaserishta.jpg",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "7b7143a4e0f34b2ca98830037dd62673",
-            "title": "PM Modi Meets Leaders Of Malaysia, Cuba, Vietnam, Focus On Strengthening Ties",
-            "link": "https://www.news18.com/india/pm-modi-meets-leaders-of-malaysia-cuba-vietnam-focus-on-strengthening-ties-9424807.html",
-            "keywords": [
-                "india"
-            ],
-            "creator": null,
-            "description": "Cuba President Diaz-Canel expressed interest in India’s Digital Public Infrastructure and UPI, during meeting with PM Modi.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-07-07 02:10:42",
-            "pubDateTZ": "UTC",
-            "image_url": "https://images.news18.com/ibnlive/uploads/2025/07/pmmodiatbrics-2025-07-2f65f388556ce3aca5e7d263dd4af335-3x2.jpg",
-            "video_url": null,
-            "source_id": "news18",
-            "source_name": "News 18",
-            "source_priority": 1063,
-            "source_url": "https://www.news18.com",
-            "source_icon": "https://n.bytvi.com/news18.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "12e1101b1c43f8074a8ad21051a243ea",
-            "title": "Nadda inaugurates six BJP offices in Delhi and Haryana",
-            "link": "https://www.thehindu.com/news/national/nadda-inaugurates-six-bjp-offices-in-delhi-and-haryana/article69782080.ece",
-            "keywords": [
-                "india"
-            ],
-            "creator": null,
-            "description": "He pointed out that the day carried an emotional significance to the BJP, as it coincidentally marked the birth anniversary of Syama Prasad Mookerjee",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-07-07 02:10:41",
-            "pubDateTZ": "UTC",
-            "image_url": "https://th-i.thgim.com/public/incoming/a69hw3/article69782084.ece/alternates/LANDSCAPE_1200/PTI07_06_2025_RPT454B.jpg",
-            "video_url": null,
-            "source_id": "thehindu",
-            "source_name": "The Hindu",
-            "source_priority": 2972,
-            "source_url": "https://www.thehindu.com",
-            "source_icon": "https://n.bytvi.com/thehindu.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": true
-        },
-        {
-            "article_id": "58ff1fc48e6ef87f7892af821ac60af0",
-            "title": "Huge WWE RAW update after change to timing",
-            "link": "https://www.sportskeeda.com/wwe/news-huge-wwe-raw-update-change-timing",
-            "keywords": [
-                "wwe"
-            ],
-            "creator": [
-                "Anirban Banerjee"
-            ],
-            "description": "Last week, several fans were caught unawares as WWE RAW aired live two hours earlier than usual. The show started at 6 PM EST instead of the usual 8 PM time slot on Monday night.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-07-07 02:10:40",
-            "pubDateTZ": "UTC",
-            "image_url": null,
-            "video_url": null,
-            "source_id": "sportskeeda",
-            "source_name": "Sportskeeda",
-            "source_priority": 1040,
-            "source_url": "http://sportskeeda.com",
-            "source_icon": "https://n.bytvi.com/sportskeeda.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "sports"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "ea3f920d81fdc2b4d3f2da2630fb079f",
-            "title": "Ravindra Jadeja refuses Shubman Gill's orders, India captain quietly walks back to his position: 'Kuch kaam nahi hai' - Hindustan Times",
-            "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNbGhHOVVQTWxLdXVydzZ3QUFKOWQ4b1hGQkJ6RkF2TTh0ZTAzOWR1QmdrLTdrU29BX3ZvTFVvd3VOZVVyaGxZazNRODZQR05HeWNmMW82RWtJVVNDRFVkMUdrMWdjeE1GZENlakR1ZmZNQi0xYUlBMThEUjhsV3Q3R2xaWVFqLVVzeV9ZajBxQXV2M0RIUGNfNHpldHVqRzVxUGZZN2RTS2ZYUkRBRUFyaFRZbUtDV1I0Tnhob0dyLTI3UGlaX2ZKaXp1NnFvQmdmZGh6bXFXN0dEaDdlYzNPak1WaGJ5X1ZFZU4zQXVEV3ZpbUVseHR3WU5VcUtjLUNiS1E?oc=5",
-            "keywords": null,
-            "creator": null,
-            "description": "Ravindra Jadeja refuses Shubman Gill's orders, India captain quietly walks back to his position: 'Kuch kaam nahi hai' Hindustan Times'Aankhon Hi Aankhon Mein': Shubman Gill And Ravindra Jadeja's New Strategy Of Running Between The Wickets Leaves England Bamboozled | WATCH Republic WorldInd vs Eng 2nd Test: Shubman Gill’s cheeky 'kuch bhi' dig at Ben Stokes’ field setups at Edgbaston goes viral Mid-dayAankhon Hee Aankhon Mein: Shubman Gills Quip Draws Laughter From Ravindra Jadeja On Day 1 Of ENG vs IND Free Press Journal\"Kuch Bhi Laga Raha Hai\" Gill To Jadeja As He Trolls Stokes’ Bizarre Fielding At Edgbaston OneCricket",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-07-07 02:10:35",
-            "pubDateTZ": "UTC",
-            "image_url": null,
-            "video_url": null,
-            "source_id": "google",
-            "source_name": "Google News",
-            "source_priority": 14,
-            "source_url": "https://news.google.com",
-            "source_icon": "https://n.bytvi.com/google.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "sports"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "9e97056807e8c85b97d0f031d71ba991",
-            "title": "नाविक की चुभ गई बात, साहूकार ने नदी पर बनवा दिया पुल; 200 साल पुराने धरोहर के अस्तित्व पर मंडराया संकट",
-            "link": "https://www.tv9hindi.com/state/uttar-pradesh/gazippur-200-year-old-bridge-story-faces-demolition-3377432.html",
-            "keywords": null,
-            "creator": [
-                "TV9 Bharatvarsh"
-            ],
-            "description": "गाजीपुर में करीब 200 साल पहले एक साहूकार की ओर से निर्मित पुल के अस्तित्व पर संकट के बादल मंडरा रहे हैं. राष्ट्रीय राजमार्ग प्राधिकरण (NHAI) द्वारा NH 124D के निर्माण और एक नए पुल के प्रस्ताव के चलते इस पुराने पुल को तोड़ने की बात चल रही है. हालांकि, स्थानीय लोग इसे बचाने के लिए NHAI अधिकारियों से लगातार संपर्क कर रहे हैं और इसके सौंदर्यीकरण व संरक्षण की मांग कर रहे हैं.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-07-07 02:10:23",
-            "pubDateTZ": "UTC",
-            "image_url": "https://images.tv9hindi.com/wp-content/uploads/2025/07/news-2025-07-07t073253.514.jpg?w=1280",
-            "video_url": null,
-            "source_id": "tv9bharatvarsh",
-            "source_name": "Tv9 Bharatvarsh",
-            "source_priority": 40538658,
-            "source_url": "https://www.tv9hsindi.com",
-            "source_icon": "https://n.bytvi.com/tv9bharatvarsh.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "domestic"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "eeca90a489926614077f6bc6c14515a3",
-            "title": "Himachal: चंबा में प्रमुख पुल बह जाने से 4 पंचायतें सम्पर्क से कट गईं",
-            "link": "https://jantaserishta.com/local/himachal-pradesh/4-chamba-panchayats-cut-off-as-key-bridge-washed-away-4131319",
-            "keywords": [
-                "राज्य,हिमाचल प्रदेश"
-            ],
-            "creator": [
-                "Subhi"
-            ],
-            "description": null,
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-07-07 02:10:18",
-            "pubDateTZ": "UTC",
-            "image_url": "https://jantaserishta.com/h-upload/2025/07/07/4729820-10.webp",
-            "video_url": null,
-            "source_id": "jantaserishta",
-            "source_name": "Janta Se Rishta",
-            "source_priority": 81836,
-            "source_url": "https://jantaserishta.com",
-            "source_icon": "https://n.bytvi.com/jantaserishta.jpg",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "94a8778d89641b29ac6f2df395581f4b",
-            "title": "Two minors perform stunts on railway tracks in Odisha; taken to task",
-            "link": "https://www.newindianexpress.com/states/odisha/2025/Jul/07/two-minors-perform-stunts-on-railway-tracks-in-odisha-taken-to-task",
-            "keywords": [
-                "odisha"
-            ],
-            "creator": [
-                "Express News Service"
-            ],
-            "description": null,
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-07-07 02:10:16",
-            "pubDateTZ": "UTC",
-            "image_url": "https://media.assettype.com/newindianexpress/2025-07-07/homvp7hc/New-Project-2025-07-07T073827.546.jpg",
-            "video_url": null,
-            "source_id": "newindianexpress",
-            "source_name": "The New Indian Express",
-            "source_priority": 15406,
-            "source_url": "https://www.newindianexpress.com/nation",
-            "source_icon": "https://n.bytvi.com/newindianexpress.jpg",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "6edc44154455cdbf4fba67b566b6e977",
-            "title": "Petrol, Diesel Fresh Prices Announced: Check Rates In Your City On July 7",
-            "link": "https://www.news18.com/business/petrol-diesel-fresh-prices-announced-check-rates-in-your-city-on-july-7-9424809.html",
-            "keywords": [
-                "business"
-            ],
-            "creator": null,
-            "description": "Petrol, Diesel Price On July 7: Check City-Wise Rates Across India Including In Delhi, Mumbai And Chennai",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-07-07 02:10:15",
-            "pubDateTZ": "UTC",
-            "image_url": "https://images.news18.com/ibnlive/uploads/2025/02/petrol-2025-02-00c53f34c65b09caa858ac616ea7150a-3x2.png",
-            "video_url": null,
-            "source_id": "news18",
-            "source_name": "News 18",
-            "source_priority": 1063,
-            "source_url": "https://www.news18.com",
-            "source_icon": "https://n.bytvi.com/news18.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "business"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "5e0e17ae0b0a8a54f9626405ae100a64",
-            "title": "शुभमन गिल की कप्तानी में भारत ने रचा इतिहास, 93 साल में पहली बार हुआ अद्भुत कारनामा",
-            "link": "https://zeenews.india.com/hindi/sports/cricket/india-biggest-win-margin-by-runs-in-abroad-beat-england-by-336-runs-in-birmingham/2829210",
-            "keywords": null,
-            "creator": [
-                "Zee News हिन्दी",
-                "Zee News Hindi"
-            ],
-            "description": "IND vs ENG 2nd Test: शुभमन गिल की कप्तानी में भारत ने इतिहास रच दिया है. टीम इंडिया ने बर्मिंघम में खेले गए दूसरे टेस्ट मैच में इंग्लैंड को 336 रन से हरा दिया है. इसी के साथ ही भारतीय टीम के 93 साल के टेस्ट इतिहास में पहली बार एक अद्भुत कारनामा हुआ है.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-07-07 02:10:14",
-            "pubDateTZ": "UTC",
-            "image_url": "https://english.cdn.zeenews.com/static/public/updated_logos/Zee_Zeenewshindi.svg",
-            "video_url": null,
-            "source_id": "zeenews",
-            "source_name": "Zee News",
-            "source_priority": 5319,
-            "source_url": "http://zeenews.india.com",
-            "source_icon": "https://n.bytvi.com/zeenews.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "sports"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "c3ee062fc31939e0b6b95806bb1c4f37",
-            "title": "आज की ताजा खबर, हिंदी न्यूज 07 जुलाई 2025, Aaj Ki Taaja Khabar LIVE: ब्रिक्स की अमेरिका विरोधी नीतियों से जुड़ने वाले देश पर 10% एक्स्ट्रा टैरिफ, डोनाल्ड ट्रंप ने की घोषणा",
-            "link": "https://www.jansatta.com/national/aaj-ki-taaja-khabar-mukhya-samachar-hindi-news-today-live-updates-07-08-july-2025-pm-modi-brics-bihar-elections-maharashtra-language-politics/4034544/",
-            "keywords": null,
-            "creator": [
-                "Jansatta"
-            ],
-            "description": null,
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-07-07 02:10:09",
-            "pubDateTZ": "UTC",
-            "image_url": null,
-            "video_url": null,
-            "source_id": "jansatta",
-            "source_name": "Jansatta",
-            "source_priority": 385929,
-            "source_url": "https://www.jansatta.com",
-            "source_icon": "https://n.bytvi.com/jansatta.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "fc87a41ab56392d1def3e90a64b79640",
-            "title": "Dhruv Vikram likely to headline 'Kill' Tamil remake",
-            "link": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/dhruv-vikram-likely-to-headline-tamil-remake-of-hindi-action-film-kill-reports/articleshow/122287103.cms",
-            "keywords": null,
-            "creator": [
-                "TOI Entertainment Desk"
-            ],
-            "description": "Dhruv Vikram is reportedly in discussions to star in the Tamil adaptation of 'Kill,' the Bollywood action thriller known for its intense violence. This potential role marks a significant shift for Dhruv, potentially establishing him as an action hero after showcasing his emotional range in previous films like 'Adithya Varma' and 'Mahaan'. The original 'Kill,' directed by Nikhil Nagesh Bhat, was praised for its high-octane action.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-07-07 02:10:08",
-            "pubDateTZ": "UTC",
-            "image_url": "https://static.toiimg.com/thumb/msid-122287098,imgsize-67716,width-400,resizemode-4/122287098.jpg",
-            "video_url": null,
-            "source_id": "toi",
-            "source_name": "The Times Of India",
-            "source_priority": 239,
-            "source_url": "https://timesofindia.indiatimes.com",
-            "source_icon": "https://n.bytvi.com/toi.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "entertainment"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "9afaeaa342b0e2f711f8a5a85d2e2698",
-            "title": "TikTok developing new app version ahead of potential US sale – The Information",
-            "link": "https://in.investing.com/news/stock-market-news/tiktok-developing-new-app-version-ahead-of-potential-us-sale--the-information-4901172",
-            "keywords": null,
-            "creator": [
-                "Investing.com"
-            ],
-            "description": null,
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-07-07 02:10:08",
-            "pubDateTZ": "UTC",
-            "image_url": null,
-            "video_url": null,
-            "source_id": "investing_in",
-            "source_name": "Investing India",
-            "source_priority": 1205,
-            "source_url": "https://in.investing.com",
-            "source_icon": "https://n.bytvi.com/investing_in.jpg",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "business"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": true
-        },
-        {
-            "article_id": "f594a96763623f0f2ecf864efe45786e",
-            "title": "अजमेर में रात को निकली बड़े ताजिए की सवारी:अकीदतमंदों ने पेश किए सेहरे, अकीदत के साथ झालरा में सैराब",
-            "link": "https://www.bhaskar.com/local/rajasthan/ajmer/news/big-tajia-procession-started-in-ajmer-135391007.html",
-            "keywords": null,
-            "creator": null,
-            "description": "ख्वाजा मोईनुद्दीन हसन चिश्ती दरगाह की अंजुमन की ओर से बनाए गए बड़े ताजिया की सवारी रात दस बजे बाद इमामबाड़ा से शुरु हुई। जुलूस के दौरान अकीदतमंदों ने अपने मकानों की छतों से ही ताजिया में सेहरे पहनाए। सवारी आधी रात बाद दरगाह के निजामगेट और सुबह चार बजे तक ताजिया झालरा पहुंच गया। जिसे अकीदत के साथ सैराब कर दिया गया। अंजुमन के बड़े ताजिया की सवारी गत रात इमामबाड़ा पहुंची थी। इसके बाद से वहां ताजिया की जियारत करने व मन्नतें पूरी करने वालों का सिलसिला जारी रहा। ताजिया की सवारी में खादिम व स्थानीय लोगों के अलावा काफी अधिक संख्या में अन्य अकीदतमंद उपस्थित थे। जुलूस के दौरान जगह-जगह लोगों ने शरबत, मिठाई, आईसक्रीम सहित अनेक खाने की वस्तुए नियाज के रुप में वितरित की। इसी तरह ताजिया की जियारत करने के लिए जुलूस वाले रास्तें के दोनों ओर के मकानों की छत, बालकनी व खिड़कियों में महिलाएं, बुजुर्ग व बच्चों की खासी भीड़ रही। बड़े ताजिया की सवारी के लिए पुलिस विभाग ने काफी संख्या में कर्मचारियों और अधिकारियों को तैनात किया था, जो पूरे कार्यक्रम में नजर बनाए हुए थे। पुलिस ने एहतियात के लिए ताजिया के जुलूस को कैमरे में कैद किया। (फोटो-वीडियो-नजीर कादरी, अजमेर) मोहर्रम की ये खबरें भी पढें... तलवारों से खेला हाइदोस, डोला शरीफ की सवारी निकली:तलवारों से खतरनाक पैंतरेबाजी का प्रदर्शन; करबला की जंग का मंजर साकार मोहर्रम माह की दसवीं तारीख को अजमेर के अंदरकोट क्षेत्र में हाईदोस खेला गया। इस दौरान ढोल-नगाड़ों की गूंज और नंगी तलवारों के साथ करबला की जंग का मंजर साकार किया गया। आशिकाना-ए-हुसैन ने तलवारों से खतरनाक पैंतरे बाजी का प्रदर्शन किया। इसके साथ ही डोला शरीफ की सवारी निकाली गई, जिसमें अकीदतमंद शामिल हुए। पूरी खबर पढ़ें अजमेर में करबला की जंग जैसा मंजर:अंदरकोट में देर रात तलवारों से खेला छोटा हाईदौस, कुछ लोग चोटिल भी हुए मोहर्रम की 9 तारीख के मौके पर शनिवार रात को अंदरकोट में छोटा हाईदौस हुआ। आशिकान ए हुसैन ने नंगी तलवारों से हाईदौस खेल कर करबला की जंग के मैदान का मंजर साकार किया। पूरी खबर पढ़ने के लिए करें क्लिक",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-07-07 02:10:05",
-            "pubDateTZ": "UTC",
-            "image_url": "https://images.bhaskarassets.com/thumb/1000x1000/web2images/521/2025/07/07/whatsappvideo2025-07-07at72502am-ezgifcom-resize_1751854051.gif",
-            "video_url": null,
-            "source_id": "bhaskar_hindi",
-            "source_name": "Bhaskar",
-            "source_priority": 34179,
-            "source_url": "https://www.bhaskar.com",
-            "source_icon": "https://n.bytvi.com/bhaskar_hindi.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "domestic",
-                "other"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "9e06dc90a1e2d27c724a52d6c5775461",
-            "title": "Daily Horoscope All Zodiac Sign July 7",
-            "link": "https://www.indiatodayne.in/visualstories/webstories/daily-horoscope-all-zodiac-sign-july-7-3-247340-07-07-2025",
-            "keywords": null,
-            "creator": null,
-            "description": null,
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-07-07 02:10:02",
-            "pubDateTZ": "UTC",
-            "image_url": "https://cf-img-a-in.tosshub.com/sites/visualstory/wp/2025/07/1-6ITG-1751821907402.png?size=%2A%3A900",
-            "video_url": null,
-            "source_id": "indiatodayne",
-            "source_name": "Indiatoday Ne",
-            "source_priority": 319419,
-            "source_url": "https://www.indiatodayne.in",
-            "source_icon": "https://n.bytvi.com/indiatodayne.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "2260ad5bd80a81c09209a8adb795d42a",
-            "title": "'He hasn't looked good' - Sammy concedes there is pressure on Brathwaite",
-            "link": "https://www.espncricinfo.com/ci/content/story/1493902.html?ex_cid=OTC-RSS",
-            "keywords": null,
-            "creator": null,
-            "description": "Brathwaite scored just 0 and 7 in Grenada following 4 and 4 in Barbados with Sammy acknowledging a discussion would be had about his spot for Jamaica",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-07-07 01:26:54",
-            "pubDateTZ": "UTC",
-            "image_url": "https://p.imgci.com/db/PICTURES/CMS/403300/403313.5.jpg",
-            "video_url": null,
-            "source_id": "espncricinfo",
-            "source_name": "Espncricinfo",
-            "source_priority": 1162,
-            "source_url": "https://www.espncricinfo.com",
-            "source_icon": "https://n.bytvi.com/espncricinfo.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "sports"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "8237cb848c8a6431fdeba333b6edacf6",
-            "title": "विनेश फोगाट के 'घर' चरखी दादरी पहुंचे बृज भूषण शरण सिंह, खाप पंचायतों का विरोध तो बोले- मैं शरीफ आदमी",
-            "link": "https://navbharattimes.indiatimes.com/state/punjab-and-haryana/gurgaon/brijbhushan-sharan-singh-charkhi-dadri-visit-sparks-anger-on-vinesh-phogat-home-turf/articleshow/122286828.cms",
-            "keywords": null,
-            "creator": null,
-            "description": "Brij Bhushan Singh : भारतीय कुश्ती महासंघ के पूर्व प्रमुख बृजभूषण शरण सिंह कुछ खाप पंचायतों के विरोध के बावजूद हरियाणा में एक महिला पहलवान के सम्मान समारोह में शामिल हुए। बृज भूषण ने चरखी दादरी जिले के बोंड कलां गांव में आयोजित इस कार्यक्रम में पहलवान रचना परमार को सम्मानित किया गया।",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-07-07 01:26:49",
-            "pubDateTZ": "UTC",
-            "image_url": "https://navbharattimes.indiatimes.com/thumb/122286850/brijbhushan-sharan-singh-122286850.jpg?height=900&imgsize-1450669=&resizemode=75&width=1600",
-            "video_url": null,
-            "source_id": "navbharattimes",
-            "source_name": "Nbt Navbharattimes",
-            "source_priority": 244,
-            "source_url": "https://navbharattimes.indiatimes.com",
-            "source_icon": "https://n.bytvi.com/navbharattimes.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "87bf14cf240e3a3e36c05658a9ae17d4",
-            "title": "UAE Participates in the 10th Annual Meeting of the Board of Governors of the New Development Bank in Brazil",
-            "link": "https://menafn.com/1109766799/UAE-Participates-in-the-10th-Annual-Meeting-of-the-Board-of-Governors-of-the-New-Development-Bank-in-Brazil",
-            "keywords": null,
-            "creator": [
-                "marketing@menafn.com (MENAFN)"
-            ],
-            "description": "(MENAFN - Misbar Communications) Rio de Janeiro, Brazil, 6 July 2025 The United Arab Emirates, represented by the Ministry of Finance, participated in the 10th Annual Meeting of the Board ...",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-07-07 01:26:35",
-            "pubDateTZ": "UTC",
-            "image_url": null,
-            "video_url": null,
-            "source_id": "menafn",
-            "source_name": "Menafn",
-            "source_priority": 1117534,
-            "source_url": "https://menafn.com",
-            "source_icon": "https://n.bytvi.com/menafn.png",
-            "language": "english",
-            "country": [
-                "georgia",
-                "yemen",
-                "afghanistan",
-                "cyprus",
-                "india",
-                "singapore",
-                "saudi arabia",
-                "maldives",
-                "japan",
-                "united arab emirates",
-                "malaysia",
-                "china",
-                "south korea",
-                "north korea",
-                "taiwan",
-                "thailand",
-                "pakistan",
-                "mongolia",
-                "brunei",
-                "lebanon",
-                "indonesia",
-                "kyrgyzstan",
-                "syria",
-                "israel",
-                "bhutan",
-                "iran",
-                "turkey",
-                "armenia",
-                "qatar",
-                "philippines",
-                "kazakhstan",
-                "iraq",
-                "bangladesh",
-                "laos",
-                "vietnam",
-                "timor-leste",
-                "kuwait",
-                "myanmar",
-                "azerbaijan",
-                "jordan",
-                "nepal",
-                "sri lanka",
-                "uzbekistan",
-                "turkmenistan",
-                "macau",
-                "bahrain",
-                "cambodia",
-                "tajikistan"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "860ff5544dc9b6703e509027c8221590",
-            "title": "‘Bachelor in Paradise’ season 10 premieres with new location and star-studded cast: When and where to watch",
-            "link": "http://economictimes.indiatimes.com/news/international/us/bachelor-in-paradise-season-10-premieres-with-new-location-and-star-studded-cast-when-and-where-to-watch/articleshow/122286858.cms",
-            "keywords": null,
-            "creator": null,
-            "description": "Bachelor in Paradise is set to return for its tenth season. The show will premiere on July 7, 2025, on ABC. This season moves to Costa Rica. Jesse Palmer will host, with Wells Adams as bartender. Hannah Brown joins as Head of Paradise Relations. The cast includes contestants from The Bachelor, The Bachelorette, and The Golden Bachelor series.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-07-07 01:26:27",
-            "pubDateTZ": "UTC",
-            "image_url": "https://img.etimg.com/thumb/msid-122286872,width-1200,height-630,imgsize-15076,overlay-economictimes/articleshow.jpg",
-            "video_url": null,
-            "source_id": "economictimes_indiatimes",
-            "source_name": "The Economic Times",
-            "source_priority": 231,
-            "source_url": "https://economictimes.indiatimes.com",
-            "source_icon": "https://n.bytvi.com/economictimes_indiatimes.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "4241dc267b1d6dc96e87b2572a5ab0f6",
-            "title": "पाली में मातमी माहौल में निकाला मोहर्रम का जुलूस:कर्बला के शहीदों को किया याद, रात 10 बजे बाद पहुंचे मुकाम पर",
-            "link": "https://www.bhaskar.com/local/rajasthan/pali/news/moharram-procession-took-place-in-a-mourning-atmosphere-in-pali-135390869.html",
-            "keywords": null,
-            "creator": null,
-            "description": "पाली शहर में रविवार को मुस्लिम समाज की ओर गमगीन माहौल में मोहर्रम का जुलूस निकाला गया। पूरे रास्ते जोश से लबरेज युवा या हुसैन... या हुसैन के नारे लगाते हुए ढोल-नगाड़े बजाते हुए चल रहे थे। शहनाई की मातमी धुन बजाकर कर्बला के शहीद हजरत इमाम हुसैन व अब्बास अलमदार की शहादत को याद दिलाकर माहौल को गमगीन कर दिया। मोहर्रम दोपहर को धीरे-धीरे अपने मुकाम की ओर बढ़े जो रात करीब 10 बजे बाद एक एक कर नवलखा रोड जाहिर हुसैन मार्ग पहुंचे। जहां आयोजित सम्मान समारोह में अभी अखाड़ों के उस्तादों, लाइसेंसदारों को सम्मानित किया गया। इसके साथ ही कोतवाल अनिल कुमार, सीआई अनिता रानी को भी माला साफा पहनाकर सम्मानित किया गया। यहां बड़ी संख्या में मोमिनों की भीड़ लगी रही। Co सिटी उषा यादव के नेतृत्व में भारी पुलिस जाप्ता सुरक्षा में तैनात रहा। पाली जिला मुस्लिम समाज के जॉइंट सैक्रेटरी हसन भाटी ने बताया मोमिनों ने हजरत इमाम हुसैन की शहादत की याद में रोजा रख कर इबादत के लिए मस्जिदों की ओर रुख किया। शहर की मस्जिदों में जगह-जगह तकरीर, नात ख्वानी पढ़ी गई। महिलाओं ने घरों में मिलाद व तकरीरी मजलिसे सजाई। मोमिनों ने मस्जिदों में जिक्रे इमाम हुसैन कर के जंगनामा पढ़ा। तिलावते कुरान किया एवं नमाज अदा कर शहीदों को खिराजे अकीदत पेश की। मोहर्रम इंतजामिया कमेटी के मेला संयोजक मोहम्मद रफीक अब्बासी ने बताया की जुलूस में अखाड़ा मीर अजीम घोसीवाड़ा लाइसेंसदार सलमान रोशन अली मोयल व उस्ताद चांद मोहम्मद घोसी अखाड़ा शेख चिराग के लाइसेंसदार हाजी फकीर मोहम्मद चढ़वा, जंगीवाड़ा के लाइसेंसदार हाजी गुलाम नबी, पिंजारा भेरूघाट के अब्दुल सत्तार पठान, मोहम्मद फारूक पठान की कयादत में अखाड़े के शागिर्दों ने हैरत अंगेज करतबों का प्रदर्शन किया। जिसमें डान पट्‌टा, लकड़ी की चाल, शमशीर चलना, तलवार का वार और ढाल का बचाव प्रमुख रूप से रहे। इस दौरान आमजन में शर्बत का वितरण किया गया। अखाड़ों के पट्टों ने अली का लश्कर या इमाम या हुसैन... जैसे जोशीले नारे लगाकर कर्बला के मंजर की याद ताजा करवा दी।मुस्लिम समाज कार्यक्रम संयोजक शकील अहमद नागौरी ने बताया इस दौरान मोहर्रम आहिस्ता आहिस्ता इंच दर इंच अपने मकाम की और बढ़ता गया।केरिया दरवाजा से जाकिर हुसैन रोड 7-8 घंटे में तय हो सका। रास्तों में मोहर्रम के नीचे से गुजरने की होड़ मची रही। जगह-जगह श्रद्धा अनुसार मोहर्रम पर फूल माला ,नोटों के सेहरा, सूखे मेवों के सेहरा, मिठाई का नजराना पेश कर हजरत इमाम हुसैन से लोगों ने परिवार की खुशहाली की दुआ की। पाली जिला मुस्लिम समाज सदर मोहम्मद हकीम, हाजी मेहबूब टी, मोहम्मद सलीम मिस्कीन, राजू भाई रंगरेज, मेहबूब भाई धानवाला, हाजी युनश मोगी, हाजी रियाज अली, हाजी मोहम्मद अल्ताफ, हाजी याकूब, पाली शहर मोहर्रम इंतजामिया कमेटी के मेला संयोजक मोहम्मद रफीक अब्बासी, सदर अजीज फौजदार, सचिव जाहिद गोरी, जावेद सिरोहा ,तारिक अली चूडिगर, हाजी हारन अली रंगरेज, राजू नवाब, मेहराज अली, अनवर भाई सोजतवाला, रमजान सामरिया, यासीन रॉयल, यासीन शबावत ,अस्कर कुरैशी , अकरम अजमेरी , फारूक रंगीला ,अकरम शाह , यासीन लोहार , आबिद चढ़वा , शेर मोहम्मद कुरैशी , मकसूद अली , इमरान शेख , राजू रंगरेज, आमीन अली रंगरेज, तालिब अली, अकरम खिलेरी, पार्षद प्रतिनिधि मोहसिन खत्री, शहजाद शेख, हाजी इंसाफ सोलंकी आदि जुटे नजर आए। धीरे-धीरे मोहर्रम पहुंचे मुकाम पहुंचे मोहर्रम पीठ का मोहर्रम बादशाह का झण्डा पहुंचने पर मोहर्रम चुड़ीगर भी चुडीगर मोहल्ला से लाइसेन्सदार मोहम्मद शाहिद पिनु के नेतृत्व में मुथों का बास से होकर पीठ के मोहर्रम के साथ होकर गजानन्द मार्ग ,माणकजी के नोहरे के पास होते हुए जंगीवाड़ा पहुंचा। इस अवसर पर मुस्लिम समाज के लोगों ने जगह-जगह दूध, ,शर्बत, छबील, मिठाई, हलीम व तरह-तरह के पकवान बना कर लोगों को शिरणी के रूप में तकसीम किया। मुस्लिम समाज के लोगों ने जगह-जगह अखाड़ों के लाइसेन्सदार जहां दूसरी तरफ मोहर्रम खेरादियांन लाईसेंसदार मोहम्मद इकबाल खैरादी नवलखा रोड से चलकर सिपाहियों का बास, भिश्ती गली, गुलजार चौक,गांछों का बास होकर जंगीवाड़ा पहुच कर पलटन के मोहर्रम के लाईसेंसदार मोहम्मद इल्यास कुरैशी साथ होकर पीठ के मोहर्रम चुड़ीगर मोहर्रम के साथ होकर जंगीवाड़ा चौक,बोम्बे फेल्टसे होकर डागाजी के मकान दाल मिल होकर पुराना बस स्टैंड, नवलखा रोड होते हुए जाकिर हुसैन चौक पहुंचे। जहां दूसरी तरफ जूनी पाली का मोहर्रम लाईसेंसदार मोहम्मद मोहम्मद सलीम पिंजारा सोमनाथ रोड प्यारा चौक होकर जाकिर हुसैन चौक पहुंचकर सम्पन्न हुआ।",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-07-07 01:26:21",
-            "pubDateTZ": "UTC",
-            "image_url": "https://images.bhaskarassets.com/thumb/1000x1000/web2images/521/2025/07/07/1002336174_1751851118.jpg",
-            "video_url": null,
-            "source_id": "bhaskar_hindi",
-            "source_name": "Bhaskar",
-            "source_priority": 34179,
-            "source_url": "https://www.bhaskar.com",
-            "source_icon": "https://n.bytvi.com/bhaskar_hindi.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "domestic",
-                "other"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "2d641fadb5e4b9c2171ad64e9aed6d31",
-            "title": "Justin Bieber shares heartwarming video of him playing with baby son Jack, melts fans' hearts: Watch",
-            "link": "https://www.dnaindia.com/hollywood/report-justin-bieber-shares-heartwarming-video-of-him-playing-with-baby-son-jack-melts-fans-hearts-watch-3166204",
-            "keywords": [
-                "entertainment",
-                "hollywood"
-            ],
-            "creator": [
-                "Manisha Chauhan"
-            ],
-            "description": "Justin also gave fans a glimpse into his lakeside family vacation, posting several photos with his wife Hailey and 10-month-old Jack, enjoying time together outdoors.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-07-07 01:26:12",
-            "pubDateTZ": "UTC",
-            "image_url": "https://cdn.dnaindia.com/sites/default/files/styles/third/public/2025/07/07/2708840-fotojet-2025-07-07t065514.590-1.jpg",
-            "video_url": null,
-            "source_id": "dnaindia",
-            "source_name": "Dna",
-            "source_priority": 18388,
-            "source_url": "https://www.dnaindia.com",
-            "source_icon": "https://n.bytvi.com/dnaindia.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "entertainment"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "26ea6b4814ab83fbb08a817d56928b74",
-            "title": "Controllers Conference: राजनाथ सिंह आज करेंगे नियंत्रक सम्मलेन का उद्घाटन, रक्षा वित्त सुधारों पर होगा मंथन",
-            "link": "https://www.amarujala.com/india-news/controllers-conference-2025-in-delhi-updates-defence-minister-rajnath-singh-address-hindi-news-2025-07-07",
-            "keywords": null,
-            "creator": null,
-            "description": "Controllers Conference: राजनाथ सिंह आज करेंगे नियंत्रक सम्मलेन का उद्घाटन, रक्षा वित्त सुधारों पर होगा मंथन, Controllers conference 2025 in delhi updates defence minister rajnath singh address hindi news",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-07-07 01:26:07",
-            "pubDateTZ": "UTC",
-            "image_url": "https://staticimg.amarujala.com/assets/images/2025/07/07/defence-minister-rajnath-singh_f7634b3d8b3405798473fcc811673ae3.jpeg?dpr=1.0&w=750",
-            "video_url": null,
-            "source_id": "amarujala",
-            "source_name": "Amar Ujala",
-            "source_priority": 55215,
-            "source_url": "https://www.amarujala.com",
-            "source_icon": "https://n.bytvi.com/amarujala.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "bed857350ca16c76bb226f703ede39ab",
-            "title": "Hyderabad : इनामगुडा के पास तेज रफ्तार ट्रक ने परिवार को कुचला",
-            "link": "https://jantaserishta.com/local/telangana/hyderabad-a-speeding-truck-crushed-a-family-near-inamguda-4131292",
-            "keywords": [
-                "भारत,राज्य,तेलंगाना"
-            ],
-            "creator": [
-                "Dolly"
-            ],
-            "description": null,
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-07-07 01:26:03",
-            "pubDateTZ": "UTC",
-            "image_url": "https://jantaserishta.com/h-upload/2025/07/07/4729793-14.webp",
-            "video_url": null,
-            "source_id": "jantaserishta",
-            "source_name": "Janta Se Rishta",
-            "source_priority": 81836,
-            "source_url": "https://jantaserishta.com",
-            "source_icon": "https://n.bytvi.com/jantaserishta.jpg",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "0a0ad6ad908842c3fd4c76b654da076f",
-            "title": "सिंह राश‍िफल 07 जुलाई: आर्थिक स्थिति में सुधार होगा, जानें कैसा रहेगा दिन",
-            "link": "https://www.aajtak.in/religion/rashiphal/video/leo-horoscope-today-aaj-07-july-2025-ka-singh-rashifal-in-hindi-monday-2281008-2025-07-07",
-            "keywords": null,
-            "creator": null,
-            "description": "सिंह राशि (Leo Horoscope): परिवार से जुड़ी समस्या हल होगी, आर्थिक स्थिति में सुधार होगा, कोर्ट केस में सफलता मिलेगी. अन्य राशियों का हाल जानने के लिए नीचे क्लिक करें 'राशिफल'.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-07-07 01:26:02",
-            "pubDateTZ": "UTC",
-            "image_url": "https://akm-img-a-in.tosshub.com/aajtak/images/video/202507/686a463e84435-leo-horoscope-06473719-16x9.png",
-            "video_url": null,
-            "source_id": "aajtak",
-            "source_name": "Aaj Tak",
-            "source_priority": 20158,
-            "source_url": "http://aajtak.in",
-            "source_icon": "https://n.bytvi.com/aajtak.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "other"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "1104d2f132e43d45e1444fd9b1bc35ae",
-            "title": "Delhi Rain: दिल्ली में मौसम ने ली करवट, मूसलाधार बारिश से भीगा पूरा एनसीआर",
-            "link": "https://www.jansatta.com/national/delhi-ncr-rain-weather-forecast-dilli-ka-mausam-rainfall-in-noida-gurugram/4034531/",
-            "keywords": null,
-            "creator": [
-                "Jansatta"
-            ],
-            "description": null,
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-07-07 01:25:58",
-            "pubDateTZ": "UTC",
-            "image_url": "https://www.jansatta.com/wp-content/uploads/2025/07/dilli-ki-barish.jpg",
-            "video_url": null,
-            "source_id": "jansatta",
-            "source_name": "Jansatta",
-            "source_priority": 385929,
-            "source_url": "https://www.jansatta.com",
-            "source_icon": "https://n.bytvi.com/jansatta.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "8a04f62e8c4ca4aeef2994063ad65432",
-            "title": "कलेक्टरों को नवाचार केंद्र के लिए कर्मचारियों की नियुक्ति का अधिकार दिया गया",
-            "link": "https://jantaserishta.com/local/andhra-pradesh/collectors-authorised-to-depute-staff-for-innovation-hub-4131291",
-            "keywords": [
-                "आंध्र प्रदेश,राज्य"
-            ],
-            "creator": [
-                "Subhi"
-            ],
-            "description": null,
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-07-07 01:25:47",
-            "pubDateTZ": "UTC",
-            "image_url": "https://jantaserishta.com/h-upload/2025/07/07/4729794-11.avif",
-            "video_url": null,
-            "source_id": "jantaserishta",
-            "source_name": "Janta Se Rishta",
-            "source_priority": 81836,
-            "source_url": "https://jantaserishta.com",
-            "source_icon": "https://n.bytvi.com/jantaserishta.jpg",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "071621d975fde6331f537d25037ed217",
-            "title": "Capricorn Horoscope Today, July 7th, 2025",
-            "link": "https://www.news18.com/astrology/capricorn-daily-horoscope-today-makara-rashifal-astrological-predictions-on-may-july-7th-2025-ws-e-9422264.html",
-            "keywords": [
-                "latest"
-            ],
-            "creator": null,
-            "description": "Capricorn Daily Horoscope, July 7th, 2025: Financial gains and rising income bring success. Property may benefit you — plan big moves today, and keep your confidence high.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-07-07 01:25:36",
-            "pubDateTZ": "UTC",
-            "image_url": "https://images.news18.com/ibnlive/uploads/2025/07/image-2025-07-02a8ad7c3964b825cfdc86ab52bed5fc-3x2.jpg",
-            "video_url": null,
-            "source_id": "news18",
-            "source_name": "News 18",
-            "source_priority": 1063,
-            "source_url": "https://www.news18.com",
-            "source_icon": "https://n.bytvi.com/news18.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "a2e074549ebce1a5e3640af483e77548",
-            "title": "10 जुलाई से पहले करें सोयाबीन की बुवाई, वरना होगा भारी नुकसान",
-            "link": "https://hindi.news18.com/news/agriculture/farmers-should-sow-soybean-before-july-10-or-else-there-will-be-huge-losses-know-agriculture-expert-advice-local18-9371978.html",
-            "keywords": [
-                "मध्य प्रदेश"
-            ],
-            "creator": [
-                "Anuj Singh"
-            ],
-            "description": "Agriculture News: सागर में मानसून देरी से सक्रिय हुआ, जिससे सोयाबीन बुवाई प्रभावित हुई. कृषि विज्ञान केंद्र ने किसानों को 10 जुलाई तक बुवाई पूरी करने की सलाह दी है.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-07-07 01:25:29",
-            "pubDateTZ": "UTC",
-            "image_url": "https://images.news18.com/ibnkhabar/uploads/2025/07/HYP_5290041_1751826331462_2.jpg",
-            "video_url": null,
-            "source_id": "hindinews18",
-            "source_name": "News 18 Hindi",
-            "source_priority": 4077,
-            "source_url": "https://hindi.news18.com",
-            "source_icon": "https://n.bytvi.com/hindinews18.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "ffbc00e1f01b5c7d50e121dee351ea42",
-            "title": "तुला राशिफल 7 जुलाई: तुला राशि वालों के लिए कैसा रहेगा 7 जुलाई का दिन? पढ़ें विस्तृत राशिफल",
-            "link": "https://www.livehindustan.com/astrology/today-libra-horoscope-7-july-2025-aaj-ka-tula-rashifal-future-predictions-201751850680972.html",
-            "keywords": [
-                "astrology"
-            ],
-            "creator": null,
-            "description": "Libra Horoscope Today Tula Rashi Ka Rashifal Horoscope : राशि चक्र की यह सातवीं राशि है। जिन जातकों के जन्म समय में चन्द्रमा तुला राशि में गोचर कर रहा होता है, उनकी राशि तुला मानी जाती है। आइए जानते हैं, तुला राशि वालों के लिए कैसा रहेगा आज का दिन...",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-07-07 01:25:28",
-            "pubDateTZ": "UTC",
-            "image_url": "https://www.livehindustan.com/lh-img/smart/img/2025/07/07/1200x900/today_libra_horoscope_1726012979491_1751850752124.jpeg",
-            "video_url": null,
-            "source_id": "livehindustan",
-            "source_name": "Hindustan",
-            "source_priority": 127332,
-            "source_url": "https://www.livehindustan.com",
-            "source_icon": "https://n.bytvi.com/livehindustan.jpg",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "other"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "55239dd3f7fcf662fa2df976c19d0d1a",
-            "title": "Heavy Rain Lashes Parts Of Delhi-NCR, IMD Issues Yellow Alert For Today",
-            "link": "https://www.news18.com/india/heavy-rain-lashes-parts-of-delhi-ncr-imd-issues-yellow-alert-for-today-9424776.html",
-            "keywords": [
-                "india"
-            ],
-            "creator": null,
-            "description": "Delhi Weather: The weather department has predicted more rain for Delhi-NCR for July 7 and also issued a yellow alert.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-07-07 01:25:17",
-            "pubDateTZ": "UTC",
-            "image_url": "https://images.news18.com/ibnlive/uploads/2025/05/delhi-rains-2025-05-eb86fa23a962d2b8e4ad2ba98cf3e0c9-3x2.jpg",
-            "video_url": null,
-            "source_id": "news18",
-            "source_name": "News 18",
-            "source_priority": 1063,
-            "source_url": "https://www.news18.com",
-            "source_icon": "https://n.bytvi.com/news18.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "d6a1db65fb8cc0b7e65be88bc46c9337",
-            "title": "After expressing disappointment post Prefontaine Classic victory Sydney McLaughlin-Levrone set to compete in 400m once again",
-            "link": "https://www.sportskeeda.com/us/olympics/news-after-expressing-disappointment-post-prefontaine-classic-victory-sydney-mclaughlin-levrone-set-compete-400m",
-            "keywords": [
-                "olympics"
-            ],
-            "creator": [
-                "Animesh Pandey"
-            ],
-            "description": "Sydney McLaughlin-Levrone is not the one to give up.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-07-07 01:25:02",
-            "pubDateTZ": "UTC",
-            "image_url": null,
-            "video_url": null,
-            "source_id": "sportskeeda",
-            "source_name": "Sportskeeda",
-            "source_priority": 1040,
-            "source_url": "http://sportskeeda.com",
-            "source_icon": "https://n.bytvi.com/sportskeeda.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "sports"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "ea204eb2074092cdc4608890b6ab4f43",
-            "title": "Top 4 On-Ear Wireless Headphones to Upgrade Your Sound Game on Amazon - Zee News",
-            "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNQ2hoaHVPS3VSSjRyTnFNOENsemtHNW42eHpKYjNITXgzTTlpSThyYTYxNVREcVBIa0lhU1RlNXpIcnhHZWIzSERjUkdHTU9sVzlhZ2xmaExSak5Ob1NfcW4xc09MOURYRkM3eVRaMkdkaVBCZVZzMTg2aVQ1MjVOSGJXcEVDenZ2Z0RxaGlEMTJPbC1PelRQeVBsdmtQOXNaelBsWFBMNXJEWWd2OTREQ09tSTJZRnFWWDhrZXhaQWpMZUFJVHRnLVFB0gHPAUFVX3lxTFBTdW5GekptcjRuOUVzMVFncEJ5MjRoc3RHOHpRRDNaVHE0czAxdmh3ZXQ5N1VrQVMtZXpPdUtmWjB6VzZCQ1RkeFFYeGJscXlIX3lPV0RYVF9MRHNVanFBUFZFaEJsMEdmSTViNXpXa08xZkdhemZjLVVnYjlIcHk3aFB5Vld2eW1uRExRdTdGY2JVT0x6Vjk0blZmMlNEVjltN0FvbjVEeTh0Sm9sUUhla1ctN1U5Z3hQRE9fek41b3Iwell4TUFkQnliZnYzUQ?oc=5",
-            "keywords": null,
-            "creator": null,
-            "description": "Top 4 On-Ear Wireless Headphones to Upgrade Your Sound Game on Amazon Zee News",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-07-07 01:25:00",
-            "pubDateTZ": "UTC",
-            "image_url": null,
-            "video_url": null,
-            "source_id": "google",
-            "source_name": "Google News",
-            "source_priority": 14,
-            "source_url": "https://news.google.com",
-            "source_icon": "https://n.bytvi.com/google.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "technology"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "b6d54d24e90465b6f5e34becd77e16fe",
-            "title": "PAK का एक और ढोंग आया सामने, कभी जिस सैनिक की डेड बॉडी लेने से किया था इनकार; अब उसे बता रहा शहीद",
-            "link": "https://zeenews.india.com/hindi/world/pakistan-china/pakistan-paid-tribute-to-captain-karnal-sher-khan-shaheed-on-hi-martyrdom-anniversary-1999-kargil-war/2829184",
-            "keywords": null,
-            "creator": [
-                "Zee News Hindi"
-            ],
-            "description": "Kargil War Story: साल 1999 में कारगिल युद्ध के दौरान जब द्रास सब सेक्टर में टाइगर हिल में कैप्टन कैप्टन करनाल शेर खान का शव मिला था, लेकिन तब पाकिस्तान ने इसे लेने से मना कर दिया था, क्योंकि तब पाकिस्तान ने कारगिल की हिमाकत में अपने नियमित सैनिकों के शामिल होने से इनकार किया था.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-07-07 01:24:45",
-            "pubDateTZ": "UTC",
-            "image_url": "https://english.cdn.zeenews.com/static/public/updated_logos/Zee_Zeenewshindi.svg",
-            "video_url": null,
-            "source_id": "zeenews",
-            "source_name": "Zee News",
-            "source_priority": 5319,
-            "source_url": "http://zeenews.india.com",
-            "source_icon": "https://n.bytvi.com/zeenews.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "fcc1220d04cd47a3d36186413a6594e0",
-            "title": "Thane News: Kalyan Police Return 71 Lost Or Stolen Phones Worth ₹12.28 Lakh To Owners",
-            "link": "https://www.freepressjournal.in/mumbai/thane-news-kalyan-police-return-71-lost-or-stolen-phones-worth-1228-lakh-to-owners",
-            "keywords": null,
-            "creator": null,
-            "description": null,
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-07-07 01:24:38",
-            "pubDateTZ": "UTC",
-            "image_url": "https://media.assettype.com/freepressjournal/2025-07-07/h3mo5jn8/IMG-20250706-WA0028.jpg?width=1200",
-            "video_url": null,
-            "source_id": "freepressjournal",
-            "source_name": "The Free Press Journal",
-            "source_priority": 26427,
-            "source_url": "https://www.freepressjournal.in",
-            "source_icon": "https://n.bytvi.com/freepressjournal.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "2d3c032e3b8284aaf71156638e975b89",
-            "title": "Power, Care, Mobility To Drive India’s Economy To $9.82 Trillion By 2035: Report",
-            "link": "https://www.news18.com/business/power-care-mobility-to-drive-indias-economy-to-9-82-trillion-by-2035-report-ws-dkl-9424773.html",
-            "keywords": [
-                "business"
-            ],
-            "creator": null,
-            "description": "The PwC report titled \"Navigating the Value Shift\" claims that by concentrating on nine growth domains, Indian businesses can reach $9.82 trillion in GVA by 2035.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-07-07 01:24:29",
-            "pubDateTZ": "UTC",
-            "image_url": "https://images.news18.com/ibnlive/uploads/2025/03/indian-economy-gdp-2025-03-89680b08fb9df5a240b5d311b1c62bd3-3x2.jpg",
-            "video_url": null,
-            "source_id": "news18",
-            "source_name": "News 18",
-            "source_priority": 1063,
-            "source_url": "https://www.news18.com",
-            "source_icon": "https://n.bytvi.com/news18.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "business"
             ],
             "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
             "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
