@@ -1,6 +1,683 @@
 {
     "articles": [
         {
+            "article_id": "16dbdb45555a6d9b0fdeff8380c943ab",
+            "title": "ग्रेटर नोएडा: पार्क के फव्वारे में डूबा बच्चा",
+            "link": "https://www.aajtak.in/short-videos/video/greater-noida-5-year-old-boy-drowns-in-fountain-during-playing-at-park-vtp-2282326-2025-07-08",
+            "keywords": null,
+            "creator": null,
+            "description": "उत्तर प्रदेश के ग्रेटर नोएडा के एक पार्क में फव्वारे में सोमवार शाम पांच वर्षीय बच्चा डूब गया. जिससे उसकी मौत हो गई. इस बात की जानकारी एक पुलिस अधिकारी ने दी. घटना ग्रेटर नोएडा के सेक्टर पी-3 के डी ब्लॉक में हुई. मृत बच्चे की पहचान पृथ्वी के रूप में हुई है.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-07-08 05:10:58",
+            "pubDateTZ": "UTC",
+            "image_url": "https://akm-img-a-in.tosshub.com/aajtak/images/video/202507/686ca79b5baad-greater-noida-news-080733571-16x9.jpg",
+            "video_url": null,
+            "source_id": "aajtak",
+            "source_name": "Aaj Tak",
+            "source_priority": 20158,
+            "source_url": "http://aajtak.in",
+            "source_icon": "https://n.bytvi.com/aajtak.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "f1588ab97243286b5cb1ec4ed612b8da",
+            "title": "Telangana: पुलिस ने 15 लाख रुपये से अधिक मूल्य के मोबाइल फोन बरामद किए",
+            "link": "https://jantaserishta.com/local/telangana/police-recover-mobile-phones-worth-over-rs-15-lakh-4133931",
+            "keywords": [
+                "राज्य,तेलंगाना"
+            ],
+            "creator": [
+                "Subhi"
+            ],
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-07-08 05:10:56",
+            "pubDateTZ": "UTC",
+            "image_url": "https://jantaserishta.com/h-upload/2025/07/08/4732769-11.webp",
+            "video_url": null,
+            "source_id": "jantaserishta",
+            "source_name": "Janta Se Rishta",
+            "source_priority": 81836,
+            "source_url": "https://jantaserishta.com",
+            "source_icon": "https://n.bytvi.com/jantaserishta.jpg",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "d0315d6064c2dc83637173dbd7c57f46",
+            "title": "चाचा से लड़ाई के बाद भतीजे ने किया सुसाइड",
+            "link": "https://jantaserishta.com/local/chhattisgarh/nephew-commits-suicide-after-fighting-with-uncle-4133929",
+            "keywords": [
+                "छत्तीसगढ़,top news,राज्य"
+            ],
+            "creator": [
+                "Nilmani Pal"
+            ],
+            "description": "छग",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-07-08 05:10:51",
+            "pubDateTZ": "UTC",
+            "image_url": "https://jantaserishta.com/h-upload/2025/07/08/4732770-untitled-21-copy.webp",
+            "video_url": null,
+            "source_id": "jantaserishta",
+            "source_name": "Janta Se Rishta",
+            "source_priority": 81836,
+            "source_url": "https://jantaserishta.com",
+            "source_icon": "https://n.bytvi.com/jantaserishta.jpg",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "ccc04f0389b1d5493e7fb9179a0ba623",
+            "title": "Siemens Energy shares rally over 3% after Jefferies initiates coverage with buy, sees 13% upside",
+            "link": "https://economictimes.indiatimes.com/markets/stocks/news/siemens-energy-shares-rally-over-3-after-jefferies-initiates-coverage-with-buy-sees-13-upside/articleshow/122311743.cms",
+            "keywords": null,
+            "creator": null,
+            "description": "Siemens Energy shares: In its initiation report, Jefferies described Siemens Energy India as a “Power Capex Play,” projecting a 50% CAGR in earnings per share from September 2024 to September 2027. The brokerage also anticipates a 34% CAGR in revenue during this period, driven by a significant rise in domestic power infrastructure investment.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-07-08 05:10:49",
+            "pubDateTZ": "UTC",
+            "image_url": "https://img.etimg.com/thumb/msid-122311731,width-1200,height-630,imgsize-32108,overlay-etmarkets/articleshow.jpg",
+            "video_url": null,
+            "source_id": "economictimes_indiatimes",
+            "source_name": "The Economic Times",
+            "source_priority": 231,
+            "source_url": "https://economictimes.indiatimes.com",
+            "source_icon": "https://n.bytvi.com/economictimes_indiatimes.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "business"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "9b37e9f75ab425ae276739e0f268ef29",
+            "title": "Bihar Sakshamta Pariksha: तृतीय चरण की परीक्षा तिथि घोषित, फेल अभ्यर्थियों को बिना आवेदन मिलेगा दोबारा मौका",
+            "link": "https://www.amarujala.com/education/bihar-sakshamta-exam-2025-phase-3-from-july-23-to-25-applications-for-phase-4-and-5-from-july-12-2025-07-08",
+            "keywords": null,
+            "creator": null,
+            "description": "Bihar Sakshamta Pariksha: बिहार विद्यालय परीक्षा समिति ने शिक्षकों की सक्षमता परीक्षा, 2025 तृतीय के आयोजन की घोषणा कर दी है।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-07-08 05:10:48",
+            "pubDateTZ": "UTC",
+            "image_url": "https://staticimg.amarujala.com/assets/images/2025/06/20/exam_15621b52e373258dabb2c67dbb31f362.jpeg?dpr=1.0&w=750",
+            "video_url": null,
+            "source_id": "amarujala",
+            "source_name": "Amar Ujala",
+            "source_priority": 55215,
+            "source_url": "https://www.amarujala.com",
+            "source_icon": "https://n.bytvi.com/amarujala.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "c0c367f809b022ed97d52dfb5d9d6734",
+            "title": "Flash Flood Sweeps Nepal-China Bridge and Vehicles in Rasuwa",
+            "link": "https://www.deccanchronicle.com/world/neighbours/flash-flood-sweeps-nepal-china-bridge-and-vehicles-in-rasuwa-1890119",
+            "keywords": [
+                "world,neighbours,top stories"
+            ],
+            "creator": [
+                "ANI"
+            ],
+            "description": "The flooding, triggered by heavy rainfall in Chinese territory, struck the border area early Tuesday morning, damaging infrastructure in the Timure area on the Nepali side",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-07-08 05:10:46",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.deccanchronicle.com/h-upload/2025/07/08/1935842-ani-20250708030951.webp",
+            "video_url": null,
+            "source_id": "deccanchronicle",
+            "source_name": "Deccan Chronicle",
+            "source_priority": 21568,
+            "source_url": "https://www.deccanchronicle.com",
+            "source_icon": "https://n.bytvi.com/deccanchronicle.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "e0f49efcc45c64296b785f827518b0a0",
+            "title": "Apple, माइक्रोसॉफ्ट के छूटे पसीने, अब इस कंपनी का राज, 3.92 ट्रिलियन डॉलर का मार्केट कैप",
+            "link": "https://www.prabhatkhabar.com/business/nvidia-becomes-worlds-most-valuable-company-surpasses-apple-microsoft-with-3-92-trillion-market-cap",
+            "keywords": [
+                "business",
+                "nvidia",
+                "microsoft",
+                "business news"
+            ],
+            "creator": [
+                "Abhishek Pandey"
+            ],
+            "description": "Nvidia ने इतिहास रचते हुए 3.92 ट्रिलियन डॉलर के मार्केट कैप के साथ Apple और Microsoft को पीछे छोड़ दिया है. AI चिप्स की बढ़ती मांग और वॉल स्ट्रीट के भरोसे ने इसे दुनिया की सबसे मूल्यवान कंपनी बना दिया है.The post Apple, माइक्रोसॉफ्ट के छूटे पसीने, अब इस कंपनी का राज, 3.92 ट्रिलियन डॉलर का मार्केट कैप appeared first on Prabhat Khabar.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-07-08 05:10:44",
+            "pubDateTZ": "UTC",
+            "image_url": null,
+            "video_url": null,
+            "source_id": "prabhatkhabar",
+            "source_name": "Prabhat Khabar",
+            "source_priority": 343253,
+            "source_url": "https://www.prabhatkhabar.com",
+            "source_icon": "https://n.bytvi.com/prabhatkhabar.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "business"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "0394bcba4c91692e12be89ff8dfd8afb",
+            "title": "Odisha : ड्राइवरों ने आज से अनिश्चितकालीन \"स्टियरिंग डाउन\" हड़ताल की घोषणा की",
+            "link": "https://jantaserishta.com/local/odisha/odisha-drivers-announce-indefinite-steering-down-strike-from-today-4133930",
+            "keywords": [
+                "राज्य,ओडिशा"
+            ],
+            "creator": [
+                "Kavita2"
+            ],
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-07-08 05:10:40",
+            "pubDateTZ": "UTC",
+            "image_url": "https://jantaserishta.com/h-upload/2025/07/08/4732768-untitled-43-copy.webp",
+            "video_url": null,
+            "source_id": "jantaserishta",
+            "source_name": "Janta Se Rishta",
+            "source_priority": 81836,
+            "source_url": "https://jantaserishta.com",
+            "source_icon": "https://n.bytvi.com/jantaserishta.jpg",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "6915e0a3fbbfa47ccf479b71621dc65a",
+            "title": "दुर्ग यूनिवर्सिटी की वेबसाइट हैक, दिखा धमकी भरा मैसेज:हैकर्स ने लिखा- अगली बार हमारी सीमाओं पर हमला किया तो...फिर गालियां लिखी",
+            "link": "https://www.bhaskar.com/local/chhattisgarh/durg-bhilai/news/durg-university-website-hacked-threatening-message-shown-135398915.html",
+            "keywords": null,
+            "creator": null,
+            "description": "दुर्ग के हेमचंद यादव विश्वविद्यालय (दुर्ग यूनिवर्सिटी) की आधिकारिक वेबसाइट को सोमवार देर रात अज्ञात हैकर्स ने हैक कर लिया। इस साइबर हमले में वेबसाइट पर कुछ समय के लिए अंग्रेजी में अपशब्दों भरा एक मैसेज दिखा। मैसेज में धमकी दी गई थी कि, “अगली बार अगर तुमने हमारी सीमाओं या साइबर स्पेस पर हमला करने की कोशिश की, तो हम तुम्हें ऐसी...(अपशब्द)। कुछ देर में सामान्य स्थिति में आई वेबसाइट संदेश में भारत-पाकिस्तान सीमा पर हमले का जिक्र होने के कारण संदेह जताया जा रहा है कि यह हमला पाकिस्तानी हैकर्स द्वारा किया गया हो सकता है। हालांकि कुछ ही देर में वेबसाइट सामान्य स्थिति में आ गई। हेमचंद यूनिवर्सिटी के रजिस्ट्रार भूपेंद्र कुलदीप ने बताया कि वेबसाइट हैंग हो गया था। हमने शटडाउन करके उसे तुरंत 15 मिनट के अंदर रिस्टोर कर भी लिया गया है।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-07-08 05:10:36",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.bhaskarassets.com/thumb/1000x1000/web2images/521/2025/07/08/2b931b38-2c14-48ee-a3fb-837a44548f5e_1751950622.jpg",
+            "video_url": null,
+            "source_id": "bhaskar_hindi",
+            "source_name": "Bhaskar",
+            "source_priority": 34179,
+            "source_url": "https://www.bhaskar.com",
+            "source_icon": "https://n.bytvi.com/bhaskar_hindi.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "domestic",
+                "other"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "acf198d839be59fff51fd6bce53ed72e",
+            "title": "ब्रेन स्ट्रोक से पहले शरीर से मिलते हैं ये 5 संकेत, डॉक्टर से जानें लक्षण-बचाव",
+            "link": "https://hindi.news18.com/news/lifestyle/health-brain-stroke-warning-signs-cause-symptoms-and-cure-brain-stroke-ke-lakshan-in-hindi-as-per-neurosurgeon-doctor-ajay-prajapati-9375598.html",
+            "keywords": [
+                "लाइफ़"
+            ],
+            "creator": [
+                "Lalit Kumar"
+            ],
+            "description": "Symptoms Of Brain Stroke: ब्रेन स्ट्रोक के पहले शरीर में चक्कर आना, सिर दर्द, चलने में परेशानी, हाथ-पैर में कमजोरी, शब्द भूलना जैसे संकेत मिलते हैं. बचाव के लिए स्वस्थ जीवनशैली अपनाएं, व्यायाम करें, नशा छोड़ें.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-07-08 05:10:34",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.news18.com/ibnkhabar/uploads/2025/07/brain-stroke-2025-07-ea63ad7ecea4605c79428ac6a07d752c-3x2.jpg",
+            "video_url": null,
+            "source_id": "hindinews18",
+            "source_name": "News 18 Hindi",
+            "source_priority": 4077,
+            "source_url": "https://hindi.news18.com",
+            "source_icon": "https://n.bytvi.com/hindinews18.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "lifestyle"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "d9612740c08d46e99dab9b159f96b3bf",
+            "title": "Denise Richards and Aaron Phypers file for divorce after nearly seven years of marriage",
+            "link": "https://www.moneycontrol.com/entertainment/denise-richards-and-aaron-phypers-file-for-divorce-after-nearly-seven-years-of-marriage-article-13240788.html",
+            "keywords": [
+                "denise richards, denise richards and  aaron phypers divorce,  aaron phypers and denise richards,"
+            ],
+            "creator": [
+                "Moneycontrol"
+            ],
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-07-08 05:10:32",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.moneycontrol.com/static-mcnews/2025/07/20250708050022_Denise-Richards-and-Aaron-Phypers-file-for-divorce.jpg",
+            "video_url": null,
+            "source_id": "moneycontrol",
+            "source_name": "Moneycontrol",
+            "source_priority": 1039,
+            "source_url": "https://www.moneycontrol.com",
+            "source_icon": "https://n.bytvi.com/moneycontrol.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top",
+                "business",
+                "world",
+                "politics"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "87b20294f5c702da6bab1dd5e456d4b8",
+            "title": "नोएडा-लखनऊ में सस्ता तो पटना में महंगा हुआ पेट्रोल, जानें आपके शहर का रेट",
+            "link": "https://hindi.asianetnews.com/business-news/money-news/petrol-diesel-price-8-july-2025-know-city-wise-fuel-rate-today/articleshow-5ikr0h6",
+            "keywords": [
+                "business news"
+            ],
+            "creator": [
+                "Ganesh Mishra"
+            ],
+            "description": "Petrol-Diesel Rate Today: 8 जुलाई को पेट्रोल-डीजल की कीमतों में मामूली बदलाव। नोएडा-लखनऊ में जहां पेट्रोल सस्ता हुआ है, वहीं पटना में इसके दाम बढ़े हैं। जानते हैं देश के प्रमुख शहरों में आज क्या हैं पेट्रोल-डीजल के रेट।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-07-08 05:10:29",
+            "pubDateTZ": "UTC",
+            "image_url": "https://static-gi.asianetnews.com/images/01jwhyh56h4pz5vmz4j5d0s1g9/petrol-1748654134480.jpg",
+            "video_url": null,
+            "source_id": "hindi_asianetnews",
+            "source_name": "Asianet News Hindi",
+            "source_priority": 7805,
+            "source_url": "https://hindi.asianetnews.com",
+            "source_icon": "https://n.bytvi.com/hindi_asianetnews.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "0b801d2e05acb605737d90ead7178c05",
+            "title": "Jordan Spieth uses Tiger Woods analogy to back Keegan Bradley as potential playing captain for US Ryder Cup: \"I think you throw out the politics\"",
+            "link": "https://www.sportskeeda.com/golf/jordan-spieth-uses-tiger-woods-analogy-back-keegan-bradley-potential-playing-captain-us-ryder-cup-i-think-throw-politics",
+            "keywords": [
+                "golf"
+            ],
+            "creator": [
+                "Sarah Rishama Madaki"
+            ],
+            "description": "Eight-time PGA Tour winner Keegan Bradley has been named the US Ryder Cup captain for the upcoming tournament at Bethpage Black.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-07-08 05:10:28",
+            "pubDateTZ": "UTC",
+            "image_url": null,
+            "video_url": null,
+            "source_id": "sportskeeda",
+            "source_name": "Sportskeeda",
+            "source_priority": 1040,
+            "source_url": "http://sportskeeda.com",
+            "source_icon": "https://n.bytvi.com/sportskeeda.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "sports"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "ded6e6d26dcd3b027d914bea2dcf2cc8",
+            "title": "नेतन्याहू ने ईरान के Nuclear Program को बताया 'ट्यूमर', कहा- हमने उसे हटा दिया",
+            "link": "https://zeenews.india.com/hindi/zeesalaam/muslim-world/israeli-netanyahu-called-iran-nuclear-program-a-tumor-said-a-big-thing/2830741",
+            "keywords": null,
+            "creator": [
+                "Zee News Hindi"
+            ],
+            "description": "Netanyahu on Iran Nuclear Program: इजरायल ने 13 जून को ईरान के Nuclear Program को नष्ट करने के लिए हवाई हमला किया था. इस हमले के बाद ईरान ने भी जवाबी कार्रवाई करते हुए इजरायल पर हमला कर दिया. इस बीच अमेरिका ने भी ईरान पर हमला बोल दिया. इस हमले के बाद दोनों देशों के बीच सीजफायर का ऐलान हो गया.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-07-08 05:10:28",
+            "pubDateTZ": "UTC",
+            "image_url": "https://english.cdn.zeenews.com/static/public/updated_logos/Zee_Zeenewshindi.svg",
+            "video_url": null,
+            "source_id": "zeenews",
+            "source_name": "Zee News",
+            "source_priority": 5319,
+            "source_url": "http://zeenews.india.com",
+            "source_icon": "https://n.bytvi.com/zeenews.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "7bc62a4539b1ce1e8057944520088460",
+            "title": "India News | JK: Horticulture Training Programme Organised in Pargwal to Empower Women and Increase Employment Opportunities",
+            "link": "https://www.latestly.com/agency-news/india-news-jk-horticulture-training-programme-organised-in-pargwal-to-empower-women-and-increase-employment-opportunities-6980443.html",
+            "keywords": null,
+            "creator": null,
+            "description": "Get latest articles and stories on India at LatestLY. The Department of Horticulture Jammu organised a one-day Capacity Building-cum-Training Programme for farmers, especially targeting the empowerment of women at Pargwal under the chairmanship of MLA Akhnoor Mohan Lal.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-07-08 05:10:27",
+            "pubDateTZ": "UTC",
+            "image_url": "https://st1.latestly.com/wp-content/uploads/2025/07/ANI-20250708050134-380x214.jpg",
+            "video_url": null,
+            "source_id": "latestly",
+            "source_name": "Latestly",
+            "source_priority": 31923,
+            "source_url": "https://www.latestly.com",
+            "source_icon": "https://n.bytvi.com/latestly.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "7b008ac258f774952501291b3290d988",
+            "title": "MP Tak hosts ‘Baithak’ in Bhopal with Madhya Pradesh political leaders",
+            "link": "https://www.afaqs.com/companies/mp-tak-hosts-baithak-in-bhopal-with-madhya-pradesh-political-leaders-9472795",
+            "keywords": [
+                "companies"
+            ],
+            "creator": [
+                "afaqs! Content Team"
+            ],
+            "description": "MP Tak, the digital news platform from the India Today Group, is hosting its flagship event ‘MP Tak Baithak’ today in Bhopal. The event brings together key figures from Madhya Pradesh’s political and cultural spheres to discuss governance, development and regional issues.The event features a lineup of speakers including Chief Minister Mohan Yadav, BJP State President Hemant Khandelwal, Urban Development Minister Kailash Vijayvargiya, Leader of Opposition Umang Singhar, Deputy Chief Minister Rajendra Shukla, and Minister of Sports & Cooperation Vishvas Sarang. Also joining the conversation are OBC & Minorities Minister Krishna Gaur, senior Congress leader Laxman Singh, Congress MLA Vikrant Bhuria, and Olympic bronze medalist in hockey Vivek Sagar. Adding a cultural dimension to the Baithak are renowned poets Jani Bairagi and Mahendra Madhur.Commenting on the initiative, Milind Khandekar, managing editor of TAK Channels, said:“MP Tak Baithak reflects our commitment to amplifying voices from the heart of Madhya Pradesh. As a platform rooted in the state’s political and cultural fabric, we aim to facilitate conversations that matter — directly with the key stakeholders. The overwhelming support from our viewers encourages us to create more such spaces that connect policy with people and highlight local issues through credible digital journalism.”afaqs! received this information in a press release.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-07-08 05:10:24",
+            "pubDateTZ": "UTC",
+            "image_url": "https://img-cdn.publive.online/fit-in/1280x960/afaqs/media/media_files/2025/07/08/mptak-2025-07-08-10-38-28.png",
+            "video_url": null,
+            "source_id": "afaqs",
+            "source_name": "Afaqs",
+            "source_priority": 107476,
+            "source_url": "https://www.afaqs.com",
+            "source_icon": "https://n.bytvi.com/afaqs.jpg",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "business"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "9335f07ea64034781e2a133f482eeedc",
+            "title": "CG NEWS: मुख्यमंत्री विष्णु देव साय ट्रेन से सरगुजा के लिए हुए रवाना....",
+            "link": "http://www.dandakaranyasamachar.com/22442",
+            "keywords": null,
+            "creator": [
+                "admin"
+            ],
+            "description": "रायपुर: राजधानी रायपुर से अंबिकापुर तक करेंगे रेल का सफर ट्रेन यात्रा को लेकर उत्साहित दिखे मुख्यमंत्री कहा – ट्रेन की यात्रा हमेशा स्मृतियों को ताजा कर देती है सफर...",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-07-08 05:10:23",
+            "pubDateTZ": "UTC",
+            "image_url": "http://nnsp.in/wp-content/uploads/2025/07/a-1.jpg",
+            "video_url": null,
+            "source_id": "dandakaranyasamachar",
+            "source_name": "दण्डकारण्य समाचार",
+            "source_priority": 21841228,
+            "source_url": "http://www.dandakaranyasamachar.com",
+            "source_icon": null,
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "cd7ad7301c0d42153b4077370fd17725",
+            "title": "CG NEWS: भाजपा सांसदों&विधायकों का तीन दिवसीय प्रशिक्षण शिविर शुरू, मुख्यमंत्री विष्णुदेव साय बोले – शिविर से बढ़ेगा ज्ञान, छत्तीसगढ़ के विकास में होगा सहयोग....",
+            "link": "http://www.dandakaranyasamachar.com/22441",
+            "keywords": null,
+            "creator": [
+                "admin"
+            ],
+            "description": "रायपुर. छत्तीसगढ़ के अंबिकापुर के मैनपाट में आज से सत्तारूढ़ भाजपा के सांसदों और विधायकों के प्रशिक्षण शिविर की शुरुआत होने वाली है. इसमें शामिल होने के लिए सीएम विष्णु...",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-07-08 05:10:23",
+            "pubDateTZ": "UTC",
+            "image_url": "http://nnsp.in/wp-content/uploads/2025/07/AQ-3.jpg",
+            "video_url": null,
+            "source_id": "dandakaranyasamachar",
+            "source_name": "दण्डकारण्य समाचार",
+            "source_priority": 21841228,
+            "source_url": "http://www.dandakaranyasamachar.com",
+            "source_icon": null,
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "ef74b4502904ab9880597646c2e992bb",
+            "title": "CG Cabinet Meeting : विधानसभा सत्र से पहले साय कैबिनेट की बैठक, 11 जुलाई को कई महत्वपूर्ण फैसलों पर लग सकती है मुहर....",
+            "link": "http://www.dandakaranyasamachar.com/22440",
+            "keywords": null,
+            "creator": [
+                "admin"
+            ],
+            "description": "रायपुर. छत्तीसगढ़ विधानसभा के मानसून सत्र से पहले 11 जुलाई को मंत्रिपरिषद की बैठक बुलाई गई है. मुख्यमंत्री विष्णु देव साय की अध्यक्षता में कैबिनेट की बैठक होगी. यह बैठक...",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-07-08 05:10:23",
+            "pubDateTZ": "UTC",
+            "image_url": "http://nnsp.in/wp-content/uploads/2025/07/bbm.jpg",
+            "video_url": null,
+            "source_id": "dandakaranyasamachar",
+            "source_name": "दण्डकारण्य समाचार",
+            "source_priority": 21841228,
+            "source_url": "http://www.dandakaranyasamachar.com",
+            "source_icon": null,
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": true
+        },
+        {
+            "article_id": "62b0b36687c90198d9ace08fc622ba78",
+            "title": "CG NEWS: बस्तर में नक्सल उन्मूलन की अंतिम लड़ाई जारी, सांस्कृतिक विरासत और विकास की ओर बढ़ता छत्तीसगढ़: मुख्यमंत्री विष्णु देव साय....",
+            "link": "http://www.dandakaranyasamachar.com/22439",
+            "keywords": null,
+            "creator": [
+                "admin"
+            ],
+            "description": "रायपुर: छत्तीसगढ़, जो अपनी समृद्ध सांस्कृतिक विरासत, घने वन क्षेत्र और विविध जनजातीय समुदायों के लिए जाना जाता है, लंबे समय से नक्सलवाद की चुनौती से जूझता रहा है। बस्तर...",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-07-08 05:10:23",
+            "pubDateTZ": "UTC",
+            "image_url": "http://nnsp.in/wp-content/uploads/2025/07/aqww.jpg",
+            "video_url": null,
+            "source_id": "dandakaranyasamachar",
+            "source_name": "दण्डकारण्य समाचार",
+            "source_priority": 21841228,
+            "source_url": "http://www.dandakaranyasamachar.com",
+            "source_icon": null,
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": true
+        },
+        {
             "article_id": "e0835732edeb14477ee2517db472d731",
             "title": "जयपुर में 13 साल की बच्ची के अपहरण की कोशिश : पिज्जा-आइसक्रीम का दिया लालच, शोर मचाते ही भाग निकला आरोपी",
             "link": "https://www.khaskhabar.com/local/rajasthan/jaipur-news/news-attempt-to-kidnap-13-year-old-girl-in-jaipur-lured-with-pizza-and-ice-cream-accused-fled-as-soon-as-she-raised-an-alarm-news-hindi-1-734763-KKN.html",
