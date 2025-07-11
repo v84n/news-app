@@ -1,6 +1,806 @@
 {
     "articles": [
         {
+            "article_id": "5f23160f2c906b1bcdb9ae6c1ddfd285",
+            "title": "LG Debuts Next-Generation Precision Medical AI",
+            "link": "https://en.prnasia.com/story/496180-0.shtml",
+            "keywords": [
+                "hea",
+                "mtc",
+                "cpr",
+                "afi"
+            ],
+            "creator": null,
+            "description": "Joint Development Underway: World-Class Precision Medical AI Platform with Vanderbilt University Medical Center SEOUL, South Korea, July 10, 2025 /PRNewswire/ -- LG AI Research announced on July 9 the official launch of 'EXAONE Path 2.0', its next-generation precision medical AI model. Following the introduction of its 1.0 model in August of last year, LG AI Research showcased its 1.5 model last month at ASCO 2025, the world's largest oncology conference, held in Chicago, Illinois. 'EXAONE Path 2.0' represents a substantial advancement from the initial version, incorporating high-quality, real-world data. It offers accurate characterization and prediction of gene mutations and expression profiles, as well as minute morphological and structural features of human cells and tissues, all derived directly from pathology slide images. These capabilities make it an essential tool for early detection, prognosis, oncology drug development, and personalized treatment selection. 'EXAONE Path 2.0' was trained using multi-omics data, including both DNA and RNA, enabling it to interpret pathology images and underlying biological processes while integrating genetic insights vital to disease research and therapeutic development. Pathology images refer to high-resolution Whole Slide Images (WSIs) generated during the diagnostic test of patient tissue specimens. Whole Slide Images (WSIs) are large, multi-gigabyte digital files that capture detailed information on cell and tissue architecture. To facilitate analysis, these comprehensive images are typically divided into thousands of smaller sub-images or \"patches.\" When AI models analyze only patch-level data, they are susceptible to a \"feature collapse\" effect, in which excessive attention to localized features leads to reduced prediction accuracy due to a lack of holistic context. LG AI Research has implemented an innovative approach in 'EXAONE Path 2.0', enabling learning from individual patches through to the full Whole Slide Image. This enhancement has increased the model's gene mutation prediction accuracy to a best-in-class 78.4%, establishing a new State-of-the-Art (SOTA) benchmark. 'EXAONE Path 2.0' was developed using over 10,000 matched datasets comprising Whole Slide Images and multi-omics data. This robust training enables it to predict gene expression patterns solely from image analysis, eliminating the need for expensive molecular testing. Yong-min Park, Head of AI Business Team at LG AI Research, stated, \"EXAONE Path 2.0 enables us to reduce molecular testing time from over two weeks to under a minute—helping clinicians capture critical therapeutic windows for cancer patients. By leveraging EXAONE Path 2.0, physicians and pharmaceutical partners can rapidly analyze tissue pathology slides, identify driver mutations, and select appropriate targeted therapies.\" LG AI Research also introduced additional models trained for specific tumor types, including lung and colorectal cancers. These disease-specific models may support more efficient triaging and early detection of patients eligible for targeted therapeutic interventions. LG AI Research expects 'EXAONE Path 2.0' to play a significant role in clinical trial optimization by enabling real-time monitoring of patient responses and facilitating biomarker discovery for disease prediction. LG AI Research and Professor Tae-hyun Hwang's research team are collaborating on the development of a world-leading multi-modal medical AI platform. LG AI Research has taken a major step forward in applying AI to cancer care. In collaboration with Professor Tae-hyun Hwang of Vanderbilt University Medical Center—a premier U.S. academic medical institution in biomedical research—LG AI Research is co-developing a cutting-edge multi-modal medical AI platform. Moving away from the conventional model of building technologies prior to clinical validation, the team has adopted a problem-first approach—developing AI solutions in tandem with real-world clinical needs. Together, LG AI Research and Professor Hwang's lab aim to build a platform that supports personalized precision medicine, utilizing real tissue samples, pathology images, and clinical outcome data from cancer patients enrolled in trials. Their joint research will focus on: Identifying the underlying mechanisms of disease Early detection and diagnosis Biomarker and therapeutic target discovery Developing individualized treatment strategies based on genomic data Predicting therapeutic efficacy Professor Tae-hyun Hwang noted, \" Our mission goes beyond developing AI models—we are building a platform that actively supports clinicians in the care and treatment of patients. This platform will serve not just as a diagnostic assistant but as a transformative engine for oncology drug development.\" Professor Hwang is a renowned Korean-American expert leading the Cancer Moonshot's gastric cancer initiative, a U.S. federal program dedicated to accelerating cancer breakthroughs. He also founded the Molecular AI Initiative at Vanderbilt, focused on advancing AI-integrated molecular medicine. \"We're now focused on identifying not just what treatments work but when and how to apply them,\" said Seth Karp, Chair of the Section of Surgical Sciences at Vanderbilt University Medical Center. \"The collaboration between LG AI Research and Professor Hwang's team marks a critical inflection point. The most meaningful aspect of this partnership is its real-world impact—we are creating a platform that will directly support patient care and improve outcomes.\" Beginning with oncology, the LG AI Research–Vanderbilt collaboration plans to expand into other domains including transplant immunology, autoimmune diseases, and metabolic disorders such as diabetes. LG AI Research will formally introduce 'EXAONE Path 2.0' during the upcoming LG AI Talk Concert 2025 on July 22. Separately, LG AI Research remains committed to addressing high-burden diseases. It is collaborating with The Jackson Laboratory (JAX) to identify Alzheimer's disease risk factors and advance drug discovery, and is also working with Professor Min-kyung Baek of Seoul National University on AI models for next-generation protein structure prediction. Furthermore, LG AI Research is actively engaged in global partnerships with pharmaceutical and biotech firms to drive innovation in AI-based drug development. LG Corporation Chairman and CEO Kwang-mo Koo has identified AI and biotechnology as strategic growth areas central to improving human health. Reflecting this vision, LG is accelerating efforts in AI–bio convergence through targeted open innovation initiatives aimed at delivering tangible results. About LG Group LG Group is a leading global company representing South Korea, offering innovative products and services across various industries such as electronics, chemicals, telecommunications, and energy. Established in 1947, LG Group has grown into a world-renowned brand through its activities in these diverse fields. The company is committed to continuous research and development, focusing on innovation to enhance the quality of life for its customers. Emphasizing its role as a socially responsible enterprise, LG Group is striving to strengthen its competitiveness in the global market and achieve sustainable growth through its future portfolio in areas like AI, Bio, and Cleantech. The company is dedicated to realizing its vision of being a business that provides value to customers and society, pursuing this mission with unwavering determination. For more information, visit https://www.lgcorp.com About LG AI Research Launched in December 2020 as the artificial intelligence (AI) research hub of South Korea's LG Group, LG AI Research aims to lead the next epoch of artificial intelligence (AI) to realize a promising future by providing optimal research environments and leveraging state-of-the-art AI technologies. And LG AI Research developed its large-scale AI, EXAONE, a 300 billion parametric multimodal AI model, in 2021. EXAONE, which stands for \"Expert AI for Everyone,\" is a multi-modal large-scale AI model that stands out from its peers due to its ability to process both language and visual data. With one of the world's largest learning data capacities, LG AI Research aims to engineer better business decisions through its state-of-the-art artificial intelligence technologies and its continuous effort on fundamental AI research. For more information, visit https://www.lgresearch.ai About Vanderbilt University Medical Center Vanderbilt University Medical Center (VUMC) is one of the nation's leading academic medical centers, dedicated to advancing healthcare through pioneering research, high-impact education, and exceptional patient care. Based in Nashville, Tennessee, VUMC provides comprehensive services across every major clinical specialty and serves as a regional and national referral center for complex conditions. VUMC is a hub for innovation in translational medicine, biomedical informatics, genomics, and AI-driven healthcare. Its close integration with Vanderbilt University enables seamless collaboration across disciplines, accelerating the development of next-generation diagnostics, therapeutics, and digital health solutions. VUMC is home to nationally recognized programs in cancer, cardiovascular disease, neurosciences, transplantation, and surgical innovation, and is committed to bringing cutting-edge discoveries from bench to bedside. For more information, visit https://www.vumc.org",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-07-10 12:54:00",
+            "pubDateTZ": "UTC",
+            "image_url": null,
+            "video_url": null,
+            "source_id": "en_prnasisa",
+            "source_name": "Pr Newswire Apac",
+            "source_priority": 1333464,
+            "source_url": "https://en.prnasia.com",
+            "source_icon": "https://n.bytvi.com/en_prnasisa.png",
+            "language": "english",
+            "country": [
+                "yemen",
+                "afghanistan",
+                "india",
+                "singapore",
+                "saudi arabia",
+                "united arab emirates",
+                "china",
+                "taiwan",
+                "pakistan",
+                "brunei",
+                "syria",
+                "bhutan",
+                "turkey",
+                "armenia",
+                "qatar",
+                "philippines",
+                "hong kong",
+                "romania",
+                "laos",
+                "timor-leste",
+                "bangladesh",
+                "vietnam",
+                "azerbaijan",
+                "uzbekistan",
+                "turkmenistan",
+                "macau",
+                "bahrain",
+                "tajikistan"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": true
+        },
+        {
+            "article_id": "77210f1e61a497f846636c6f0854a47c",
+            "title": "हां, हमें हिंदू लड़कियों को फंसाने के पैसे मिलते थे, इंदौर लव जिहाद में 2 आरोपियों के चौंकाने वाले खुलासे",
+            "link": "https://hindi.webdunia.com/indore/yes-we-were-paid-to-trap-hindu-girls-in-love-jihad-125071000082_1.html",
+            "keywords": [
+                "indore"
+            ],
+            "creator": null,
+            "description": "इंदौर में लव जिहाद को लेकर चौंकाने वाला खुलासा सामने आया है। इतना ही नहीं, पहली बार लव जिहाद की फंडिंग के सबूत कैमरे पर सामने आए हैं। इंदौर में दो मुस्लिम युवकों ने कबूल किया है कि उन्हें हिंदू लड़कियों को बहला फुसला कर शादी करने के बदले में पैसे ...",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-07-10 12:54:00",
+            "pubDateTZ": "UTC",
+            "image_url": "https://nonprod-media.webdunia.com/public_html/_media/hi/img/article/2025-05/23/thumb/1_1/1747986131-0875.JPG",
+            "video_url": null,
+            "source_id": "webdunia",
+            "source_name": "हिन्दी समाचार",
+            "source_priority": 19669,
+            "source_url": "https://webdunia.com",
+            "source_icon": "https://n.bytvi.com/webdunia.jpg",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "cfcfd2137a8341bccef642fc86ae00f3",
+            "title": "बिजली चोरी के आरोपियों को तामील कराए जुर्माना नोटिस",
+            "link": "https://www.sachkahoon.com/penalty-notices-have-been-served-to-those-accused-of-electricity-theft/",
+            "keywords": [
+                "दिल्ली/यूपी",
+                "kairana news",
+                "electricity theft"
+            ],
+            "creator": [
+                "Sarvesh Kumar"
+            ],
+            "description": "कैराना (सच कहूँ न्यूज़)। Kairana News: विजिलेंस टीम ने कैराना पहुंचकर बिजली चोरी के आरोपियों को जुर्माना नोटिस तामील कराए है। टीम ने आरोपियों को निर्धारित समयावधि के भीतर जुर्माना राशि जमा कराने को कहा है। गुरुवार को विजिलेंस विभाग की टीम एसआई अमित गोस्वामी के नेतृत्व में कैराना पहुंची। जहां पर उन्होंने विगत दिनों [...]The post बिजली चोरी के आरोपियों को तामील कराए जुर्माना नोटिस appeared first on Sach kahoon - Best Online Hindi News.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-07-10 12:53:57",
+            "pubDateTZ": "UTC",
+            "image_url": null,
+            "video_url": null,
+            "source_id": "sachkahoon",
+            "source_name": "Sach Kahoon",
+            "source_priority": 10821162,
+            "source_url": "https://www.sachkahoon.com",
+            "source_icon": null,
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "283e7eccd339e34241837590ceb150af",
+            "title": "Mandi: आपदा में माता-पिता को खोने वाली 11 माह की नीतिका के लिए महिला SDM बनी मददगार, बैंक खाता खोला, DC संरक्षक बने",
+            "link": "https://www.jagran.com/himachal-pradesh/mandi-mandi-cloudburst-sdm-smritika-negi-open-bank-account-for-orphan-child-nitika-23980736.html",
+            "keywords": null,
+            "creator": null,
+            "description": "Mandi Cloudburst मंडी में आपदा के कारण अनाथ हुई 11 महीने की नीतिका के लिए एसडीएम स्मृतिका नेगी ने बैंक खाता खुलवाया है। उपायुक्त मंडी बच्ची के संरक्षक बने हैं। खाते में आने वाली राशि की एफडी की जाएगी जिसे 18 साल की उम्र के बाद ही निकाला जा सकेगा। प्रशासन द्वारा दी जाने वाली राहत राशि भी इसी खाते में जमा होगी।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-07-10 12:53:42",
+            "pubDateTZ": "UTC",
+            "image_url": null,
+            "video_url": null,
+            "source_id": "jagran",
+            "source_name": "Jagran",
+            "source_priority": 6734,
+            "source_url": "https://www.jagran.com",
+            "source_icon": "https://n.bytvi.com/jagran.jpg",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "domestic"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "c10ced643fb7b29919992b561a226bb3",
+            "title": "Former ASML employee gets jail sentence for leaking tech files to Russian contact",
+            "link": "https://www.channelnewsasia.com/business/former-asml-employee-gets-jail-sentence-leaking-tech-files-russian-contact-5231756",
+            "keywords": [
+                "business"
+            ],
+            "creator": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-07-10 12:53:42",
+            "pubDateTZ": "UTC",
+            "image_url": null,
+            "video_url": null,
+            "source_id": "channelnewsasia",
+            "source_name": "Channel Newsasia",
+            "source_priority": 4763,
+            "source_url": "https://www.channelnewsasia.com",
+            "source_icon": "https://n.bytvi.com/channelnewsasia.jpg",
+            "language": "english",
+            "country": [
+                "singapore",
+                "georgia",
+                "yemen",
+                "afghanistan",
+                "cyprus",
+                "india",
+                "saudi arabia",
+                "maldives",
+                "japan",
+                "united arab emirates",
+                "malaysia",
+                "china",
+                "south korea",
+                "north korea",
+                "taiwan",
+                "thailand",
+                "pakistan",
+                "mongolia",
+                "brunei",
+                "lebanon",
+                "indonesia",
+                "kyrgyzstan",
+                "syria",
+                "israel",
+                "bhutan",
+                "iran",
+                "turkey",
+                "armenia",
+                "qatar",
+                "philippines",
+                "hong kong",
+                "kazakhstan",
+                "iraq",
+                "bangladesh",
+                "laos",
+                "vietnam",
+                "timor-leste",
+                "kuwait",
+                "myanmar",
+                "azerbaijan",
+                "jordan",
+                "nepal",
+                "oman",
+                "sri lanka",
+                "uzbekistan",
+                "turkmenistan",
+                "macau",
+                "bahrain",
+                "cambodia",
+                "tajikistan"
+            ],
+            "category": [
+                "business"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "6a57e23dff52c39008d5ec2d03db0526",
+            "title": "Ex-ASML, NXP employee sentenced to three year jail term for sharing corporate secrets",
+            "link": "https://www.channelnewsasia.com/business/ex-asml-nxp-employee-sentenced-three-year-jail-term-sharing-corporate-secrets-5231756",
+            "keywords": [
+                "business"
+            ],
+            "creator": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-07-10 12:53:42",
+            "pubDateTZ": "UTC",
+            "image_url": null,
+            "video_url": null,
+            "source_id": "channelnewsasia",
+            "source_name": "Channel Newsasia",
+            "source_priority": 4763,
+            "source_url": "https://www.channelnewsasia.com",
+            "source_icon": "https://n.bytvi.com/channelnewsasia.jpg",
+            "language": "english",
+            "country": [
+                "singapore",
+                "georgia",
+                "yemen",
+                "afghanistan",
+                "cyprus",
+                "india",
+                "saudi arabia",
+                "maldives",
+                "japan",
+                "united arab emirates",
+                "malaysia",
+                "china",
+                "south korea",
+                "north korea",
+                "taiwan",
+                "thailand",
+                "pakistan",
+                "mongolia",
+                "brunei",
+                "lebanon",
+                "indonesia",
+                "kyrgyzstan",
+                "syria",
+                "israel",
+                "bhutan",
+                "iran",
+                "turkey",
+                "armenia",
+                "qatar",
+                "philippines",
+                "hong kong",
+                "kazakhstan",
+                "iraq",
+                "bangladesh",
+                "laos",
+                "vietnam",
+                "timor-leste",
+                "kuwait",
+                "myanmar",
+                "azerbaijan",
+                "jordan",
+                "nepal",
+                "oman",
+                "sri lanka",
+                "uzbekistan",
+                "turkmenistan",
+                "macau",
+                "bahrain",
+                "cambodia",
+                "tajikistan"
+            ],
+            "category": [
+                "business"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": true
+        },
+        {
+            "article_id": "eeacfb51546f68bb66e792703eb38365",
+            "title": "कनाडा में कपिल शर्मा के कैफे पर फायरिंग, कॉमेडियन ने पिछले हफ्ते ही किया था इनोग्रेशन",
+            "link": "https://www.aajtak.in/entertainment/television/story/firing-at-kapil-sharmas-cafe-in-canada-ntc-rpti-2284570-2025-07-10",
+            "keywords": null,
+            "creator": null,
+            "description": "कॉमेडियन कपिल शर्मा के फैन्स के लिए बुरी खबर सामने आ रही है. दरअसल, कपिल ने कुछ दिनों पहले कनाडा में कैप्स कैफे खोला था, जिसपर फायरिंग हुई है. फैन्स के बीच हलचल मची हुई है.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-07-10 12:53:41",
+            "pubDateTZ": "UTC",
+            "image_url": null,
+            "video_url": null,
+            "source_id": "aajtak",
+            "source_name": "Aaj Tak",
+            "source_priority": 20158,
+            "source_url": "http://aajtak.in",
+            "source_icon": "https://n.bytvi.com/aajtak.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "2b1396248436d30ae59eb108dba3d4cd",
+            "title": "दुर्घटना के एक दिन बाद, तमिल भाषी द्वारपाल ने रेलवे फाटक पर कार्यभार संभाला",
+            "link": "https://jantaserishta.com/local/tamil-nadu/day-after-accident-tamil-speaking-gatekeeper-takes-charge-at-railway-gate-4139864",
+            "keywords": [
+                "राज्य,तमिलनाडू"
+            ],
+            "creator": [
+                "Bharti Sahu"
+            ],
+            "description": "तमिल भाषी द्वारपाल",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-07-10 12:53:41",
+            "pubDateTZ": "UTC",
+            "image_url": "https://jantaserishta.com/h-upload/2025/07/10/4739504-124.webp",
+            "video_url": null,
+            "source_id": "jantaserishta",
+            "source_name": "Janta Se Rishta",
+            "source_priority": 81836,
+            "source_url": "https://jantaserishta.com",
+            "source_icon": "https://n.bytvi.com/jantaserishta.jpg",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "000087e9829cd4a604c72ccb12f3cece",
+            "title": "कनाडा में कपिल शर्मा के कैफे पर फायरिंग",
+            "link": "https://www.aajtak.in/world/story/firing-at-kapil-sharmas-cafe-in-canada-ntc-2284570-2025-07-10",
+            "keywords": null,
+            "creator": null,
+            "description": "कनाडा में कपिल शर्मा के कैफे पर फायरिंग",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-07-10 12:53:41",
+            "pubDateTZ": "UTC",
+            "image_url": null,
+            "video_url": null,
+            "source_id": "aajtak",
+            "source_name": "Aaj Tak",
+            "source_priority": 20158,
+            "source_url": "http://aajtak.in",
+            "source_icon": "https://n.bytvi.com/aajtak.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "world"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "fb59b375d8474d0356b9604dfd513201",
+            "title": "Indian Men's Football Team Hits New Low, Achieves Worst FIFA Ranking In Nine Years",
+            "link": "https://sports.ndtv.com/football/indian-mens-football-team-hits-new-low-achieves-worst-fifa-ranking-in-nine-years-8854772",
+            "keywords": null,
+            "creator": null,
+            "description": "The Indian men's football team slumped to its lowest ranking in nine years as it dropped six places to 133rd in the FIFA chart issued on Thursday, courtesy two losses in June.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-07-10 12:53:37",
+            "pubDateTZ": "UTC",
+            "image_url": "https://c.ndtvimg.com/2024-01/8g08ftgg_india-football-team-afp_625x300_23_January_24.jpg?im=FitAndFill%2Calgorithm%3Ddnn%2Cwidth%3D806%2Cheight%3D605",
+            "video_url": null,
+            "source_id": "ndtv",
+            "source_name": "Ndtv",
+            "source_priority": 1204,
+            "source_url": "http://www.ndtv.com",
+            "source_icon": "https://n.bytvi.com/ndtv.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "sports"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "0af0eb5d45037a1ba22ec42129591507",
+            "title": "Tennis player Radhika Yadav shot dead by father over 'Instagram reels addiction'",
+            "link": "https://www.moneycontrol.com/news/india/tennis-player-radhika-yadav-shot-dead-by-father-over-instagram-reels-addiction-13260584.html",
+            "keywords": [
+                "radhika yadav, tennis"
+            ],
+            "creator": [
+                "Moneycontrol"
+            ],
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-07-10 12:53:30",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.moneycontrol.com/static-mcnews/2024/09/20240929125617_murder.png",
+            "video_url": null,
+            "source_id": "moneycontrol",
+            "source_name": "Moneycontrol",
+            "source_priority": 1039,
+            "source_url": "https://www.moneycontrol.com",
+            "source_icon": "https://n.bytvi.com/moneycontrol.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top",
+                "business",
+                "world",
+                "politics"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "947966dee2313880da303064372891f6",
+            "title": "Tennis player Radhika Yadav shot dead by father over 'Instagram reels addiction' - Moneycontrol",
+            "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPa19JVTBFU2ZVMWxhVjJicVZSNkVfajhJY0doNTdWRWlSWEEycTZIUlg4SVluOWZSX3V1SHppZjhZSFZNSG9QWUdyZWlsMDZuTm1kYW5YaExMZW4ybk5QVlRaa1RELU12RTNQaXhqSHljSEthOFBaWlU1R1JaV3JhWEh5N0lfMlBWT1ktQUJaX3JFNXFkcmVGN0pXczFIdC1qRTJCOGc0SUZrbmlDQVA0aFA2S3VMckNicWpkVEJxSmtXWkRubERwS2lGTVPSAdIBQVVfeXFMUEo2N2ZYY2FXQ3U5TGswMVFxLWtVRVZNV0FMRmJEanY1VklFRHV3WlBmVUJsMFM0NGh0MzYwdEJ6NHIzVVlkNTd1TkdIcDNXYnJDZjI2OFNPRzVrX0lkV1BvZTE5UGNsdmZVS0Q0bnd6ZDQxTlJSTXp5RzREOUg4aGpzcFI2VEotdmNIY3FGT0Q4ZUhTb2dHU2MwY3lMc3M3YzB5LWFVanlDWTBWR29fOEk4LXQyYTY2RW1Ka3VFU252ZGNRcEpFVFhjLUs2RzdjVFBR?oc=5",
+            "keywords": null,
+            "creator": null,
+            "description": "Tennis player Radhika Yadav shot dead by father over 'Instagram reels addiction' MoneycontrolTennis Player Radhika Yadav Shot Dead By Father At Gurugram Home NDTVTennis player Radhika Yadav shot dead by father at Gurgaon home The Indian ExpressTennis player Radhika Yadav shot dead by father over 'reel addiction' in Gurugram MintWho was Radhika Yadav, the tennis player killed by her father? What was her career record and ITF ranking? India TV News",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-07-10 12:53:30",
+            "pubDateTZ": "UTC",
+            "image_url": null,
+            "video_url": null,
+            "source_id": "google",
+            "source_name": "Google News",
+            "source_priority": 14,
+            "source_url": "https://news.google.com",
+            "source_icon": "https://n.bytvi.com/google.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "sports"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "569d6f7927d051e815d3e0f4bc975338",
+            "title": "15 जुलाई को यहां खुलेगा Tesla का पहला शोरूम, Elon Musk भी आ सकते हैं इंडिया",
+            "link": "https://www.tv9hindi.com/automobile/tesla-first-showroom-will-open-in-mumbai-on-july-15-elon-musk-may-also-come-to-india-3383812.html",
+            "keywords": [
+                "ऑटोमोबाइल"
+            ],
+            "creator": [
+                "TV9 Bharatvarsh"
+            ],
+            "description": "लंबे इंतजार के बाद टेस्ला भारत में अपनी शुरुआत करने जा रही है. खबर है कि 15 जुलाई को टेस्ला मुंबई में अपने पहले शोरूम की ओपनिंग करेगी. इस दिन ही टेस्ला की पहली इलेक्ट्रिक कार लॉन्च होगी. इस इवेंट में टेस्ला के CEO एलन मस्क भी शामिल हो सकेत हैं.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-07-10 12:53:27",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.tv9hindi.com/wp-content/uploads/2025/07/tesla-india.jpg",
+            "video_url": null,
+            "source_id": "tv9bharatvarsh",
+            "source_name": "Tv9 Bharatvarsh",
+            "source_priority": 40538658,
+            "source_url": "https://www.tv9hsindi.com",
+            "source_icon": "https://n.bytvi.com/tv9bharatvarsh.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "7169565c5d975006653208438de88d87",
+            "title": "Odisha Bags Best State Award for Agriculture Leadership Conclave",
+            "link": "https://www.deccanchronicle.com/odisha-bags-best-state-award-for-agriculture-leadership-conclave",
+            "keywords": [
+                "news,current affairs"
+            ],
+            "creator": [
+                "Tulasi"
+            ],
+            "description": "The recognition underscores Odisha’s significant strides in agricultural production and rural livelihoods. In 2023-24, the state’s rice output touched 115.39 lakh metric tonnes, making it the fourth-largest supplier to the Food Corporation of India",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-07-10 12:53:25",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.deccanchronicle.com/h-upload/2025/07/10/1936628-odisha-dcm-1.jpg",
+            "video_url": null,
+            "source_id": "andhrabhoomi",
+            "source_name": "Andhrabhoomi",
+            "source_priority": 4054772,
+            "source_url": "http://www.andhrabhoomi.net",
+            "source_icon": null,
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "9172c131f6fd2d7bcfcfb0f0f84740ef",
+            "title": "Odisha Bags Best State Award for Agriculture Leadership Conclave; CM Congratulates Agri Dept",
+            "link": "https://www.deccanchronicle.com/news/current-affairs/odisha-bags-best-state-award-for-agriculture-leadership-conclave-cm-congratulates-agri-dept-1890605",
+            "keywords": [
+                "news,current affairs"
+            ],
+            "creator": [
+                "Akshaya Kumar Sahoo"
+            ],
+            "description": "The recognition underscores Odisha’s significant strides in agricultural production and rural livelihoods. In 2023-24, the state’s rice output touched 115.39 lakh metric tonnes, making it the fourth-largest supplier to the Food Corporation of India",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-07-10 12:53:25",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.deccanchronicle.com/h-upload/2025/07/10/1936628-odisha-dcm-1.webp",
+            "video_url": null,
+            "source_id": "deccanchronicle",
+            "source_name": "Deccan Chronicle",
+            "source_priority": 21568,
+            "source_url": "https://www.deccanchronicle.com",
+            "source_icon": "https://n.bytvi.com/deccanchronicle.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "17209d8353d6c364e731489fe0487812",
+            "title": "इस अफ्रीकी देश के तेल में भारत की दिलचस्पी! यूरेनियम खरीद को लेकर भी बनी बात",
+            "link": "https://www.aajtak.in/world/story/india-seeks-to-buy-critical-minerals-and-crude-oil-from-namibia-as-pm-modi-visits-the-country-ntcprk-dskc-2284560-2025-07-10",
+            "keywords": null,
+            "creator": null,
+            "description": "पीएम मोदी ने बुधवार को अफ्रीकी देश नामीबिया का दौरा किया. दौरे की जानकारी देते हुए नामीबिया में भारत के राजदूत ने कहा कि भारत अफ्रीकी देश से यूरेनियम की खरीद पर विचार कर रहा है.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-07-10 12:53:23",
+            "pubDateTZ": "UTC",
+            "image_url": null,
+            "video_url": null,
+            "source_id": "aajtak",
+            "source_name": "Aaj Tak",
+            "source_priority": 20158,
+            "source_url": "http://aajtak.in",
+            "source_icon": "https://n.bytvi.com/aajtak.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "world"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "f38cf6fae25635a56ed9611b4edc831e",
+            "title": "Rishabh Pant Surpasses Kamran Akmal For Most Catches by Asian Wicketkeeper in Tests in England, Achieves Feat During IND vs ENG 3rd Test 2025",
+            "link": "https://www.latestly.com/socially/sports/cricket/rishabh-pant-surpasses-kamran-akmal-for-most-catches-by-asian-wicketkeeper-in-tests-in-england-achieves-feat-during-ind-vs-eng-3rd-test-2025-6986705.html",
+            "keywords": null,
+            "creator": null,
+            "description": "Rishabh Pant surpassed former Pakistan cricketer Kamran Akmal's iconic record of most catches by an Asian wicketkeeper in Test matches in England.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-07-10 12:53:12",
+            "pubDateTZ": "UTC",
+            "image_url": "https://st1.latestly.com/wp-content/uploads/2025/07/Rishabh-Pant-2-380x214.jpg",
+            "video_url": null,
+            "source_id": "latestly",
+            "source_name": "Latestly",
+            "source_priority": 31923,
+            "source_url": "https://www.latestly.com",
+            "source_icon": "https://n.bytvi.com/latestly.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "8a3c2e4e9483af564cc069e544bfcc10",
+            "title": "Musk Says Grok Chatbot Is Coming To Tesla Vehicles By Next Week",
+            "link": "https://www.ndtvprofit.com/business/musk-says-grok-chatbot-is-coming-to-tesla-vehicles-by-next-week",
+            "keywords": [
+                "bloomberg",
+                "business",
+                "markets",
+                "technology"
+            ],
+            "creator": [
+                "Bloomberg News"
+            ],
+            "description": "The Tesla chief executive officer commented on the plan hours after presenting a new iteration of Grok via video livestream.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-07-10 12:53:11",
+            "pubDateTZ": "UTC",
+            "image_url": "https://media.assettype.com/bloombergquint/2023-03/e46ce3ce-7463-44d1-9fd0-a403cecbde6f/_1x_1.jpg",
+            "video_url": null,
+            "source_id": "bloombergquint",
+            "source_name": "Bq Prime",
+            "source_priority": 9222807,
+            "source_url": "https://www.bloombergquint.com",
+            "source_icon": "https://n.bytvi.com/bloombergquint.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "business"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": true
+        },
+        {
+            "article_id": "9b810faed6fa5dca7a5b9f4ddf3c8623",
+            "title": "Rubio ने लावरोव के समक्ष ट्रम्प की 'निराशा और हताशा' को दोहराया",
+            "link": "https://jantaserishta.com/world/rubio-echoes-trumps-disappointment-and-frustration-to-lavrov-4139862",
+            "keywords": [
+                "विश्व"
+            ],
+            "creator": [
+                "Anurag"
+            ],
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-07-10 12:53:11",
+            "pubDateTZ": "UTC",
+            "image_url": "https://jantaserishta.com/h-upload/2025/07/10/4739502-untitled-1-copy.webp",
+            "video_url": null,
+            "source_id": "jantaserishta",
+            "source_name": "Janta Se Rishta",
+            "source_priority": 81836,
+            "source_url": "https://jantaserishta.com",
+            "source_icon": "https://n.bytvi.com/jantaserishta.jpg",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "world"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "7986ef428e64a9ca1b7e922c4686ed94",
+            "title": "Chandigarh: 75 फुट ऊंचे पेड़ मोहाली निवासियों के लिए खतरा",
+            "link": "https://jantaserishta.com/local/punjab/chandigarh-75-feet-tall-tree-a-threat-to-mohali-residents-4139863",
+            "keywords": [
+                "राज्य,हरियाणा,पंजाब"
+            ],
+            "creator": [
+                "Payal"
+            ],
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-07-10 12:53:11",
+            "pubDateTZ": "UTC",
+            "image_url": "https://jantaserishta.com/h-upload/2025/07/10/4739503-84.webp",
+            "video_url": null,
+            "source_id": "jantaserishta",
+            "source_name": "Janta Se Rishta",
+            "source_priority": 81836,
+            "source_url": "https://jantaserishta.com",
+            "source_icon": "https://n.bytvi.com/jantaserishta.jpg",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
             "article_id": "a05b8d4c7bbf47ed70a3ce47eb413581",
             "title": "Parmeshwara ने नेतृत्व के 'नाटक' की बात स्वीकारी, कहा- कांग्रेस आलाकमान करेगा फैसला",
             "link": "https://jantaserishta.com/local/karnataka/parmeshwara-accepted-the-leadership-drama-said-congress-high-command-will-decide-4139544",
@@ -23412,697 +24212,6 @@
             "source_priority": 566021,
             "source_url": "https://www.devdiscourse.com",
             "source_icon": "https://n.bytvi.com/devdiscourse.jpg",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "c88f52fceca20eecbf3aee28c56cbf8d",
-            "title": "Pisces Horoscope Today: July 9, 2025",
-            "link": "https://www.vogue.in/content/pisces-horoscope-today-july-9-2025",
-            "keywords": [
-                "horoscope",
-                "horoscope / product"
-            ],
-            "creator": [
-                "Snehaa Khanna Sahgal"
-            ],
-            "description": "See what the stars have in store for your sign",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-07-09 00:20:00",
-            "pubDateTZ": "UTC",
-            "image_url": "https://assets.vogue.in/photos/67d9becc57ff5ee680f14158/16:9/w_1280,c_limit/pisces_image.png",
-            "video_url": null,
-            "source_id": "vogue",
-            "source_name": "Vogue",
-            "source_priority": 2581,
-            "source_url": "https://www.vogue.com",
-            "source_icon": "https://n.bytvi.com/vogue.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "entertainment"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "395c5315cf00dd3735dacd541ff370cf",
-            "title": "Virgo Horoscope Today: July 9, 2025",
-            "link": "https://www.vogue.in/content/virgo-horoscope-today-july-9-2025",
-            "keywords": [
-                "horoscope",
-                "horoscope / product"
-            ],
-            "creator": [
-                "Snehaa Khanna Sahgal"
-            ],
-            "description": "See what the stars have in store for your sign",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-07-09 00:20:00",
-            "pubDateTZ": "UTC",
-            "image_url": "https://assets.vogue.in/photos/67eba34937c3db79c96e1f98/16:9/w_1280,c_limit/virgo_image.png",
-            "video_url": null,
-            "source_id": "vogue",
-            "source_name": "Vogue",
-            "source_priority": 2581,
-            "source_url": "https://www.vogue.com",
-            "source_icon": "https://n.bytvi.com/vogue.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "entertainment"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "e9ae20e3000eb475d6ee045e8f3edeb1",
-            "title": "Horoscope Today: July 9, 2025",
-            "link": "https://www.vogue.in/content/horoscope-today-july-9-2025",
-            "keywords": [
-                "horoscope",
-                "horoscope / collection"
-            ],
-            "creator": [
-                "Snehaa Khanna Sahgal"
-            ],
-            "description": "See what the stars have in store for your sign",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-07-09 00:20:00",
-            "pubDateTZ": "UTC",
-            "image_url": "https://assets.vogue.in/photos/67efda9f009300d3a687642e/16:9/w_1280,c_limit/horoscope_today.png",
-            "video_url": null,
-            "source_id": "vogue",
-            "source_name": "Vogue",
-            "source_priority": 2581,
-            "source_url": "https://www.vogue.com",
-            "source_icon": "https://n.bytvi.com/vogue.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "entertainment"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "c8c5bc207e36865508d245084a478c67",
-            "title": "Cancer Horoscope Today: July 9, 2025 - Vogue India",
-            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9XYlN3NjN0OXM3M0FpYXg0YTFRUmhSVkFhQ3FwYXRjeXFTMlFZVWRNQUdWZExxY0EwR2VlaTdsX1N4WkdMNF96RlotT2xUaGZfbkhZeWlKTS14NmY1eFA0bjV4dWtPSzc4eEFxeTByTEY?oc=5",
-            "keywords": null,
-            "creator": null,
-            "description": "Cancer Horoscope Today: July 9, 2025 Vogue IndiaHoroscope Today, July 9, 2025: 3 zodiac signs are about to get lucky today Hindustan TimesGemini Daily Health Horoscope Today, July 09, 2025: Your resilience is your greatest asset The Times of IndiaHoroscope Today, July 9 By Astrologer Sundeep Kochar: Cancer, A Leadership Role May Land In Your Lap Zee NewsToday's Horoscope – July 9, 2025: Check horoscope for all sun signs Deccan Herald",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-07-09 00:20:00",
-            "pubDateTZ": "UTC",
-            "image_url": null,
-            "video_url": null,
-            "source_id": "google",
-            "source_name": "Google News",
-            "source_priority": 14,
-            "source_url": "https://news.google.com",
-            "source_icon": "https://n.bytvi.com/google.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "entertainment"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "c61a1dc6804d16c9eebbb358cd091ba3",
-            "title": "Sagittarius Horoscope Today: July 9, 2025",
-            "link": "https://www.vogue.in/content/sagittarius-horoscope-today-july-9-2025",
-            "keywords": [
-                "horoscope",
-                "horoscope / product"
-            ],
-            "creator": [
-                "Snehaa Khanna Sahgal"
-            ],
-            "description": "See what the stars have in store for your sign",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-07-09 00:20:00",
-            "pubDateTZ": "UTC",
-            "image_url": "https://assets.vogue.in/photos/67d9bf0c7bd2f9325d6bb043/16:9/w_1280,c_limit/sagittarius_image.png",
-            "video_url": null,
-            "source_id": "vogue",
-            "source_name": "Vogue",
-            "source_priority": 2581,
-            "source_url": "https://www.vogue.com",
-            "source_icon": "https://n.bytvi.com/vogue.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "entertainment"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "b1711a53bb7e47e8835d2d30144f6c4b",
-            "title": "Leo Horoscope Today: July 9, 2025",
-            "link": "https://www.vogue.in/content/leo-horoscope-today-july-9-2025",
-            "keywords": [
-                "horoscope",
-                "horoscope / product"
-            ],
-            "creator": [
-                "Snehaa Khanna Sahgal"
-            ],
-            "description": "See what the stars have in store for your sign",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-07-09 00:20:00",
-            "pubDateTZ": "UTC",
-            "image_url": "https://assets.vogue.in/photos/67d9bef4f6fafc8ca43f6647/16:9/w_1280,c_limit/leo_image.png",
-            "video_url": null,
-            "source_id": "vogue",
-            "source_name": "Vogue",
-            "source_priority": 2581,
-            "source_url": "https://www.vogue.com",
-            "source_icon": "https://n.bytvi.com/vogue.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "entertainment"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "a659c151438bbc97aea1a189b8fe9485",
-            "title": "Gemini Horoscope Today: July 9, 2025",
-            "link": "https://www.vogue.in/content/gemini-horoscope-today-july-9-2025",
-            "keywords": [
-                "horoscope",
-                "horoscope / product"
-            ],
-            "creator": [
-                "Snehaa Khanna Sahgal"
-            ],
-            "description": "See what the stars have in store for your sign",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-07-09 00:20:00",
-            "pubDateTZ": "UTC",
-            "image_url": "https://assets.vogue.in/photos/67ed17235eb4520cf1a4c2b4/16:9/w_1280,c_limit/Gemini.png",
-            "video_url": null,
-            "source_id": "vogue",
-            "source_name": "Vogue",
-            "source_priority": 2581,
-            "source_url": "https://www.vogue.com",
-            "source_icon": "https://n.bytvi.com/vogue.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "entertainment"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "9eeeb8e21bf33e553236a82938fde8ab",
-            "title": "Libra Horoscope Today: July 9, 2025",
-            "link": "https://www.vogue.in/content/libra-horoscope-today-july-9-2025",
-            "keywords": [
-                "horoscope",
-                "horoscope / product"
-            ],
-            "creator": [
-                "Snehaa Khanna Sahgal"
-            ],
-            "description": "See what the stars have in store for your sign",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-07-09 00:20:00",
-            "pubDateTZ": "UTC",
-            "image_url": "https://assets.vogue.in/photos/67d9bedef42f27bb01b7160d/16:9/w_1280,c_limit/libra_image.png",
-            "video_url": null,
-            "source_id": "vogue",
-            "source_name": "Vogue",
-            "source_priority": 2581,
-            "source_url": "https://www.vogue.com",
-            "source_icon": "https://n.bytvi.com/vogue.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "entertainment"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "8da919397f8a950b57619ce8e0c9999d",
-            "title": "Aquarius Horoscope Today: July 9, 2025",
-            "link": "https://www.vogue.in/content/aquarius-horoscope-today-july-9-2025",
-            "keywords": [
-                "horoscope",
-                "horoscope / product"
-            ],
-            "creator": [
-                "Snehaa Khanna Sahgal"
-            ],
-            "description": "See what the stars have in store for your sign",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-07-09 00:20:00",
-            "pubDateTZ": "UTC",
-            "image_url": "https://assets.vogue.in/photos/67d9beb9ebc4f63762652ee1/16:9/w_1280,c_limit/aquarius_image.png",
-            "video_url": null,
-            "source_id": "vogue",
-            "source_name": "Vogue",
-            "source_priority": 2581,
-            "source_url": "https://www.vogue.com",
-            "source_icon": "https://n.bytvi.com/vogue.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "entertainment"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "7f5e92a3ebd12d77a191ff34250b11ed",
-            "title": "Aries Horoscope Today: July 9, 2025 - Vogue India",
-            "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAzT25IbDFZbldwRThLMnA5aGgtRlpZWkZCa3JHMnVxWHhlbmFtT0cxeV9oSUI1X1dnS3k5S19mU2lxbmtFdnRWd3hzS0dJTG1LeE1sMkFuYlBmTlpaa0dCa0ZyaEN2RndldDBnT0NMMA?oc=5",
-            "keywords": null,
-            "creator": null,
-            "description": "Aries Horoscope Today: July 9, 2025 Vogue IndiaLove Horoscope Today for July 9, 2025: Do not hide your feelings to appear strong Hindustan TimesCareer Horoscope Today for July 09, 2025: Predictions for All Zodiac Signs Times of IndiaAries Daily Horoscope Today (Mar 21 – April 19), July 9 , 2025: You will continue progressing patiently in financial matters! India TodayCancer Horoscope Today: July 9, 2025 Vogue India",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-07-09 00:20:00",
-            "pubDateTZ": "UTC",
-            "image_url": null,
-            "video_url": null,
-            "source_id": "google",
-            "source_name": "Google News",
-            "source_priority": 14,
-            "source_url": "https://news.google.com",
-            "source_icon": "https://n.bytvi.com/google.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "entertainment"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "2d9fc11738e0e23194e79714729f005b",
-            "title": "Aries Horoscope Today: July 9, 2025",
-            "link": "https://www.vogue.in/content/aries-horoscope-today-july-9-2025",
-            "keywords": [
-                "horoscope",
-                "horoscope / product"
-            ],
-            "creator": [
-                "Snehaa Khanna Sahgal"
-            ],
-            "description": "See what the stars have in store for your sign",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-07-09 00:20:00",
-            "pubDateTZ": "UTC",
-            "image_url": "https://assets.vogue.in/photos/67d9bec33c1d29dc8d270a80/16:9/w_1280,c_limit/aries_image.png",
-            "video_url": null,
-            "source_id": "vogue",
-            "source_name": "Vogue",
-            "source_priority": 2581,
-            "source_url": "https://www.vogue.com",
-            "source_icon": "https://n.bytvi.com/vogue.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "entertainment"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "405ffda00441bb88c4d3fa71e41dce68",
-            "title": "Cancer Horoscope Today: July 9, 2025",
-            "link": "https://www.vogue.in/content/cancer-horoscope-today-july-9-2025",
-            "keywords": [
-                "horoscope",
-                "horoscope / product"
-            ],
-            "creator": [
-                "Snehaa Khanna Sahgal"
-            ],
-            "description": "See what the stars have in store for your sign",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-07-09 00:20:00",
-            "pubDateTZ": "UTC",
-            "image_url": "https://assets.vogue.in/photos/67ed17c836d05ac2395b2760/16:9/w_1280,c_limit/Cancer.png",
-            "video_url": null,
-            "source_id": "vogue",
-            "source_name": "Vogue",
-            "source_priority": 2581,
-            "source_url": "https://www.vogue.com",
-            "source_icon": "https://n.bytvi.com/vogue.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "entertainment"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "fbfae39347ff2f77eada2e1fb2281be2",
-            "title": "Capricorn Horoscope Today: July 9, 2025",
-            "link": "https://www.vogue.in/content/capricorn-horoscope-today-july-9-2025",
-            "keywords": [
-                "horoscope",
-                "horoscope / product"
-            ],
-            "creator": [
-                "Snehaa Khanna Sahgal"
-            ],
-            "description": "See what the stars have in store for your sign",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-07-09 00:20:00",
-            "pubDateTZ": "UTC",
-            "image_url": "https://assets.vogue.in/photos/67d9bf22f6fafc8ca43f6649/16:9/w_1280,c_limit/capricorn_image.png",
-            "video_url": null,
-            "source_id": "vogue",
-            "source_name": "Vogue",
-            "source_priority": 2581,
-            "source_url": "https://www.vogue.com",
-            "source_icon": "https://n.bytvi.com/vogue.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "entertainment"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "39f74b5b50aa7217ba662b1c7d9f1ac1",
-            "title": "Scorpio Horoscope Today: July 9, 2025",
-            "link": "https://www.vogue.in/content/scorpio-horoscope-today-july-9-2025",
-            "keywords": [
-                "horoscope",
-                "horoscope / product"
-            ],
-            "creator": [
-                "Snehaa Khanna Sahgal"
-            ],
-            "description": "See what the stars have in store for your sign",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-07-09 00:20:00",
-            "pubDateTZ": "UTC",
-            "image_url": "https://assets.vogue.in/photos/67d9befe3c1d29dc8d270a82/16:9/w_1280,c_limit/scaripo_image.png",
-            "video_url": null,
-            "source_id": "vogue",
-            "source_name": "Vogue",
-            "source_priority": 2581,
-            "source_url": "https://www.vogue.com",
-            "source_icon": "https://n.bytvi.com/vogue.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "entertainment"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "555256ef2d5834116bef3384a68496d0",
-            "title": "Taurus Horoscope Today: July 9, 2025",
-            "link": "https://www.vogue.in/content/taurus-horoscope-today-july-9-2025",
-            "keywords": [
-                "horoscope",
-                "horoscope / product"
-            ],
-            "creator": [
-                "Snehaa Khanna Sahgal"
-            ],
-            "description": "See what the stars have in store for your sign",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-07-09 00:20:00",
-            "pubDateTZ": "UTC",
-            "image_url": "https://assets.vogue.in/photos/67d9bf3d112380cb7a23a265/16:9/w_1280,c_limit/taurus_image.png",
-            "video_url": null,
-            "source_id": "vogue",
-            "source_name": "Vogue",
-            "source_priority": 2581,
-            "source_url": "https://www.vogue.com",
-            "source_icon": "https://n.bytvi.com/vogue.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "entertainment"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "db5ffe05172859564fcee5c489a70b74",
-            "title": "Already delayed, Bengaluru civic body asks for 6 more months to fix BTM bypass road",
-            "link": "https://timesofindia.indiatimes.com/city/bengaluru/already-delayed-bengaluru-civic-body-asks-for-6-more-months-to-fix-btm-bypass-road/articleshow/122326593.cms",
-            "keywords": null,
-            "creator": [
-                "Vindhya Pabolu"
-            ],
-            "description": null,
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-07-09 00:19:55",
-            "pubDateTZ": "UTC",
-            "image_url": "https://static.toiimg.com/thumb/msid-122326590,width-1070,height-580,imgsize-53190,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-            "video_url": null,
-            "source_id": "toi",
-            "source_name": "The Times Of India",
-            "source_priority": 239,
-            "source_url": "https://timesofindia.indiatimes.com",
-            "source_icon": "https://n.bytvi.com/toi.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "business"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "d634be7d691827b894bb3541bc6a90b3",
-            "title": "NHL bans Alex Ovechkin from Russian interviews — fans question league’s motives",
-            "link": "https://timesofindia.indiatimes.com/sports/nhl/news/nhl-bans-alex-ovechkin-from-russian-interviews-fans-question-leagues-motives/articleshow/122329663.cms",
-            "keywords": null,
-            "creator": null,
-            "description": "The NHL has barred Aleksandr Ovechkin from giving exclusive interviews to Russian media. This is due to a film project about his career. The film will focus on him surpassing Wayne Gretzky's record. Ovechkin, nearing 40, had a great season. He is currently in Russia. He will participate in an exhibition game.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-07-09 00:19:48",
-            "pubDateTZ": "UTC",
-            "image_url": "https://static.toiimg.com/thumb/msid-122330167,width-1070,height-580,imgsize-59560,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-            "video_url": null,
-            "source_id": "toi",
-            "source_name": "The Times Of India",
-            "source_priority": 239,
-            "source_url": "https://timesofindia.indiatimes.com",
-            "source_icon": "https://n.bytvi.com/toi.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "ac661f34396d2e7ebda713384aea174f",
-            "title": "Jodhpur Park emerges as wettest zone, experts try to figure out why",
-            "link": "https://timesofindia.indiatimes.com/city/kolkata/jodhpur-park-emerges-as-wettest-zone-experts-try-to-figure-out-why/articleshow/122326037.cms",
-            "keywords": null,
-            "creator": [
-                "Saikat Ray"
-            ],
-            "description": null,
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-07-09 00:19:44",
-            "pubDateTZ": "UTC",
-            "image_url": "https://static.toiimg.com/thumb/msid-122326035,width-1070,height-580,imgsize-61118,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-            "video_url": null,
-            "source_id": "toi",
-            "source_name": "The Times Of India",
-            "source_priority": 239,
-            "source_url": "https://timesofindia.indiatimes.com",
-            "source_icon": "https://n.bytvi.com/toi.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "86e4834b81aadf698b167269d4ab2f69",
-            "title": "India's insurance industry faces slow growth in Q1 FY26 amid regulatory challenges and market volatility",
-            "link": "http://economictimes.indiatimes.com/markets/stocks/news/indias-insurance-industry-faces-slow-growth-in-q1-fy26-amid-regulatory-challenges-and-market-volatility/articleshow/122330326.cms",
-            "keywords": null,
-            "creator": null,
-            "description": "The Indian insurance sector anticipates a subdued quarter ending in June. Life insurance growth slows due to regulations and a high base. General insurance feels the impact of weaker consumption. Axis Max Life is expected to lead APE growth. Health insurers face challenges from new rules and rising claims. ICICI Lombard's premium income remains flat.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-07-09 00:19:38",
-            "pubDateTZ": "UTC",
-            "image_url": "https://img.etimg.com/thumb/msid-122330375,width-1200,height-630,imgsize-17362,overlay-etmarkets/articleshow.jpg",
-            "video_url": null,
-            "source_id": "economictimes_indiatimes",
-            "source_name": "The Economic Times",
-            "source_priority": 231,
-            "source_url": "https://economictimes.indiatimes.com",
-            "source_icon": "https://n.bytvi.com/economictimes_indiatimes.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "business"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "9820db00356c48168339be29457b960a",
-            "title": "The first Indian film to earn ₹100cr worldwide outperformed 'Sholay'?",
-            "link": "https://www.newsbytesapp.com/news/entertainment/first-indian-movie-to-earn-rs-100cr-in-the-80s/story",
-            "keywords": null,
-            "creator": [
-                "Apoorva Rastogi"
-            ],
-            "description": "The ₹100 crore club is a common occurrence now, but back in the day, it was a big deal.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-07-09 00:19:12",
-            "pubDateTZ": "UTC",
-            "image_url": "https://i.cdn.newsbytesapp.com/images/l327_37291751964141.jpg",
-            "video_url": null,
-            "source_id": "newsbytesapp",
-            "source_name": "Newsbytes",
-            "source_priority": 309848,
-            "source_url": "https://www.newsbytesapp.com",
-            "source_icon": "https://n.bytvi.com/newsbytesapp.png",
             "language": "english",
             "country": [
                 "india"
