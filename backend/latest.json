@@ -1,6 +1,632 @@
 {
     "articles": [
         {
+            "article_id": "d7cc949f6cde60e3c81ad90c0b1e78f6",
+            "title": "Mohali News: बलटाना क्षेत्र से दो नाबालिग बहनें लापता, अपहरण की आशंका",
+            "link": "https://www.amarujala.com/punjab/mohali/two-minor-sisters-missing-from-baltana-area-kidnapping-suspected-mohali-news-c-71-1-spkl1025-131165-2025-07-14",
+            "keywords": null,
+            "creator": null,
+            "description": "Both the girls left home around 6 pm on July 10, but did not return till late night",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-07-13 20:16:59",
+            "pubDateTZ": "UTC",
+            "image_url": "https://staticimg.amarujala.com/assets/images/2021/10/12/mohali_1634043105.jpeg?dpr=1.0&w=750",
+            "video_url": null,
+            "source_id": "amarujala",
+            "source_name": "Amar Ujala",
+            "source_priority": 55215,
+            "source_url": "https://www.amarujala.com",
+            "source_icon": "https://n.bytvi.com/amarujala.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "5b90be3299a304aa01646e3cea9559e9",
+            "title": "Panchkula News: करोड़ों की लागत से बनाया ड्रेनेज सिस्टम फेल... नालों की बजाय सड़क पर बह रहा पानी",
+            "link": "https://www.amarujala.com/haryana/panchkula/drainage-system-built-at-the-cost-of-crores-fails-water-is-flowing-on-the-road-instead-of-drains-panchkula-news-c-87-1-spkl1032-124652-2025-07-14",
+            "keywords": null,
+            "creator": null,
+            "description": "लोगों का आरोप है विभाग ने नाला कैसे बनाया। बारिश होने पर पानी नाले में जाने की जगह सड़क पर बह रहा है। रोड की हालत देखकर वाहन चालकों सहित स्थानीय लोगों में रोष है।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-07-13 20:16:52",
+            "pubDateTZ": "UTC",
+            "image_url": "https://staticimg.amarujala.com/assets/images/2021/10/12/panchkula_1634042987.jpeg?dpr=1.0&w=750",
+            "video_url": null,
+            "source_id": "amarujala",
+            "source_name": "Amar Ujala",
+            "source_priority": 55215,
+            "source_url": "https://www.amarujala.com",
+            "source_icon": "https://n.bytvi.com/amarujala.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "2d91949dd66fa7cc3c585a86bbc9b962",
+            "title": "Rains help bring down summer power demand by 600 MUs this season",
+            "link": "https://www.deccanherald.com/india/karnataka/rains-help-bring-down-summer-power-demand-by-600-mus-this-season-3628488",
+            "keywords": null,
+            "creator": [
+                "Sneha Ramesh"
+            ],
+            "description": "Rains help bring down summer power demand by 600 MUs this season",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-07-13 20:16:50",
+            "pubDateTZ": "UTC",
+            "image_url": "https://media.assettype.com/deccanherald%2F2025-07-13%2Fyt0t6asx%2Ffile711vc1n0end6m5uhhok.jpg?ar=40%3A21&auto=format%2Ccompress&mode=crop&ogImage=true&rect=0%2C113%2C3000%2C1575&w=1200",
+            "video_url": null,
+            "source_id": "deccanherald",
+            "source_name": "Deccan Herald",
+            "source_priority": 10080,
+            "source_url": "https://www.deccanherald.com",
+            "source_icon": "https://n.bytvi.com/deccanherald.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "0275f93bb9c9431a3c99bf9201d38cea",
+            "title": "ATS expands probe into Chhangur Baba’s syndicate, teams sent to Maha, Nepal border",
+            "link": "https://timesofindia.indiatimes.com/city/lucknow/ats-expands-probe-into-chhangur-babas-syndicate-teams-sent-to-maha-nepal-border/articleshow/122423868.cms",
+            "keywords": null,
+            "creator": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-07-13 20:16:43",
+            "pubDateTZ": "UTC",
+            "image_url": "https://static.toiimg.com/thumb/msid-117515968,width-1070,height-580,imgsize-369372,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "video_url": null,
+            "source_id": "toi",
+            "source_name": "The Times Of India",
+            "source_priority": 239,
+            "source_url": "https://timesofindia.indiatimes.com",
+            "source_icon": "https://n.bytvi.com/toi.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "1f293eb01551a8a2e7e893c7f88333ca",
+            "title": "मासिक संस्कार शाला में बच्चों का हुआ सम्मान",
+            "link": "https://www.amarujala.com/uttar-pradesh/meerut/children-were-honored-in-the-monthly-sanskar-school-sardana-news-c-44-1-smrt1055-108953-2025-07-14",
+            "keywords": null,
+            "creator": null,
+            "description": "क्लब 60 शिक्षा सेतु मिशन के तत्वावधान में डालमपुर स्थित आदर्श विद्यालय में मासिक संस्कार शाला का आयोजन किया गया। कार्यक्रम में बच्चों को नैतिक मूल्यों, स्वावलंबन और शिक्षा के प्रति प्रेरित करने के लिए विविध गतिविधियां आयोजित की गईं।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-07-13 20:16:41",
+            "pubDateTZ": "UTC",
+            "image_url": "https://staticimg.amarujala.com/assets/images/4cplus/2025/07/14/rahata-gava-dalmapara-ma-mathhava-chhatara-ka-samamanata-kaya-gaya-sasatha_29b4be0f0269f5ef973a1679544e59b8.jpeg?dpr=1.0&w=750",
+            "video_url": null,
+            "source_id": "amarujala",
+            "source_name": "Amar Ujala",
+            "source_priority": 55215,
+            "source_url": "https://www.amarujala.com",
+            "source_icon": "https://n.bytvi.com/amarujala.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "bec0feb58be6ad9bd0b2b40ea3d4db5e",
+            "title": "पॉलीटेक्निक: दूसरे चरण में 63 हजार से अधिक छात्रों को नहीं मिला दाखिला",
+            "link": "https://www.amarujala.com/lucknow/polytechnic-more-than-63-thousand-students-did-not-get-admission-in-the-second-phase-lucknow-news-c-13-1-lko1028-1291728-2025-07-14",
+            "keywords": null,
+            "creator": null,
+            "description": "पॉलीटेक्निक: दूसरे चरण में 63 हजार से अधिक छात्रों को नहीं मिला दाखिला",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-07-13 20:16:31",
+            "pubDateTZ": "UTC",
+            "image_url": "https://staticimg.amarujala.com/assets/images/2021/10/21/lucknow_1634823856.jpeg?dpr=1.0&w=750",
+            "video_url": null,
+            "source_id": "amarujala",
+            "source_name": "Amar Ujala",
+            "source_priority": 55215,
+            "source_url": "https://www.amarujala.com",
+            "source_icon": "https://n.bytvi.com/amarujala.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "d1fbca1c234f53bf4795a341db52c45e",
+            "title": "James Vince 98* puts Hampshire on brink of quarter-finals",
+            "link": "https://www.espncricinfo.com/ci/content/story/1495051.html?ex_cid=OTC-RSS",
+            "keywords": null,
+            "creator": null,
+            "description": "Sussex lose third game in a row to dent qualification chances",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-07-13 20:16:07",
+            "pubDateTZ": "UTC",
+            "image_url": "https://p.imgci.com/db/PICTURES/CMS/403600/403699.5.jpg",
+            "video_url": null,
+            "source_id": "espncricinfo",
+            "source_name": "Espncricinfo",
+            "source_priority": 1162,
+            "source_url": "https://www.espncricinfo.com",
+            "source_icon": "https://n.bytvi.com/espncricinfo.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "sports"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "978fb46aaeb90c633d5d03ef7c0e2d46",
+            "title": "Lucknow News: बिना मान्यता संचालित स्कूलों पर गिरेगी गाज",
+            "link": "https://www.amarujala.com/lucknow/schools-operating-without-recognition-will-be-punished-lucknow-news-c-13-1-lko1028-1291727-2025-07-14",
+            "keywords": null,
+            "creator": null,
+            "description": "बिना मान्यता संचालित स्कूलों पर गिरेगी गाज",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-07-13 20:16:01",
+            "pubDateTZ": "UTC",
+            "image_url": "https://staticimg.amarujala.com/assets/images/2021/10/21/lucknow_1634823856.jpeg?dpr=1.0&w=750",
+            "video_url": null,
+            "source_id": "amarujala",
+            "source_name": "Amar Ujala",
+            "source_priority": 55215,
+            "source_url": "https://www.amarujala.com",
+            "source_icon": "https://n.bytvi.com/amarujala.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "b4ea7e8520817e70cd5fed2ebeb2b99f",
+            "title": "Panchkula News: एचएसवीपी में 72 करोड़ के घोटाले में चौथा आरोपी दबोचा, दो दिन के रिमांड पर लिया",
+            "link": "https://www.amarujala.com/haryana/panchkula/fourth-accused-arrested-in-hsvp-scam-of-rs-72-crore-taken-on-two-day-remand-panchkula-news-c-87-1-pan1009-124656-2025-07-14",
+            "keywords": null,
+            "creator": null,
+            "description": "Fourth accused arrested in HSVP scam of Rs 72 crore",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-07-13 20:15:54",
+            "pubDateTZ": "UTC",
+            "image_url": "https://staticimg.amarujala.com/assets/images/2021/10/12/panchkula_1634042987.jpeg?dpr=1.0&w=750",
+            "video_url": null,
+            "source_id": "amarujala",
+            "source_name": "Amar Ujala",
+            "source_priority": 55215,
+            "source_url": "https://www.amarujala.com",
+            "source_icon": "https://n.bytvi.com/amarujala.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "993e272a6fcdae7bd32ac58c4c3232e3",
+            "title": "Lucknow News: बीबीएयू में पीएचडी और बीटेक पाठ्यक्रमों में प्रवेश पंजीकरण आज से",
+            "link": "https://www.amarujala.com/lucknow/admission-registration-for-phd-and-btech-courses-in-bbau-from-today-lucknow-news-c-13-1-lko1028-1291726-2025-07-14",
+            "keywords": null,
+            "creator": null,
+            "description": "बीबीएयू में पीएचडी और बीटेक पाठ्यक्रमों में प्रवेश पंजीकरण आज से",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-07-13 20:15:35",
+            "pubDateTZ": "UTC",
+            "image_url": "https://staticimg.amarujala.com/assets/images/4cplus/2025/07/14/bbeya-ma-paecada-oura-btaka-pathayakarama-ma-paravasha-pajakaranae-aaja-sa_773afd11059f976136c2f3cf7e9af646.jpeg?dpr=1.0&w=750",
+            "video_url": null,
+            "source_id": "amarujala",
+            "source_name": "Amar Ujala",
+            "source_priority": 55215,
+            "source_url": "https://www.amarujala.com",
+            "source_icon": "https://n.bytvi.com/amarujala.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "05b7dab8f421b6e8c6fdf94deadc70ba",
+            "title": "Amroha News: माध्यमिक विद्यालयों के विद्यार्थियों को मिलेगा उच्च संस्थानों में अध्ययन यात्रा का मौका",
+            "link": "https://www.amarujala.com/uttar-pradesh/amroha/students-of-secondary-schools-will-get-a-chance-to-go-on-study-tours-to-higher-institutions-jpnagar-news-c-284-1-smbd1013-143644-2025-07-14",
+            "keywords": null,
+            "creator": null,
+            "description": "विद्यार्थियों को शैक्षिक अध्ययन के साथ-साथ राज्य की विभिन्नताओं और कार्यप्रणाली से जुड़े व्यवहारिक ज्ञान के लिए उच्च शिक्षण संस्थानों में अध्ययन यात्रा पर जाने का मौका मिलेगा।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-07-13 20:15:28",
+            "pubDateTZ": "UTC",
+            "image_url": "https://staticimg.amarujala.com/assets/images/2021/12/02/amroha_1638430374.jpeg?dpr=1.0&w=750",
+            "video_url": null,
+            "source_id": "amarujala",
+            "source_name": "Amar Ujala",
+            "source_priority": 55215,
+            "source_url": "https://www.amarujala.com",
+            "source_icon": "https://n.bytvi.com/amarujala.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "569b7cdeaef35abe73e501a99a9ee8cd",
+            "title": "Bareilly News: बिना डॉक्टर के चल रहा आयुर्वेदिक अस्पताल",
+            "link": "https://www.amarujala.com/uttar-pradesh/bareilly/ayurvedic-hospital-running-without-a-doctor-bareilly-news-c-401-1-mrg1002-1917-2025-07-14",
+            "keywords": null,
+            "creator": null,
+            "description": "धनेटा में नौ दिन से स्वास्थ्य सेवाएं ठप, चतुर्थ श्रेणी कर्मी ही तैनात",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-07-13 20:15:16",
+            "pubDateTZ": "UTC",
+            "image_url": "https://staticimg.amarujala.com/assets/images/4cplus/2025/07/14/asapatal-ma-khal-paugdha-karasa_a00156ff03858e174057aec38783409e.jpeg?dpr=1.0&w=750",
+            "video_url": null,
+            "source_id": "amarujala",
+            "source_name": "Amar Ujala",
+            "source_priority": 55215,
+            "source_url": "https://www.amarujala.com",
+            "source_icon": "https://n.bytvi.com/amarujala.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "d3f0ee3e0a5df31c14245e2ba213a228",
+            "title": "Panchkula News: साइबर थाने का सिपाही 1.15 लाख की रिश्वत के आरोप में गिरफ्तार",
+            "link": "https://www.amarujala.com/haryana/panchkula/cyber-police-constable-arrested-for-taking-bribe-of-rs-115-lakh-panchkula-news-c-87-1-pan1009-124671-2025-07-14",
+            "keywords": null,
+            "creator": null,
+            "description": "आरोपी सिपाही को रविवार को अदालत में पेश कर पूछताछ के लिए दो दिन के रिमांड पर लिया है। इस मामले में पहले ही एएसआई जसबीर सिंह को गिरफ्तार किया जा चुका है।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-07-13 20:15:10",
+            "pubDateTZ": "UTC",
+            "image_url": "https://staticimg.amarujala.com/assets/images/2021/10/12/panchkula_1634042987.jpeg?dpr=1.0&w=750",
+            "video_url": null,
+            "source_id": "amarujala",
+            "source_name": "Amar Ujala",
+            "source_priority": 55215,
+            "source_url": "https://www.amarujala.com",
+            "source_icon": "https://n.bytvi.com/amarujala.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "3a0d1f0f406a8d4f3fea3f35820e75e4",
+            "title": "24 घंटे में ट्रांसफार्मर लगवाने का आश्वासन मिला",
+            "link": "https://www.amarujala.com/uttar-pradesh/meerut/assurance-was-given-to-install-the-transformer-within-24-hours-mawana-news-c-40-1-smrt1041-109428-2025-07-14",
+            "keywords": null,
+            "creator": null,
+            "description": "ब्लॉक किला परीक्षितगढ़ के गांव चितमाना शेरपुर में भाकियू भानु के तहसील अध्यक्ष अंशुल के आवास पर हुई बैठक की अध्यक्षता पश्चिमी उत्तर प्रदेश के युवा प्रदेश अध्यक्ष अमित त्यागी ने की।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-07-13 20:15:03",
+            "pubDateTZ": "UTC",
+            "image_url": "https://staticimg.amarujala.com/assets/images/4cplus/2025/07/14/bhakaya-bhana-ka-bthaka-ma-upasathata-pathathhakara-va-karayakarata-satarata-karayakarata-mavana_7784778adba794c42cc54b3bc5f00f39.jpeg?dpr=1.0&w=750",
+            "video_url": null,
+            "source_id": "amarujala",
+            "source_name": "Amar Ujala",
+            "source_priority": 55215,
+            "source_url": "https://www.amarujala.com",
+            "source_icon": "https://n.bytvi.com/amarujala.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "2f8f87933a96c8804d5638f67cd62624",
+            "title": "कांवड़ यात्रा : वनवे होने से हाईवे पर रेंगे वाहन",
+            "link": "https://www.amarujala.com/uttar-pradesh/amroha/kanwar-yatra-vehicles-crawl-on-the-highway-due-to-one-way-jpnagar-news-c-284-1-smbd1015-143648-2025-07-14",
+            "keywords": null,
+            "creator": null,
+            "description": "कांवड़ यात्रा के दौरान हाईवे पर कांवड़ियों की सुरक्षा और जाम नहीं लगने देने के दावे फिर हवाई हो गए।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-07-13 20:14:55",
+            "pubDateTZ": "UTC",
+            "image_url": "https://staticimg.amarujala.com/assets/images/2021/12/02/amroha_1638430374.jpeg?dpr=1.0&w=750",
+            "video_url": null,
+            "source_id": "amarujala",
+            "source_name": "Amar Ujala",
+            "source_priority": 55215,
+            "source_url": "https://www.amarujala.com",
+            "source_icon": "https://n.bytvi.com/amarujala.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "1d7146464ed048f03731d9303bfebba2",
+            "title": "Lucknow News: रोजगार मेला आज, आईटीआई में नहीं होगी पढ़ाई",
+            "link": "https://www.amarujala.com/lucknow/employment-fair-today-there-will-be-no-studies-in-iti-lucknow-news-c-13-1-lko1028-1291725-2025-07-14",
+            "keywords": null,
+            "creator": null,
+            "description": "रोजगार मेला आज, आईटीआई में नहीं होगी पढ़ाई",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-07-13 20:14:40",
+            "pubDateTZ": "UTC",
+            "image_url": "https://staticimg.amarujala.com/assets/images/4cplus/2025/07/14/rajagara-mal-aaja-aaiitaaaii-ma-naha-haga-paugdhhaii_34ff999916badf592dfbc41f9b54bc86.jpeg?dpr=1.0&w=750",
+            "video_url": null,
+            "source_id": "amarujala",
+            "source_name": "Amar Ujala",
+            "source_priority": 55215,
+            "source_url": "https://www.amarujala.com",
+            "source_icon": "https://n.bytvi.com/amarujala.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "b506fee3bff03e74a471524b95e305f5",
+            "title": "Mohali News: मोबाइल चोरी करने और खरीदने के आरोप में नाबालिग समेत दो गिरफ्तार, 12 मोबाइल बरामद",
+            "link": "https://www.amarujala.com/punjab/mohali/two-arrested-including-a-minor-for-stealing-and-buying-mobile-phones-12-mobile-phones-recovered-mohali-news-c-71-1-spkl1025-131166-2025-07-14",
+            "keywords": null,
+            "creator": null,
+            "description": "Mobile phones of different companies have been recovered from the accused",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-07-13 20:14:32",
+            "pubDateTZ": "UTC",
+            "image_url": "https://staticimg.amarujala.com/assets/images/2021/10/12/mohali_1634043105.jpeg?dpr=1.0&w=750",
+            "video_url": null,
+            "source_id": "amarujala",
+            "source_name": "Amar Ujala",
+            "source_priority": 55215,
+            "source_url": "https://www.amarujala.com",
+            "source_icon": "https://n.bytvi.com/amarujala.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "bc75572df49708d95699f0fb7abb3228",
+            "title": "Astroguide for July 14, 2025",
+            "link": "https://www.deccanchronicle.com/lifestyle/astrology/astroguide-for-july-14-2025-1891307",
+            "keywords": [
+                "lifestyle,astrology"
+            ],
+            "creator": [
+                "Roshna Arafa Ali"
+            ],
+            "description": "Astroguide",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-07-13 20:14:17",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.deccanchronicle.com/h-upload/2025/07/01/1933849-astroguide.jpg",
+            "video_url": null,
+            "source_id": "andhrabhoomi",
+            "source_name": "Andhrabhoomi",
+            "source_priority": 4054772,
+            "source_url": "http://www.andhrabhoomi.net",
+            "source_icon": null,
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "c98c51dca04d1f1a78a1fd25d952f564",
+            "title": "Amroha News: पांच दिन पहले घर से निकले युवक का शव तालाब में उतराता मिला",
+            "link": "https://www.amarujala.com/uttar-pradesh/amroha/the-body-of-a-young-man-who-had-left-home-five-days-ago-was-found-floating-in-a-pond-jpnagar-news-c-284-1-jpn1008-143669-2025-07-14",
+            "keywords": null,
+            "creator": null,
+            "description": "पांच दिन पहले घर से निकले युवक का शव तालाब में उतराता मिला। परिजनों ने उसकी गुमशुदगी दर्ज कराई थी और तलाश कर रहे थे। पुलिस ने शव काे पोस्टमार्टम के लिए भेजा है।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-07-13 20:14:04",
+            "pubDateTZ": "UTC",
+            "image_url": "https://staticimg.amarujala.com/assets/images/2021/12/02/amroha_1638430374.jpeg?dpr=1.0&w=750",
+            "video_url": null,
+            "source_id": "amarujala",
+            "source_name": "Amar Ujala",
+            "source_priority": 55215,
+            "source_url": "https://www.amarujala.com",
+            "source_icon": "https://n.bytvi.com/amarujala.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "9ee07fb6a3b9d11773f19bd24a72c168",
+            "title": "Lucknow News: डॉ. राजेश्वर सिंह ने आईएससी टॉपर मेधा प्रसाद को किया सम्मानित",
+            "link": "https://www.amarujala.com/lucknow/dr-rajeshwar-singh-honored-isc-topper-medha-prasad-lucknow-news-c-13-1-lko1028-1291724-2025-07-14",
+            "keywords": null,
+            "creator": null,
+            "description": "डॉ. राजेश्वर सिंह ने आईएससी टॉपर मेधा प्रसाद को किया सम्मानित",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-07-13 20:13:57",
+            "pubDateTZ": "UTC",
+            "image_url": "https://staticimg.amarujala.com/assets/images/4cplus/2025/07/14/da-rajashavara-saha-na-aaiiesasa-tapara-mathha-parasatha-ka-kaya-samamanata_a82d54fc4c2c21359f77ae6fffdcc20f.jpeg?dpr=1.0&w=750",
+            "video_url": null,
+            "source_id": "amarujala",
+            "source_name": "Amar Ujala",
+            "source_priority": 55215,
+            "source_url": "https://www.amarujala.com",
+            "source_icon": "https://n.bytvi.com/amarujala.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
             "article_id": "286a6969a271a375522917c59b4b89b7",
             "title": "REEL बनाने में बीटेक छात्र और भाई बांध में डूबे:झांसी में दोस्त को फोन देकर कहा- वीडियो बनाना, चट्‌टान पर पहुंचने से पहले डूबे",
             "link": "https://www.bhaskar.com/local/uttar-pradesh/jhansi/news/jhansi-btech-student-and-his-brother-drowned-in-a-dam-while-making-reel-135440225.html",
@@ -21492,682 +22118,6 @@
             ],
             "category": [
                 "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "6a3e527252062f136e5338cd72f55c38",
-            "title": "MP News: जबलपुर में रज्जाक गैंग के फरार गुर्गे पुलिस ने रिसॉर्ट में दबोचे, दुबई कनेक्शन भी आया सामने",
-            "link": "https://www.naidunia.com/madhya-pradesh/jabalpur-police-picked-up-four-henchmen-of-razzaq-gangs-sarfaraz-sartaj-dubai-pench-resort-party-8396126",
-            "keywords": null,
-            "creator": null,
-            "description": "MP News: जबलपुर के कुख्यात अब्दुल रज्जाक पहलवान गैंग पर पुलिस का शिकंजा कसता जा रहा है। ओमती थाना पुलिस ने पेंच टाइगर रिजर्व के पास ओलिव रिसॉर्ट में दबिश देकर गैंग के चार फरार सदस्यों को गिरफ्तार किया है।",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-07-12 08:11:00",
-            "pubDateTZ": "UTC",
-            "image_url": "https://img.naidunia.com/naidunia/ndnimg/12072025/12_07_2025-jabalpur_gang_arrested...jpg",
-            "video_url": null,
-            "source_id": "naidunia",
-            "source_name": "Naidunia",
-            "source_priority": 648711,
-            "source_url": "https://www.naidunia.com",
-            "source_icon": "https://n.bytvi.com/naidunia.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "f45d1e90cf0edd7cb438811ebe81ce7b",
-            "title": "NASA to Telecast Axiom Mission 4 Departure on July 14",
-            "link": "https://www.deccanchronicle.com/science/science/nasa-to-telecast-axiom-mission-4-departure-on-july-14-1890994",
-            "keywords": [
-                "world,science,news,science,trending"
-            ],
-            "creator": [
-                "ANI"
-            ],
-            "description": "Axiom Mission 4 was launched on June 25 aboard a SpaceX Falcon 9 rocket from Launch Complex 39A at NASA's Kennedy Space Centre in Florida",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-07-12 08:10:57",
-            "pubDateTZ": "UTC",
-            "image_url": "https://www.deccanchronicle.com/h-upload/2025/07/12/1937314-aa-5077498.webp",
-            "video_url": null,
-            "source_id": "deccanchronicle",
-            "source_name": "Deccan Chronicle",
-            "source_priority": 21568,
-            "source_url": "https://www.deccanchronicle.com",
-            "source_icon": "https://n.bytvi.com/deccanchronicle.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "e86b81a2b617b149b99cf907d62dde3d",
-            "title": "OnePlus Nord CE 5 sale kicks off today - India Today",
-            "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPb05LLUxCT0pMUHJxSTNkR3paeXRTeDMzU3UtMEFnMGw2ZkNLTzg0cFpCRG9GakVTVEozVlpJcFBVU0Q1WEpIRGM3N0FSYjQ0YWN3NTFVdEFXeHNseHktWEF5QkJaYmE0OGhKbUtZRVE5WmxMRE9OUFV3c0J0R3hNMDVpOHRWYkxhQ2NLNUl1d19DbHZIVktnQWdSenZkUFRjeFJQY0RlRWtqbjTSAbABQVVfeXFMUE5HNFF1dUM3UDdGTmRablpCUVc1dDNKakJFRFg1cDh3T3I3UVNRQmxQSmhuQnUyeTVKMk9MTFBINEh1TnRWdmhiZFgtVXBrVUZhZWZsdEd5ZWQ4NV91YkhBLUp5eE1EZ0loMWRTUWZINlp2Q2VjTEJ2OWVNUGVNdkNqdzBNLWVpa3dRQkRueGg4RWdibFpoc0lwSDJlLU1Xd0xWOE1aQmhKODVLYnE3aXY?oc=5",
-            "keywords": null,
-            "creator": null,
-            "description": "OnePlus Nord CE 5 sale kicks off today India TodayOnePlus Nord CE 5 review in 10 points India TodayOnePlus Nord 5 Series vs OnePlus Nord 4 Series: What’s new, what stays the same FirstpostOnePlus Nord CE5 sale starts July 12 midnight: Check specs, colours, price and more Mathrubhumi EnglishOnePlus Nord CE 5 Gets A Price Cut On Amazon Prime Day 2025: Here Are The Details Times Now",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-07-12 08:10:50",
-            "pubDateTZ": "UTC",
-            "image_url": null,
-            "video_url": null,
-            "source_id": "google",
-            "source_name": "Google News",
-            "source_priority": 14,
-            "source_url": "https://news.google.com",
-            "source_icon": "https://n.bytvi.com/google.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "technology"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "c53c8dc5e6657a65e5be076a62f57268",
-            "title": "Superman can’t kiss in India!",
-            "link": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/superman-cant-kiss-in-india/articleshow/122402309.cms",
-            "keywords": null,
-            "creator": null,
-            "description": "The CBFC asked the Superman team to significantly shorten a kissing scene to meet the criteria for a UA13+ rating",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-07-12 08:10:49",
-            "pubDateTZ": "UTC",
-            "image_url": "https://static.toiimg.com/thumb/msid-122402302,imgsize-86704,width-400,resizemode-4/122402302.jpg",
-            "video_url": null,
-            "source_id": "toi",
-            "source_name": "The Times Of India",
-            "source_priority": 239,
-            "source_url": "https://timesofindia.indiatimes.com",
-            "source_icon": "https://n.bytvi.com/toi.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "490f5870c89c9a9c3d65903016c98ea2",
-            "title": "टेनिस खिलाड़ी राधिका यादव हत्या मामला : आरोपी पिता को गुरुग्राम कोर्ट ने 14 दिन की न्यायिक हिरासत में भेजा",
-            "link": "https://www.khaskhabar.com/local/haryana/gurugram-news/news-tennis-player-radhika-yadav-murder-case-gurugram-court-sends-accused-father-to-14-day-judicial-custody-news-hindi-1-735856-KKN.html",
-            "keywords": null,
-            "creator": [
-                "khas khabar"
-            ],
-            "description": "हरियाणा के गुरुग्राम में एक दिल दहला देने वाली घटना में 25 वर्षीय टेनिस खिलाड़ी राधिका यादव की उनके पिता दीपक यादव ने गोली मारकर हत्या कर दी। इस मामले में शनिवार को गुरुग्राम की अदालत ने 49 वर्षीय दीपक को 14 दिन की न्यायिक हिरासत में भेज दिया।",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-07-12 08:10:45",
-            "pubDateTZ": "UTC",
-            "image_url": "https://www.khaskhabar.com/s3-storage/khaskhabar/khaskhabarimages/smallimg/img100/0-75-1752307845-735856-khaskhabar.jpg",
-            "video_url": null,
-            "source_id": "khaskhabar",
-            "source_name": "Khas Khabar",
-            "source_priority": 5174519,
-            "source_url": "https://www.khaskhabar.com",
-            "source_icon": "https://n.bytvi.com/khaskhabar.jpg",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "a48ca5e0b0403f246f287272afb075ba",
-            "title": "इस हरे पत्तों की है गजब डिमांड, सेहत के लिए फायदेमंद,चाहे सब्जी बनाएं या पकौड़े",
-            "link": "https://hindi.news18.com/photogallery/lifestyle/recipe-method-of-making-arbi-leaves-pakodas-at-home-arbi-ke-patte-ke-pakode-local18-9391464.html",
-            "keywords": [
-                "फूड"
-            ],
-            "creator": [
-                "Ram Avtar"
-            ],
-            "description": "Arbi ke patte ke pakode: बारिश का मौसम शुरू हो चुका है. ऐसे मौसम में ज्यादातर लोग चाय के साथ पकोड़े का आनंद लेना खूब पसंद करते हैं. ऐसे हम में आज हम आपको घर में तैयार होने वाले देसी पकौड़े की एक ऐसी रेसिपी बताएंगे जो स्वाद में दमदार होने के साथ-साथ सेहत के लिए भी फायदेमंद होता है. हम बात कर रहे हैं आरबी के पत्ते से बनने वाले पकोड़े की.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-07-12 08:10:42",
-            "pubDateTZ": "UTC",
-            "image_url": "https://images.news18.com/ibnkhabar/uploads/2025/07/HYP_5302981_cropped_12072025_114712_20250712_11242_watermark_1_1-3x2.jpg",
-            "video_url": null,
-            "source_id": "hindinews18",
-            "source_name": "News 18 Hindi",
-            "source_priority": 4077,
-            "source_url": "https://hindi.news18.com",
-            "source_icon": "https://n.bytvi.com/hindinews18.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "food"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "18673bbec8a46a7c9db3cf26f3069866",
-            "title": "Jaipur: राजस्थान में उद्योगों को मिलेगा नया आयाम: कर्नल राठौड़",
-            "link": "https://jantaserishta.com/local/rajasthan/jaipur-industries-in-rajasthan-will-get-a-new-dimension-colonel-rathore-4143181",
-            "keywords": [
-                "राजस्थान,राज्य"
-            ],
-            "creator": [
-                "Tara Tandi"
-            ],
-            "description": null,
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-07-12 08:10:39",
-            "pubDateTZ": "UTC",
-            "image_url": "https://jantaserishta.com/h-upload/2025/07/12/4743357-4.webp",
-            "video_url": null,
-            "source_id": "jantaserishta",
-            "source_name": "Janta Se Rishta",
-            "source_priority": 81836,
-            "source_url": "https://jantaserishta.com",
-            "source_icon": "https://n.bytvi.com/jantaserishta.jpg",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "77d82c759f3ae07feae47923c264e972",
-            "title": "Radhika Yadav Murder Case: राधिका की कोई अकादमी नहीं थी, अलग-अलग टेनिस कोर्ट बुक करके देती थी प्रशिक्षण",
-            "link": "https://www.dainiktribuneonline.com/news/topnews/radhika-yadav-murder-case-radhika-did-not-have-any-academy-she-used-to-give-training-by-booking-different-tennis-courts/",
-            "keywords": [
-                "hindi news",
-                "radhika yadav murder",
-                "मुख्य समाचार",
-                "हिंदी समाचार",
-                "राधिका यादव हत्या",
-                "tennis player radhika yadav",
-                "टेनिस खिलाड़ी राधिका यादव",
-                "देश",
-                "radhika yadav",
-                "राधिका यादव",
-                "हरियाणा"
-            ],
-            "creator": [
-                "Kamlesh Bhatt"
-            ],
-            "description": "गुरुग्राम (हरियाणा), 12 जुलाई (भाषा) Radhika Yadav murder case: गुरुग्राम पुलिस ने शनिवार को कहा कि पूर्व राज्यस्तरीय टेनिस खिलाड़ी राधिका यादव की अपनी अकादमी नहीं थी और वह अलग-अलग जगहों पर टेनिस कोर्ट बुक करके खिलाड़ियों को प्रशिक्षण देती थीं, जिस पर उनके पिता को आपत्ति थी। गुरुग्राम के सेक्टर 57 में सुशांत लोक [...]The post Radhika Yadav Murder Case: राधिका की कोई अकादमी नहीं थी, अलग-अलग टेनिस कोर्ट बुक करके देती थी प्रशिक्षण appeared first on dainiktribuneonline.com.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-07-12 08:10:37",
-            "pubDateTZ": "UTC",
-            "image_url": "https://dainiktribuneonline.imagibyte.sortdcdn.net/wp-content/uploads/2025/07/Radhika-1-768x493.jpg",
-            "video_url": null,
-            "source_id": "dainiktribuneonline",
-            "source_name": "Breaking News In Hindi Online",
-            "source_priority": 465842,
-            "source_url": "https://www.dainiktribuneonline.com",
-            "source_icon": "https://n.bytvi.com/dainiktribuneonline.jpg",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "5a1cb8d222ddca0864eb7904d1990a8d",
-            "title": "हरिद्वार: गंगा में अचानक बह गया कांवड़िया, पुल के पास जंजीर पकड़ ली, फिर SDRF ने किया रेस्क्यू",
-            "link": "https://www.aajtak.in/india/uttarakhand/story/haridwar-kawad-yatra-boy-swept-away-in-ganga-rescued-by-sdrf-lcla-strc-2285796-2025-07-12",
-            "keywords": null,
-            "creator": null,
-            "description": "हरिद्वार में 16 वर्षीय कांवड़िया गंगा में स्नान करते समय तेज बहाव में बहने लगा. संयोग से उसने पुल की जंजीर पकड़ ली और समय रहते मौके पर तैनात एसडीआरएफ टीम ने रेस्क्यू कर उसे सुरक्षित बाहर निकाला. सावधानी और तत्परता के चलते उसकी जान बच गई, जिसका वीडियो सोशल मीडिया पर वायरल है.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-07-12 08:10:37",
-            "pubDateTZ": "UTC",
-            "image_url": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202507/6872180ae10e7-haridwar-news-120837340-16x9.jpg",
-            "video_url": null,
-            "source_id": "aajtak",
-            "source_name": "Aaj Tak",
-            "source_priority": 20158,
-            "source_url": "http://aajtak.in",
-            "source_icon": "https://n.bytvi.com/aajtak.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "0949c1b5924d607997fc7a82fda2ff73",
-            "title": "Paul McCartney announces new dates for ‘Got Back’ tour across North America",
-            "link": "https://www.moneycontrol.com/entertainment/paul-mccartney-announces-new-dates-for-got-back-tour-across-north-america-article-13270780.html",
-            "keywords": [
-                "paul mccartney, paul mccartney tour, paul mccartney tour dates, paul mccartney new song dates,"
-            ],
-            "creator": [
-                "Moneycontrol"
-            ],
-            "description": null,
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-07-12 08:10:36",
-            "pubDateTZ": "UTC",
-            "image_url": "https://images.moneycontrol.com/static-mcnews/2025/07/20250712075941_Paul-McCartney-new-tour-dates-out.jpg",
-            "video_url": null,
-            "source_id": "moneycontrol",
-            "source_name": "Moneycontrol",
-            "source_priority": 1039,
-            "source_url": "https://www.moneycontrol.com",
-            "source_icon": "https://n.bytvi.com/moneycontrol.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top",
-                "business",
-                "world",
-                "politics"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "3cb7313bfed7c923394cc0c86c329ab6",
-            "title": "Amazon Prime Day 2025 Sale Live: Best Tech Deals On iPhone 15, Galaxy S24 Ultra, Laptops And More",
-            "link": "https://www.thedailyjagran.com/technology/amazon-prime-day-2025-sale-live-best-tech-deals-on-iphone-15-galaxy-s24-ultra-laptops-and-more-10252034",
-            "keywords": null,
-            "creator": null,
-            "description": "Amazon Prime Day 2025,Prime Day deals India,best tech deals Amazon Prime Day,Prime Day smartphone deals 2025,laptop offers Prime Day sale,Samsung Galaxy S24 Ultra Prime Day price,Kindle Paperwhite Prime Day discount,Fire TV Stick HD Prime Day offer",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-07-12 08:10:33",
-            "pubDateTZ": "UTC",
-            "image_url": "https://imgeng.jagran.com/images/2025/07/11/article/image/amazonprimedaysale-1752224241758.jpg",
-            "video_url": null,
-            "source_id": "english_jagran",
-            "source_name": "Jagran English",
-            "source_priority": 10561,
-            "source_url": "https://english.jagran.com",
-            "source_icon": "https://n.bytvi.com/english_jagran.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "147d73f6bfde2616147af59a2cb13840",
-            "title": "मधुबाला नहीं, ये एक्ट्रेस थी 'मुगल-ए-आजम' की 'अनारकली' के लिए पहली पसंद; 50 के दशक में भी 1.5 लाख रुपये लेती थीं फीस",
-            "link": "https://zeenews.india.com/hindi/entertainment/bollywood/beena-roy-was-choice-for-anarkali-of-mughal-e-azam-50s-actress-used-to-charge-1-point-5-lakh-rupees-as-fee/2836940",
-            "keywords": null,
-            "creator": [
-                "Zee News हिन्दी",
-                "Zee News Hindi"
-            ],
-            "description": "Bina Rai: 50-60s के दशक की मशहूर अभिनेत्री बीना राय अपने जमाने की शानदार अदाकारा थीं. उन्होंने एक से बढ़कर एक फिल्मों में अपने अभिनय का लोहा मनवाया.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-07-12 08:10:33",
-            "pubDateTZ": "UTC",
-            "image_url": "https://hindi.cdn.zeenews.com/hindi/sites/default/files/2025/07/12/4041081-beena.png?im=FitAndFill%3D%28600%2C315%29",
-            "video_url": null,
-            "source_id": "zeenews",
-            "source_name": "Zee News",
-            "source_priority": 5319,
-            "source_url": "http://zeenews.india.com",
-            "source_icon": "https://n.bytvi.com/zeenews.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "entertainment"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "74ac7647e623dfb55ef42693a09b0c24",
-            "title": "India News | Odisha: Dharmendra Pradhan Distributes 201 Appointment Letters at Rozgar Mela in Bhubaneswar",
-            "link": "https://www.latestly.com/agency-news/india-news-odisha-dharmendra-pradhan-distributes-201-appointment-letters-at-rozgar-mela-in-bhubaneswar-6990922.html",
-            "keywords": null,
-            "creator": null,
-            "description": "Get latest articles and stories on India at LatestLY. Union Education Minister Dharmendra Pradhan on Saturday distributed 201 appointment letters to newly inducted personnel from seven central government departments during a Rozgar Mela event held at the Railway Auditorium in Bhubaneswar.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-07-12 08:10:27",
-            "pubDateTZ": "UTC",
-            "image_url": "https://st1.latestly.com/wp-content/uploads/2025/07/ANI-20250712080308-380x214.jpg",
-            "video_url": null,
-            "source_id": "latestly",
-            "source_name": "Latestly",
-            "source_priority": 31923,
-            "source_url": "https://www.latestly.com",
-            "source_icon": "https://n.bytvi.com/latestly.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "3bbe02de81a9811ae9d32c0dbb33147d",
-            "title": "AI नौकरी खाएगा नहीं, बल्कि बढ़वाएगा सैलरी..., नई रिपोर्ट में 6 चौंकाने वाले खुलासे",
-            "link": "https://avadhnama.com/ai-will-not-take-away-jobs-but-will-increase-salaries-6-shocking-revelations-in-a-new-report/",
-            "keywords": [
-                "national",
-                "slider"
-            ],
-            "creator": [
-                "Priyanka Sharma"
-            ],
-            "description": "आर्टिफिशियल इंटेलिजेंस (AI) का इस्तेमाल अमूमन सभी क्षेत्रों में होने लगा है। AI की मदद से कई काम आसान हो गए हैं। हालांकि AI के बढ़ते इस्तेमाल ने नौकरीपेशा लोगों के मन में एक डर बैठा दिया है कि भविष्य में AI उनकी नौकरी निगल सकता है। PWC की ग्लोबल एआई जॉब्स बैरोमीटर 2025 की [...]The post AI नौकरी खाएगा नहीं, बल्कि बढ़वाएगा सैलरी..., नई रिपोर्ट में 6 चौंकाने वाले खुलासे appeared first on Latest Hindi News | हिंदी न्यूज़ | ताजा ख़बरें | Aaj Ki Taja Khabar | ब्रेकिंग न्यूज़ हिंदी में.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-07-12 08:10:24",
-            "pubDateTZ": "UTC",
-            "image_url": "https://avadhnama.com/wp-content/uploads/2025/07/image-108.png",
-            "video_url": null,
-            "source_id": "avadhnama",
-            "source_name": "Avadhnama",
-            "source_priority": 20736955,
-            "source_url": "https://avadhnama.com",
-            "source_icon": "https://n.bytvi.com/avadhnama.jpg",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": true
-        },
-        {
-            "article_id": "812e59c907d6b62eb7362bc351aa2f09",
-            "title": "इतनी लंबी बैटरी! 50 घंटे चलने वाले हेडफोन ने मार्केट में मचाई खलबली",
-            "link": "https://doonhorizon.in/Technology/Gadgets/such-a-long-battery!-50hour-headphones-created-a-stir-in/cid17064497.htm",
-            "keywords": [
-                "gadgets"
-            ],
-            "creator": null,
-            "description": "Skullcandy ऐप के ज़रिए साउंड कस्टमाइज़ेशन, गूगल फास्ट पेयर, और मल्टीपॉइंट कनेक्टिविटी जैसे फीचर्स इन्हें खास बनाते हैं। क्रशर वायरलेस की कीमत 9,999 रुपये और सेश ANC की कीमत 7,999 रुपये है, और दोनों प्रोडक्ट्स कंपनी की वेबसाइट व Amazon पर उपलब्ध हैं।",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-07-12 08:10:22",
-            "pubDateTZ": "UTC",
-            "image_url": "https://doonhorizon.in/static/c1e/client/96435/uploaded/f310a0b9a42c929eec6b2885514b4d1f.jpg",
-            "video_url": null,
-            "source_id": "doorhorizon",
-            "source_name": "Doon Horizon",
-            "source_priority": 38835428,
-            "source_url": "https://doonhorizon.in",
-            "source_icon": "https://n.bytvi.com/doorhorizon.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "5df139ddb8980c80545d86c388cd9065",
-            "title": "सोनभद्र में बिजली का करंट लगने से महिला की मौत:पंखा घुमाते समय करंट की चपेट में आईं, घर में थीं अकेली",
-            "link": "https://www.bhaskar.com/local/uttar-pradesh/sonbhadra/news/woman-dies-due-to-electric-shock-in-sonbhadra-135429943.html",
-            "keywords": null,
-            "creator": null,
-            "description": "सोनभद्र के रॉबर्ट्सगंज थाना क्षेत्र के बाबूरी गांव में एक दुखद घटना सामने आई है। यहां 60 वर्षीय कमलावती की बिजली के करंट लगने से मौत हो गई। मिली जानकरी के अनुसार, बाबूरी निवासी कमलावती (60वर्ष) पत्नी रामरेखा शुक्रवार की रात घर में सो रही थी और गर्मी लगने पर फर्राटा पंखा अपनी तरफ घूमाने लगी तभी करेंट की चपेट में आ गई, जिससे उनकी मौके पर ही मौत हो गई। मृतका अपने घर से एक किमी दुरी पर खेत में बने घर में अपने पति के साथ रहती थी जबकि उनके तीनों बेटे अपने परिवार के साथ पुराने घर में रहते हैं। घटना के समय मृतका के पति रिश्तेदारी में गए थे और वह घर में अकेले थी। शनिवार सुबह जब उनका बेटा खेत वाले घर पहुंचा, तो उन्हेंने मा को जमीन पर पड़ा देखा। उन्हें तुरंत जिला अस्पताल ले जाया गया। जहां डॉक्टरों ने उन्हें मृत घोषित कर दिया। सूचना मिलते ही पुलिस मौके पर पहुंची। पुलिस ने शव को कब्जे में लेकर पोस्टमार्टम के लिए लोढ़ी स्थित मोर्चरी भेज दिया है। इस घटना से परिवार में शोक की लहर है।",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-07-12 08:10:20",
-            "pubDateTZ": "UTC",
-            "image_url": "https://images.bhaskarassets.com/thumb/1000x1000/web2images/521/2025/07/12/c8372a48-e06d-4be1-8ea9-7f4e21e23b4d_1752306348529.jpg",
-            "video_url": null,
-            "source_id": "bhaskar_hindi",
-            "source_name": "Bhaskar",
-            "source_priority": 34179,
-            "source_url": "https://www.bhaskar.com",
-            "source_icon": "https://n.bytvi.com/bhaskar_hindi.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top",
-                "domestic"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "2e72073c7332e54a161b58b06c59feeb",
-            "title": "Shouldve Never Done That: Steve Harmison Questions Shubman Gills Tactics, Offers Hard-Hitting Perspective On Dukes Ball Controversy",
-            "link": "https://www.republicworld.com/cricket/steve-harmison-questions-shubman-gill-tactics-offers-hard-hitting-perspective-on-dukes-ball-controversy",
-            "keywords": [
-                "steve harmison,shubman gill,dukes ball,dukes controversy,dukes ball controversy,india vs england,ind vs eng 3rd test,cricket news,latest cricket news"
-            ],
-            "creator": null,
-            "description": null,
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-07-12 08:10:18",
-            "pubDateTZ": "UTC",
-            "image_url": "https://img.republicworld.com/all_images/shubman-gill-and-mohammed-siraj-during-the-lord-s-test-1752307813402-16_9.webp?format=webp&h=720&q=75&w=1280",
-            "video_url": null,
-            "source_id": "republicworld",
-            "source_name": "Republic World",
-            "source_priority": 17361,
-            "source_url": "https://www.republicworld.com",
-            "source_icon": "https://n.bytvi.com/republicworld.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "a35ba9cc7a6ace9109c2aecfdae8c407",
-            "title": "Pedro Pascal Breaks Silence On Criticism Over His Age In Fantastic Four",
-            "link": "https://www.outlookindia.com/art-entertainment/hollywood/pedro-pascal-breaks-silence-on-criticism-over-his-age-in-fantastic-four",
-            "keywords": [
-                "pedro pascal fantastic four,pedro pascal on casting backlash in fantastic four,pedro pascal role in fantastic four"
-            ],
-            "creator": null,
-            "description": null,
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-07-12 08:10:17",
-            "pubDateTZ": "UTC",
-            "image_url": "https://media.assettype.com/outlookindia/2025-07-12/u7lksbxs/PEDRO-PASCAL.jpg?ar=40%3A21&auto=format%2Ccompress&enlarge=true&mode=crop&ogImage=true&overlay=false&overlay_position=bottom&overlay_width=100&w=1200",
-            "video_url": null,
-            "source_id": "outlookindia",
-            "source_name": "Outlook",
-            "source_priority": 3475,
-            "source_url": "https://www.outlookindia.com",
-            "source_icon": "https://n.bytvi.com/outlookindia.jpg",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "16fbdeec0983b3bc130819f38021aea6",
-            "title": "अगर कोई यौन उत्पीड़न करे तो क्या करें महिलाएं:शाजापुर में कानून के जानकारों ने दी जानकारी, कहा- अधिकारों का उपयोग करें",
-            "link": "https://www.bhaskar.com/local/mp/shajapur/news/what-can-women-do-if-someone-sexually-harasses-them-135429942.html",
-            "keywords": null,
-            "creator": null,
-            "description": "शाजापुर जिला विधिक सेवा प्राधिकरण ने शनिवार को गांधी हॉल में कार्यस्थल पर महिलाओं के यौन उत्पीड़न पर एक दिवसीय कार्यशाला आयोजित की। कार्यक्रम में प्रधान जिला न्यायाधीश आनंद कुमार तिवारी ने अध्यक्षता की। कलेक्टर ऋजु बाफना मुख्य अतिथि और पुलिस अधीक्षक यशपाल सिंह राजपूत विशेष अतिथि के रूप में मौजूद रहे। कार्यशाला का मुख्य उद्देश्य महिलाओं को कार्यस्थल पर उनके अधिकारों की जानकारी देना था। वक्ताओं ने यौन उत्पीड़न के खिलाफ कानूनी प्रावधानों पर प्रकाश डाला। उन्होंने संस्थानों में आंतरिक शिकायत समितियों के गठन की आवश्यकता पर विशेष जोर दिया। कार्यक्रम का संचालन जिला विधिक सहायता अधिकारी शिखा शर्मा और जिला विधिक सेवा प्राधिकरण की सचिव नमिता बोरेसी ने किया। कार्यशाला में शासकीय अधिकारी, सामाजिक कार्यकर्ता, अधिवक्ता और आम नागरिक शामिल हुए। सभी अतिथियों ने समाज में इस विषय पर जागरूकता बढ़ाने का आह्वान किया। आंतरिक शिकायत समिति (ICC) का उपयोग परिस्थिति: एक महिला कर्मचारी को उसके ऑफिस में बार-बार एक वरिष्ठ सहकर्मी द्वारा अनुचित टिप्पणियां और व्यक्तिगत मैसेज भेजे जा रहे हैं। उदाहरण के रूप में सलाह: महिला को बताया गया कि वह कार्यस्थल की आंतरिक शिकायत समिति (ICC) में लिखित शिकायत दे सकती है। समिति को 90 दिनों के भीतर जांच कर रिपोर्ट देना अनिवार्य है। समिति में महिला सदस्य का होना और निष्पक्ष सुनवाई सुनिश्चित करना कानून द्वारा आवश्यक है। पहचान गुप्त रखने का अधिकार परिस्थिति: एक महिला कर्मचारी यौन उत्पीड़न की शिकायत करना चाहती है लेकिन उसे बदनामी या नौकरी खोने का डर है। उदाहरण के रूप में सलाह: महिलाओं को बताया गया कि कानून के अनुसार पीड़िता की पहचान पूरी तरह गोपनीय रखी जाती है। उसका नाम, पहचान या शिकायत की जानकारी किसी भी सार्वजनिक दस्तावेज में नहीं आएगी। यह अधिकार महिला को साहसपूर्वक शिकायत दर्ज कराने में मदद करता है।",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-07-12 08:10:16",
-            "pubDateTZ": "UTC",
-            "image_url": "https://images.bhaskarassets.com/thumb/1000x1000/web2images/521/2025/07/12/f95f6a25-7d28-48d2-8bd8-7efd92d433e8_1752300481697.jpg",
-            "video_url": null,
-            "source_id": "bhaskar_hindi",
-            "source_name": "Bhaskar",
-            "source_priority": 34179,
-            "source_url": "https://www.bhaskar.com",
-            "source_icon": "https://n.bytvi.com/bhaskar_hindi.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "domestic",
-                "other"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "f99f787e54303c85adff272659b120bf",
-            "title": "This top actor, who gave blockbusters, breaks down, says he didn't have money for food: 'Every night I used to...'",
-            "link": "https://www.dnaindia.com/bollywood/report-top-actor-who-gave-blockbusters-breaks-down-says-he-didn-t-have-money-for-food-every-night-i-used-to-3168043",
-            "keywords": [
-                "entertainment",
-                "bollywood"
-            ],
-            "creator": [
-                "Manisha Chauhan"
-            ],
-            "description": "During an interview, this top actor recalled how he would eat at a small dhaba near Bandra station during those difficult days.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-07-12 08:10:13",
-            "pubDateTZ": "UTC",
-            "image_url": "https://cdn.dnaindia.com/sites/default/files/styles/third/public/2025/07/12/2710732-fotojet-2025-07-12t124007.859-1.jpg",
-            "video_url": null,
-            "source_id": "dnaindia",
-            "source_name": "Dna",
-            "source_priority": 18388,
-            "source_url": "https://www.dnaindia.com",
-            "source_icon": "https://n.bytvi.com/dnaindia.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "entertainment"
             ],
             "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
             "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
