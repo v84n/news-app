@@ -1,6 +1,686 @@
 {
     "articles": [
         {
+            "article_id": "d662d670655cca75e1416249d57aba31",
+            "title": "Punjab में नशीली दवाओं की समस्या पर आप और कांग्रेस में तीखी नोकझोंक",
+            "link": "https://jantaserishta.com/local/punjab/sharp-altercation-between-aap-and-congress-on-the-drug-problem-in-punjab-4151319",
+            "keywords": [
+                "राज्य,पंजाब"
+            ],
+            "creator": [
+                "Payal"
+            ],
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-07-16 09:10:59",
+            "pubDateTZ": "UTC",
+            "image_url": "https://jantaserishta.com/h-upload/2025/07/16/4752470-45.webp",
+            "video_url": null,
+            "source_id": "jantaserishta",
+            "source_name": "Janta Se Rishta",
+            "source_priority": 81836,
+            "source_url": "https://jantaserishta.com",
+            "source_icon": "https://n.bytvi.com/jantaserishta.jpg",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "791c5e868b100bb96c6fd8eb01819d78",
+            "title": "भारतीय खा रहे हद से ज्यादा नमक...ICMR ने बताया जोखिम, जानें कितनी मात्रा सुरक्षित",
+            "link": "https://www.aajtak.in/health/story/excessive-salt-consumption-increases-the-risk-of-hypertension-heart-disease-and-kidney-disorders-in-indians-icmr-study-revealed-tvism-dskc-2288754-2025-07-16",
+            "keywords": null,
+            "creator": null,
+            "description": "Excessive salt consumption: भारतीय नमक काफी अधिक मात्रा में खा रहे हैं. शहरी और ग्रामीण दोनों आबादी नमक की तय सीमा से अधिक खा रही है जो कि चिंता का विषय है.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-07-16 09:10:58",
+            "pubDateTZ": "UTC",
+            "image_url": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202507/687761b6264ac-indians-eating-excessive-salt-162416924-16x9.jpg",
+            "video_url": null,
+            "source_id": "aajtak",
+            "source_name": "Aaj Tak",
+            "source_priority": 20158,
+            "source_url": "http://aajtak.in",
+            "source_icon": "https://n.bytvi.com/aajtak.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "9183ac66cbcbcc6521cfddb32dfa9aa6",
+            "title": "Gita shlokas to be recited daily in Uttarakhand govt schools",
+            "link": "https://timesofindia.indiatimes.com/india/gita-shlokas-to-be-recited-daily-in-uttarakhand-govt-schools/articleshow/122568448.cms",
+            "keywords": null,
+            "creator": null,
+            "description": "Uttarakhand schools will now recite Shrimad Bhagavad Gita shlokas during prayer. The government wants to blend traditional knowledge with modern education. Students will learn the meaning and relevance of the shlokas. Teachers will explain the Gita's principles. The goal is to develop human values and character. New textbooks incorporating Gita and Ramayana teachings are expected.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-07-16 09:10:55",
+            "pubDateTZ": "UTC",
+            "image_url": "https://static.toiimg.com/thumb/msid-122568613,width-1070,height-580,imgsize-725466,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "video_url": null,
+            "source_id": "toi",
+            "source_name": "The Times Of India",
+            "source_priority": 239,
+            "source_url": "https://timesofindia.indiatimes.com",
+            "source_icon": "https://n.bytvi.com/toi.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "food"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": true
+        },
+        {
+            "article_id": "928cdc06d73fc2959e03daeeeec35e9a",
+            "title": "New NCERT Class 8 textbook calls Mughals ‘mass murderers’, ‘temple destroyers’",
+            "link": "https://www.siasat.com/new-ncert-class-8-textbook-calls-mughals-mass-murderers-temple-destroyers-3246599/",
+            "keywords": [
+                "education and career",
+                "textbooks",
+                "lead story",
+                "national education policy",
+                "ncert",
+                "india",
+                "mughals"
+            ],
+            "creator": null,
+            "description": "The newly released Class 8 history textbooks of NCERT (National Council of Educational Research and Training), Mughal rulers Babur, Akbar, and Aurangzeb are described as “brutal mass murderers” and “destroyers of temples.” The textbooks are part of the revised curriculum under the National Education Policy (NEP) 2020 and National Curriculum Framework for School Education 2023. ...Get the latest updates in Hyderabad City News, Technology, Entertainment, Sports, Politics and Top Stories on WhatsApp & Telegram by subscribing to our channels. You can also download our app for Android and iOS.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-07-16 09:10:54",
+            "pubDateTZ": "UTC",
+            "image_url": "https://cdn.siasat.com/wp-content/uploads/2025/07/Untitled-design-2025-07-16T143405.083.jpg",
+            "video_url": null,
+            "source_id": "siasat",
+            "source_name": "Siasat.com",
+            "source_priority": 30879,
+            "source_url": "https://www.siasat.com",
+            "source_icon": "https://n.bytvi.com/siasat.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "5bd92ba343d51a920068ee1065a05d39",
+            "title": "Grok AI’s Dangerous Companions: The Shocking Reality of xAI’s New Frontier",
+            "link": "https://bitcoinworld.co.in/grok-ai-dangerous-companions/",
+            "keywords": [
+                "ai",
+                "grok",
+                "elon musk",
+                "ai news",
+                "ai safety",
+                "xai"
+            ],
+            "creator": [
+                "Editorial Team"
+            ],
+            "description": "BitcoinWorldGrok AI’s Dangerous Companions: The Shocking Reality of xAI’s New FrontierIn the rapidly evolving world of artificial intelligence, where innovation often outpaces regulation, a new development from Elon Musk’s xAI is sending ripples of concern across the tech landscape. For those deeply entrenched in the cryptocurrency and blockchain space, the parallels between volatile markets and unpredictable AI behavior are becoming increasingly clear. The latest iteration [...]This post Grok AI’s Dangerous Companions: The Shocking Reality of xAI’s New Frontier first appeared on BitcoinWorld and is written by Editorial Team",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-07-16 09:10:51",
+            "pubDateTZ": "UTC",
+            "image_url": "https://bitcoinworld.co.in/wp-content/uploads/Grok-AIs-Dangerous-Companions-The-Shocking-Reality-of-xAIs-New-Frontier.png",
+            "video_url": null,
+            "source_id": "bitcoinworld",
+            "source_name": "Home - Bitcoinworld.co.in",
+            "source_priority": 194936,
+            "source_url": "https://bitcoinworld.co.in",
+            "source_icon": "https://n.bytvi.com/bitcoinworld.jpg",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "b15c8a9747fde1c4ecfd584a58f5eda7",
+            "title": "MeT issues heavy rainfall, flash flood alert for J&K",
+            "link": "https://thenorthlines.com/met-issues-heavy-rainfall-flash-flood-alert-for-jk/",
+            "keywords": [
+                "met",
+                "heavy rainfall",
+                "flash flood",
+                "weather",
+                "jammu kashmir",
+                "latest news"
+            ],
+            "creator": [
+                "Northlines"
+            ],
+            "description": "Srinagar, July 16 — The Meteorological Department in Srinagar has issued a weather advisory warning of heavy to very heavy rainfall, flash floods, landslides, and related hazards across Jammu and Kashmir in the coming days. According to Dr. Mukhtar Ahmad, Director of the MET Department, the Union Territory is expected to experience cloudy skies [...]The post MeT issues heavy rainfall, flash flood alert for J&K appeared first on Northlines.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-07-16 09:10:44",
+            "pubDateTZ": "UTC",
+            "image_url": "https://thenorthlines.com/wp-content/uploads/2024/09/rain.jpg",
+            "video_url": null,
+            "source_id": "thenorthlines",
+            "source_name": "The Northlines",
+            "source_priority": 2728360,
+            "source_url": "https://www.thenorthlines.com",
+            "source_icon": "https://n.bytvi.com/thenorthlines.jpg",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "20a387bd8ead0e2cefd146cee4eb990e",
+            "title": "कांवड़ यात्रा को विवादास्पद बनाने की दिग्विजय सिंह की मंशा: विश्वास सारंग",
+            "link": "https://www.khaskhabar.com/local/madhya-pradesh/bhopal-news/news-digvijay-singh-intention-is-to-make-kanwar-yatra-controversial-vishwas-sarang-news-hindi-1-736829-KKN.html",
+            "keywords": null,
+            "creator": [
+                "khas khabar"
+            ],
+            "description": "मध्य प्रदेश के पूर्व मुख्यमंत्री और राज्यसभा सदस्य दिग्विजय सिंह द्वारा सोशल मीडिया पर कांवड़ यात्रा और नमाज को लेकर जारी की गई तस्वीर पर युवा खेल व कल्याण मंत्री विश्वास सारंग ने आपत्ति दर्ज कराते हुए कहा कि दिग्विजय सिंह की मंशा कांवड़ यात्रा को विवादास्पद बनाने की है।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-07-16 09:10:43",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.khaskhabar.com/s3-storage/khaskhabar/khaskhabarimages/smallimg/img100/0016-75-1752657043-736829-khaskhabar.jpg",
+            "video_url": null,
+            "source_id": "khaskhabar",
+            "source_name": "Khas Khabar",
+            "source_priority": 5174519,
+            "source_url": "https://www.khaskhabar.com",
+            "source_icon": "https://n.bytvi.com/khaskhabar.jpg",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "c20df7defc271bfa80f7d299f6cf95a2",
+            "title": "Discover How Mystery Shopper Agencies Are Shaping Smarter Customer Experiences",
+            "link": "https://www.republicworld.com/initiatives/discover-how-mystery-shopper-agencies-are-shaping-smarter-customer-experiences",
+            "keywords": [
+                "mystery shopper agencies"
+            ],
+            "creator": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-07-16 09:10:40",
+            "pubDateTZ": "UTC",
+            "image_url": "https://img.republicworld.com/all_images/discover-how-mystery-shopper-agencies-are-shaping-smarter-customer-experiences-1752657035096-16_9.webp?format=webp&h=225&q=75&w=400",
+            "video_url": null,
+            "source_id": "republicworld",
+            "source_name": "Republic World",
+            "source_priority": 17361,
+            "source_url": "https://www.republicworld.com",
+            "source_icon": "https://n.bytvi.com/republicworld.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "0b8b6f0b5a7dd52c5251419600558d82",
+            "title": "क्या आशिकी 3 के लिए मोहित सूरी के साथ फिर साथ आएंगे आदित्य रॉय कपूर, श्रद्धा कपूर?",
+            "link": "https://jantaserishta.com/entertainment/will-aditya-roy-kapur-shraddha-kapoor-reunite-with-mohit-suri-for-aashiqui-3-4151318",
+            "keywords": [
+                "मनोरंजन"
+            ],
+            "creator": [
+                "Anurag"
+            ],
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-07-16 09:10:39",
+            "pubDateTZ": "UTC",
+            "image_url": "https://jantaserishta.com/h-upload/2025/07/16/4752468-1-copy.webp",
+            "video_url": null,
+            "source_id": "jantaserishta",
+            "source_name": "Janta Se Rishta",
+            "source_priority": 81836,
+            "source_url": "https://jantaserishta.com",
+            "source_icon": "https://n.bytvi.com/jantaserishta.jpg",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "entertainment"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "318861ccc660611d081a0a71bda6d378",
+            "title": "India News | Kanwar Yatra: All Schools, Colleges to Remain Shut in UP's Meerut from July 16-23",
+            "link": "https://www.latestly.com/agency-news/india-news-kanwar-yatra-all-schools-colleges-to-remain-shut-in-ups-meerut-from-july-16-23-6999940.html",
+            "keywords": null,
+            "creator": null,
+            "description": "Get latest articles and stories on India at LatestLY. All educational institutions in Meerut will be closed from July 16 to July 23, 2025, for the Kanwar Yatra. DM VK Singh issued this order, stating that all necessary arrangements have been made.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-07-16 09:10:33",
+            "pubDateTZ": "UTC",
+            "image_url": "https://st1.latestly.com/wp-content/uploads/2025/07/ANI-20250716065823-380x214.jpg",
+            "video_url": null,
+            "source_id": "latestly",
+            "source_name": "Latestly",
+            "source_priority": 31923,
+            "source_url": "https://www.latestly.com",
+            "source_icon": "https://n.bytvi.com/latestly.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "661787b9207eb72d0aa428b2c3013672",
+            "title": "Viral: MP Man’s Temple Volunteering Turns Hilarious As Pitfall Video Takes Social Media By Storm",
+            "link": "https://news24online.com/trending/viral-mp-mans-temple-volunteering-turns-hilarious-as-pitfall-video-takes-social-media-by-storm/605436/",
+            "keywords": [
+                "madhya pradesh",
+                "trending"
+            ],
+            "creator": [
+                "Priyanka Negi"
+            ],
+            "description": "A man’s attempt at volunteering in a Madhya Pradesh temple recently became the subject of laughter and widespread amusement on social media.The post Viral: MP Man’s Temple Volunteering Turns Hilarious As Pitfall Video Takes Social Media By Storm appeared first on News24.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-07-16 09:10:31",
+            "pubDateTZ": "UTC",
+            "image_url": "https://news24online.com/wp-content/uploads/2025/07/doctor.jpg",
+            "video_url": null,
+            "source_id": "news24online",
+            "source_name": "News 24",
+            "source_priority": 549589,
+            "source_url": "https://news24online.com",
+            "source_icon": "https://n.bytvi.com/news24online.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "7da0b2af49a363f910ffd61e6c297493",
+            "title": "“धीमी चाल, लेकिन हौसले वाले जीते — खरगोश और कछुए की असली दौड़!”",
+            "link": "https://avadhnama.com/slow-goes-but-the-brave-win-a-true-race-between-the-hare-and-the-tortoise/",
+            "keywords": [
+                "slider",
+                "article"
+            ],
+            "creator": [
+                "Priyanka Sharma"
+            ],
+            "description": "कभी-कभी जीतने के लिए सबसे तेज़ होना ज़रूरी नहीं होता — ज़रूरी होती है लगातार मेहनत और धैर्य। यही साबित किया जंगल की एक ऐतिहासिक दौड़ में दो प्रतिभागियों ने: एक तेज़ रफ्तार खरगोश और एक शांत, लेकिन लगातार चलने वाला कछुआ। जंगल में हुई इस दौड़ की घोषणा होते ही खरगोश को यकीन था [...]The post “धीमी चाल, लेकिन हौसले वाले जीते — खरगोश और कछुए की असली दौड़!” appeared first on Latest Hindi News | हिंदी न्यूज़ | ताजा ख़बरें | Aaj Ki Taja Khabar | ब्रेकिंग न्यूज़ हिंदी में.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-07-16 09:10:28",
+            "pubDateTZ": "UTC",
+            "image_url": "https://avadhnama.com/wp-content/uploads/2025/07/image-270.jpeg",
+            "video_url": null,
+            "source_id": "avadhnama",
+            "source_name": "Avadhnama",
+            "source_priority": 20736955,
+            "source_url": "https://avadhnama.com",
+            "source_icon": "https://n.bytvi.com/avadhnama.jpg",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "ed5f221c2e6308720ab5d2cb8fde7931",
+            "title": "Cabinet approves major push for agriculture, renewable energy with outlay of over Rs 50,000 crore",
+            "link": "http://economictimes.indiatimes.com/news/economy/policy/cabinet-announces-major-push-for-agriculture-renewable-energy-with-outlay-of-over-rs-50000-crore/articleshow/122568330.cms",
+            "keywords": null,
+            "creator": null,
+            "description": "The Indian government has announced significant investments exceeding Rs 50,000 crore to bolster agricultural development and renewable energy. A key initiative, the PM Dhan-Dhaanya Krishi Yojana, with a Rs 24,000 crore outlay, aims to transform agriculture at the district level.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-07-16 09:10:19",
+            "pubDateTZ": "UTC",
+            "image_url": "https://img.etimg.com/thumb/msid-122568257,width-300,height-225,imgsize-9454,resizemode-75/after-magnets-china-now-plants-agri-barrier-for-india.jpg",
+            "video_url": null,
+            "source_id": "economictimes_indiatimes",
+            "source_name": "The Economic Times",
+            "source_priority": 231,
+            "source_url": "https://economictimes.indiatimes.com",
+            "source_icon": "https://n.bytvi.com/economictimes_indiatimes.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "business"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "a2ccc01745cb6335eeb3afe5074282fd",
+            "title": "Elise Stefanik Slams CUNY Chancellor Over Antisemitism Response on Campus",
+            "link": "https://www.news18.com/videos/breaking-news/you-have-failed-jewish-students-its-a-disgrace-9444075.html",
+            "keywords": [
+                "latest"
+            ],
+            "creator": null,
+            "description": "Rep. Elise Stefanik slams CUNY Chancellor for failing to address rising antisemitism, including students entering under swastika during campus protest.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-07-16 09:10:19",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.news18.com/ibnlive/uploads/2025/07/images-2025-07-02f87170cbd7399039a5a78f61c06d3e.jpg",
+            "video_url": null,
+            "source_id": "news18",
+            "source_name": "News 18",
+            "source_priority": 1063,
+            "source_url": "https://www.news18.com",
+            "source_icon": "https://n.bytvi.com/news18.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "dbe043e36236bf09df0077f2e3ce0ac4",
+            "title": "Google offers Rs 19,500 premium AI plan to Indian students for free",
+            "link": "https://startupnews.fyi/2025/07/16/google-offers-rs-19500-premium-ai-plan-to-indian-students-for-free/",
+            "keywords": [
+                "tech"
+            ],
+            "creator": [
+                "The Economic Times"
+            ],
+            "description": "Google is providing free access to its premium Google AI Pro plan, usually priced at Rs 19,500 per year, to Indian college students aged 18 and above. This offer can be availed of by eligible students up until September 15, 2025. It grants access to advanced AI tools such as Gemini 2.5 Pro, Deep Research, [...]",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-07-16 09:10:19",
+            "pubDateTZ": "UTC",
+            "image_url": "https://startupnews.fyi/wp-content/uploads/2025/07/google-offers-rs-19500-premium-ai-plan-to-indian-students-for-free.jpg",
+            "video_url": null,
+            "source_id": "startupnews",
+            "source_name": "Startupnews",
+            "source_priority": 443815,
+            "source_url": "https://startupnews.fyi",
+            "source_icon": "https://n.bytvi.com/startupnews.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": true
+        },
+        {
+            "article_id": "bd66aeeee5a8f5446d7f16521a1abc2e",
+            "title": "NCERT ने 8वीं क्लास की सामाजिक विज्ञान की किताबों में किया बड़ा बदलाव, मुगल शाशकों को बताया 'क्रूर विजेता, सहिष्णु और मंदिर-गुरुद्वारे तोड़ने वाला'",
+            "link": "https://www.bhaskarhindi.com/education/mughal-emperors-history-ncert-change-chapters-babur-aurangzeb-social-science-book-changes-ncert-1162360",
+            "keywords": [
+                "देश,शिक्षा,बड़ी खबरें"
+            ],
+            "creator": [
+                "Shreya Singh"
+            ],
+            "description": "NCERT ने 8वीं कक्षा की सामाजिक विज्ञान की किताब में किया बदलावबदलाव को लेकर एनसीईआरटी ने नहीं दी है प्रतिक्रियामुगलों के चैप्टर में किए बड़े बदलाव",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-07-16 09:10:14",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.bhaskarhindi.com/h-upload/2025/07/16/1443280-history-book.webp",
+            "video_url": null,
+            "source_id": "bhaskarhindi",
+            "source_name": "Bhaskar Hindi",
+            "source_priority": 1200819,
+            "source_url": "https://www.bhaskarhindi.com",
+            "source_icon": "https://n.bytvi.com/bhaskarhindi.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "423123d128bfa8c6d73caecbefc1854d",
+            "title": "Founder Criticises A Married Couple Earning 60 Lakhs Combined For Splitting Bills; Is It A Good Idea?",
+            "link": "https://www.timesnownews.com/lifestyle/relationships/founder-criticises-a-married-couple-earning-60-lakhs-combined-for-splitting-bills-is-it-a-good-idea-article-152288473",
+            "keywords": null,
+            "creator": [
+                "Shreya Garg"
+            ],
+            "description": "Should a married couple have an account on Splitwise and divide every expense down to one rupee?",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-07-16 09:10:14",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.timesnownews.com/thumb/msid-152289164,thumbsize-69468,width-1280,height-720,resizemode-75/152289164.jpg",
+            "video_url": null,
+            "source_id": "timesnownews",
+            "source_name": "Times Now News",
+            "source_priority": 2243,
+            "source_url": "https://www.timesnownews.com",
+            "source_icon": "https://n.bytvi.com/timesnownews.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "e7b449e6ee84b787d240365e06e3181d",
+            "title": "Cipla Health takes a humorous spin on real life stories with Astaberry's campaign 'Get the Rich Look'",
+            "link": "https://www.business-standard.com/content/press-releases-ani/cipla-health-takes-a-humorous-spin-on-real-life-stories-with-astaberry-s-campaign-get-the-rich-look-125071600725_1.html",
+            "keywords": null,
+            "creator": null,
+            "description": "Mumbai (Maharashtra) [India], July 16: Cipla Health, a leading player in the wellness category, announced the launch of Astaberry, its beauty and personal care brand's latest campaign - 'Get the Rich Look'. Rich look stands for the rich texture of skin that glows naturally without the use of any make up or filters thereby boosting confidence in everyday situations.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-07-16 09:10:10",
+            "pubDateTZ": "UTC",
+            "image_url": null,
+            "video_url": null,
+            "source_id": "business-standard",
+            "source_name": "Business Standard",
+            "source_priority": 9158,
+            "source_url": "https://www.business-standard.com",
+            "source_icon": "https://n.bytvi.com/business-standard.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "e91e164da95791c114bad3110ca1682c",
+            "title": "Android chief shares how a late-night mail to Sergey Brin and a call from Sundar Pichai got him hired twice at Google",
+            "link": "https://economictimes.indiatimes.com/news/new-updates/android-chief-shares-how-a-late-night-mail-to-sergey-brin-and-a-call-from-sundar-pichai-got-him-hired-twice-at-google/articleshow/122567702.cms",
+            "keywords": null,
+            "creator": null,
+            "description": "A late-night email to Sergey Brin during a startup dispute propelled Sameer Samat's career. Brin's prompt response led to a meeting and eventual guidance, culminating in Mohomine's acquisition and Samat's Google entry. After a stint away, Sundar Pichai's call brought him back to lead Android, where he now champions entrepreneurial risk-taking.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-07-16 09:10:07",
+            "pubDateTZ": "UTC",
+            "image_url": "https://img.etimg.com/thumb/msid-122568329,width-300,height-225,imgsize-1132143,resizemode-75/google-jobs.jpg",
+            "video_url": null,
+            "source_id": "economictimes_indiatimes",
+            "source_name": "The Economic Times",
+            "source_priority": 231,
+            "source_url": "https://economictimes.indiatimes.com",
+            "source_icon": "https://n.bytvi.com/economictimes_indiatimes.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "cd5e7040bfc93c95c1f1bb77c2c32795",
+            "title": "Melbourne Ranked Fifth Best City in the World for Students - University of Melbourne at the Heart of the City's Appeal",
+            "link": "https://www.business-standard.com/content/press-releases-ani/melbourne-ranked-fifth-best-city-in-the-world-for-students-university-of-melbourne-at-the-heart-of-the-city-s-appeal-125071600378_1.html",
+            "keywords": null,
+            "creator": null,
+            "description": "New Delhi [India], July 16: Melbourne has once again been recognised as one of the world's best cities for students, ranking fifth globally in the Quacquarelli Symonds (QS) Best Student Cities 2026 rankings. This marks the fourth consecutive year that the city of Melbourne has been ranked in the top five student cities globally, reflecting the city's top class educational system, rich cultural scene, and vibrant multicultural student population.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-07-16 09:10:07",
+            "pubDateTZ": "UTC",
+            "image_url": null,
+            "video_url": null,
+            "source_id": "business-standard",
+            "source_name": "Business Standard",
+            "source_priority": 9158,
+            "source_url": "https://www.business-standard.com",
+            "source_icon": "https://n.bytvi.com/business-standard.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": true
+        },
+        {
             "article_id": "6076b6ae2278213fda7cbe183cde0f8b",
             "title": "Anthem Biosciences IPO GMP surges as Rs 3,395-crore issue subscribed 14 times on Day 3",
             "link": "https://www.moneycontrol.com/news/business/ipo/anthem-biosciences-ipo-gmp-surges-as-rs-3-395-crore-issue-subscribed-14-times-on-day-3-check-latest-gmp-13284408.html",
@@ -25719,663 +26399,6 @@
             "source_url": "http://www.hindustantimes.com",
             "source_icon": "https://n.bytvi.com/hindustantimes.png",
             "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "080a99c365c2b621eaf399d6a457c75f",
-            "title": "सीबीएसई नॉर्थ जोन-2 तीरंदाजी चैंपियनशिप, -मेयर जैन व डीसी सारवान ने किया शुभारंभ",
-            "link": "https://www.dainiktribuneonline.com/news/haryana/cbse-north-zone-2-archery-championship-inaugurated-by-mayor-jain-and-dc-sarwan/",
-            "keywords": [
-                "हरियाणा",
-                "गुरुग्राम",
-                "dc sarwan",
-                "रोहतक",
-                "mayor jain",
-                "करनाल",
-                "तीरंदाजी चैंपियनशिप"
-            ],
-            "creator": [
-                "Kavita Raj"
-            ],
-            "description": "सोनीपत, 14 जुलाई (हप्र) : पूर्ण मूर्ति ग्लोबल स्कूल में सोमवार को सीबीएसई के तत्वधान में सीबीएसई नार्थ जोन-2 तीरंदाजी चैंपियनशिप का शुभारंभ हो गया। 5 दिवसीय चैंपियनशिप में मेजबान हरियाणा के साथ-साथ पंजाब, उत्तर प्रदेश, हिमाचल प्रदेश, उत्तराखंड, लद्दाख व जम्मू कश्मीर से करीब दो हजार खिलाड़ी अपने तीरंदाजी कौशल का प्रदर्शन करेंगे। मेयर [...]The post सीबीएसई नॉर्थ जोन-2 तीरंदाजी चैंपियनशिप, -मेयर जैन व डीसी सारवान ने किया शुभारंभ appeared first on dainiktribuneonline.com.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-07-14 20:16:00",
-            "pubDateTZ": "UTC",
-            "image_url": "https://dainiktribuneonline.imagibyte.sortdcdn.net/wp-content/uploads/2025/07/11407669CD-_IMG_20250714_175626-768x512.jpg",
-            "video_url": null,
-            "source_id": "dainiktribuneonline",
-            "source_name": "Breaking News In Hindi Online",
-            "source_priority": 465842,
-            "source_url": "https://www.dainiktribuneonline.com",
-            "source_icon": "https://n.bytvi.com/dainiktribuneonline.jpg",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "0f84a2f30da5e760a88dfd0f3fa9249f",
-            "title": "Jind News: ट्रैक्टर और प्राइवेट बस की हुई टक्कर",
-            "link": "https://www.amarujala.com/haryana/jind/tractor-and-private-bus-collided-jind-news-c-199-1-sroh1006-137800-2025-07-15",
-            "keywords": null,
-            "creator": null,
-            "description": "कस्बे में सांई मंदिर के पास दिल्ली नेशनल हाईवे पर सामने अचानक बेसहारा पशु आने से ट्रैक्टर और निजी बस की टक्कर हो गई।",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-07-14 20:15:58",
-            "pubDateTZ": "UTC",
-            "image_url": "https://staticimg.amarujala.com/assets/images/4cplus/2025/07/15/14jaenada22-naja-bsa-jasaka-tarakatara-ka-satha-takakara-haii-savatha_05ed7ad731c152e49a2e0bfc95b2eab6.jpeg?dpr=1.0&q=80&w=414",
-            "video_url": null,
-            "source_id": "amarujala",
-            "source_name": "Amar Ujala",
-            "source_priority": 55215,
-            "source_url": "https://www.amarujala.com",
-            "source_icon": "https://n.bytvi.com/amarujala.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "2ce9421bfc56fa8fc70ede5735a3613c",
-            "title": "Wembanyama cleared to return from blood clot",
-            "link": "https://www.espn.in/nba/story/_/id/45740391/spurs-victor-wembanyama-cleared-return-blood-clot",
-            "keywords": null,
-            "creator": [
-                "Michael C. Wright"
-            ],
-            "description": "Victor Wembanyama announced he has recovered from the deep vein thrombosis in his right shoulder, telling L'Équipe, \"I'm officially cleared to return.\"",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-07-14 20:15:53",
-            "pubDateTZ": "UTC",
-            "image_url": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F0124%2Fr1442529_1296x729_16-9.jpg",
-            "video_url": null,
-            "source_id": "espn_in",
-            "source_name": "Espn India",
-            "source_priority": 117932,
-            "source_url": "https://www.espn.in",
-            "source_icon": "https://n.bytvi.com/espn_in.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "sports"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": true
-        },
-        {
-            "article_id": "2b9b3077b460b6a76b632102000f268e",
-            "title": "Euro 2025 group games draw record crowds",
-            "link": "https://www.espn.in/football/story/_/id/45740457/euro-2025-attendance-record-broken-group-stage",
-            "keywords": null,
-            "creator": [
-                "Reuters"
-            ],
-            "description": "The group stage of the Women's European Championship which finished on Sunday had record-breaking attendances with close to half a million fans attending games.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-07-14 20:15:53",
-            "pubDateTZ": "UTC",
-            "image_url": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F0714%2Fr1519082_1296x729_16-9.jpg",
-            "video_url": null,
-            "source_id": "espn_in",
-            "source_name": "Espn India",
-            "source_priority": 117932,
-            "source_url": "https://www.espn.in",
-            "source_icon": "https://n.bytvi.com/espn_in.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "sports"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": true
-        },
-        {
-            "article_id": "9f39eaf75b0c22aa9476cccb1bebdfc3",
-            "title": "Jadeja and the curse of being so good",
-            "link": "https://www.espn.in/cricket/story/_/id/45740422/eng-vs-ind-lords-test-ravindra-jadeja-curse-being-good",
-            "keywords": null,
-            "creator": [
-                "Sidharth Monga"
-            ],
-            "description": "He once again came so close to sealing his place in popular legend, but it was not meant to be",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-07-14 20:15:53",
-            "pubDateTZ": "UTC",
-            "image_url": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1495213_1296x729.jpg",
-            "video_url": null,
-            "source_id": "espn_in",
-            "source_name": "Espn India",
-            "source_priority": 117932,
-            "source_url": "https://www.espn.in",
-            "source_icon": "https://n.bytvi.com/espn_in.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "sports"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "01f8ac44328ef192bcb94077ef001d1f",
-            "title": "Sambhal News: आरटीआई की सूचनाएं न देने वाले सचिव व एडीओ का कटेगा वेतन",
-            "link": "https://www.amarujala.com/uttar-pradesh/sambhal/salary-of-secretary-and-ado-will-be-deducted-for-not-providing-rti-information-sambhal-news-c-275-1-smbd1033-124683-2025-07-15",
-            "keywords": null,
-            "creator": null,
-            "description": "आरटीआई के तहत सूचनाएं उपलब्ध न कराने वाले संभल जिले के 14 सचिवों के वेतन से जुर्माने की धनराशि काटने के निर्देश शासन ने दिए हैं।",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-07-14 20:15:51",
-            "pubDateTZ": "UTC",
-            "image_url": "https://staticimg.amarujala.com/assets/images/2021/12/02/sambhal_1638431705.jpeg?dpr=1.0&q=80&w=414",
-            "video_url": null,
-            "source_id": "amarujala",
-            "source_name": "Amar Ujala",
-            "source_priority": 55215,
-            "source_url": "https://www.amarujala.com",
-            "source_icon": "https://n.bytvi.com/amarujala.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "b78a25f3990346ed2bfd54a8c767bf0b",
-            "title": "Agra News: जिले के 20 अस्पताल स्वास्थ्य विभाग के रडार पर, होंगे सीज",
-            "link": "https://www.amarujala.com/uttar-pradesh/agra/20-hospitals-of-the-district-are-on-the-radar-of-the-health-department-will-be-sealed-mainpuri-news-c-174-1-sagr1037-141268-2025-07-15",
-            "keywords": null,
-            "creator": null,
-            "description": "जिले के 20 अस्पताल स्वास्थ्य विभाग के रडार पर, होंगे सीज",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-07-14 20:15:45",
-            "pubDateTZ": "UTC",
-            "image_url": "https://staticimg.amarujala.com/assets/images/2021/10/25/agra_1635142165.jpeg?dpr=1.0&q=80&w=414",
-            "video_url": null,
-            "source_id": "amarujala",
-            "source_name": "Amar Ujala",
-            "source_priority": 55215,
-            "source_url": "https://www.amarujala.com",
-            "source_icon": "https://n.bytvi.com/amarujala.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "16f4b7f90cebcdb1abbf17d37ef1ce85",
-            "title": "Panchkula News: खतरे की जद में नदी के किनारे, प्रशासन से निगरानी की मांग",
-            "link": "https://www.amarujala.com/haryana/panchkula/the-river-banks-are-in-danger-administration-demands-monitoring-panchkula-news-c-87-1-spkl1029-124702-2025-07-15",
-            "keywords": null,
-            "creator": null,
-            "description": "खतरे की जद में नदी के किनारे, प्रशासन से निगरानी की मांग",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-07-14 20:15:38",
-            "pubDateTZ": "UTC",
-            "image_url": "https://staticimg.amarujala.com/assets/images/2021/10/12/panchkula_1634042987.jpeg?dpr=1.0&q=80&w=414",
-            "video_url": null,
-            "source_id": "amarujala",
-            "source_name": "Amar Ujala",
-            "source_priority": 55215,
-            "source_url": "https://www.amarujala.com",
-            "source_icon": "https://n.bytvi.com/amarujala.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "894449fcf151564f64bc05b3fe30d16f",
-            "title": "Cleveland Cavaliers Re-Sign Randy Mims, Reinforcing Ties to LeBron James and a Legacy of Loyalty",
-            "link": "https://timesofindia.indiatimes.com/sports/nba/top-stories/cleveland-cavaliers-re-sign-randy-mims-reinforcing-ties-to-lebron-james-and-a-legacy-of-loyalty/articleshow/122460148.cms",
-            "keywords": null,
-            "creator": null,
-            "description": "The Cleveland Cavaliers have re-signed Randy Mims, LeBron James' close friend and former teammate, highlighting the enduring bond between them. Mims' presence is valued for his positive influence on team dynamics and leadership. This move also underscores the Cavaliers' continued connection to LeBron James, fueling speculation about a potential return to Cleveland.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-07-14 20:15:36",
-            "pubDateTZ": "UTC",
-            "image_url": "https://static.toiimg.com/thumb/msid-122461880,width-1070,height-580,imgsize-49858,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-            "video_url": null,
-            "source_id": "toi",
-            "source_name": "The Times Of India",
-            "source_priority": 239,
-            "source_url": "https://timesofindia.indiatimes.com",
-            "source_icon": "https://n.bytvi.com/toi.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "2ee6ec2f5830844899694834a8d56d66",
-            "title": "Kanpur News: शातिरों ने बैंक कर्मी को सात लाख का लोन करा 5.10 लाख उड़ाए",
-            "link": "https://www.amarujala.com/uttar-pradesh/kanpur/the-scoundrels-took-a-loan-of-rs-7-lakh-from-the-bank-employee-and-stole-rs-510-lakh-kanpur-news-c-362-1-ka11002-127182-2025-07-15",
-            "keywords": null,
-            "creator": null,
-            "description": "कानपुर। साइबर ठगों ने शातिराना अंदाज में पनकी रतनपुर निवासी सेवानिवृत्ति बैंककर्मी को 5.10 लाख रुपये का चूना लगा दिया।",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-07-14 20:15:33",
-            "pubDateTZ": "UTC",
-            "image_url": "https://staticimg.amarujala.com/assets/images/2021/10/25/kanpur_1635142999.jpeg?dpr=1.0&q=80&w=414",
-            "video_url": null,
-            "source_id": "amarujala",
-            "source_name": "Amar Ujala",
-            "source_priority": 55215,
-            "source_url": "https://www.amarujala.com",
-            "source_icon": "https://n.bytvi.com/amarujala.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "5dd0183c43e55a1aea80e63e68d53a87",
-            "title": "Jammu News: घर से बाहर बुलाकर युवक पर हथियार से हमला",
-            "link": "https://www.amarujala.com/jammu/demonstration-against-the-mandatory-requirement-of-urdu-in-the-recruitment-of-naib-tehsildar-rspura-news-c-312-1-sjam1007-102629-2025-07-15",
-            "keywords": null,
-            "creator": null,
-            "description": "घर से बाहर बुलाकर युवक पर हथियार से हमला",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-07-14 20:15:26",
-            "pubDateTZ": "UTC",
-            "image_url": "https://staticimg.amarujala.com/assets/images/2021/11/03/jammu_1635936228.jpeg?dpr=1.0&q=80&w=414",
-            "video_url": null,
-            "source_id": "amarujala",
-            "source_name": "Amar Ujala",
-            "source_priority": 55215,
-            "source_url": "https://www.amarujala.com",
-            "source_icon": "https://n.bytvi.com/amarujala.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "1e866e6fa92db27dce468691ff162cca",
-            "title": "बेकसूर दुकानदारों पर बुलडोजर चलाना उनके अधिकारों का हनन : दीपेन्द्र हुड्डा",
-            "link": "https://www.dainiktribuneonline.com/news/haryana/running-a-bulldozer-on-innocent-shopkeepers-is-a-violation-of-their-rights-deepender-hooda/",
-            "keywords": [
-                "दीपेन्द्र हुड्डा",
-                "हरियाणा",
-                "deepender hooda",
-                "गुरुग्राम",
-                "congress mp deepender hooda",
-                "रोहतक",
-                "करनाल"
-            ],
-            "creator": [
-                "Kavita Raj"
-            ],
-            "description": "रोहतक, 14 जुलाई (निस) : कांग्रेस सांसद दीपेन्द्र हुड्डा ने शहर के प्रमुख बाजार किला रोड मार्केट की दुकानों में हुई तोड़फोड़ के बाद पूरे मार्केट का दौरा किया और व्यापारियों की पीड़ा सुनी। व्यापारियों ने रूंधे गले से सांसद दीपेन्द्र हुड्डा को बताया कि इस तोड़फोड़ से उन्हें लाखों का नुकसान हुआ है। सांसद [...]The post बेकसूर दुकानदारों पर बुलडोजर चलाना उनके अधिकारों का हनन : दीपेन्द्र हुड्डा appeared first on dainiktribuneonline.com.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-07-14 20:15:19",
-            "pubDateTZ": "UTC",
-            "image_url": "https://dainiktribuneonline.imagibyte.sortdcdn.net/wp-content/uploads/2025/07/11407335CD-_14RTK4-768x480.jpeg",
-            "video_url": null,
-            "source_id": "dainiktribuneonline",
-            "source_name": "Breaking News In Hindi Online",
-            "source_priority": 465842,
-            "source_url": "https://www.dainiktribuneonline.com",
-            "source_icon": "https://n.bytvi.com/dainiktribuneonline.jpg",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "37fae21f018f5df41eee630846d7d6a5",
-            "title": "Jammu News: नारीशक्ति को मुश्किलों से लड़ना सिखा रही दुर्गा वाहिनी",
-            "link": "https://www.amarujala.com/jammu/women-empowerment-jammu-news-c-10-jam1003-660557-2025-07-15",
-            "keywords": null,
-            "creator": null,
-            "description": "नारीशक्ति को मुश्किलों से लड़ना सिखा रही दुर्गा वाहिनी",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-07-14 20:15:19",
-            "pubDateTZ": "UTC",
-            "image_url": "https://staticimg.amarujala.com/assets/images/2021/11/03/jammu_1635936228.jpeg?dpr=1.0&q=80&w=414",
-            "video_url": null,
-            "source_id": "amarujala",
-            "source_name": "Amar Ujala",
-            "source_priority": 55215,
-            "source_url": "https://www.amarujala.com",
-            "source_icon": "https://n.bytvi.com/amarujala.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "8576aec6e31131e8ed2de44575e11acb",
-            "title": "Jind News: पैसों के लेन-देन के मामले में आढ़ती की दुकान पर फायरिंग",
-            "link": "https://www.amarujala.com/haryana/jind/firing-at-a-commission-agents-shop-in-a-money-transaction-case-jind-news-c-199-1-sroh1006-137798-2025-07-15",
-            "keywords": null,
-            "creator": null,
-            "description": "पैसों के लेन-देन के मामले में अनाज मंडी में आढ़ती की दुकान पर फायरिंग की गई। पुलिस ने इस मामले में मामला दर्ज कर लिया है। एक हफ्ते पहले विवाद को लेकर पंचायत पर की गई थी।",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-07-14 20:15:12",
-            "pubDateTZ": "UTC",
-            "image_url": "https://staticimg.amarujala.com/assets/images/4cplus/2025/07/15/14jaenada21-aaugdhhata-ka-thakana-ma-tharavaja-ma-lga-gal-sa-haaa-chhatha-savatha_379d8f0eeff325e993c0a7542ce1b9a3.jpeg?dpr=1.0&q=80&w=414",
-            "video_url": null,
-            "source_id": "amarujala",
-            "source_name": "Amar Ujala",
-            "source_priority": 55215,
-            "source_url": "https://www.amarujala.com",
-            "source_icon": "https://n.bytvi.com/amarujala.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "56af9520b348dcb337106b41057d96c6",
-            "title": "Rampur News: शहर में भी कम नहीं खुले नालों से खतरे",
-            "link": "https://www.amarujala.com/uttar-pradesh/rampur/danger-from-open-drains-is-no-less-in-the-city-rampur-news-c-282-1-rmp1001-149457-2025-07-15",
-            "keywords": null,
-            "creator": null,
-            "description": "लखनऊ के ठाकुरगंज में हादसे के बाद भी पालिका प्रशासन सबक नहीं ले रहा है। हालात यह है कि रामपुर के भी तीन बड़े नाले खुले हैं और हादसे को न्योता दे रहे हैं।",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-07-14 20:15:05",
-            "pubDateTZ": "UTC",
-            "image_url": "https://staticimg.amarujala.com/assets/images/2021/12/02/rampur_1638431627.jpeg?dpr=1.0&q=80&w=414",
-            "video_url": null,
-            "source_id": "amarujala",
-            "source_name": "Amar Ujala",
-            "source_priority": 55215,
-            "source_url": "https://www.amarujala.com",
-            "source_icon": "https://n.bytvi.com/amarujala.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "bd106f8841fb62a9622f89e75ced55b7",
-            "title": "England Bowler To Miss Remainder Of India Test Series Due To THIS Season",
-            "link": "https://zeenews.india.com/cricket/england-bowler-to-miss-remainder-of-india-test-series-due-to-this-season-2931947.html",
-            "keywords": null,
-            "creator": [
-                "Zee News"
-            ],
-            "description": "With two more Tests left to be played, England bowler has been ruled out of the rest of the ongoing five-Test series against India.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-07-14 20:15:00",
-            "pubDateTZ": "UTC",
-            "image_url": "https://english.cdn.zeenews.com/sites/default/files/styles/zm_700x400/public/2025/07/15/1791946-shoaib-bashir.jpg?im=Resize%3D%28400%29",
-            "video_url": null,
-            "source_id": "zeenews",
-            "source_name": "Zee News",
-            "source_priority": 5319,
-            "source_url": "http://zeenews.india.com",
-            "source_icon": "https://n.bytvi.com/zeenews.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "sports"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "1d7b876d42cf9dc201e157dc20bb80fc",
-            "title": "Panchkula News: सेक्टर -17 में एक महीने से नहीं हो रही गटर की सफाई, बदबू से लोग परेशान",
-            "link": "https://www.amarujala.com/haryana/panchkula/sewer-cleaning-is-not-being-done-in-sector-17-for-a-month-people-are-troubled-by-the-smell-panchkula-news-c-290-1-pkl1068-18286-2025-07-15",
-            "keywords": null,
-            "creator": null,
-            "description": "सेक्टर -17 में एक महीने से नहीं हो रही गटर की सफाई, बदबू से लोग परेशान",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-07-14 20:14:57",
-            "pubDateTZ": "UTC",
-            "image_url": "https://staticimg.amarujala.com/assets/images/2021/10/12/panchkula_1634042987.jpeg?dpr=1.0&q=80&w=414",
-            "video_url": null,
-            "source_id": "amarujala",
-            "source_name": "Amar Ujala",
-            "source_priority": 55215,
-            "source_url": "https://www.amarujala.com",
-            "source_icon": "https://n.bytvi.com/amarujala.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "768062fd3b0cd5a5102a6b03fe52c278",
-            "title": "‘BBMP allows free car parking, but fines us’: Street vendors protest against eviction",
-            "link": "https://www.deccanherald.com/india/karnataka/bengaluru/bbmp-allows-free-car-parking-but-fines-us-street-vendors-protest-against-eviction-3630205",
-            "keywords": null,
-            "creator": [
-                "DHNS"
-            ],
-            "description": "‘BBMP allows free car parking, but fines us’: Street vendors protest against eviction",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-07-14 20:14:55",
-            "pubDateTZ": "UTC",
-            "image_url": "https://media.assettype.com/deccanherald%2F2025-07-14%2Fiuwys221%2Ffile81i5alomeuu5shqq3nj.jpg?ar=40%3A21&auto=format%2Ccompress&mode=crop&ogImage=true&rect=0%2C34%2C3873%2C2033&w=1200",
-            "video_url": null,
-            "source_id": "deccanherald",
-            "source_name": "Deccan Herald",
-            "source_priority": 10080,
-            "source_url": "https://www.deccanherald.com",
-            "source_icon": "https://n.bytvi.com/deccanherald.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "4b685d3432f070022b712cfcddc92b74",
-            "title": "Reddit’s UK users must now prove they’re 18 to view many types of content",
-            "link": "https://arstechnica.com/tech-policy/2025/07/reddit-starts-verifying-ages-of-uk-users-to-comply-with-child-safety-law/",
-            "keywords": [
-                "policy",
-                "reddit"
-            ],
-            "creator": [
-                "Jon Brodkin"
-            ],
-            "description": "Reddit hires company to verify user age with selfie or photo of government ID.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-07-14 20:14:52",
-            "pubDateTZ": "UTC",
-            "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/reddit-icon-1152x648-1752522571.jpg",
-            "video_url": null,
-            "source_id": "arstechnica",
-            "source_name": "Ars Technica",
-            "source_priority": 2007,
-            "source_url": "https://arstechnica.com",
-            "source_icon": "https://n.bytvi.com/arstechnica.png",
-            "language": "english",
-            "country": [
-                "india",
-                "canada",
-                "united states of america"
-            ],
-            "category": [
-                "technology"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "6ab42d6e17e7b8296d50748afb588958",
-            "title": "Sambhal News: संदिग्ध हालात में फंदे पर लटका मिला महिला का शव",
-            "link": "https://www.amarujala.com/uttar-pradesh/sambhal/the-body-of-a-woman-was-found-hanging-under-suspicious-circumstances-sambhal-news-c-204-1-chn1003-121500-2025-07-15",
-            "keywords": null,
-            "creator": null,
-            "description": "थाना क्षेत्र के गांव में महिला की संदिग्ध परिस्थितियों में सोमवार सुबह दस बजे करीब कलावती उर्फ गीता (32) मौत हो गई है।",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-07-14 20:14:49",
-            "pubDateTZ": "UTC",
-            "image_url": "https://staticimg.amarujala.com/assets/images/2021/12/02/sambhal_1638431705.jpeg?dpr=1.0&q=80&w=414",
-            "video_url": null,
-            "source_id": "amarujala",
-            "source_name": "Amar Ujala",
-            "source_priority": 55215,
-            "source_url": "https://www.amarujala.com",
-            "source_icon": "https://n.bytvi.com/amarujala.png",
-            "language": "hindi",
             "country": [
                 "india"
             ],
