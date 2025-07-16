@@ -1,6 +1,707 @@
 {
     "articles": [
         {
+            "article_id": "3330dd6c808e25104bf0d2909355161c",
+            "title": "UK to roll out red carpet for second Trump state visit",
+            "link": "https://www.channelnewsasia.com/world/trump-second-uk-state-visit-5238021",
+            "keywords": [
+                "world"
+            ],
+            "creator": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-07-14 18:17:00",
+            "pubDateTZ": "UTC",
+            "image_url": "https://dam.mediacorp.sg/image/upload/s--ty7TqBG6--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2025-06-25t105309z_1_lynxmpel5o0g4_rtroptp_3_usa-trump-britain.jpg?itok=kp2xfFbi",
+            "video_url": null,
+            "source_id": "channelnewsasia",
+            "source_name": "Channel Newsasia",
+            "source_priority": 4763,
+            "source_url": "https://www.channelnewsasia.com",
+            "source_icon": "https://n.bytvi.com/channelnewsasia.jpg",
+            "language": "english",
+            "country": [
+                "georgia",
+                "yemen",
+                "afghanistan",
+                "cyprus",
+                "india",
+                "singapore",
+                "saudi arabia",
+                "maldives",
+                "japan",
+                "united arab emirates",
+                "malaysia",
+                "china",
+                "south korea",
+                "north korea",
+                "taiwan",
+                "thailand",
+                "pakistan",
+                "mongolia",
+                "brunei",
+                "lebanon",
+                "indonesia",
+                "kyrgyzstan",
+                "syria",
+                "israel",
+                "bhutan",
+                "iran",
+                "turkey",
+                "armenia",
+                "qatar",
+                "philippines",
+                "hong kong",
+                "kazakhstan",
+                "iraq",
+                "bangladesh",
+                "laos",
+                "vietnam",
+                "timor-leste",
+                "kuwait",
+                "myanmar",
+                "azerbaijan",
+                "jordan",
+                "nepal",
+                "sri lanka",
+                "uzbekistan",
+                "turkmenistan",
+                "macau",
+                "bahrain",
+                "cambodia",
+                "tajikistan"
+            ],
+            "category": [
+                "world"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": true
+        },
+        {
+            "article_id": "de07504651498ea759aa243dab2a437a",
+            "title": "Shivani Dani Wakhre named investment advisor for Vidarbha",
+            "link": "https://timesofindia.indiatimes.com/city/nagpur/shivani-dani-wakhre-named-investment-advisor-for-vidarbha/articleshow/122457405.cms",
+            "keywords": null,
+            "creator": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-07-14 18:16:57",
+            "pubDateTZ": "UTC",
+            "image_url": "https://static.toiimg.com/thumb/msid-122458883,width-1070,height-580,imgsize-33786,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "video_url": null,
+            "source_id": "toi",
+            "source_name": "The Times Of India",
+            "source_priority": 239,
+            "source_url": "https://timesofindia.indiatimes.com",
+            "source_icon": "https://n.bytvi.com/toi.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "0ff357975bd1f2e9af28823cf2ef204c",
+            "title": "Ganjam school makes students sit in a semi-circle",
+            "link": "https://timesofindia.indiatimes.com/city/bhubaneswar/ganjam-school-makes-students-sit-in-a-semi-circle/articleshow/122457401.cms",
+            "keywords": null,
+            "creator": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-07-14 18:16:56",
+            "pubDateTZ": "UTC",
+            "image_url": "https://static.toiimg.com/thumb/msid-122457400,width-1070,height-580,imgsize-51298,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "video_url": null,
+            "source_id": "toi",
+            "source_name": "The Times Of India",
+            "source_priority": 239,
+            "source_url": "https://timesofindia.indiatimes.com",
+            "source_icon": "https://n.bytvi.com/toi.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "c5f19d1513f64798acc3bb8d378638d1",
+            "title": "Patient at Balangir hosp critically injured after fall from bldg",
+            "link": "https://timesofindia.indiatimes.com/city/bhubaneswar/patient-at-balangir-hosp-critically-injured-after-fall-from-bldg/articleshow/122457399.cms",
+            "keywords": null,
+            "creator": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-07-14 18:16:56",
+            "pubDateTZ": "UTC",
+            "image_url": "https://static.toiimg.com/thumb/msid-117597040,imgsize-403159,width-400,height-225,resizemode-72/117597040.jpg",
+            "video_url": null,
+            "source_id": "toi",
+            "source_name": "The Times Of India",
+            "source_priority": 239,
+            "source_url": "https://timesofindia.indiatimes.com",
+            "source_icon": "https://n.bytvi.com/toi.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "5704b60c4f3ec434e0b042394b71a17d",
+            "title": "Acquitted of bank robbery, 3 face case for not being in court for verdict",
+            "link": "https://timesofindia.indiatimes.com/city/rajkot/acquitted-of-bank-robbery-3-face-case-for-not-being-in-court-for-verdict/articleshow/122457393.cms",
+            "keywords": null,
+            "creator": [
+                "Nimesh Khakhariya"
+            ],
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-07-14 18:16:52",
+            "pubDateTZ": "UTC",
+            "image_url": "https://static.toiimg.com/thumb/msid-117691970,imgsize-99915,width-400,height-225,resizemode-72/117691970.jpg",
+            "video_url": null,
+            "source_id": "toi",
+            "source_name": "The Times Of India",
+            "source_priority": 239,
+            "source_url": "https://timesofindia.indiatimes.com",
+            "source_icon": "https://n.bytvi.com/toi.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "3698cf0f70a62b6620af3d5cc207508e",
+            "title": "Delivery boy stabbed and robbed in Rohini sector 18",
+            "link": "https://timesofindia.indiatimes.com/city/delhi/delivery-boy-stabbed-and-robbed-in-rohini-sector-18/articleshow/122457389.cms",
+            "keywords": null,
+            "creator": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-07-14 18:16:51",
+            "pubDateTZ": "UTC",
+            "image_url": "https://static.toiimg.com/thumb/msid-122457388,width-1070,height-580,imgsize-5682,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "video_url": null,
+            "source_id": "toi",
+            "source_name": "The Times Of India",
+            "source_priority": 239,
+            "source_url": "https://timesofindia.indiatimes.com",
+            "source_icon": "https://n.bytvi.com/toi.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "business"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "1a24007054d932640be793e0c54b0782",
+            "title": "2 die in Ganjam bike accident",
+            "link": "https://timesofindia.indiatimes.com/city/bhubaneswar/2-die-in-ganjam-bike-accident/articleshow/122457391.cms",
+            "keywords": null,
+            "creator": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-07-14 18:16:50",
+            "pubDateTZ": "UTC",
+            "image_url": "https://static.toiimg.com/thumb/msid-117597047,width-1070,height-580,imgsize-91698,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "video_url": null,
+            "source_id": "toi",
+            "source_name": "The Times Of India",
+            "source_priority": 239,
+            "source_url": "https://timesofindia.indiatimes.com",
+            "source_icon": "https://n.bytvi.com/toi.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "12351066fa8c2faf36eaebd9bf1b6d42",
+            "title": "Youth arrested for snatching Hungarian woman’s mobile",
+            "link": "https://timesofindia.indiatimes.com/city/bhubaneswar/youth-arrested-for-snatching-hungarian-womans-mobile/articleshow/122457381.cms",
+            "keywords": null,
+            "creator": [
+                "Debabrata Mohapatra"
+            ],
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-07-14 18:16:46",
+            "pubDateTZ": "UTC",
+            "image_url": "https://static.toiimg.com/thumb/msid-122457379,imgsize-34264,width-400,height-225,resizemode-72/122457379.jpg",
+            "video_url": null,
+            "source_id": "toi",
+            "source_name": "The Times Of India",
+            "source_priority": 239,
+            "source_url": "https://timesofindia.indiatimes.com",
+            "source_icon": "https://n.bytvi.com/toi.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "9c56784c9583df8870830ca9d9e7648e",
+            "title": "Another female elephant ‘electrocuted’ in state",
+            "link": "https://timesofindia.indiatimes.com/city/bhubaneswar/another-female-elephant-electrocuted-in-state/articleshow/122457376.cms",
+            "keywords": null,
+            "creator": null,
+            "description": null,
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-07-14 18:16:45",
+            "pubDateTZ": "UTC",
+            "image_url": "https://static.toiimg.com/thumb/msid-122457375,width-1070,height-580,imgsize-95920,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "video_url": null,
+            "source_id": "toi",
+            "source_name": "The Times Of India",
+            "source_priority": 239,
+            "source_url": "https://timesofindia.indiatimes.com",
+            "source_icon": "https://n.bytvi.com/toi.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "2e1ff53c0e4cba011e2d7754671edb14",
+            "title": "Over 6000 pilgrims leave Jammu for Amarnath shrine",
+            "link": "https://www.greaterkashmir.com/jammu/over-6000-pilgrims-leave-jammu-for-amarnath-shrine/",
+            "keywords": [
+                "page 2",
+                "jammu",
+                "today's paper"
+            ],
+            "creator": [
+                "",
+                "GK NEWS SERVICE"
+            ],
+            "description": "LG Sinha is also chairman of the Shri Amarnath Shrine Board (SASB)The post Over 6000 pilgrims leave Jammu for Amarnath shrine appeared first on Greater Kashmir.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-07-14 18:16:40",
+            "pubDateTZ": "UTC",
+            "image_url": "https://greaterkashmir.imagibyte.sortdcdn.net/wp-content/uploads/2025/07/Screenshot-2025-07-04-at-12.05.43-AM.png",
+            "video_url": null,
+            "source_id": "greaterkashmir",
+            "source_name": "Greater Kashmir",
+            "source_priority": 754664,
+            "source_url": "https://www.greaterkashmir.com",
+            "source_icon": "https://n.bytvi.com/greaterkashmir.jpg",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "4236d899a4c520cfe39e3211eda1f993",
+            "title": "MLB draft winners and head-scratchers: What we loved -- and didn't -- on Day 1",
+            "link": "https://www.espn.in/mlb/story/_/id/45709341/2025-mlb-draft-analysis-winners-losers-takeaway",
+            "keywords": null,
+            "creator": [
+                "Alden Gonzalez and Jesse Rogers and David Schoenfield"
+            ],
+            "description": "The first 105 picks are in the books. With shocks at Nos. 1 and 2, here are the winners, losers and takeaways.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-07-14 18:16:32",
+            "pubDateTZ": "UTC",
+            "image_url": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F0714%2Fr1518839_1296x729_16-9.jpg",
+            "video_url": null,
+            "source_id": "espn_in",
+            "source_name": "Espn India",
+            "source_priority": 117932,
+            "source_url": "https://www.espn.in",
+            "source_icon": "https://n.bytvi.com/espn_in.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "sports"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "4ad485bf4df036534f665478b79b63f5",
+            "title": "Kiley McDaniel's favorite Day 1 draft picks, biggest surprises and best available Day 2 prospects",
+            "link": "https://www.espn.in/mlb/story/_/id/45709412/2025-mlb-draft-kiley-mcdaniel-favorite-day-1-picks-best-available-day-2-prospects",
+            "keywords": null,
+            "creator": [
+                "Kiley McDaniel"
+            ],
+            "description": "Here's what stood out to our draft expert from the first three rounds -- and who could come off the board next",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-07-14 18:16:32",
+            "pubDateTZ": "UTC",
+            "image_url": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F0714%2Fr1518877_1296x729_16-9.jpg",
+            "video_url": null,
+            "source_id": "espn_in",
+            "source_name": "Espn India",
+            "source_priority": 117932,
+            "source_url": "https://www.espn.in",
+            "source_icon": "https://n.bytvi.com/espn_in.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "sports"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": true
+        },
+        {
+            "article_id": "b88015eec320b268105f36ad13ba5617",
+            "title": "Breaking down the Derby contestants -- and their pitchers",
+            "link": "https://www.espn.in/mlb/story/_/id/45709787/mlb-2025-home-run-derby-contestants-sluggers-pitchers-all-star-analysis",
+            "keywords": null,
+            "creator": [
+                "Buster Olney"
+            ],
+            "description": "What you need to know about this year's hitters -- and who they chose for their biggest moment.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-07-14 18:16:32",
+            "pubDateTZ": "UTC",
+            "image_url": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F0714%2Fr1518950_1296x729_16-9.jpg",
+            "video_url": null,
+            "source_id": "espn_in",
+            "source_name": "Espn India",
+            "source_priority": 117932,
+            "source_url": "https://www.espn.in",
+            "source_icon": "https://n.bytvi.com/espn_in.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "sports"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": true
+        },
+        {
+            "article_id": "b94a9d23c16159a6d8a15e6d5b8b220c",
+            "title": "It's MLB Home Run Derby Day! Predictions, live updates and takeaways",
+            "link": "https://www.espn.in/mlb/story/_/id/45709761/mlb-2025-home-run-derby-predictions-live-updates-takeaways-analysis",
+            "keywords": null,
+            "creator": [
+                "ESPN"
+            ],
+            "description": "Ready to watch stars swing for the fences? We have your one-stop shop for the most power-packed day of the baseball year.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-07-14 18:16:32",
+            "pubDateTZ": "UTC",
+            "image_url": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F0713%2Fmlb_home_run_derby_day_cr_16x9.jpg",
+            "video_url": null,
+            "source_id": "espn_in",
+            "source_name": "Espn India",
+            "source_priority": 117932,
+            "source_url": "https://www.espn.in",
+            "source_icon": "https://n.bytvi.com/espn_in.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "sports"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": true
+        },
+        {
+            "article_id": "79c0dc3369fd6a037e2418d18c38f59c",
+            "title": "Who are the NFL's best quarterbacks? Execs, coaches and scouts help rank 2025's top 10",
+            "link": "https://www.espn.in/nfl/story/_/id/45530940/top-10-nfl-quarterbacks-execs-scouts-2025-espn-jeremy-fowler-position-rankings",
+            "keywords": null,
+            "creator": [
+                "Jeremy Fowler"
+            ],
+            "description": "Evaluators around the league ranked their top 10 QBs in our annual summer series.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-07-14 18:16:31",
+            "pubDateTZ": "UTC",
+            "image_url": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F0703%2Fnfl_fowler-top10-qb_16x9.jpg",
+            "video_url": null,
+            "source_id": "espn_in",
+            "source_name": "Espn India",
+            "source_priority": 117932,
+            "source_url": "https://www.espn.in",
+            "source_icon": "https://n.bytvi.com/espn_in.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "sports"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": true
+        },
+        {
+            "article_id": "2772b1bace45f9e165fab62941ac87b4",
+            "title": "Euro 2025 group stage talking points: Best team, best player, predictions, more",
+            "link": "https://www.espn.in/football/story/_/id/45730325/euro-2025-talking-points-best-team-player-predictions-more",
+            "keywords": null,
+            "creator": [
+                "ESPN"
+            ],
+            "description": "The 2025 UEFA Women's European Championship is into the knockout stage. But what stood out for our reporters?",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-07-14 18:16:31",
+            "pubDateTZ": "UTC",
+            "image_url": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F0714%2Fr1518893_1296x729_16-9.jpg",
+            "video_url": null,
+            "source_id": "espn_in",
+            "source_name": "Espn India",
+            "source_priority": 117932,
+            "source_url": "https://www.espn.in",
+            "source_icon": "https://n.bytvi.com/espn_in.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "sports"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": true
+        },
+        {
+            "article_id": "bdb3127570fb1e7a3f18f6ccb14b04d0",
+            "title": "2025 NBA summer league: First impressions of the rookie class and other key notes",
+            "link": "https://www.espn.in/nba/story/_/id/45735533/2025-las-vegas-nba-summer-league-first-impressions-years-rookie-draft-class",
+            "keywords": null,
+            "creator": [
+                "Multiple contributors"
+            ],
+            "description": "Cooper Flagg led the summer league headlines, but which other rookies stood out in Las Vegas? Our NBA insiders have you covered.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-07-14 18:16:31",
+            "pubDateTZ": "UTC",
+            "image_url": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F0714%2Fr1518833_1296x729_16-9.jpg",
+            "video_url": null,
+            "source_id": "espn_in",
+            "source_name": "Espn India",
+            "source_priority": 117932,
+            "source_url": "https://www.espn.in",
+            "source_icon": "https://n.bytvi.com/espn_in.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "sports"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": true
+        },
+        {
+            "article_id": "a0f3f4ffd07daf584af3fd7960638b8b",
+            "title": "Why PSG shouldn't dwell too much on Club World Cup rout by Chelsea",
+            "link": "https://www.espn.in/football/story/_/id/45732698/psg-club-world-cup-thrashing-lessons-luis-enrique-chelsea",
+            "keywords": null,
+            "creator": [
+                "Gab Marcotti"
+            ],
+            "description": "PSG's heavy defeat in the Club World Cup final was a bit of a shock, though it's important that Luis Enrique & Co. learn the right lessons from it and apply them to next season.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-07-14 18:16:31",
+            "pubDateTZ": "UTC",
+            "image_url": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F0714%2Fr1518915_1296x729_16-9.jpg",
+            "video_url": null,
+            "source_id": "espn_in",
+            "source_name": "Espn India",
+            "source_priority": 117932,
+            "source_url": "https://www.espn.in",
+            "source_icon": "https://n.bytvi.com/espn_in.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "sports"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": true
+        },
+        {
+            "article_id": "d6ef3ab3c67c2fddb74f41a7391e15a7",
+            "title": "Club World Cup takeaways: Rating the tournament, best moment, surprise teams, more",
+            "link": "https://www.espn.in/football/story/_/id/45732754/club-world-cup-takeaways-ratings-best-moment-surprises-more",
+            "keywords": null,
+            "creator": [
+                "Multiple Contributors"
+            ],
+            "description": "The 2025 FIFA Club World Cup is over, with Chelsea crowned champions. Time to let our reporters who covered the competition chime in with their final thoughts on the good, bad and ugly.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-07-14 18:16:31",
+            "pubDateTZ": "UTC",
+            "image_url": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F0714%2Fr1518936_1296x729_16-9.jpg",
+            "video_url": null,
+            "source_id": "espn_in",
+            "source_name": "Espn India",
+            "source_priority": 117932,
+            "source_url": "https://www.espn.in",
+            "source_icon": "https://n.bytvi.com/espn_in.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "sports"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": true
+        },
+        {
+            "article_id": "525dc47e7d6bfed19c9e1395794c008d",
+            "title": "Rory ditches sleep for Open practice at home",
+            "link": "https://www.espn.in/golf/story/_/id/45739367/rory-mcilroy-ditches-sleep-some-early-open-practice",
+            "keywords": null,
+            "creator": [
+                "Paolo Uggetti"
+            ],
+            "description": "Fresh off the Scottish Open, Rory McIlroy ditched sleep for an early practice for The Open Championship.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-07-14 18:16:31",
+            "pubDateTZ": "UTC",
+            "image_url": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F0612%2Fr1505811_1296x729_16-9.jpg",
+            "video_url": null,
+            "source_id": "espn_in",
+            "source_name": "Espn India",
+            "source_priority": 117932,
+            "source_url": "https://www.espn.in",
+            "source_icon": "https://n.bytvi.com/espn_in.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "sports"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": true
+        },
+        {
             "article_id": "8c1f257350c99ae5cea97960606ec9bf",
             "title": "MP CM Dr Mohan Yadav की दुबई यात्रा से संबंधित 10 महत्वपूर्ण समाचार संक्षिप्त में",
             "link": "https://www.bhopalsamachar.com/2025/07/mp-cm-dr-mohan-yadav-10.html",
