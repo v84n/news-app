@@ -1,6 +1,798 @@
 {
     "articles": [
         {
+            "article_id": "dd17589b86a01a345bc0d222fc86500f",
+            "title": "Apple releases iOS 26 Beta 4 with new Liquid Glass look, smarter notification summaries",
+            "link": "https://www.news9live.com/technology/tech-news/ios26-beta4-new-changes-fixes-camera-passwords-summary-2879379",
+            "keywords": [
+                "tech news"
+            ],
+            "creator": [
+                "News9 Technology Desk"
+            ],
+            "description": "Apple has released iOS 26 Beta 4 with major UI and usability changes. It brings back Liquid Glass, Apple Intelligence summaries, a new Camera layout, call screening options, dynamic wallpapers, and more. This update may soon roll out to public beta testers.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-07-23 05:14:00",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.news9live.com/wp-content/uploads/2025/07/ios26-beta4-new-changes.png?enlarge=true&w=802",
+            "video_url": null,
+            "source_id": "news9live",
+            "source_name": "News9live",
+            "source_priority": 193096,
+            "source_url": "https://www.news9live.com",
+            "source_icon": "https://n.bytvi.com/news9live.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+            "ai_content": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "77bf27852293d5f99d847b170053a34a",
+            "title": "Use of single-band 2.4GHz Wi-Fi devices to impact infrastructure scalability, sustainability: Domestic group",
+            "link": "https://telecom.economictimes.indiatimes.com/news/telecom-equipment/use-of-single-band-2-4ghz-wi-fi-devices-to-impact-infrastructure-scalability-sustainability-domestic-group/122850757",
+            "keywords": [
+                "bharatnet phase iii",
+                "digital india vision",
+                "realtek",
+                "voice",
+                "telecom news",
+                "bharat sanchar nigam limited",
+                "telecom equipment",
+                "bharatnet",
+                "mediatek",
+                "bsnl bharatnet",
+                "bsnl"
+            ],
+            "creator": [
+                "Muntazir Abbas"
+            ],
+            "description": "Delhi-based group that represents Tata Consultancy Services (TCS), HFCL, Tejas Networks, Coral Telecom and Lekha Wireless, further said that an urgent and decisive action is needed to bring BharatNet in line with the current global broadband standards and to better serve rural communities and taxpayers.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-07-23 05:14:00",
+            "pubDateTZ": "UTC",
+            "image_url": "https://etimg.etb2bimg.com/photo/122850766.cms",
+            "video_url": null,
+            "source_id": "telecom_economictimes",
+            "source_name": "Et Telecom",
+            "source_priority": 241,
+            "source_url": "https://telecom.economictimes.indiatimes.com",
+            "source_icon": "https://n.bytvi.com/telecom_economictimes.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "technology"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+            "ai_content": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "9ffa9974c6cd415c6f87397dd952953d",
+            "title": "Gold going steady, outlook points to more upsides",
+            "link": "https://www.cnbctv18.com/market/commodities/gold-rates-steady-outlook-points-more-upsides-outlook-should-you-buy-19641794.htm",
+            "keywords": [
+                "latest"
+            ],
+            "creator": [
+                "Anshul"
+            ],
+            "description": "Experts say gold remains a good hedge against uncertainty. If the dollar stays weak and the Fed signals rate cuts, gold could test fresh highs.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-07-23 05:13:57",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.cnbctv18.com/uploads/2019/05/Gold4.jpg",
+            "video_url": null,
+            "source_id": "cnbctv18",
+            "source_name": "Cnbctv18",
+            "source_priority": 17950,
+            "source_url": "https://www.cnbctv18.com",
+            "source_icon": "https://n.bytvi.com/cnbctv18.jpg",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+            "ai_content": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "fa97cc946e5de8d7b8ea2f9d238953dd",
+            "title": "सोने और चांदी के दाम में आज आयी तेजी, जानें 23 जुलाई 2025 को आपके शहर का ताजा भाव",
+            "link": "https://www.abplive.com/business/gold-price-today-on-23-july-2025-know-latest-price-of-yellow-metal-2983941",
+            "keywords": [
+                "बिजनेस"
+            ],
+            "creator": [
+                "एबीपी बिजनेस डेस्क"
+            ],
+            "description": "Gold Price Today: सोना और चांदी की कीमत में हाल के दिनों में काफी उतार चढ़ाव देखा गया है. बुधवार को दोनों की कीमत में तेजी देखी जा रही है. सोने के भाव एक दिन में 1140 रुपये उछला है जबकि चांदी भी 2000 रुपये महंगी हो गई है. आज देश में 24 कैरेट सोने का भाव 1,01,300 रुपये प्रति 10 ग्राम है, जबकि एक दिन पहले 1,00,160 रुपये के भाव से कारोबार कर रहा था. 22 कैरेट सोना 92,860 रुपये प्रति 10 ग्राम की दर से बिक रहा है तो वहीं 18 कैरेट सोना का भाव 75,890 रुपये है.आपके शहर का ताजा भाव-राष्ट्रीय राजधानी दिल्ली में आज 24 कैरेट सोना 1,01,450 रुपये प्रति 10 ग्राम की दर से बिक रहा है तो वहीं 22 कैरेट सोना 93,010 रुपये और 18 कैरेट सोना 76,100 रुपये की दर से बिक रहा है. आर्थिक राजधानी मुंबई के साथ ही चेन्नई, कोलकाता, बेंगलुरु और हैदराबाद में 24 कैरेट सोना 1,01,300 रुपये के भाव से कारोबार कर रहा है.जबकि 22 कैरेट सोना मुंबई, चेन्नई, कोलकाता, बेंगलुरु, हैदराबाद में 92,860 रुपये के भाव से बिक रहा है. इसके साथ ही, मुंबई, कोलकाता, बेंगलुरु और हैदराबाद में 18 कैरेट सोना प्रति 10 ग्राम 75890 रुपये की दर से बिक रहा है. चांदी के दाम में मामूली तेजी आयी है. आज जहां बाजार में चांदी 1,18,100 रुपये प्रति किलो के दर से बिक रही है तो वहीं एक दिन पहले देश में चांदी की कीमत 1,15,900 रुपये के भाव से बिक रही थी.कैसे तय होता है रेट?सोना और चांदी के दाम रोजाना आधार पर तय होते हैं. इसके लिए कई फैक्टर जिम्मेदार है, जिनमें एक्सचेंज रेट, डॉलर की कीमतों में उतार-चढ़ाव, सीमा शुल्क शामिल आदि है. इसके अलावा, अंतरराष्ट्रीय बाजार में उथल-पुथल का सीधा असर सोने की कीमतों पर पड़ता है. अगर वैश्विक बाजार में अनिश्चितता की स्थिति बनती है तो निवेशक बाजार से दूरी बनाकर सोने जैसे सुरक्षित निवेश में अपना पैसा लगाना बेहतर समझते है. भारत में सोने का सामाजिक-आर्थिक महत्व भी है. किसी भी शादी से लेकर पर्व त्योहार में गोल्ड को बहुत शुभ माना जाता है. किसी परिवार के पास सोने का होना उस परिवार की संपन्नता का भी प्रतीक माना जाता है. सोना ने हर दौर में महंगाई की तुलना में बेहतर रिटर्न देने वाला खुद को साबित किया है. यही वजह है कि हमेशा पीली धातुओं मांग बनी रही है.ये भी पढ़ें: सावन के साथ शेयर मार्केट में भी छाई हरियाली, 232 अंक उछला सेंसेक्स; निफ्टी 25000 के पार",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-07-23 05:13:56",
+            "pubDateTZ": "UTC",
+            "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2025/07/23/744c53f3b11d92c6bf2de43318b881151753247606558120_original.jpeg",
+            "video_url": null,
+            "source_id": "abplive",
+            "source_name": "Abp News",
+            "source_priority": 7754,
+            "source_url": "http://abplive.com",
+            "source_icon": "https://n.bytvi.com/abplive.jpg",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "business"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+            "ai_content": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "60108eb14655b7dd7754832d23f44f67",
+            "title": "Mutton Politics In Bihar Poll Pot, Tejashwi Yadav Slams NDA Meet Menu",
+            "link": "https://www.ndtv.com/india-news/mutton-politics-in-bihar-poll-pot-tejashwi-yadav-slams-nda-meet-menu-8929824",
+            "keywords": null,
+            "creator": null,
+            "description": "Heated exchanges between the ruling JDU-BJP and the Opposition RJD are keeping the election pot boiling in Bihar, and now mutton politics is on the stove.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-07-23 05:13:49",
+            "pubDateTZ": "UTC",
+            "image_url": "https://c.ndtvimg.com/2025-07/u91jnp9s_tejashwi-yadav-split_625x300_23_July_25.jpg?im=FitAndFill%2Calgorithm%3Ddnn%2Cwidth%3D1200%2Cheight%3D738",
+            "video_url": null,
+            "source_id": "ndtv",
+            "source_name": "Ndtv",
+            "source_priority": 1204,
+            "source_url": "http://www.ndtv.com",
+            "source_icon": "https://n.bytvi.com/ndtv.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+            "ai_content": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "cccafd31bf8333e4526f148bd59b5cdd",
+            "title": "गुरु पुष्य योग में हरियाली अमावस्या कल:पेड़ लगाने, दान और पूजा से मिलेगा धन-संपत्ति का लाभ",
+            "link": "https://www.bhaskar.com/local/rajasthan/jhalawar/news/hariyali-amavasya-tomorrow-in-guru-pushya-yoga-jhalawar-rajasthan-135510498.html",
+            "keywords": [
+                "hariyali amavasya tomorrow in guru pushya yoga jhalawar rajasthan"
+            ],
+            "creator": [
+                "दैनिक भास्कर"
+            ],
+            "description": "24 जुलाई को हरियाली अमावस्या पर विशेष संयोग बन रहा है। इस दिन गुरु पुष्य योग, सर्वार्थ सिद्धि योग और अमृत सिद्धि योग एक साथ बन रहे हैं। पंडित रमेश शर्मा के अनुसार यह दिन पितरों की तृप्ति, प्रकृति संरक्षण और धन-संपत्ति की वृद्धि के लिए शुभ है। चातुर्मास के कारण बड़े मांगलिक कार्य वर्जित हैं। फिर भी खरीदारी, दान और धार्मिक कार्यों से मां लक्ष्मी और गुरु बृहस्पति की कृपा प्राप्त की जा सकती है। हरियाली अमावस्या प्रकृति से जुड़ने और पूर्वजों की स्मृति का पर्व है। पंडित शर्मा ने कुछ विशेष उपाय बताए हैं। पीपल, बेल, आंवला, तुलसी, केला या बड़ के पेड़ लगाएं और उनकी पूजा करें। अन्न, वस्त्र और जरूरत की वस्तुओं का दान करें। नदी किनारे श्राद्ध, तर्पण और पिंडदान करें। गाय को चारा खिलाएं। रात में कनकधारा स्तोत्र का पाठ करने की सलाह दी गई है। नदी में काले तिल बहाएं और मछलियों को आटे की गोलियां डालें। इन उपायों से नकारात्मकता, रोग और आर्थिक रुकावटें दूर होती हैं। साथ ही धन की वृद्धि और भाग्य में सुधार की प्राप्ति होती है।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-07-23 05:13:41",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.bhaskarassets.com/thumb/1000x1000/web2images/521/2025/07/23/19f350e7-49c4-4b81-ad47-73ded56cd4c01753239311533_1753247436.jpg",
+            "video_url": null,
+            "source_id": "bhaskar_hindi",
+            "source_name": "Bhaskar",
+            "source_priority": 34179,
+            "source_url": "https://www.bhaskar.com",
+            "source_icon": "https://n.bytvi.com/bhaskar_hindi.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "domestic",
+                "other"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+            "ai_content": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "cc97fa397c02e933fa469ade78294b4c",
+            "title": "Will Team India Spring A Surprise At Old Trafford? Kuldeep Yadav, Injuries And The Manchester Vibe Add Intrigue To 4th Test",
+            "link": "https://news24online.com/sports/will-team-india-spring-a-surprise-at-old-trafford-kuldeep-yadav-injuries-and-the-manchester-vibe-add-intrigue-to-4th-test/607715/",
+            "keywords": [
+                "india vs england",
+                "sports",
+                "cricket"
+            ],
+            "creator": [
+                "Aditya Mallick"
+            ],
+            "description": "India eyes historic comeback at Old Trafford amid injuries, selection puzzles, and passionate fan support in a pivotal Test match.The post Will Team India Spring A Surprise At Old Trafford? Kuldeep Yadav, Injuries And The Manchester Vibe Add Intrigue To 4th Test appeared first on News24.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-07-23 05:13:40",
+            "pubDateTZ": "UTC",
+            "image_url": "https://news24online.com/wp-content/uploads/2025/07/Untitled-design-26.jpg",
+            "video_url": null,
+            "source_id": "news24online",
+            "source_name": "News 24",
+            "source_priority": 549589,
+            "source_url": "https://news24online.com",
+            "source_icon": "https://n.bytvi.com/news24online.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+            "ai_content": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "a3823e3b09d9d1b45b8a6c3737a8b020",
+            "title": "Jagdeep Dhankhar Resigns: कब मिलेगा देश को नया उपराष्ट्रपति, कितना वक्त लगेगा, क्या कहता है कानून?",
+            "link": "https://www.jansatta.com/national/jagdeep-dhankhar-resignation-when-will-elect-next-vice-president-of-india/4059197/",
+            "keywords": [
+                "['jagdeep dhankhar', ' jagdeep dhankhar resignation', ' why jagdeep dhankhar resigned', ' who will be next vice president', ' vice president of india', ' who will be next rajya sabha chairman']"
+            ],
+            "creator": [
+                "Jansatta"
+            ],
+            "description": "उपराष्ट्रपति राज्यसभा के सभापति भी होते हैं और जगदीप धनखड़ के इस्तीफे के बाद यह कुर्सी खाली हो गई है। ऐसे में उपराष्ट्रपति का चुनाव होने पर ही राज्यसभा को सभापति मिल पाएगा।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-07-23 05:13:39",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.jansatta.com/wp-content/uploads/2025/07/Rajya-Sabha-Chairman-Election.png",
+            "video_url": null,
+            "source_id": "jansatta",
+            "source_name": "Jansatta",
+            "source_priority": 385929,
+            "source_url": "https://www.jansatta.com",
+            "source_icon": "https://n.bytvi.com/jansatta.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+            "ai_content": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "401448a8b6c5e33ecb0e94cbab27a8b7",
+            "title": "Congress slams PM Modi’s silence as Trump repeats India-Pak ceasefire claims",
+            "link": "https://www.siasat.com/congress-slams-pm-modis-silence-as-trump-repeats-india-pak-ceasefire-claims-3249457/",
+            "keywords": [
+                "congress",
+                "lead story",
+                "jairam ramesh",
+                "pm modi",
+                "politics",
+                "trump"
+            ],
+            "creator": [
+                "Press Trust of India"
+            ],
+            "description": "New Delhi: With US President Donald Trump repeating his claims about bringing about a ceasefire between India and Pakistan, the Congress on Wednesday said while Trump has reached the quarter century mark on his claims, Prime Minister Narendra Modi is “totally quiet, finding time only to travel abroad and to destabilise democratic institutions at home”. ...Get the latest updates in Hyderabad City News, Technology, Entertainment, Sports, Politics and Top Stories on WhatsApp & Telegram by subscribing to our channels. You can also download our app for Android and iOS.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-07-23 05:13:36",
+            "pubDateTZ": "UTC",
+            "image_url": "https://cdn.siasat.com/wp-content/uploads/2025/07/Untitled-design-2025-07-06T175246.039-1.jpg",
+            "video_url": null,
+            "source_id": "siasat",
+            "source_name": "Siasat.com",
+            "source_priority": 30879,
+            "source_url": "https://www.siasat.com",
+            "source_icon": "https://n.bytvi.com/siasat.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "politics"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+            "ai_content": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "6aa0f6f38882bf785aee1c648fc07d44",
+            "title": "सुर्खियों में भोजपुर पुलिस – चार महीने में मुठभेड़ की तीन कहानी",
+            "link": "https://khabreapki.com/bhojpur-police-in-headlines/",
+            "keywords": [
+                "bhojpur police in headlines",
+                "सुर्खियों में भोजपुर पुलिस",
+                "बिहार पुलिस",
+                "bhojpur police -bihar"
+            ],
+            "creator": [
+                "News Live"
+            ],
+            "description": "भोजपुर पुलिस अपराधियों के खिलाफ फुल एक्शन मोड में आ गयी है। पुलिस किसी भी कीमत पर अपराधियों को बख्शने वाली नहीं है।The post सुर्खियों में भोजपुर पुलिस – चार महीने में मुठभेड़ की तीन कहानी appeared first on खबरें आपकी.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-07-23 05:13:35",
+            "pubDateTZ": "UTC",
+            "image_url": "https://khabreapki.com/wp-content/uploads/2025/07/Bhojpur-police-in-Headlines.jpg",
+            "video_url": null,
+            "source_id": "khabreapki",
+            "source_name": "Khabre Apki",
+            "source_priority": 17497857,
+            "source_url": "https://khabreapki.com",
+            "source_icon": "https://n.bytvi.com/khabreapki.jpg",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+            "ai_content": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "905f30513fe6406c7fe8e5cdb0e77f3c",
+            "title": "7 Fruits To Avoid When You Have High Uric Acid",
+            "link": "https://www.thehealthsite.com/photo-gallery/7-fruits-to-avoid-when-you-have-high-uric-acid-1242836/",
+            "keywords": [
+                "high uric acid",
+                "high uric acid management",
+                "fruits to avoid",
+                "photo gallery",
+                "high uric acid symptoms"
+            ],
+            "creator": [
+                "Satata Karmakar"
+            ],
+            "description": "Here are seven fruits that should be avoided to prevent high uric acid in blood.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-07-23 05:13:28",
+            "pubDateTZ": "UTC",
+            "image_url": "https://st1.thehealthsite.com/wp-content/uploads/2025/07/High-Uric-Acid-7.jpg",
+            "video_url": null,
+            "source_id": "thehealthsite",
+            "source_name": "Thehealthsite",
+            "source_priority": 13386,
+            "source_url": "https://www.thehealthsite.com",
+            "source_icon": "https://n.bytvi.com/thehealthsite.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+            "ai_content": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "072ea988d930c647b260bd1076c5e16b",
+            "title": "Major administrative reshuffle in Odisha, 16 district collectors transferred",
+            "link": "https://www.cnbctv18.com/india/major-administrative-reshuffle-in-odisha-16-district-collectors-transferred-19641760.htm",
+            "keywords": [
+                "india"
+            ],
+            "creator": [
+                "https://www.cnbctv18.com"
+            ],
+            "description": "In a major administrative reshuffle, the Odisha government on Tuesday transferred 49 IAS officers in the rank of additional chief secretary, principal secretary, secretary and district collectors, an official notification issued by the General Administration and Public Grievances department said.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-07-23 05:13:25",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.cnbctv18.com/uploads/2024/10/cyclone-dana-41-2024-10-21286d9ae2cba1ed94cee9df2b60cf66.jpg",
+            "video_url": null,
+            "source_id": "cnbctv18",
+            "source_name": "Cnbctv18",
+            "source_priority": 17950,
+            "source_url": "https://www.cnbctv18.com",
+            "source_icon": "https://n.bytvi.com/cnbctv18.jpg",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+            "ai_content": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "duplicate": true
+        },
+        {
+            "article_id": "6004875101e1c00c780acc0882770348",
+            "title": "Cash awards for Olympic winners hiked: Delhi govt approves free laptop scheme for students",
+            "link": "https://www.thehansindia.com/news/national/cash-awards-for-olympic-winners-hiked-delhi-govt-approves-free-laptop-scheme-for-students-990243",
+            "keywords": [
+                "national,news"
+            ],
+            "creator": [
+                "The Hans India"
+            ],
+            "description": "New Delhi: The Delhi government has hiked the cash awards for Olympic and Paralympic medallists from the national capital, minister Ashish Sood said on Tuesday.Sood also announced the approval of the...",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-07-23 05:13:21",
+            "pubDateTZ": "UTC",
+            "image_url": "https://assets.thehansindia.com/h-upload/2025/07/23/1569866-laptops.webp",
+            "video_url": null,
+            "source_id": "thehansindia",
+            "source_name": "The Hans India",
+            "source_priority": 41360,
+            "source_url": "http://www.thehansindia.com",
+            "source_icon": "https://n.bytvi.com/thehansindia.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+            "ai_content": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "783d810acffc9d5ac198926d678b8a78",
+            "title": "Lokayukta raids eight government officers, including senior bureaucrat, in Karnataka",
+            "link": "https://www.deccanherald.com/india/karnataka/lokayukta-raids-eight-government-officers-including-senior-bureaucrat-in-karnataka-3643646",
+            "keywords": [
+                "k-ride",
+                "mysuru lokayukta",
+                "vasanthi amar news",
+                "tumakuru lokayukta",
+                "kalburgi da case",
+                "illegal land order",
+                "da case karnataka",
+                "lokayukta raids",
+                "anti-corruption drive",
+                "senior bureaucrat raid",
+                "vasanthi amar",
+                "disproportionate assets case",
+                "ias officer raid",
+                "government corruption",
+                "madikeri raid",
+                "karnataka lokayukta",
+                "koppal government raid",
+                "bengaluru raids",
+                "karnataka news"
+            ],
+            "creator": [
+                "DHNS"
+            ],
+            "description": "Anti-Corruption Drive: Lokayukta raids 8 officials, including IAS officer Vasanthi Amar, in DA case across 6 Karnataka cities.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-07-23 05:13:21",
+            "pubDateTZ": "UTC",
+            "image_url": "https://media.assettype.com/deccanherald%2F2025-06-15%2Fm7rilfo1%2Fdeccanherald2025-06-13t8tph0x4deccanherald2025-01-17ggl3zsfqistock917441686police9098021604205465.avif?ar=40%3A21&auto=format%2Ccompress&mode=crop&ogImage=true&rect=0%2C34%2C900%2C473&w=1200",
+            "video_url": null,
+            "source_id": "deccanherald",
+            "source_name": "Deccan Herald",
+            "source_priority": 10080,
+            "source_url": "https://www.deccanherald.com",
+            "source_icon": "https://n.bytvi.com/deccanherald.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+            "ai_content": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "1502f1b42fc76386c293cf945984f3ba",
+            "title": "Lokayukta raids eight government officers, including senior bureaucrat, in Karnataka - Deccan Herald",
+            "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOa0R6emRKZGZIRmZDekhTM2Y2Z2ZORk82YTR3SW5zQUpsTXcxVURmYWxnM00ySDhkNUp5aGZ1Z0czbkNISGFtazJlcklvTWk3cFk2UGdubkg4dUJtRHpEa180Z2tTaG4ydnp1MnNWUGRDN2FVZ1BvcTFpMVBlZXB4OUVrYXJYMmYyNGJpaTFoVi1GTFF3WTN5NFJ5cy1janR6eW5KcU1VS2dGZERwVzFvSGw1bVNqNGlCS05DUzFXYkVPS19mZWExR0R0SGJUcFRa?oc=5",
+            "keywords": null,
+            "creator": null,
+            "description": "Lokayukta raids eight government officers, including senior bureaucrat, in Karnataka Deccan HeraldKarnataka Lokayukta raids IAS officer Vasanthi Amar, 7 other Govt officials in disproportionate assets case The Indian ExpressKarnataka Lokayukta raids homes of three Bengaluru officials over illegal assets India TodayFIR against IAS officer for passing illegal order in Bengaluru The HinduLokayukta sleuths raid places connected to 8 officers in disproportionate assets case theweek.in",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-07-23 05:13:21",
+            "pubDateTZ": "UTC",
+            "image_url": null,
+            "video_url": null,
+            "source_id": "google",
+            "source_name": "Google News",
+            "source_priority": 14,
+            "source_url": "https://news.google.com",
+            "source_icon": "https://n.bytvi.com/google.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+            "ai_content": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "9f9ebc39bc76e939fbe00581a601a648",
+            "title": "This film turns thriller from romantic in 20 minutes, heroine outshines 3 actors, played role of mother; Movie is..., stars are...",
+            "link": "https://www.india.com/entertainment/this-film-turns-thriller-from-romantic-in-20-minutes-heroine-outshines-3-actors-played-role-of-mother-movie-is-shakti-the-power-stars-are-karisma-kapoor-sanjay-kapoor-nana-patekar-shah-rukh-khan-7963758/",
+            "keywords": [
+                "sanjay kapoor",
+                "shakti the power",
+                "shah rukh khan",
+                "karisma kapoor",
+                "nana patekar",
+                "entertainment"
+            ],
+            "creator": [
+                "Kritika Vaid"
+            ],
+            "description": "After the first 20 minutes, the film shifts from a romantic drama to a gripping thriller — and it’s the heroine who truly takes charge.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-07-23 05:13:20",
+            "pubDateTZ": "UTC",
+            "image_url": "https://static.india.com/wp-content/uploads/2025/07/shakti-the-power.jpg",
+            "video_url": null,
+            "source_id": "india",
+            "source_name": "India",
+            "source_priority": 8067,
+            "source_url": "https://www.india.com",
+            "source_icon": "https://n.bytvi.com/india.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "entertainment"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+            "ai_content": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "duplicate": true
+        },
+        {
+            "article_id": "30f58ece5e05a0d44aae3149d9270d99",
+            "title": "AP: आबकारी विभाग ने नकली शराब रैकेट का भंडाफोड़ किया, 36 लोग गिरफ्तार",
+            "link": "https://jantaserishta.com/local/andhra-pradesh/ap-excise-department-busted-fake-liquor-racket-36-people-arrested-4165062",
+            "keywords": [
+                "आंध्र प्रदेश,राज्य"
+            ],
+            "creator": [
+                "Triveni"
+            ],
+            "description": "VIJAYAWADA विजयवाड़ा: आबकारी अधिकारियों ने एक बड़े नकली शराब रैकेट का भंडाफोड़ किया है, जिसमें 36 लोगों को गिरफ्तार किया गया है और 2,232 लीटर अवैध स्प्रिट जब्त की गई है।खुफिया जानकारी के आधार पर,...",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-07-23 05:13:19",
+            "pubDateTZ": "UTC",
+            "image_url": "https://jantaserishta.com/h-upload/2025/07/23/4767813-81.webp",
+            "video_url": null,
+            "source_id": "jantaserishta",
+            "source_name": "Janta Se Rishta",
+            "source_priority": 81836,
+            "source_url": "https://jantaserishta.com",
+            "source_icon": "https://n.bytvi.com/jantaserishta.jpg",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+            "ai_content": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "33ca7caa9d545a2195dd160ff9325359",
+            "title": "Jeffrey Epstein Spotted In Trump's 1993 Wedding Pics. White House Replies",
+            "link": "https://www.ndtv.com/world-news/jeffrey-epstein-spotted-in-trumps-1993-wedding-pics-white-house-replies-8929614",
+            "keywords": [
+                "jeffrey epstein",
+                "epstein-trump",
+                "trump 1993 wedding",
+                "jeffery epstein case",
+                "trump-epstein controversy latest",
+                "trump 1993 wedding pictures show epstein",
+                "epstein spotted at trump&amp;#039;s 1993 wedding",
+                "trump 1993 wedding pictures show epstein n",
+                "trump 1993 wedding photos",
+                "jeffery epstein case news latest",
+                "white house on epstein pictures at trump&amp;#039;s 1993 wedding",
+                "trump-epstein controversy news latest",
+                "epstein-trump controversy",
+                "epstein spotted at trump&amp;#039;s 1993 wedding news latest",
+                "epstein files",
+                "trump 1993 wedding pictures",
+                "donald trump"
+            ],
+            "creator": [
+                "NDTV News Desk"
+            ],
+            "description": "Convicted sex offender Jeffrey Epstein attended US President Donald Trump and Marla Maples's wedding ceremony in 1993 at the Plaza Hotel in New York, new photos and video footage show.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-07-23 05:13:17",
+            "pubDateTZ": "UTC",
+            "image_url": "https://c.ndtvimg.com/2025-07/26dokevg_epstein-at-trumps-1993-wedding_625x300_23_July_25.jpeg",
+            "video_url": null,
+            "source_id": "ndtv",
+            "source_name": "Ndtv",
+            "source_priority": 1204,
+            "source_url": "http://www.ndtv.com",
+            "source_icon": "https://n.bytvi.com/ndtv.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+            "ai_content": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "f2345c40df504c80fd7684097bbfb93f",
+            "title": "राज्य मानसून सत्र 11 अगस्त से: MLC , निगम-बोर्ड नियुक्ति के लिए CM-DCM का मसौदा",
+            "link": "https://jantaserishta.com/local/karnataka/state-monsoon-session-from-august-11-cm-dcm-draft-for-mlc-corporation-board-appointment-4165061",
+            "keywords": [
+                "राज्य,कर्नाटक"
+            ],
+            "creator": [
+                "Kavita2"
+            ],
+            "description": "Karnataka कर्नाटक : राज्य विधानमंडल का मानसून सत्र 11 अगस्त से शुरू होगा और मुख्यमंत्री सिद्धारमैया और उपमुख्यमंत्री डी.के. शिवकुमार ने सत्र से पहले एमएलसी और निगम बोर्ड की नियुक्तियाँ पूरी करने",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-07-23 05:13:15",
+            "pubDateTZ": "UTC",
+            "image_url": "https://jantaserishta.com/h-upload/2025/07/23/4767812-untitled-15-copy.webp",
+            "video_url": null,
+            "source_id": "jantaserishta",
+            "source_name": "Janta Se Rishta",
+            "source_priority": 81836,
+            "source_url": "https://jantaserishta.com",
+            "source_icon": "https://n.bytvi.com/jantaserishta.jpg",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+            "ai_content": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "a07dad8018a608e2e42cbbfc696de024",
+            "title": "Man Strangles Partner, Her Daughter, Writes Confession On Wall With Lipstick",
+            "link": "https://www.ndtv.com/india-news/man-strangles-partner-her-daughter-writes-confession-on-wall-with-lipstick-8929821",
+            "keywords": null,
+            "creator": null,
+            "description": "In a horrifying act that has shaken Madhya Pradesh's Vidisha district, a man allegedly murdered his partner and her three-year-old daughter by strangling them and then spent the night sitting beside their bodies.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-07-23 05:13:11",
+            "pubDateTZ": "UTC",
+            "image_url": "https://c.ndtvimg.com/2025-07/1dvqg864_madhya-pradesh-police_625x300_23_July_25.jpg?im=FeatureCrop%2Calgorithm%3Ddnn%2Cwidth%3D1200%2Cheight%3D738",
+            "video_url": null,
+            "source_id": "ndtv",
+            "source_name": "Ndtv",
+            "source_priority": 1204,
+            "source_url": "http://www.ndtv.com",
+            "source_icon": "https://n.bytvi.com/ndtv.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+            "ai_content": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
             "article_id": "049e2969b6da5974d3d2c5009ae02348",
             "title": "राजधानी क्षेत्र विकास प्राधिकरण का गठन तय",
             "link": "https://realtimes.in/?p=181186",
@@ -31018,783 +31810,6 @@
             ],
             "category": [
                 "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-            "ai_content": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "cccc16b918e7ec193c6a45ca2a3cb6b8",
-            "title": "Who will become the next Vice President of India after Jagdeep Dhankhar's resignation?",
-            "link": "https://economictimes.indiatimes.com/news/india/who-will-become-the-next-vice-president-of-india-after-jagdeep-dhankhars-resignation/articleshow/122819189.cms",
-            "keywords": null,
-            "creator": null,
-            "description": "Who will be next Vice President?: Vice President Jagdeep Dhankhar resigned on Monday citing medical advice, with immediate effect. In his letter to President Droupadi Murmu, he thanked her, the Prime Minister, and the Council of Ministers. The Constitution provides no clarity on succession, but during a vacancy, the Deputy Chairperson or a Rajya Sabha member authorised by the President discharges the Vice-President’s duties as Rajya Sabha Chairperson.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-07-21 16:30:59",
-            "pubDateTZ": "UTC",
-            "image_url": null,
-            "video_url": null,
-            "source_id": "economictimes_indiatimes",
-            "source_name": "The Economic Times",
-            "source_priority": 231,
-            "source_url": "https://economictimes.indiatimes.com",
-            "source_icon": "https://n.bytvi.com/economictimes_indiatimes.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-            "ai_content": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "e73948e4c6d31ffa68823f255d4bed63",
-            "title": "Andhra Pradesh proposes electronic manufacturing hubs in Rayalaseema",
-            "link": "https://www.thehansindia.com/andhra-pradesh/andhra-pradesh-proposes-electronic-manufacturing-hubs-in-rayalaseema-989812",
-            "keywords": [
-                "top stories,andhra pradesh,news,state"
-            ],
-            "creator": [
-                "The Hans India"
-            ],
-            "description": "With land availability becoming a serious issue in cities like Bengaluru and Chennai, Andhra Pradesh is planning to develop electronics manufacturing hubs in Rayalaseema region.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-07-21 16:30:59",
-            "pubDateTZ": "UTC",
-            "image_url": "https://assets.thehansindia.com/h-upload/2025/07/21/1569481-electronics-manufacturing.webp",
-            "video_url": null,
-            "source_id": "thehansindia",
-            "source_name": "The Hans India",
-            "source_priority": 41360,
-            "source_url": "http://www.thehansindia.com",
-            "source_icon": "https://n.bytvi.com/thehansindia.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-            "ai_content": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "0999fe2633c59e22546d30fe4d10b64b",
-            "title": "IndiGo flight with 140 passengers on board makes emergency landing in Indore",
-            "link": "https://www.thehansindia.com/news/national/indigo-flight-with-140-passengers-on-board-makes-emergency-landing-in-indore-989814",
-            "keywords": [
-                "national,news"
-            ],
-            "creator": [
-                "The Hans India"
-            ],
-            "description": "IndiGo Airlines faced back-to-back technical challenges this week, raising fresh concerns over the operational reliability of its Airbus A321neo fleet.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-07-21 16:30:57",
-            "pubDateTZ": "UTC",
-            "image_url": "https://assets.thehansindia.com/h-upload/2025/07/21/1569483-indigo-airlines.webp",
-            "video_url": null,
-            "source_id": "thehansindia",
-            "source_name": "The Hans India",
-            "source_priority": 41360,
-            "source_url": "http://www.thehansindia.com",
-            "source_icon": "https://n.bytvi.com/thehansindia.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-            "ai_content": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "c99dcb4e8125603ec6562d27b6e31298",
-            "title": "बिहार में मछली-मटन विवाद का The End? विधानसभा चुनाव से पहले बड़ा सियासी सवाल",
-            "link": "https://www.jagran.com/bihar/patna-city-vegetarian-non-vegetarian-debate-ends-in-bihar-mutton-served-at-nda-meeting-23990623.html",
-            "keywords": [
-                "patna-city-politics",
-                "bjp criticism",
-                "political food controversy",
-                "bihar news",
-                "patna city news",
-                "mutton served",
-                "lalu prasad yadav",
-                "vegetarian non-vegetarian debate",
-                "tejashwi yadav",
-                "nda meeting",
-                "bihar politics"
-            ],
-            "creator": [
-                "Arun  Ashesh"
-            ],
-            "description": "बिहार की राजनीति में अब शाकाहारी-मांसाहारी विवाद थमता दिख रहा है। लोकसभा चुनाव 2024 में तेजस्वी यादव के मछली खाने पर विवाद हुआ था। हाल ही में एनडीए की बैठक में मटन परोसा गया हालांकि उप मुख्यमंत्री विजय कुमार सिन्हा ने फलाहार किया। विपक्ष ने इस पर कोई खास टिप्पणी नहीं की है।",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-07-21 16:30:49",
-            "pubDateTZ": "UTC",
-            "image_url": "https://www.jagranimages.com/images/newimg/21072025/21_07_2025-tejashwi_yadav_10_23990623_m.webp",
-            "video_url": null,
-            "source_id": "jagran",
-            "source_name": "Jagran",
-            "source_priority": 6734,
-            "source_url": "https://www.jagran.com",
-            "source_icon": "https://n.bytvi.com/jagran.jpg",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "domestic"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-            "ai_content": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "4abceef8a9f4310f3cf09b7a0cb1fd55",
-            "title": "कांग्रेस की आर्थिक नाकेबंदी आज, संभागभर में प्रदर्शन:कई प्रमुख मार्गों में कांग्रेस का प्रदर्शन, तीन घंटे बंद रहेगा भारी वाहनों का परिचालन",
-            "link": "https://www.bhaskar.com/local/chhattisgarh/ambikapur/news/congress-economic-blockade-today-protests-across-the-division-135498820.html",
-            "keywords": [
-                "surguja news",
-                "ambikapur news"
-            ],
-            "creator": [
-                "दैनिक भास्कर"
-            ],
-            "description": "प्रदेश कांग्रेस कमेटी ने 22 जुलाई को प्रदेशव्यापी आर्थिक नाकेबंदी और चक्काजाम की घोषणा की है। छत्तीसगढ़ कांग्रेस पूर्व CM भूपेश बघेल के बेटे चैतन्य बघेल की गिरफ्तार खिलाफ जिलों में चक्काजाम करेगी। जिला कांग्रेस कमेटी सरगुजा अम्बिकापुर में बनारस रोड पर बीटीआई के पास चक्काजाम करेगी। सूरजपुर, कोरिया, बलरामपुर एवं एमसीबी जिलों में भी नेशनल हाईवे में कांग्रेस द्वारा चक्काजाम किया जाएगा। प्रदेश कांग्रेस के आह्वान पर अंबिकापुर में बनारस मार्ग पर कांग्रेस का चक्काजाम सुबह 11 बजे से दोपहर 2 बजे तक होगा। जिला कांग्रेस कमेटी ने बताया कि बनारस रोड छत्तीसगढ़ को उत्तर भारत से जोड़ता है। इस मार्ग पर बड़ी संख्या में मालवाहक वाहनों की आवाजाही रहती है। इस कारण बनारस रोड का चयन चक्काजाम के लिए किया गया है। चक्काजाम से एम्बुलेंस और स्कूली बच्चों के वाहनों को मुक्त रखा गया है। चक्काजाम स्थल के आसपास आम नागरिकों के आवागमन के लिए कई वैकल्पिक मार्ग उपलब्ध हैं। चक्काजाम के बाद विद्युत कार्यालय का करेंगे घेराव चक्काजाम कार्यक्रम के उपरांत कांग्रेस द्वारा बिजली न्याय आंदोलन के तहत नमनाकला स्थित विद्युत विभाग के डीई कार्यालय का घेराव करेगी। घेराव के लिए चक्काजाम स्थल से ही कांग्रेस के पदाधिकारी और कार्यकर्ता बिजली ऑफिस के घेराव के लिए दोपहर 2 बजे रैली की शक्ल में रवाना होंगे। संभागभर में कांग्रेस का प्रदर्शन कांग्रेस का प्रदर्शन सूरजपुर, कोरिया, एमसीबी एवं बलरामपुर जिलों में भी तय किया गया है। इन स्थानों पर भी मुख्यमार्गों में कांग्रेस घेराव करेगी।",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-07-21 16:30:46",
-            "pubDateTZ": "UTC",
-            "image_url": "https://images.bhaskarassets.com/thumb/1000x1000/web2images/521/2025/07/21/whatsapp-image-2025-07-21-at-22023874d47f48_1753115619.jpg",
-            "video_url": null,
-            "source_id": "bhaskar_hindi",
-            "source_name": "Bhaskar",
-            "source_priority": 34179,
-            "source_url": "https://www.bhaskar.com",
-            "source_icon": "https://n.bytvi.com/bhaskar_hindi.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "domestic",
-                "other"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-            "ai_content": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "4cf482767c3b647a5f3d6b5da102330f",
-            "title": "गुरुग्राम में कांवड़ यात्रा के कारण एमजी रोड पर लगा लंबा जाम, रेंगते नजर आए वाहन",
-            "link": "https://www.jagran.com/haryana/gurgaon-ncr-gurugram-traffic-alert-heavy-vehicle-ban-due-to-kanwar-yatra-causes-congestion-23990649.html",
-            "keywords": [
-                "gurugram traffic",
-                "kanwar yatra traffic",
-                "haryana news",
-                "gurgaon-general",
-                "mg road congestion",
-                "heavy vehicle ban gurugram",
-                "gurugram travel advisory",
-                "delhi-jaipur highway closure",
-                "haryana traffic update",
-                "july traffic disruption",
-                "kanwar yatra",
-                "cyber city traffic"
-            ],
-            "creator": [
-                "Sanjay  Gulati"
-            ],
-            "description": "गुरुग्राम में कांवड़ यात्रा के कारण दिल्ली-जयपुर हाईवे पर भारी वाहनों का प्रवेश बंद होने से शहर की सड़कों पर ट्रैफिक का दबाव बढ़ गया है। 21 से 23 जुलाई तक यह प्रतिबंध जारी है जिसके चलते एमजी रोड समेत कई मार्गों पर सोमवार शाम को वाहनों की लंबी कतारें देखी गईं और यातायात धीमा रहा। पुलिस व्यवस्था बनाए रखने में जुटी है।",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-07-21 16:30:42",
-            "pubDateTZ": "UTC",
-            "image_url": "https://www.jagranimages.com/images/newimg/21072025/21_07_2025-vehicles_23990649_m.webp",
-            "video_url": null,
-            "source_id": "jagran",
-            "source_name": "Jagran",
-            "source_priority": 6734,
-            "source_url": "https://www.jagran.com",
-            "source_icon": "https://n.bytvi.com/jagran.jpg",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "domestic"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-            "ai_content": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "263c75567ce8551c7631ba4ce482d933",
-            "title": "झांसी के हवेली रेस्टोरेंट का किचन बजबजा रहा था:खराब हो चुकी थीं खाने की चीजें, फ़ूड सेफ्टी टीम की छापेमारी में खुला ग्राहकों की सेहत से खिलवाड़ा का राज",
-            "link": "https://www.bhaskar.com/local/uttar-pradesh/jhansi/news/the-kitchen-of-jhansis-haveli-restaurant-was-buzzing-135498819.html",
-            "keywords": [
-                "jhansi ssp",
-                "food sefty officer",
-                "jhansi dm",
-                "jhansi news",
-                "jhansi food sefty department"
-            ],
-            "creator": [
-                "दैनिक भास्कर"
-            ],
-            "description": "झांसी में खाद्य सुरक्षा एवं औषधि प्रशासन विभाग की टीम ने हवेली रेस्टोरेंट की जांच की तो वहां गंदगी का अंबार मिला।ग्राहकों को परोसी जाने वाली खाद्य सामग्री भी खराब हो चुकी थी। इस पर विभाग ने संचालक को नोटिस जारी किया है। डीएम मृदुल चौधरी के निर्देश के बाद ये कार्रवाई की गई है। जिलाधिकारी मृदुल चौधरी ने खाद्य सुरक्षा एवं औषधि प्रशासन की टीम को निर्देश जारी करते हुए कहा है कि बारिश और त्योहारों के सीजन में खाद्य पदार्थों की गुणवत्ता और हाइजीन प्रभावित होती है। ऐसे में ये सुनिश्चित किया जाना चाहिए कि जिले की दुकानों और सड़क पर लगने वाले ठेले-खोमचे पर खराब सामग्री ग्राहकों को कतई नहीं परोसी जाए। इसके लिए जन जागरूकता और जांच अभियान चलाएं। यदि कोई ग्राहकों को निर्धारित मानकों के अनुरूप खानपान सामग्री नहीं देता है तो उसके खिलाफ सख्त कार्रवाई करें। उन्होंने कहा कि खाद्य पदार्थों की गुणवत्ता निर्धारित करने के लिए सक्रिय होकर जांच करें। रेस्टोरेंट से लेकर सड़क किनारे लगने वाले ठेले तक सभी प्रतिष्ठानों से नमूने लिए जाएं। साथ ही उन्हें लैब भेजकर टेस्टिंग भी कराएं। यदि नमूने लैब रिपोर्ट आने के बाद फेल होते हैं तो संचालक फर्म के खिलाफ कड़ी कार्रवाई करें। इन निर्देशों के बाद खाद्य सुरक्षा एवं औषधि प्रशासन की टीम कार्रवाई जांच अभियान शुरू कर दिया है। रेस्टोरेंट के किचन में बेशुमार गंदगी मिली सहायक आयुक्त खाद्य/अभिहित अधिकारी पवन कुमार ने बताया कि जिलाधिकारी के निर्देश पर खाद्य सुरक्षा एवं औषधि प्रशासन की टीम ने सोमवार को जीवनशाह तिराहा के हवेली रेस्टोरेंट पर छापा मारा। यहां टीम को रेस्टोरेंट के किचन में बेशुमार गंदगी मिली। इस पर अधिकारियों ने नाराजगी जाहिर करते हुए उसे साफ कराया। टीम की जांच आगे बढ़ी तो यहां तैयार खाद्य सामग्री सड़ती हुई मिली, जिसे मौके पर ही फिकवाया गया। साथ ही रेस्टोरेंट संचालक फर्म को नोटिस जारी किया गया। साथ ही यहां से मिर्च पाउडर, हल्दी पाउडर, बेसन, घी, खाद्य तेल समेत अन्य सामग्री के नमूने लेकर जांच के लिए लैब भेजे गए। कांवड़ मार्ग पर भी की जांच सहायक आयुक्त खाद्य/अभिहित अधिकारी पवन कुमार ने बताया कि जांच के क्रम में ही कांवड़ मार्ग पर लगने वाली खानपान की दुकानों/ठेले पर भी खाद्य सामग्रियों जांच की गई। साथ ही उनका सत्यापन कराया गया। साथ ही उन्हें निर्देश दिए गए कि वह अपने ठिये पर साफ सफाई रखें। साथ ही फूड लाइसेंस पंजीकरण भी करा लें। उन्हें बताया गया कि वह खुद भी ऑनलाइन पंजीकरण करा सकते हैं।",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-07-21 16:30:39",
-            "pubDateTZ": "UTC",
-            "image_url": "https://images.bhaskarassets.com/thumb/1000x1000/web2images/521/2025/07/21/1000386350_1753114334.jpg",
-            "video_url": null,
-            "source_id": "bhaskar_hindi",
-            "source_name": "Bhaskar",
-            "source_priority": 34179,
-            "source_url": "https://www.bhaskar.com",
-            "source_icon": "https://n.bytvi.com/bhaskar_hindi.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top",
-                "domestic"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-            "ai_content": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "debf76e1b67987d0b2ed19cb4337fa5e",
-            "title": "उन्होंने मेरे सामने भाई को गोली मारी, मैंने भोलेनाथ को गले लगाया, अब लावारिश शवों का अंतिम संस्कार करती हूं",
-            "link": "https://navbharattimes.indiatimes.com/lifestyle/relationship/pooja-sharma-talks-about-her-brother-brutal-demise-cremating-unclaimed-bodies-and-bond-with-lord-shiva/articleshow/122819277.cms",
-            "keywords": [
-                "पूजा ने भाई के शव की राख शरीर पर लगाई",
-                "समाज सेविका पूजा शर्मा से खास मुलाकात",
-                "lord shiva devotee pooja sharma",
-                "social worker pooja sharma ki safalta ki kahani",
-                "social worker pooja sharma ki samaj seva",
-                "लावारिश शवों का अंतिम संस्कार करने वाली लड़की",
-                "पूजा शर्मा कैसे बनी शिवभक्त",
-                "social worker pooja sharma struggle",
-                "पूजा शर्मा कैसे बनी समाज सेविका",
-                "भोलेनाथ ने कैसे बदली पूजा की जिंदगी"
-            ],
-            "creator": [
-                "कमला बडोनी"
-            ],
-            "description": "वो अपने घर की सबसे छोटी बेटी है इसलिए उसका बचपन बहुत लाड़-प्यार में बीता। मम्मी-पापा उसकी हर फरमाइश पूरी करते। बड़ी बहन हर समय उसका ध्यान रखती। भाई उस पर जान छिड़कता, उसे अपने कंधों पर बैठाकर घुमाता। दिल्ली की नंद नगरी में आम परिवारों की तरह पूजा शर्मा का परिवार भी खुशहाल जिंदगी जी रहा था। लेकिन पूजा के भाई रामेश्वर शर्मा की निर्मम हत्या ने उनके परिवार को झकझोर कर रख दिया। हंसती-खेलती पूजा के चेहरे की मुस्कान छीन ली। पूजा के जीवन में फिर ऐसा बदलाव आया कि उसके मन से डर हमेशा के लिए गायब हो गया। कॉकरोच-छिपकली से डरने वाली लड़की श्मशान में लावारिस शवों का अंतिम संस्कार करने लगी। भाई की हत्या के बाद पूजा ने सेवा की राह क्यों चुनी? पूजा के जीवन का लक्ष्य क्या है? पूजा की भोलेनाथ पर अटूट आस्था क्यों है..? हमारे ऐसे कई सवालों के जवाब पूजा ने इस तरह दिए...",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-07-21 16:30:39",
-            "pubDateTZ": "UTC",
-            "image_url": "https://navbharattimes.indiatimes.com/thumb/122819277/navbharat-times-122819277.jpg?height=900&imgsize-777493=&resizemode=75&width=1600",
-            "video_url": null,
-            "source_id": "navbharattimes",
-            "source_name": "Nbt Navbharattimes",
-            "source_priority": 244,
-            "source_url": "https://navbharattimes.indiatimes.com",
-            "source_icon": "https://n.bytvi.com/navbharattimes.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "lifestyle"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-            "ai_content": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "af84f36e3607430c0a154ba93c2b0ab3",
-            "title": "India News | Mother Tongue First; Language Not an Instrument of Hatred: JNU VC Amid Marathi Row",
-            "link": "https://www.latestly.com/agency-news/india-news-mother-tongue-first-language-not-an-instrument-of-hatred-jnu-vc-amid-marathi-row-7011992.html",
-            "keywords": null,
-            "creator": [
-                "ANI"
-            ],
-            "description": "Get latest articles and stories on India at LatestLY. Amid a growing row over languages in Maharashtra, Jawaharlal Nehru University Vice Chancellor Santishree Dhulipudi Pandit on Monday said the mother tongue should be the first language one learns, while cautioning that language should not be used as an instrument of \"hatred or superiority\".",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-07-21 16:30:36",
-            "pubDateTZ": "UTC",
-            "image_url": "https://st1.latestly.com/wp-content/uploads/2025/07/ANI-20250721161812.jpg",
-            "video_url": null,
-            "source_id": "latestly",
-            "source_name": "Latestly",
-            "source_priority": 31923,
-            "source_url": "https://www.latestly.com",
-            "source_icon": "https://n.bytvi.com/latestly.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-            "ai_content": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "6d38113cc8da9f3684bec9854749d305",
-            "title": "सिरसा में किसान अपनी तैयार फसल को खुद कर रहे बर्बाद, जानें क्यों",
-            "link": "https://www.haribhoomi.com/state-local/haryana/farmers-crop-loss-rainwater-damage-narma-fields-demand-government-help-638216",
-            "keywords": [
-                "राज्य,हरियाणा समाचार,राज्य समाचार,सिरसा"
-            ],
-            "creator": [
-                "अजय गर्ग"
-            ],
-            "description": "हरियाणा के सिरसा में किसानों पर दोहरी मार पड़ी है। ऊपर से बरसात और नीचे सेमग्रस्त भूमि से निकला पानी। सात गांवों की करीब दो हजार एकड़ फसल को नुकसान पहुंचा है। किसान खुद ही अपनी फसल नष्ट कर रहे हैं।",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-07-21 16:30:35",
-            "pubDateTZ": "UTC",
-            "image_url": "https://www.haribhoomi.com/h-upload/2025/07/21/2497862-farmers.webp",
-            "video_url": null,
-            "source_id": "haribhoomi",
-            "source_name": "Haribhoomi",
-            "source_priority": 4262064,
-            "source_url": "https://www.haribhoomi.com",
-            "source_icon": "https://n.bytvi.com/haribhoomi.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-            "ai_content": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "abf598c2e0895a8add4a4f13b717089a",
-            "title": "Visa Fees Hiked: US visa has become expensive, know how much extra you will have to pay now?",
-            "link": "https://www.informalnewz.com/visa-fees-hiked-us-visa-has-become-expensive-know-how-much-extra-you-will-have-to-pay-now/",
-            "keywords": [
-                "personal finance",
-                "featured",
-                "visa fees hiked"
-            ],
-            "creator": [
-                "Shyamu Maurya"
-            ],
-            "description": "America Visa Fees Hiked: Indians wishing to get US visa have got a big shock. Because getting US visa has become more expensive. A new order is going to be implemented under One Big Beautiful Act, after which additional money will have to be paid to get US visa. America Visa Fees Hiked: Getting a [...]",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-07-21 16:30:32",
-            "pubDateTZ": "UTC",
-            "image_url": "https://www.informalnewz.com/wp-content/webp-express/webp-images/uploads/2024/01/US-Business-Visa-696x459.jpg.webp",
-            "video_url": null,
-            "source_id": "informalnewz",
-            "source_name": "Informal News",
-            "source_priority": 245798,
-            "source_url": "https://www.informalnewz.com",
-            "source_icon": "https://n.bytvi.com/informalnewz.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "business"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-            "ai_content": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "3204734f658f7b9c0b2b3b048543b613",
-            "title": "SEBI Introduces Tech-Based Common Reporting Mechanism For Compliance Report Submission",
-            "link": "https://www.ndtvprofit.com/markets/sebi-introduces-tech-based-common-reporting-mechanism-for-compliance-report-submission",
-            "keywords": [
-                "law & policy",
-                "pti",
-                "markets"
-            ],
-            "creator": [
-                "PTI"
-            ],
-            "description": "The mechanism would be implemented in a phased manner with submission of 40 compliance reports in the first phase being implemented under Samuhik Prativedan Manch.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-07-21 16:30:31",
-            "pubDateTZ": "UTC",
-            "image_url": "https://media.assettype.com/bloombergquint%2F2025-07-21%2F6o5ryqn8%2FWhatsApp%20Image%202024-08-05%20at%202.27.57%20PM.jpeg?auto=format%2Ccompress&ogImage=true&w=1200",
-            "video_url": null,
-            "source_id": "bloombergquint",
-            "source_name": "Bq Prime",
-            "source_priority": 9222807,
-            "source_url": "https://www.bloombergquint.com",
-            "source_icon": "https://n.bytvi.com/bloombergquint.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "business"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-            "ai_content": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "9fc373a8dde28d7e4c929da82d47ddfc",
-            "title": "2025 NFL preseason schedule: When, where and how to watch all 21 games",
-            "link": "https://www.hindustantimes.com/sports/us-sports/2025-nfl-preseason-schedule-when-where-and-how-to-watch-all-21-games-101753115075032.html",
-            "keywords": [
-                "latest"
-            ],
-            "creator": null,
-            "description": "The NFL has announced its preseason schedule featuring 21 games, starting August 7 with a doubleheader.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-07-21 16:30:30",
-            "pubDateTZ": "UTC",
-            "image_url": "https://www.hindustantimes.com/ht-img/img/2025/07/21/1600x900/Lions-Football-7_1753115269909_1753115280569.jpg",
-            "video_url": null,
-            "source_id": "hindustantimes",
-            "source_name": "Hindustan Times",
-            "source_priority": 933,
-            "source_url": "http://www.hindustantimes.com",
-            "source_icon": "https://n.bytvi.com/hindustantimes.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-            "ai_content": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "643a2c5a6acc1f98a9cf680962cf9028",
-            "title": "\"No One Is Above Law\" Trump Posts AI Video Of Obama's 'Arrest' Amid 2016 Election 'Fraud' Claims",
-            "link": "https://www.news18.com/videos/world/no-one-is-above-law-trump-posts-ai-video-of-obama-s-arrest-amid-2016-election-fraud-claims-9454515.html",
-            "keywords": [
-                "latest"
-            ],
-            "creator": [
-                "News18"
-            ],
-            "description": "President Donald Trump stepped up his attack on Barack Obama by posting an AI-generated video of the FBI arresting the former President in the Oval Office. The video begins with Obama saying, \"especially the President is above the law\". It then features many US politicians stating, \"no one is above the law.\" The clip then switches to an AI-generated video of Obama being handcuffed by two FBI agents in the same office he once occupied as the President. Trump can be seen sitting and smiling during the \"arrest\". The fake video ends with Obama standing inside jail, wearing the prison's orange jumpsuit. This controversial video comes days after the Trump administration accused Obama of a \"high-level election fraud\" in 2016. n18oc_world n18oc_crux",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-07-21 16:30:30",
-            "pubDateTZ": "UTC",
-            "image_url": "https://images.news18.com/ibnlive/uploads/2025/07/1753115648_fe8b32d3-db6c-4a27-9733-5d70264e940c-3x2.jpeg",
-            "video_url": null,
-            "source_id": "news18",
-            "source_name": "News 18",
-            "source_priority": 1063,
-            "source_url": "https://www.news18.com",
-            "source_icon": "https://n.bytvi.com/news18.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-            "ai_content": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "19e0b6583bf770a225e3c96512ad3954",
-            "title": "₹100 से कम कीमत वाले ये 4 शेयर बना रहे हैं निवेशकों को मालामाल!",
-            "link": "https://www.tv9hindi.com/business/these-4-smallcap-stocks-under-100-high-dividend-yield-3400360.html",
-            "keywords": [
-                "बिजनेस"
-            ],
-            "creator": [
-                "TV9 Bharatvarsh"
-            ],
-            "description": "शेयर बाजार में चार स्मॉलकैप शेयर हैं जिनकी कीमत 100 रुपये से कम और डिविडेंड यील्ड 5% से ज्यादा है. इनमें कैपिटल इन्फ्रा ट्रस्ट, पावरग्रीड इन्फ्रा, IRB InvIT Fund, और इनर्जी इन्फ्राट्रस्ट शामिल हैं. ये शेयर निवेशकों को अच्छा डिविडेंड और स्थिर रिटर्न देते हैं. हालांकि इनमें निवेश करने से पहले कंपनी की वित्तीय स्थिति और सलाहकार से सलाह लेना जरूरी है.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-07-21 16:30:29",
-            "pubDateTZ": "UTC",
-            "image_url": "https://images.tv9hindi.com/wp-content/uploads/2025/07/top-4-smallcap-stocks-under-100-with-high-dividend-yields-.jpg?w=1280",
-            "video_url": null,
-            "source_id": "tv9bharatvarsh",
-            "source_name": "Tv9 Bharatvarsh",
-            "source_priority": 40538658,
-            "source_url": "https://www.tv9hsindi.com",
-            "source_icon": "https://n.bytvi.com/tv9bharatvarsh.png",
-            "language": "hindi",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-            "ai_content": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "d28008a20a2c29923e498e0683c4e6d9",
-            "title": "Bengaluru North University shuts PG Department in Journalism",
-            "link": "https://www.deccanherald.com/india/karnataka/bengaluru-north-university-shuts-pg-department-in-journalism-3641052",
-            "keywords": [
-                "karnataka news",
-                "latest from karnataka",
-                "karnataka latest news",
-                "latest news from karnataka",
-                "karnataka news today"
-            ],
-            "creator": [
-                "Omkar Murthy"
-            ],
-            "description": "Low enrollment, rising costs cited as reasons for closure",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-07-21 16:30:28",
-            "pubDateTZ": "UTC",
-            "image_url": "https://media.assettype.com/deccanherald-training/2023-06/432d1cbb-92d8-4705-abe7-cce40d752583/DH_cover.svg",
-            "video_url": null,
-            "source_id": "deccanherald",
-            "source_name": "Deccan Herald",
-            "source_priority": 10080,
-            "source_url": "https://www.deccanherald.com",
-            "source_icon": "https://n.bytvi.com/deccanherald.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "top"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-            "ai_content": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "f3a2f617e79985ef0de0095433a993be",
-            "title": "Genshin Impact 6.0 characters leaked",
-            "link": "https://www.sportskeeda.com/esports/genshin-impact-6-0-characters-leaked",
-            "keywords": [
-                "esports & gaming"
-            ],
-            "creator": [
-                "Aishwarya Ghosh"
-            ],
-            "description": "With Genshin Impact 5.8 all set to release shortly, leaks for future patches have already started surfacing.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-07-21 16:30:27",
-            "pubDateTZ": "UTC",
-            "image_url": null,
-            "video_url": null,
-            "source_id": "sportskeeda",
-            "source_name": "Sportskeeda",
-            "source_priority": 1040,
-            "source_url": "http://sportskeeda.com",
-            "source_icon": "https://n.bytvi.com/sportskeeda.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "sports"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-            "ai_content": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "7922d8712ede36e3cbdcff45bb7fa971",
-            "title": "Kylee Watson, Kateri Poole, Dara Mabrey & others react as former Miami hooper Natalija Marshall shares cozy snaps with Aces star Jewell Loyd",
-            "link": "https://www.sportskeeda.com/college-basketball/news-kylee-watson-kateri-poole-dara-mabrey-others-react-former-miami-hooper-natalija-marshall-shares-cozy-snaps-aces-star-jewell-loyd",
-            "keywords": [
-                "college basketball"
-            ],
-            "creator": [
-                "Babatunde Kolawole"
-            ],
-            "description": "Former Miami and Notre Dame hooper Natalija Marshall shared cozy snaps with Las Vegas Aces star Jewell Loyd, drawing reactions from other basketball players.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-07-21 16:30:27",
-            "pubDateTZ": "UTC",
-            "image_url": null,
-            "video_url": null,
-            "source_id": "sportskeeda",
-            "source_name": "Sportskeeda",
-            "source_priority": 1040,
-            "source_url": "http://sportskeeda.com",
-            "source_icon": "https://n.bytvi.com/sportskeeda.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "sports"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-            "ai_content": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "bd30f34b4c989060002efbfa34fc43ef",
-            "title": "5 NASCAR teams that must deliver at Indianapolis to stay in playoff contention",
-            "link": "https://www.sportskeeda.com/nascar/5-nascar-teams-must-deliver-indianapolis-stay-playoff-contention",
-            "keywords": [
-                "nascar"
-            ],
-            "creator": [
-                "Hiten Dutta"
-            ],
-            "description": "The NASCAR Cup Series moves from Dover International Speedway to the Indianapolis Motor Speedway for its next adventure.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-07-21 16:30:27",
-            "pubDateTZ": "UTC",
-            "image_url": null,
-            "video_url": null,
-            "source_id": "sportskeeda",
-            "source_name": "Sportskeeda",
-            "source_priority": 1040,
-            "source_url": "http://sportskeeda.com",
-            "source_icon": "https://n.bytvi.com/sportskeeda.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "sports"
-            ],
-            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-            "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-            "ai_content": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-            "duplicate": false
-        },
-        {
-            "article_id": "4521759807a360efc87fbb998e0fa76a",
-            "title": "Patrick Mahomes' wife Brittany hypes up Kristin Juszczyk's fashion brand at 'Create & Cultivate' event",
-            "link": "https://www.sportskeeda.com/nfl/news-patrick-mahomes-wife-brittany-hypes-kristin-juszczyk-s-fashion-brand-create-cultivate-event",
-            "keywords": [
-                "nfl"
-            ],
-            "creator": [
-                "Ankita Yadav"
-            ],
-            "description": "Patrick Mahomes' wife, Brittany, cheered for Kristin Juszczyk on social media.",
-            "content": "ONLY AVAILABLE IN PAID PLANS",
-            "pubDate": "2025-07-21 16:30:27",
-            "pubDateTZ": "UTC",
-            "image_url": null,
-            "video_url": null,
-            "source_id": "sportskeeda",
-            "source_name": "Sportskeeda",
-            "source_priority": 1040,
-            "source_url": "http://sportskeeda.com",
-            "source_icon": "https://n.bytvi.com/sportskeeda.png",
-            "language": "english",
-            "country": [
-                "india"
-            ],
-            "category": [
-                "sports"
             ],
             "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
             "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
