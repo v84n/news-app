@@ -1,6 +1,771 @@
 {
     "articles": [
         {
+            "article_id": "580e5f95449f4de2b5cfb7843f729798",
+            "title": "I Have Too Many Ebooks. Here's How I Manage My Amazon Kindle Devices and Content",
+            "link": "https://www.pcmag.com/how-to/manage-your-amazon-kindle-devices-and-content",
+            "keywords": null,
+            "creator": [
+                "Lance Whitney"
+            ],
+            "description": "Are you juggling too many Kindle devices, ebooks, and other types of content through Amazon? Here’s how I keep my books and devices in order.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-07-31 15:47:59",
+            "pubDateTZ": "UTC",
+            "image_url": "https://i.pcmag.com/imagery/articles/02G5AjNbo1YSYBHpQ1yICow-54..v1717175870.jpg",
+            "video_url": null,
+            "source_id": "pcmag",
+            "source_name": "Pcmag",
+            "source_priority": 439,
+            "source_url": "https://www.pcmag.com",
+            "source_icon": "https://n.bytvi.com/pcmag.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+            "ai_content": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "0e5b4816a66479567fb413acb2d6dce9",
+            "title": "पुलिस ने फरार आरोपियों के घर चिपकाया इश्तेहार",
+            "link": "https://www.prabhatkhabar.com/state/jharkhand/koderma/police-pasted-posters-at-the-houses-of-absconding",
+            "keywords": [
+                "कोडरमा",
+                "jharkhand politics"
+            ],
+            "creator": [
+                "ANUJ SINGH"
+            ],
+            "description": "पुलिस ने गुरुवार को फरार अभियुक्त दशारोखुर्द निवासी संजय यादव, वीरेंद्र यादव व उसके पिता द्वारिका यादव के घर पर ढोल नगाड़ा के साथ इश्तेहार चिपकाया.The post पुलिस ने फरार आरोपियों के घर चिपकाया इश्तेहार appeared first on Prabhat Khabar.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-07-31 15:47:58",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.prabhatkhabar.com/wp-content/uploads/2025/02/koderma.jpg",
+            "video_url": null,
+            "source_id": "prabhatkhabar",
+            "source_name": "Prabhat Khabar",
+            "source_priority": 343253,
+            "source_url": "https://www.prabhatkhabar.com",
+            "source_icon": "https://n.bytvi.com/prabhatkhabar.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+            "ai_content": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "db02f4846e1748b5d74f03d7defa4854",
+            "title": "Eicher Motors Q1 net rises 9% to Rs 1,205 cr on record Royal Enfield sales",
+            "link": "https://www.business-standard.com/companies/quarterly-results/eicher-motors-q1-net-up-9-on-record-revenue-royal-enfield-sales-growth-125073101749_1.html",
+            "keywords": null,
+            "creator": null,
+            "description": "Company posts best-ever Q1 revenue at Rs 5,042 crore; VE Commercial Vehicles logs 32.6% rise in EBITDA and expands market share in trucks, buses",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-07-31 15:47:55",
+            "pubDateTZ": "UTC",
+            "image_url": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1250731/thumb-125073101749.jpg",
+            "video_url": null,
+            "source_id": "business-standard",
+            "source_name": "Business Standard",
+            "source_priority": 9158,
+            "source_url": "https://www.business-standard.com",
+            "source_icon": "https://n.bytvi.com/business-standard.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "business"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+            "ai_content": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "64514af950c588bb566377508526e84f",
+            "title": "डुप्लीकेट चाबी से पूर्व और वर्तमान कर्मचारी चुराते थे कपड़े:दुकान मालिक ने मैहर थाने में की शिकायत, सीसीटीवी फुटेज भी सौंपे",
+            "link": "https://www.bhaskar.com/local/mp/maihar/news/former-and-present-employees-used-to-steal-clothes-using-duplicate-keys-135572941.html",
+            "keywords": [
+                "डुप्लीकेट चाबी से पूर्व और वर्तमान कर्मचारी चुराते थे कपड़े"
+            ],
+            "creator": [
+                "दैनिक भास्कर"
+            ],
+            "description": "मैहर के घंटाघर चौक स्थित गोयल मार्केट में एक कपड़ा व्यापारी की दुकान से लाखों रुपए के कपड़े और नकदी चोरी होने का मामला सामने आया है। चौंकाने वाली बात यह है कि इस चोरी में दुकान के वर्तमान और पूर्व कर्मचारी ही शामिल पाए गए हैं। दुकान मालिक सिराज अहमद ने इस संबंध में मैहर थाने में शिकायत दर्ज कराई है। पुलिस के मुताबिक, चंडी देवी मंदिर के सामने 'सिराज कलेक्शन' नाम से कपड़े की दुकान चलाने वाले सिराज अहमद ने बताया कि उनकी दुकान से तीन साल से लगातार कपड़े गायब हो रहे थे, लेकिन उन्होंने इस पर ज्यादा ध्यान नहीं दिया था। 20 जुलाई को जब उन्होंने अपने गोदाम में कपड़ों की जांच की तो उन्हें कुछ कमी महसूस हुई। 20 हजार रुपए और 1 लाख के कपड़े ले गए शक होने पर सिराज ने दुकान के सीसीटीवी फुटेज खंगाले। फुटेज में साफ-साफ दिखाई दिया कि सुबह करीब 7 बजे उनका पूर्व कर्मचारी आमिर मंसूरी उर्फ छोटू और वर्तमान कर्मचारी दुर्गेश कुशवाहा उर्फ कल्लू दुकान और मार्केट के गेट की डुप्लीकेट चाबी से ताला खोलकर कपड़े और कैश काउंटर से पैसे चुरा रहे थे। जांच में पता चला कि कैश काउंटर से करीब ₹20,000 और लगभग ₹1 लाख के नए कपड़े चोरी हुए हैं। एक आरोपी गिरफ्तार, दूसरा फरार मैहर थाना प्रभारी अनिमेष द्विवेदी ने बताया कि पुलिस ने इस मामले में तत्काल कार्रवाई करते हुए आरोपी दुर्गेश कुशवाहा को गिरफ्तार कर न्यायालय में पेश किया। वहां से उसे जेल भेज दिया गया है। दूसरा मुख्य आरोपी आमिर मंसूरी अभी फरार है।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-07-31 15:47:50",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.bhaskarassets.com/thumb/1000x1000/web2images/521/2025/07/31/320480b1-2e9e-442b-a50c-ca4430c98345_1753970963115.jpg",
+            "video_url": null,
+            "source_id": "bhaskar_hindi",
+            "source_name": "Bhaskar",
+            "source_priority": 34179,
+            "source_url": "https://www.bhaskar.com",
+            "source_icon": "https://n.bytvi.com/bhaskar_hindi.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "lifestyle"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+            "ai_content": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "0f77ebc7df72e31ecdb16c07a445d17e",
+            "title": "Manipur News: मणिपुर में 3 महिलाओं और 3 बच्चों की हत्या करने का आरोपी पकड़ा, NIA ने बताया- हत्याकांड का मारस्टमाइंड",
+            "link": "https://navbharattimes.indiatimes.com/state/north-east/manipur-massacre-nia-arrests-mastermind-from-assam/articleshow/123024469.cms",
+            "keywords": [
+                "मणिपुर हिंसा अपडेट",
+                "manipur violence news today",
+                "मणिपुर हिंसा न्यूज़",
+                "मणिपुर हिंसा की ताजा खबर",
+                "manipur news",
+                "manipur violence",
+                "मणिपुर हिंसा",
+                "manipur violence news",
+                "मणिपुर न्यूज",
+                "manipur violence news hindi"
+            ],
+            "creator": [
+                "मनीष अग्रवाल"
+            ],
+            "description": "Manipur Violence News Today: मणिपुर के जिरीबाम जिले में पिछले साल यानी 2024 में तीन महिलाओं और तीन बच्चों की नृशंस हत्या करने के आरोप में राष्ट्रीय जांच एजेंसी(एनआईए) ने एक आरोपी को गिरफ्तार किया है। एनआईए ने इस आरोपी को इस सामूहिक हत्याकांड का मुख्य साजिशकर्ता बताते हुए मास्टरमाइंड बताया है।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-07-31 15:47:45",
+            "pubDateTZ": "UTC",
+            "image_url": "https://navbharattimes.indiatimes.com/thumb/123024545/manipur-violence-news-hindi-123024545.jpg?height=900&imgsize-73062=&resizemode=75&width=1600",
+            "video_url": null,
+            "source_id": "navbharattimes",
+            "source_name": "Nbt Navbharattimes",
+            "source_priority": 244,
+            "source_url": "https://navbharattimes.indiatimes.com",
+            "source_icon": "https://n.bytvi.com/navbharattimes.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+            "ai_content": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "d66e9bcc7da50178523e6d0ed5749bf8",
+            "title": "More than 20 nations advocate for the exit of Hamas from Gaza",
+            "link": "https://www.siasat.com/more-than-20-nations-advocate-for-the-exit-of-hamas-from-gaza-3252996/",
+            "keywords": [
+                "world",
+                "gaza",
+                "middle east",
+                "arab countries",
+                "hamas"
+            ],
+            "creator": [
+                "The Siasat Daily"
+            ],
+            "description": "In an unprecedented move, Arab countries like Saudi Arabia, Qatar, Egypt among other nations, have acknowledged Hamas’s disarmament and have asked for them to give up power in Gaza as well as hand over the administration to the Palestinian Authority. As part of a collective agreement during the New York Declaration on the Peaceful Settlement ...Get the latest updates in Hyderabad City News, Technology, Entertainment, Sports, Politics and Top Stories on WhatsApp & Telegram by subscribing to our channels. You can also download our app for Android and iOS.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-07-31 15:47:42",
+            "pubDateTZ": "UTC",
+            "image_url": "https://cdn.siasat.com/wp-content/uploads/2025/06/Untitled-design-2025-06-08T162551.881.jpg",
+            "video_url": null,
+            "source_id": "siasat",
+            "source_name": "Siasat.com",
+            "source_priority": 30879,
+            "source_url": "https://www.siasat.com",
+            "source_icon": "https://n.bytvi.com/siasat.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+            "ai_content": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "710a9c6154add826d00a7aa744dc5558",
+            "title": "डॉ. रवजोत सिंह ने ड्यूटी में लापरवाही करने पर जूनियर इंजीनियर और सैनेटरी इंस्पेक्टर को निलंबित करने के दिए आदेश",
+            "link": "https://hindikhabar.com/punjab-dr-ravjot-singh-ordered-suspension-of-junior-engineer-and-sanitary-inspector-for-negligence-in-duty/",
+            "keywords": [
+                "punjab"
+            ],
+            "creator": [
+                "Avinay Mishra"
+            ],
+            "description": "Punjab : मोरिंडा नगर परिषद के जूनियर इंजीनियर नरेश कुमार और सैनेटरी इंस्पेक्टर वरिंदर सिंह द्वारा ड्यूटी में लापरवाही करने और नागरिकों से मिल रही शिकायतों को गंभीरता से लेते हुए स्थानीय निकाय मंत्री डॉ. रवजोत सिंह ने दोनों कर्मचारियों को तत्काल प्रभाव से निलंबित करने के आदेश जारी किए हैं। आज सुबह मंत्री ने ...",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-07-31 15:47:41",
+            "pubDateTZ": "UTC",
+            "image_url": "https://hindikhabar.com/wp-content/uploads/2025/07/hjkhk-780x470.jpg",
+            "video_url": null,
+            "source_id": "hindikhabhar",
+            "source_name": "हिंदी खबर",
+            "source_priority": 40538598,
+            "source_url": "https://hindikhabar.com",
+            "source_icon": "https://n.bytvi.com/hindikhabhar.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+            "ai_content": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "80568c2b7b4f37915327b7210e04ebf0",
+            "title": "नर्मदापुरम में जुआ पर दबिश देने ऑटो से पहुंची पुलिस:जवानों ने चार जुआरी पकड़े, एक भागा",
+            "link": "https://www.bhaskar.com/local/mp/narmadapuram/news/police-arrived-narmadapuram-auto-raid-gambling-den-135572939.html",
+            "keywords": [
+                "police arrived in narmadapuram by auto to raid a gambling den"
+            ],
+            "creator": [
+                "दैनिक भास्कर"
+            ],
+            "description": "नर्मदापुरम शहर के एसएनजी स्कूल ग्राउंड पर गुरुवार शाम 5 बजे पुलिस ने एक जुआ फड़ पर दबिश दी। पुलिस को देखते ही एक शातिर जुआरी भगवानदास रफूचक्कर हो गया। बाकी चार को पुलिस ने घेराबंदी कर पकड़ लिया। जुआ फड़ पर कार्रवाई करने के लिए कोतवाली थाने के एएसआई संजय रघुवंशी, गजेंद्र, आनंद कुशवाह, अजमेश, पंकेश सवारी ऑटो में बैठकर पहुंची थी। चुपचाप पीछे से पुलिस टीम ने घेराबंदी की। लेकिन जुआरी भगवानदास इतना चालाक था कि पुलिस के चंगुल में नहीं आ पाया। मौके से 12200 रुपए, ताश पत्ते जब्त किए और चार जुआरियों को पकड़ा है। जिसमें आरोपी सौरभ चौहान निवासी ईदगाह फाटक, सतवन उर्फ सत्तू, बलवान सिंह सरदार दोनों निवासी सिकलीगर मोहल्ला, छोटेलाल उर्फ छोटू मेहरा निवासी एकता चौक शामिल हैं। पांचवां आरोपी भगवानदास है। पांचों के खिलाफ पुलिस ने बीएनएस एक्ट में जुआ की कार्रवाई की। पुलिस सूत्रों के मुताबिक बालागंज क्षेत्र, एसएनजी ग्राउंड पर चबूतरे पर जुआ फड़ की सूचना मिली थी। दबिश देने के लिए पुलिस टीम सरकारी वाहन के बजाय ऑटो से इसलिए पहुंची। कोतवाली टीआई कंचन सिंह ठाकुर ने बताया जुआ खेलने वालों को पुलिस आने की जानकारी न लगे, इसलिए टीम ऑटो से दबिश देने पहुंची। एसएनजी स्कूल ग्राउंड पर पांच युवक जुआ खेलते दिखे। टीम ने पीछे से घेराबंदी की। आरोपी भगवानदास मौके पर भाग निकला, उस पर जुआ के कई अपराध दर्ज है। पांच आरोपियों के खिलाफ जुआ एक्ट के तहत केस दर्ज किया है। टीआई ठाकुर ने कहा शहर में खुलेआम या गुपचुप तरह से भी जुआ-सट्टा चल रहा है तो कार्रवाई करेंगे।",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-07-31 15:47:40",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.bhaskarassets.com/thumb/1000x1000/web2images/521/2025/07/31/1001998409_1753974063.jpg",
+            "video_url": null,
+            "source_id": "bhaskar_hindi",
+            "source_name": "Bhaskar",
+            "source_priority": 34179,
+            "source_url": "https://www.bhaskar.com",
+            "source_icon": "https://n.bytvi.com/bhaskar_hindi.png",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "lifestyle"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+            "ai_content": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "9b8722097c64a69245a3bdae225f01ed",
+            "title": "Israel Evacuates Diplomatic Staff Amid Heightened Threats in UAE",
+            "link": "https://www.devdiscourse.com/article/law-order/3525412-israel-evacuates-diplomatic-staff-amid-heightened-threats-in-uae",
+            "keywords": [
+                "uae",
+                "evacuation",
+                "abraham accords",
+                "hezbollah",
+                "terrorist threats",
+                "nsc",
+                "israel",
+                "jewish community",
+                "hamas",
+                "travel warning"
+            ],
+            "creator": [
+                "Devdiscourse News Desk"
+            ],
+            "description": "Israel is taking decisive action by evacuating the majority of its diplomatic mission staff from the United Arab Emirates as reported by Israeli media late Thursday This decision follows a stricter travel warning issued by Israels National Security Council for nationals in the region",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-07-31 15:47:35",
+            "pubDateTZ": "UTC",
+            "image_url": "https://devdiscourse.blob.core.windows.net/aiimagegallery/27_07_2025_14_57_59_8712012.png",
+            "video_url": null,
+            "source_id": "devdiscourse",
+            "source_name": "Devdiscourse",
+            "source_priority": 566021,
+            "source_url": "https://www.devdiscourse.com",
+            "source_icon": "https://n.bytvi.com/devdiscourse.jpg",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+            "ai_content": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "7bd3295dfe894f949e4b766d54eef08e",
+            "title": "Tribal man in forest dept custody ends life; kin allege foul play",
+            "link": "https://www.dtnext.in/news/tamilnadu/tribal-man-in-forest-dept-custody-ends-life-kin-allege-foul-play-841816",
+            "keywords": [
+                "tamil nadu,news,headlines"
+            ],
+            "creator": [
+                "DTNEXT Bureau"
+            ],
+            "description": "The tribal man who was bound to Munnar from Udumalpet was handed over to the forest department staff, who then took him to the range office in Udumalpet for an inquiry.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-07-31 15:47:34",
+            "pubDateTZ": "UTC",
+            "image_url": "https://media.dtnext.in/imported/import/Images/Article/201601131923596846_11yearold-boy-mimics-hanging-in-TV-serial-loses-life_SECVPF.gif",
+            "video_url": null,
+            "source_id": "dtnext",
+            "source_name": "Dt Next",
+            "source_priority": 113678,
+            "source_url": "https://www.dtnext.in",
+            "source_icon": "https://n.bytvi.com/dtnext.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+            "ai_content": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "c009eff6f98ea7f7d18d244512d3636e",
+            "title": "US Treasury Secretary Bessent: Trade team 'frustrated' over negotiations with India",
+            "link": "https://www.cnbctv18.com/india/us-treasury-secretary-bessent-trade-team-frustrated-over-negotiations-with-india-19646908.htm",
+            "keywords": [
+                "latest"
+            ],
+            "creator": [
+                "Vipal Durge"
+            ],
+            "description": "In an interview with CNBC, Bessent remarked that the US President and the whole trade negotiation team has been frustrated with India. Furthermore, Bessent pointed out that \"India has also been a big buyer of Russian oil, which they then resell as refined products.\" In that context, “they have not been a great global actor”, he commented.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-07-31 15:47:34",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.cnbctv18.com/uploads/2024/11/scott-bessent-2024-11-9c8b37c836540fa29629f639d83d315a.jpg",
+            "video_url": null,
+            "source_id": "cnbctv18",
+            "source_name": "Cnbctv18",
+            "source_priority": 17950,
+            "source_url": "https://www.cnbctv18.com",
+            "source_icon": "https://n.bytvi.com/cnbctv18.jpg",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+            "ai_content": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "f73e5567e0da5b7d13a6dcad603514ad",
+            "title": "Delhi-NCR drenched as July rain tops normal levels | See pics",
+            "link": "https://www.hindustantimes.com/photos/news/delhincr-drenched-as-july-rain-tops-normal-levels-see-pics-101753965749903.html",
+            "keywords": [
+                "photos/news"
+            ],
+            "creator": [
+                "Varnika Srivastava"
+            ],
+            "description": "Delhi has logged 337.2 mm of rain since June 1, more than the usual 270.1 mm for the season, as per IMD. The monsoon reached the city in late June.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-07-31 15:47:28",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.hindustantimes.com/ht-img/img/2025/07/31/1600x900/PTI07-31-2025-000058A-0_1753965733190_1753965759900_1753967910299.jpg",
+            "video_url": null,
+            "source_id": "hindustantimes",
+            "source_name": "Hindustan Times",
+            "source_priority": 2151,
+            "source_url": "http://www.hindustantimes.com",
+            "source_icon": "https://n.bytvi.com/hindustantimes.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+            "ai_content": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "27a18a58f98100e079306ce269661edd",
+            "title": "नेटफ्लिक्स पर 1 अगस्त से 8 अगस्त के बीच आएंगे ये 5 झन्नाटेदार शो और फिल्में",
+            "link": "https://www.abplive.com/entertainment/ott/wednesday-my-oxford-year-to-beyond-the-bar-5-upcoming-shows-and-films-to-stream-on-netflix-2988553",
+            "keywords": [
+                "ओटीटी"
+            ],
+            "creator": [
+                ""
+            ],
+            "description": "नेटफ्लिक्स पर 1 अगस्त से 8 अगस्त के बीच आएंगे ये 5 झन्नाटेदार शो और फिल्में",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-07-31 15:47:25",
+            "pubDateTZ": "UTC",
+            "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2025/07/31/773bceaa4e08a4a1d1aab6f19a6cc6961753976721850920_original.png",
+            "video_url": null,
+            "source_id": "abplive",
+            "source_name": "Abp News",
+            "source_priority": 7754,
+            "source_url": "http://abplive.com",
+            "source_icon": "https://n.bytvi.com/abplive.jpg",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+            "ai_content": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "06dba365e78fe00dbce00cc931fcf5bd",
+            "title": "NIA Court Acquits All Accused in Malegaon Blast Case, Citing Lack of Evidence #brasstacks",
+            "link": "https://www.news18.com/videos/india/nia-court-acquits-all-accused-in-malegaon-blast-case-citing-lack-of-evidence-brasstacks-9476587.html",
+            "keywords": [
+                "latest"
+            ],
+            "creator": [
+                "News18"
+            ],
+            "description": "In a landmark verdict, a special NIA court acquitted all seven accused in the 2008 Malegaon blast case, citing lack of evidence and procedural lapses. The court ordered compensation for victims while highlighting major flaws in the investigation by various agencies. n18oc_indiaWatch News18 Mobile App - https://onelink.to/desc-youtube",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-07-31 15:47:21",
+            "pubDateTZ": "UTC",
+            "image_url": "https://images.news18.com/ibnlive/uploads/2025/07/1753977727_51a3f093-b395-40c3-85cb-1fb37268fa90-3x2.jpeg",
+            "video_url": null,
+            "source_id": "news18",
+            "source_name": "News 18",
+            "source_priority": 1063,
+            "source_url": "https://www.news18.com",
+            "source_icon": "https://n.bytvi.com/news18.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+            "ai_content": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "355f244bb43957d465b5fd9f6671a1a9",
+            "title": "India Vs England: Kuldeep Should've Played At Lord's And Manchester, Says Ganguly",
+            "link": "https://www.outlookindia.com/sports/cricket/india-vs-england-test-series-kuldeep-yadav-lords-manchester-sourav-ganguly-comment",
+            "keywords": [
+                "india vs england,india vs england news,india vs england test series,india vs england series,india vs england kuldeep yadav,kuldeep yadav news,kuldeep yadav latest,ind vs eng,ind vs eng 5th test,kuldeep yadav stats,sourav ganguly,sourav ganguly news,sourav ganguly latest"
+            ],
+            "creator": [
+                "PTI"
+            ],
+            "description": "Ganguly cited as example the fourth Test in Manchester where the Indian lower middle-order batters frustrated the English bowlers, playing out 143 overs to force a draw on a fifth day pitch",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-07-31 15:47:20",
+            "pubDateTZ": "UTC",
+            "image_url": "https://media.assettype.com/outlookindia/2025-06-25/w6gpzvkc/Kuldeep-Yadav-Test-cricket-file-photo.webp?ar=40%3A21&auto=format%2Ccompress&enlarge=true&mode=crop&ogImage=true&overlay=false&overlay_position=bottom&overlay_width=100&w=1200",
+            "video_url": null,
+            "source_id": "outlookindia",
+            "source_name": "Outlook",
+            "source_priority": 3475,
+            "source_url": "https://www.outlookindia.com",
+            "source_icon": "https://n.bytvi.com/outlookindia.jpg",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+            "ai_content": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "c7c9baa335323de1cb6437fc09f69a5f",
+            "title": "BJP Slams Congress over 'Hindu Terror' Narrative After Malegaon Verdict",
+            "link": "https://www.asianage.com/nation/bjp-slams-congress-over-hindu-terror-narrative-after-malegaon-verdict-1894817",
+            "keywords": [
+                "former minister sudhir mungantiwar",
+                "deputy chief minister eknath shinde",
+                "chief minister devendra fadnavis",
+                "maharashtra government."
+            ],
+            "creator": [
+                "Age Correspondent"
+            ],
+            "description": "Mumbai: Political one-upmanship has intensified in the wake of the special NIA court’s verdict acquitting all seven accused in the 2008 Malegaon bomb blast case. The BJP has accused previous...",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-07-31 15:47:19",
+            "pubDateTZ": "UTC",
+            "image_url": "https://s3.ap-southeast-1.amazonaws.com/images.asianage.com/images/aa-Cover-u58lsgkh7fokpf6emkqfbkq9m5-20240523001933.Medi.jpeg",
+            "video_url": null,
+            "source_id": "asianage",
+            "source_name": "The Asian Age",
+            "source_priority": 91829,
+            "source_url": "https://asianage.com",
+            "source_icon": "https://n.bytvi.com/asianage.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+            "ai_content": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "duplicate": true
+        },
+        {
+            "article_id": "ad86f2a73ccd7cb1c19d0b55a799d16d",
+            "title": "RIL announces AGM date, sets August 14 as record date for dividend",
+            "link": "https://economictimes.indiatimes.com/markets/stocks/news/ril-announces-agm-date-sets-august-14-as-dividend-record-date-for-dividend/articleshow/123024331.cms",
+            "keywords": null,
+            "creator": null,
+            "description": "Reliance Industries will conduct its 48th AGM on August 29, setting August 14 as the record date for FY25's final dividend of Rs 5.50 per share. Q1FY26 saw a 78% YoY surge in consolidated net profit to Rs 26,994 crore, boosted by a one-time gain from Asian Paints stake sale. Revenue from operations increased by 5.3% to Rs 2,48,660 crore.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-07-31 15:47:18",
+            "pubDateTZ": "UTC",
+            "image_url": null,
+            "video_url": null,
+            "source_id": "economictimes_indiatimes",
+            "source_name": "The Economic Times",
+            "source_priority": 231,
+            "source_url": "https://economictimes.indiatimes.com",
+            "source_icon": "https://n.bytvi.com/economictimes_indiatimes.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "business"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+            "ai_content": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "5d3f5cfe0160b671ef57357e379860e1",
+            "title": "RDPR Department takes up online counselling-based transfers of staff for the first time",
+            "link": "https://www.thehindu.com/news/national/karnataka/rdpr-department-takes-up-online-counselling-based-transfers-of-staff-for-the-first-time/article69879370.ece",
+            "keywords": [
+                "karnataka"
+            ],
+            "creator": [
+                "The Hindu Bureau"
+            ],
+            "description": "For the first time, the Rural Development and Panchayat Raj (RDPR) Department in Karnataka has taken up online counseling-based transfers to ensure transparency and efficiency.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-07-31 15:47:08",
+            "pubDateTZ": "UTC",
+            "image_url": "https://th-i.thgim.com/public/incoming/bwrm7d/article69879566.ece/alternates/FREE_1200/10258_31_5_2025_20_16_54_1_PRIYANK_KHARGE_1.JPEG",
+            "video_url": null,
+            "source_id": "thehindu",
+            "source_name": "The Hindu",
+            "source_priority": 2972,
+            "source_url": "https://www.thehindu.com",
+            "source_icon": "https://n.bytvi.com/thehindu.png",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+            "ai_content": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "8c2438c4495593f799fafc979289fda7",
+            "title": "Northeast Braces for Flash Flood Frenzy",
+            "link": "https://www.devdiscourse.com/article/science-environment/3525411-northeast-braces-for-flash-flood-frenzy",
+            "keywords": [
+                "state of emergency",
+                "northeast corridor",
+                "new york",
+                "national weather service",
+                "extreme weather",
+                "thunderstorm warnings",
+                "rainfall",
+                "new jersey",
+                "governors",
+                "flash floods"
+            ],
+            "creator": [
+                "Devdiscourse News Desk"
+            ],
+            "description": "The governors of New York and New Jersey have declared states of emergency as extreme flash floods are forecasted for the Eastern Seaboard",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-07-31 15:47:03",
+            "pubDateTZ": "UTC",
+            "image_url": "https://devdiscourse.blob.core.windows.net/aiimagegallery/02_08_2024_13_23_19_9347646.png",
+            "video_url": null,
+            "source_id": "devdiscourse",
+            "source_name": "Devdiscourse",
+            "source_priority": 566021,
+            "source_url": "https://www.devdiscourse.com",
+            "source_icon": "https://n.bytvi.com/devdiscourse.jpg",
+            "language": "english",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+            "ai_content": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "983e9c2fb4df919beac6177022e07957",
+            "title": "प्रशासन सक्रिय रहते हुए, बारिश के मौसम में आमजन को त्वरित राहत पहुंचाएं : प्रियंका गोस्वामी",
+            "link": "https://www.khaskhabar.com/local/rajasthan/kotputli-behrore-news/news-administration-should-remain-active-and-provide-immediate-relief-to-the-common-people-during-the-rainy-season-priyanka-goswami-news-hindi-1-740960-KKN.html",
+            "keywords": [
+                "kotputli,bahrod,district collector priyanka goswami,during the night chaupal\r\n,hindi news,news in hindi,breaking news in hindi,real time news, kotputli-behrore news,kotputli-behrore news in hindi, real time kotputli-behrore city news, real time news, kotputli-behrore news khas khabar, kotputli-behrore news in hindi"
+            ],
+            "creator": [
+                "khas khabar"
+            ],
+            "description": "जिला कलक्टर प्रियंका गोस्वामी ने बुधवार को नारायणपुर के ग्राम कराणा के अटल सेवा केंद्र में आयोजित रात्रि चौपाल के दौरान कहा कि मानसून के मौसम में जलभराव...",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-07-31 15:46:53",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.khaskhabar.com/s3-storage/khaskhabar/khaskhabarimages/img500/47-76-1753976813-740960-khaskhabar.jpg",
+            "video_url": null,
+            "source_id": "khaskhabar",
+            "source_name": "Khas Khabar",
+            "source_priority": 5174519,
+            "source_url": "https://www.khaskhabar.com",
+            "source_icon": "https://n.bytvi.com/khaskhabar.jpg",
+            "language": "hindi",
+            "country": [
+                "india"
+            ],
+            "category": [
+                "top"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+            "ai_content": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
             "article_id": "e3c6061871fe48de5848b1138a8bf1f2",
             "title": "अवैध शराब के साथ तस्कर गिरफ्तार:बांसवाड़ा से ले जा रहा था गुजरात, वैध दस्तावेज नहीं मिलने पर कार्रवाई",
             "link": "https://www.bhaskar.com/local/rajasthan/dungarpur/news/rajasthan-dungarpur-smuggler-arrested-with-illegal-liquor-135572111.html",
